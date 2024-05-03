@@ -1,0 +1,117 @@
+
+
+
+
+Vulcan Station has an override control that must be activated to end the lockdown at Atlas Station.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Getting to Vulcan Station
+3.2 Inside the Volcano
+3.3 Outpost Station
+3.4 Moving On
+3.5 Facility Interior
+3.6 Logs
+3.7 Enemies
+
+
+4 Mission Summary
+5 Trivia
+
+
+Acquisition[]
+Prerequisite: Overlord (assignment)
+
+This assignment is acquired after clearing out Hermes Station, and deals with Project Overlord's geothermal power station. Dr. Gavin Archer directs Shepard to three other stations on the planet containing the VI and the overrides necessary to gain access to the VI.
+
+Preparation[]
+You can select new squadmates when you begin this assignment.
+You still face synthetics in this assignment, but unlike in the other assignments of the DLC they're just regular machines, not geth. Aside from choosing the usual counters in Overload, Disruptor Ammo, or AI Hacking, consider having anti-armor capabilities as well: Incendiary Ammo, Armor-Piercing Ammo, Incinerate, etc. Stasis has some utility here as well because of its insta-kill ability against flying enemies, which can help simplify a major battle ahead.
+
+Walkthrough[]
+Getting to Vulcan Station[]
+To get to Vulcan Station, head out and make a left when you can. Follow the edge of cliff, note the aesthetically pleasing scenery to your left, and head along the rocks, but be careful not to fall off (Note: Falling off the sheer drops in this area does not result in a Critical Mission Failure, the screen only fades to black and resets you back where you're supposed to be). Keep following the cliff edge and then cross the rock bridges. When you reach the tunnel to the station, there is a station to the left. Head over and grab the Cerberus data packet there. This is one of six that are on the planet, as the Hammerhead’s VI will inform you. Collecting all six will grant you the corresponding Data Hound achievement. Head down the tunnel and you will be sent to Vulcan Station.
+Note: The Data Hound achievement does not exist in Legendary Edition, though the game still tracks your progress.
+
+Inside the Volcano[]
+
+As the Hammerhead moves through the tunnel to the station, two LOKI Mechs activate and try to stop the tank. However the Hammerhead just plows them into the rocks. As you regain control, Archer comes over the comm and advises caution at the facility, as it hasn’t been heard from since they started the experiment; also, it is a geothermal plant. You then lose communications with Archer, leaving you on your own from here on. The Hammerhead’s VI backs up what Archer says about the security drones as it confirms that the rogue VI is present in the facility.
+Head down the rock ramp and jump over the lava stream and enter the facility. Just don’t fall in. As you reach the tunnel, there are steam vents inside that are venting the steam from the facility. Make your way through them until you reach the last one, where the Hammerhead’s VI will say that they will provide sufficient power to boost the vehicle’s lift capabilities. Use the last set to get further up and then head down the rock path into the facility.
+As you head up the path watch out because there is a Cerberus Turret at the top that will open fire when you get too close. Move around and take it out, then continue. Note:  You also have the option of boldly speeding past it, which works as long as you keep moving.
+You come to a T-junction, head left to acquire some iridium (+400 iridium), then head right. As you head down the right tunnel, do not boost as you will end up in a lava pit. As you get close, the Hammerhead’s VI says that the debris that is in the lava will support the Hammerhead’s weight. However, the pieces move, so you have to pay attention and not go off the edge, or into the lava. If you have played Frogger, then this should seem very familiar. You have to be quick, as the second you land on a piece of rock, it starts sinking into the lava, so move quick and think quicker and you will make it to the other side. Note:  The lava is actually far more forgiving than you'd think it would be - you can actually survive a brief partial immersion - so don't give up even if all looks lost. 
+Once you are there, use the steam vent to get up to the plateau, and then to the bay. Exit the Hammerhead to continue.
+
+Outpost Station[]
+
+When you regain control, a computer will say that the automated controls are off line and the core systems have been compromised. Head through the door ahead, up the stairs and around the corner. Once you are in sight of a long hallway, take cover as some LOKI mechs will be present to stop you from going further. Take them down. Once they are scrap metal, head into the room they were guarding and the facility’s computer will say that valve A3 is malfunctioning and manual intervention is necessary. Access the log, and then the computer console to resolve the problem and a nearby vent will activate. The Rogue VI doesn’t like that and shows its face on the console and the nearby research log. Once you are done, return to the Hammerhead.
+Note: If you didn’t access the log before the computer, then you can’t hear the log.
+
+
+Moving On[]
+
+When you get back outside, the steam vent that you turned on is active and when combined with your thruster, will provide you with enough lift to clear the rock wall. Follow the path at the top. There is a turret along the left wall that can be bypassed by hitting the booster rockets. However, if you do, you will miss out on the iridium (+400 iridium) that is next to it. The path ends at the lava flow. More Frogger-like manoeuvering is now required: you need to cross over to the opposite bank, but downstream a little from this starting position. A lamp post can be seen that marks your destination. So think fast, move fast, and don’t fall in. Tip: It's harder to gain altitude once the Hammerhead is moving forward under booster power, so thrusting up to your maximum vertical altitude at the beginning of each jump before engaging the horizontal boosters will give you the most time to complete each jump.
+Once you reach the other side you have a few places to go. To the left is a plateau with turrets on top but the reward is some iridium (+800 iridium). Be careful on top because the two turrets can quickly make mincemeat of the Hammerhead, so retreating and charging is the best strategy here. It is also possible to activate the turrets and then retreat to the right side, up the steam vent and on the rocky and uneven ridge, and simply destroy the turrets from beyond their range of engagement with repeated missile attacks.
+Note: It is possible to collect the iridium without having to fight the turrets at all, though you have to get the timing just right. Using the lower shelf of the plateau, jump the lip and approach the turrets until they start to deploy. Then, quickly return to the lower shelf. If you can jump back up again as the turrets are still retracting, and quickly move in for the iridium, the turrets will not deploy again. You can collect the iridium, and move on.
+Opposite the plateau is a steam vent that takes you up to a rocky and uneven ridge. Move along it and find another cache of iridium (+400 iridium), and if you go to the end, a nice overview of the lava field below. Head back and go the lava river.
+This time you must travel upstream to get to your safe point, but be careful a death here will send you back to the Outpost Station. Alternatively, you can use the steam vent to reach the rocky plateau and jump across the lava river to the pipeline and run along the pipes to the Vulcan Station. When you finally get to the other end, exit the Hammerhead to continue.
+
+Facility Interior[]
+
+When you exit, head across the bay and open the door and head through the hallway. When you enter another room, the computer will say that valve D4 has malfunctioned and requires attention. Bypass the valve to shut off the steam. While the VI protests unintelligibly, the steam clears a path down, and you can access a datapad for some credits (+1125 credits). As you approach the body, the rest of the catwalk falls, but you are safe, so head back up to the main level. Shoot the explosive container at the end of the other catwalk and head up.
+When you walk up, grab the med-kit and keep climbing. When you reach the top find cover, quickly. There are LOKI mechs up here as well as Assault Drones. Take them down, but stay in cover. If you are quick enough, you can shoot an explosive container to the left of the first group of mechs to take down the three that are right in front of you. Shoot another explosive container on the upper level to destroy a few drones and the LOKI up there as well. Once all the mechs are down, head to the back of the platform and up the pipe to the top floor.
+Head into the door on your left, access the wall safe for some credits (+1500 credits) and the research log for some more info. Once you access the log, the VI will show its face again, preventing you from reaccessing the log. Head back out, turn left and head to the open door at the end of the catwalk. There is a medical station on the wall, so grab the medi-gel, and keep moving down the hall. When you reach a doorway, send your squad in first, and get into cover.
+
+
+There are some LOKI Mechs inside, a drone, and a YMIR Mech, so if you aren’t in cover, find some. You can shoot explosive containers near the drones to make short work of them, but either way, focus on them and the LOKIs first before the YMIR makes its appearance. Once it does, focus on it before it can get too close. Once all the mechs are scrap, look around for a computer near the entryway and access it for some credits (+2625 credits), then move on. Head up the stairs at the back and bypass the door at the top.
+Combat Strategy: This battle can easily be won without even stepping foot inside the room. Leave your squadmates in cover / squatting next to the medical station in the hallway. Position Shepard looking through the door into the room. Straight ahead and up high will be 2 explosive tanks. These can be shot to blow steam to the left and knock out some drones. There will not be an orange target lock for the tanks from this distance though and it requires a weapon shot to explode. (There is a second set of explosive tanks on the other side of the room but you are unable to shoot them from the doorway at this time.) Once you shoot the explosive tanks (or one of the slightly exposed LOKI mechs in cover in the room), the LOKI mechs in the room will come to life, drones will show up, and they will start towards Shepard. By taking cover down the hallway from the open doorway, it is possible to chip away at the LOKI mechs and drones that show up using weapons and powers by peeking around the open doorway. The mechs in the room will not come out into the hallway. At a certain point, the YMIR will appear at the back of the room and start towards Shepard. Sometimes the YMIR mech focuses on the area where your squadmates are in cover in the hallway and just stands there not moving ignoring Shepard. Either way, the YMIR mech stays in the room. Use the same peek out and chip away method to kill the YMIR mech. Any remaining mechs can be cleaned up after the YMIR mech falls. Don't forget to grab the credits on the computer in the room and save your game as you will be unable to save after you bypass the door at the top. 
+When you enter, you find a LOKI mech trying to destroy the override console before it notices Shepard. It puts it hands up, but the squad shoots one of its arms off. As the mech prepares to shoot back its weapon arm is shot off. The VI then withdraws control from the mech, and it aimlessly runs away. Shepard pulls the override and receives a comm from Archer, but Archer's transmission breaks up. Shepard says that they have taken care of the override at Vulcan. A renegade interrupt allows Shepard to shoot the LOKI's head off as the squad leaves - should you choose not to engage the interrupt, one of your squadmates will do it for you, which is just the same.
+
+Logs[]
+
+“Engineer’s Log: We have registered a huge spike in power consumption. My technicians traced it to the experiment underway at Atlas Station. We’re trying to raise them now.”
+
+
+
+“…received a SOS from Atlas Station. Archer has declared a project emergency! We are trying to shutdown the power generators to starve the VI, but it has already hacked our automated systems! I’m ordering my people to sabotage the plant any way they can!”
+
+
+Enemies[]
+Cerberus Turret
+LOKI Mech
+YMIR Mech
+Assault Drone
+Mission Summary[]
+Successfully issued override command from Vulcan Station.
+
+Experience: 250 (312)
+Credits: 9000
+Cerberus Funding: 3750
+Credits Found: 5250
+Resources
+Iridium: 2000
+Trivia[]
+Each of the stations on Aite (Hermes, Prometheus, Atlas, and Vulcan) are named after mythological figures. This station, Vulcan, is the only one named after a Roman figure. The others are all Greek. Vulcan's closest Greek counterpart would be Hephaestus. The words "volcano" and "volcanism" derive from Vulcan, which may be the reason for this discrepancy considering the volcanic nature of the area.
+
+Overlord Assignments Navigation
+
+
+← Previous Assignment
+
+Assignment Index
+
+Next Assignment →
+
+
+Overlord (assignment)
+
+Assignments
+
+Overlord: Prometheus Station
+
+
+
+

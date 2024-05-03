@@ -1,0 +1,268 @@
+
+
+
+Tech Mastery is a passive class power for the Engineer in Mass Effect 2 and Mass Effect 3's single-player mode. 
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Mechanic
+1.1.2 Demolisher
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Tech Mastery
+2.1.2 Rank 2: Influence & Capacity
+2.1.3 Rank 3: Influence & Damage
+2.1.4 Rank 4: Power Damage/Duration
+2.1.5 Rank 5: Squad Bonus/Damage & Capacity
+2.1.6 Rank 6: Drone Mastery/Power Mastery
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+
+
+Mass Effect 2[]
+
+Makes your creative powers faster, flashier, and more frequent.
+
+Power Ranks[]
+Rank 1 - Your engineering is more efficient, reducing the recharge time of your powers. Your mental focus increases your Paragon and Renegade scores.
+Health: +5.00%
+Power Recharge Time: -5.00%
+Paragon/Renegade: +20.00%
+Research Project Cost: -5.00%
+Rank 2  - Your engineering is more efficient, reducing the recharge time of your powers. Your mental focus increases your Paragon and Renegade scores.
+Health: +10.00%
+Power Recharge Time: -10.00%
+Paragon/Renegade: +40.00%
+Research Project Cost: -10.00%
+Rank 3  - Your engineering is more efficient, reducing the recharge time of your powers. Your mental focus increases your Paragon and Renegade scores.
+Health: +15.00%
+Power Recharge Time: -15.00%
+Paragon/Renegade: +70.00%
+Research Project Cost: -15.00%
+Rank 4
+Evolves Tech Mastery into one of the following options:
+
+Mechanic[]
+Your powers are incredibly efficient; they recharge faster and last longer. Your Paragon and Renegade scores receive their final bonus.
+Health: +20.00%
+Power Recharge Time: -20.00%
+Paragon/Renegade: +100.00%
+Power Duration: +15.00%
+Research Project Cost: -25.00%
+Demolisher[]
+Specializing in combat operations, you reduce recharge time on all powers and receive a bonus to their damage. Your Paragon and Renegade scores receive their final bonus.
+Health: +15.00%
+Power Recharge Time: -20.00%
+Paragon/Renegade: +70.00%
+Power Damage: +15.00%
+Research Project Cost: -25.00%
+Note: This evolution is called "Operative" in the list of evolution possibilities displayed when the cursor is placed over the 4th rank of Tech Mastery; "Demolisher" is the name presented when it is actually evolved.
+
+Player Notes[]
+As with all of the other class powers, it focuses mainly on increasing the character's health and providing a bonus to Paragon and Renegade points. This power also upgrades the player's power recharge time and reduces the cost of research projects.
+Availability[]
+Engineer
+Mass Effect 3[]
+
+
+Power Ranks[]
+Rank 1: Tech Mastery[]
+Be an expert tactician on and off the battlefield.
+Faster and stronger tech powers.More dexterity.More charisma.
+
+Reputation Bonus: 4%
+Power Damage Bonus: 10%
+Weight Capacity Bonus: 10
+
+
+Rank 2: Influence & Capacity[]
+Increase weight capacity bonus by 20 points.Increase reputation bonus by 4%.
+
+Reputation Bonus: 8%
+Power Damage Bonus: 10%
+Weight Capacity Bonus: 30
+
+
+Rank 3: Influence & Damage[]
+Increase power damage bonus by 10%.Increase reputation bonus by 4%.
+
+Reputation Bonus: 12%
+Power Damage Bonus: 20%
+Weight Capacity Bonus: 30
+
+
+Rank 4: Power Damage/Duration[]
+
+
+
+Power Damage
+Increase power damage bonus by 15%.
+
+Reputation Bonus: 12%
+Power Damage Bonus: 35%
+Weight Capacity Bonus: 30
+
+
+Duration
+Increase duration of all powers by 25%.Increase reputation bonus by 8%.
+
+Reputation Bonus: 20%
+Power Damage Bonus: 20%
+Weight Capacity Bonus: 30
+
+
+
+Rank 5: Squad Bonus/Damage & Capacity[]
+
+
+
+Squad Bonus
+Increase the force and damage of squadmate powers by 30%.
+
+
+
+Damage & Capacity
+Increase power damage bonus by 10%.Increase weight capacity bonus by 20 points.
+
+Reputation Bonus: 12% (Power Damage), 20% (Duration)
+Power Damage Bonus: 45% (Power Damage), 30% (Duration)
+Weight Capacity Bonus: 50
+
+
+
+Rank 6: Drone Mastery/Power Mastery[]
+
+
+
+Drone Mastery
+Increase Combat Drone and Sentry Turret's shields by 100%.Increase Combat Drone and Sentry Turret's damage by 50%.
+
+
+
+Power Mastery
+Increase power damage bonus by 25%.Increase power duration by 25%.
+
+Reputation Bonus: 12% (Power Damage), 20% (Duration)
+Power Damage Bonus: 60% (Power Damage), 45% (Duration) [Squad Bonus], 70% (Power Damage), 55% (Duration) [Damage & Capacity]
+Weight Capacity Bonus: 30 (Squad Bonus), 50 (Damage & Capacity)
+
+
+
+Player Notes[]
+The Rank 5 Squad Bonus evolution applies only to NPC squad members and not to Shepard. There is possibility for confusion, as the similarly named "Squad Bonus" evolutions of squadmates' class powers apply to the entire party including Shepard and also the owner of the power.
+Availability[]
+Single Player: Engineer
+Multiplayer: N/A
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

@@ -1,0 +1,107 @@
+
+
+
+
+
+Assembler
+
+ 
+
+
+
+
+
+
+
+Faction
+Remnant
+
+
+Weapons / Attacks
+Rifle-Type LaserEvasive Caltrop BombsBreacher "Grenades"
+
+
+Abilities
+Breacher 3D-Printing
+
+
+Health
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Central "eye"
+
+
+The Assembler is a Remnant unit. It is a common fixture in Remnant installations, and in times of attack can quickly assemble reinforcements to swarm the enemy.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Remnant Assembler
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+The Assembler prefers to remain at a distance and in cover. It can 3D-print and deploy Breachers on the spot, as well as hurl incomplete versions as volatile explosives.
+
+
+Description[]
+Remnant Assemblers were nicknamed for their ability to create smaller units known as "Breachers." Each Assembler contains a reservoir of an unknown ferrofluid similar to omni-gel, which can be used to 3D-print Breachers on the spot with alarming speed.
+Tactically, Assemblers focus on manufacturing reinforcements, moving to safe distances during combat. If approached while in its hostile mode, the Assembler can jettison the partially completed power core of a Breacher, which acts like an explosive grenade, causing massive damage to enemies and allowing the Assembler to withdraw. 
+Upon creating a Breacher, the Assembler transfers a full copy of its stored recent memory and battlefield disposition to the new Remnant, ensuring it is combat-ready almost immediately. This capability means the Assembler is constantly branching and partitioning its memory in preparation without loss of data, an interesting characteristic that may be useful in future artificial intelligence designs. 
+
+
+Capabilities[]
+Offensive
+Assemblers have a weak ranged attack but if left alone it can build Breachers or use incomplete ones as explosives.
+
+Defensive
+Assemblers have no protection and sport only low amounts of health. It may try to run away when attacked at close range.
+
+Tactics[]
+Assemblers are weak individually but find strength in numbers. Taking them out can be done while a bunch of them are grouped together, or while they're assembling Breachers, for efficiency. As such, crowd control-oriented weapons and skills see great usage against them.
+Since they spend a lot of time in cover, yanking them out should be no problem using Singularity, Pull, and the like. These have the added bonus of temporarily immobilizing them and preventing further manufacture of troops.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

@@ -1,0 +1,65 @@
+
+
+
+One of the Charlatan's representatives has been tweaking orders for their own gain. You have offered to discreetly investigate the Collective base to help uncover the imposter.
+Crux has provided you with two clues to help identify the imposter: their footprint is humanoid in shape and they should have high levels of residual sulfur on their clothes.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Scan suspects
+2.2 Speak to Lynx and Dorado
+2.3 Report back to Crux
+2.4 Find Dorado
+2.5 Defeat Dorado and her dogs
+
+
+3 Enemies
+
+
+Acquisition[]
+Prerequisite: The Collective Base
+
+The mission is acquired only if you explicitly offer to aid the investigation. Otherwise, Crux has no further means to make progress on the issue.
+Note: This mission will be shown as complete in the mission section with the search for the imposter being called off if High Noon is completed first and you side with Sloane Kelly.
+
+Walkthrough[]
+This mission, while basically just a talk and scanfest, is an opportunity to learn about the Collective Base's personnel.
+
+Scan suspects[]
+Scan the five suspects to see which of them fit the clues that Crux provided.
+Aquila - Second level of the base, in the catwalk.
+Carina - On the garden east of the base. The Unknown Fungi near her can be scanned for +10 .
+Dorado - On the cave chamber near the base entrance, due north. A Kennel near Dorado can be scanned for +10 .
+Lynx - Lowest level of the base, near a column.
+Octans - Second level of the base, inside personnel quarters. A lootable container is near him.
+The suspects are narrowed down to Lynx and Dorado.
+
+Speak to Lynx and Dorado[]
+Lynx has been operating the water filters, which could explain the level of sulfur on her clothes.
+Questioning Dorado requires more finesse. If you directly ask about her loyalty, she gets defensive. If you ask her about the sulfur springs, she claims that she was sent there.
+
+Report back to Crux[]
+Talking with Crux makes it apparent Dorado is lying.
+There are two outcomes based on your prior decision:
+Dorado questioned about the sulfur:
+If you asked Dorado if she has been to Sulfur Springs, it turns out she should have been nowhere near there. Dorado is successfully detained and the mission ends. +530 XP, +29 AVP , and +2% Kadara viability are awarded.
+Dorado questioned about her loyalty:
+If you asked Dorado about her loyalties, she's been tipped off about the investigation, and has fled. Two new objectives will be added. You will need to chase her down through the tunnels and kill her before she escapes.
+
+Find Dorado[]
+Chase Dorado back into the caves to a navpoint.
+
+Defeat Dorado and her dogs[]
+Adhi will attack as well as Dorado. Defeat them to finish the mission, though be wary of stepping into the nearby sulfur pool as it's a toxic hazard.
+Note:  Some of the local wildlife may also be present in the cave, and if you're lucky they'll kill Dorado and her dogs first before you have to do anything.
+You're awarded +29 AVP , +2% Kadara viability, and XP after killing Dorado and the adhi. This XP will be close to the +530 XP earned if you decided to have Dorado detained.
+
+Enemies[]
+Adhi (optional)
+Dorado (optional)
+
+
+

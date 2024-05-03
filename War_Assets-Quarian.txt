@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+“There won't be an Earth left to save...” — Spoilers for Mass Effect 3 follow.
+
+
+
+
+The quarians are skilled engineers with one of the largest fleets in the galaxy. Each of their vessels has been repaired, restocked, and armed for confrontation with the Reapers.
+
+Contents
+
+1 Admiral Daro'Xen
+2 Admiral Zaal'Koris
+3 Quarian Civilian Fleet
+4 Quarian Heavy Fleet
+5 Quarian Patrol Fleet
+
+
+Admiral Daro'Xen[]
+Requires: The completion of Priority: Rannoch mission. At the end, the player must choose the side of the quarians or choose the side of the geth and convince Admiral Gerrel to cease fire on the geth ships. The second will also net the player the geth war assets.
+Military Strength: 25
+
+Admiral Daro'Xen is head of quarian Special Projects--research vessels that create and improve the technology that keeps the quarian flotilla operational. Studying the geth all her life, Xen is an expert on synthetic intelligences.
+Note: Admiral Daro'Xen is currently unobtainable in Mass Effect: Legendary Edition ver. 1.03.
+
+
+Admiral Zaal'Koris[]
+Requires: The completion of Rannoch: Admiral Koris mission and convincing Admiral Koris that he be rescued instead of his crew.
+Military Strength: 25
+
+When Admiral Zaal'Koris sacrificed his vessel to save a liveship, the Civilian Fleet thought they'd lost their leader. After Commander Shepard brought Zaal'Koris back, he passionately argued that the safest action for the Civilian Fleet was to stay with the flotilla. His captains rallied and stayed. The story of Zaal'Koris's miraculous survival on geth-infested Rannoch has spread throughout the flotilla, making him a reluctant hero as he mourns the loss of his ship and crew.
+Quarian Civilian Fleet[]
+Requires: The completion of Priority: Rannoch mission. At the end, the player must choose the side of the quarians or choose the side of the geth and convince Admiral Gerrel to cease fire on the geth ships. The second will also net the player the geth war assets.
+Military Strength: 200
+
+The Civilian Fleet makes up most of the quarian flotilla. Properly coordinated, the fleet compensates for its lack of dedicated warships with its sheer numbers. Even its smallest crafts are equipped with ship-to-ship weaponry. The civilian liveships, enormous floating gardens that produce food for the quarians, have also been fitted with massive Thanix cannons to provide heavy firepower.
+UPDATED (If geth heretics were rewritten during Legion: A House Divided, and if peace was achieved or the quarians destroyed the geth during Priority: Rannoch) 
+Military Strength: -50
+Rewriting the geth heretics significantly boosted the processing power of the "true" geth. Their increased strength made their fleets both more efficient, and more lethal, in battle.
+UPDATED (If player did not rescue Admiral Zaal'Koris but kept the quarians alive)
+Military Strength: -75
+When Admiral Zaal'Koris's ship was destroyed, some Civilian Fleet captains panicked and attempted to flee the system. They were cut down by the geth before they could escape through the mass relay.
+UPDATED (If player did not complete Rannoch: Geth Fighter Squadrons but kept the quarians alive)
+Military Strength: -25
+Geth fighters attacked one of the liveships during the battle for Rannoch, significantly damaging one of the Civilian Fleet's most powerful vessels.
+UPDATED (If geth heretics were destroyed during Legion: A House Divided, and if peace was achieved or the quarians destroyed the geth during Priority: Rannoch)
+Military Strength: 50
+Deleting the geth heretics depleted geth numbers, giving the quarians an advantage when their flotilla began the assault on Rannoch. As a result, damage to the quarian fleet is not as extensive as projections estimated.
+UPDATED (If geth have been destroyed during Priority: Rannoch and Renegade answer was chosen during the third interview with Diana Allers)
+Military Strength: 5
+Commander Shepard's interview with Diana Allers assured her viewers that the quarians could be a significant source of aid and firepower during the war. This praise raised the confidence of the quarian Civilian Fleet.
+
+Quarian Heavy Fleet[]
+Requires: The completion of Priority: Rannoch mission. At the end, the player must choose the side of the quarians or choose the side of the geth and convince Admiral Gerrel to cease fire on the geth ships. The second will also net the player the geth war assets.
+Military Strength: 200
+
+Any pirates or mercenaries attempting to prey on the quarian flotilla must contend with the Heavy Fleet's cruisers, frigates, fighters, and carriers. The Heavy Fleet is led by Admiral Han'Gerrel. The admiral firmly believes in the importance of ship maintenance and regular training exercises, and actively encourages those on pilgrimage to seek out technology that will upgrade his fleet's capabilities. As a result, cutting-edge technology is often found in the best of the Heavy Fleet's vessels.
+UPDATED (if supported Admiral Raan)
+Military Strength: -10
+The fleet sustained damage to several dozen frigates that were unable to repair themselves in time to avoid destruction during the war for Rannoch.
+UPDATED (if supported Admiral Gerrel)
+Military Strength: 25
+The Patrol Fleet sacrificed several of its ships to take the brunt of the geth's attacks on the Heavy Fleet, buying the Heavy Fleet time to repair its frigates and launch a successful counterattack.
+UPDATED (If geth heretics were rewritten during Legion: A House Divided, and if peace was achieved or the quarians destroyed the geth during Priority: Rannoch)
+Military Strength: -50
+Rewriting the geth heretics significantly boosted the processing power of the "true" geth. Their increased strength made their fleets both more efficient, and more lethal, in battle.
+UPDATED (If geth heretics were destroyed during Legion: A House Divided, and if peace was achieved or the quarians destroyed the geth during Priority: Rannoch)
+Military Strength: 50
+Deleting the geth heretics depleted geth numbers, giving the quarians an advantage when their flotilla began the assault on Rannoch. As a result, damage to the quarian fleet is not as extensive as projections estimated.
+UPDATED (If geth have been destroyed during Priority: Rannoch and Paragon answer was chosen during the third interview with Diana Allers)
+Military Strength: 5
+Commander Shepard's interview with Diana Allers about the quarians portrayed them as a highly skilled war force. The confidence in their fighting ability increased the quarian Heavy Fleet's morale.
+
+Quarian Patrol Fleet[]
+Requires: The completion of Priority: Rannoch mission. At the end, the player must choose the side of the quarians or choose the side of the geth and convince Admiral Gerrel to cease fire on the geth ships. The second will also net the player the geth war assets.
+Military Strength: 200
+
+The Patrol Fleet are scouts, flying ahead of the flotilla on the lookout for mineable bodies and hostile forces. They scan space with VI-systems that pick up heat signatures or other signs of foreign vessels. As the first ships to be targeted in any conflict, some of the quarians' finest engineers monitor and repair the Patrol Fleet's shielding. The fleet's commanding officer, Admiral Shala'Raan, relies on speed and shields during combat.
+UPDATED (If geth heretics were rewritten during Legion: A House Divided, and if peace was achieved or the quarians destroyed the geth during Priority: Rannoch)
+Military Strength: -50
+Rewriting the geth heretics significantly boosted the processing power of the "true" geth. Their increased strength made their fleets both more efficient, and more lethal, in battle.
+UPDATED (If geth heretics were destroyed during Legion: A House Divided, and if peace was achieved or the quarians destroyed the geth during Priority: Rannoch)
+Military Strength: 50
+Deleting the geth heretics depleted geth numbers, giving the quarians an advantage when their flotilla began the assault on Rannoch. As a result, damage to the quarian fleet is not as extensive as projections estimated.
+
+
+
+

@@ -1,0 +1,173 @@
+
+
+
+
+
+Quarian Male Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Quarian
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Rebellion Pack
+
+
+Abilities
+Combat LeapIncendiary Omni-Blade
+
+
+Quarians have spent centuries at perpetual salvage and ship repair--the survival of their species depends on this technical expertise.
+Quarian engineers are elite support specialists with a talent for setting up ambushes and providing cover fire through the use of turrets. Their technical wizardry makes them crucial contributors on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 600 / Health: 500
+
+
+Class: Quarian Defender
+
+
+ Incinerate
+
+
+
+
+ Tactical Scan
+
+
+
+
+ Arc Grenade
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Quarian Male Engineer executes a series of up to three punches.
+Heavy Melee (Incendiary Omni-Blade) – The Quarian Male Engineer strikes with an omni-blade charged with incendiary energy.
+Grab (Omni-Blade Stab) – The Quarian Male Engineer drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Leap) – The Quarian Male Engineer jumps out of the way of incoming attacks.
+The Quarian Male Engineer can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+For a player unable to optimize their equipment choices, Quarian Male Engineers are more directly suited for dealing with shields than the female Quarian Engineer counterparts due to their Arc Grenades. As ammo equipment becomes abundant and setups can be adjusted more freely, the relation may flip, as the Male Engineer doesn't work particularly well with Disruptor Rounds, being better suited to Incendiary Rounds or Armor-Piercing Rounds.
+Cryo Rounds can be used effectively by the QME in tandem with the Freeze Combo evolution of Incinerate, though this somewhat limits this build's ability to damage armored targets on its own. When combined with a weapon that deals area damage such as the Adas Anti-Synthetic Rifle, an area-evolved Incinerate can obliterate lighter targets in groups while stunning, freezing, and severely slowing them. This level of suppression can provide valuable support in team play, while Tactical Scan makes takedowns of hard targets easier.
+Incinerate is the power to be used to deal armor damage and Arc Grenade is the power to be used to deal shield and barrier damage. Picking the evolutions of both powers that increase the damage modifiers against those defenses is very beneficial.
+The basic attack pattern of this class consists of casting Incinerate and Arc Grenade in either order in quick succession, producing a Fire Explosion or Tech Burst after dealing serious direct damage with the powers.
+The choice of the starting power usually depends on what combo will be more beneficial to produce.
+This attack can be chained into an infinite series of combos of alternating kinds, with Arc Grenade and Incinerate detonating each other and each of them setting up a new combo.
+The "Electrical Damage" rank 5 evolution of Arc Grenade increases the priming window of the grenades to 10 seconds. With a light weapon loadout, it is possible to fit up to 3 Incinerate casts into that window, detonating up to 3 combos. Not picking radius as the rank 4 evolution of Incinerate increases the viability of this tactic.
+Since grenades don't operate on a cooldown, the time needed to execute this attack (as oppposed to the time needed until it can be repeated) doesn't depend on the weight of the weapon loadout. This allows the Quarian Male Engineer to be effective even with fairly heavy weapons, such as the M-99 Saber, Cerberus Harrier or the Venom Shotgun.
+While Tactical Scan adds a huge debuff on its target, it doesn't do any damage to non-pet targets directly and doesn't prime combos. Because of this and because of the power of Incinerate, Tactical Scan as a debuff is typically only useful against heavy or problematic targets, such as Banshee or Phantom.
+When used as an awareness tool (with the "Area Scan" rank 6 evolution), Tactical Scan can be of great help to a disoriented team, revealing enemies in a large area at once.
+Incinerate has a glitchy interation with Incendiary Rounds and can greatly increase their damage.
+Grenade Capacity Gear combined with a tactical use of ammo packs will greatly increase the frequency of grenade attacks. Grenades do not operate on a cooldown, so dozens of Arc Grenades can be thrown at once.
+Putting 6 ranks into Incinerate and Arc Grenade is required to tap into the massive combo damage potential of this class. Since picking Tactical Scan evolutions at the expense of the passive power is almost always not worth it, the power split boils down to balancing Tactical Scan and Fitness. Builds with more ranks in Tactical Scan are better fit to a cautious gameplay with heavy cover use while builds with more rank in Fitness enable a more aggressive gameplay where the player is exposed to more random fire.
+Cerberus[]
+Arc Grenade is a tremendous tool when dealing with Phantoms. By triggering the power while looking away and quickly adjusting the aim before the actual throw, Phantoms can be reliably hit with grenades and won't put up their protective spheres.
+Dragoons can be very easily stunned with either Incinerate or Arc grenade.
+Collectors[]
+Arc Grenades with the electrical damage evolution and Incinerate can work wonders against the Collectors. With proper power evolutions, one can pull of 2-9 Tech Bursts in a matter of seconds, devastating barriers and weakening armor.
+Tactical Scan, followed by anti-armor powers, is a very useful combination against Praetorians and Scions. The debuff can be applied on Praetorians even with their protective spheres deployed.
+Geth[]
+Spam grenades: geth are extremely susceptible to Arc Grenades and one can take out entire armies of geth single-handedly, especially when combined with Incinerate to create Power Combos. The only real threats are as always the Geth Primes. When out of grenades, try to restock when you can, otherwise use your weapons to take out the stragglers or other enemies.
+Tactical Scan can be used to kill geth drones outright.
+Reapers[]
+Counter-intuitively, Arc Grenade followed by Incinerate will do more damage to large groups of small units than attacking in the opposite order. This is because Tech Bursts do the same health damage as Fire Explosions while having a higher radius.
+In another counter-intuitive outcome, Incinerate will do more than Arc Grenade to stop a teleporting Banshee regardless if it still has its barrier on or not.
+Tactical Scan can drastically weaken Ravagers, Brutes, and Banshees, especially if you've evolved the Tactical Scan to decrease movement speed. Tactical Scan can be used on a Banshee even while it is in its power blocking stance.
+Incinerate is highly useful for Reaper forces, since all but Marauders are either unprotected or armored.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

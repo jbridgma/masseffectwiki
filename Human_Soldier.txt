@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect 3. For the multiplayer class in Mass Effect: Andromeda, see Human Soldier (Mass Effect: Andromeda).
+
+
+
+Human Soldier
+
+
+
+
+
+							Male
+							
+						
+
+
+
+							Female
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Human
+
+
+Rarity
+Common
+
+
+Availability
+Starting character
+
+
+Abilities
+Combat RollOmni-Blade
+
+
+Humans joined the galactic community after discovering a Prothean data cache on Mars in 2148. Their devotion to understanding and adapting to modern warfare left the staid Council races stunned. Humanity's persistence and unflappable spirit has taken them further than anyone in the galaxy could have imagined.
+Alliance soldiers are renowned for their impressive fire support, flexibility, and speed. Humans have quickly integrated new technology into their combat gear and can unleash VIs, drones, and artillery on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 500
+
+
+Class: Alliance Training
+
+
+ Adrenaline Rush
+
+
+
+
+ Concussive Shot
+
+
+
+
+ Frag Grenade
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Human Soldier executes a series of up to three punches.
+Heavy Melee (Omni-Blade) – The Human Soldier produces an omni-blade to stab enemies.
+Grab (Omni-Blade Stab) – The Human Soldier drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Roll) – The Human Soldier rolls to quickly evade incoming attacks.
+The Human Soldier can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+A Human Soldier can use Adrenaline Rush to not only increase damage inflicted significantly and instantly reload their weapon, but also increase their damage resistance and even give extra shielding.
+Frag Grenades can kill groups of enemies at once, which helps overcome the Soldier's biggest weakness: being swamped by multiple enemies at once.
+A medium-heavy loadout still allows Adrenaline Rush to be used somewhat frequently, even with negative cooldown bonuses.
+Concussive Shot can lock down single enemies or even groups, if used correctly, as well as detonate Fire Explosions, Tech Bursts and Cryo Explosions.
+If you wish to take Concussive Shot, the Acolyte makes for a perfect 1-2 combo. The Acolyte will strip every single man-sized opponent's shields or barriers in a single shot on Gold, and can even take some away on Platinum, while Concussive Shot then knocks said foes onto their backs. If you have a light enough load out to pump out said power every couple of seconds, you can take out all the infantry single-handedly in an extremely quick and efficient fashion, with Adrenaline Rush and a second weapon to deal with all other armored foes.
+With a light enough loadout, a Human Soldier can use weapons with a large clip size and high capacity (such as the Geth Pulse Rifle or M-76 Revenant) together with Adrenaline Rush to maintain a constant stream of slugs down range for extended periods.
+Human Soldiers also have a nice synergy with the N7 Valiant, more apparent with upgrades to weapon damage or the Valiant itself, or use of gear. Even on Gold they can snipe basic troopers in one shot. With the ability to fire 6 shots in rapid succession using Adrenaline Rush, a Soldier can kill entire groups of enemies with even greater efficiency than Infiltrators.
+The Cerberus Harrier can be extremely deadly in the hands of a Human Soldier, especially when Adrenaline Rush is maxed out in favour of damage. However, the Harrier will burn through its already small ammo reserve in a matter of seconds, necessitating frequent trips to ammo crates. A wise strategy is to save the Harrier for hardened targets, and use a different weapon for weaker foes.
+The N7 Valkyrie combined with Adrenaline Rush allows the Human Soldier to dish out good damage especially when landing head shots.
+Cerberus[]
+Guardians need to be dealt with using either Armor-Piercing Rounds, piercing mods, or weapons with base piercing such as the M-98 Widow. Concussive Shot can also knock their shields away, giving you a moment to line up a quick headshot or burst from your weapon.
+Guardians can also be killed if a Frag Grenade is tossed into the ground so it bounces behind the Guardian.
+Consider using either a fast firing weapon when Phantoms are moving or a powerful weapon (such as a sniper rifle) for headshots when they remain in cover or are stationary.
+Atlases can be dealt with in any which way you see fit, but caution should be used since they will usually blow your shields off in just one shot, with your health next if you don't find cover quickly.
+A good tactic to deal with Atlases is to use Adrenaline Rush to auto-reload a weapon instantaneously — this allows single-shot weapons to do double the damage in a short space of time and for automatic weapons to keep up a continuous stream of fire.
+Collectors[]
+Your main strength is your gun skills. Make sure you take a sniper rifle, and a good backup weapon. An assault rifle, or the Acolyte will fill the gap nicely. And don't forget to use Adrenaline Rush as this will, as always, be your mainstay power.
+Concussive Shot is great for knocking back Abominations that close in, so that their post-mortem explosions don't damage you. Collector Troopers and Captains can also be knocked back, out of their deadly melee range, but the latter needs their barriers stripped first.
+Concussive Shot is also helpful for stripping barriers from Praetorians and any units that become possessed, especially in tandem with a source power for a Tech Burst.
+The human soldier is uniquely suited to fighting Collectors. Concussive Shot and Frag Grenade can both be specced to deal extra damage to organic enemies, and Concussive Shot deals with barriers quite handily. With Concussive Shot specced for Shatter and Shredder, protection can be removed quickly from any enemy in the faction, and rank-and-file enemies can be knocked about with impunity. (Use Cryo Ammo or bring a teammate with Cryo Blast or Snap Freeze for best results.) With Frag Grenade specced for Bleed Damage and Armor-Piercing, large groups and hardened targets can be dispatched with relative ease. If you stack enough power damage on this character, the cumulative damage multipliers and stacks of damage-over-time can make Adrenaline Rush arguably unnecessary.
+Geth[]
+Geth are a bit of a nuisance with their Geth Hunters, Rocket Troopers, and Primes constantly stunning you, but none of their units have instant-kill moves, so Soldiers can rest easy knowing they aren't going to get impaled. That being said, the stunning can really hurt your effectiveness in combat.
+Since every single enemy (Geth Troopers excluded) you encounter has a layer of shields, consider taking an anti-shield weapon such as the Reegar Carbine. The Reegar also fills the close-quarters role in case Hunters or Pyros get too close.
+Consider a sniper rifle for longer ranges, for softening the shields of enemies.
+Reapers[]
+The heightened weapon damage from Adrenaline Rush allows weapons like the M-77 Paladin, M-98 Widow, Black Widow, or other anti-armor weapons to become extremely deadly against Brutes, Ravagers and Banshees.
+Whether up close or at range, make sure you have at least one anti-armor weapon with you to combat said enemies.
+For Banshees and Marauders, consider using an assault rifle or SMG, as these are most effective against their shields/barriers.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

@@ -1,0 +1,107 @@
+
+
+
+
+
+Breacher
+
+ 
+
+
+
+
+
+
+
+Faction
+Remnant
+
+
+Weapons / Attacks
+–
+
+
+Abilities
+Grab attackSelf destruct
+
+
+Health
+Low
+
+
+Shields
+–
+
+
+Weak Points
+None
+
+
+The Breacher is a Remnant unit. Expendable drones often assembled on the spot, Breachers harass targets at close range and act as a distraction for other more hard-hitting units.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Remnant Breacher
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+Relentless flying drone that bursts forward to attack. If its clutch is not broken, it discharges a moderate burst of damage.
+
+Description[]
+Created by Assemblers, these Breachers are levitating drones that move in rapid, aggressive bursts using a powerful microthruster. Peebee claims to have named them "Breachers" after mistaking one for an Observer, and quickly realizing this new example "broke the rules". 
+Analysis of Breacher debris shows that their systems are fundamentally unstable: their power cores are improperly shielded and many of their inner workings are exposed. This suggests that they are created for short-term deployment to handle intruders who stray into Remnant territory, and in turn offers some insight into the Remnant builders' military doctrine. 
+Combined with single-minded programming that focuses on hostiles, the volatile construction of Breachers makes them extremely dangerous. If provoked, the Breacher will launch itself at an opponent and attempt to latch onto it, using exposed gears to grind through hardsuits and cause severe damage. When damaged beyond repair, a Breacher may trigger its power core to overload and self-destruct. 
+
+
+Capabilities[]
+Offensive
+Breachers home in on enemies to attack with melee swipes from two "limbs" that retract into its underside when it is on standby mode. If it "overloads" itself, it gains a speed burst to rapidly close in, where it can either fling itself at a target and self-destruct or grapple with its prey while dealing damage to itself and its target. If the latter happens, it must be manually thrown off or it explodes when its health reaches zero.
+
+Defensive
+Breachers are unarmored and unshielded.
+
+Tactics[]
+Engaging Breachers should be typically done from mid- to long-range in order to avoid being ensared by them and risk exposure to enemy fire.
+Breachers don't have defenses, but they also require some effort to destroy. Since a bunch of them are typically built at the nearly same time, crowd control biotics and tech skills can tie them up for the killing blow (or kill them en masse outright in lower difficulties).
+In multiplayer, Breachers spawned while only three enemies remain do not have to be destroyed in order to win the wave.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

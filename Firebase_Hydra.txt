@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+This article is about the multiplayer map in Mass Effect 3. For other pages titled Hydra, see Hydra (disambiguation).
+
+Firebase Hydra is a multiplayer map included in the Mass Effect 3: Resurgence Pack. It is located on Arvuna.
+
+
+Contents
+
+1 Description
+2 Locations
+
+2.1 Catwalks
+2.2 Traffic Control
+2.3 Yard
+2.4 Sluice Gate
+2.5 Operations
+2.6 Corridor
+
+
+3 Player Notes
+4 See Also
+5 References
+
+
+Description[]
+Firebase Hydra is located in an old abandoned quarian colony which humans took over when they originally settled the world of Ontarom. It has since been converted into a massive dam facility which powers the communications hub located at Firebase Dagger and the kinetic barrier which protects it. Without this critical power source, Systems Alliance communications within the entire theater would go dark.[1]
+
+Locations[]
+Catwalks[]
+Upper level catwalks. Players begin and extract near the ocean by the parked geth fighters.
+
+Connects to the Corridor (directly in three places).
+Connects to the Yard (down two different ramps).
+Connects to the Yard (down two different drop offs).
+Connects to the Sluice Gate (through a hallway).
+Connects to the Traffic Control (through a large doorway).
+There is an ammo dump located along the railing between the extraction area ramp and one of the drop offs down to the Yard.
+
+Traffic Control[]
+A small flight monitoring outpost.
+
+Connects to the Yard (down a ramp).
+Connects to the Yard (down a drop off).
+Connects to the Catwalks (through a large doorway).
+Yard[]
+The lower ground level of the dam.
+
+Connects to the Catwalks (up two different ramps).
+Connects to the Traffic Control (up a ramp).
+Connects to the Sluice Gate (up a ramp).
+There is an ammo dump located on the right side of the ramp up to the Traffic Control.
+
+Sluice Gate[]
+A raised platform near the dam.
+
+Connects to the Catwalks (through a hallway).
+Connects to the Operations (through a doorway).
+Connects to the Yard (down a ramp).
+Connects to the Yard (down a drop off).
+There is an ammo dump located along the railing opposite the ramp down to the Yard.
+
+Operations[]
+Dam control room containing geth platform pods.
+
+Connects to the Corridor (through two large doorways).
+Connects to the Sluice Gate (through a doorway).
+Corridor[]
+A long hallway in the corner of the map.
+
+Connects to the Catwalks (directly in three places).
+Connects to the Operations (through two large doorways).
+There is an ammo dump located against an inner wall towards Operations.
+
+Player Notes[]
+
+
+Grenade Resupply Location
+Bronze
+Silver
+Gold
+Platinum
+
+
+Catwalks
+4
+2
+2
+2
+
+
+Corridor
+2
+1
+1
+1
+
+
+Sluice Gate
+4
+2
+2
+2
+
+
+Yard
+4
+2
+2
+2
+
+
+Characters with access to the Sentry Turret and Geth Turret powers can dominate this map if their turrets are deployed in the Yard. This gives the turret access to any enemy crossing through the open areas of the map, as well as clear shots at two different spawn points. The Sentry Turret is especially effective when upgraded with a Rocket Launcher at Rank 6; with enough Power Damage bonuses, one rocket can wipe out almost an entire spawning of basic "Trooper-style" enemies on Bronze or Silver.
+The Control Room is an excellent location for a team to hunker down, as it has only two possible entrances, and lots of cover.
+Sniping by the ammo crate near the LZ is advisable. Enemies mainly spawn at the other end of the Yard, so the long sightlines to everywhere the enemies can go are useful. The flip-side is true for enemies to use against you, as they can and will come from all directions in front of you. Be wary of being overrun.
+Waiting in the extraction zone on this map is highly inadvisable. There is limited cover, long sightlines for enemies, and two open flanks, making this an absolute nightmare to defend, particularly on Gold or Platinum.
+From the edge of Sluice Gate drop off, it is possible to roll or dash outside the map and onto the edge of the dam.
+Dropping onto the ledge can also be achieved with certain characters' melee attacks.
+By proceeding along the ledge toward the crates on the right-hand side and then turning left in the corner, the player ends up in a spot convenient for sniping. The spot provides limited cover, though moving too far back will cause the character to drop and respawn by the LZ.
+Note: Caution should be observed in the corner by the ledge and crates, as it is possible to become stuck there permanently.
+Note: Caution should be observed walking towards the corner. If the player falls off the edge of the dam into the sluice gates on the left, the player will be stuck and unable to move, shoot weapons, use powers, shoot Cobra missles, or any other actions. The player can either wait the entire game and at best have a partial extraction or the player can leave the game early.
+See Also[]
+Alliance News Network Blogs
+Concerned batarians explain that medigel works on them, too - Alliance News Network
+References[]
+
+↑ http://blog.bioware.com/2012/04/06/mass-effect-3-resurgence-pack/
+
+
+
+
+Mass Effect 3 Multiplayer Maps
+
+
+Original Maps
+
+Firebase Dagger • Firebase Ghost • Firebase Giant • Firebase Reactor • Firebase Glacier •  Firebase White
+
+
+Resurgence Maps
+
+Firebase Hydra • Firebase Condor
+
+
+Rebellion Maps
+
+Firebase Jade • Firebase Goddess
+
+
+Earth Maps
+
+Firebase Rio • Firebase Vancouver • Firebase London
+
+
+
+
+

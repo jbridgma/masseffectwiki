@@ -1,0 +1,104 @@
+
+
+
+
+
+Isa
+
+Region
+Milky Way / Hourglass Nebula / Sowilo
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+5.4 AU
+
+
+Orbital Period
+12.6 Earth Years
+
+
+Keplerian Ratio
+0.992
+
+
+Radius
+7,219 km
+
+
+Day Length
+66.5 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+−135 °C 
+
+
+Surface Gravity
+1.5 g
+
+
+Mass
+1.907 Earth Masses
+
+
+Location: Milky Way / Hourglass Nebula / Sowilo System /  Sixth planet
+
+Prerequisite: Lair of the Shadow Broker (Mass Effect 2)
+
+Prerequisite: Priority: Thessia (Mass Effect 3)
+
+Description[]
+A rock and ice planet, Isa has a thin atmosphere of methane and ethane. Its borax deposits, largely trapped beneath the ice, were never considered valuable enough to mine since synthetic substitutes and alternative sources became widely available.
+
+Mineral Deposits[]
+Initial Scanner Result: Depleted
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+2,300
+
+
+Platinum
+
+Low
+
+1,300
+
+
+Iridium
+
+Low
+
+2,000
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

@@ -1,0 +1,108 @@
+
+
+
+
+
+Anarchist
+
+ 
+
+
+
+
+
+
+
+Faction
+Outlaws
+
+
+Weapons / Attacks
+M-23 Katana
+
+
+Abilities
+Omni GrenadeTech Armor
+
+
+Armor
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Anarchist is an Outlaw unit. They specialize in flushing targets out of cover and closing in for the kill. As a mid-tier enemy, an Anarchist or two can accompany a group of Raiders and Sharpshooters. On Firebases, they typically appear on later waves if APEX teams keep clearing previous waves.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Outlaw Anarchist
+
+
+DATA:
+Classification: Enemy
+Origin: Milky Way
+ANALYSIS:
+A heavily armored, close-range combatant who fancies inferno grenades.
+
+Description[]
+Turians running with outlaw bands have turned their mandatory military training to less noble purposes. They override the safeties on ex-military hardware to handle a higher explosive yield, resulting in deadly "inferno grenades" that leave thermite deposits on the ground after impact. The thermite can cling to armor and cause massive injuries.
+APEX's largely turian volunteer force takes a dim view of these anarchists, seeing them as not only a threat but an affront to the turian values of honor and service. Those who cannot be forced to surrender are hunted ruthlessly, though this has only driven Anarchists to ever-greater feats of military engineering.
+
+
+Capabilities[]
+Offensive
+Anarchists are armed with the M-23 Katana and can throw Omni Grenades.
+
+Defensive
+They are armored and have access to tech armor.
+
+Tactics[]
+This article or section is a stub. You can help Mass Effect Wiki by  expanding it. 
+As with other armoured enemies, fire-based attacks such as Incinerate, Flamethrower and Incendiary Ammo are effective counters
+The primary threat from Anarchists come from their inferno grenades, which they will use to flush you out of cover. Be prepared to quickly reposition, or risk taking heavy damage over time
+Anarchists will try to close the distance whenever possible, so as to more effectively employ their shotgun and grenades. Taking them out from a distance with sniper rifles and other long-range weaponry therefore is a viable tactic
+Like other armoured enemies, Anarchists are immune to most biotic effects
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

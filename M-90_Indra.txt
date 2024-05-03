@@ -1,0 +1,1011 @@
+
+
+
+The M-90 Indra is a sniper rifle in Mass Effect 3 and Mass Effect: Andromeda.
+
+Contents
+
+1 Mass Effect 3
+
+1.1 Description
+1.2 Acquisition
+1.3 Player Notes
+
+
+2 Mass Effect: Andromeda
+
+2.1 Description
+2.2 Features
+2.3 Strategies
+2.4 Stats
+2.5 Development
+
+
+3 Trivia
+4 References
+
+
+Mass Effect 3[]
+
+
+
+
+
+
+
+M-90 Indra
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Sniper Rifle
+
+
+Location
+Bonus itemFirefight Pack
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  40% 
+
+
+Capacity
+  50% 
+
+
+Fire Rate
+  50% 
+
+
+Damage
+  20% 
+
+
+Accuracy
+  70% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+25
+180
+
+
+
+
+
+
+
+Type
+Sniper Rifle
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  40% 
+
+
+Capacity
+  50% 
+
+
+Fire Rate
+  50% 
+
+
+Damage
+  20% 
+
+
+Accuracy
+  70% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+25
+180
+
+
+
+
+
+
+
+
+Description[]
+The Indra's low-powered scope leaves it most effective at medium range, but many soldiers believe this limitation is offset by the gun's rapid rate of fire.  The Indra is the first military-grade, fully automatic sniper rifle.  It has an extremely efficient heat-sink system that allows a surprisingly large number of shots to be fired before the weapon ejects its thermal clip.
+
+Acquisition[]
+Single-player
+The M-90 Indra is available on PC by obtaining a redeemable code from a promotional giveaway by Alienware.[1] An e-mail from Liara T'Soni appears if the weapon was obtained in this fashion.
+
+
+
+
+A New Sniper Rifle
+
+
+From: Liara T'Soni
+
+Shepard: A few weeks ago, I found an interesting schematic for a fully automatic sniper rifle called the Indra. The set I commissioned has been delivered to the Normandy. You can find the rifle in the weapons lockers. The Indra will do far more good in your hands than it would sitting in a warehouse.
+
+
+Liara
+
+
+
+It is also available for all platforms by downloading the Mass Effect 3: Firefight Pack.
+In Legendary Edition it is available from the Kassa Fabrication terminal in the Presidium Commons for a base amount of 10,000 credits.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The M-90 Indra is categorized as ultra-rare and requires no multiplayer expansion packs.
+
+Player Notes[]
+GeneralSingle-playerMultiplayer
+General
+The Indra is the only fully-automatic sniper rifle in the game. It plays much like an assault rifle except with a built-in scope that must be used to avoid the usual sniper rifle hip-firing damage penalty. It is very accurate and has low recoil even while scoped.
+The Indra has very low damage-per-shot for its class. This makes it nearly impossible to get one-shot kills, which is one of the key advantages of many sniper rifles. On the other hand, low damage means that the Indra can be used against any enemy without being overkill. It is also less punished by the shield-gate mechanic, especially on higher difficulties.
+The Indra does not have damage potential as high as some of the other top-tier automatic weapons like the Cerberus Harrier or the N7 Hurricane, but it weighs much less than the former and is much more stable and accurate for distance shooting than the latter.
+The Indra is very similar to the M-13 Raptor in most respects, with the same weight and roughly the same damage potential. Using one over the other generally comes down to availability or personal preference, though there are a few differences:
+The Indra's automatic fire may be more attractive to players who don't want to be constantly pulling the trigger to maximize firing rate; it also makes the weapon more usable in tandem with Marksman.
+The Indra carries more thermal clips, having the largest spare capacity of any sniper rifle at 180 rounds at base level without upgrades from outside sources.
+The Raptor fires slightly slower but deals more damage per bullet.
+The Indra can exceed the Raptor's damage rate over several reload cycles, but only when comparing the weapons at levels approaching 10.
+Although the bullet impacts may look like explosions, this weapon has no area of effect damage.
+Single-player
+Legendary Edition:  The Indra is significantly heavier than equivalent levels of the weapon in the latest patch of the original version of Mass Effect 3.
+Like the M-13 Raptor, the Indra is a very lightweight option for seeing through smoke screens with the Sniper Rifle Enhanced Scope, making it handy for any class but especially players that want to keep their power recharge times low.
+The Indra is a poor choice for squadmates as they don't take advantage of its full rate of fire.
+Multiplayer
+Combining the Turian Soldier's stability and weapon damage upgrades granted by Marksman, Turian Veteran, and Armor-Piercing Rounds allows for rapid takedowns of armored enemies such as Brutes and Ravagers at a fairly light weight.
+Mass Effect: Andromeda[]
+
+
+M-90 Indra
+
+
+
+
+
+							Default
+							
+						
+
+
+
+							Bulwark
+							
+						
+
+
+
+							Concussive
+							
+						
+
+
+
+							Siphon
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Category
+Sniper Rifles
+
+
+Rarity
+Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+48-76
+
+
+Rate of Fire
+500
+
+
+Max Clip Size
+25
+
+
+Max Ammo
+175-219
+
+
+Accuracy
+61-76
+
+
+Weight
+45-23
+
+
+
+
+
+Base Stats
+
+Damage
+110-132
+
+
+Rate of Fire
+500-550
+
+
+Max Clip Size
+25
+
+
+Max Ammo
+198-248
+
+
+Accuracy
+61-76
+
+
+Weight
+45-23
+
+
+
+Bulwark
+
+Damage Resistance (1 Ally): 15-25Damage Resistance (2 Allies): 22-37Damage Resistance (3 Allies): 30-50
+
+
+
+Concussive
+
+Area Damage: 800-1500Radius (m): 7.50
+
+
+
+Siphon
+
+% Damage Returned as Health: 3-3.75% Heal Bonus per kill: 4.5Kill Streak Duration (s): 7Max. Kill Bonus: 3
+
+
+
+
+
+
+Description[]
+An automatic sniper rifle with a rapid fire-rate and a large capacity to compensate for its limited scope. The Indra was still in an early design phase when the Andromeda Initiative acquired its schematics. Initiative engineers completed the design and manufactured a number of functional prototypes. 
+
+Features[]
+The multiplayer Indra gained improvements on damage, rate of fire, and max ammo as of the very last update. Post-launch its damage has been raised and lowered frequently until its final form shown. The large camera shake at first shot has also been eliminated.
+
+Strategies[]
+
+Stats[]
+SingleplayerMultiplayer
+Singleplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+48
+
+500
+
+25
+
+175
+
+61
+
+45
+
+
+II
+
+51
+
+500
+
+25
+
+180
+
+66
+
+43
+
+
+III
+
+54
+
+500
+
+25
+
+185
+
+66
+
+43
+
+
+IV
+
+57
+
+500
+
+25
+
+190
+
+70
+
+38
+
+
+V
+
+60
+
+500
+
+25
+
+195
+
+72
+
+35
+
+
+VI
+
+64
+
+500
+
+25
+
+199
+
+73
+
+33
+
+
+VII
+
+67
+
+500
+
+25
+
+204
+
+74
+
+30
+
+
+VIII
+
+70
+
+500
+
+25
+
+209
+
+75
+
+28
+
+
+IX
+
+73
+
+500
+
+25
+
+214
+
+76
+
+25
+
+
+X
+
+76
+
+500
+
+25
+
+219
+
+76
+
+23
+
+Multiplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+110
+
+500
+
+25
+
+198
+
+61
+
+45
+
+
+II
+
+112
+
+510
+
+25
+
+203
+
+66
+
+43
+
+
+III
+
+114
+
+510
+
+25
+
+208
+
+68
+
+40
+
+
+IV
+
+116
+
+520
+
+25
+
+213
+
+70
+
+38
+
+
+V
+
+118
+
+520
+
+25
+
+218
+
+72
+
+35
+
+
+VI
+
+120
+
+530
+
+25
+
+224
+
+73
+
+33
+
+
+VII
+
+122
+
+530
+
+25
+
+230
+
+74
+
+30
+
+
+VIII
+
+124
+
+540
+
+25
+
+236
+
+75
+
+28
+
+
+IX
+
+126
+
+540
+
+25
+
+242
+
+76
+
+25
+
+
+X
+
+132
+
+550
+
+25
+
+248
+
+76
+
+23
+
+Development[]
+
+
+Rank
+
+ Research Cost
+
+ Omni-Gel Canister
+
+ Graphite
+
+ Cadmium
+
+ Element Zero
+
+ Augmentation Slots
+
+
+I
+
+125
+
+20
+
+100
+
+50
+
+10
+
+0
+
+
+II
+
+140
+
+30
+
+110
+
+50
+
+10
+
+3
+
+
+III
+
+155
+
+30
+
+130
+
+60
+
+20
+
+3
+
+
+IV
+
+170
+
+30
+
+140
+
+70
+
+20
+
+3
+
+
+V
+
+185
+
+40
+
+160
+
+80
+
+20
+
+3
+
+
+VI
+
+200
+
+40
+
+170
+
+80
+
+20
+
+3
+
+
+VII
+
+215
+
+40
+
+180
+
+80
+
+20
+
+3
+
+
+VIII
+
+230
+
+40
+
+190
+
+90
+
+20
+
+3
+
+
+IX
+
+245
+
+50
+
+190
+
+90
+
+20
+
+3
+
+
+X
+
+260
+
+50
+
+200
+
+100
+
+20
+
+3
+
+
+Total
+
+1925
+
+370
+
+1570
+
+750
+
+180
+
+N/A
+
+Trivia[]
+Indra is the King of the gods in Hindu mythology. He is also the God of War, Storms, and Rainfall - and is associated with Vajrapani.
+The Indra's muzzle flash is bugged in ME3 - it will only appear on the first shot pulled, not any subsequent ones until the trigger is released and re-pulled.
+References[]
+
+↑ http://www.alienwarearena.com/giveaway/mass-effect-3-giveaway
+
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect 3 Downloadable Content
+
+
+
+
+Promotional
+
+AT-12 Raider • Chakram Launcher • Collector Rifle • M-55 Argus  M-90 Indra • N7 Collector's Edition Pack • N7 Warfare Gear • Reckoner Knight Armor
+
+
+Single-Player
+
+From Ashes • Extended Cut • Firefight Pack • Leviathan • Groundside Resistance Pack  Alternate Appearance Pack 1 • Omega • Citadel • Genesis 2
+
+
+Multiplayer
+
+Online Pass • Resurgence Pack • Rebellion Pack • Earth • Retaliation • Reckoning
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

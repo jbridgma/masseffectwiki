@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+Project Pyro
+
+
+
+
+Race
+Human
+
+
+Type
+Organic
+
+
+Faction
+The Project
+
+
+Armament
+M-451 Firestorm
+
+
+Abilities
+None
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Project Base
+
+
+Project Pyros are enemies encountered during the assignment Arrival.
+
+
+
+
+
+
+
+“The chances of surviving are… slim.” — Spoilers for Mass Effect 2 follow.
+
+
+
+
+Project Pyros will attack Commander Shepard throughout Project Base. They are first encountered during the Object Rho sequence of the assignment and will attack in up to five waves, along with Project Guards, Project Elites, and Project Engineers. Later, they are usually accompanied by at least one Project Guard or larger groups of Project forces.
+
+Capabilities[]
+Offensive
+Pyros will attempt to close in on Shepard's position with the M-451 Firestorm. Shepard will stagger backwards if hit by the flames which can be disastrous on higher difficulties.
+Defensive
+They possess no shields on normal difficulty but will have moderate shielding on higher ones. These shields will be slightly stronger than average Project Guard shields.
+
+Tactics[]
+Similarly to Blood Pack Pyros and Geth Destroyers these enemies can be lethal at close range, so keep them at a distance.
+They possess a large canister on their backs which will, if shot, rupture, causing them to panic and eventually explode, neutralizing the threat. This explosion can also be triggered by use of Overload, Incinerate, or the Arc Projector. Their shields must be removed first to expose the fuel tank to damage, though the shots of very accurate weapons or the Arc Projector that are powerful enough to break through the shield and simultaneously damage the health (and tank) underneath will rupture it. Disruptor Ammo on most sniper rifles is effective for this.
+Pyros are often encountered in groups of other enemies. So a good tactic is to make sure the Pyro is close to other enemies before detonating him as this will cause additional splash damage, and possibly take other enemies down with them. Or at the very least damage them and set them on fire for a few seconds.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

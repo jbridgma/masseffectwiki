@@ -1,0 +1,201 @@
+
+
+
+
+
+
+
+This article is about the Mass Effect class specialization. For the Mass Effect 2 class power evolution, see Biotic Mastery.
+
+
+Bastion is a specialization class for Adepts and Sentinels, with the alternate class options being Nemesis and Medic respectively. Bastions use biotics for defense and immobilization of even the most formidable enemies.
+
+Overview[]
+See also: Talents#Specialization Classes
+Bastions can use their talents quickly and dynamically, but are perhaps most notable for the Stasis specialization training. This allows enemies pinned by Shepard's Stasis to still take damage, and makes Stasis' crowd control abilities much more useful at a stroke. A Bastion with this specialization can even immobilize huge enemies like Thresher Maws, allowing them to be taken out at close range. Enemies affected by this enhanced Stasis can also be hit with both the damage and damage-enhancing effects of Warp. The Bastion's advanced training with Barrier is certainly powerful as well, being one of the only ways to restore shield strength while under fire; this is doubly useful for the Sentinel as it lacks the Shield Boost ability available to the other player classes.
+
+Barrier Specialization
+Increases Barrier's shield strength and duration by 25%
+Barrier will regenerate 40 shields per second
+Stasis Specialization
+Enemies affected by Stasis can still be damaged
+Talent Level Bonuses (Adept)[]
+
+Bonus: Reduces recharge time on biotic talents and increases biotic protection
+
+
+Rank
+Recharge time
+Biotic protection
+Notes
+
+
+1
+4%
+6%
+
+
+
+2
+6%
+9%
+
+
+
+3
+8%
+12%
+
+
+
+4
+10%
+15%
+
+
+
+5
+12%
+18%
+
+
+
+6
+14%
+21%
+
+
+
+7
+18%
+
+
+
+
+8
+20%
+
+
+
+
+9
+22%
+
+Barrier Specialization
+
+
+10
+24%
+
+
+
+
+11
+26%
+
+
+
+
+12
+28%
+
+Stasis Specialization
+
+Talent Level Bonuses (Sentinel)[]
+
+Bonus: Reduces recharge time on Sentinel talents and increases pistol damage and accuracy
+
+
+Rank
+Recharge time
+Pistol damage / accuracy
+Notes
+
+
+1
+3%
+2% / 4%
+Ranks 1 to 5 reduce cooldown times for both tech and biotic talents
+
+
+2
+5%
+4% / 7%
+
+
+
+3
+7%
+6% / 10%
+
+
+
+4
+8%
+8% / 13%
+
+
+
+5
+9%
+10% / 16%
+
+
+
+6
+
+
+Marksman gained
+
+
+7
+13%
+
+Rank 7 onwards reduce cooldown times for biotic talents only
+
+
+8
+15%
+
+
+
+
+9
+17%
+
+Barrier Specialization
+
+
+10
+19%
+
+
+
+
+11
+21%
+
+
+
+
+12
+28%
+23%
+Stasis Specialization
+
+
+
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+

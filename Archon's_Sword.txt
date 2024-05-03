@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+
+
+Archon's Sword
+
+ 
+
+
+
+
+
+
+
+Faction
+Kett
+
+
+Weapons / Attacks
+HeshGrenadesMelee
+
+
+Abilities
+CloakSmokescreen
+
+
+Health
+High
+
+
+Shields
+Very High
+
+
+Weak Points
+Head
+
+
+The Archon's Sword serves as the kett leader's personal enforcer. The Archon has explicit instructions to his troops that whenever she's around her orders are to be followed as if they came from himself. When Pathfinder Ryder meddles one time too many in the affairs of her superior, the Archon tasks her to hunt down the human upstart.
+During the incursion of Ryder's team into Khi Tasira, the Sword is placed in charge of all kett forces in the massive space station. She warns them about the decoy maneuvers the team pulled off to infiltrate the station, and orders the troops to incapacitate and capture the Pathfinder.
+The Sword later approaches a Remnant exploratory vessel and directs her accompanying troops to board it when Ryder activates the exploration sector tower.
+When the station's defenses go online and begin decimating kett warships, the Sword confronts Ryder in the main command hub. Despite trying to put up a fight, she fails and gets killed along with the many minions she brings with her.
+
+Description[]
+Identified in decrypted communications, the kett known as the Archon's Sword has a fearsome reputation. Her role as the Archon's enforcer takes her across the Heleus Cluster to deliver edicts and quell dissent. APEX reports that those who incur the Archon's displeasure—kett or otherwise—are pursued relentlessly by the Archon's Sword, often never sighted again.
+In combat, the Archon's Sword is said to favor cunning over brute strength, cloaking herself with the same techniques as kett Destined before striking fearlessly. Psychological profiles, though hampered by an incomplete understanding of kett psychology, suggest she is completely loyal to the Archon and his ideals.
+Her title has provoked discussion amongst Nexus scientists, as it either underlines her devotion to the Archon's cause, or it implies a ceremonial and historic role. It is possible that the Archon's Sword represents a greater tradition within kett society not yet understood.
+
+
+Capabilities[]
+Offensive
+The Archon's Sword wields a Hesh shotgun with a melee attachment that she almost always uses for ranged shooting. On occasion she may throw grenades that deal damage to a small area that lingers for a few seconds before dissipating. In close range she may hit back by swinging her shotgun, although she prefers to fire it instead.
+
+Defensive
+The Sword has strong shields and health. Whenever the shields go down, she cloaks when she's able, summons reinforcements if available, and attempts to reappear somewhere out of range. This sort of cloaking differs from regular Destined's since she completely disappears. A telltale patch of blue smoke remains, although she's not there.
+The smokescreen emanating from vents on her back allows her to conceal kett units within her vicinity.
+
+Tactics[]
+While the Sword enters the scene with numerous troops and has the power to call on more later, focusing all efforts to kill her first instead of the minions is a faster means of getting to the end of the mission. Alternatively, one can save her for last in order to take advantage of the loot drops from her minions.
+Since she rarely uses her shotgun to bludgeon enemies in melee range, going hand-to-hand against her without momentary staggering is feasible.
+She cannot be disabled with moves like Pull or Singularity although she's still primed for combo detonations if the skill does it.
+When the Sword cloaks, Ryder announces it for everyone to hear. When the Sword reappears, a look prompt helpfully appears at the center of the screen for reorienting to her new position.
+Energy Drain and other skills specifically geared for bonus damage against shields will quickly reduce her to health bar only. Tech detonations also stun her momentarily.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

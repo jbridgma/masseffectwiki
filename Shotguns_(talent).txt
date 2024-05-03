@@ -1,0 +1,92 @@
+
+
+
+
+Shotguns fire a number of pellets per shot giving them high burst damage, which can quickly eliminate enemies. As a result, they are excellent tools for overwhelming enemies when advancing through a fight. Because they are limited by their fire rate and heat capacity they are not quite as versatile as assault rifles, sometimes requiring staggering or time to cool in between shots.
+You should not be afraid of charging in with a shotgun (especially if moving into the flank of an enemy), as they can let you dispatch a few enemies even before you take cover. It can also be helpful to use cover or crowd control abilities, or block other enemies with objects, to control engagement and alleviate the issues of the slow fire rate. The multiple projectile spread is also useful against flyers and melee enemies.
+
+Contents
+
+1 Talent Ranks
+2 Carnage
+
+2.1 Carnage
+2.2 Advanced Carnage
+2.3 Master Carnage
+
+
+3 Classes
+
+
+Talent Ranks[]
+Level 1: Increases damage by 5%. Increases accuracy by 10%.
+Level 2: Increases damage by 8%. Increases accuracy by 14%.
+Level 3: Increases damage by 10%. Increases accuracy by 17%.
+Level 4: Carnage
+Level 5: Increases damage by 12%. Increases accuracy by 20%.
+Level 6: Increases damage by 14%. Increases accuracy by 22%.
+Level 7: Increases damage by 16%. Increases accuracy by 24%.
+Level 8: Advanced Carnage
+Level 9: Increases damage by 18%. Increases accuracy by 26%.
+Level 10: Increases damage by 19%. Increases accuracy by 28%.
+Level 11: Increases damage by 20%. Increases accuracy by 30%.
+Level 12: Master Carnage
+Carnage[]
+For the power in Mass Effect 3, see Carnage.
+Carnage is an unlockable talent used with shotguns to fire a concentrated fireball-like blast from the shotgun, causing it to deal massive amounts of damage to anything it strikes.
+The shot fired with Carnage has perfect accuracy, and can be used to hit targets over long distances for which shotguns are normally not ideal; however the shot has a travel time that can make it easy to miss moving targets.  Carnage is also one of the few ways weapons in Mass Effect can deal area-of-effect damage.
+Counterintuitively, Carnage does not actually shoot a shotgun round in a conventional sense, though a shotgun must be selected to use it and the projectile appears to come from the weapon. While it does use weapon damage in its calculations, the generated projectile is a standalone power in most regards: no heat is produced; any force component and on-hit properties of ammunition (such as organic/synthetic damage bonus or fire/chemical DoT) are lost; Spectre Training and 75%  Renegade bonuses are applied twice (once to weapon base damage and again to the Carnage itself).
+Several enemies, notably Geth Shock Troopers and Geth Destroyers, use Carnage at the beginning of a battle. Luckily the blast is often slow enough to dodge and takes a while to recharge.
+Note: Switching weapons, changing the equipped shotgun to a different model, or modifying any upgrades currently installed on the shotgun, will immediately cancel Carnage if it was active but not yet fired.  This applies to all similar weapon talents in Mass Effect, for both Shepard and squadmates.
+
+Carnage[]
+Fires a blast of particles inflicting weapon damage +50% to any enemy within 2 m of its impact point.
+Recharge Time: 45s.
+Accuracy Cost: 40%.
+Advanced Carnage[]
+Inflicts weapon damage +100% within 2 m of its impact point.
+Recharge Time: 45s.
+Accuracy Cost: 40%.
+Master Carnage[]
+Inflicts weapon damage +150% within 3 m of its impact point.
+Recharge Time: 45s.
+Accuracy Cost: 40%.
+Classes[]
+The following classes can use the Shotguns talent:
+
+Soldier Unlockable
+Vanguard Unlockable
+Krogan Battlemaster Unlockable
+Quarian Machinist Unlockable
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

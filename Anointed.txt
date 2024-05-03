@@ -1,0 +1,113 @@
+
+
+
+
+
+Anointed
+
+ 
+
+
+
+
+
+
+
+Faction
+Kett
+
+
+Weapons / Attacks
+SonedMelee
+
+
+Abilities
+–
+
+
+Health
+Normal
+
+
+Shields
+Normal
+
+
+Weak Points
+Head
+
+
+The Anointed is a kett unit entrusted with a hard-hitting weapon and shields.
+
+Contents
+
+1 Scanner Information
+2 Description
+
+2.1 Exaltation Discovered
+
+
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Kett Anointed
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+Biologically similar to the kett Chosen, the Anointed are armed with a heavy plasma cannon to drive enemies into cover.
+
+Description[]
+The kett soldiers known as Anointed appear to be of similar caste to the Chosen: infantry equipped with light armor. Anointed, however, wield heavy plasma cannons, making them a rallying point for other kett forces, and shield themselves with kinetic barriers against splashback. A barrage from an Anointed's plasma cannon can shred through enemy barriers and severely damage ground vehicles. 
+Communication intercepts suggest that Anointed assist in coordinating Chosen squads and act in an NCO role. It is unclear if the term "Anointed" refers to a senior rank amongst the Chosen, or if Anointed are part of a separate division within the kett infantry. 
+
+Exaltation Discovered[]
+With a new understanding of kett exaltation, it is now apparent that Anointed are exalted angara, transformed into soldiers of the kett cause. Their title may refer to foot soldiers who have been entrusted with a more crucial battlefield role by their superiors. 
+
+
+Capabilities[]
+Offensive
+The Anointed are armed with Soned Assault Rifles, which can shred shields (and health) alarmingly fast. At close range they can swing their heavy rifles at their enemies, causing significant damage.
+
+Defensive
+The Anointed are shielded, which protects them from disabling skills such as Pull or Singularity. 
+
+Tactics[]
+Remnant weapons, specifically the Sweeper and the P.A.W., can deplete an Anointed's shields. After rendering one vulnerable, resort to aggressive usage of powers, such as Pull, Throw, Singularity, Charge, Incinerate, or Cryo Beam to finish it off before its shielding regenerates.
+Effective usage of cover is a must. Once in cover, listen to the spoolup of their Soned rifles; this interval of about two-thirds of a second should give you ample time to get back down. The most effective means of mounting a counteroffensive against kett squads with Anointed is staggering the Anointed with a combo explosion by charging with Overload, then using a detonator power, utilizing the ensuing chaos for an advantage.
+One method of rendering an Anointed ineffective is to prevent it from firing in the first place: provoke it into attacking at melee range with its weaker melee attack. This has some associated risks, but ultimately ends in neutralizing the threat.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

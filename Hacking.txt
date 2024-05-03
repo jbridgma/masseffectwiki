@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+This article is about the Mass Effect talent and its unlockable ability. For the Mass Effect 2 power, see AI Hacking. For the mini-games, see Bypass.
+
+Hacking is an unlockable tech talent available to Engineers and the Quarian Machinist squadmate class. This talent grants the AI Hacking ability (see below), which makes artificial enemies go berserk and attack each other. It also causes tech proximity mines to recharge more quickly.
+
+Contents
+
+1 Talent Levels
+2 AI Hacking
+
+2.1 AI Hacking
+2.2 Advanced AI Hacking
+2.3 Master AI Hacking
+
+
+3 Classes
+
+
+
+Talent Levels[]
+Level 1: AI Hacking.
+Level 2: Lowers the recharge time of Sabotage, Overload and Damping by 6%.
+Level 3: Lowers the recharge time of Sabotage, Overload and Damping by 9%.
+Level 4: Lowers the recharge time of Sabotage, Overload and Damping by 12%.
+Level 5: Lowers the recharge time of Sabotage, Overload and Damping by 15%.
+Level 6: Lowers the recharge time of Sabotage, Overload and Damping by 18%.
+Level 7: Advanced AI Hacking.
+Level 8: Lowers the recharge time of Sabotage, Overload and Damping by 21%.
+Level 9: Lowers the recharge time of Sabotage, Overload and Damping by 24%.
+Level 10: Lowers the recharge time of Sabotage, Overload and Damping by 27%.
+Level 11: Lowers the recharge time of Sabotage, Overload and Damping by 30%.
+Level 12: Master AI Hacking
+AI Hacking[]
+ The AI Hacking ability is granted by the Hacking talent. It drives robotic enemies berserk so they will attack anything nearby, including their former allies.
+AI Hacking is an excellent bonus talent to give to non-tech characters like Soldiers, Adepts or Vanguards, because it gives you an instant combat advantage not only when facing the geth, but against any enemy using drones or turrets. The passive reduction to the recharge times of Sabotage, Overload, and Damping is also very useful for any class possessing those ablities. 
+Using AI Hacking to its best effect requires you to be aware of enemy positions and lines of sight. If there are no other enemies nearby, a Hacked enemy will still attack you if it can see you or if you're the closest target. Hacked enemies often rush straight at their targets and go for melee attacks or point-blank shots. Other enemies will attack a hacked enemy if the hacked enemy is nearby. Also note that your squadmates will not attack a Hacked enemy unless they are attacked by it or ordered to attack it.
+While high level AI Hacking can be used to turn some of the most powerful synthetic enemies in the game to your side, it's important to note that most of them have high levels of natural resistance to both tech and biotic talents which can greatly shorten the duration of the hack, especially on higher difficulty settings. Don't assume you can keep a Geth Armature on your side for the duration listed on paper or you may get a nasty surprise. Geth Primes and Geth Colossi cannot be hacked.
+
+AI Hacking[]
+Affects basic robotic enemies.
+
+Duration: 20 sec.
+Recharge time: 60 sec.
+Accuracy Cost: 80%
+Hacks Geth Troopers, Geth Rocket Troopers, Geth Hoppers and Drones
+Advanced AI Hacking[]
+Works on advanced robotic enemies.
+
+Duration: 25 sec.
+Recharge time: 50 sec.
+Accuracy Cost: 80%
+Hacks Geth Shock Troopers and Geth Destroyers
+Master AI Hacking[]
+Drives all but the toughest robotic enemies berserk.
+
+Duration: 30 sec.
+Recharge time: 40 sec.
+Accuracy Cost: 80%
+Hacks Geth Juggernauts, Geth Armatures and turrets
+Classes[]
+The following classes can use the Hacking talent:
+
+Engineer Unlockable
+Quarian Machinist Unlockable
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

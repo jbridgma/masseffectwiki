@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+This article is about Legion's class power. For the Mass Effect 3 Multiplayer class, see Geth Hunter Infiltrator.
+
+See also: Squad Members Guide (Mass Effect 2)#Legion
+Geth Infiltrator is a passive class power in Mass Effect 2.
+
+
+Augments Legion's combat skills and weapon damage; improves its power recharge time
+
+Power Ranks[]
+Rank 1 - Legion continually upgrades its combat matrices, improving its health, weapon damage, and the recharge time of its powers.
+Health: +5.00%
+Weapon Damage: +6.00%
+Power Recharge Time: -6.00%
+Rank 2 - Legion continually upgrades its combat matrices, improving its health, weapon damage, and the recharge time of its powers.
+Health: +10.00%
+Weapon Damage: +12.00%
+Power Recharge Time: -12.00%
+Rank 3 - Legion continually upgrades its combat matrices, improving its health, weapon damage, and the recharge time of its powers.
+Health: +15.00%
+Weapon Damage: +18.00%
+Power Recharge Time: -18.00%
+
+Rank 4
+Evolves Geth Infiltrator into one of the following options:
+
+Geth Assassin[]
+Legion has become an expert at disassembling organics and synthetics alike, increasing its weapon damage.
+Health: +15.00%
+Weapon Damage: +25.00%
+Power Recharge Time: -25.00%
+Geth Trooper[]
+Legion has created redundant systems for its critical functions, increasing its health.
+Health: +20.00%
+Weapon Damage: +18.00%
+Power Recharge Time: -25.00%
+Player Notes[]
+Availability[]
+Legion
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+

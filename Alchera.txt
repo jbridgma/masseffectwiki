@@ -1,0 +1,119 @@
+
+
+
+
+
+Alchera
+
+Region
+Milky Way / Omega Nebula / Amada
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+9.5 AU
+
+
+Orbital Period
+29.4 Earth Years
+
+
+Keplerian Ratio
+0.992
+
+
+Radius
+9,229 km
+
+
+Day Length
+59.2 Earth Hours
+
+
+Atm. Pressure
+0.83 atm
+
+
+Surface Temp
+−22 °C 
+
+
+Surface Gravity
+0.85 g
+
+
+Mass
+1.767 Earth Masses
+
+
+Satellites
+3
+
+
+Location: Milky Way / Omega Nebula / Amada System /  Fourth planet
+
+Prerequisite: Normandy Crash Site (Mass Effect 2)
+
+Contents
+
+1 Description
+2 Assignments
+3 Mineral Deposits
+4 Trivia
+
+
+Description[]
+Alchera's crust is composed of carbon and water ice. While low density, its large size allows it to retain a thick atmosphere of methane and ammonia. It is believed that if Alchera had acquired a bit more mass when the Amada star system formed, it would have formed the core of a second outer-system gas giant. Alchera has three moons: Uluru, Wandjina, and Baiame.
+
+Assignments[]
+Assignment: Normandy Crash Site (assignment)
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+High
+
+15,300
+
+
+Platinum
+
+Medium
+
+6,400
+
+
+Iridium
+
+Medium
+
+9,200
+
+
+Element Zero
+
+None
+
+0
+
+Trivia[]
+The planet and its moons Uluru, Wandjina, and Baiame are all named after places and concepts in the Australian Aboriginal Dreamtime mythology.
+This planet can be revisited after doing the assignment associated with it.
+
+
+

@@ -1,0 +1,67 @@
+
+
+
+
+
+Xamarri
+
+Region
+Milky Way / Hades Gamma / Cacus
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+13.03 AU
+
+
+Orbital Period
+36.1 Earth Years
+
+
+Keplerian Ratio
+1.698
+
+
+Radius
+2,236 km
+
+
+Day Length
+42.1 Earth Hours
+
+
+Atm. Pressure
+0.00 atm
+
+
+Surface Temp
+−117 °C 
+
+
+Surface Gravity
+0.19 g
+
+
+Mass
+0.023 Earth Masses
+
+
+Location: Milky Way / Hades Gamma / Cacus System /  Third planet
+
+Prerequisite: 75% Morality (Mass Effect)
+
+Description[]
+Xamarri is a small, airless, cratered terrestrial – a lifeless rock quite similar to Luna. Its frozen surface is mainly composed of silicates, though one hemisphere has several "seas" of dark basaltic rock.
+
+Properties[]
+The orbital distance here is a minimum derived from Kepler's equation, the cube root of constant 1.691 × 36.12. This constant is the solar mass 1.691 derived from the two outer planets, and assumes the orbit is not perturbed like the two inner planets. Given a slight perturbation its semi-major axis could be greater than 13.04 but if so, most likely negligibly.
+However its surface albedo as calculated from parameters, including this distance, is −1.81. Mass Effect's description offers no offset for this impossibility. Based on Faringor's description (and the system's relative youth) there may be residual radioactivity in the planet's core.
+
+
+
+

@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+
+Geth Spitfire
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Heavy Weapon
+
+
+Location
+Rannoch: Admiral Koris, Priority: Rannoch, Citadel Wards: Ambush
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  0% 
+
+
+Capacity
+  100% 
+
+
+Fire Rate
+  100% 
+
+
+Damage
+  65% 
+
+
+Accuracy
+  35% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+200 or 1000
+0
+
+
+
+
+
+
+
+Type
+Assault Rifle
+
+
+Location
+Multiplayer Store with Reckoning Pack
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  100% 
+
+
+Capacity
+  90% 
+
+
+Fire Rate
+  80% 
+
+
+Damage
+  19% 
+
+
+Accuracy
+  0% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+220
+600
+
+
+
+
+
+
+
+The Geth Spitfire is a weapon in Mass Effect 3. In single-player it is classified as a heavy weapon, and in multiplayer it is classified as an assault rifle.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 References
+
+
+Description[]
+Like the geth plasma shotgun, the Spitfire is not a true energy weapon. Instead, the minigun magnetically flings clusters of superconducting toroids. These donut-shaped projectiles are designed to shatter upon impact, arcing electricity between the fragments and flash-converting them to plasma. The gun's punishing, automatic blasts impact with the heat of a cutting torch.
+The weapon's stopping power has garnered the attention of both Alliance and quarian intelligence, who theorize that the Spitfire may have been designed to destroy other geth. Enough Spitfires have been found in the field to suggest that the weapon is out of the prototyping stage, and that a schism among synthetics may have forced them into production.
+
+Acquisition[]
+Single-player
+The Geth Spitfire can be found in two missions on Rannoch: Rannoch: Admiral Koris and Priority: Rannoch. With Mass Effect 3: Citadel installed (or if playing Legendary Edition), the Geth Spitfire is automatically obtained during the mission Citadel Wards: Ambush. Like all heavy weapons in Mass Effect 3, once its ammunition has been depleted, the weapon will be discarded. It cannot be brought to future missions.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The Geth Spitfire is categorized as ultra-rare and requires Mass Effect 3: Reckoning.[1]
+
+Player Notes[]
+GeneralSingle-playerMultiplayer 
+General
+The Geth Spitfire is a fully automatic weapon the works similarly to the Geth Plasma SMG, initially firing very slowly, but rapidly increasing in firing rate as the trigger is held down.
+Single-player
+The Geth Spitfire is found during Priority: Rannoch when you have to fight three Geth Primes at once.  It is very useful during the fight due to its extremely high damage and rate of fire.
+In addition, it can be found during Rannoch: Admiral Koris near the first AA battery.
+Geth Primes, Geth Troopers, and Geth Hunters can all be destroyed in short order with the Geth Spitfire; however, on higher difficulties sustained fire from cover can be very risky.
+The Geth Spitfire eats through its limited ammo supply quickly; however, more can  be found scattered around the room during Priority: Rannoch.
+After firing a period of time in a single burst, the Spitfire will start firing at a faster rate.
+The Geth Spitfires found on Rannoch only have 200 rounds available before they must be discarded. The single Spitfire obtained during Citadel Wards: Ambush has 1000 rounds.
+Multiplayer
+The Spitfire is the single heaviest weapon in all of multiplayer, making it the worst choice possible for maintaining recharge on power-heavy classes.
+The Spitfire has the highest sustained Damage-Per-Second (DPS) of all weapons when properly modded with gear, Weapon Mods, powers, and consumables.
+Weapon-heavy build classes, or classes that do not rely on recharge (Human Soldier, Turian Soldier, N7 Demolisher Engineer, N7 Destroyer Soldier, Geth Trooper Soldier, Geth Juggernaut Soldier, etc) should employ this weapon.
+The innate damage, fire-rate, stability, and ammo bonuses of these classes' passive class powers, coupled with Adrenaline Rush, Devastator Mode, Hunter Mode, Marksman, Proximity Mine, Tactical Scan and Armor-Piercing Rounds, creates a devastatingly effective sustained DPS weapon that will tear through multiple enemy units very quickly.
+With the Assault Rifle Magazine Upgrade, the Spitfire can fire anywhere from 308 shots to 396 rounds before requiring a reload; and can exceed 473 rounds if combined with certain power evolutions.
+With the Thermal Clip Storage gear, the Spitfire can hold anywhere from 660 shots to 780 shots before visiting an ammo dump; and can exceed 912 shots if combined with certain power evolutions.
+The Spitfire has surprisingly good stability compared to the other machine gun type assault rifles. Stability mods/consumables may prove unnecessary.
+The Spitfire will drastically reduce the movement speed of the player while equipped. Switching to a secondary weapon, or to one's Cobra missile launcher will speed the player back up.
+The Geth Juggernaut Soldier is exempt from this penalty.
+All Krogan aside from the Krogan Sentinel are also exempt.
+For all other classes, using an Adrenaline Module III almost negates the speed penalty.
+The Spitfire has an inherent 1.75 damage multiplier against Shields and Barriers.[2]
+When a geth multiplayer character uses this weapon, it inflicts more damage (only if points have been invested in the Networked AI passive power or Geth Juggernaut (power) for the Rank 6 bonus).
+The Spitfire is extremely effective when equipped on a Geth Juggernaut Soldier. The Juggernaut's weapon damage and ammo capacity bonuses, bolstered by extra geth weapon damage and combined with its relative immunity to staggering, allows the Juggernaut to lay down immense amounts of devastating suppressive fire for extended periods of time. Combined with piercing mods or other damage modifiers such as gear or consumables, a Spitfire-equipped Juggernaut can easily take down armored targets.
+References[]
+
+↑ http://blog.bioware.com/2013/02/21/mass-effect-3-citadel-reckoning-dlc-announced/
+
+↑ https://web.archive.org/web/20160318000954/forum.bioware.com/topic/277136-gameplay-data-and-mechanics/
+
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect 3 Downloadable Content
+
+
+
+
+Promotional
+
+AT-12 Raider • Chakram Launcher • Collector Rifle • M-55 Argus  M-90 Indra • N7 Collector's Edition Pack • N7 Warfare Gear • Reckoner Knight Armor
+
+
+Single-Player
+
+From Ashes • Extended Cut • Firefight Pack • Leviathan • Groundside Resistance Pack  Alternate Appearance Pack 1 • Omega • Citadel • Genesis 2
+
+
+Multiplayer
+
+Online Pass • Resurgence Pack • Rebellion Pack • Earth • Retaliation • Reckoning
+
+
+
+

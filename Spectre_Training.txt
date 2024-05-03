@@ -1,0 +1,82 @@
+
+
+
+For the Unity talent/power, see Unity.
+Spectre Training is a talent unique to Shepard which is unlocked after the Commander becomes a Spectre. The talent increases health, accuracy, and effectiveness of all attacks and powers. It also grants the Unity ability.
+
+Contents
+
+1 Talent Levels
+2 Unity
+
+2.1 Unity
+2.2 Advanced Unity
+2.3 Master Unity
+
+
+
+
+Talent Levels[]
+Increases the damage and duration of all your powers and attacks by 1%. Increases health by 5%. Increases maximum accuracy by 2%. Regenerate an extra .4% accuracy per second.
+Increases the damage and duration of all your powers and attacks by 1.5%. Increases health by 5.5%. Increases maximum accuracy by 3%. Regenerate an extra .6% accuracy per second.
+Increases the damage and duration of all your powers and attacks by 2%. Increases health by 6%. Increases maximum accuracy by 4%. Regenerate an extra .8% accuracy per second.
+Unity.
+Increases the damage and duration of all your powers and attacks by 2.5%. Increases health by 6.5%. Increases maximum accuracy by 5%. Regenerate an extra 1% accuracy per second.
+Increases the damage and duration of all your powers and attacks by 3%. Increases health by 7%. Increases maximum accuracy by 6%. Regenerate an extra 1.2% accuracy per second.
+Increases the damage and duration of all your powers and attacks by 3.5%. Increases health by 7.5%. Increases maximum accuracy by 7%. Regenerate an extra 1.4% accuracy per second.
+Advanced Unity
+Increases the damage and duration of all your powers and attacks by 4%. Increases health by 8%. Increases maximum accuracy by 8%. Regenerate an extra 1.6% accuracy per second.
+Increases the damage and duration of all your powers and attacks by 4.5%. Increases health by 8.5%. Increases maximum accuracy by 9%. Regenerate an extra 1.8% accuracy per second.
+Increases the damage and duration of all your powers and attacks by 5%. Increases health by 9%. Increases maximum accuracy by 10%. Regenerate an extra 2% accuracy per second.
+Master Unity.
+Unity[]
+
+This is one of the most important talents in the game. It is only available to Shepard after Spectre Training, and, unless you've specialised as a Medic, Unity is the only way to revive fallen squadmates mid-fight. During long battles, if Unity isn't maxed out, you may need to quickly follow it up with the Shield Boost, Barrier, Immunity, or First Aid talents to keep your squadmates from getting killed immediately again. The Adrenaline Boost ability can be used to instantly recharge Unity, a great way to circumvent its otherwise long cooldown time.
+
+Unity[]
+Restores dead squad members with 15% health and 40% shields.
+
+Recharge time: 150 sec.
+Accuracy cost: 45%
+Advanced Unity[]
+Restores dead squad members with 20% health and 60% shields.
+
+Recharge time: 120 sec.
+Accuracy cost: 45%
+Master Unity[]
+Restores dead squad members with 30% health and 100% shields.
+
+Recharge time: 90 sec.
+Accuracy cost: 45%
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

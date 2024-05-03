@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For sniper rifle weapons in Mass Effect, Mass Effect 2, Mass Effect 3, and Mass Effect: Andromeda, see Sniper Rifles.
+
+Sniper Rifles is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Improves specialist sniper training for long-range combatants. Sniper rifles deal high damage at a distance at the cost of slow firing rates and capacities.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Sniper Rifles
+
+
+
+Increases sniper rifle damage with each point invested in the Combat Skill Group.
+
++2% Sniper Rifle Damage
+
+
+2
+
+Accuracy
+
+
+
+Increases sniper rifle accuracy with each point invested in the Combat Skill Group.
+
++2% Sniper Rifle Accuracy
+
+
+3
+
+Headshots
+
+
+
+Increases headshot and other weak point damage from sniper rifles with each point invested in the Combat Skill Group.
+
++2% Sniper Rifle Headshot/Weak Point Bonus
+
+
+4
+
+Weight
+
+
+
+-
+
+-25% Sniper Rifle Weight
+
+
+4
+
+Spare Ammo
+
+
+
+-
+
++15% Sniper Rifle Spare Ammo
+
+
+5
+
+Reload
+
+
+
+-
+
++15% Sniper Rifle Reload Speed
+
+
+5
+
+Clip Size
+
+
+
+-
+
++25% Sniper Rifle Clip Size
+
+
+6
+
+Damage & Force
+
+
+
+-
+
++20% Sniper Rifle Damage
++20% Sniper Rifle Force
+
+
+
+6
+
+Killing Spree
+
+
+
+Improves rate of fire, stability, and reload time for 5 sec after killing an enemy with a sniper rifle.
+
+On-Kill Rate of Fire Boost: 30%
+On-Kill Stability Boost: 40%
+On-Kill Reload Speed Boost: 25%
+
+
+Player Notes[]
+Mechanics
+Sniper Rifles is a passive skill that is always active.
+Given the current patch (Update 1.10) state of affairs, -% reduction of a weapon's weight is somewhat limited from both items and skills. Even with -25% from this skill and supposedly another -10% and -15% from Scavenger Armor - it does not reduce weight by 50%, it makes a 50 weight point sniper rifle weigh 36, which is only 14 points reduction in weight, requiring 10 skill-points investment and armor slots wasted. Consider investing skill points in Combat Fitness and Auxiliary Systems (+25/40 Weight Capacity, not % based even when it states it is).
+Strategies
+Sniping pairs best with long range Skills, especially those that hit the enemy through cover. A Sniper Rifle Receiver Mod on a sniper rifle takes this even further with the penetration stat.
+Make sure to bring a different type of weapon, as sniper rifles make Ryder the most vulnerable.
+Using a high damage rifle like the Black Widow with the Rank 6 Damage & Force option, will allow a headshot on Insanity difficulty to kill basic enemies outright, depending on what other passives Ryder has such as the Infiltrator Profile Weapon Headshot/Weak Point Damage Bonus.
+The Rank 5 Reload upgrade does not affect the cooldown period of a weapon that uses the Vintage Heat Sink.
+Availability[]
+Single-player: Pathfinder Ryder - Starting Combat Skill
+Multiplayer: N/A
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

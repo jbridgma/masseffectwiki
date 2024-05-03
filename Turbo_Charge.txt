@@ -1,0 +1,318 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+
+
+
+
+This article is about the Turbocharge skill in Mass Effect: Andromeda. For the biotic Charge power in Mass Effect 2 and Mass Effect 3, see Charge. For the Charge skill in[Mass Effect: Andromeda, see Charge (skill).
+
+Turbocharge is a Combat skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP / MP Skill Ranks
+2 Vetra Nyx Skill Ranks
+3 Player Notes
+4 Availability
+
+
+SP / MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Turbocharge
+
+
+
+Temporarily vents weapon heat via armor to improve thermal clip efficiency and boost weapon firing rates.
+
+Duration (s): 8
+Recharge Time (s): 20
++10% Gun Damage Bonus
++20% Rate of Fire Bonus
++20% Clip Size Bonus
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++10% Recharge Speed
+
+
+3
+
+Damage
+
+
+
+-
+
++10% Gun Damage Bonus
+
+
+4
+
+Recharge Speed
+
+
+
+-
+
++20% Recharge Speed
+
+
+4
+
+Duration
+
+
+
+-
+
++50% Duration
+
+
+5
+
+Damage & Force
+
+
+
+-
+
++15% Gun Damage Bonus
++15% Gun Force Bonus
+
+
+
+5
+
+Accuracy & Stability
+
+
+
+Increases weapon stability and accuracy while Turbocharge is active.
+
++40% Gun Accuracy Bonus
++40% Gun Stability Bonus
+
+
+
+6
+
+Supercharge
+
+
+
+Increases weapon rate of fire and thermal clip size while Turbocharge is active.
+
++20% Rate of Fire Bonus
++20% Clip Size Bonus
+
+
+
+6
+
+Dump Heat
+
+
+
+Vastly increases thermal clip size while Turbocharge is active.
+
++80% Clip Size Bonus
+
+Vetra Nyx Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Turbocharge
+
+
+
+Vetra vents her weapons through her suit to improve her firing rate and power. While active, Vetra does not need to reload her weapon, and her shots can penetrate cover, albeit with less damage.
+
+Penetration Damage: 50%
+Duration (s): 8
+Recharge Time (s): 15
++10% Gun Damage Bonus
++20% Rate of Fire Bonus
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++15% Recharge Speed
+
+
+3
+
+Damage
+
+
+
+-
+
++15% Gun Damage Bonus
+
+
+4
+
+Recharge Speed
+
+
+
+-
+
++25% Recharge Speed
+
+
+4
+
+Duration
+
+
+
+-
+
++50% Duration
+
+
+5
+
+Accuracy & Stability
+
+
+
+Increases weapon stability and accuracy, and decreases the damage penalty for penetrating shots.
+
++50% Gun Accuracy Bonus
++50% Gun Stability Bonus
++25% Penetration Damage
+
+
+
+5
+
+Damage & Force
+
+
+
+-
+
++25% Gun Damage Bonus
++25% Gun Force Bonus
+
+
+
+6
+
+Supercharge†
+
+
+
+Improves heat venting to increase Vetra's rate of fire.
+
++20% Rate of Fire Bonus
+
+
+6
+
+Anti-Shield†
+
+
+
+-
+
++50% Damage vs. Shields
+
+Note: †Rank 6 is unavailable to Vetra until her loyalty mission Vetra Nyx: Means and Ends is completed.
+
+Player Notes[]
+Mechanics
+Red holographic circles arranged in a cylinder enclose the barrel of the weapon on Turbocharge activation then disappears again upon reaching cooldown phase.
+Turbocharge is active throughout its given duration even while not firing weapons.
+Recharge time applies only after the duration of the skill, not while Turbocharge is still active. At Rank 1, this means 8 seconds of continuous fire followed by 20 seconds of cooldown (15 with Vetra).
+At Rank 4 for Pathfinder Ryder and multiplayer characters, picking Recharge Speed amounts to 8 seconds duration and 15 seconds recharge speed while picking Duration amounts to 12 seconds duration and 18 seconds recharge speed. For Vetra, Recharge Speed amounts to 8 seconds duration and 11 seconds recharge speed while Duration amounts to 12 seconds duration and 15 seconds recharge speed.
+Strategies
+Combines well with the Beam Emitter augmentation and the Soldier Profile for an even more destructive approach to armored targets.
+Turbocharge has limited utility with single-shot or semiautomatic weapons due to being optimized for automatics. It can provide the former two with increased clip size and damage, but they won't benefit much from the increased firing rate unless playing with an unusually twitchy trigger finger.
+This skill pairs well with unstable weapons with very large clips, reserve ammo, and firing rate like the Cyclone and Soned.
+Turbocharge is ideally to be used when facing clumps of enemies. Using it to dispatch single non-heavy targets isn't advisable if there's a high chance of running into more enemies shortly afterward given the lengthy recharge time even when upgraded.
+Availability[]
+Single-player:
+Pathfinder Ryder - Starting Combat Skill or Security Training
+Vetra Nyx - Unlocked With 18 Skill Points in any skills.
+Multiplayer: Human Commando, Human Soldier, Turian Havoc Trooper, Turian Soldier
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

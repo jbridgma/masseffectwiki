@@ -1,0 +1,169 @@
+
+
+
+
+
+Battlefield 3 Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Human
+
+
+Rarity
+Rare
+
+
+Availability
+Initially unlockable
+
+
+Abilities
+Combat RollOmni-Blade
+
+
+Humans joined the galactic community after discovering a Prothean data cache on Mars in 2148. Their devotion to understanding and adapting to modern warfare left the staid Council races stunned. Humanity's persistence and unflappable spirit has taken them further than anyone in the galaxy could have imagined.
+Alliance soldiers are renowned for their impressive fire support, flexibility, and speed. Humans have quickly integrated new technology into their combat gear and can unleash VIs, drones, and artillery on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Trivia
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 500
+
+
+Class: Alliance Training
+
+
+ Adrenaline Rush
+
+
+
+
+ Carnage
+
+
+
+
+ Frag Grenade
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Battlefield 3 Soldier executes a series of up to three punches.
+Heavy Melee (Omni-Blade) – The Battlefield 3 Soldier produces an omni-blade to stab enemies.
+Grab (Omni-Blade Stab) – The Battlefield 3 Soldier drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Roll) – The Battlefield 3 Soldier rolls to quickly evade incoming attacks.
+The Battlefield 3 Soldier can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Battlefield 3 Soldiers should be considered exactly the same as the standard Human Soldier. The only real difference is that Carnage replaces Concussive Shot.
+Considering the lack of damage Carnage typically has, it is best to forego it. As such, a moderate-heavy loadout is the best option to give you a good weapon-Adrenaline Rush ratio.
+Despite the Carnage's shortcomings, it can be used to greater effect than Concussive Shot as a powerful detonator power for Fire Explosions or Tech Bursts. In addition, with its Rank 5 Incapacitate evolution, Carnage can gain the knock back effect of Concussive Shot against a single target. Carnage can also be arced over cover to damage otherwise-protected enemies without using grenades.
+Since the Mass Effect 3: Retaliation update, fire explosions can be triggered like biotic detonations or tech bursts. Carnage can potentially have a very quick reload time, and it can be the setup power for a fire explosion. Cooperating with a squad mate using a detonator power makes for repeated high-damage fire explosions. Alternatively you can throw a grenade directly on the lit up enemy to cause an instant Fire Explosion though this requires some practice but can pay off against armored enemies.
+Since the Battlefield 3 Soldier does not have Concussive Shot, you should be slightly more cautious as you have no way to knock enemies back so you can retreat without the Rank 5 Incapacitate evolution of Carnage. Aside from that, you should once again treat the Battlefield 3 Soldier's tactics the same as the normal Human Soldier.
+A Frag Grenade specced for damage can outright kill most trooper/infantry enemies on Bronze and Silver difficulties.
+Play to your strengths and use grenades to get rid of any lesser enemies before helping your allies bring down the big enemies. Learn the location of ammo boxes so you can top up your grenades and ammo, as the Soldier uses large amounts of both.
+Picking a good weapon is essential. The Battlefield 3 Soldier has powers that benefit from a low recharge time, but he will also spend a lot of time shooting. A balance of damage, ammo capacity, and low weight must be reached.
+As Carnage does massive damage against armor and health but considerably less against shields and barriers, the Rank 6 Shield Overload evolution of Frag Grenade may be a good idea (although do note that it does not inflict extra damage to barriers).  Alternatively, taking an anti-shield/barrier weapon such as the Reegar Carbine, M-358 Talon, or Acolyte will compensate for Carnage's shortcomings.
+With Adrenaline Rush evolved defensively (the Rank 4 Hardening and Rank 6 Shield Boost evolutions), the Battlefield 3 Soldier can take a substantial amount of damage while Adrenaline Rush is active.  It may be worthwhile to skip Fitness so all powers can be maxed out (as the Rank 4 Hardening evolution alone allows the Soldier to take more damage under Adrenaline Rush than without Adrenaline Rush and maxed-durability Fitness) or to evolve Fitness for durability, allowing the Soldier to take an extreme amount of damage for brief periods.
+Cerberus[]
+The Battlefield soldier's powers have some advantage over Cerberus. Carnage can be used to distract enemies by setting them on fire, and flush them out by arcing it overhead. Frag Grenades can be used to thin the ranks of Cerberus Troopers and some of the more fragile shielded varieties, such as Engineers and Nemeses, but the Soldier will still spend lots of time pulling a trigger. Be wary of guardians; outside of landing a grenade just behind them, or shooting through their shield by some means, the Soldier doesn't have any special way to handle them.
+Collectors[]
+Much like the Reapers, the Soldier fares well against the Collectors. Grenades will kill or severely weaken Collector troopers and captains, and Carnage helps soften up Scions and Praetorians, and sets up fire explosions for teammates to trigger.
+Both Praetorians and Scions, while tough, have the disadvantage of being large enemies and hard to miss. If all else fails, turn on adrenaline rush and shoot them as much as you can while retreating and maneuvering around cover and try to whittle them to death.
+Geth[]
+All Geth units but the basic trooper have shields, so the Soldier lacks any innate advantage against them. The best way to go is to keep using Adrenaline Rush and try to gun them down. Drop a grenade at your feet when they're in close to give you some breathing room and be wary of being flanked by pyros or hunters.
+The Rank 6 Shield Overload evolution of Frag Grenade will significantly enhance your ability to deal with geth, as it will tear through their shields and no geth have biotic barriers (which the Shield Overload evolution does not deal extra damage to).
+Reapers[]
+Carnage fares better here. Most enemies have either armor or health, so the burn DoT effect is more useful. Frag grenades are good against Cannibals and Husks. Carnage is also good against Ravagers, and has enough of a splash radius to help kill the resulting Swarmers.
+Trivia[]
+A Battlefield 3 Infiltrator class is present in the game files, but it was cut from the game and is not unlockable for play.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

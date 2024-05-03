@@ -1,0 +1,273 @@
+
+
+
+Liam needs help with something.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Read email from Liam
+2.2 Speak to Liam on the Tempest
+2.3 Go to the debris field in the Sephesa System
+2.4 Sweep the cargo bay for enemies
+2.5 Use the comm to find out who's in charge
+2.6 Fight to the cargo bay exit
+2.7 Search the ship for captives
+2.8 Find and scan the control hub
+2.9 Activate consoles to give the engineers access
+2.10 Fight through to the captives
+2.11 Find a way out of the inverted cargo bay
+2.12 Talk to the captives through the comm
+2.13 Send power to the bulkhead door
+2.14 Stop Calot from being a threat
+2.15 Find an access point to hack Calot's shield
+2.16 Defend the access point until hack is complete
+2.17 Signal for evac
+2.18 Debrief on the Tempest
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Liam Kosta: Day out on Aya
+
+This is Liam Kosta's loyalty mission. The next time Pathfinder Ryder returns to the Tempest after completing the mission above, there is an email from Liam. The mission is added automatically.
+
+Walkthrough[]
+Read email from Liam[]
+
+
+
+Didn't want to send this.
+To: Ryder
+From: Liam
+
+Pathfinder--
+
+I need your help with a thing. A big thing. Can't go into it in a message, and you're not going to like why. But I can explain.
+
+Come talk to me.
+
+
+Kosta
+
+
+Speak to Liam on the Tempest[]
+Head to the navpoint  in Liam's quarters on the Tempest. Approaching the door to Liam's room, Ryder will overhear Liam talking to August Bradley from Prodromos. Upon confronting him, he admits that he screwed up.
+Liam's contact in the angara, Verand, and her group, have suddenly gone missing. Liam asks Ryder for help with a rescue. He says he was trying to help the Andromeda Initiative people adapt to their new home, so he gave Verand the Nexus' navpoints and data in the hopes she can modify their technology and data to better serve the Initiative. If pirates have taken her and interrogate her, or give her to the kett, the Initiative could be jeopardized. He has also asked Bradley for help, explaining the conversation you overheard.
+
+Go to the debris field in the Sephesa System[]
+Head to the Sephesa system and Liam's Scavenger Debris Field.
+You can then select the debris and confirm starting a mission. Liam is a required squadmate for this mission.
+Note:  During loyalty missions, manual saving is disabled for the duration of the mission. 
+Liam, Suvi, and Ryder discuss the plan forward with Liam admitting he made a mistake. Kallo Jath points that out clearly.
+Liam has a plan to locate the scavengers. The team hides in a derelict cargo container in the debris field. A ship picks up the container. When the squad exits the container, they discover they are in the cargo bay inside a kett ship. However, scavenging isn't the kett's modus operandi. An alarm has activated. The team overhears an angaran voice.
+
+Sweep the cargo bay for enemies[]
+Ryder will then come under attack from outlaw enemies. (These are outlaw enemies with "Talon" before the enemy name.) Defeat the enemies.
+There is a Derelict Shuttle that can be scanned for +10 .
+There is a Kett Adaptive Accelerator that can be scanned for +10 .
+There is an Angaran Salvage that can be scanned for +10 .
+There is a door that opens into a small room. Inside the room is a Kett Components and Resources that can be scanned for +10 . There is also a lootable container in the small room.
+
+Use the comm to find out who's in charge[]
+Once all enemies have been defeated, someone named Calot Gurting calls over the comm, ordering the raiders to report what's going on.
+Calot turns out to be an angaran, apparently the head of a group called the Talon Wing. It seems they have salvaged the kett ship and are using it for their piracy operations. SAM is still unable to precisely detect the team through the debris field. Ryder and the team attempt to head through a door and a turret is waiting. The squad quickly closes and seals the door shut.
+
+Fight to the cargo bay exit[]
+More outlaws arrive. Defeat them.
+After the raiders are dead, head to the navpoint at the door. Interact with the door to find out that the nearby console must be activated. Head to the navpoint at the console and activate the console. A cutscene will start.
+Liam notices that some of the things in the ship are from Verand's outpost. The exit door is locked, making Liam get more frustrated and lose his temper. Calot appears on the console.
+You're given an Interrupt to "Shoot" the console to stop Calot from talking. If you don't shoot the console, Calot shoots a subordinate for not following his orders. Nothing else changes based upon shooting the console or not.
+Liam wonders what more Calot could do to them and then Calot vents the Cargo Bay. 
+With impeccable timing, Bradley from Prodromos shows up with a team and seals the doors. They cause a power surge on the ship, shifting artificial gravity. Calot is furious. Ryder's team goes searching for the captives, while Bradley's engineers work on a fix for the gravitation.
+
+Search the ship for captives[]
+The loss of the gravity field has made everything in the ship jumbled. The orientation has shifted 90 degrees. A lot of climbing and jumping is required to move around in the ship.
+Head to the navpoint at a doorway by climbing up the containers. Opening the door reveals a few enemies. Defeat them.
+He through the passageway to another doorway. Opening the doorway reveal more enemies to deal with. Defeat them.
+Head through the path forward to reach a dead end. Jump up to a doorway and open the door to reveal a lootable container. Turn around to jump up even higher in this room. Destroy the vent to continue forwards. Jump upwards to reach another vent to be destroyed. Destroy the vent to find a big multi-level room with more outlaws in it. On some of the yellow pipes in the top of this area is a lootable container. Get this before dropping down to kill the enemies.
+Defeat the enemies.
+Once the enemies are defeated, Bradley's crew is heard over the comm. They need some scans done and help from SAM so they can lift the lockdown on the ship.
+After the battle, there is a lootable container in the lower area in the water. High up at the top of the angled collapsed metal ramp is another lootable container.
+
+Find and scan the control hub[]
+The Lab Security Control Hub is in an alcove high up behind some bent pipes at a navpoint. Jump up to the alcove and scan the hub.
+Scanning the hub reveals that Calot has rerouted the power but this should be easy to fix. Two consoles need to be accessed.
+
+Activate consoles to give the engineers access[]
+Head to either of the navpoints to access the consoles. One of consoles is near the door and has two terminal entries:
+
+
+
+
+
+Systems: Talon Operational Override: Calot Gurting
+Transcription (Angaran):
+
+START LOG:
+
+...decommission their junk into stars, but the radiation here must have cooked it, took it off course. I'm getting power! So what if half of it is irradiated; that's still a hundred times the ship we had. Yeah, you're right. We could get a lot if we sold it. Then go back to scavenging, like animals.
+(Weapon fire.)
+Or we use it to kill everyone who ever looked down on us. You with me? Then just fix the top three malfunctions. That's all I need. For once, I'm getting power.
+
+
+END LOG
+
+
+
+
+
+
+
+Vessel Regarikas III Restart Report
+Translated from Tonaizhet:
+
+.......||....|.||...|||.||..||..Restart Record
+Status: Decommissioned
+Failure: Life support
+Failure: Drive core
+Failure: Weapons
+Failure: External sensors
+Failure: Internal sensors
+Fail... ABORT
+
+......|||..||.||....||||.|...||..|||
+
+
+The other console is up near where Ryder entered the room and has three terminal entries:
+
+
+
+
+
+Navigation: Talon Operational Override: Calot Gurting
+[Kett control interface grafted with angaran components.
+
+Detecting angaran shuttle protocols.]
+
+
+
+
+
+
+
+Data Override: Kill record:
+--Yarrajn dead. Paid him back for kicking me out of his little trading group. Wish I could've seen his face. Paused for surrender, then rammed him. Lost aft control.
+--Deyr Vonag dead. His stupid group was always too good. Never knew my name. Won't know it now. Using weapons strained core.
+--??? dead. Who was this? Don't care. Threatened to shoot his crew if he didn't fix the unshielded core. Shot anyway.
+
+Talons moaning about needing workers. Fine, now it's a collection record:
+--Dace + crew. Aliens. Good with their hands. Maybe ransom. Need grav control.
+
+--Verand + crew. Heard of her. Ransom. Repairs first.
+
+
+
+
+
+
+
+Data Override: Trade record:
+-Salvage run. Need plating.
+-Trade cancelled. Fixed thrusters.
+-Trade cancelled. Fixed thrusters.
+
+-Trade cancelled. Ship has to work!
+
+
+Bradley's team now has access to cameras. They see the captives; it's more than just Verand's crew, Calot has already been taking Initiative members.
+
+Fight through to the captives[]
+Head to the navpoint at the door and open the door. Gravity shifts on the ship. Now the ceiling is the floor. The available door leads back to the cargo bay.
+
+Find a way out of the inverted cargo bay[]
+Liam spots a route that was previously blocked. 
+There is a large Cargo Crane that can be scanned for +10 .
+Climb up to the navpoint leading to the crane controls. Inside the crane control room is a lootable container.
+Activate the crane controls.
+The crane is moved, and now can be used to climb up to the exit door. Outlaws move in through the door first, however, so defeat them.
+Head to the doorway and into the next room. Climb through the passageway to another doorway and navpoint.
+The next room encountered is a passage with Sharpshooters and some adhi. Defeat them.
+In the lower area is a lootable container.
+Head to the navpoint and a new room. Ryder will have fight two Hydras, but luckily they have trouble moving around because of the mess created by the gravity shifts. 
+Note:  To spawn Assault Turrets in this area, aim for objects that are not part of the ship's structures, e.g. crates or mineral deposits.
+
+Talk to the captives through the comm[]
+After the battle, there is an Iridium Formation that can be scanned for +10 . There is also a Titanium Formation that can be scanned for +10 .
+Head to the navpoint on the floor and interact with the console near the door.
+
+Send power to the bulkhead door[]
+Cameron Dace answers after Ryder interact with the console. She and the others belong to a trading ship out of Kadara. Verand is there too, and assures Liam that Calot hasn't asked any questions. Everyone is being held as a labor force.
+To get out, the door to the captives has to be opened, but it lacks power. It has to be turned on from your side.
+The bulkhead door is constructed to open by using its own weight to go down into the floor when it is unlocked. That won't work now because the ship is upside down. The engineers will reverse the gravity when the door is powered.
+Head to the navpoint and the Bulkhead Override Console. Go through the passage and climb up to reach the console. Interacting with the console starts a cutscene where the gravity changes again and the floor is the floor again.
+While Bradley evacuates the captives, Ryder has to put an end to the pirate leader.
+
+Stop Calot from being a threat[]
+Head up the corridor towards navpoint. Along the way in the side alcoves there are two lootable containers.
+Open the door and Ryder will come under fire from outlaws. Defeat them.
+On the way to Calot's location, there is a terminal with a kett log from when they arrived in Heleus.
+
+
+
+
+
+Vessel Regarikas III Arrival Log: Heleus
+Translated from Tonaizhet:
+
+...||.|...|..|.|...|.||.|....|....
+Reporting: Restorian
+We awoke to the new cluster, and stars clouded with the (Scourge). There is life, but also machines. The Archon says there is worth beyond what we see. The Archon knows what is best. We will deploy, and grow as we always have. This loyal vessel is no longer fit for travel. The long dark between clusters and the sudden impact means it is too costly to repair. The kett know to move forward. Decommissioning begins. Always forward.
+...|.|..|.|...|...||..|.|......
+
+
+
+
+
+
+
+
+
+Data Storage: Talon Operational Override: Partial
+(Transcription overlapped by two unknown speakers, one angaran, one possibly human)
+Log begins:
+--Have you finished fixing it yet?
+--It's a complicated ship. I've never seen it--OW!
+--Head down until it works! Calot doesn't want it shiny; he wants it shooting. What's that gibberish?
+--Don't touch! You'll wipe the--
+
+Data loss
+
+
+Head towards the navpoint and opening the second door starts a cutscene.
+
+Find an access point to hack Calot's shield[]
+Defend the access point until hack is complete[]
+Calot is protected by a shield that is powered from the ship. Activate two consoles to disable it. Ryder will need to stay within the white circles on the ground to disable the consoles. After one console is hacked, another navpoint will indicate the second console to hack.
+In the room are several raiders accompanied by a bunch of adhis and an eiroch. Kill all of the enemies while hacking the terminals. Once the hack is complete, Calot's shield will come down and he will attack Ryder. Defeat Calot and any remaining enemies.
+There are two lootable containers in the room's lower floor; one in a shipping container to the western side, and another to the right of the ammo cache right beneath Calot's platform.
+There is a Drive Core Shield Adapter that can be scanned for +10 .
+There is a Kett Modular Shell: Fuel that can be scanned for +10 .
+
+Signal for evac[]
+The engineers are warning that the ship reactors don't look good. Use the Airlock Control to leave the ship. The reactors are leaking and the ship fills with radiation.
+
+Debrief on the Tempest[]
+Ryder debriefs on the Tempest with Verdan, August, and Liam.
+You can choose one of two ways for the debrief: Send Verand on her way with the other rescued captives or instruct August Bradley to "be sure Verand doesn't go too far." 
+Liam will be unhappy if you decide to have August detain Verand. Liam will make a strong argument that it was a bad decision.
+Liam and Ryder then look out the window at the kett ship and it explodes. The conversation then ends and the mission completes.
+
+Aftermath[]
+The next time you speak with Liam, the mission Liam Kosta: Something for the Neighbors starts.
+
+Rewards[]
++1330 XP
+Liam Kosta's Rank 6 Skills are now unlocked.
+
+
+

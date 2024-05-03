@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+Inventory Item
+Price / Discounted
+
+
+M-22 Eviscerator1
+7000 / 6300
+
+
+M-13 Raptor1
+7000 / 6300
+
+
+M-25 Hornet1
+7000 / 6300
+
+
+Assault Rifle Piercing Mod
+4000 / 3600
+
+
+Shotgun Smart Choke
+4000 / 3600
+
+
+Shotgun Blade Attachment
+4000 / 3600
+
+
+Shotgun High Caliber Barrel
+4000 / 3600
+
+
+Assault Rifle Extended Barrel
+6000 / 5400
+
+
+Assault Rifle Magazine Upgrade
+6000 / 5400
+
+
+Shotgun Shredder Mod
+6000 / 5400
+
+
+Kestrel Helmet
+5000 / 4500
+
+
+Hahne-Kedar Greaves1
+5000 / 4500
+
+
+Ariake Technologies Gauntlets1
+5000 / 4500
+
+
+Armax Arsenal Chestplate1
+5000 / 4500
+
+
+Ariake Technologies Greaves1
+5000 / 4500
+
+
+Terminus Assault Armor
+50,000 / 45,000
+
+
+Assault Rifle Omni-Blade2 (or 3)
+4000 / 3600
+
+
+Kishock Harpoon Gun3
+10000 / 9000
+
+
+
+
+1 If not picked up during missions2 Requires Mass Effect 3: Leviathan3 Requires Mass Effect Legendary Edition
+
+Batarian State Arms is a store run by its namesake manufacturer in the Docks: Holding Area on the Citadel. It is located in Cargo Hold: C, the section of the docks populated by batarian refugees.
+Note: The M-25 Hornet is available for purchase via the Procurement Interface on the Normandy before Priority: The Citadel II, the mission it is found in.
+Note: The Kestrel Helmet becomes available at the store only if the batarian fleet was also secured in Citadel: Batarian Codes. If you killed Ka'hairal Balak or let Jordan Noles take the nameless batarian away without comment, the helmet will not appear at the store.
+
+
+
+Mass Effect 3 Merchants
+
+
+Presidium Commons
+
+Aegohr Munitions • Cipritine Armory • Elkoss Combine Arsenal Supplies • Kanala Exports • Kassa Fabrication • Nos Astra Sporting Goods
+
+
+Docks: Holding Area
+
+Batarian State Arms
+
+
+Huerta Memorial Hospital
+
+Sirta Supplies
+
+
+Citadel Embassies
+
+Spectre Requisitions
+
+
+Aria's Bunker
+
+Harrot's Emporium
+
+
+Silversun Strip
+
+Home Spun
+
+
+
+

@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+
+
+
+Heavy Turret
+
+
+
+
+Type
+Synthetic
+
+
+Armament
+Rocket Launcher
+
+
+Abilities
+None
+
+
+Health
+Moderate
+
+
+Shields
+Very High
+
+
+Locations
+Asteroid X57
+
+
+Heavy Turrets are turrets that are more heavily armored than their more common counterparts. This makes them more capable of defending positions.
+
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+During Balak's raid to Asteroid X57 for a slave grab, he instead saw potential and ordered the asteroid's three fusion torches lit and accelerate the asteroid to collide with the Alliance colony of Terra Nova. He had turrets deployed around the torch stations to defend them against anyone that may interfere with his plans, and then had additional turrets deployed at the entrance to the main facility. Shepard must get past these turrets to stop the asteroid and save the colony. 
+
+Tactics[]
+Unlike every other Turret that is encountered in Mass Effect, these turrets are 'sheathed' and their protection will not drop until you get close enough. This unfortunately foils any attempt to snipe them from a distance, so you will have to adjust your normal tactics for dealing with them. This means the Mako has to be very close to attack, and since they are placed in groups, dodging the rockets becomes more difficult. The rockets fired from these turrets also travel much faster than normal which can easily take players unawares if they've not played the DLC beforehand. However, 'reclaiming' each fusion torch station from the batarians will render the turrets harmless, so it's also possible to endure the rockets until you can park close enough to the station to get inside.
+Outside of the Main Facility, there are three turrets that are on rails, making aiming at them much more difficult. A better solution is to use AI Hacking on those turrets as the other turrets won't be able to hit them either, or wait until they have moved to one end of the rail and attack them then. 
+A good tactic at the main facility, which will also work in some of the other locations, is to practice driving the Mako at a moderate speed in a reasonably tight circle, while keeping the gun aimed at a fixed location, i.e. a turret. The circular path will make almost all of the rockets miss, and even at Insanity level the entire set of turrets can be taken out in a few minutes with little stress on the Mako's shield. Just don't stop moving!
+Another good tactic is to try and isolate one, deal with it, then move on to the rest. This is possible at the Fusion Torch Stations, but not at the main facility as they will all emerge at once.
+
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

@@ -1,0 +1,74 @@
+
+
+
+A terminal holding important krogan research from the famous Dr. Okeer was accidentally sold to a junker. Dr. Ganar doesn't need the terminal, but insists that the data is important to the future of the krogan species.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Go to the navpoint provided by Dr. Ganar
+2.2 Hack the terminal to retrieve the research
+2.3 Return the research to Dr. Ganar in New Tuchanka
+
+
+3 Aftermath
+4 Rewards
+5 Trivia
+
+
+Acquisition[]
+Prerequisite: Elaaden: A New World
+
+Just inside the gates of the New Tuchanka colony, the Krogan Geneticist, flagged with a  marker, is talking to his assistant about how terrible it would be if Dr. Okeer's research was lost. Talk to him to acquire the mission.
+Note:  If you choose the "Do your own research" conversation option, the mission will be rejected instead.
+
+Walkthrough[]
+The geneticist and his assistant tell Pathfinder Ryder that Dr. Okeer was a great expert on krogan physiology and the genophage. A terminal containing all of his research was accidentally sold to a junker. While it's encrypted, the data would be bad in the wrong hands. The Geneticist gives Ryder a navpoint  in the Languish region (west-southwest of New Tuchanka).  
+
+Go to the navpoint provided by Dr. Ganar[]
+The navpoint leads to valley with a deserted base surrounded by a ring of large vehicles. Inside the center of the base, where the terminal is located, temperatures will be normal so life support is not a concern.
+
+Hack the terminal to retrieve the research[]
+On interfacing with the marked Console , a countdown timer will start and a white circle will be placed on the ground. Ryder has to stay inside the white circle for the hack to continue.
+Hostile shuttles will now begin to fly in and drop off enemies. Each shuttle has one Sharpshooter and three Raiders. You should be quick with killing the enemies from a shuttle in question because additional shuttles will approach one at a time spaced over time dropping off more enemies. Four total shuttles will arrive.
+Once the hack is complete, the next objective is added whether the enemies have been killed or not.
+You can choose to kill the remaining enemies or head back to New Tuchanka.
+
+Return the research to Dr. Ganar in New Tuchanka[]
+Despite the objective saying to return to Dr. Ganar, return to New Tuchanka and speak to the Krogan Geneticist to conclude the mission.
+
+Aftermath[]
+Ryder will receive an email from SAM after the mission:
+
+
+
+
+Data from SAM re: Dr. Okeer
+
+Analysis of information downloaded from Dr. Ganar's terminal
+
+Notes from Dr. Okeer: Decrypted
+
+Summary of Findings:
+Adjustment of retrovirus in last batch of soldiers resulted in a success ratio of only 8 percent. This is unsatisfactory! I smashed many tanks in my fury.
+
+I'll start again. I'm committed to creating perfection. The perfect krogan. A super soldier beyond belief.
+
+Someone named Dr. Ganar contacted me to consult on potential cures for the genophage. I sent him away. Why dabble in mediocrity when we can aim for brilliance?
+
+(Attachment: Portions of Okeer's genetic research data.)
+
+
+
+
+Rewards[]
++530 XP
++73 AVP 
++5% Elaaden viability
+Trivia[]
+The research of Dr. Okeer is a reference to the mission Dossier: The Warlord in Mass Effect 2, where Okeer has managed to create the "perfect" krogan: Grunt.
+Out of all the playable missions in Mass Effect: Andromeda this is the only one without an accompanying journal image, instead displaying the blank placeholder above.
+
+
+

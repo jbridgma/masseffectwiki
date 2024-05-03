@@ -1,0 +1,83 @@
+
+
+
+You've killed an asari mercenary named Dahlia Dantius. According to a datapad found on Dahlia's body, her sister Nassana is a diplomat on the Citadel. Dahlia was evidently blackmailing Nassana by threatening to reveal her own existence and ruin Nassana's career. Nassana will want to hear the news that her sister is dead.
+Alternative journal entry:
+You've received a cryptic message from Nassana Dantius, an asari ambassador on the Citadel. She wants to meet with you in person.
+Alternative journal entry:
+While on Noveria you found something interesting in Tartakovsky's personal log files. He mentioned increased mercenary activity in the Artemis Tau cluster, specifically in the Macedon system.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Dealing with the Pirates
+3.2 Dealing with Nassana
+
+
+4 Mass Effect 2 Consequences
+5 Enemies
+6 Trivia
+
+
+Acquisition[]
+This assignment can be obtained in three different ways.
+
+You come across a mercenary base on Sharjila in the Macedon system, storming it and getting the assignment from a terminal in the upper level. This can be done at any point after acquiring the SSV Normandy, at the conclusion of Citadel: Expose Saren. The assignment will be then labeled as UNC: Asari Diplomacy.
+After completing a main plot world and leaving the system, Shepard will receive a communiqué from Nassana Dantius upon entering a new star system. Go back to the Embassy Lounge on the Presidium and speak with her for details. The assignment may then be labeled as Asari Diplomacy, without the UNC: prefix.
+Alternatively, you can get information on the mercenaries from Yaroslev Tartakovsky's log on Noveria, while you're busy with Noveria: Matriarch Benezia. Hack a terminal (easy decryption) at Peak 15 administration level in a corner of the cafeteria (where you first encounter the rachni). This is only present if you haven't raided the base yet or talked to Nassana after she beckoned you to the Citadel. This assignment is then initially labeled as Mercenaries in the journal if Nassana hasn't called you yet. The terminal log reads as follows:
+
+“PERSONAL LOGS: ADMINISTRATOR TARTAKOVSKY
+"That is last time. No more will I use that transport carrier. Three shipments we lose in Macedon system in ONE month. They are too stupid or too slow. If only Gregor still ran his shipments. He would get what I need and no mercenaries would dare to stop him."”
+
+
+Preparation[]
+Prepare for a battle against organic targets, including snipers, a biotic, and a krogan.
+Attempting this mission at low level will result in a long difficult war of attrition against enemies who frequently heal and use Immunity. You'll be better off saving this one until level 30 or higher, at which point whichever squad configuration you prefer should serve you well.
+
+Walkthrough[]
+As the circumstances in which you obtain this assignment varies, so will the ordering of your knowledge of events be affected. If you have already dealt with the mercs, skip to Dealing with Nassana. Otherwise, continue reading as normal.
+On the Citadel, Nassana will tell you that a group of mercenaries attacked a freighter where her sister was a crew member. However they since kidnapped her for ransom money, as their family is prestigious and well-known. Nassana says that she paid the ransom to the required account but that her sister was not released. As she is an important ambassador, by Citadel law, Nassana should have reported the situation to C-Sec. She explains that if her actions were discovered, she would lose everything. Having already found the mercenary location by tracking the ransom money she had paid, she asks for Shepard's help. Head to Sharjila to rescue Dahlia.
+If Nassana summoned you to the Citadel but you haven't talked to her yet, and you've come across Tartakovsky's log on Noveria, you gain a different motivation to investigate the Macedon system.
+
+Dealing with the Pirates[]
+Upon landing on Sharjila in the Macedon System of the Artemis Tau cluster, you will notice that it is a Level 1 pressure hazard, so plan to limit your time outside the Mako or have at least one party member wear Devlon Industries armor. 
+
+The stronghold is directly north of the Mako's landing site, and heavily defended. In four towers around the base are Pirate Snipers and on the ground are a further five Pirates: krogan, turian, and humanoid variants, as well as another Sniper. Due to the tower, barricade, and initial enemy placements they are clearly anticipating attack from the north/northeast while neglecting the hilly south/southwest approach, so you have plenty of opportunity to make them regret their defensive choices.
+The guys outside aren't actually required to be killed, though of course they yield XP and maybe items if you deal with them before entering the base (or afterward). Take out the krogan and the snipers first, preferably staying inside the Mako while snipers are about to avoid getting one-shotted by their Assassination ability, then switch to the regular grunt pirates. As per usual, if you're not playing Legendary Edition you can whittle their health down before dealing the final strikes on foot to mitigate XP loss. Remember that you have a small tank that can soak up damage, and you can park it in areas that are blind spots to one or more sniper towers: right in front or behind the merc base. That way you can get close enough to disembark and use your conventional guns against the considerably nearer snipers and ground troops while still having something to cover your flank (and can be used as a handy resurrection box/escape tank if your squadmates go down and your Unity's on cooldown).
+
+If you insist on a sniping or long-range skirmish, make sure you're actually proficient in the weapon (or playing Legendary Edition). The south/southwest hills automatically block the northeast tower, and certain vantage points also interfere with the south tower's line of sight. If you are unable to kill the snipers, try special ammunition to help knock them off their platforms to reduce their line of sight, allowing you to approach the camp from more directions and with more cover against the snipers. 
+Some pirates can be drawn out of the camp, allowing for divide-and-conquer attrition. Retreating far enough from the camp allows you to save the game, so if necessary you can divide your on-foot assault into phases.
+
+Once you've dealt with the outside forces to your satisfaction, enter the base. Inside, it is recommended that you save your game because there are a further seven Pirates, another two Snipers, one on the main floor, and a second on the upper floor catwalk, and their leader, the Asari Slaver. The wall directly in front of the door will provide some good cover, so use it. The stack of crates next to the entrance is also defensible from three sides, meaning you can divvy up your squad and quickly take over a couple of spots near the entrance that will also divide enemy gunfire. Conceivably you can also climb up the crates to reach the second floor, though it isn't recommended on Legendary Edition due to the enforced holstering prerequisite on mounting crates (and generally speaking not as well as climbing leaves you unable to retaliate for a few seconds while the action executes).
+There is another krogan pirate in the main room as well, and like all krogan, can regenerate unless killed in the air. 
+This battle can be tough especially if you let any of the pirates get behind you, so don't let that happen. The cover in front of the door is the best spot if you can hold it, but don't be afraid to backpedal into the entry room if you need to. If any enemies take cover opposite the entry door, there is a fuel tank that you can destroy to either severely wound, if not kill them. Using the Overload ability works great as it amplifies the explosion. Also note there are several Fusion Containment Cells in the room that you can shoot whenever enemies are nearby.
+Generally the pirates will not rush the door. Therefore, to avoid an unnecessarily long battle of attrition, have your team wait in the entry room. Rush in but not too far, then back out. Each time you do, it should draw one or two pirates to a closer and more vulnerable position instead of one where they can easily retreat and wait for their health and shields to fully recharge. If necessary, lead them back into the entry room where the rest of your team can help kill it quickly with combined fire. Once the number of pirates has been thinned, it will be safer to advance deeper into the room.
+Sometimes the Asari Slaver doesn't come down from the second floor right way, neither does the other sniper, but they will come down eventually. Just keep your cool and focus on taking out the enemies as quickly as possible. 
+
+The second floor back room is locked until you kill the Asari Slaver. After you've dealt with the irritations, there are some crates around that you can loot. On the ground floor, there is a medical kit on top of one of the crates near the door (holster your weapon to expand your grab radius), an upgrade kit about mid-way along the right wall, and three crates and a medical station (easy decryption) in the back room.
+The only loot on the second floor is in the back room. Inside are a Hardened Storage Locker, a Hardened Wall Safe (both hard decryption), and a malfunctioning object. There is also a desk that can be investigated. When you do, you obtain proof that Nassana and the Asari Slaver are actually sisters. With the evidence in hand, leave and return to the Citadel to confront Nassana with the evidence.
+
+Dealing with Nassana[]
+When you get back to the Citadel, meet with Nassana again to confront her with the evidence, or tell her about her sister's fate. The latter case is possible if you killed Dahlia without speaking to Nassana first. Doing so will result in a different conversation with the diplomat: she will lament not being able to manipulate Shepard as she had originally planned, but she will reward the Commander anyway.
+Nassana hands out credits and XP upon completion of the assignment, potentially with bonuses depending on how you respond.
+
+Choosing either Paragon or Renegade responses left of the dialogue wheel gives twice as much XP and credit reward as the right side responses, but no morality points. +3 Charm or +4 Intimidate points are required. Additionally, Nassana is supposed to give you an Armali Council license, but due to a bug, it's not actually awarded; the license can only be truly obtained from Commander Rentola, who is first encountered at the salarian base camp on Virmire.
+Choosing either upper or lower right responses in the dialogue wheel gives you +2 morality points in either appropriate direction as well as the base XP and credit reward, but no license.
+Choosing the middle right response gets you no morality points or license, just the base XP and credit reward.
+Note:  As with most missions and assignments that take place elsewhere but concludes on the Citadel, this assignment cannot be resolved if you don't meet with Nassana before stealing the Normandy from lockdown. The journal entry updates accordingly, though it will remain open and incomplete for the rest of the game.
+
+Mass Effect 2 Consequences[]
+During Thane's recruitment mission, Shepard will remember how Nassana manipulated them into killing her sister while speaking with Seryna. After the squad fights their way through Nassana's guards and confronts her in the penthouse, she will say that Shepard is now finishing the job that was started with her sister, and now Shepard is here for her.
+
+Enemies[]
+Pirate
+Pirate Sniper
+Asari Slaver (Dahlia Dantius)
+Trivia[]
+The Sharjila base uses the same main area layout as the Amaranthine base in UNC: Hostile Takeover and the Xawin base in UNC: Privateers.
+
+
+

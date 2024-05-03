@@ -1,0 +1,147 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - AR Scope: Simple optical scope to enhance stability while zoomed. Also increase accuracy while moving.
+Enhanced - AR Recon Scope: Substantially increases accuracy, but at the cost of increased recoil.
+Enhanced - AR Tactical Scope: Substantially increases accuracy, but at the cost of fire rate.
+Enhanced - AR Targeting System: Specialized targeting system that increases accuracy of a modified weapon without using a scope.
+Note:  The Soned assault rifle is unable to equip a Scope Mod.
+Note:  Assault rifle stability is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+AR Scope
+
++32%
+
++38%
+
++40%
+
++43%
+
++46%
+
++48%
+
++51%
+
++54%
+
++56%
+
++58%
+
+Assault Rifle Accuracy
+
+
+AR Recon Scope
+
++40%-6%
+
++44%-7%
+
++49%-8%
+
++53%-10%
+
++58%-11%
+
++62%-12%
+
++67%-14%
+
++71%-15%
+
++76%-16%
+
++80%-18%
+
+Assault Rifle AccuracyAssault Rifle Stability
+
+
+AR Tactical Scope
+
++40%-3%
+
++44%-3%
+
++49%-4%
+
++53%-5%
+
++58%-6%
+
++62%-7%
+
++67%-8%
+
++71%-8%
+
++76%-9%
+
++80%-10%
+
+Assault Rifle AccuracyAssault Rifle Rate of Fire
+
+
+AR Targeting System
+
++35%-6%
+
++39%-7%
+
++44%-8%
+
++48%-10%
+
++53%-11%
+
++57%-12%
+
++62%-14%
+
++66%-15%
+
++71%-16%
+
++75%-18%
+
+Assault Rifle AccuracyAssault Rifle Stability
+
+
+Equipping an Assault Rifle Scope Mod changes the shape of the weapon by adding a visible scope depending upon the specific weapon.
+
+
+
+

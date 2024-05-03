@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+This article is about the enemy unit from Mass Effect: Andromeda. For the shotgun from Mass Effect 3, see AT-12 Raider.
+
+
+
+Raider
+
+ 
+
+
+
+
+
+
+							Outlaw
+							
+						
+
+
+
+							Collective
+							
+						
+
+
+
+							Outcast
+							
+						
+
+
+
+							Roekaar
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faction
+OutlawsCollectiveOutcastsRoekaar
+
+
+Weapons / Attacks
+M-8 Avenger, Sandstorm
+
+
+Abilities
+Frag Grenade
+
+
+Health
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Raider is an Outlaw unit. These footsoldiers form the rank and file of non-kett and non-Remnant armies against Pathfinder Ryder and APEX teams.
+Human Raiders are invariably male while the Roekaar can be from either gender.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Outlaw Raider
+
+
+DATA:
+Classification: Enemy
+Origin: Milky Way/Andromeda
+ANALYSIS:
+A basic assailant, outfitted with mid- to long-range weaponry.
+
+Description[]
+The outlaw bands of the Heleus Cluster are diverse. Some were individuals who joined the Andromeda Initiative as an escape from the Milky Way; some were exiled after the Nexus uprising; others chose to seek their fortune elsewhere. Most of these individuals survive by raiding outposts or wandering exploration teams. 
+While not particularly organized or well-equipped, these raiders present a risk to undefended colonists. Most prefer to extort supplies and equipment rather than risk themselves, but when provoked or desperate, they will resort to deadly force.
+
+
+Capabilities[]
+Offensive
+Human Raiders are typically seen wielding M-8 Avenger assault rifles while their Roekaar variants wield Sandstorms. They can also throw frag grenades relatively accurately to flush players out of cover.
+
+Defensive
+Raiders are unprotected by shields, armor, or barriers.
+
+Tactics[]
+Since they're unshielded and unarmored, they are easy victims for any tech and/or biotic attacks and will easily be dispatched in triggered combo detonations.
+However, they do have strength in numbers, and any number of inbound frag grenades can quickly add up to massive damage. In this scenario, leaving cover to rush at them at close range is prudent: avoiding them then taking them out from afar gives them more opportunities to react.
+Numerous named enemy characters register as Raiders if scanned, and they often do not have any advantages gameplaywise compared to the regular Raider. As such, standard tactics for dealing with Raiders also apply to them.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

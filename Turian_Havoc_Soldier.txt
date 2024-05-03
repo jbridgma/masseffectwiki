@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect 3. For the multiplayer class in Mass Effect: Andromeda, see Turian Havoc Trooper.
+
+
+
+Turian Havoc Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Turian
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Retaliation
+
+
+Abilities
+Dual Omni-BladesWeapon ExpertToughnessPropulsion Packs
+
+
+Turians adhere to a strict moral code: "The needs of the group outweigh that of the individual." Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.
+Havoc soldiers belong to the turian's lethal 26th Armiger Legion, a respected and feared frontline assault squad. On the battlefield, the 26th use propulsion packs built into their armor to launch lightning-quick airstrikes on unsuspecting foes.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Trivia
+5 References
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 500
+
+
+Class: Armiger Legion
+
+
+ Cryo Blast
+
+
+
+
+ Havoc Strike
+
+
+
+
+ Stimulant Pack
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Turian Havoc Soldier executes a series of up to three punches.
+Heavy Melee (Dual Omni-Blades) – The Turian Havoc jets towards an enemy and slams the ground with dual omni-blades, dealing damage in a small area and knocking down unprotected foot soldiers.
+Grab (Omni-Blade Stab) – The Turian Havoc Soldier drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Propulsion Packs) – The Turian Havoc Soldier jets a short distance to evade incoming attacks.
+The Turian Havoc Soldier can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Your jump jets provide excellent mobility; unfortunately your forward jump has a strong tendency to stick you to cover. A technique to get around this is to use sideways or even rearward jumps to get where you want to go, though this is "blind" and requires good map knowledge and some practice to do effectively.
+The jets are excellent for evading attacks with a wide area of effect such as the energy beams of Praetorians; however, they are less effective at evading enemy sync kill attacks. It's advisable not to wait until enemies like Banshees get close to you before trying to jet away.
+The heavy melee leaps the character into the air and forward, covering a lot of ground, though it can still lock on to targets just like most other melee attacks. However, this attack provides less resistance to stuns than the heavy melees of most characters, making it risky to attempt against enemies that can easily stun the player such as Phantoms.
+The heavy melee can be useful for quickly dashing across open ground when carrying an object during Retrieval missions.
+The heavy melee can be triggered while jump-jetting either forwards or backwards. This can be useful for quickly diving into melee against an enemy too far out of range of the heavy melee alone, or for performing a short evasive jump backwards to avoid an attack and quickly lunging forward again.
+It's possible to use a heavy melee attack right after starting a Havoc Strike (while hovering). If the Havoc Strike target is within melee range, this will result in both a Havoc Strike and a heavy melee landing in quick succession on the target.
+The Havoc Strike functionally operates like a Vanguard's Biotic Charge or an N7 Shadow's Shadow Strike by launching the player towards the targeted opponent. It also has an area affect, like Nova, so that multiple enemies surrounding the target will be affected.
+However, Havoc Strike will not replenish shield strength, but Havoc Strike does provide immunity frames during the attack process.
+Havoc Strike can often place the user into dangerous situations if care is not taken. If a backwards dodge maneuver is used at the right time in the Havoc Strike process, as soon as the user comes out of the Strike, they will immediately use the backward jetpack dodge maneuver and move a long distance back, allowing for effective hit-and-run attacks.
+Ordinarily, Havoc Strike is a high-risk high-reward power, but Stimulant Pack complements it well by reducing the tactical danger of the power animation ending with one in close range of enemies. Even though the Havoc Strike does not replenish shields, the Stimulant Pack may be activated at any time, and increases both durability and damage output.
+Havoc Strike's damage is not boosted through Fitness melee training, since it counts as a "combat" power (i.e. neither tech or biotic).
+The Havoc Strike followed by heavy melee works very similar to Charge + Nova combo of Human Vanguard. With correct evolution it can be very effective against powerful protected enemies, like Phantoms or Geth Hunters.
+The Stimulant Pack ability benefits from grenade upgrades. While the player may only have them in finite supply, they can be replenished at ammo crates and, like grenades, be used regardless of power recharge levels. Upgrades allowing players to carry additional grenades will also boost the number of stimulant packs that the player can carry, giving the Havoc Soldier considerable staying power in a firefight. It is also very effective when used against isolated foes, where they will be stunned, you can then deploy a pack to recover your shields if necessary and gain a damage bonus.
+Stimulant Packs provide a brief damage immunity when used similar to that provided by Ops Survival Packs. This was meant to combat frustrating moments when lag would allow players to still die when using stim packs because of shield and health gate cooldowns. It should be noted that the damage immunity in no way protects from sync kills[1], though an Ops Pack's immunity can.
+For cautious players, use either the area-effect evolution of Cryo Blast or a fast-firing assault rifle with Cryo Ammo to slow down unprotected groups, then launch with Havoc Strike to finish them off.
+The Turian Havoc's lack of any real means of taking down shields and barriers make the Acolyte a good weapon to use. The Acolyte's small explosion radius makes it possible to launch it in a group target, as strong as Phantoms (even on Gold if Incendiary Ammo or any power damage booster is used), and then immediately use Havoc Strike, evolved for damage and AoE and points in power damage, will result in a maximum of three threats being eliminated.
+Cerberus[]
+Cryo Blast will prove very effective against Assault Troopers, or unshielded Centurions, Engineers, or Nemeses. It can also soften up the Dragoons or Atlases, or slow down the Phantoms and make them more vulnerable.
+Havoc Strike will help you escape if there is an isolated enemy in a favorable position. Nemeses are good candidates for this.
+The Dodge Havoc soldiers can do is particularly useful for evading Atlases or Phantoms' instant kill moves, something no other turian is capable of.
+Collectors[]
+A difficult faction as Praetorians are deadly at range and up close due to their fast claw attacks. Avoid charging them at all costs, as it'll do more harm than good.
+Anti-armor weapons are needed against Praetorians and Scions, and an anti-shield weapon for every other foe. Troopers and Abominations are the only enemies without protection, as such they can be eliminated as a threat rather quickly. But the other enemies need to be dealt with as each on their own is dangerous, Captains summon Swarms, Scions hit hard, and Praetorians are extremely versatile and deadly.
+Geth[]
+You will have trouble dealing with the geth due to a lack of any anti-shield powers, but an anti-shield weapon can help this problem somewhat.
+Cryo Blast will be very effective against almost any foe, weakening and slowing or freezing most foes. Make sure you stay alert though or you may end up swamped.
+Be on the lookout for Hunters which can stun, and Bombers which can blast you and your team back to the stone age. These will be your biggest problems, and need to be dealt with swiftly.
+Reapers[]
+Reapers are without doubt your best faction, Cryo Blast affects every enemy in one way or another, either freezing, or weakening them.
+Havoc Strike should not under any circumstances be used against Banshees, as you will end up being on the receiving end of a fatal counterattack - an impalement.
+Equip an Anti-armor weapon to aid you in battle. While it would be nice to have an anti-shield weapon only 2 enemies have shields/barriers, the Banshee and Marauder, the former is slow and armored too, while the latter can be frozen, or sniped in one clean shot upon stripping shields.
+Trivia[]
+If the Turian Havoc Soldier kills more than one enemy with its heavy melee slam attack, only one kill is credited in the kill feed as a melee kill. Any additional kills are either uncredited, or the last thing to damage that enemy before the melee is given credit for the kill.
+References[]
+
+↑ http://social.bioware.com/forum/1/topic/347/index/9822648#14521077
+
+
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

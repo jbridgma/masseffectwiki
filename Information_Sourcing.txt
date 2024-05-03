@@ -1,0 +1,264 @@
+
+
+
+
+
+Quick Links
+
+
+General Guidelines
+
+
+Manual of Style Homepage
+
+
+General guidelines
+
+
+Comics (Comic Hubs)
+
+
+Templates
+
+
+Remakes
+
+
+Galaxy
+
+
+Clusters
+
+
+Systems
+
+
+Planets
+
+
+Game-play
+
+
+Missions
+
+
+Assignments
+
+
+Adversaries
+
+
+Classes
+
+
+Abilities / Powers
+
+
+Game-info
+
+
+Equipment
+
+
+Merchants / Stores
+
+
+Races
+
+
+Unique Dialogue
+
+
+See also
+
+
+Community Guidelines
+
+
+Chat Policies
+
+
+Collaboration
+
+
+Files Guideline
+
+
+Information Sourcing
+
+
+Administrators
+
+Here at the wiki we strive to present information about our topics as accurately as we can, citing only from the most reliable sources. This oftentimes presents problems in that while we know certain things about the franchise have occurred we still need them explicitly spelled out in order to avoid ambiguity. 
+Please note that everything in this section is not by any means an exhaustive or even definitive list but should provide an idea on what is or is not acceptable.
+
+Contents
+
+1 Valid Sources
+2 Conditionally Valid Sources
+3 Invalid Sources
+4 Criteria for Confirming Unconfirmed Sources
+5 Addenda
+6 References
+
+
+Valid Sources[]
+The games, the novels, the films, and other official tie-in materials. External sourcing is needed only to prove a point but if said point is readily accessible to anyone with a copy of the relevant medium it's unnecessary.
+Ancillary sites set up by BioWare for their projects.
+Paragon Lost website
+Barnard Plim's Conspiracy Accountability League blog (viral site for Mass Effect 3: Leviathan)
+Fight For Omega Talons comm feed (viral site for Mass Effect 3: Omega)
+Bug confirmation/disputed information is another matter: it still requires at least 3 users as per policy regardless of external sources UNLESS Word of God intervenes below.
+The BioWare Blog
+BioWare Twitter
+Mass Effect Twitter
+Mass Effect Facebook
+Mass Effect Pinterest
+Mass Effect 3
+Gameplay Data and Mechanics by ex-developer Eric Fagnanarchived
+List of publications not known to be incorrect when it comes to Mass Effect-related news goes under here.
+Game Informer
+List of confirmed social media accounts goes here, with names added and deleted depending on their current involvement with BioWare. Accounts verified internally by other sites, such as twitter awarding checkmarks beside the user handle, are also considered valid. People proving they're the owners of such an account through posting pictures of themselves with a timestamp or other proofs against photomanipulation, such as with reddit's Ask Me Anything feature, are also given consideration.
+Developers
+Michael Gamble - Producer
+Ian Frazier - Mass Effect: Andromeda Lead Designer[1]
+Fernando Melo - Producer
+Billy Buskell - Multiplayer Producer
+Yanick Roy - Studio Director of BioWare Montreal[1]
+Jos Hendriks - Designer[2].
+Sharon Price - Development Manager[3]
+Jessica Hara Campbell - Level Designer[4]
+Eric Bellefeuille - Lead UX[5]
+Chris Wynn - Senior Development Director[1]
+Joel MacMillan - Art Director[1]
+Fabrice Condominas - Producer[1]
+Nick Sadler - Technical Artist[6]
+Graham Scott - Senior Level/Tech Designer
+Sarah Beck - Programmer
+Lee Kaburis - Development Director
+Dusty Everman - former Senior Level Designer[7], presently back as a Narrative Designer for the next installment of Mass Effect
+User:Dustums - Mass Effect Wiki handle[8]
+Writers
+Patrick Weekes[9]
+Ann Lemay[10]
+Jo Berry[11]
+Sylvia Feketekuty [12] - A list of her ME-related contributions here.archived
+Sheryl Chee - wrote Vetra Nyx.[13]
+Catherynne M. Valente - author of Mass Effect Andromeda: Annihilation[14][15] (verified twitter)
+Chris Hepler[16][17] - SolComms, miscellaneous Codex entries
+Brian Kindregan
+Composers
+Sam Hulick[18]
+Jack Wall[19]
+Voice Actors
+Mark Meer
+Jennifer Hale
+Grey DeLisle - confirmed by a fan asking. It should be noted that the original link is dead, the info found there at the time was deemed legitimate, and all other in-Facebook sources referencing the old address redirect to the current one, as shown here and here. Those are automatic redirects made by Facebook servers, not manipulations by any third party.
+Sumalee Montano[20]
+Raphael Sbarge
+Ali Hillis[21]
+Courtenay Taylor[21]
+Nick Boulton - see here.
+Miscellaneous
+Jessica Merizan - BioWare Community Manager
+David Hulegaard - BioWare Social Media Coordinator[22]
+Caroline Livingstone - BioWare Voice Over Director[23]
+Conditionally Valid Sources[]
+Note: Before citing from the prescribed valid sources please make sure to countercheck against the following below.
+
+Previous BioWare employees. Normally they speak out with canon power only within their respective areas of expertise, so please take anything they say with a grain of salt.
+Example: If Chris L'Etoile, former writer on Mass Effect and Mass Effect 2, talks about behind-the-scenes matters pertaining to the first 2 games, it's valid and counts as devconfirmation.
+Casey Hudson - former Executive Producer
+Corey Gaspur - former Lead Gameplay Designer (deceased[24])
+Aaryn Flynn - former General Manager of BioWare Edmonton and Montreal
+Dave Feltham - former Senior Designer[25] (dead/inactive account, provenance preserved via Web Archive[26])
+Jonathan Cooper - former Lead Animator / Cinematic Animator
+Mac Walters - former writer
+Pronouncements by confirmed sources related to the franchise but not directly related to their line of involvement. This employs the same reasoning as above. Voice actor involvement, especially the one-offs, is usually just limited to their characters so we shouldn't be expecting gameplay-related news or the like from them unless there's a very compelling reason to do so.
+Technical data discovered within the game files. The problem with data mining is that they're subject to individual interpretation, and that the stated numbers may conflict with what is actually experienced in-game. Data mining can be used to verify game mechanics subject to the following conditions. The existence of cut content can now also be verified through limited data mining subject to Cut Content conditions specified here..
+An online discussion strictly related to gameplay mechanics (not lore or canon) that has at least two of the following three requirements:
+Is supported by in-game testing with explicit numbers and test parameters (must be quantitative and measurable, not anecdotal/qualitative test data).
+Uses a related foundation of explicitly devconfirmed mechanics data (or trivially derived conclusions); extra plus if it uses devconfirmed methodology1.
+Is corroborated with game data files.
+If #1 is not met, then the discussion must be virtually self-evident from #2 and #3 (such as being trivially verifiable). In addition, the discussion must fulfill all of the following:
+Must be clear that the discussion is inclusive of past discussions if necessary; i.e. if there have been three increasingly more accurate discussions and test about a mechanic, don't source the first one.
+There must be general consensus in the follow-up discussion; i.e. test data that is directly contradicted by all follow up posts is most likely flawed.
+The discussion must be a reasonably high-trafficked thread; i.e. a post that has test data but no follow-up peer analysis has likely not had a chance to be verified.
+In addition, the emphasis on conditionally valid source means that if the edit being supported by this source is challenged by another editor, then explicit verification is necessary—whether by trivial "makes sense" gameplay or by actual re-running of tests, depending on the complicatedness of the test data or the controversiality of the edit—by three wiki editors.
+Furthermore, any mechanics discussion related to probabilistic or statistical analysis cannot be conditionally valid, as no one player (or even a group of players) can possibly provide a statistically significant sample size to state anything definitive about the odds of something happening unless explicitly devconfirmed otherwise.
+1Note: The only devconfirmed methodology is direct memory scanning using external tools.
+Invalid Sources[]
+Wikipedia. Wikipedia presents general facts, the Mass Effect Wiki is for specialized information. It is only fitting and logical we cite from the actual sources pertaining to the franchise, not from any other third-hand party that cites sources both approved and unapproved by this wiki - which Wikipedia undoubtedly does.
+IMDb. Like this wiki and Wikipedia in that anyone can edit their pages, but with less stringent methods of acceptance (if there's actually any). Although if, for example, we are citing voice actors with legitimate confirmation sources it's acceptable to provide IMDb links to the Mass Effect characters that they voiced ONLY IF they do not have articles on Wikipedia.
+Private messages. Anyone can say they PM'ed a dev over so-and-so, even provide screenshots to back it up, but the problem is that the data is not independently verifiable. Not to mention anyone can doctor photographic "evidence" nowadays. Therefore, we highly encourage people wishing to pursue such avenues of correspondence to convince the concerned developer/s to post the relevant information on a publicly-viewable medium: BSN forums under BioWare-certified usernames, their valid Twitters, and so on.
+Unconfirmed sources. By this, it means those unlisted in the valid sources.
+Criteria for Confirming Unconfirmed Sources[]
+A confirmed source linking to the unconfirmed source in a post concerning unconfirmed source's role in the franchise.
+Hypothetical example: MEOfficial Twitter: @anthonyskordi voiced Leviathan.
+Real example: The way Patrick Weekes' work Twitter account was confirmed for the purposes of this wiki, above in the valid sources.
+In case of video evidence, the personalities involved should be shown stating or doing in no uncertain terms the things they were cited with.
+Example: Mark Meer interviewed where he says he voiced all the vorcha and the hanar. For relative unknowns, verification is still subject to previous point.
+In case of unconfirmed source confirmation, add them to the list of valid sources with a note describing how and why.
+Addenda[]
+Furthermore, we ask people that if they're trying to add unconfirmed sources, confirmation in accordance with the guidelines above falls under their responsibility, not others. There may be those who are willing to do some e-detective work in collaboration but there's no escaping the fact that people can be busy on other pursuits and may not be able to help all the time.
+Consult the General Manual of Style for help in setting up reference sections when needed, or just look at any other similar article's source code to see how they are set up.
+Lastly, a general rule of thumb to follow instead of reading everything above: Mass Effect Wiki likes devconfirmation.
+
+References[]
+
+↑ 1.0 1.1 1.2 1.3 1.4 Introducing Some Dev Team Leads for the Next Mass Effect
+
+↑ https://twitter.com/DaveFeltham/status/398487966135230464
+
+↑ https://twitter.com/bioware/status/662722613626605569
+
+↑ https://twitter.com/bioware/status/662360193020403713
+
+↑ https://twitter.com/bioware/status/661621640061521920
+
+↑ https://twitter.com/tibermoon/status/805450836981714944
+
+↑ BLOG: Dusty Everman
+
+↑ https://twitter.com/DustyEverman/status/836757863976488960
+
+↑ https://twitter.com/#!/masseffect/status/184768294258098177
+
+↑ https://twitter.com/PatrickWeekes/status/268938761205858305
+
+↑ BLOG: From Fan to Developer
+
+↑ Interview with Writer Sylvia Feketekuty
+
+↑ https://twitter.com/GambleMike/status/827379024326332419
+
+↑ https://www.reddit.com/r/masseffect/comments/9vcbf7/i_am_catherynne_m_valente_author_of_mass_effect/
+
+↑ https://www.reddit.com/r/books/comments/5frf10/im_catherynne_m_valente_author_of_radiance_the/
+
+↑ https://twitter.com/SamuelHorti/status/1226121047377940480
+
+↑ https://twitter.com/Sylvf1/status/927967311239168000
+
+↑ BLOG: Sam Hulick
+
+↑ https://twitter.com/SamHulick/statuses/310123022713503745
+
+↑ https://twitter.com/sumaleedotcom/status/273991299252768768
+
+↑ 21.0 21.1 https://twitter.com/davidgaider/status/380154740853587969
+
+↑ BioWare BLOG: I’m Sad That Hanar Can’t Wear Sweaters
+
+↑  https://twitter.com/bioware/status/241979757552615425
+
+↑ https://blog.bioware.com/2017/07/31/remembering-corey-gaspur/
+
+↑ Wikia staff blog post
+
+↑ http://web.archive.org/web/20160815011256if_/https://twitter.com/DaveFeltham/status/398487966135230464
+
+
+
+
+

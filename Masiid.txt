@@ -1,0 +1,58 @@
+
+
+
+
+
+Masiid
+
+Region
+Andromeda / Heleus Cluster / Valay
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+6.2 AU
+
+
+Orbital Period
+11.9 Earth Years
+
+
+Keplerian Ratio
+1.683
+
+
+Radius
+8,529 km
+
+
+Atm. Pressure
+0.00 atm
+
+
+Surface Temp
+−53 °C 
+
+
+Location: Andromeda / Heleus Cluster / Valay System /  Fourth planet
+
+
+Description[]
+Platinum and cobalt form the outer layer of Masiid's surface, pitted and cracked by innumerable meteor strikes.
+
+Anomaly[]
+Aluminum[]
+DATA:
+Aluminum
+ANALYSIS:
+A valuable light metal. This deposit is close to the surface and relatively easy to mine.
+Awards a random small amount of Aluminum when scanned.
+
+
+
+

@@ -1,0 +1,39 @@
+
+
+
+The cabling that connects the main Peak 15 facility to the subsidiary labs is down. The trams will not operate until this is fixed.
+Acquisition[]
+Prerequisite: Noveria: Peak 15
+
+The mission is acquired upon reactivation of the Mira VI. It is one of two tasks you need to do before progressing further.
+
+Walkthrough[]
+Take the elevator behind the Mira core. Exit the elevator when it stops and save your game because you'll soon face an intense fight. When you emerge on the roof itself there are rachni all over the place: about 5 Rachni Soldiers and 10+ Rachni Workers. Use anything you can to take them out quickly.
+
+Do not charge out of the hallway. Instead, position your squad and move forward solo slowly. There are some rachni in the forward position so you can try to isolate and take them out. Wide-field biotic abilities can keep the rachni distracted while you hammer at them.
+Pulling back into the hallway can minimize the number of soldiers who have firing angles on you, allowing you to deal with workers moving forward or hurl grenades out to dispose of them. The rachni will not follow you back into the tunnel, nor do they regenerate their health, so you can also use the automatic door as a kind of blast shield when you need to take refuge and heal.
+Once the enemies are down reconnect the landlines and then access the nearby Mira Terminal for an update on the Rift Station and Hot Labs. She can also give you more information on what happened before you arrived. When you have everything you want, pick open the locked crate (easy Decryption) and head back down to the core.
+
+Enemies[]
+Rachni Soldier
+Rachni Worker
+
+Noveria Mission Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Noveria: Peak 15
+
+Missions
+
+Noveria: Contamination
+
+
+
+

@@ -1,0 +1,68 @@
+
+
+
+Kent Halsey traveled from the Nexus to locate his exile sister, Isabel, but he needs help. He thinks Velonia in the Paradise might have information to help find her.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak with Velonia
+2.2 Investigate the scavenger camp
+2.3 Find Isabel Halsey
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Elaaden: A New World
+
+Speak to Kent Halsey in the Paradise Sands (just outside The Paradise) on Elaaden. He is marked with a .
+Warning:  Isabel can be talked to before ever meeting Kent. If this happens, you will not be able to talk her out of her current lifestyle. This will effectively lock out the mission, since Ryder will tell Kent what Isabel's up to when they meet for the first time and conversation will then proceed to Ryder advising Kent to get on with his life.
+It's possible to bypass the requirement to talk to Velonia if you discover and explores the scavenger camp first which is easy to do given there's a plant sample for the mission Task: Cultivation right in front of the camp.
+
+Walkthrough[]
+Kent is on the desert moon looking for Isabel. She joined the rebellion and was exiled to Kadara. Somehow she pissed off the people there so badly that she was sent to Elaaden. Kent needs Pathfinder Ryder's help to find his sister and convince her to return to Kadara with him and give up the rogue's life. Kent suggests speaking with the Kadara salvager Velonia in The Paradise.
+
+Speak with Velonia[]
+Before heading to speak to Velonia, go down the stairs to the south and then to the east to find an Angaran Integrated Tech Node that can be scanned for +100 . Nearby, the Water Tanks can be scanned for +10 .
+Once you talk to her, Velonia says she doesn't know anything but did hear the name from a group of scavengers selling that day's salvage. Apparently they said that "Isabel's time is limited." Velonia says she stays out of others' business as it helps her longevity. She however will provide a navpointthat you can visit.
+
+Investigate the scavenger camp[]
+Head to the west Forward Station in the western Sea of Ataraxia and go further west to an outlaw camp . Ryder will come under fire from the outlaw forces. Defeat them.
+Next to one of the trees is one of the plant samples for the mission Task: Cultivation. Inside the lower level of the building is a lootable container. In the upper level of the building there is a lootable container outside the room. Inside the room is a large lootable container and a datapad.
+
+
+
+
+
+Update
+Shipment's delayed. You'll have to be the one to tell Big Taran he's not getting his guns. 
+
+
+I'll hold Isabel here 'til you do. Don't want things to get messy.
+
+
+
+After reading the datapad, a new navpoint will be added a short distance to the northeast.
+
+Find Isabel Halsey[]
+Heading to the navpoint takes Ryder to a cave behind a scavenger camp with a moderately strong force present - 8 Raiders and 2 Anarchists. Cover in the area is minimal except in the camp itself, so plan the attack accordingly. You may want to drive right into the camp and in the ensuing confusion take out the enemies.
+After all the scavengers are dead, Isabel radios in. She wants to talk to whoever's killing her men. A new navpoint is added inside the cave. Proceed into the cave to find Isabel.
+Inside the cave you will find a small base, run by Isabel, who's in no need of rescuing. She's got a new career on Elaaden, making weapons for gang leaders. She doesn't sell to Nexus people as a matter of principle, so there's no shop here. Isabel is respected and secure, and she sees no reason to leave.
+You can either talk Isabel into leaving with her brother (both options after telling her to leave work) or accept that she's staying. The mission concludes either way after the conversation.
+Regardless of the outcome of speaking with Isabel, Ryder can still explore Isabel's camp.
+Before leaving the cave, inside the small building is a lootable container and there is a Vanadium node behind the building.
+
+Aftermath[]
+After the mission, you can talk to Kent back at The Paradise. If Isabel is leaving with Kent, Kent thanks you. If Isabel is staying, Ryder advises Kent to get on with his life.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Elaaden viability
+
+
+

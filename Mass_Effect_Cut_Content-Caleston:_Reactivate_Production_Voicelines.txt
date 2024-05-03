@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut voicelines and dialogues related to the assignment Caleston: Reactivate Production. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 lav40_wrencarson (1)
+2 lav40_trig10_shutdown_encounter
+3 lav40_amb_cartelmerc_shutdown / lav40_amb_unionthug_shutdown
+4 lav40_wrencarson (2)
+5 lav40_wrencarson (3)
+6 lav20_trig19_wrencarson
+7 lav40_wrencarson (4)
+
+
+lav40_wrencarson (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_wrencarson_de.isb, lav40_wrencarson_fr.isb, lav40_wrencarson_it.isb
+Characters present:
+
+Wren Carson
+Commander Shepard
+
+Wren Carson: Billy! Hold it! Wait! Hold it one second! You! Yes, you! What are you doing here? This area is off-limits.
+
+(Par) Relax, it's fine. (Neu) I have clearance. (Ren) Not your concern.  Shepard: Tombiri gave me the code to get in. I won't touch anything.Wren Carson: That's fantastic, but you don't know your way around. She should have known better than to let rookies in. This is the danger zone. If you fall into one of the clearly-marked flows of lava, I can't help you. And neither can our insurance company. Shepard: The administrator gave me a pass. I'm just looking around.Wren Carson: Oh yeah? Then why don't you go some place where you don't risk getting crushed by a pile of company-ensured materials. This is the danger zone. If you fall into one of the clearly-marked flows of lava, I can't help you. And neither can our insurance company. Shepard: If I came here, there must be a reason.Wren Carson: Fine! Go get your ass set on fire, what do I care? This is the danger zone. If you fall into one of the clearly-marked flows of lava, I can't help you. And neither can our insurance company.
+(Neu) Goodbye. (Inv) Who are you?  Shepard: I'll be going.Wren Carson: Yeah, sure.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to last choice) Shepard: I don't think I've caught your name.Wren Carson: Wren Carson. Maintenance officer on this station.
+(Neu) Goodbye. (P Inv) How's your job? (Inv) Where's the Union office?  Shepard: I'll be going.Wren Carson: Yeah, sure.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to last choice) Shepard: How are the working conditions in this place?
+(If Smiley hasn't been eliminated) (If Smiley has been eliminated)  Wren Carson: Better watch out. Some dimwits in my crew think they're better than the rest because they've got a gun and an itchy trigger finger. As if I didn't have enough worries with the south line being down. And as if that wasn't enough, we've got the Union and Cartel shooting each other while we work.
+(Neu) Goodbye. (P Inv) You need repairs? (Inv) Where's the Union office?  Shepard: I'll be going.Wren Carson: Yeah, sure.(End of conversation) Shepard: What's wrong with the south line?Wren Carson: The gravitic stills and the pyrolines are down. Not that the Union or Cartel give a crap. They're too busy shooting each other. One of the gravitic stills has a breach, but that's very heavy machinery. We used to move pieces like that with mass effect fields. It's a simple fix. But the Union and Cartel are constantly fighting over there. I won't send my men in the middle of a firefight. Mechanical failure in the pyrolines. Any diagnostics omnitool should be able to identify the problem.
+(Neu) I'm on it. (P Inv) Where do I go? (Inv) Where's the Union office?  Shepard: I'll see what I can do.Wren Carson: I'd appreciate it, but I'm not holding my breath. Can't expect competent technicians to fall in my lap from orbit.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to overarching choice) Shepard: Where would I find that?Wren Carson: You see that door? That's the refinery. All the people working there are Union. The pyrolines are just beyond that door. The gravitic stills are at the back, near the Cartel labs.(Return to last choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice) Wren Carson: Now that the Cartel is gone for good, we can finally fix the south line.
+(Neu) Goodbye. (P Inv) You need repairs? (Inv) Where's the Union office?  Shepard: I'll be going.Wren Carson: Yeah, sure.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to overarching choice) Shepard: What's the matter with the south line?Wren Carson: There are two problems. One of the gravitic stills has a breach, but that's very heavy machinery. We used to move pieces like that with mass effect fields. Mechanical failure in the pyrolines. Any diagnostics omnitool should be able to identify the problem.
+(Neu) I'm on it. (P Inv) Where do I go? (Inv) Where's the Union office?  Shepard: I'll see what I can do.Wren Carson: I'd appreciate it, but I'm not holding my breath. Can't expect competent technicians to fall in my lap from orbit.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to overarching choice) Shepard: Where would I find that?Wren Carson: You see that door? That's the refinery. All the people working there are Union. The pyrolines are just beyond that door. The gravitic stills are at the back, near the Cartel labs.(Return to last choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice)
+lav40_trig10_shutdown_encounter[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_trig10_shutdown_encounter_de.isb, lav40_trig10_shutdown_encounter_fr.isb, lav40_trig10_shutdown_encounter_it.isb
+Characters present:
+
+Commander Shepard
+Unnamed Cartel turian male
+Unnamed Union human male
+
+Union human: The production lines are Union territory! So scram!
+Cartel turian: Raciloma says the labs need to expand, and since this room has no use...
+Union human: Because you idiots shot up all the equipment!
+Cartel turian: It's empty! So you'd better leave it to us, and run away.
+Union human: You're that Shepard, right? Sessa told us to clear out the Cartel. Give us a hand.
+
+(Neu) Not my problem. (Inv) Damn Cartel...  Shepard: We're staying out of it.Union human: You can't fool us. You're with us, right?
+(Neu) I don't think so. (Inv) You Cartel men should go.  Shepard: Am I supposed to be scared of some goon with a sawed-off shotgun?Union human: Amazing. They noticed.Cartel turian: Enough games. Get rid of them! Shepard: I think you mercs had better step back. Slowly.Cartel turian: You had better go take a hike.Union human: To hell with you! Just shoot them all! Shepard: I don't work with drug dealers.Union human: Damn right.Cartel turian: Just great. More of those Union amateurs.
+(Neu) I'm not Union. (Inv) You Cartel men should go.  Shepard: Ever seen someone in the Union armed like this?Cartel turian: I should have known. Your guns aren't held together by duct tape.Union human: You have chosen to be on the wrong side?Cartel turian: Fine, take them all out! Shepard: I think you mercs had better step back. Slowly.Cartel turian: I don't think so. Open fire!
+(End of conversation)
+
+lav40_amb_cartelmerc_shutdown / lav40_amb_unionthug_shutdown[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_amb_cartelmerc_shutdown_de.isb, lav40_amb_cartelmerc_shutdown_fr.isb, lav40_amb_cartelmerc_shutdown_it.isb, lav40_amb_unionthug_shutdown_de.isb, lav40_amb_unionthug_shutdown_fr.isb, lav40_amb_unionthug_shutdown_it.isb
+Characters optionally present:
+
+Unnamed Union human
+Unnamed Cartel turian
+
+(If Shepard sided with the Union)
+Union human: I'm glad you're on our side.
+
+Union human: What do you say? Wanna help me with target practice?
+
+Union human: Thanks for the help.
+
+Union human: Don't let it go to your head.
+
+Union human: The Union could use someone like you.
+
+Union human: The Cartel is always pushing for more turf.
+
+(If Shepard sided with the Cartel)
+Cartel turian: Thanks for the help.
+
+Cartel turian: Don't let it go to your head. We're keeping an eye on you.
+
+Cartel turian: The Cartel could use someone like you.
+
+Cartel turian: Those damn amateurs make me sick.
+
+lav40_wrencarson (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_wrencarson_de.isb, lav40_wrencarson_fr.isb, lav40_wrencarson_it.isb
+Characters present:
+
+Wren Carson
+Commander Shepard
+
+Wren Carson: If you've got something to tell me, say it loud!
+
+(Neu) Goodbye. (P Inv) The still is fixed. (R Inv) The pyrolines should work. (Inv) Where's the Union office?  Shepard: I'll be going.Wren Carson: Yeah, sure.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to last choice) (Only if the gravitic still was repaired)Shepard: I've repaired the gravitic still.(If Carson wasn't told the pyrolines were also fixed)Wren Carson: Without the pyrolines, it won't do much good.(If Carson was told the pyrolines were also fixed)Wren Carson: Really? That's nice of you. You wouldn't also have the time the finish the job, by any chance?
+(Neu) I'm on it. (Inv) Where's the Union office?  Shepard: I'll see what I can do.Wren Carson: I'd appreciate it, but I'm not holding my breath. Can't expect competent technicians to fall in my lap from orbit.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to overarching choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice) (Only if the pyrolines were repaired)Shepard: I've repaired the pyrolines.(If Carson wasn't told the still was also fixed)Wren Carson: Without the gravitic stills, it won't do much good.(If Carson was told the still was also fixed)Wren Carson: Really? That's nice of you. You wouldn't also have the time the finish the job, by any chance?
+(Neu) I'm on it. (Inv) Where's the Union office?  Shepard: I'll see what I can do.Wren Carson: I'd appreciate it, but I'm not holding my breath. Can't expect competent technicians to fall in my lap from orbit.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to overarching choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice)
+lav40_wrencarson (3)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_wrencarson_de.isb, lav40_wrencarson_fr.isb, lav40_wrencarson_it.isb
+Characters present:
+
+Wren Carson
+Commander Shepard
+
+Wren Carson: If you've got something to tell me, say it loud!
+
+(Neu) Goodbye. (P Inv) I've fixed the south line. (Inv) Where's the Union office?  Shepard: I'll be going.Wren Carson: Yeah, sure.(End of conversation)(Re-initiating conversation)Wren Carson: If you've got something to tell me, say it loud!(Return to last choice) Shepard: I've repaired the south production line.Wren Carson: What kind of crap are you trying to pull? Billy!Billy: Yes, ma'am.Wren Carson: Run diagnostics on the south line.Billy: Seems to be working, ma'am. The pyrolithic vats are active, and the gravitic stills are performing well.Wren Carson: Well I'll be damned. Heh. If I was as sappy as my sister, I'd hug you to your last breath.
+(Par) My pleasure. (Neu) You're welcome. (Ren) How about paying me?  Shepard: Happy to help.Wren Carson: The gangs won't be happy about it. Watch your back. Shepard: Don't mention it.Wren Carson: The gangs won't be happy about it. Watch your back. Shepard: A fat load of cash wouldn't hurt.Wren Carson: You don't say. The gangs won't be happy about it. Watch your back.
+(Neu) Goodbye. (P Inv) How's your job? (Inv) Where's the Union office?  Shepard: I'll be going.Wren Carson: Thanks again!(End of conversation)(Re-initiating conversation)Wren Carson: We're still performing safety checks on your repairs.(Return to last choice) Shepard: How are the working conditions in this place?Wren Carson: Getting better. Those repairs probably didn't earn you any friends in the gangs. But me and my crew, we could kiss you. Say, since you're in the mood for miracles, think you could do something about the smell too? It's hot and dangerous, and this whole goddamn moon stinks like hell.(Return to last choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice) Shepard: Is the Miners' Union's office nearby?Wren Carson: It's not an office, more like some kind of watchpost to keep the mining slaves on a leash. And don't expect to find actual miners there.(Return to last choice)
+lav20_trig19_wrencarson[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig19_wrencarson_de.isb, lav20_trig19_wrencarson_fr.isb, lav20_trig19_wrencarson_it.isb
+Characters present:
+
+Wren Carson
+Commander Shepard
+
+Wren Carson: Hey, I've been looking for you.
+
+(Neu) Let's stay calm. (Inv) Everything good?  Shepard: Whatever you may have heard, it's all lies.Wren Carson: The south line is up again, thought you'd like to know. See you later. Shepard: How are things going at the refinery?Wren Carson: Pretty well. The south line is up again, thought you'd like to know. See you later.
+(End of conversation)
+
+lav40_wrencarson (4)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_wrencarson_de.isb, lav40_wrencarson_fr.isb, lav40_wrencarson_it.isb
+Character present:
+
+Wren Carson
+
+(After Shepard has sided with the Union)
+Wren Carson: Sorry, I ain't got time to chat with Union goons.
+
+Wren Carson: I've paid my dues for the month, so leave me alone.
+
+(If Shepard destroys the Cartel)
+Wren Carson: Everything's gone back to how it was before the Cartel. It's no paradise world, but at least you won't get shot.
+
+Wren Carson: Without the gangs, things are slightly better. At least my guys don't risk getting shot while working.
+
+(Note: if Tombiri was eliminated, Carson becomes the new administrator. See Mass Effect Cut Content/Caleston: Last Man Standing: Infiltrate Gangs Voicelines#lav20_trig24_wren_admin (1).)
+
+
+
+

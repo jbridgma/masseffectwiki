@@ -1,0 +1,98 @@
+
+
+
+This article or section is a stub. You can help Mass Effect Wiki by  expanding it. 
+Chief Engineer Grace Lito was one of the last people off Eos after watching both Promise and Resilience slowly fail. She went back into cryo on the Nexus. She might be willing to redeploy once your outpost is placed.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Find emergency muster point
+2.2 Talk to Addison and Assistant to redeploy Lito
+
+
+3 Aftermath
+4 Rewards
+5 Trivia
+
+
+Acquisition[]
+In the area on the cliffs southeast of Site 1: Promise, there is a datapad marked with a . Reading the datapad will place this mission in the Journal.
+
+Walkthrough[]
+Find emergency muster point[]
+Go to the cliffs and read the datapad.
+
+
+
+
+The Chief Engineer
+
+Login: Chief Engineer Grace Lito
+New Entry: Final Entry. I’m closing muster point Delta and calling the evacuation complete. No one left is responding. I swore to them…
+Pause.
+
+—
+
+Resume. Enough of that. I couldn’t even finish one damn project that might have saved them. This rock beat us and I accept my part. Joining the last shuttle out. Likely back into cryo. I won’t be a drain if this is the long slide. But if there’s a way to finish what we started, I’ll be back. This is Chief Engineer Grace Lito, E-97-Durango. Out.
+
+
+END LOG
+
+
+Talk to Addison and Assistant to redeploy Lito[]
+Back on the Nexus, talk to Foster Addison about getting a specific sleeper out of cryo. She'd rather not be involved in that decision-making, however, and turns Pathfinder Ryder towards her assistant, Vladimir Brecka. Ask him to bring Eos Chief Engineer Grace Lito out of cryostasis to complete the mission.
+
+Aftermath[]
+After completing the mission, Grace Lito can be found in Dr. Ramirez' clinic in Prodromos.
+
+Rewards[]
++270 XP (doesn't show on screen)
+Trivia[]
+On Eos, Ryder can find two bodies of previous colonists with datapads next to them. 
+
+One, Aman Kothari, is near the Forward Station next to the outpost , under the awning.
+
+
+
+Personal Log: Chief Lito 
+Login: Chief Engineer Grace Lito 
+
+New entry: Specialist Kothari needs to stop navel-gazing about the monoliths and whoever built them. We need that speculating mind of his. If it doesn't grow food, stop wind, or get Special Project Sigma done, it's not worth our time right now. His team is looking at the big structures, and they'll do good work, but I tagged his runner just in case.
+Vehicle tracking code: Grace-delta9 
+
+
+END LOG
+
+
+The other, Samantha Bristol, is along the southeastern shore of the lake near Site 1 and 2.
+
+
+
+Log: Samantha Bristol
+Login: recognizing Operations Engineer Samantha Bristol
+
+New entry. I actually outran them! Holy smokes! Fine, the storm kicking up
+probably did more, but I’ll take any victory right now. I saw their ship take
+off mid-battle. Even the kett respect Eos’ storms. I’ll rest up and try to find
+my way back to Resilience.
+
+Jacine… I hope you made it too.
+
+New entry. I keep getting turned around. My compass can’t keep a clear
+bearing. What the hell? Is there something buried nearby that’s affecting it?
+I’ll ask Chief Engineer Lito when I get back.
+
+New entry. Still lost. Dust storm. Getting scared. Please. Someone?
+
+New entry. Someone’s there all in white, Jacine? Please Jacine.
+
+
+END LOG
+
+
+If the datapads are both examined before reading Lito's datapad, Ryder will wonder what happened to the chief engineer. Otherwise, SAM will say that their deaths were not forwarded to the Nexus, as the chief engineer halted records.
+
+
+

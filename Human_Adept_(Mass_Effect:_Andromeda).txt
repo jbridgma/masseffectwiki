@@ -1,0 +1,157 @@
+
+
+
+For the Human Adept in Mass Effect 3 Multiplayer, see Human Adept.
+For the Ex-Cerberus Human Male Adept, see Project Phoenix Adept.
+
+
+Human Adept
+
+
+
+
+
+							Male
+							
+						
+
+
+
+							Female
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Race
+Human
+
+
+Rarity
+Common
+
+
+Availability
+Starting Character
+
+
+
+A powerful biotic with light armor who uses powers to control crowds and cause widespread damage.
+Male: The Human Adept doesn't really talk about why he joined the Initiative; in fact, he doesn't talk much at all. Given the quiet intensity with which he rips through enemies, none of his teammates are rushing to ask about his past.
+Female: The Human Adept doesn't much care about the romance of settling a new galaxy. What she sees here is a power vacuum—and she's damn well going to fill it.
+
+Contents
+
+1 Skills and stats
+2 Player Notes
+
+2.1 General Notes
+2.2 Kett
+2.3 Outlaw
+2.4 Remnant
+
+
+
+
+Skills and stats[]
+
+
+
+
+
+ Health: 500     Shields: 250
+
+
+Powers
+
+Singularity
+
+
+Pull
+
+
+Shockwave
+
+
+Passives
+
+Offensive Biotics
+
+
+Barrier
+
+
+Veteran Bonus
+
+
+Melee
+
+Biotic Punch
+
+
+Bonus Stat
+
+Health Regeneration Cap
+
+
+Player Notes[]
+General Notes[]
+The Human Adept depends more on their powers than their guns. As such, they can only carry up to 30 weight units' worth of guns without slowing their recharge speed.
+The Human Adept somewhat lacks direct countermeasures against shields and armor, and can only affect significant damage through exposure to biotic explosions or continuous gunfire.
+Pull or Singularity can prime biotic explosions while Shockwave can set them off. Shockwave can also prime explosions at rank 6. Pull and Singularity can be configured to be anti-shield, while Shockwave can be configured to deal more damage to armor at rank 6 instead of being another primer.
+Kett[]
+
+Outlaw[]
+
+Remnant[]
+
+
+
+
+
+Mass Effect: Andromeda Multiplayer and APEX HQ
+
+
+
+
+
+
+
+Common
+
+Human Adept • Human Engineer • Human Infiltrator • Human Sentinel • Human Soldier • Human Vanguard
+
+
+Uncommon
+
+Asari Adept • Asari Sentinel • Krogan Engineer • Krogan Vanguard • Salarian Infiltrator • Turian Soldier
+
+
+Rare
+
+Angara Insurgent • Asari Huntress • Batarian Scrapper • Human Artificer • Human Commando • Human Guardian • Human Juggernaut • Krogan Mercenary • Salarian Architect • Turian Agent • Turian Havoc Trooper
+
+
+Ultra Rare
+
+Angara Avenger • Angara Exemplar • Asari Duelist • Batarian Vanguard • Human Kineticist • Krogan Gladiator • Salarian Operator
+
+
+
+

@@ -1,0 +1,23 @@
+
+
+
+Take random junk lying on the floorPass by random people and solve their problems1/2An OSD containing data related to the salarian Kirosa family has been found. It looks like something lost in the chaos of Nassana's attack.
+Acquisition[]
+Prerequisite: Dossier: The Assassin
+
+During the mission to recruit Thane Krios, you will go up an elevator and then may or may not throw an Eclipse Trooper out the window. On the floor right next to the elevator you came in is a datapad with the Kirosa family genetic database. Taking the datapad starts the assignment.
+
+Walkthrough[]
+While running around on the cargo transfer level in Nos Astra you can overhear a salarian talking about the lost data and the difficulty of retrieving it from the Dantius Towers. This datapad is the exact thing he's looking for.
+
+
+All you have to do for this assignment is return the datapad to this salarian, located at the bottom of the stairs when you enter the cargo transfer level (Nos Astra middle hall) when coming from the trading floor (Nos Astra first hall). The datapad turns out to contain a "pedigree" of the salarian's family, crucial for their reproduction negotiations and ensuring the future of this family. 
+The salarian will say that his clan's backup copies were destroyed by a rival family's viruses. He spent a fortune reconstructing that data, but unfortunately lost it when Nassana went crazy and purged her workers. That is why the salarian will be quite grateful for returning him the data. You either get 5 Paragon points for returning the data plus an additional 2 Paragon or Renegade points depending on how you interrupt the salarian's call.
+The salarian's ambient dialogue in the aftermath changes depending on whether you gave him the data or not.
+
+Mission Summary[]
+Experience reward: 40 (50)
+Credits: 1,500
+
+
+

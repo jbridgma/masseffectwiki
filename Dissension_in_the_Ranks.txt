@@ -1,0 +1,113 @@
+
+
+
+Nakmor scouts from New Tuchanka have reported kett ships crashed on Elaaden. They believe this is something that warrants a Pathfinder's attention.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Check your email
+2.2 Investigate the crashed kett ships on Elaaden
+2.3 Defeat the kett
+2.4 Search the site
+2.5 Speak with Suvi on the Tempest
+2.6 Confer with Lexi
+2.7 Locate the source of the signal on Eos
+2.8 Scan the relay to track down source of Signal
+2.9 Track the signal to the second relay
+2.10 Track the signal to the third relay
+2.11 Track the signal to the fourth relay
+2.12 Investigate the building
+
+
+3 Rewards
+4 Trivia
+
+
+Acquisition[]
+Prerequisite: Hunting the Archon
+
+Prerequisite: Know Your Enemy
+
+Starts automatically upon the completion of both prerequisites.
+
+Walkthrough[]
+Check your email[]
+
+
+
+Message from New Tuchanka: Troubling Kett Activity
+
+To: Ryder
+From: Nakmor Clan
+
+Pathfinder, 
+
+Nakmor scouts recently returned with a troubling report. Two kett ships crashed on a plateau on Elaaden after taking damage flying through the Scourge. One scout swears she saw one of the ships firing upon the other as they went down, but we are unable to verify this claim.
+
+If there are survivors from this crash, the desert will quickly claim their lives, However, we believe the circumstances surrounding the crash unusual enough to warrant bringing to the attention of the Pathfinder.
+
+
+The Nakmor Clan of New Tuchanka
+
+
+Acknowledge the message to obtain the next objective.
+
+Investigate the crashed kett ships on Elaaden[]
+Head to the navpointin the Gehenna Valley on Elaaden.
+
+Defeat the kett[]
+On your arrival, kett will be fighting kett. Eliminate them.
+
+Search the site[]
+After the battle, search the site. There is a lootable container at each crash site and on the ground between the sites is a kett datapad. It's is locked in an unusual way, and surprisingly SAM is unable to hack it, so he suggests you take the datapad to the Tempest for analysis.
+You receive +29 AVP  and +2% Elaaden viability.
+
+Speak with Suvi on the Tempest[]
+Dr. Suvi Anwar has discovered that the datapad is biometrically locked. Acquiring the right kett genetics isn't easy but Suvi has an idea that might work. The genetic codes Pathfinder Ryder scanned on Voeld might be useful. Dr. Lexi T'Perro has been doing some research on the genetic codes.
+
+Confer with Lexi[]
+Speak with Lexi in the Med Bay on the Tempest. She has done the sequencing of the scanned kett DNA. 
+Suvi suggests a brute force hack, Lexi is skeptical at first but with SAM's processing power he tries them all in different combinations very quickly. The datapad is quickly unlocked. 
+It turns out the datapad doesn't contain any logs or messages - just a signal that locked on to a transmission. Ryder is concerned that the signal may compromise the Tempest but SAM says that this is just a receiver and that there is no risk.
+In an audio log, a mysterious kett says that the Archon is on the wrong path with his obsession of the Remnant and has to be destroyed unless he returns to the right path. If the Archon is already dead, the voice instead declares that any who still follow the Archon will share his fate. Suvi manages to track the source of the transmission and gives Ryder the location of a navpoint on Eos.
+
+Locate the source of the signal on Eos[]
+Head to Prodromos on Eos. The navpoint is located to the north of Prodromos in a tunnel through the mountain. Inside the tunnel there is kett camp with multiple kett forces. Approaching the navpoint in the tunnel adds a new objective. Defeat the kett. 
+
+Scan the relay to track down source of Signal[]
+After the kett are defeated, there are several areas to explore in opposite sides of the tunnel. 
+
+There are 4 lootable containers between the two locations. (Some are on top of containers)
+There are many Cadmium nodes in the tunnel.
+Scan the Mobile Relay Aiz to obtain the next objective as well as +10 .
+
+Track the signal to the second relay[]
+The next navpoint is located northeast of The Sheartop. This navpoint leads to a second relay inside an energy shield and protected by kett forces. Dispose of them and use the Kett Power Generator to turn off the power to the shield. Scan the Mobile Relay Shu to obtain the next objective as well as +10 . There is a Titanium node on one of the rocks in the area.
+
+Track the signal to the third relay[]
+The third navpoint is in the southern portion of the Presson Dunes (southwest of the second relay). This navpoint leads to a third relay inside an energy shield and protected by kett forces. Dispose of them and use the Kett Power Generator to turn off the power to the shield. Scan the Mobile Relay Zal to obtain the next objective as well as +10 . There is a Lithium node on one of the rocks in the area.
+
+Track the signal to the fourth relay[]
+The third navpoint is to the northwest in the Blackrock Tande. As Ryder approaches, Sam informs Ryder that the signal is strong and unobstructed, so this is probably the signal source. The site itself is a small building guarded by kett forces. Defeat the kett forces.
+When doing this mission after Meridian: The Way Home, the kett at the building will have already been killed, presumably by other kett.
+
+Investigate the building[]
+Inside the building are three audio logs criticizing the Archon, a lootable container, a Kett Core Encryption Tech that can be scanned for +100 , and a communications console. 
+Using the communications console will start a conversation with the Archon's adversary the Primus who will offer Ryder a deal. Ryder has two choices:
+
+Accept the deal and get a kill switch. During the final mission, this kill switch can be used to disable some of the Archon's ships, weakening the kett. Using the kill switch received from the Primus will prevent kett reinforcements from landing outside Meridian Control during Meridian: The Way Home. This reduces the amount of kett to defeat. Note: Ryder can still decide to not use the kill code if the deal is accepted.
+Don't accept the deal. Nothing happens.
+There are no other consequences known for either choice. After the choice is made, the mission ends.
+When doing this mission after Meridian: The Way Home, the audio logs will instead reveal that the Primus is purging all of the Archon's supporters and has re-established contact with the kett Senate, who are sending reinforcements. Ryder will not converse with the Primus.
+
+Rewards[]
++1330 XP
++29 AVP 
++2% Eos viability
+Trivia[]
+According to the scan readout of the mobile relay on Eos, it is also transmitting a series of beeps and tones that when translated to Morse code means "droogie don't crash here." Converting it back to Morse, the sequence reads as -.. .-. --- --- --. .. .     -.. --- -. ·----· -     -.-. .-. .- ... ....     .... . .-. . ·-·-·-.
+
+
+

@@ -1,0 +1,63 @@
+
+
+
+
+
+Lenuamund
+
+Region
+Milky Way / Silean Nebula / Phontes
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.3 AU
+
+
+Orbital Period
+0.2 Earth Years
+
+
+Keplerian Ratio
+0.675
+
+
+Radius
+11,975 km
+
+
+Day Length
+42.1 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+367 °C 
+
+
+Surface Gravity
+1.14 g
+
+
+Mass
+3.989 Earth Masses
+
+
+Location: Milky Way / Silean Nebula / Phontes System /  First planet
+
+Prerequisite: Priority: Rannoch (Mass Effect 3)
+
+Description[]
+Lenuamund's scorching hot surface is composed of lime with deposits of copper. It has faint traces of a nitrogen atmosphere. The elcor have left it untouched, aside from orbital probes that monitor the planet in case anything noteworthy should one day occur.
+
+
+
+

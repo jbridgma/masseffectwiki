@@ -1,0 +1,144 @@
+
+
+
+For the Human Infiltrator in Mass Effect 3 Multiplayer, see Human Infiltrator.
+
+
+Human Infiltrator
+
+
+
+
+
+							Male
+							
+						
+
+
+
+							Female
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Race
+Human
+
+
+Rarity
+Common
+
+
+Availability
+Starting Character
+
+
+
+Stealth expert who moves unnoticed around the battlefield with tech powers, then picks off enemies with well-placed shots.
+Male: One of the younger team members, the Human Infiltrator is more thrill-seeker than hardened combatant. His natural abilities make him effective, and his reckless nature can work both for and against him.
+Female: After losing her husband and child in a botched robbery back in the Milky Way, the Human Infiltrator came to Andromeda for a fresh start. She joined APEX to do some good—and to work through some anger and sadness.
+
+Skills and stats[]
+
+
+
+
+
+ Health: 500     Shields: 250
+
+
+Powers
+
+Sticky Grenade
+
+
+Tactical Cloak
+
+
+Incinerate
+
+
+Passives
+
+Munitions Training
+
+
+Combat Fitness
+
+
+Veteran Bonus
+
+
+Melee
+
+Omni-Blade
+
+
+Bonus Stat
+
+Health Regeneration Cap
+
+
+Player Notes[]
+General Notes[]
+Tactical Cloak is a must for any Infiltrator, making them invaluable to any objective wave. Devices can be disabled and items can be retrieved without being shot during Devices and Retrieval waves respectively. An Infiltrator can sit quietly holding a zone during Hack and Upload waves for the duration of the cloak; on Upload enemies are more likely to be drawn away to teammates defending other zones than cloaked Infiltrators. Sneaking up on targets in Assassination and Boss waves is encouraged as breaking cloak to attack gives sizeable damage bonuses.
+Weight restrictions allow for only 30 units' worth of guns initially. Rank 3 of Munitions Training increases that to 40 units. Unlike the traditional Infiltrators' focus on sniper rifles, the weapons' heaviness mean that in practice Infiltrators may have to make do with a light assault rifle/pistol combo, or a single sniper rifle or shotgun.
+The Infiltrator has innate anti-armor in Incinerate and Sticky Grenade can be configured to be effective against armor or shields. Focusing on anti-armor will greatly aid in bringing down the toughest armored units while having anti-armor and anti-shield options allows for a more versatile build.
+Infiltrators can be built to be sneaky melee attackers through certain rank choices in Munitions Training, Combat Fitness, and Tactical Cloak. This works for majority of enemies except those who float and those who can potentially insta-kill.
+Kett[]
+Sticky Grenades can level the Infiltrator's playing field against multiple cloaked kett units if their approximate positions are known. Destined can have their shields ripped if the Sticky Grenade is anti-shield.
+Outlaw[]
+Infiltrators have a high chance of dealing last hit on Hydras: cloaking for the damage buffs or escaping their focus, coupled with flurries of Incinerate and/or anti-armor Sticky Grenades.
+Remnant[]
+Sneaking up behind Nullifiers (and incinerating them) renders their forward-facing shields useless.
+
+
+
+
+Mass Effect: Andromeda Multiplayer and APEX HQ
+
+
+
+
+
+
+
+Common
+
+Human Adept • Human Engineer • Human Infiltrator • Human Sentinel • Human Soldier • Human Vanguard
+
+
+Uncommon
+
+Asari Adept • Asari Sentinel • Krogan Engineer • Krogan Vanguard • Salarian Infiltrator • Turian Soldier
+
+
+Rare
+
+Angara Insurgent • Asari Huntress • Batarian Scrapper • Human Artificer • Human Commando • Human Guardian • Human Juggernaut • Krogan Mercenary • Salarian Architect • Turian Agent • Turian Havoc Trooper
+
+
+Ultra Rare
+
+Angara Avenger • Angara Exemplar • Asari Duelist • Batarian Vanguard • Human Kineticist • Krogan Gladiator • Salarian Operator
+
+
+
+

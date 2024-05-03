@@ -1,0 +1,189 @@
+
+
+
+See also: Engineer Guide (Mass Effect 2), Engineer Guide (Mass Effect 3)
+
+Engineers are tech specialists. Using the holographic omni-tool, they can decrypt security systems, repair or modify technical equipment, disrupt enemy weapons or shields, and heal their squad. Engineers can only use light armor, and can only receive weapons training with pistols. 
+
+Contents
+
+1 Overview
+2 Talents
+
+2.1 Class Talents
+
+2.1.1 Pistols
+2.1.2 Basic Armor
+2.1.3 Decryption
+2.1.4 Hacking
+2.1.5 Electronics
+2.1.6 Damping
+2.1.7 First Aid
+2.1.8 Medicine
+2.1.9 Engineer
+2.1.10 Charm
+2.1.11 Intimidate
+2.1.12 Spectre Training
+
+
+2.2 Notable Bonus Talents
+
+2.2.1 Barrier
+2.2.2 Throw
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Assault Rifles
+3.2 Shotguns
+3.3 Sniper Rifles
+3.4 Pistols
+
+
+4 Combat Guide
+5 Squad Members
+6 Specialization Classes
+
+6.1 Operative
+6.2 Medic
+
+
+
+
+
+Overview[]
+The Engineer is the tech specialist of Mass Effect. Engineers have access to all tech talents, which can debuff a variety of attributes and effectively remove tactical options from enemies. This creates an imbalance in the party's favour in terms of the available capabilities of combatants. In practice, this means using abilities such as Overload to take shield durability away from dangerous enemies, and Damping to stun or disable talent abilities, giving the squad an opportunity to finish the enemy off. Engineers are at home when dealing with synthetic enemies, where a multitude of their abilities (eg shields for Overload, AI Hacking) are effective and their tech proximity mine damage is increased. However, the Engineer functions well against all enemies due to the versatility and amount of tech in use (eg every firearm/mass accelerator weapon can be overloaded and shut down) and the variety of tech abilities available, such as Neural Shock for dealing with organics.
+The major weakness of the Engineer is direct combat. Their only trainable weapon, the pistol, is best at mid-range, and sub-optimal at other ranges. At long and close-ranges, the enemy is either out of range or able to use close-range weapons with higher damage output to gain the upper hand. Using powers to avoid these engagements can help. In terms of survivability, there is a reliance on shields as they gain very basic armour talents: the strengthening from the Electronics talent compensates for their poor durability under weapons fire. Because they don't have access to any biotic abilities, or weapon combat abilities, make sure that the Engineer is well supported by these types of squadmates.
+
+Talents[]
+Class Talents[]
+Pistols[]
+Main article: Pistols
+Essential to the class, especially after using a tech talent against an enemy by following up with a barrage of fire from your pistol. Each talent point increases damage and accuracy of the pistol. Pistols are the only weapon that the Engineer has access to by default, so investing in this talent is well worth it.
+
+Basic Armor[]
+Main article: Basic Armor
+Unlocked with 6 points in Pistol
+This is a very good talent to invest in because the Engineer's lack of health or protection from enemy fire. The Shield Boost ability is very useful to have once you increased your shield strength. Each point increases damage resistance and hardening.
+
+Decryption[]
+Main article: Decryption
+The base ability of the Engineer class. It is extremely useful to deactivate an opponent's weapon as soon as you meet them so you have the advantage. Also allows the player to unlock crates and containers, amongst other things. Increases damage done by the explosion of all tech abilities.
+
+Hacking[]
+Main article: Hacking
+Unlocked with 7 points in Decryption
+Allows the Engineer to turn synthetic enemies against each other, which can be useful once you upgrade it a bit, but don't rely on it too much. Its more useful purpose is to reduce the recharge time on tech talents. Overall, pumping a few points into this would be a sound investment.
+
+Electronics[]
+Main article: Electronics
+Increases shield strength and unlocks Overload which is very useful as it disables shields, allowing you to directly attack an enemies health. This is very helpful to use on higher level enemies with tough shields and health. Increasing your shield strength is very important as you will need to rely on your shields to defend yourself.
+
+Damping[]
+Main article: Damping
+Unlocked with 4 points in Electronics
+Damping increases the radius of the tech talents' explosion. It allows you to use the ability to disable enemy tech and biotics, which can be useful against higher level enemies. This ability is among one of the powers that works against other organic and synthetic enemies, so it is worth investing a few points into it.
+
+First Aid[]
+Main article: First Aid
+Increases health returned when using Medi-gel and lowers its cooldown. It is not very important to the Engineer, unless you plan to do most of the work and take the brunt of the damage, then you might need to heal yourself more often. This talent is almost worth maxing out on higher difficulty levels. However, if you have another squadmate that also has the skill, then put the points there instead.
+
+Medicine[]
+Main article: Medicine
+Unlocked with 5 points in First Aid
+Reduces cooldown time on Medi-gel and allows you to use Neural Shock which can be fairly effective against organic targets. Because this is one of the few attacks that the Engineer can use against organic enemies, it is worth putting a few points here.
+
+Engineer[]
+Main article: Engineer
+This is the class talent for the Engineer. Putting a few points here will increase the Engineer's tech protection and decreases recharge time for all tech powers.
+
+Charm[]
+Main article: Charm
+Opens additional conversation options that are likely to increase Paragon points and reduces the cost of items purchased at vendors. When appointed as a Spectre and as Shepard gain Paragon points, Charm points will automatically be granted.
+
+Intimidate[]
+Main article: Intimidate
+Opens additional conversation options that are likely to increase Renegade points and increases the buying price for items sold to vendors. When appointed as a Spectre and as Shepard gains Renegade points, Intimidate points will automatically be granted.
+
+Spectre Training[]
+Main article: Spectre Training
+Grants the very useful Unity ability which, unless you are planning to specialize as a Medic, is the only way to revive KO'd squad members. It also improves weapon damage, which you will need because you can only use the pistol by default.
+
+Notable Bonus Talents[]
+Barrier[]
+Main article: Barrier
+Having a backup for your main line of defense, mainly your shields, is a sound investment. However the Engineer doesn't have a bio-amp slot, so be wary of investing points in any biotic talents.
+
+Throw[]
+Main article: Throw
+Throw would help deal with enemies when they get too close. However, as with all biotic powers, the Engineer doesn't have a slot for a bio-amp, so be equally wary of putting points in here.
+
+Weapons and Equipment[]
+Assault Rifles[]
+Main article: Assault Rifles
+Assault rifles are a passable choice for any bonus talent. Assault rifles helps in the Engineer's lack of combat abilities, and having it as a second weapon provides good offense against enemies at mid and long-range. However, its downside are that early in the game assault rifles tend to be sub-par in accuracy department and early on it will be outclassed by pistols and there is little point in wasting points on it. On the other hand, it is better than Shotguns and Sniper Rifles as a bonus Weapon Talent.
+
+Shotguns[]
+Main article: Shotguns
+Shotguns are not a desirable bonus talent for an Engineer for the sole reason that you need to be close to use it, where a biotic power would prove a better option. As the Engineer lacks health or damage protection, shotguns are not worth the effort trying to use them. However unlike other weapons you can use shotguns to great effect without training, making them a great secondary weapon if you don't specialize in anything else. Equipping these with sledgehammer rounds also give you a chance to knock down enemies before they can close the distance to deliver melee or shotgun damage.  
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Picking sniper rifles is one of those choices that can be a good or a bad thing. Snipers rifles largely depend on your play style. If you prefer to be at the backline, like the Engineer is supposed to be, sniper rifles would be good. However, if you prefer combat over power usage, then you'd be better off playing the Infiltrator class. With Hacking as a bonus power, you've practically got a fully-equipped engineer with weapon and armor bonuses.
+
+Pistols[]
+Main article: Pistols
+Pistols are the bread and butter of the Engineer and the only weapon that is available by default. Pistols are good at mid to close-range, and with the Marksman ability, you can do more damage. However, a second weapon would be a good choice too.
+
+Combat Guide[]
+First off, it may not be advisable to be an Engineer on your first playthrough. Engineers are somewhat weak compared to the other classes in weapons combat and the amount of damage that they can directly deal and receive is considerably lower than the other classes.
+Right when you get into the action, use some of your tech talents such as Sabotage to stop them from firing at you or Overload to take down their shields so you can thin their ranks in the first few minutes of combat. Make sure you try to target groups to affect as many enemies as you can, but sometimes it is better to target bigger threats. One thing to make sure you do is increase your shield strength and find armor that has a high amount of shields and damage protection so that you can adequately protect yourself. Increasing your Electronics talent is crucial to building up your shields.
+Increasing your Pistol talent points is also important because it is what deals damage to the enemies that you just disabled using your tech abilities. Accuracy is fairly important as you should be able to be a fair distance away from your enemies when you use your tech so that your squad mates can do most of the firing. With the pistol talent you also gain the Marksman ability, which greatly increases the damage output by granting increased accuracy and additional shots per second. With a fully maxed out pistol talent, and enabling the Master Marksman ability, the pistol is about equivalent to the assault rifle in regards to damage output.
+
+Squad Members[]
+In order to be an effective fighting force as an Engineer, your squad members should be powerhouses. As the Engineer is primarily for support, chosen teammates must be strong attackers. Ideal choices would be Ashley, Wrex, and Garrus. They can deal vast amounts of damage and Wrex's biotic powers can be very handy. Both Ashley and Wrex have a high amount of health which means they can take the heat off you and let them be your first line of defense. Garrus has many uses because of his ability to both deal damage and debuff enemies. Because of Tali sharing similar abilities with the Engineer, she is the least ideal squadmate.
+Liara can also be extremely useful due to her strong biotic abilities. She has access to Singularity, which is great for getting enemies close together for a Sabotage or Overload attack. Kaidan is not recommended for this purpose as his biotics are not as strong, and his tech skills overlap with the Engineer. This can be mitigated through focusing Kaidan on his biotic abilities, although his biotics will still not be as versatile as Liara's, especially due to his lack of the very useful Singularity.
+The Engineer's squadmates should have a high First Aid level, so that the Engineer doesn't have to waste more points on it than necessary to get access to Neural Shock.
+
+Specialization Classes[]
+Operative[]
+Main article: Operative
+This specialization allows the Engineer to specialize in Sabotage and Overload. Choosing this will also reduce recharge time on tech talents, which can really come in handy in long fights.
+
+Medic[]
+Main article: Medic
+Specializes in recharging medi-gel and increasing its effectiveness as well as increasing the effectiveness of the Neural Shock ability. With this specialization, fallen squad members can be revived during combat without using the Unity ability. Because of that, this makes the Medic more appealing on higher difficulties because if you are alone as an Engineer, you probably won't last long.
+
+
+
+
+
+Mass Effect Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Experience • Systems • Mako • Codex
+
+
+Achievements
+
+Completionist • Rich Achievement •  Party Member Achievements  Scholar Achievement • Weapon and Ability Achievements
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • Merchants
+
+
+
+

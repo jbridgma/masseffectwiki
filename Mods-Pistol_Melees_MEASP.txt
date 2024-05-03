@@ -1,0 +1,142 @@
+
+
+
+[Edit this tab]
+
+Basic - Pistol Melee Optimizer: Integrated VI improves synergy between melee weapon and firearm computer systems, allowing increased melee damage.
+Enhanced - Pistol Heavy Melee: Substantially increases melee damage, but at the cost of accuracy.
+Enhanced - Pistol Light Melee: Substantially increases melee damage, but at the cost of increased recoil.
+Note:  Pistol melee damage is not reflected in the displayed weapon stats.
+Note:  Pistol stability is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Pistol Melee Optimizer
+
++8%
+
++12%
+
++14%
+
++16%
+
++18%
+
++20%
+
++23%
+
++25%
+
++27%
+
++29%
+
+Pistol Melee Damage
+
+
+Pistol Heavy Melee
+
+N/A
+
++13%-8%
+
++16%-9%
+
++18%-10%
+
++21%-11%
+
++24%-12%
+
++27%-13%
+
++29%-13%
+
++32%-14%
+
++35%-15%
+
+Pistol Melee DamagePistol Accuracy
+
+
+Pistol Light Melee
+
+N/A
+
++13%-15%
+
++16%-18%
+
++18%-21%
+
++21%-24%
+
++24%-26%
+
++27%-29%
+
++29%-32%
+
++32%-35%
+
++35%-38%
+
+Pistol Melee DamagePistol Stability
+
+
+Level Unlocked
+
+1
+
+6
+
+11
+
+21
+
+31
+
+41
+
+51
+
+61
+
+71
+
+81
+
+-
+
+Equipping a Pistol Melee Mod changes the color of parts of the weapon, lighter or darker, depending on the specific weapon.
+
+
+
+

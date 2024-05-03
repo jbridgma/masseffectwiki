@@ -1,0 +1,168 @@
+
+
+
+
+Firebase Dagger is a multiplayer map in Mass Effect 3. It is located on Ontarom.[1] In single-player, the Galaxy at War mission N7: Communication Hub takes place on this map.
+
+Contents
+
+1 Description
+2 Hazard Version
+3 Locations
+
+3.1 Dark Side
+3.2 Array Control
+3.3 West Approach
+3.4 Comm Tower
+3.5 Pipeworks
+3.6 East Approach
+3.7 Outlook
+
+
+4 Player Notes
+5 References
+
+
+Description[]
+The human Eighth Fleet tried to hold off the Reapers' advance, but their primary defense failed. They rallied at a secret military station above the allied colony planet of Ontarom, only to find the Reapers waiting. The survivors' mission now is to harass the Reaper fleet, give cover to colonists fleeing the area, and reclaim a land-based communication station essential to the war effort.
+
+Hazard Version[]
+Mass Effect 3: Retaliation adds a version of Firebase Dagger that is set during a sandstorm. Visibility is decreased, making it harder to see enemy forces approaching.
+Locations[]
+Dark Side[]
+The rear walkways at the north of the facility. Players begin the match at the top of the Dark Side platform.
+
+Connects to the Outlook (up a ramp).
+Connects to the Pipeworks (down a ramp).
+Connects to the Array Control (through a doorway).
+There is an ammo dump next to the railing at the top of the Dark Side platform.
+This location is a possible location for extraction. 
+
+Array Control[]
+The central control area of the facility. Hallways connect to other areas of the map.
+
+Connects to the Outlook (down a small ramp at the end of a long hallway).
+Connects to the West Approach (down a ramp at the end of a short hallway).
+Connects to the Dark Side (through a doorway).
+West Approach[]
+The western walkways of the station.
+
+Connects to the Array Control (up a ramp).
+Connects to the Comm Tower (down two different ramps).
+Connects to the Pipeworks (down a ladder).
+There is an ammo dump next to the railing in the corner area of the map near one of the ramps down to the Comm Tower.
+This location is a possible location for extraction.
+
+Comm Tower[]
+The area surrounding a tall comm tower structure.
+
+Connects to the Pipeworks (down a ramp).
+Connects to the West Approach (up two different ramps).
+Pipeworks[]
+The lower central area of the map. 
+
+Connects to the Comm Tower (up a ramp).
+Connects to the East Approach (up a ramp).
+Connects to the East Approach (up climbable cover).
+Connects to the Dark Side (up a ramp).
+Connects to the West Approach (up a ladder).
+There is an ammo dump in a dark area next to left-hand side of the ramp up to the Comm Tower.
+
+East Approach[]
+The eastern walkways of the facility.
+
+Connects to the Pipeworks (down a ramp).
+Connects to the Pipeworks (dropping down climbable cover).
+Connects to the Outlook (up a ramp).
+Connects to the Outlook (up a ladder).
+Outlook[]
+A small platform area in one corner of the map.
+
+Connects to the Array control (up a small ramp).
+Connects to the East Approach (down a ramp).
+Connects to the East Approach (down a ladder).
+Connects to the Dark Side (down a ramp).
+There is an ammo dump next to the railing in the corner of the map.
+
+Player Notes[]
+General
+
+Grenade resupply for the ammo dump locations is twice the amount for the Hazard Map as it is for the General Map.
+
+
+Grenade Resupply Location
+Bronze
+Silver
+Gold
+Platinum
+
+
+Dark Side
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+Outlook
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+Pipeworks
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+West Approach
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+This map has multiple locations for extraction. Wait at the Array Control and check which one is active, instead of just running for one.
+The Array Control is an excellent location for sniping, as it overlooks much of the map. However, the central pillar allows enemies to sneak up on the sniper, especially through the connection to the Dark side.
+A team of four can very effectively hold the Array Control.  With one player watching the hallway that leads to the Outlook, another covering the Dark Side, and a third watching the West Approach, the fourth player can snipe from Array Control with impunity.
+Hazard
+
+The Collectors, with their brownish coloring, blend in easily with the storm. Use extra caution when fighting them.
+The geth on the other hand, with their flashlight eyes, are slightly easier to see in the sandstorm than some of the other enemies.
+While sniping is a good strategy on the regular map, it is a bit harder with the dust.
+References[]
+
+↑ http://www.masseffect.com/about/multiplayer/
+
+
+
+
+Mass Effect 3 Multiplayer Maps
+
+
+Original Maps
+
+Firebase Dagger • Firebase Ghost • Firebase Giant • Firebase Reactor • Firebase Glacier •  Firebase White
+
+
+Resurgence Maps
+
+Firebase Hydra • Firebase Condor
+
+
+Rebellion Maps
+
+Firebase Jade • Firebase Goddess
+
+
+Earth Maps
+
+Firebase Rio • Firebase Vancouver • Firebase London
+
+
+
+
+

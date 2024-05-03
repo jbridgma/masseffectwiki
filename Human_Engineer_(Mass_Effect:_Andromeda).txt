@@ -1,0 +1,143 @@
+
+
+
+For the Human Engineer in Mass Effect 3 Multiplayer, see Human Engineer.
+
+
+Human Engineer
+
+
+
+
+
+							Male
+							
+						
+
+
+
+							Female
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Race
+Human
+
+
+Rarity
+Common
+
+
+Availability
+Starting Character
+
+
+
+Clever tech expert that distracts, limits, and locks down opponents on the battlefield.
+Male: The Human Engineer was always good at science, but he knows he's got what it takes to be a leader—leaders should be the smart people, after all. He'll be a Pathfinder some day, just you wait and see.
+Female: Exuberant and enthusiastic, the Human Engineer loves using creative tech to blow things up. If it does the job and makes a spectacular explosion doing so, that's the best of both worlds.
+
+Skills and stats[]
+
+
+
+
+
+ Health: 500     Shields: 250
+
+
+Powers
+
+Cryo Beam
+
+
+Assault Turret
+
+
+Overload
+
+
+Passives
+
+Offensive Tech
+
+
+Support Systems
+
+
+Veteran Bonus
+
+
+Melee
+
+Omni-Blade
+
+
+Bonus Stat
+
+All Power Recharge Speeds
+
+
+Player Notes[]
+General Notes[]
+As the most basic of turret-deploying classes, the Engineer earns its keep on the battlefield as an area-defense specialist, particularly during Upload or Hack waves. With good configurations and cover for both the player and the turret, the Engineer can hold a spot by themself even with little to no assistance from teammates. Customizing for combo detonations, debuffing bonuses, and/or weapon versatility further increases effectiveness.
+Since the turret at rank 6 and/or Cryo Beam can prime detonations, and Engineers have Overload to set them off, the relevant ammo boosters can be disregarded in favor of other boosters.
+Weight restrictions allow for only 30 units' worth of guns initially. Weapon Mass Reduction at Offensive Tech rank 6 allows for taking up to 80 units. Overload and Cryo Beam work at any range while their cooldowns prevent spamming even with appropriate points in recharge speeds, and flamethrower turrets have limited range compared to cryo turrets. The Engineer can take any conceivable loadout and still be versatile, but choosing weapons should take into consideration compensating for available skills' recharge speeds.
+Kett[]
+Shooty Anointed can easily meet their match against shooty turrets and an Overload that quickly drops their shields.
+Outlaw[]
+Well-entrenched Engineers and their turrets can't be easily clamped down by onrushing Adhi, as one can function as a warning system for the other: the turret can guard the Engineer's blind spots and vice versa. Cryo Beam also helps at least slow down these fast-moving critters if there are too many coming in at the same time.
+Remnant[]
+All of the enemies are synthetic and a lot of them are shielded, making them particularly vulnerable to Overload. A rank 6 turret (or Cryo Beam) can also weaken the armored units enough and prime them for an Overload combo detonation.
+
+
+
+
+Mass Effect: Andromeda Multiplayer and APEX HQ
+
+
+
+
+
+
+
+Common
+
+Human Adept • Human Engineer • Human Infiltrator • Human Sentinel • Human Soldier • Human Vanguard
+
+
+Uncommon
+
+Asari Adept • Asari Sentinel • Krogan Engineer • Krogan Vanguard • Salarian Infiltrator • Turian Soldier
+
+
+Rare
+
+Angara Insurgent • Asari Huntress • Batarian Scrapper • Human Artificer • Human Commando • Human Guardian • Human Juggernaut • Krogan Mercenary • Salarian Architect • Turian Agent • Turian Havoc Trooper
+
+
+Ultra Rare
+
+Angara Avenger • Angara Exemplar • Asari Duelist • Batarian Vanguard • Human Kineticist • Krogan Gladiator • Salarian Operator
+
+
+
+

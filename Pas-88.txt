@@ -1,0 +1,61 @@
+
+
+
+
+
+Pas-88
+
+Region
+Andromeda / Heleus Cluster / Inalaara
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+2.9 AU
+
+
+Orbital Period
+5.1 Earth Years
+
+
+Keplerian Ratio
+0.938
+
+
+Radius
+2,426 km
+
+
+Atm. Pressure
+0.01 atm
+
+
+Surface Temp
+−86 °C 
+
+
+Location: Andromeda / Heleus Cluster / Inalaara System /  Second planet
+
+
+Description[]
+The dominant lifeform on Pas-88 appears to be a finger-length worm that thrives on the thin nitrogen and xenon atmosphere.
+
+Anomaly[]
+River[]
+DATA:
+
+Source: Glacial meltwater
+Composition: Liquid ammonia
+Length: 143 km
+ANALYSIS:
+A kett scout vessel crashed into an ammonia glacier on Pas-88. Though the crew died, the ship's reactor continues to emit heat, melting the glacier and creating this great river.
+Awards +270 XP when scanned.
+
+
+
+

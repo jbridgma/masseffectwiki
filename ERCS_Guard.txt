@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+
+
+ERCS Guard
+
+
+
+
+Race
+Human,  Turian
+
+
+Type
+Organic
+
+
+Armament
+Assault Rifles, Pistols, Shotguns, Sniper Rifles
+
+
+Abilities
+ Shield Boost Immunity Assassination Sabotage
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Noveria
+
+
+
+ERCS Guards are individuals who are employed by the Elanus Risk Control Services company. They are typically armed with assault rifles and shotguns, and are either human or turian. A few of them are armed with pistols and/or sniper rifles, and none of them carry all four weapons at once.
+ERCS Guards are employed on Noveria and are the only ones allowed to carry weapons while on the planet, apart from Spectres. The Noveria Development Corporation gets a discount for their services, and since they are the only ones allowed to carry weapons, they are constantly being, or trying to be bribed by the various corporations that rent Noveria's labs. The captain of the guards, Maeko Matsuo, has a strict policy against that, and will take action if she finds any of her guards taking bribes.
+
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+When Commander Shepard travels to Noveria during the search for Saren, the guards, and Ms. Matsuo aren't happy that Shepard and the squad get to keep their weapons. However because of the arrangement between the Citadel Council and the NDC, they have little choice, so Captain Matsuo lets Shepard pass but asks that they please not use them.
+While Matsuo is against bribes, some of her guards take some bribes from Administrator Anoleis to raid the local Synthetic Insights, Ltd. office to get information that exposes his actions. Shepard can talk to Lorik Qui'in to get into the office and recover the information. However Shepard can also turn the info over to Anoleis, either way results in Shepard getting out of Port Hanshan.
+If Shepard breaks into the office, the local guards attack and eventually Sgt. Kaira Stirling confronts Shepard. All the guards and Stirling die fighting Shepard and the squad, and they can be reported for their actions.
+Once Shepard manages to get out of Hanshan, there are more guards to deal with at Binary Helix's Peak 15 Research Station. They have been holding the line for 5 days since the rachni got loose. They managed to protect the civilians but at a cost. The men are jumpy because they are operating on stims and haven't slept in days.
+Upon arrival, Shepard has a few ways to deal with Captain Ventralis and his men. If the Hot Labs was neutron purged first, it's revealed that Matriarch Benezia ordered Ventralis to lure Shepard there in hopes the rachni will deal with them. The plot has failed, forcing Ventralis and his men to take action themselves. If Shepard tries to go through the restricted area to the labs, it sets off an alarm and Ventralis and his men attack as well. The only way to keep the men alive is to sneak through the maintenance areas.
+
+Tactics[]
+ERCS Guards are just like ordinary Mercenaries in both tactics and defenses. However because you are fighting in a confined space, using biotics and tech attacks to weaken their shields and overheat their weapons is a good tactic. They like to stay on the move, so stay on the move yourself to avoid being flanked. Overall, keep moving, keep shooting, and use talents to put them down for good.
+If you choose to combat the ERCS Guards in Peak 15, because you are in close quarters be sure to plan accordingly. Biotics are effective against them, as are tech attacks. Ventralis is the biggest threat but the rest of the Guards can still kill you if you aren't careful. Just keep in what little cover there is to avoid being killed.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

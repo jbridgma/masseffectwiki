@@ -1,0 +1,68 @@
+
+
+
+Alliance Command has asked you to recover a data module used to gather intel on geth movements in the Attican Beta Cluster. It's likely the geth are also after the data module.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+4 Enemies
+5 Paragon points glitch
+6 Trivia
+7 Cut Content
+8 References
+
+
+Acquisition[]
+Prerequisite: Citadel: Expose Saren
+
+When Commander Shepard enters the Hercules system in the Attican Beta cluster, Admiral Hackett informs Shepard that the probe is missing and must be recovered from the planet Eletania.
+
+Preparation[]
+Ostensibly a simple retrieval assignment, steel yourself for a few complications and even some combat. Combat will be on an underground indoor environment, against geth, unsurprisingly. Area-effect talents and equipment configurations against synthetic enemies will be useful. If you have anti-jamming upgrades, put them on. Guard yourself against possible close-quarters engagements by having Throw and hard-hitting ammo mods at hand. Get someone wearing anti-hazard gear, since you'll be chasing wildlife across a planet with a hazard level 1. 
+
+Walkthrough[]
+The downed probe is marked on the map on Eletania, but as soon as it is examined, you realise that the local simian lifeforms (dubbed space monkeys) have run off with the data module. Several monkey colonies will then be marked on your map with a number of space monkeys wandering through them. 
+Morality points can be had in here. Using 'search' to find the module without hurting any of the monkeys will award Paragon points, while killing the creatures will give you Renegade points. Warning: it is recommended to save game prior to searching the monkey colonies, as they may be killed unintentionally when run over with the Mako.
+
+To cut to the chase, head to the monkey colony on the northern end of the map. There is an abandoned mine there. The monkey with the data module is inside the mine's deepest tunnels - you don't actually have to deal with any of the other monkeys or even examine the probe to progress the assignment. 
+Inside the mine, proceed to the easternmost tunnel according to the map. It ends in a chamber with a Fusion Containment Cell, a Secure Crate (Average Decryption), and two monkeys. One of the monkeys has the module, usually the one furthest from the door. When you handle the monkey the way you see fit, the squadmates confirm it has the module and Joker will be able to transmit its contents to the fleet. However, as soon as you have retrieved the data module, the tunnel entrance door closes. On approach to the door a geth force - which was either lying in ambush or followed you in - will appear in the main chamber.
+
+Be wary of the combat zone and take in the cover opportunities presented by the boxes and explosive cells strewn throughout. Once the geth are destroyed, there's nothing else to do but sweep the area for loot and head back up.
+Note that there's no journal update following the data module discovery. The assignment will be marked complete once you exit the mine and return to the surface.
+Consult the map for the general directions of the following. The north tunnel next to the one with the kleptomaniac monkey ends in a chamber with an Ion Containment Cell and a Locked Crate (Easy Decryption). The main mine chamber contains a lootable crate at the northwest end and a Locked Crate (Easy Decryption) near the centre.
+The entrance chamber contains a Locked Crate (Easy Decryption) and a med-kit.  
+
+Enemies[]
+Geth Destroyer
+Geth Shock Trooper
+Geth Sniper
+Paragon points glitch[]
+It is possible to gain an unlimited amount of Paragon points during this assignment. To perform the glitch, begin by searching the monkey holding the data module and then saving the game. After reloading, another search of that monkey will result in the Paragon point reward being reissued to the player, despite it already being claimed before the reload. You do not need to save/reload the game between searches after the first save/reload. This results in a potentially limitless supply of Paragon points.
+It is important to note that the player should not kill any of the other monkeys prior to searching the monkey with the data module as this will negate the glitch's effects after the save/reload. This has been confirmed to work on the PS3, Xbox 360, PC version 1.02, and Legendary Edition.
+
+Trivia[]
+In Mass Effect Legendary Edition, the space monkeys make various sounds when searched.
+Cut Content[]
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+There are a number of unused voicelines and dialogues related to this assignment.
+
+When finding the surveillance drone, Shepard could have interacted with the squad. If Shepard didn't tell them not to use weapons to avoid damaging the module, the squadmates would have said it.[1]
+Other voicelines imply that the geth would have appeared chasing the monkey before Shepard could recover the module from it.[2]
+References[]
+
+↑ Mass Effect Cut Content/Normandy and UNC Voicelines#sp102_data_module
+
+↑ Mass Effect Cut Content/Normandy and UNC Voicelines#sp102_triggers
+
+
+
+
+

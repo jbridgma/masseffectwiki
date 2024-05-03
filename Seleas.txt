@@ -1,0 +1,104 @@
+
+
+
+
+
+Saleas
+
+Region
+Milky Way / Ismar Frontier / Elysta
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.4 AU
+
+
+Orbital Period
+0.3 Earth Years
+
+
+Keplerian Ratio
+0.711
+
+
+Radius
+3,485 km
+
+
+Day Length
+0.3 Earth Years
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+138 °C 
+
+
+Surface Gravity
+0.32 g
+
+
+Mass
+0.095 Earth Masses
+
+
+Location: Milky Way / Ismar Frontier / Elysta System /  First planet
+
+Prerequisite: Firewalker Pack (Mass Effect 2)
+
+Description[]
+Saleas' cratered surface is ancient; parts of the highlands have been unchanged for nearly three billion years. The layers of overlapping craters stand as testament to the violence of the system's creation. Saleas is tidally locked to Elysta and has a trace atmosphere of krypton and xenon, with helium constantly "blowing in" via solar winds.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+5,500
+
+
+Platinum
+
+Medium
+
+5,400
+
+
+Iridium
+
+High
+
+17,100
+
+
+Element Zero
+
+None
+
+0
+
+Trivia[]
+On the system map, the planet is identified as Seleas.
+
+
+

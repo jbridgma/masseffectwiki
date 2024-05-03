@@ -1,0 +1,61 @@
+
+
+
+
+
+Kamiiro No
+
+Region
+Andromeda / Heleus Cluster / Hefena
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+4.3 AU
+
+
+Orbital Period
+10.2 Earth Years
+
+
+Keplerian Ratio
+0.764
+
+
+Radius
+5,679 km
+
+
+Atm. Pressure
+114.11 atm
+
+
+Surface Temp
+330 °C 
+
+
+Location: Andromeda / Heleus Cluster / Hefena System /  Second planet
+
+
+Description[]
+Kamiiro No was named for the little brother of mythical angaran hero Jaali No. Before the Scourge, Kamiiro No existed in the shadow of a much larger gas giant.
+
+Anomaly[]
+Asteroid[]
+DATA:
+
+M-type asteroid
+Diameter: 244 km
+Surface gravity: 0.01 G
+ANALYSIS:
+Before the Scourge, the asteroids ringing Kamiiro No were a moon housing a small angaran colony. The moon and the colony are now long gone.
+Awards +270 XP when scanned.
+
+
+
+

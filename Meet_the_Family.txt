@@ -1,0 +1,52 @@
+
+
+
+You rescued Niilj, an angaran Resistance operative known by the codename "Shavod-Gaan," from the kett. Before their capture, Niilj and his team were looking for a way to take down kett operations on Voeld. They downloaded codes and information, now stored on a data drive, from the kett. This drive must be delivered to Niilj's sister, Buxil, in Techiix, and Niilj has entrusted this task to you.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Deliver data drive to Buxil in Techiix
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Stage a Rescue
+
+This mission is automatically acquired after completing the prerequisite at the Northern Holding Site.
+
+Walkthrough[]
+Deliver data drive to Buxil in Techiix[]
+Buxil is located in one of the first buildings you can enter in Techiix. The drive turns out to contain information about the kett command center, including its entire layout and configuration. However, she also finds that the codes for the shields are frequently changed, and as the data is weeks old, the codes are about to be changed again.
+For the data to be of any use, the Resistance must move quickly. She gives Pathfinder Ryder a navpoint  for a side entrance to the base.
+Once the conversation is over, the mission is marked complete, and Remove the Heart automatically begins.
+Before leaving Techiix, there are a number of items that can be scanned:
+
+A Spare Parts (looks like a small workbench) near Buxil can be scanned for +10 .
+Behind the counter where the Merchant is located, there is an Angaran Entertainment that can be scanned for +10 .
+In the hostel building near Mariv Haalsa, there is a Hostel Supplies and an Angaran Heated Bed that can be scanned for +10  each (+20  total).
+Rewards[]
++270 XP
+
+Voeld Resistance Missions Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Stage a Rescue
+
+Missions (Mass Effect: Andromeda)
+
+Remove the Heart
+
+
+
+

@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+Possessed Scion
+
+
+
+
+Faction
+Collectors
+
+
+Type
+Organic
+
+
+Armament
+Arm Cannon
+
+
+Abilities
+ Crush Multi-Frag Grenade
+
+
+Armor
+Very High
+
+
+Barrier
+Moderate
+
+
+Locations
+Armax Arsenal Arena
+
+
+The Possessed Scion is a Collector unit encountered in Mass Effect 3. It is an enhanced variant of the Scion.
+
+Capabilities[]
+Offensive
+The primary attack of the Possessed Scion is a burst of six grenades fired in an arc. These deal some damage on contact, then explode shortly afterward and inflict massive area damage that penetrates terrain. Up close, they use their cannon arm to make melee attacks and have an execution attack where they knock the player to the ground and repeatedly pummel them to instantly kill. They can also simply fire their cannon like normal Scions.
+In single-player, Possessed Scions fire their grenades before every other volley of three cannon shots, whereas in multiplayer they fire the grenades preceding every single volley.
+Defensive
+In addition to having 50% more armor than normal Scions, Possessed Scions also have biotic barriers for defense. These barriers are unusually weak, comparable to the barriers of a regular Collector Captain, and they do not regenerate. When possessed, their armor is the second strongest in the game (just behind the Possessed Praetorian), far exceeding the armor of Atlas Mechs, Geth Primes, and Banshees.
+
+Tactics[]
+Scions are tough to begin with, and the barriers only make them tougher. They're best approached with overwhelming force by two or more squad members, but they can be handled solo, by a careful player using hit-and-run tactics and plenty of walls and obstacles to hinder its path. Taking cover is risky, because the Possessed Scion may deploy its grenades; being caught by all six grenades will down almost anyone.
+Possessed Scions are known to be even more deadly than the Possessed Praetorian due to their complementary attacks. The cluster grenades they launch may force you out of cover, and their cannon shots punish you in the open. Never stop moving when engaging a Possessed Scion when you have its attention, this is  the best way to avoid their shots, since the actual projectiles are quite slow.
+They're vulnerable to conventional headshots, but the sacs on their back/left shoulder are also a weak point—one that's much larger and easier to hit than the head.
+Weapons that deal heavy burst damage with a single shot such as the Javelin or the M-300 Claymore are most effective as they minimize the amount of time you are in direct line of sight to the Possessed Scion. The Javelin in particular is devastating as its piercing shot can go through both the head and sac of a Scion for massive damage.
+Conversely, it can be extremely difficult to take out Possessed Scions that have their attention on you with weapons that require continuous fire to be most effective, such as the Particle Rifle and N7 Typhoon. Piercing mods or ammo augmentation are recommended so that you can hit them through terrain and avoid direct line of sight as much as possible.
+Weapons that fire explosive airburst projectiles such as the M-37 Falcon, Krysae Sniper Rifle, and Striker Assault Rifle can be useful for hitting Possessed Scions while denying them line of sight to you.
+Their barriers are very weak and don't regenerate, so there's no real need to use special tactics to strip them. Incinerate, Warp and any other power which does extra damage to armor will help take them out. Powers that deal a lot of damage over time such as Inferno Grenade are effective as you can set Scions on fire without being in their direct line of sight much, if at all. Scions have extreme amounts of armor, though, so don't expect them to go down quickly.
+In general, Infiltrators tend to be most effective at engaging Scions thanks to Tactical Cloak's invisibility. Conversely, Vanguards would do well to avoid attempting close range engagements against groups of Scions, though an isolated target is manageable.
+Volus classes can use their Shield Boost power just as the grenades are about to detonate to make the squad invulnerable for a second. As well as aiding shield sustainability, it will also allow your team to be slightly bolder in their attacks and take down enemies slightly quicker. However, beware that the grenades often do not all explode at the same time. This can make timing the Shield Boost tricky.
+In team play in multiplayer, it can be useful for one nimble character to draw the fire of groups of Scions, as they have trouble hitting fast-moving targets moving perpendicular to their attack angle.
+
+
+Mass Effect 3 Enemies
+
+
+CAT6
+
+Brooks • CAT6 Heavy • CAT6 Sniper • CAT6 Specialist • Clone • Disruption Drone
+
+
+Cerberus
+
+Adjutant • Assault Trooper • Atlas • Centurion • Combat Engineer • Dragoon • Dr. Eva • Guardian • Kai Leng • Legion Assassin • Nemesis • Phantom • Rampart Mech • Turret
+
+
+Collectors
+
+Abomination (Possessed) • Collector Captain (Possessed) • Collector Trooper (Possessed) • Collector Web • Praetorian (Possessed) • Scion (Possessed) • Seeker Swarm (Plague)
+
+
+Geth
+
+Combat Drone • Geth Bomber • Geth Hunter • Geth Prime • Geth Pyro • Geth Rocket Trooper • Geth Trooper • Geth Turret
+
+
+Reapers
+
+Banshee • Brute • Cannibal • Harvester • Husk • Marauder • Ravager • Swarmer
+
+
+
+

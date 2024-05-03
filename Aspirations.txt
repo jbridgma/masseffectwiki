@@ -1,0 +1,70 @@
+
+
+
+An exile named Barrett harbors aspirations of turning Elaaden into something more than the lawless wasteland it is now. To do that he needs a hideout that is well-fortified, and has his sights set on a rival gang's outpost.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Head to the outpost
+2.2 Clear out the scavengers
+2.3 Secure the outpost for Barrett
+2.4 Defeat the reinforcements
+2.5 Contact Barrett
+2.6 Optional: Locate armory door controls
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Elaaden: A New World
+
+Head northeast of The Paradise, to a building in the Sea of Ataraxia perched on the edge of a huge sinkhole. On approach, Pathfinder Ryder receives a comm that this is the refuge of Dirk Barrett and that the occupants are not hostile. This will trigger aon the map. Open the door to enter the building and talk to Barrett.
+If you choose the "Talk" option, the mission will begin as you hear Barrett's reasons out. The container behind Dirk can't be looted right away.
+If you choose the "Shoot Him" option, combat will begin between your team and Barrett plus two. Squadmates will be unhappy with you. The container can be looted in the building right away and the mission won't be acquired.
+
+Walkthrough[]
+Head to the outpost[]
+The navpointis near the western rim of the huge sinkhole in the southwest of the map in the Paradise Sands region. The base is the largest in the area, set atop a small hill next to the sinkhole and defended with a large wall and fortifications.
+When Ryder gets to the navpoint, hostiles will attack Ryder and the next objective starts.
+
+Clear out the scavengers[]
+The defending force is fairly strong -- one Hydra, a Saboteur, a Pariah, an Anarchist, a couple of Sharpshooters, and some Raiders. Depending on playstyle, you may want to stay outside and let the walls block the scavengers' sightlines. Heat hazard is outside (if applicable) while inside buildings is safe conditions. Defeat the scavengers.
+
+Secure the outpost for Barrett[]
+After the scavengers have been defeated, Ryder will have a small break in the action to explore the base. This objective will complete when the first wave of reinforcements arrive.
+
+Defeat the reinforcements[]
+More scavengers will arrive by a drop shuttle a few seconds after the initial force is defeated. Several Sharpshooters, more Raiders, and a Pariah. By this point you should be in the compound, with access to cover and ammo, so use the terrain against them. Be aware that a second shuttle with additional forces (Sharpshooters and Raiders) will arrive. Defeat both waves.
+
+Contact Barrett[]
+You now have a choice to contact Barrett and end the mission or locate the armory which must be done before speaking with Barrett. You'll have to search out the armory option for it to appear.
+
+Optional: Locate armory door controls[]
+Ryder receives this objective by approaching the door on the upper floor on the eastern building. The door is locked and Ryder wonders what the scavengers have secured within. Head to the lower floor of the western building and interact with a console marked with . This unlocks the armory door. Head back to the armory door and you can now enter the room.
+Inside there are lots of ammo crates, a lootable container, and a shipping crate. Interacting with the shipping crate reveals that it's full of heavy weapons. This raises the question of whether Barrett's being honest about his motives or if he just wanted the weapons for himself.
+You now have a choice whether to keep the weapons for the Andromeda Initiative or hand the weapons over to Barrett. Neither choice has any effect on gameplay going forward.
+If you don't trust Barrett, you can seize the weapons before Barrett shows up:
++29 AVP , +2% Elaaden viability
+If you trust Barrett or never find the armory:
+No reward is given and there are no consequences.
+Before heading to the upper floor of the western building to contact Barrett, there is a very well-hidden lootable container  to collect. Standing in front of the armory door, head to the left of the door and jump up on top of the four barrel containers. Walk forward onto the blue floor plate sticking to the right next to the building. A little bit ahead is a small triangular shaped piece of floor decking that Ryder can drop down into. Turn around once the Pathfinder has dropped down and the container is located in the point of the triangular floor decking.
+There is also a vanadium node hiding behind and underneath the lower western building.
+Use the comm terminal in the upper floor room of the western building to talk to Barrett. He says he'll be ready for the move immediately, and to drop by his original camp when possible, since they may have some gear for you. This ends the mission.
+
+Aftermath[]
+Talk to Barrett again at his shack northeast of Paradise. The conversation is slightly different depending on whether or not you kept the weapons but there don't seem to be any other consequences. 
+Barrett may take a few moments to move, meaning the next time you appear at the outpost there may still be some Outlaws to clear, and in the aftermath your squadmates will comment on Barret's absence. Fortunately the Hydras are a one-time thing and won't show up in such skirmishes.
+In one of your subsequent returns Barrett may show up as an unkillable Raider who doesn't shoot at you and also helps in taking out the intruders on his base. He can be talked to afterward, and once more the conversation differences hinge on whether you kept the weapons or not. Following this, your squadmates may comment spontaneously on what just happened.
+Random scavenger sites will now sometimes have friendlies instead of hostiles. There's no further reward for visiting Barrett but there is a lootable container in the building that you can now access.
+
+Rewards[]
++530 XP
++73 AVP 
++5% Elaaden viability
+
+
+

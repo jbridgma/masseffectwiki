@@ -1,0 +1,83 @@
+
+
+
+The Inventory Menu is where all collected items are listed in Mass Effect: Andromeda. 
+
+
+Contents
+
+1 Overview
+2 Increasing Item Limits
+3 Inventory Categories
+
+3.1 Weapons
+3.2 Armor
+3.3 Consumables
+3.4 Research
+3.5 Resources
+
+
+4 New Game +
+
+
+Overview[]
+Inventory in Mass Effect: Andromeda is limited to 100 items. (Prior to Patch 1.05, the item limit was 50 items) . This limit can be raised to 150 with the Trade Capacity pod and to 200 with the Trade Capacity II pod.
+The following items count towards the item limit:
+
+Weapons - Each weapon counts as one item.
+Armor - Each armor piece counts as one item.
+Mods - Each Mod counts as one item.
+Fusion Mods - Each Fusion Mod counts as one item.
+Consumables - Each type of consumable counts as one item. There are seven types of consumables, i.e. 50 Backup Life Supports would only count as ONE item and so on for the other six consumables.
+The following items DO NOT count towards the item limit:
+
+Research - All blueprints.
+Resources - All six resource types - Minerals, Tech Materials, Bio Materials, Salvage, Augmentations, and Special Items.
+Remnant Decryption Keys have their own limit of nine, independent of the overall inventory capacity.
+Increasing Item Limits[]
+The item limit can be increased by investing in the Commerce cryo pod perks Trade Capacity and Trade Capacity II.
+Trade Capacity increases the item limit from 100 to 150. (Prior to Patch 1.05, the item limit increase was 50 to 65)
+Trade Capacity II increases the item limit from 150 to 200. (Prior to Patch 1.05, the item limit increase was 65 to 80)
+
+Inventory Categories[]
+There are 5 tabs under the inventory menu.
+
+Weapons[]
+Main article: Weapons (Mass Effect: Andromeda)
+Armor[]
+Main article: Armor (Mass Effect: Andromeda)
+Consumables[]
+Main article: Consumables
+Research[]
+Main article: Research (Mass Effect: Andromeda)
+Resources[]
+Main article: Resources
+New Game +[]
+When starting a New Game+ using Save File Transfer, the item limit resets back to 100 (if cryo pod perks were obtained to raise the item limit). Ryder will be unable to perform actions relating to new items (opening containers, buying items, etc) until the item count is below 100.
+
+
+
+
+
+Mass Effect: Andromeda Guides
+
+
+
+
+Completion
+
+Walkthrough • Dialogue • Inventory • Experience • Remnant Decryption Puzzles • Hang Time Achievement Guide • Codex Entry Guide (Mass Effect: Andromeda)
+
+
+Profiles
+
+Soldier • Engineer • Adept • Sentinel • Vanguard • Infiltrator • Explorer
+
+
+Other
+
+Squad Members • Merchants • Skills • Research • Development • Narrative Actions
+
+
+
+

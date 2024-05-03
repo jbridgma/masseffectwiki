@@ -1,0 +1,57 @@
+
+
+
+This is a transcription of the documentary "Interactive Storytelling" found on the bonus content disc of the 2007 Limited Collector's Edition of Mass Effect as well as on the bonus content disc released in 2008.
+
+Menu Description[]
+Explores how Mass Effect takes the interactive cinematic experience in games to the next level using special technology for digital actors that was developed by BioWare.
+
+Content[]
+Casey Hudson: Our strength and our real focus is a great story and... So it's not just the story of course it's the delivery mechanism for this story and all the technology that allows you to experience it.
+Preston Watamaniuk: The interactive conversation system, the biggest thing we were trying to go for in this game, was taking away that that continual pause. And we are achieving-- basically, we do have like a real-time conversation. And that's really the key, is that's a real-time conversation that you're inputting into.
+Drew Karpyshyn: Telling a good story in a game goes far beyond the writing. It involves all elements of the package working together. You want the gameplay, you want the graphics, you want the writing, it all has to meld together.
+Ray Muzyka: It's all about creating emotional bonds and ties with-- between you as a player, and the characters that are in the game. And we've done that through really focusing on every last detail. Like, the team has left no stone unturned trying to pursue this, the pinnacle of characters, of making incredibly realistic characters that allow you to feel immersed in a storyline. The storyline is epic as well. It basically-- it's a path throughout the whole, you get to explore the entire galaxy. So it's a grand tale. You're the tip of the spear of humanity on the galactic stage. And the characters you're interacting with are just as grand, in their own right.
+Drew Karpyshyn: Working with Casey and Preston, and some of the other leads, we come up with the overall story for Mass Effect. We get an idea of what kind of things we want to focus on, what elements we want in our science fiction IP. And then I would go away and come up with a very broad, sort of short version of the story, and bring it back. And then we would sort of iterate on that until we came up with something we're all happy with.
+Greg Zeschuk: We can't talk about Mass Effect and not talk about the digital actors. The conversations and the digital actors are truly incredible. Just the most-- really the most lifelike characters we ever had in a game. And, you know, almost anyone else in that. It's-- They really really seem like they're there and you're watching them and interacting with them and it's real personalities. The way you converse with them, again like we talked about, is, it's different and new. It's this great flowing system where you choose emotions rather than really explicitly saying, you know, reading lines and re-expressing lines.
+Casey Hudson: We want the story and the voice to be as interesting, as interactive, as the rest of the game itself. And to do that, we came up with a new interface for you to interact with the conversation.
+Drew Karpyshyn: In Mass Effect, you actually talk with the characters you meet. To do that, we didn't want you to just be reading an answer, picking it, and then hearing what you had just read in your mind spoken on screen; that kind of breaks up the flow, it doesn't really draw you in. So we've come up with a new dialogue system that allows you to make sort of emotional and instinctive responses, yet still control the conversation. So what I've got open right now is the conversations for one of your characters in the game. For Ashley Williams. She's one of the people who can join up with you throughout the game. Every time she says something, you get a chance to say something back. Depending on your reaction, it branches to a different part of the conversation. So as you can see, we quickly as we add more and more options, get quite a mess of dialogue here. There's... pages and pages and pages of this stuff.
+Keith David (as David Anderson): Eden Prime is one of our oldest and most successful colonies.
+Drew Karpyshyn: The other interesting thing about Mass Effect that we've done, that has sort of pushed us to a whole level, the entire game is fully voiceover'd. We've done a lot of voiceover games in the past, but we've never actually had the player speak as well.
+Marina Sirtis (as Benezia): I won't be moved by sympathy. No matter who you bring into this confrontation.
+Casey Hudson: On the one hand, you're watching a science-fiction movie. You can actually, with half of your brain, sit back and really enjoy a beautiful-looking science-fiction movie. But at the same time, you know, in an interactive sense, you realize that you're in control of that character the whole time.
+Preston Watamaniuk: Generally, every project tries to push story-based gameplay, which is "how do we tell a really good story?" In and amongst the game plan for Mass Effect, we're really trying to push the cinematic aspect, we're trying to push real-time conversation.
+Ken Thain: Our group is responsible for conversations and cutscenes within the game, that focus on the story and bring out the visual context of the story. And what we do with conversations is we begin with an outline of the conversation that has all the dialogue and the VO. And within this dialogue, we work with the writers to get across what the objective of the conversation is, what type of motivations the characters have, and basically what we want to get across in the story.
+Preston Watamaniuk: If you go back as far as Baldur's Gate 2, that game had a very book-like narrative to it. However, what we're trying to achieve in Mass Effect is more of a cinematic narrative. So the need for digital acting is sort of increased like exponentially on this project.
+Shane Welbourn: The sort of directing style that we go for is realism and natural emotion, and I find that those hooks are just that's how you can really draw the audience in.
+Ben Hindle: The character creation system that we're making on Mass Effect is pushing the boundaries of next-generation gaming because we've never had characters this realistic before. We've never had lip-sync and facial animation as sophisticated as what we've got now. And we've never had tried to implement a feature of this complexity across an entire universe of characters. We've got literally thousands of characters that have to have performances better than we've ever had before in a game. As generation and generation of games progresses, what we want to do, and as players become more sophisticated, we want them to see the characters becoming angry, see them becoming nervous. A lot of our games involve trying to intimidate other characters. They need to detect whether or not an NPC is lying to them or getting nervous. Stuff like that. And we don't want to write that, we want to show it.
+Jonathan Cooper: We've really tried to concentrate on a lot of details that essentially will maintain the suspension of disbelief. We always took the attitudes that, rather than adding stuff to make it more next-gen, more cool, we wanted to take away from the gaminess of the game. Just keep removing things that people expect from a video game. For example, the biggest thing that was actually the simplest thing just turning on the eyes, making sure that characters never have dead eyes, that wall around when they're moving their head. Always make them focused and that's a really simple thing. And additionally, having animations blend smoothly into one another; making sure that you don't see this animation, then that animation. And these are the type of things that I think, when games after Mass Effect come out, the players will expect that kind of standard as well.
+Casey Hudson: I think this game has seen more evolution than the previous games that we've worked on in the sense that... You know, we had a good idea of what the end product would look like. But I think this generation in particular has changed so much in what a video game can look like, and the kinds of visual fidelity you can pull off, the kinds of acting that we can get out of our characters. That one thing we weren't able to envision just because the technology didn't exist three years ago is how far we would have to take every aspect of the game. And so it's-- If you can create a photorealistic character or a photorealistic environment, the animations have to be perfect. And if the animations are perfect, then the transitions between the animations have to be perfect. And the physics, and everything, has to be held to that same level, otherwise it's very easy to point out the thing that's not working very well. So, we literally have at least an order of magnitude, more complexity in every system. And that's something that you just can't visualize from three years out, so it's seen a lot of evolution.
+Ray Muzyka: Overall, we're trying to make products which have global appeal. So when we make our games, games with great story and character, it's a concept that appeals to almost everybody. If you can convey emotion, if you can make someone believe they're talking to a real person, if you make them care about the people that are in the game that they're talking to, that's a universal concept. And that's one of the things we're really striving for at BioWare.
+
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

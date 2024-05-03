@@ -1,0 +1,93 @@
+
+
+
+
+
+Galorn
+
+ 
+
+
+
+
+
+
+
+Faction
+Wildlife
+
+
+Weapons / Attacks
+Melee
+
+
+Abilities
+–
+
+
+Armor
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The galorn is a quadruped creature greatly resembling a faceless rhinoceros. It does not appear to have eyes, and it appears to have fleshy red growths for a face and tentacles for a mouth (akin to rachni tentacle-beaks). It can be found on Voeld and Havarl; on the latter it can be reliably sighted in the area surrounding the entrance to the Remnant Abyss.
+As with several large creatures, upon death the galorn crumbles down instead of leaving a corpse to identify. It may sometimes leave behind Renderable Plates. The only way to scan it is to carefully approach it when the animal is unaware.
+
+Scanner Information[]
+Galorn
+
+
+DATA:
+Classification: Mammal
+Origin: Andromeda
+ANALYSIS:
+Immense, hoofed creatures with plates that appear lit, and odd, colorful glands that span their face and jaw. Related to the taurg, galorn charge and headbutt when provoked. 
+
+Capabilities[]
+Offensive
+The creature can headbutt at melee range, and can rapidly close the distance if its opponent is out of range.
+
+Defensive
+The galorn is armored.
+
+Tactics[]
+The galorn has no direct countermeasures for long-ranged opponents, and so can be safely dealt with without even getting close to it.
+Due to its size it can be brought down with a shotgun even from longer distances.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

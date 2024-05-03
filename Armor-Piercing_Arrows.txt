@@ -1,0 +1,148 @@
+
+
+
+Armor-Piercing Arrows is a tech grenade power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Armor-Piercing Arrows[]
+Load 3 armor-piercing charges into your omni-bow to increase damage and the number of arrows fired simultaneously. When you run out of these armor-piercing charges, you will fire normal arrows again.
+Highly effective against armor.Consumes a grenade.
+
+Bonus Grenade Capacity: 1
+Damage: 75
+Arrows Per Shot: 5
+
+
+Rank 2: Grenade Capacity[]
+Increase grenade capacity by 1.
+
+Bonus Grenade Capacity: 2
+Damage: 75
+Arrows Per Shot: 5
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Bonus Grenade Capacity: 2
+Damage: 90
+Arrows Per Shot: 5
+
+
+Rank 4: Damage/Grenade Capacity[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Bonus Grenade Capacity: 2
+Damage: 112.50
+Arrows Per Shot: 5
+
+
+Grenade Capacity
+Increase grenade capacity by 1.
+
+Bonus Grenade Capacity: 3
+Damage: 90
+Arrows Per Shot: 5
+
+
+
+Rank 5: Shred/Armor Damage[]
+
+
+
+Shred
+Shreds targets, doing an additional 50% damage over 5 seconds.
+
+
+
+Armor Damage
+Increase damage done to armor by 35% to weaken the target's armor resistance to weapons by 50% for 8 seconds.
+
+
+
+
+Rank 6: Arrow Count/Grenade Capacity[]
+
+
+
+Arrow Count
+Increase the number of arrows released per shot by 1.
+
+Bonus Grenade Capacity: 2 (Damage), 3 (Grenade Capacity)
+Damage: 112.50 (Damage), 90 (Grenade Capacity)
+Arrows Per Shot: 6
+
+
+Grenade Capacity
+Increase grenade capacity by 2.
+
+Bonus Grenade Capacity: 4 (Damage), 5 (Grenade Capacity)
+Damage: 112.50 (Damage), 90 (Grenade Capacity)
+Arrows Per Shot: 5
+
+
+
+Player Notes[]
+Grenade powers do not have a recharge time and, thus, can be used immediately at any time, provided grenades are available. Using the power consumes one grenade each time.
+If the player has multiple grenade powers, the grenade pool is shared between them.
+Damage values are added on top of the regular damage done by the omni-bow.
+Only one arrow power can be active at a time.
+Availability[]
+Single-player: N/A
+Multiplayer: Talon Mercenary Engineer
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

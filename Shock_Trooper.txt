@@ -1,0 +1,227 @@
+
+
+
+
+
+
+
+This article is about the class specialization in the first game. For the Mass Effect 2 Combat Mastery evolution, see Combat Mastery. For the geth unit, see Geth Shock Trooper.
+
+The Shock Trooper is one of the two specialization classes for Vanguards and Soldiers, with the alternate specialization options being the Nemesis and the Commando, respectively. Highly trained killing machines, Shock Troopers excel in all combat situations.
+Overview[]
+See also: Talents#Specialization Classes
+Shock Troopers sport increased health and protection. Soldier Shock Troopers favor purely defensive bonuses and thus specialize in Immunity. Vanguard Shock Troopers favor a mix of offense and defense, and being biotics, they specialize in Barrier. Both classes can improve Adrenaline Burst at the apex of their training.
+
+Immunity Specialization
+Reduces the recharge time of Immunity by 25%
+Barrier Specialization
+Increases Barrier strength and duration by 25%
+Barrier will regen 40 shields per sec
+Adrenaline Burst Specialization
+Reduces the recharge time on Adrenaline Burst by 25%
+Talent Level Bonuses (Soldier)[]
+
+Bonus: increases health and damage protection, and improves health regeneration per second
+
+
+Rank
+Health
+Damage protection
+Regeneration
+Notes
+
+
+1
+4%
+
+3
+
+
+
+2
+6%
+
+3.5
+
+
+
+3
+8%
+
+4
+
+
+
+4
+10%
+
+4.5
+
+
+
+5
+12%
+
+5
+
+
+
+6
+14%
+
+5.5
+
+
+
+7
+18%
+6%
+
+
+
+
+8
+20%
+8%
+
+
+
+
+9
+22%
+10%
+
+Immunity Specialization
+
+
+10
+24%
+12%
+
+
+
+
+11
+26%
+14%
+
+
+
+
+12
+28%
+16%
+
+Adrenaline Burst Specialization
+
+Talent Level Bonuses (Vanguard)[]
+
+Bonus: increases health, improves biotic and damage protection, and increases pistol and shotgun damage
+
+
+Rank
+Health
+Protection
+Pistol / shotgun damage
+Notes
+
+
+1
+
+6%
+5%
+Ranks 1 to 6 improve biotic protection
+
+
+2
+
+9%
+6%
+
+
+
+3
+
+12%
+6%
+
+
+
+4
+
+15%
+8%
+
+
+
+5
+
+18%
+9%
+
+
+
+6
+
+21%
+10%
+
+
+
+7
+4%
+6%
+
+Rank 7 onwards improve damage protection
+
+
+8
+6%
+8%
+
+
+
+
+9
+8%
+10%
+
+Barrier Specialization
+
+
+10
+10%
+12%
+
+
+
+
+11
+12%
+14%
+
+
+
+
+12
+14%
+16%
+
+Adrenaline Burst Specialization
+
+
+
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+

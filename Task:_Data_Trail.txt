@@ -1,0 +1,88 @@
+
+
+
+The kett have been keeping Remnant data cores for testing in their camps. SAM suggests they may be extracting important information from the cores.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Locate And Scan Remnant Data Core Nodes
+2.2 Follow The Navpoint
+2.3 Enter The Remnant Installation
+2.4 Eliminate The Kett
+2.5 Investigate The Console
+2.6 Deliver The Data To Prodromos
+
+
+3 Rewards
+4 Puzzle Solution
+
+
+Acquisition[]
+
+When the outpost  Prodromos on Eos has been established, and the radiation has cleared, Pathfinder Ryder will be able to travel in the western part of the map. Eventually Ryder finds a Remnant Data Core Node in one of the kett camps on Eos. SAM asks Ryder to scan it.
+Alternatively, Ryder can find the Remnant installation without scanning the nodes. If this is the case, kett will not be present there. The mission is acquired by activating the console.
+
+Walkthrough[]
+Locate And Scan Remnant Data Core Nodes[]
+Finding and scanning additional nodes will make it possible for SAM to get a navpoint. 
+Ryder has to find three additional nodes and scan them. The nodes are spread randomly among the kett camps. Each node will be marked with . If a camp doesn't have a node, the camp might have one the next time Ryder visits. If a camp has a node, SAM (or a squadmate) will comment on the presence of the node. 
+Once four nodes have been scanned, SAM will indicate that the location has been found.
+
+Follow The Navpoint[]
+At the navpointin the Blackrock Tande region is a Remnant facility sunken into the ground. 
+
+Enter The Remnant Installation[]
+Use the gravity well  to enter the installation.
+
+Eliminate The Kett[]
+Within the installation, the Pathfinder team must locate the source of the data nodes while fighting off kett forces that have infiltrated the facility. Reach the innermost chamber.
+This stage may not complete even after all Kett have been killed. The task can still be completed, however the quest marker for the next stage will not show. If you cannot complete this stage you will need to complete the next stage blind.
+While in the vault, scan for four glyphs to unlock the container  in the Gravity Well chamber (applies to the Cryptographer Achievement). For the puzzle solution, see here.
+
+The Interval Glyph is found right behind the container in the Gravity Well chamber.
+The Thermodynamic Glyph is on the other side of the pillar opposite the Gravity Well.
+The Semiosis Glyph is in the next chamber, on the pillar standing in the first pit, facing away from the entrance
+The Kinetic Glyph is located on the wall left of the exit from the final chamber with the Remnant console.
+Also, inside the facility there are two data patterns (+10  each) and an Adaptive Remnant Data Core (+100 ) to be scanned for a total of +120 .
+
+Investigate The Console[]
+(This objective doesn't show until it has been accomplished.)
+In the innermost chamber, interact with the console. SAM downloads vital data on the native wildlife on Eos. 
+
+Deliver The Data To Prodromos[]
+Head back to Prodromos, to the building closest to the Tempest. Access the terminal and confirm "Request: Information on Eos" to complete the mission.
+
+
+
+
+
+Request: Information on Eos 
+Bradley, 
+
+As you're now the vanguard of the Initiative's new life in Heleus, I'm requesting data on Eos—plant life, animal encounters, dangerous areas, anything you think could be of use to our future outposts. If any of your associates gather such data, transmit it to me immediately. 
+
+Thank you,
+
+Addison
+
+
+
+
+
+Rewards[]
++530 XP
+Puzzle Solution[]
+Main article: Remnant Decryption Puzzle Guide
+
+
+
+
+
+Puzzle ContainerReward: Valuable Loot
+
+
+
+
+

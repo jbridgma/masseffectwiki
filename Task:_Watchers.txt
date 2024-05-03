@@ -1,0 +1,51 @@
+
+
+
+You've discovered a surveillance device in a kett camp that monitors the activity of Prodromos' colonists. Prodromos won't be safe unless these devices are destroyed. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Find And Destroy Kett Surveillance Devices
+2.2 Follow The Navpoint
+2.3 Eliminate The Kett
+2.4 Use The Data Console
+2.5 Give SAM Enough Time To Scramble The Signal
+2.6 Destroy The Console
+
+
+3 Rewards
+
+
+Acquisition[]
+After the outpost  has been established on Eos during A Better Beginning, and the radiation has cleared, it is possible to explore the area west of Prodromos. In one of the kett camps, Pathfinder Ryder will find a Kett Surveillance Device. Destruction of an initial device (shooting it) will trigger SAM to notify Ryder of the nature of the device. However, SAM needs more information before pinpointing the source.
+
+Walkthrough[]
+Find And Destroy Kett Surveillance Devices[]
+The devices are found on the ground randomly scattered among the kett camps. 
+Each device will be marked with . If a camp doesn't have a device, the camp might have one the next time Ryder visits. If a camp has a device, SAM (or a squadmate) will comment on the presence of the device. 
+Ryder needs to destroy four devices in total before SAM can put together a navpoint to the device's processing plant and mark it on the map.
+
+Follow The Navpoint[]
+Go to the navpointindicated by SAM. The location is north-northwest of the Forward Station in Blackrock Tande.
+
+Eliminate The Kett[]
+Once the navpoint is reached, the kett need to be cleared before access to the console on the top of the building will be available. 
+There is a container in the building.
+
+Use The Data Console[]
+SAM will suggest the data be scrambled so it cannot leave Eos. 
+
+Give SAM Enough Time To Scramble The Signal[]
+To give SAM enough time, activate the console and stay inside the white circle until the hack is complete.
+The kett send three waves of reinforcements. Hold them off until SAM is done, then clear the site of any remaining kett.
+
+Destroy The Console[]
+Destroy the console after the kett are eliminated and the mission will auto-complete.
+
+Rewards[]
++270 XP
+
+
+

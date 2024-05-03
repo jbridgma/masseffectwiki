@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For the power in Mass Effect 3, see Defense Drone (power). For the enemy in Mass Effect, see Defense Drone.
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Defense Drone is a passive Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Defense Drone
+
+
+
+Deploy a holographic omni-drone to boost your shields and electrocute nearby enemies.
+
+Shield Heal: 75
+Shield Heal Cooldown (seconds): 10
+Drone Attack Damage: 100
+Drone Attack Range (meters): 5
+Drone Attack Cooldown (seconds): 15
+Stun Duration (seconds): 1.5
+
+
+
+2
+
+Defense Systems
+
+
+
+-
+
++20% Max Health
++20% Max Shields
++15% Tech Construct Health
+
+
+
+3
+
+Melee
+
+
+
+-
+
++30% Melee Damage
+
+
+4
+
+Regeneration
+
+
+
+-
+
++25% Shield Regeneration
++25% Health Regeneration
++25% Health & Shield Regeneration Delay Reduction
+
+
+
+4
+
+Drone Recharge
+
+
+
+-
+
++30% Shield Heal Cooldown Reduction (seconds)
++50% Drone Attack Cooldown Reduction (seconds)
+
+
+
+5
+
+Defense Systems
+
+
+
+-
+
++20% Max Health
++20% Max Shields
++20% Tech Construct Health
+
+
+
+5
+
+Drone Attack
+
+
+
+
+
++60% Drone Attack Damage Bonus
++30% Drone Attack Range (meters)
+Damage Duration (s): 5
+
+
+
+6
+
+Drone Support
+
+
+
+Drone shield heal now affects allies within 6 meters
+
++50% Shield Heal
++30% Shield Heal Cooldown Reduction (seconds)
+
+
+
+6
+
+Electrocute
+
+
+
+     Affected enemies are now electrically primed for the duration of the stun
+
++100% Stun Duration (seconds)
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Human Artificer
+
+
+

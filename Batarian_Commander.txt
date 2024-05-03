@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+
+
+Batarian Commander
+
+
+
+
+Race
+Batarian
+
+
+Type
+Organic
+
+
+Faction
+None
+
+
+Armament
+M-15 Vindicator
+
+
+Abilities
+ Disruptor Ammo
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Franklin
+
+
+Batarian Commanders are encountered during the mission N7: Javelin Missiles Launched, and are believed to be batarian terrorists. Commanders are supported by Batarian Troopers, who serve to provide covering fire for the Commanders. Commanders are functionally similar to Blue Suns Legionnaires.
+
+Capabilities[]
+Offensive
+Commanders are armed with M-15 Vindicator assault rifles, making them accurate and deadly. They can also arm their rifles with Disruptor Ammo to further increase their damage output. 
+Defensive
+They possess moderate shielding on veteran and below, and gain more resilient shields on hardcore and insanity. 
+
+Tactics[]
+The Batarian Commander's biggest weakness is their weapon's burst-fire requirement, while capable of serious damage, they cannot keep a squad pinned down as effectively as a Trooper. This will allow a player to co-ordinate a squad’s firepower and power usage on them more effectively, as well as leaving them defenseless while they wait for the slight delay in their weapons fire rate.
+A player equipped with weapons that keep up a constant stream of fire will easily suppress and damage Bataraian Commanders.
+On harder difficulty levels they can cause very high amounts of damage; making suppressing them an unrealistic option, particularly if they are being supported by other troops. In this scenario, picking off the weaker opponents while utilizing powers on the Commanders is an effective strategy.
+In close quarters combat they are capable of causing higher amounts of damage which can be problematic if they still have shields. Directing a squad's powers against them while also barraging them with gunfire is an efficient solution.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

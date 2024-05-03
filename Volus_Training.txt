@@ -1,0 +1,145 @@
+
+
+
+Volus Training is a passive class power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Volus Training[]
+Upgrades to the advanced power armor suit provide enhanced combat abilities.
+More power damage.More weapon damage.More strength.
+
+Weapon Damage Bonus: 2.50%
+Power Damage Bonus: 10%
+Weight Capacity Bonus: 10
+
+
+Rank 2: Weapon Damage[]
+Increase weapon damage bonus by 2.50%.
+
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 10%
+Weight Capacity Bonus: 10
+
+
+Rank 3: Power Damage[]
+Increase power damage and force bonuses by 10%.
+
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 20%
+Weight Capacity Bonus: 10
+
+
+Rank 4: Weapon Damage/Damage & Capacity[]
+
+
+
+Weapon Damage
+Increase weapon damage bonus by 7.50%.
+
+Weapon Damage Bonus: 12.50%
+Power Damage Bonus: 20%
+Weight Capacity Bonus: 10
+
+
+Damage & Capacity
+Increase power damage and force bonuses by 10%.
+Increase weight capacity bonus by 20 points.
+
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 30%
+Weight Capacity Bonus: 30
+
+
+
+Rank 5: Power Damage/Shield Boost[]
+
+
+
+Power Damage
+Increase power damage and force bonuses by 15%.
+
+Weapon Damage Bonus: 12.50% (Weapon Damage), 5% (Damage & Capacity)
+Power Damage Bonus: 35% (Weapon Damage), 45% (Damage & Capacity)
+Weight Capacity Bonus: 10 (Weapon Damage), 30 (Damage & Capacity)
+
+
+Shield Boost 
+Increase the amount of shields restored by Shield Boost by 30%.
+
+
+
+
+Rank 6: Weapon Weight/Weapon Damage[]
+
+
+
+Weapon Weight
+Decrease weight of all weapons by 20%.
+
+
+
+Weapon Damage
+Increase weapon damage bonus by 10%.
+
+Weapon Damage Bonus: 22.50% (Weapon Damage), 15% (Damage & Capacity)
+Power Damage Bonus: 35% (Weapon Damage), 45% (Damage & Capacity) [Power Damage], 20% (Weapon Damage), 30% (Damage & Capacity) [Shield Boost]
+Weight Capacity Bonus: 10 (Weapon Damage), 30 (Damage & Capacity)
+
+
+
+Player Notes[]
+Availability[]
+Single-player: N/A
+Multiplayer: Volus Adept, Volus Engineer, Volus Mercenary Sentinel, Volus Protector Vanguard
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

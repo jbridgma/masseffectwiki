@@ -1,0 +1,183 @@
+
+
+
+A krogan transport containing an essential seed vault was stolen from their colony on Elaaden. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak with Hark at the greenhouse
+2.2 Reach the krogan transport
+2.3 Rescue Vorn
+2.4 Secure the krogan transport
+2.5 Release the docking clamps
+2.6 Return to Nexus Control
+2.7 Review evidence against Spender
+2.8 Speak with Drack on the Nexus
+2.9 Deal With Spender
+
+
+3 Aftermath
+4 Rewards
+5 Bugs
+6 Datapads
+
+
+Acquisition[]
+Prerequisite: Nakmor Drack: Krogan Betrayal
+
+This loyalty mission starts automatically upon completion the prerequisite. 
+
+Walkthrough[]
+Speak with Hark at the greenhouse[]
+Hark is in New Tuchanka on Elaaden. He has tracked the stolen ship to one of Elaaden's moons. Pathfinder Ryder has to use the Tempest, because krogan ships don't have stealth capability. Ryder also learns it was possible for the Nexus exiles to steal the ship.
+Nearby Hark, there are several Genetically Altered Plants that can be scanned for +10 .
+When you tell Hark "We're ready," the mission on the moon will start, and the opportunity to change the loadout will be given. Note: During loyalty missions, manual saving is disabled for the duration of the mission. 
+
+Reach the krogan transport[]
+Defeat the defender Outlaws to get inside the facility. 
+On a container on the ground level just inside the facility is a datapad.
+
+
+
+
+
+Memo: Security Status 
+Current Security Status: Medium
+Issuer: Able Bryant, Moonyard Super 
+
+Marlo and strike team successful. Stole a large transport from the krogan colony on Elaaden. Huge thing, just like the boss said. Contents include weapons and seeds. Currently docked at Moonyard B. 
+
+Boss is on-site to see what's salvageable. 
+
+
+While the transport is docked, security status remains at medium. The krogan may want it back.
+
+
+Upstairs is a container that can be looted.
+In the first room are Aroane and some of his crew. That means William Spender is involved, and that's how Aroane got the codes to steal the ship, Drack concludes.
+Aroane runs away, leaving his raiders to fight Ryder.
+Ryder will then have to fight along different corridors heading towards the navpoint . There is a container next to a locked gate and two more containers when Ryder drops down into another corridor.
+Later on, you will have to clear the passage by lifting some rubble, but before you do, go back and find the container above where you came into this specific area. The krogan botanist Vorn then reveals himself over the comm. He was in the ship when it was stolen and is now hiding in a container, but it seems the bandits have found him. At the same time, the transport ship is powering up. Drack decides that the team should go for Vorn first and then the transport ship.
+
+Rescue Vorn[]
+Ryder continues along and it takes some jumping to get to Vorn. There is a container on an elevated section before the large staircase section. There is another container that can be looted right before the door Ryder has to open to Aroane.
+On the way to Vorn, Ryder will run into Aroane again. Before he retreats, he says to Drack that stealing the ship just was the first step to destroy everything he cares about.
+Upstairs Ryder will find the shipping crate Vorn is in and can let him out.
+
+Secure the krogan transport[]
+Drack will burst through a wall and another battle will take place. Eliminate the hostiles.
+There is a Broken Hydra that can be scanned for +10  next to the elevator console.
+Interact with the elevator console to take the elevator.
+After taking an elevator up to a platform, Vorn is ordered to prevent the docking clamps holding the ship from being released. Defeat several raiders and their two Hydra mechs.
+There is a large orange container next to the elevator that can be looted.
+
+Release the docking clamps[]
+After the battle, use the console where Vorn is standing. Then Aroane sneaks up behind Vorn and holds a gun to his head. Vorn surprises him with one of his botanic experiments - it's dangerous for all except krogan. Ryder will have to decide whether there is a use for Aroane or not. The choice to spare him or let him die does not appear to have any subsequent consequences.
+With all house cleaning done, Ryder takes off with the transport, and lands safely in New Tuchanka.
+Drack is naturally satisfied, but also wants to nail Spender to the wall.
+Although the mission is technically not yet complete, its major objective - specifically Drack's loyalty - is satisfied. Ryder is awarded +73 AVP , +5% Elaaden viability, and Drack's Rank 6 Skills are now unlocked.
+
+Return to Nexus Control[]
+Ryder now needs to return to the Nexus and settle things with Spender.
+After Ryder enters the Common Area, the Communications Officer calls on the comm saying he has decrypted the transponder. There is incriminating evidence against Spender.
+
+Review evidence against Spender[]
+Use the Security Footage terminal to access the evidence and inspect it in more detail.
+
+Speak with Drack on the Nexus[]
+Drack has been waiting for the moment to put a stop to Spender for more than a year. At the meeting with Foster Addison and Tiran Kandros, Spender tries to make himself look like a victim, but no one believes that. The evidence indicates he has caused the Nexus great damage.
+
+Deal With Spender[]
+Ryder can decide whether this mess is on Addison or Spender. Ryder also decides whether Spender should be sent to prison on Nexus or be exiled.
+Drack makes Addison promise to support the krogan when they want to negotiate for better terms with Nexus. "We will do it right this time", she says.
+The mission then completes and Nakmor Drack: Knock 'em Down starts if Ryder has not already started it by reading email.
+
+Aftermath[]
+If Spender is exiled:
+After proving that William Spender was conspiring with Nexus mutineers, you exiled the assistant director of Colonial Affairs to a brief life on the run from his former associates. 
+If Spender is jailed
+After proving that William Spender was conspiring with Nexus mutineers, you sent the assistant director of Colonial Affairs to jail, knowing he'd never survive life on the run from his former associates.
+
+Rewards[]
++1330 XP
++73 AVP 
+Bugs[]
+On the PS4 and PC (Update 1.10) Nakmor Drack: Knock 'em Down is unlocked immediately upon returning to the Tempest after freeing the seed vault, without the need to go through the return to the Nexus (though these steps are still required to fully complete this mission).
+Datapads[]
+
+
+
+Backup Datapad 
+To: Aroane Tao
+From: William Spender 
+
+You have the gall to threaten me? After all we've been through? You were just a blue-collar colonist thawed out to patch a hole. Do you really think they'll take your word over the Assistant Director of Colonial Affairs? 
+
+Still, I don't regret arming you during the uprising. Your dead friends made the krogan look much more worse when they came begging for a seat at our table. 
+
+Have fun killing each other over the scraps. 
+
+
+Spender
+
+
+
+
+
+
+
+Aroane's Datapad 
+To: William Spender
+From: Undisclosed
+
+You screwed me, Spender. You said we were safe, but the Nexus is all over us. If I get out alive, I'm going straight to them. Something tells me they'll be interested to learn a senior member of their staff armed exiles during the mutiny.
+
+No scrambler in Andromeda can hide what you've done.
+
+
+Aroane
+
+
+
+
+
+
+
+Memo: Security Update
+Revised Security Status: High
+Issuer: Able Bryant, Moonyard Super
+
+Reports of breach from southern pass into the yard. Multiple casualties. Transport stowaway AWOL.
+
+
+Raising security status. Shoot first.
+
+
+
+
+
+
+
+Bryant's Datapad
+To: Aroane Tao
+From: Able Bryant 
+
+Aroane, 
+
+We located the stowaway krogan. My guys chased him into a cargo container and he locked himself inside. Coward. 
+
+They've tried to bust him out, but the container's held up surprisingly well. Nothing's getting through. 
+
+They hear him talking in there. He may be in contact with the Nexus team. Expect they're heading his way. I assume you want him alive? 
+
+I've deployed heavy support up top, just in case.
+
+
+Bryant
+
+
+
+
+

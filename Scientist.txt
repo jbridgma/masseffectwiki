@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+This article is about the human enemy in Mass Effect and Mass Effect 2. For other uses, see Scientist (disambiguation).
+
+
+
+
+
+
+
+
+Scientist
+
+
+
+
+Race
+Human
+
+
+Type
+Organic
+
+
+Armament
+Pistol
+
+
+Abilities
+None
+
+
+Health
+Low
+
+
+Locations
+Nodacrux
+
+
+Scientists are personnel that also know their way around weapons in addition to their intellectual specialties. They are typically lightly armed and will go down quickly in any combat scenario.
+
+Contents
+
+1 Mass Effect
+
+1.1 Tactics
+
+
+2 Mass Effect 2
+
+2.1 Capabilities
+2.2 Tactics
+
+
+
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+Mass Effect[]
+Two ExoGeni Corporation scientists are holed up inside their own facility on Nodacrux due to their illegally-created Thorian Creepers going berserk and killing their fellow personnel. Should Commander Shepard discover their hiding place, one of them, Dr. Ross, explains their situation and attempts to bribe the Commander in exchange for their freedom. Accepting the bribe results in Shepard letting them go while refusing the bribe leads to a fight and their inevitable deaths.
+
+Tactics[]
+The Scientists have little health, no shields, and are only armed with a pistol, meaning they should go down with basically no effort. Their two Mercenary companions will prove to be marginally harder to kill. The Scientists will tend to stay in cover because of this and only pop out to take potshots at their opponents.
+At the start of the fight, Dr. Ross always makes a beeline for the table barricade to her right (your left). There's a conveniently-placed destructible containment cell there that you can shoot to send her flying and greatly reduce her health (if not outright kill her).
+
+
+
+
+
+
+
+“The chances of surviving are… slim.” — Spoilers for Mass Effect 2 follow.
+
+
+
+
+Mass Effect 2[]
+
+
+
+
+
+
+
+Scientist
+
+
+
+
+Race
+Human
+
+
+Type
+Organic
+
+
+Faction
+The Project
+
+
+Armament
+M-3 Predator
+
+
+Abilities
+None
+
+
+Health
+Low
+
+
+Shields
+Low
+
+
+Locations
+Project Base
+
+
+Following Commander Shepard's incapacitation at Project Base, one scientist monitors their sedation levels and discovers to her horror that the system isn't glitching: Shepard is fighting off the drugs and regaining consciousness. She manages to bolt out of the medical bay and call for security. While the Commander subdues the two armed guards there, the scientist uses the distraction to raise a barrier and trap Shepard in the medical bay. Unfortunately, the controls for the local supply of LOKI Mechs are on Shepard's side of the room, and the scientist ineffectually warns Shepard to step away from there. Shepard remote-controls as many LOKIs as needed and uses them to kill the scientist and disable the barrier.
+
+Capabilities[]
+Offensive
+The scientist is armed with an M-3 Predator.
+
+Defensive
+The scientist has only health on lower difficulties and a light shielding on higher ones. 
+
+Tactics[]
+The scientist has no special behavioral patterns and should be easily shredded by the LOKI's M-4 Shuriken, shielded or not. She doesn't move around and will simply try to shoot the mech down from where she stands.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

@@ -1,0 +1,62 @@
+
+
+
+
+
+Nios
+
+Region
+Milky Way / Apien Crest / Castellus
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.75 AU
+
+
+Orbital Period
+0.7 Earth Years
+
+
+Keplerian Ratio
+0.861
+
+
+Radius
+2,849 km
+
+
+Day Length
+29.4 Earth Hours
+
+
+Atm. Pressure
+115.77 atm
+
+
+Surface Temp
+756 °C 
+
+
+Surface Gravity
+0.39 g
+
+
+Mass
+0.077 Earth Masses
+
+
+Location: Milky Way / Apien Crest / Castellus System /  Second planet
+
+
+Description[]
+A small terrestrial planet bathed in argon and carbon dioxide, Nios has a pressure-cooker atmosphere. Probes revealed calcite cliffs but few valuable minerals, and so the planet had only a few artificial satellites when the Reapers hit. Fragments from destroyed scientific research stations and spy drones litters the planet's Lagrangian points, presenting a navigation hazard.
+
+
+
+

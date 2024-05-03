@@ -1,0 +1,152 @@
+
+
+
+For the armor upgrade in the original Mass Effect, see Armor Upgrades.
+Stimulant Pack is a grenade power in Mass Effect 3's single-player and multiplayer modes.
+
+Power Ranks[]
+Rank 1: Stimulant Pack[]
+A specially designed ops survival pack that temporarily increases survivability and all damage output.
+A limited number of these packs can be carried.
+
+Max Shields: 2000 (1200 multiplayer)
+Damage: 15% (5% multiplayer)
+Duration: 10 sec (6 sec multiplayer)
+
+
+Rank 2: Pack Capacity[]
+Increase pack capacity by 1.
+
+
+Rank 3: Damage[]
+Increase damage bonus by 5% (2.50% multiplayer).
+
+Max Shields: 2000 (1200 multiplayer)
+Damage: 20% (7.50% multiplayer)
+Duration: 10 sec (6 sec multiplayer)
+
+
+Rank 4: Damage/Max Shields[]
+
+
+
+Damage
+Increase damage bonus by 10% (5% multiplayer).
+
+Max Shields: 2000 (1200 multiplayer)
+Damage: 30% (12.50% multiplayer)
+Duration: 10 sec (6 sec multiplayer)
+
+
+Max Shields
+Increase max shield bonus by 40%.
+
+Max Shields: 2800 (1680 multiplayer)
+Damage: 20% (7.50% multiplayer)
+Duration: 10 sec (6 sec multiplayer)
+
+
+
+Rank 5: Pack Capacity/Duration[]
+
+
+
+Pack Capacity
+Increase pack capacity by 1.
+
+
+
+Duration
+Increase duration by 50%.
+
+Max Shields: 2000 (1200 multiplayer) [Damage], 2800 (1680 multiplayer) [Max Shields]
+Damage: 30% (12.50% multiplayer) [Damage], 20% (7.50% multiplayer) [Max Shields]
+Duration: 15 sec (9 sec multiplayer)
+
+
+
+Rank 6: Weapon Damage/Survival[]
+
+
+
+Weapon Damage
+Increase weapon damage by 15% (8% multiplayer) for the duration of the power.
+
+
+
+Survival
+Increase max shield bonus by 60% and melee damage by 30% (25% multiplayer) for the duration of the power.
+
+Max Shields: 2800 (1920 multiplayer) [Damage], 4000 (2400 multiplayer) [Max Shields]
+Damage: 30% (12.50% multiplayer) [Damage], 20% (7.50% multiplayer) [Max Shields]
+Duration: 10 sec (6 sec multiplayer) [Pack Capacity], 15 sec (9 sec multiplayer) [Duration]
+
+
+
+Player Notes[]
+Mechanics
+Grenade powers do not have a recharge time and, thus, can be used immediately at any time, provided grenades are available. Using the power consumes one grenade each time.
+If the player has multiple grenade powers, the grenade pool is shared between them.
+This power works along the same principle as the multiplayer Ops Survival Pack supply item. Like the Survival Packs, the power can be accessed regardless of recharge stage and used at any time, but it has a limited supply. However, this supply can be replenished at ammo drops like grenade powers, unlike the Survival Packs.
+Unlike Ops Survival Packs, Stimulant Packs do not replenish health.
+Stimulant Packs offers a brief immunity period upon consumption, much like Ops Survival Packs grant after use.
+Strategy
+This power benefits from Gear items that increase the number of grenades that a player can carry. Choosing the Rank 5 extra Stimulant Pack upgrade and equipping the level V Grenade Capacity Gear enables the player to carry as many as eight Stimulant Packs at a time.
+It is highly recommended to either equip grenade upgrades to carry extra Stimulant Packs or carry a high capacity weapon during long firefights or when ammo supplies are limited because of shared resources (i.e. when other players use nearby ammo boxes during escort, data upload, or extraction objectives).
+Availability[]
+Single-player: Urdnot Wrex
+Multiplayer: Turian Havoc Soldier, Turian Ghost Infiltrator
+Trivia[]
+If Wrex has no packs available for the Stimulant Pack ability, the power wheel text will display "No grenades", as if stimulant packs were grenades.
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+Cobra Missile Launcher
+
+
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Heavy Weapon
+
+
+Location
+Multiplayer
+
+
+Fire Mode
+Single shot
+
+
+
+Weight
+  0% 
+
+
+Capacity
+  1% 
+
+
+Fire Rate
+  15% 
+
+
+Damage
+  100% 
+
+
+Accuracy
+  100% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+2 - 6
+0
+
+
+
+
+
+
+
+The Cobra Missile Launcher is a heavy weapon in Mass Effect 3.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 References
+
+
+Description[]
+Though it looks identical to the M-560 Hydra, the Cobra is a single shot launcher that fires a missile directly at the target. It is powerful enough to destroy a target on contact and has a small area of effect.
+
+Acquisition[]
+Single-player
+The weapon is exclusive to multiplayer.
+
+Multiplayer
+The Cobra Missile Launcher is given to all players at the beginning of matches, provided that the player has missiles in supply. Players initially begin with two launchers per match. Purchasing item packs can replenish missile supply and also award capacity boosts.
+
+Player Notes[]
+The Cobra deals very high damage, even higher than the M-920 Cain, while still firing faster. It can kill any enemy in the game with one hit on any difficulty. The downside to the Cobra is its limited missile supply. Choose your targets carefully.
+The damage of the Cobra starts dropping with distance at some point, which may cause it to fail to kill some boss enemies at times.
+As a weapon, the Cobra is subject to weapon damage bonuses. Infiltrators other than the Asari Huntress Infiltrator will often benefit from cloaking before firing it.
+Since the multiplayer update of July 24, 2012, the Cobra fires instantly when the player pulls the trigger.[1]
+The launcher does not feature automatic fire; additional missiles will only fire with additional trigger pulls.
+The Cobra is best used for clusters of very powerful enemies such as Atlases and Banshees, or desperate situations where the mission is likely to fail if the missile is not used.
+Enemies usually spawn in tightly packed groups, excellent opportunities to greatly reduce the total number of enemies you'll face in most rounds (or to pad your score). However, "spawn killing" with missiles is of much less use in endless spawn situations such as during the three objective rounds before the objective is completed and the final round.
+The Cobra has a deceptively large splash damage radius: it is easily capable of taking out several enemies with one missile.
+The detonation blast penetrates cover and terrain.
+Taking the splash damage into mind, firing at the ground near the intended target rather than at the target itself is a good strategy if the target is moving or if the player is under heavy fire, which can throw off their aim. Hitting any other type of surface, such as a wall or ceiling, works just as well.
+The Cobra's splash damage does not hurt the player or their allies.
+Killing enemies with the Cobra yields significantly less XP than taking them out conventionally.
+Allied missiles make a distinctive whistling sound while in flight.
+References[]
+
+↑ https://web.archive.org/web/20160318000952/forum.bioware.com/topic/264032-multiplayer-balance-changes/
+
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

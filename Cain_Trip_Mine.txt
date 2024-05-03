@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+This article is about the Cain Trip Mine power in Mass Effect 3 multiplayer. For other similarly-named abilities in this and other games, and for other uses of the term "mine" generally, see Mine (disambiguation).
+
+Cain Trip Mine is a grenade power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Cain Trip Mine[]
+Attach a C4 proximity explosive to any surface that arms after 1.50 seconds. Decimate the defenses of enemies that trip the sensor. Only 3 mines can be armed at a time.
+Highly effective versus armor, shields, and barriers. Consumes a grenade.
+
+Damage: 1200
+Radius: 5 m
+
+
+Rank 2: Grenade Capacity[]
+Increase grenade capacity by 1.
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Damage: 1440
+Radius: 5 m
+
+
+Rank 4: Damage/Radius[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Damage: 1800
+Radius: 5 m
+
+
+Radius
+Increase explosion radius by 30%.
+
+Damage: 1440
+Radius: 6.50 m
+
+
+
+Rank 5: Armor Damage/Grenade Capacity[]
+
+
+
+Armor Damage
+Increase damage done to armor by 50%.
+
+
+
+Grenade Capacity
+Increase grenade capacity by 2.
+
+
+
+
+Rank 6: Damage/Radius[]
+
+
+
+Damage
+Increase damage by 50%.
+
+Damage: 2400 (Damage), 2040 (Radius)
+Radius: 5 m (Damage), 6.50 m (Radius)
+
+
+Radius
+Increase explosion radius by 50%.
+
+Damage: 1800 (Damage), 1440 (Radius)
+Radius: 7.50 m (Damage), 9 m (Radius)
+
+
+
+Player Notes[]
+If evolved for damage, Cain Trip Mine deals higher base damage than any other power.
+However, it is not able to create Power Combos.
+Also, its status as neither a tech or a biotic power means its damage can't be buffed by the Tech Vulnerability evolution of Sabotage, or any gear items except the Mental Focuser.
+Damage can be boosted up to 30% by either the SMG Power Magnifier or the Pistol Power Magnifier mods, but the damage boost only applies if a weapon with either mod equipped is the active one at the time of detonation, not placement of the mine.
+Damage can be boosted by many allied powers, such as through certain evolutions of Cryo Blast, Warp, Recon Mine, Proximity Mine, and Tactical Scan.
+Grenade powers do not have a recharge time and, thus, can be used immediately at any time, provided grenades are available. Using the power consumes one grenade each time.
+If the player has multiple grenade powers, the grenade pool is shared between them.
+The Cain Trip Mine is launched in the same manner as the other mine powers. When it attaches to a wall, it creates a beam perpendicular to the flat surface of the mine. When an enemy walks through the beam, the Cain Trip Mine will be detonated. It is better placed on walls so that a horizontal beam is produced as is more likely to be crossed by an enemy. Cloaked enemies such as Geth Hunters will still set off the mines if they cross the beam.
+The mine is triggered when an enemy crosses the red line, not when they cross the plane of the line. If an enemy goes under, over, or beside the line, the mine will not trip. So, when setting a horizontal mine, be sure to set it low enough so that shorter enemies such as Nemeses and Phantoms can't go under the line and high enough to catch Geth Bombers.
+The power is best used when placed at chokepoints, gateways, and enemy spawning areas, allowing the Talon to eliminate many enemies at the same time while not even being present.
+If the player launches a mine while there are already three active, the oldest one is destroyed. This can be used as a very effective and unconventional tactic of flattening an entire enemy group in mere seconds.
+Banshees are capable of teleporting through trip mines without causing the mine to go off. A mine will only go off if they walk through it or if they stop teleporting close enough to the wire. To ensure that a Banshee is caught in an explosion, try setting off multiple trip mines parallel to one another and spaced out a bit (but not too far) so that at least one will trip when the Banshee stops teleporting.
+Banshees, Praetorians, and Phantoms all possess power-negating abilities. Be sure not to let your mines go to waste by triggering enemy power immunity at the wrong time.
+Availability[]
+Single-player: N/A
+Multiplayer: Talon Mercenary Engineer
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

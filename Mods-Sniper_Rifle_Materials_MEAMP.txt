@@ -1,0 +1,120 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - SR Ultra-Light Materials: Superior lightweight alloys replace weapon parts, making the weapon less obtrusive and easier to handle.
+Enhanced - SR Experimental Materials: Substantially reduces weapon weight, but at the cost of increased recoil.
+Enhanced - SR Latticed Materials: Substantially reduces weapon weight, but at the cost of decreased clip size.
+Note:  Sniper rifle stability is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+SR Ultra-Light Materials
+
+-8%
+
+-9%
+
+-9%
+
+-10%
+
+-11%
+
+-11%
+
+-12%
+
+-13%
+
+-13%
+
+-14%
+
+Sniper Rifle Weight
+
+
+SR Experimental Materials
+
+-12%-5%
+
+-13%-6%
+
+-15%-7%
+
+-16%-8%
+
+-17%-9%
+
+-19%-10%
+
+-20%-11%
+
+-21%-12%
+
+-24%-13%
+
+-25%-15%
+
+Sniper Rifle WeightSniper Rifle Stability
+
+
+SR Latticed Materials
+
+-12%-8%
+
+-13%-9%
+
+-15%-10%
+
+-16%-11%
+
+-17%-12%
+
+-19%-13%
+
+-20%-14%
+
+-21%-15%
+
+-23%-16%
+
+-25%-18%
+
+Sniper Rifle WeightSniper Rifle Clip Size
+
+
+Equipping a Sniper Rifle Material Mod changes the color of parts of the weapon, lighter or darker, depending on the specific weapon.
+
+
+
+

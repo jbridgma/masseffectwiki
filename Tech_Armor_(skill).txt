@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For the power in Mass Effect 2 and Mass Effect 3, see Tech Armor.
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Tech Armor is a passive Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+Project a suit of Omni-Tech armor around your body to absorb a portion of all damage received.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Protection
+
+
+
+Gain permanent Damage Resistance.
+Damage Resistance reduces all incoming damage via a scaling formula. For instance, 100 Damage Resistance cuts your incoming damage in half. 
+
+
++10 Damage Resistance
+
+
+2
+
+Melee
+
+
+
+-
+
++30% Melee Damage
+
+
+3
+
+Protection
+
+
+
+-
+
++15 Damage Resistance
+
+
+4
+
+Protection
+
+
+
+-
+
++20 Damage Resistance
+
+
+4
+
+Strength
+
+
+
+-
+
++35% Melee Damage
++50% Weight Capacity
+
+
+
+5
+
+Protection
+
+
+
+-
+
++20 Damage Resistance
+
+
+5
+
+Stabilization
+
+
+
+-
+
++15% Weapon Accuracy
++15% Weapon Stability
++50% Weapon Accuracy While Moving
+
+
+
+6
+
+Shield Feedback
+
+
+
+Increases shield regeneration for 6s after taking damage.
+
++50% Shield Regeneration After Being Hit
++50% Regen Delay Reduction After Being Hit
+
+
+
+6
+
+Reactive Armor
+
+
+
+Increases melee damage and support-power effectiveness is increased for 3s after taking damage.
+
++60% Melee Damage After Being Hit
++30% Power Restoration and Defense After Being Hit
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Human Sentinel, Asari Sentinel
+
+
+

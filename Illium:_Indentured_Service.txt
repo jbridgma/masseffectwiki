@@ -1,0 +1,36 @@
+
+
+
+
+A quarian who has sold herself into indentured servitude has requested help getting Synthetic Insights to purchase her service contract.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Mission Summary
+4 Trivia
+
+
+Acquisition[]
+Prerequisite: Horizon (mission)
+
+At the Eternity Bar on Illium, you will encounter an asari slave broker trying to calm down a quarian. Talk to the slave broker to start the assignment. Even if you claim you don't have time for their problem, the assignment will still be added to the journal.
+The assignment will only appear if Conrad Verner is not present, either by him not being in a game, or by resolving the Illium: Conrad Verner assignment. Upon finishing that assignment, the fastest way to spawn the asari and quarian at the bar will be to save and load there.
+
+Walkthrough[]
+
+During the initial conversation you can immediately tell the slave broker to free the quarian for 2 Paragon points. The slave broker will refuse to do so. Commander Shepard will learn that the quarian has voluntarily entered into an indentured servitude contract. She tried to play the stock market, but lost, eventually accruing enough debt to indenture herself. The slave broker bought her debt and had planned to sell the quarian to Synthetic Insights, because she has artificial intelligence programming expertise. The contract requires the quarian to stay on Illium (and is also prohibitively expensive at hundreds of thousands of credits, on top of early emancipation fees) so Shepard cannot simply buy her.
+Talk to the asari Synthetic Insights Rep, who is also in the bar by the north balcony near a seated quarian and her friendzoned turian. The Rep does not wish to hire a slave, because the Citadel Council condemns slavery. Synthetic Insights is also having financial problems because the anti-AI sentiment from the geth attack on the Citadel 2 years ago diminished enthusiasm for AI research. 
+You can Charm or Intimidate the Rep to persuade her, which garners 5 points in either direction, or you can understand her point and leave her be. Either way you'll be returning to the slaver to complete the assignment. If you convinced the SI Rep to hire the quarian, you can earn 2 additional Paragon or Renegade points depending on the slave broker's response. All three characters disappear from the bar after completion of their parts if you used Paragon/Renegade persuasion methods.
+If you didn't convince the SI rep to hire the quarian, you can talk to her again if you change your mind, both before and after explaining the situation to the slave broker. Otherwise, you will have to use Charm (the slaver exploits a legal loophole that can free a slave for health reasons, also refunding 80% of what she spent for the contract) or Intimidate (force her to take the loss) to persuade the slave broker to release the quarian, gaining 5 morality points in either direction. The slaver proves to be empathetic and reasonable throughout the entire affair, and even though she may lament her business losses she will still free the quarian.
+For maximum morality points, convince the slaver to release the slave, then return and convince the Rep to buy the quarian's contract for 10 total morality points. You freed a quarian, forced a slaver to take a loss, and got the quarian a job at the expense of a corporation's reputation.
+
+Mission Summary[]
+Experience reward: 40 (50)
+Credits: 2,000
+Trivia[]
+There is a typo in the journal telling you to "Inform Slake Broker" should Synthetic Insights buy her. It is corrected in Mass Effect Legendary Edition.
+
+
+

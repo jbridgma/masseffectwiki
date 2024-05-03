@@ -1,0 +1,302 @@
+
+
+
+Travel to the Phoenix system in the Argos Rho cluster. Explore your new home on the planet Intai'sei.
+Acquisition[]
+Prerequisite: Pinnacle Station: Combat Missions
+
+You will receive this assignment after completing Ahern's special scenario on Pinnacle Station.  
+
+Walkthrough[]
+Activate the terminal that says 'Message Waiting' once inside Shepard's Apartment on Intai'sei. The message describes a convoy which has some equipment that can be purchased for a nominal fee. The equipment falls into three categories by ship: A purchase from the MSV Collins will cost 5,000 credits and result in a random tier IV upgrade, armor, or weapon, a purchase from the MSV Adams will cost 75,000 credits and result in a random tier VIII upgrade, armor, or weapon, and a purchase from the MSV Wallace will cost 220,000 credits and result in a random tier X upgrade, armor, or weapon. The assignment will be marked as complete after the first purchase, but can be repeated an infinite number of times if desired.
+
+Often the items granted from the assignment differ greatly from their cost at other merchants, sometimes more and other times significantly less. These purchases are not dependent on character levels, and present the possible acquisition of powerful items early in the game. Repeatedly ordering items from the MSV Wallace appears to be one of the faster ways to acquire a number of rare and valuable items; the best Bio-amps and Omni-tools, the best Quarian Armor, the rather intriguing krogan Rage Armor from the Geth Armory, and perhaps most usefully of all, the entire set of Spectre - Master Gear - at a fraction of their cost from other vendors.
+Also, repeatedly ordering items from the MSV Collins is a good way to build a stockpile of cheap items to convert into Omni-gel, especially later in the game when all items acquired are worth 10,000 credits or more.
+To ensure that you get the items you want it may be a good idea to save before buying something then save again after the item is bought and arrives, so if you end up with an unwanted item all you have to do is load the previous save and buy another item.
+
+Possible Items[]
+Items received are chosen randomly from the following lists.
+
+
+MSV Collins (5,000 credits)
+
+
+Item Name
+Item Type
+
+
+Scorpion IV
+Light human armor
+
+
+Predator IV
+Medium human armor
+
+
+Mantis IV
+Medium krogan armor
+
+
+Ursa IV
+Light turian armor
+
+
+Phoenix IV
+Light quarian armor
+
+
+Ablative Coating IV
+Armor Upgrades
+
+
+Medical Interface IV
+Armor Upgrades
+
+
+Stiletto IV
+Pistols
+
+
+Tornado IV
+Shotguns
+
+
+Thunder IV
+Assault Rifles
+
+
+Equalizer IV
+Sniper Rifles
+
+
+Combat Sensor IV
+Weapon Upgrades
+
+
+Kinetic Stabilizer IV
+Weapon Upgrades
+
+
+Rail Extension IV
+Weapon Upgrades
+
+
+Hammerhead Rounds IV
+Ammo Upgrades
+
+
+Shredder Rounds IV
+Ammo Upgrades
+
+
+Tungsten Rounds IV
+Ammo Upgrades
+
+
+Cryo Explosive IV
+Grenade Upgrades
+
+
+Bluewire IV
+Omni-tools
+
+
+Solaris IV
+Bio-amps
+
+
+MSV Adams (75,000 credits)
+
+
+Item Name
+Item Type
+
+
+Mantis VII
+Light human armor
+
+
+Mercenary VII
+Light human armor
+
+
+Liberator VII
+Medium human armor
+
+
+Rage VII
+Heavy krogan armor
+
+
+Phantom VIII
+Light turian armor
+
+
+Colossus VII
+Light quarian armor
+
+
+Combat Exoskeleton VIII
+Armor Upgrades
+
+
+Energized Plating VIII
+Armor Upgrades
+
+
+Karpov VIII
+Pistols
+
+
+Sokolov VIII
+Shotguns
+
+
+Kovalyov VIII
+Assault Rifles
+
+
+Volkov VIII
+Sniper Rifles
+
+
+Scram Rail VIII
+Weapon Upgrades
+
+
+High Explosive Rounds VIII
+Ammo Upgrades
+
+
+Inferno Rounds VIII
+Ammo Upgrades
+
+
+Sledgehammer Rounds VIII
+Ammo Upgrades
+
+
+Snowblind Rounds VIII
+Ammo Upgrades
+
+
+High Explosive VIII
+Grenade Upgrades
+
+
+Logic Arrest VII
+Omni-tools
+
+
+Prodigy VII
+Bio-amps
+
+
+MSV Wallace (220,000 credits)
+
+
+Item Name
+Item Type
+
+
+Explorer X
+Light human armor
+
+
+Colossus X
+Medium human armor
+
+
+Predator H X
+Heavy human armor
+
+
+Phoenix X
+Medium krogan armor
+
+
+Berserker X
+Heavy krogan armor
+
+
+Predator M X
+Medium turian armor
+
+
+Colossus X
+Light quarian armor
+
+
+Medical Exoskeleton X
+Armor Upgrades
+
+
+HMWP X
+Pistols
+
+
+HMWSG X
+Shotguns
+
+
+HMWA X
+Assault Rifles
+
+
+Pulse Rifle X
+Assault Rifles
+
+
+HMWSR X
+Sniper Rifles
+
+
+Frictionless Materials X
+Weapon Upgrades
+
+
+Kinetic Coil X
+Weapon Upgrades
+
+
+Scram Rail X
+Weapon Upgrades
+
+
+High Explosive Rounds X
+Ammo Upgrades
+
+
+Savant X
+Omni-tools
+
+
+Polaris X
+Bio-amps
+
+
+Savant X
+Bio-amps
+
+
+
+
+Pinnacle Station Assignments Navigation
+
+
+← Previous Assignment
+
+Assignment Index
+
+
+
+
+Pinnacle Station: Vidinos
+
+Assignments
+
+
+
+
+
+

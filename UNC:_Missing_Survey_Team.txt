@@ -1,0 +1,51 @@
+
+
+
+
+News vids indicate that a survey team in the Hades Gamma cluster recently dropped out of contact. Go to the Hades Gamma cluster and find out what happened to them.
+Alternative journal entry:
+According a [sic] log file you uncovered on Noveria, an entire colony has gone missing from the Hades Gamma cluster.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+4 Enemies
+
+
+Acquisition[]
+UNC: Missing Survey Team can be acquired through any of the following:
+
+Hearing a news report in a Citadel elevator.
+By avoiding the news reports on the Citadel (possible by fast-traveling a lot and by chance when going up to the Normandy), one may find a terminal which gives the assignment, then named Missing Colony, on Noveria. It is located in the hallway, alone in a corner, just before the encounter with Matriarch Benezia.
+Directly landing on Trebin, in the Antaeus system of the Hades Gamma cluster, then either accessing the computer console at the Research Base or directly proceeding to the nearby Excavation Site, will yield the alternative journal entry even if Noveria hasn't actually been visited yet.
+The terminal log reads as follows:
+
+
+“PERSONAL LOG
+"I don't care what the authorities say! Something's happened to them. Entire colonies don't just stop responding for no good reason. If the administrator won't do something, then I'll take a shuttle to the Hades Gamma cluster and deal with this myself!"”
+
+
+Preparation[]
+You will be swarmed by waves of fast-moving melee enemies in a claustrophobic combat zone. Consider modding weapons for knockback, having offensive biotics, and/or Damping to prevent enemy abilities triggering. Tech protection stats and hardening reduce damage from  electrical attacks, so wear light armors and equip Armor Upgrades that boost tech protection such as the Combat Exoskeleton, but regardless don't plan on trying to engage enemies at close range.
+
+Walkthrough[]
+According to Trebin's data on the Galaxy Map, the planet seems to continually suffer communication problems. After the Mako makes planetfall, Shepard's team explores the surface and finds and disables a transmitter surrounded by crashed communication probes. The device had been transmitting tightbeam signals into geosynchronous orbit, disrupting the survey team's GPS satellites. It was this that caused them to crash. The squad then discovers the survey team's base, completely deserted. There are three structures you can enter, one of which has a log entry that points toward an excavation site where the survey team apparently found some sort of alien technology, as well as a storage locker (easy Decryption). The other two structures contain a malfunctioning object and a med kit respectively. Now head over to the excavation site and enter it.
+
+
+The excavation site is a typical mine map, so head down and to the first landing of sorts. This area is a good spot to save as the next, main chamber, holds a swarm of 10 husks, which are the remains of the survey team. 
+While husks can only attack at melee range, they deal great damage and are quite durable. As such, hit the husks with everything you have; Throw and Singularity work particularly well to keep the husks tied up while you use gunfire and/or tech powers to take them down. Keep in mind that husks can still open doors, so retreating to the tunnels will only make it more difficult to survive. If you run around the main chamber, then stay away from the two doors in the back of the mine because they will release 10 more husks, making an already difficult fight outright impossible. There are containment cells of all kinds scattered around the main chamber to aid you in the fight, though avoid getting caught in their AoE when you detonate them.
+Tip: If a Husk that's trying to detonate its electric burst is then knocked off its feet by any means - even melee attacks for the very brave - its electric burst attack will deal no damage even though the burst will still appear to complete. So when you see that sizzly electricity start, it's time for Throw, or Neural Shock, or a shotgun in the face, etc.
+Once all the initial husks are down, wait for your powers to recharge, then place your squadmates behind a pair of crates on the left side of the main chamber, to provide great cover and a clear firing solution on both tunnels. Once you are ready, head for the tunnels; ten more husks will run out when you get close to them. There is a containment cell at the entrance of each tunnel, thus making the main fight considerably easier. The assignment finishes with the death of the final husk.
+
+
+Head down into both tunnels to discover stacks of dragon's teeth, but there's no explanation as to where they came from or who buried them here. One of your squadmates will say that they have heard of something similar to this and puts forward the theory that the alien technology they found transformed them, turning them into machine cultists. There are three crates (one unlocked, the other two requiring Easy Decryption) in the main chamber, along with a med kit near the entrance of the main chamber. One tunnel contains an open sludge cannister, and the other a crate requiring Average Decryption.  
+Later, when you are back on the Citadel, you can hear a news story concerning the fate of the survey team. ExoGeni states the team was killed by passing raiders or mercenaries, and they will release the names of the deceased once next of kin are notified.
+
+
+Enemies[]
+Husk
+
+
+

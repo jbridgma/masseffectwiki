@@ -1,0 +1,20 @@
+
+
+
+
+Respec Station is a terminal that allows the Pathfinder to reset skills (skill points) for Ryder and all squadmates. The console is located in the Med Bay onboard the Tempest.
+
+
+Resetting Skill Points[]
+Select a character to reset the skills points already invested into skills.
+A confirmation screen will appear asking to confirm or cancel the reset action.
+Upon confirmation, skill points will be reset for the character in question.
+Cost[]
+The first use of the Respec Station terminal is 20 .
+The second use of the Terminal is 500 . Each subsequent use costs an additional and cumulative 500 .
+Mechanics[]
+All skill points earned by Ryder during level increases will be returned as well as any bonus skill points found during exploration.
+
+
+
+

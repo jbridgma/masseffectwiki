@@ -1,0 +1,194 @@
+
+
+
+
+Medic is a specialization class for Engineers and Sentinels, with the alternate specialization options being the Operative and the Bastion respectively. Medics improve upon the First Aid and Medicine talents and dramatically increase the recharge rate of associated abilities.
+
+Overview[]
+See also: Talents#Specialization Classes
+Medics are most notable for their ability to use First Aid to revive fallen NPC squad members in combat, one of the only ways to do this in the game other than investing in the Spectre Training talent to unlock Unity, which generally requires a large investment of points to be anywhere as effective for this purpose as a Medic using medi-gel. Medic players can therefore forego Spectre Training if they choose, saving points to invest into other talents. Medic training also allows First Aid to ignore toxic damage, largely making the need to increase the squad's toxin resistance in any way no longer a concern.
+
+Neural Shock Specialization
+Improve Neural Shock duration 25% and toxic damage by 40
+First Aid Specialization
+First Aid does 80 extra healing, ignores toxic damage, and can revive fallen party members
+Talent Level Bonuses (Engineer)[]
+
+Bonus: reduces recharge time on medical talents and increases protection against enemy tech talents
+
+
+Rank
+Recharge time
+Tech protection
+Notes
+
+
+1
+4%
+6%
+Ranks 1 to 7 reduce cooldown times to all Engineer tech talents
+
+
+2
+6%
+9%
+
+
+
+3
+8%
+12%
+
+
+
+4
+10%
+15%
+
+
+
+5
+12%
+18%
+
+
+
+6
+14%
+21%
+
+
+
+7
+20%
+
+First Aid and Neural Shock recharge time reduction
+
+
+8
+23%
+
+Rank 8 onwards reduce cooldown times for medical talents only
+
+
+9
+26%
+
+Neural Shock Specialization
+
+
+10
+29%
+
+
+
+
+11
+32%
+
+
+
+
+12
+35%
+
+First Aid Specialization
+
+Talent Level Bonuses (Sentinel)[]
+
+Bonus: reduces recharge time on medical talents and increases pistol damage and accuracy
+
+
+Rank
+Recharge time
+Pistol damage / accuracy
+Notes
+
+
+1
+3%
+2% / 4%
+Ranks 1 to 7 reduce cooldown times to all Sentinel talents
+
+
+2
+5%
+4% / 7%
+
+
+
+3
+7%
+6% / 10%
+
+
+
+4
+8%
+8% / 13%
+
+
+
+5
+9%
+10% / 16%
+
+
+
+6
+
+
+Marksman gained
+
+
+7
+15%
+
+First Aid and Neural Shock recharge time reduction
+
+
+8
+18%
+
+Rank 8 onwards reduce cooldown times for medical talents only
+
+
+9
+21%
+
+Neural Shock Specialization
+
+
+10
+24%
+
+
+
+
+11
+27%
+
+
+
+
+12
+30%
+
+First Aid Specialization
+
+
+
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+

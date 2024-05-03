@@ -1,0 +1,93 @@
+
+
+
+
+
+Taurg
+
+ 
+
+
+
+
+
+
+
+Faction
+Wildlife
+
+
+Weapons / Attacks
+Melee
+
+
+Abilities
+–
+
+
+Armor
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+None
+
+
+The taurg is a pinkish four-eyed beast that can be found on Eos and Elaaden. It is similar in build to the galorn, although the taurg looks more ungulate than the latter.
+Like many large creatures, the taurg disintegrates upon death, although it may leave behind Renderable Plates.
+
+Scanner Information[]
+Taurg
+
+
+DATA:
+Classification: Mammal
+Origin: Andromeda
+ANALYSIS:
+A mammoth, hoofed beast that barks its warning, and, when attacked, rushes forward to stomp and headbutt. 
+
+Capabilities[]
+Offensive
+The taurg only has a melee charge and headbutt that deals minimal damage.
+
+Defensive
+It is protected by armor.
+
+Tactics[]
+Taurgs are difficult to antagonize, seldom bothering to hit back even when they're attacked. They are also slow movers, and can be outrun with minimal effort on the rare occasion they turn hostile.
+As armor-only units, they're vulnerable to the expected counters like Incinerate or Flamethrower.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

@@ -1,0 +1,60 @@
+
+
+
+Sanjiv Clement has been labeled a traitor, but his friend is sure he was taken against his will by exiles and asked for proof to help clear Sanjiv's name. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Find out what happened to Clement on Kadara
+
+
+3 Aftermath
+
+
+Acquisition[]
+Speak to Sellers on the Nexus in Operations, same room as Tann (marked with a).
+
+Walkthrough[]
+The task entails no combat and can actually be finished as soon as it is acquired depending on your previous actions.
+
+Find out what happened to Clement on Kadara[]
+You can find Clement's remains in Kadara Slums. Around the upper entrance of Tartarus, proceed northwest and turn the corner marked by an iridium node. The flashlight may turn on or off inappropriately even if the place has very little lighting, though one clear look confirms the corpse's presence.
+The message on a datapad on the ground confirms he was taken against his will. Reading the datapad gives +530 XP, and Ryder comments he had a terrible way to die.
+
+
+
+
+Sanjiv Clement: Last Words
+Delaney Roos, the exile, took me from Nexus against my will. When I wouldn't cooperate, she and her friends beat me and left me here to die. I have no way to contact anyone. I hope my mates on Nexus make it. Damn the exiles.
+
+
+Sanjiv Clement
+
+
+Scanning the corpse reveals the cause of death. He's been dead 2-3 months and just left there to rot. SAM relays the information to Director Tann on the Nexus; at least Clement's name can be cleared.
+If you happened to stumble across Clement's body and datapad before talking to Sellers, during the conversation with Sellers, SAM indicates that Clement has already been located. Pathfinder Ryder relays the bad news to Sellers and the mission immediately ends.
+
+Aftermath[]
+An email is received from Sellers after the task is completed.
+
+
+
+
+In your debt...
+To: Ryder
+From: Sellers
+
+I wanted to send my appreciation for clearing my dear friend Sanjiv's name. I hate to imagine the ordeal he was subjected to by the exiles who took him, but it does my heart good to know that he will be remembered as a faithful member of this incredible endeavor, and not a traitor.
+
+Perhaps now, I can finally put the Nexus revolts behind me and start looking to the future.
+
+Yours,
+
+Sellers
+
+
+
+
+

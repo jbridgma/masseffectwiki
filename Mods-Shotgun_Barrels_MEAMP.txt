@@ -1,0 +1,120 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - Shotgun Barrel: Enhances a weapon's barrel, creating greater gunfire velocity and impact.
+Enhanced - Shotgun Long Barrel: Substantially increases damage, but at the cost of accuracy.
+Enhanced - Shotgun Short Barrel: Substantially increases damage, but at the cost of increased recoil.
+Note:  Shotgun stability is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Shotgun Barrel
+
++9%
+
++11%
+
++12%
+
++12%
+
++13%
+
++14%
+
++15%
+
++15%
+
++16%
+
++17%
+
+Shotgun Damage
+
+
+Shotgun Long Barrel
+
++15%-6%
+
++16%-7%
+
++17%-8%
+
++18%-9%
+
++19%-10%
+
++21%-11%
+
++22%-12%
+
++23%-13%
+
++24%-13%
+
++25%-14%
+
+Shotgun DamageShotgun Accuracy
+
+
+Shotgun Short Barrel
+
++15%-5%
+
++16%-6%
+
++17%-7%
+
++18%-8%
+
++19%-9%
+
++21%-10%
+
++22%-11%
+
++23%-12%
+
++24%-13%
+
++25%-15%
+
+Shotgun DamageShotgun Stability
+
+
+Equipping a Shotgun Barrel Mod changes the shape of the weapon by modifying the barrel depending upon the specific weapon.
+
+
+
+

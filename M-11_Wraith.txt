@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+This article is about the shotgun designated M-11. For the heavy pistol designated M-11, see M-11 Suppressor. For the creature in Mass Effect: Andromeda, see Wraith.
+
+
+
+
+
+
+
+
+M-11 Wraith
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Shotgun
+
+
+Location
+Spectre Requisitions
+
+
+Fire Mode
+Semi-Automatic
+
+
+
+Weight
+  60% 
+
+
+Capacity
+  13% 
+
+
+Fire Rate
+  4% 
+
+
+Damage
+  70% 
+
+
+Accuracy
+  15% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+2
+18
+
+
+
+
+
+
+
+Type
+Shotgun
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+Semi-Automatic
+
+
+
+Weight
+  48% 
+
+
+Capacity
+  13% 
+
+
+Fire Rate
+  4% 
+
+
+Damage
+  70% 
+
+
+Accuracy
+  15% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+2
+18
+
+
+
+
+
+
+
+The M-11 Wraith is a shotgun in Mass Effect 3.
+
+Description[]
+The Wraith is favored among mercenaries, pirates, and slavers in the Terminus systems. Its high-impact damage and sturdy construction make it a popular "quick-draw" shotgun. A variant of the M-22 Eviscerator, demand for the Wraith is higher than ever, even though the weapon is banned in Citadel space. In order to lighten its weight, the Wraith holds fewer shots than the Eviscerator.
+
+Acquisition[]
+Single-player
+The M-11 Wraith can be purchased from the Spectre Requisitions terminal in the Citadel Embassies for 250,000 credits, or 75,000 credits in Mass Effect Legendary Edition.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The M-11 Wraith is categorized as ultra-rare and requires no multiplayer expansion packs.
+
+Player Notes[]
+GeneralMultiplayer 
+General
+The M-11 Wraith is a powerful two-shot shotgun that delivers extremely high damage per shot at a very low weight. It is also relatively accurate for a conventional shotgun, firing a much tighter spread of pellets than the AT-12 Raider, the other two-shot shotgun.
+The Wraith is one of the lightest shotguns in the game; only the Disciple and the M-27 Scimitar are significantly lighter. This makes it very useful for power-focused classes or builds.
+With a Shotgun Smart Choke and a Shotgun High Caliber Barrel, the Wraith can kill most infantry enemies with a single well-placed headshot on any difficulty when damage buffs from other sources are factored in. This applies even to shielded enemies as conventional shotguns suffer very little damage loss from shield gates.
+Lining up headshots can be greatly assisted through the use of powers to stun and immobilize light targets, or at least force them to dodge, thus making the finishing blow easy; again, this lends the Wraith to a power-heavy style of combat. Powers like Warp and Cryo Blast are also effective for weakening armored foes such as Geth Pyros.
+The Wraith still has the insurance of a second shot to work with even if the first shot misses or is not completely fatal.
+The accuracy of the Smart Choke can make the Wraith more than capable of killing Guardians from a safe distance by shooting at their eye slits or other exposed areas.
+The Wraith's most significant weakness is a relatively slow rate of fire, with a fairly long delay between firing the first and second shots. The Wraith's reload animation is also fairly slow and even reload cancelling techniques don't shorten it by much.
+This again lends the Wraith to a power-heavy play style, as a power can be used in between shots to maintain efficiency.
+The Wraith is somewhat unsuitable for sustained combat against multiple enemies approaching rapidly; again, powers that can slow or hinder opponents to create space can compensate for this weakness.
+While it lacks the extreme burst damage of the M-300 Claymore or AT-12 Raider, the Wraith is lighter than either and is still fairly accurate even without the Shotgun Smart Choke; this affords some more flexibility with mod choices.
+Multiplayer
+The Wraith can be extremely potent in the hands of any class with Stasis, as it can easily execute any foe trapped inside with a single headshot. When used in tandem with the biotic damage buffs of Warp Rounds this can be lethal against Phantoms even on Platinum difficulty.
+Biotic classes generally are effective with the Wraith, relying on Warp Rounds and/or Warp for weakening armor, making it possible to eschew any piercing mods while still having a weapon effective against any target.
+Non-biotic classes can also be effective with the Wraith, though Armor-Piercing Rounds should generally be used for maximum effectiveness against hard targets.
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

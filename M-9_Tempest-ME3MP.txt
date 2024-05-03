@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+This article is about the submachine gun in Mass Effect 2 and Mass Effect 3. For the ship in Mass Effect: Andromeda, see Tempest. For the weapon in Mass Effect: Andromeda, see Charger.
+
+The M-9 Tempest is a submachine gun in Mass Effect 2 and Mass Effect 3.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Description
+1.2 Acquisition
+1.3 Squad Use
+1.4 Player Notes
+
+
+2 Mass Effect 3
+
+2.1 Description
+2.2 Acquisition
+2.3 Player Notes
+
+
+3 Trivia
+
+
+Mass Effect 2[]
+
+
+
+
+
+
+
+M-9 Tempest
+
+General Stats
+
+Type
+Submachine Gun
+
+
+Location
+Haestrom
+
+
+Accuracy
+Moderate
+
+
+Recoil
+High
+
+
+Fire Mode
+Automatic
+
+
+Fire Rate
+925 RPM
+
+
+Ammo Per Clip
+50
+
+
+
+Damage & Bonus Multipliers
+
+Base
+14
+
+
+Armor
+×1.0
+
+
+Shields
+×1.5
+
+
+Barrier
+×1.5
+
+
+
+Spare Ammo Capacity
+
+Default
+450
+
+
+Armor Pack
+495
+
+
+Upgraded
+675
+
+
+Both
+719
+
+
+Pickup Amount (Min - Max)
+79 - 180 (LE: 175 - 275)
+
+
+
+
+Description[]
+This submachine gun fires in long deadly bursts. Very effective against shields and biotic barriers. Inaccurate at long range. Weak against armor. Upgrades the Shuriken Machine Pistol.
+The commonality of kinetic barriers has led to increased demand for rapid-fire weapons like the Tempest. Produced by Elanus Risk Control Services for the Eclipse mercenary band, the Tempest is an expensive but deadly addition to anyone’s personal arsenal.
+
+Acquisition[]
+The Tempest is acquired from a dead quarian during Tali's recruitment mission. Make sure to pick it up before you answer the quarian radio. If you ever miss that one for whatever reason, you may have your second chance to pick up the Tempest in the room blocked by a pillar (which you have to blow up), where you can talk to Tali by radio.
+
+Squad Use[]
+This weapon can be used by Miranda, Mordin, Samara/Morinth, Thane, Kasumi and Liara.
+
+Player Notes[]
+Its high capacity magazine, spare ammo and reasonable damage make it an excellent anti-shield/barrier or suppressive weapon.
+This weapon only fires in automatic mode or five-round burst fire mode. It is impossible to fire a single round. This five-round burst will happen even if fewer than five rounds remain in the magazine when fired.
+While initial accuracy is good, bullet spread increases very rapidly when using automatic fire making the Tempest one of the least accurate weapons during automatic fire.  Recoil is substantial as well, requiring significant compensation. Good accuracy can be maintained by firing in five-round bursts with pauses between bursts, though of course this will reduce damage output.
+Tempest vs M-12 Locust: At short range, the Tempest will do slightly more damage to barriers, health, and shields and slightly less against armor. However, due to much lower bullet spread and recoil on automatic fire, the Locust outperforms the Tempest at medium and long range.
+Squadmates do not suffer from accuracy-related issues, and they also tend to fire the Tempest in longer bursts than the Locust, making the Tempest the superior SMG choice for them.
+
+Mass Effect 3[]
+
+
+
+
+
+
+
+M-9 Tempest
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Submachine Gun
+
+
+Location
+Tuchanka: Turian Platoon
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  30% 
+
+
+Capacity
+  72% 
+
+
+Fire Rate
+  70% 
+
+
+Damage
+  12% 
+
+
+Accuracy
+  30% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+50
+350
+
+
+
+
+
+
+
+Type
+Submachine Gun
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  26% 
+
+
+Capacity
+  72% 
+
+
+Fire Rate
+  70% 
+
+
+Damage
+  12% 
+
+
+Accuracy
+  30% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+50
+400
+
+
+
+
+
+
+
+
+Description[]
+Produced by Elanus Risk Control Services for the Eclipse mercenary band, the Tempest is an expensive but deadly addition to anyone's personal arsenal. This fully automatic submachine gun is punishing up close, but becomes less accurate at long range.
+
+Acquisition[]
+Single-player
+The M-9 Tempest can be found during the mission Tuchanka: Turian Platoon, next to the turian bodies after killing the first group of husks. It is purchasable from Kassa Fabrication post-mission if it was missed.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The M-9 Tempest is categorized as uncommon and requires no multiplayer expansion packs.
+
+Player Notes[]
+GeneralMultiplayer 
+General
+The Tempest is an excellent all-around weapon, possessing a moderately fast rate of fire, good clip capacity, average accuracy, and above-average damage for an SMG, exceeding the M-12 Locust and the M-4 Shuriken.
+The main drawback of the Tempest is its heavy recoil, even when used in cover. Burst-firing is highly recommended at medium to long ranges.
+The recoil is manageable by compensating with downward pull on the crosshair while firing. To manage this better, fire from cover or equip the SMG Recoil System.
+Marksman further increases the already quick rate of fire of the Tempest, at the cost of even heavier recoil.
+Because the Tempest is fairly light, though slightly heavier than the Shuriken, it doesn't really benefit from the SMG Ultralight Materials mod, though it helps reduce weight when using a second weapon with the Tempest. The SMG Scope is also fairly weak as this increases recoil while scoped. The space would be better occupied by an SMG High Caliber Barrel, SMG High-Velocity Barrel, or SMG Power Magnifier for a power-focused class.
+A Tempest attached with an SMG Magazine Upgrade and an SMG Heat Sink provides the second longest sustained fire (without the need to reload) of any SMG, only beaten by the Geth Plasma SMG. Although the Geth Plasma SMG fires faster and has a bigger magazine, it needs to spin up to reach its peak rate of fire, thus limiting its flexibility.
+Multiplayer
+The recoil can be drastically reduced by playing as a turian class or the Geth Juggernaut Soldier to increase stability. This makes the Tempest superior to the M-12 Locust or the M-4 Shuriken.
+A Turian Soldier is particularly effective with most high-recoil SMGs using Marksman and the enhanced weapon stability from Turian Veteran to shred through enemies, even heavy armored enemies by using the SMG High-Velocity Barrel.
+The Tempest is an alternative to the N7 Hurricane that is lighter, more accurate, and more stable, not to mention easier to upgrade being only classed as uncommon versus the ultra-rare Hurricane. Accuracy carries with it damage potential as well, as skilled players will land more hits on enemy heads or weak points, generating 40% extra damage.
+Trivia[]
+Despite the muzzle flash coming from the bottom barrel, the High Caliber Barrel mod appears attached to the top one.
+In Mass Effect: Andromeda, the name of M-9 Tempest has changed to "Charger" to avoid clashing with the name of the Pathfinder's spaceship Tempest.
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

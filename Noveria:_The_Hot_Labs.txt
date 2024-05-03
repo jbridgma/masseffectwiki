@@ -1,0 +1,40 @@
+
+
+
+The Hot Labs have a self-destruct mechanism called a neutron purge. This would eliminate all of the creatures that have overrun the facility.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+4 Enemies
+
+
+Acquisition[]
+Prerequisite: Noveria: Matriarch Benezia
+
+Talk to the VI Mira about the neutron purge in the Hot Labs. Alternatively, Yaroslev Tartakovsky's death will cause the mission to appear in the journal.
+
+Preparation[]
+This mission may test your damage protections and toxin resistance. Stock up on medi-gel if you aren't at full capacity and get the necessary armor upgrades so you won't have to rely on random drops later.
+Captain Ventralis informs you that Matriarch Benezia is in the hot labs. He gives you access to the area once you've dealt with the rachni during your initial conversation. Once you enter the hot labs after receiving access, you cannot leave without activating its purge function.
+Note: If you do this mission before dealing with Benezia then go back to the survivors, they will all attack you at the same time under the Matriarch's orders. If you dealt with Benezia first, then the elevator next to the Hot Labs one will be locked out. 
+If you have already dealt with Benezia, it isn't strictly necessary to obtain and complete this mission, but you will learn quite a bit about the rachni if you do.
+
+Walkthrough[]
+From the tram station, head into the left elevator. The hot labs only have one occupant: Yaroslev Tartakovsky. Talk with him to learn what happened in the labs. He will give the complete history of the Rachni Project. He says that the rachni in the labs are beyond saving and you must activate the neutron purge to kill them all. If you're looking for Benezia, he tells you he hasn't seen her. Depending on your dialogue choices some of your squadmates may interject in the conversation.
+At the end you have the option of either talking him into giving you the purge codes immediately, or break off and talk to Mira in the room behind him for status reports. Whichever order you do so is of no consequence.
+
+Ask Yaroslev about initiating the neutron purge and he will go over the arming procedure. Before he can finish, a giant claw pierces his chest, making a bloody mess. A Rachni Soldier out of nowhere flings him across the room and now you have to kill it.
+Retrieve the code from Tartakovsky's corpse and head into the next room. BEFORE you initiate the purge, save your game because you will soon have a lot of rachni between you and the exit once you do. Equip everyone with their best anti-rachni gear. Activate the purge by giving Mira the code and now you have 120 seconds (two minutes) to get out--which won't be easy. 
+
+Rachni Soldiers and Workers have filled the main room and they will not let you go easily. Although your radar shows a crapton of red lifesigns, the actual number of rachni in the room is limited. There are 9 soldiers and 6 workers total: there are an initial 3 soldiers in the room, with more tunneling out from below upon approach or upon a soldier's death. Every time a soldier busts out of a grate a worker spawns alongside it. Kill them all for maximum experience (you should have plenty of time even in Insanity difficulty), or you can forego the potential gains and just run through. 
+If you want to race out, you will want to activate the Immunity skill if you have it, and those wearing only Light Armor will likely need to thin the herd a bit first. A fairly easy route is to follow one of the walls closely as the rachni are basically in the middle of the room. You cannot walk directly onto the grates, so you need to slip around them, then race for the exit. As always, crowd control talents are welcome here whether you're gunning them down or just slowing them down in your rush to escape. Grenade spamming is also viable, given the time pressure and enclosed space.
+When you hit the button inside the elevator, your squad revives and rejoins you, as with any other elevator. As the elevator rises, you hear a series of blasts. The mission is marked complete upon accomplishment or if you choose to leave Rift Station after concluding the main Noveria story.
+
+Enemies[]
+Rachni Soldier
+Rachni Worker
+
+
+

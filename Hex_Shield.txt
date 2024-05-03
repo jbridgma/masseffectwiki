@@ -1,0 +1,172 @@
+
+
+
+
+
+
+
+This article is about the Hex Shield power in Mass Effect 3. For the Barricade skill in Mass Effect: Andromeda, see Barricade (skill).
+
+Hex Shield is a tech power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Hex Shield[]
+Spawn a geth energy barrier that blocks all fast-moving projectiles, including bullets.
+
+Recharge Speed: 8 sec
+Shield Strength: 2000
+Duration: 18 sec
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 6.40 sec
+Shield Strength: 2000
+Duration: 18 sec
+
+
+Rank 3: Shield Strength[]
+Increase shield strength by 20%.
+
+Recharge Speed: 6.40 sec
+Shield Strength: 2400
+Duration: 18 sec
+
+
+Rank 4: Pulse/Shield Strength[]
+
+
+
+Pulse
+Upon spawning, an electric pulse is emitted that does 400 damage in a 3 meter radius.
+
+
+
+Shield Strength
+Increase shield strength by 30%.
+
+Recharge Speed: 6.40 sec
+Shield Strength: 3000
+Duration: 18 sec
+
+
+
+Rank 5: Shock/Duration[]
+
+
+
+Shock
+Enemies passing through the shield are electrified, taking 500 damage over 5 seconds. This effect can be detonated.
+
+
+
+Duration
+Increase duration by 100%.
+
+Recharge Speed: 6.40 sec
+Shield Strength: 2400 (Pulse), 3000 (Shield Strength)
+Duration: 36 sec
+
+
+
+Rank 6: Damage Synergy/Large Shield[]
+
+
+
+Damage Synergy
+When active, generate additional energy for all your systems to increase damage by 10%.
+
+
+
+Large Shield
+Spawn a wider shield and increase shield strength by 40%.
+
+Recharge Speed: 6.40 sec
+Shield Strength: 3200 (Pulse), 3800 (Shield Strength)
+Duration: 18 sec (Shock), 36 sec (Duration)
+
+
+
+Player Notes[]
+Hex Shield takes friendly fire damage. This includes bonus damage from weapons with damage multipliers against shields, such as the Reegar Carbine.
+Friendly fire can pierce the shield to hit enemies on the other side if piercing mods or piercing ammo consumables are used. However, the shield will still take the full damage from the friendly fire and the usual penalties for piercing objects apply.
+Hex Shield is extremely useful on objective waves, especially those involving hacking, and enabling or disabling devices.
+The Hex Shield is best used when strategically deployed in choke points, corridors and doorways, allowing complete defense and mitigation of enemy attacks.
+The "Shock" evolution of Hex Shield can stop enemy advances (with a shocking/stunning animation), allowing the Geth Juggernaut Soldier and the squad to deal with the situation more easily.
+Hex Shield evolved for Shock can prime enemies for a Tech Burst. It can also outright kill weaker enemies such as Husks and Seeker Swarms.
+Most small enemies will try to close the distance and melee the player. The enemies will run right into the Shock Hex Shield with no regard for their own safety to get to the player.
+Enemies will also not tend to run around the edge of the Hex Shield but come straight at the player through a deployed Hex Shield. A "Large Shield" evolution Shock Hex Shield means that most small enemies end up shocking themselves trying to get to the player if the Hex Shield is located in a choke point.
+Shock evolution is also excellent for Swarmers as they will run up to the shield to get to the players and be killed instantly.
+The "Pulse" evolution does a small amount of damage, but will stagger nearby enemies, making it useful if surrounded.
+Repeatedly throwing a Pulse Hex Shield while surrounded will quickly vaporize any small enemies within the Pulse range.
+Pulse stacked with the Shock evolution will damage and then cause any enemies touching the shield to be stunned for a few seconds. This allows the player a few extra seconds to recharge powers to throw the Hex Shield again to potentially vaporize any small enemies around the player.
+Shock and/or Pulse evolutions will vaporize smaller enemies when killed denying Cannibals a corpse to eat. Larger enemies do not vaporize when killed by the Hex Shield.
+Guardians will walk right up to the Hex Shield and are knocked backwards from the Hex Shield due to the large shield they carry. This does not deter them and they will just keep walking up and bouncing off the Hex shield repeatedly as long as it is deployed or until they are killed by the player. The "Shock" and "Pulse" evolutions are ineffective against them.
+A strategically deployed Hex Shield with the "Large Shield" evolution can block and redirect the swarm hazard on the Firebase Glacier Hazard map.
+The Hex Shield grants excellent protection when dealing with Atlases, Turrets, Ravagers, and most other artillery enemies.
+When fighting Cerberus, the Hex Shield can be placed right next to turrets to block out much of the turrets' line of sight.
+Geth Pyro flames, Ravager shots, Praetorian lasers, and Scion grenade shots will not be stopped by the shield if the player is standing too close to the shield.
+If the player throws a Hex Shield to stop incoming heavy fire (or pyro flames), the player should stand back from the shield about the size of the Geth Juggernaut Soldier and the shots will not hit the player.
+Enemies will treat the Hex Shield as solid cover and won't shoot at it unless they are aware of players hiding behind it.
+The strength of the Hex Shield is also boosted by the Geth Juggernaut Soldier's shield bonuses from their Hardened Platform passive class power.
+The Geth Juggernaut Soldier's Heavy Melee can be used on enemies on the other side of the shield.
+Dark Sphere sticks to any solid surface or cover it encounters including the Hex Shield.
+The Hex Shield can also provide protection for the Geth Juggernaut Soldier's Turret if it is deployed behind the shield so that enemies can't shoot at it.
+The Large Shield has small 'notches' in the top edge that allow a Geth Juggernaut Soldier to fire at enemies whilst being almost completely protected from return fire.
+Be careful when deploying the Hex Shield near stairs or ramps; it can be generated partially sunk into the ramp, making it significantly less useful.
+Availability[]
+Single-player: N/A
+Multiplayer: Geth Juggernaut Soldier
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

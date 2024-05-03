@@ -1,0 +1,85 @@
+
+
+
+
+
+
+
+
+Inventory Item
+Price / Discounted
+
+
+Sniper Rifle Damage
+60,000 / 50,000
+
+
+Heavy Pistol Damage
+60,000 / 50,000
+
+
+Submachine Gun Damage
+60,000 / 50,000
+
+
+Off-Hand Ammo Pack
+2,000 / 1,666
+
+
+Aegis Vest
+2,000 / 1,666
+
+
+M-29 Incisor Sniper Rifle1
+8,000 / 6,666
+
+
+Sentry Interface1
+6,000 / 5,000
+
+
+Umbra Visor1
+4,000 / 3,333
+
+
+
+
+1 Only in Legendary Edition
+
+Rodam Expeditions is a store in the Citadel. Located in Zakera Ward's Mid-Wards District, the store is located on the 28th level of a building. It offers adventure travel packages to dangerous destinations and high-grade weapons. The turian shopkeep Etarn Tiron manages the store, justifying his presence as the company believing in old-fashioned salesmanship even if transactions are done by electronic catalog (or acting as a bouncer for any humans trying to hack the catalog for lower prices, if the Citadel Council perished in 2183).
+Due to the Citadel's ban on weapons, Rodam Expeditions stores its wares in offsite containers and delivers them directly to customers' ships.
+
+Discount[]
+Commander Shepard can convince the shopkeeper to offer a discount on shop items. Tiron's disposition changes depending on whether the Council survived the Battle of the Citadel or not, but all outcomes provide a 20% discount with the right prerequisites.
+If Shepard elected to save the Council during Saren's assault on the Citadel in Mass Effect, the shopkeeper expresses great admiration and is cordial towards Shepard. After that, Shepard can advertise for the shop by recording an audio advertisement that says: "I'm Commander Shepard, and this is my favorite store on the Citadel". However, if Shepard let the original Council perish, the shopkeeper is visibly angry at Shepard and snipes at Shepard for being prejudiced against alien species. A discount may still be obtained via Paragon and Renegade dialogue options if Shepard has allowed the Council to die, though the shopkeeper will remain verbally hostile.
+
+Trivia[]
+The symbol for the store is the same as the one used in the first game for the garages at Peak 15 and Port Hanshan on Noveria.
+The music playing in the shop is originally from SimCity 4, another game published by EA.
+
+
+Mass Effect 2 Merchants
+
+
+Citadel
+
+Sirta Foundation • Saronis Applications • Citadel Souvenirs • Zakera Cafe • Rodam Expeditions
+
+
+Omega
+
+Harrot's Emporium • Omega Market • Kenn's Salvage
+
+
+Illium
+
+Baria Frontiers • Gateway Personal Defense • Memories of Illium • Serrice Technology
+
+
+Tuchanka
+
+Fortack's Database • Ratch's Wares
+
+
+
+

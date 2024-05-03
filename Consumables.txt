@@ -1,0 +1,122 @@
+
+
+
+
+Consumables are single-use items for Pathfinder Ryder during exploration and combat throughout the Heleus Cluster.
+
+Contents
+
+1 Overview
+2 Mechanics
+3 Gameplay Notes
+
+
+Overview[]
+Consumables provide a temporary benefit to Ryder at Ryder's time of choosing. Different consumables provide different temporary benefits.
+The Consumables screen can be accessed at any Loadout terminal. The Consumables screen initially allows equipping two consumables by default. Additional Consumables slots can be unlocked through the Military cryo pods Always Prepared and Versatility.
+Additional consumables can be found during exploration, looted from enemies, and purchased from merchants.
+Each type of consumable counts as one item (7 total items) towards the Inventory item limit as long as Ryder has one of each consumable type. 50 Backup Life Supports only count as ONE item and so on for the other six consumables. Their maximum stack size is 999 units each.
+
+Mechanics[]
+Consumables items selected on the Consumables screen make that Consumable available for Ryder to use during gameplay. Ryder can continue to use a Consumable item (one at a time) until the Consumables supply in question is exhausted. 
+
+
+
+Icon
+
+Name
+
+Rarity
+
+Description
+
+ Base Cost
+
+
+
+
+Backup Life Support
+
+Common
+
+Boosts life-support capacity and allows a user to survive hazardous environments longer outside of the Nomad. No effect on combat.
+
+160
+
+
+
+
+Cobra RPG
+
+Rare
+
+An explosive projectile launched from an omni-tool that deals massive damage.
+
+2400
+
+
+
+
+Cryo Ammo
+
+Common
+
+      Shots slow enemies and deal moderate bonus damage to armor. Lasts for the next three clips of the currently equipped gun.
+
+240
+
+
+
+
+Disruptor Ammo
+
+Common
+
+      Shots stun enemies and deal large bonus damage to shields. Lasts for the next three clips of the currently equipped gun.
+
+240
+
+
+
+
+Incendiary Ammo
+
+Common
+
+      Shots burn enemies and deal large bonus damage to armor. Lasts for the next three clips of the currently equipped gun.
+
+240
+
+
+
+
+Overdrive Pack
+
+Common
+
+Immediately reloads all weapons, recharges all powers, and temporarily boosts accuracy and damage reduction.
+
+160
+
+
+
+
+Shield Capacitors
+
+Common
+
+Boosts maximum shields. Restores current shielding to the new maximum. The boost lasts until shields are broken.
+
+160
+
+
+Gameplay Notes[]
+The three-clip supply of all special ammo types also applies to weapons with infinite ammunition that technically do not use clips. In their case one ammo charge lasts for three times the number of shots they can fire before they overheat. This can make it somewhat more difficult to keep track of how many empowered shots the current consumable has left, especially for players who take care to not let their weapons overheat in combat.
+Players who make frequent use of special ammo should consider installing a Coolant Unit, a weapon augmentation that increases clip size by 20% when special ammo is active, during weapon construction in order to utilize their available ammo to maximum effect.
+Cobra RPGs are exceptionally rare and expensive, but their damage output is sufficient to kill all but a scant few enemies in the game instantly. On Normal difficulty only Architects, Ancient Eirochs and story bosses like the Behemoth or the Archon's Sword can survive being hit with a Cobra, and even they are either brought close to death or take enough damage to advance the battle to its next stage in an instant. It is therefore recommended to save any available Cobra RPGs for boss battles, or at least consider them a panic button of sorts that should only be used under extreme duress.
+Although Cobra RPGs appear to have a decent blast radius, they only deal reliable damage to the actual target. Firing into a group of enemies is ill-advised as there is a high chance that the shot is wasted unless the targets are clustered together close enough to touch each other. The Cobra's targeting reticule is also fairly large (akin to a shotgun's in size), which necessitates careful aim to be effective.
+Cobra RPGs, once primed and ready, can be disarmed by switching weapons or bringing up the weapon wheel in case the player decides against their deployment.
+The Backup Life Support appears to slow the drain of Ryder's armor life support systems by 80% for 30 seconds. While this can be useful to some degree in environmental hazards of level 2 or above, its duration is too short to have much of an impact on missions like the reactivation of the Remnant vault on Voeld. Having a healthy supply of Backup Life Support consumables at hand should therefore be considered a minor help at best as it will not significantly lessen the challenge these levels pose.
+
+
+

@@ -1,0 +1,2791 @@
+
+
+
+
+
+
+
+This article is about tweaks for the first Mass Effect game. For Mass Effect 2 tweaks, see PC Tweaks (Mass Effect 2). For Mass Effect 3 tweaks, see PC Tweaks (Mass Effect 3).
+
+Mass Effect was built from the Unreal Engine (UE) 3 games engine, which allows many modifications by the user to enhance the in-game graphics and controls.
+Mass Effect's in-game configuration options have very little tweaking possibilities and only support basic graphic and key mapping. This article intends to serve as a guide to players who want to have more control on game performance and personalization, by highlighting options which players can tweak to better suit their needs.
+
+Contents
+
+1 Preface
+
+1.1 Back up your data
+1.2 Notes
+1.3 Writing style
+
+1.3.1 Data types
+
+
+
+
+2 Configuration Files
+
+2.1 Input File (BioInput.ini)
+
+2.1.1 Binding overview
+2.1.2 Key combinations
+2.1.3 Common Tweaks
+
+
+2.2 Game Engine (BioEngine.ini)
+
+2.2.1 Framerate
+2.2.2 Shadows
+2.2.3 Sound
+2.2.4 Misc. Graphical Settings
+
+
+2.3 BioGame.ini
+
+2.3.1 Character Behavior
+2.3.2 Inventory
+2.3.3 Conversation
+2.3.4 Misc. Behaviors
+2.3.5 Cooldown
+2.3.6 Merchants
+2.3.7 Saves
+2.3.8 Weapon Light Colours
+
+
+2.4 BIOGuiResources.ini
+2.5 BioParty.ini
+
+2.5.1 Inventory
+
+
+2.6 BioGame.ini
+
+
+3 In-Game Console
+
+3.1 Enabling The Console
+3.2 Usage
+3.3 Commands
+3.4 Reference
+
+3.4.1 Generic types
+3.4.2 Race-specific types
+3.4.3 Manufacturer Codes
+3.4.4 Armor Mods
+3.4.5 Grenade Ammo Mods
+3.4.6 Weapon Ammo Mods
+3.4.7 Weapon Mods
+3.4.8 Talents
+3.4.9 Achievements
+3.4.10 Area Codes
+
+3.4.10.1 Main levels
+3.4.10.2 Removed levels
+
+
+
+
+
+
+4 Disable Intro Videos
+5 Enable joystick move
+6 Additional resources
+
+
+
+Preface[]
+Back up your data[]
+All of the changes that are described in this article should only be tested on the files in the documents folder:
+
+On Windows XP/2000: %SystemDrive%\Documents and Settings\%Username%\My Documents\BioWare\Mass Effect\Config
+On Windows Vista/7/8/10: %SystemDrive%\Users\%Username%\Documents\BioWare\Mass Effect\Config
+(%SystemDrive% will be replaced with the drive letter where your Windows system is installed on following a colon, and %Username% with the current user that you are logged into the system with.)
+
+Notes[]
+Files location: The Mass Effect game will read the files inside the Config folder. If it fails to do so, or if the files have incorrect data, the game will read the default config files that are located in the folder where you installed your game. By default they are located at 'X:\Program Files\Mass Effect\BioGame\Config'. Those files will be prefixed with the word Default (to avoid editing them by mistake).
+Backup your files: To ensure that your gaming experience will not be damaged, make sure to back up every file that you are about to change. A good way to do this is to copy the Mass Effect or Config folder to a safe place. Alternatively, you can archive the folder to avoid confusion.
+Game Patches: BioWare have released two patches that fix various issues. Installation of a patch will overwrite changes made to the configuration files, and update their version (indicated at the bottom of each file).
+Writing style[]
+The configuration files implement the CamelCase writing style for functions and variables names. For example: the 'Caps Lock' key will be written as CapsLock, 'Right mouse button' will be written as RightMouseButton, etc.
+Note, however, that this is merely a writing convention.  When entering commands in the console, you may use any case, or combination of cases, you prefer. For example: "GiveBonusTalent 14", "givebonustalent 14", "GIVEBONUSTALENT 14", and "Givebonustalent 14" will all yield the same result.
+
+Data types[]
+Generally, there are three types of data used in the configuration files:
+
+ Strings - Any sequence of letters or symbols (generally enclosed with quotation marks). These have no prefixing.
+ Floating points - Any number with decimal point. These will be appended with the letter f.
+ Boolean - a Boolean data type is a true/false variable and can only accept True or False.
+Configuration Files[]
+Input File (BioInput.ini)[]
+This file is separated into six sections:
+
+
+
+Engine.PlayerInput
+Basically, how the game will handle the input device that the player is using. Generally, you don't want to change anything in this section. Changes made here could harm your gaming experience.
+
+
+Editor.EditorViewportInput
+The section applies to the editor the developers used. It has no impact on the game.
+
+
+Engine.Console
+This section defines the Console keys and behavior. More information is in the section about the console.
+
+
+Engine.UIInputConfiguration
+This section deals with how the mouse or gamepad will operate (sensitivity, movement emulation, etc.) Most likely, you won't need to alter anything in here, but you are free to experiment.
+
+
+BIOC_Base.BioPlayerInput
+This section deals with the mapping of keys.
+
+
+IniVersion
+This section is used for internal identification.
+
+[Engine.PlayerInput] (Device Input)
+This section deals with the way the controls work:
+
+
+
+MoveForwardSpeed
+The in-game running speed. Any changes made here could ruin the game experience by giving the player an advantage. If you want to shorten the time of traveling, see the section referring to changing the game speed.
+
+
+MoveStrafeSpeed
+The same as MoveForwardSpeed but controls sideways movement.
+
+
+LookRightScale
+Deals with Shepard's neck, and how much it can be turned for a wider field of vision. This can actually be useful when trying to take screenshots.
+
+
+LookUpScale
+The same as LookRightScale, but deals with the up/down motion.
+
+
+MouseSensitivity
+The sensitivity of the mouse. It's probably better to alter this from the in-game menu.
+
+
+GamepadAnalogSensitivity
+The sensitivity of the gamepad. Again, probably better to alter this from the in-game menu.
+
+
+DoubleClickTime
+The time between clicks that register as a double-click. As Mass Effect does not treat double-clicks any differently than single clicks, changing this should not have any effect.
+
+
+bInvertTurn
+Invert the axis of the mouse / keypad, if you want to change this, do it from the in-game menu.
+
+
+bEnableMouseSmoothing
+Adds smoothing to the mouse movement. Change this through the in-game menu.
+
+[BIOC_Base.BioPlayerInput] (Player Input)
+This section has many behaviors that can be changed. It is advised to leave any line that does not start with the word 'Binding' alone. The exceptions to this are:
+
+
+
+m_fDPadCooldownTime
+Handles some of the cooldown times of the input devices and should not be altered.
+
+
+m_fStormCooldownTime
+The same as m_fDPadCooldownTime.
+
+
+m_fQuickOrderTime
+Unknown function, but should not be touched, regardless. Experiment at your own risk. (Could be a boolean to determine whether time keeps progressing or not while giving quick commands to your team-mates.)
+
+
+m_bDisableCinematicAccelerate
+Allow or deny the acceleration option for cinematic cut-scenes. This has no effect in the game.
+
+
+m_bDisableCinematicSkip
+Allow or deny the ability to skip cinematic cut-scenes (will be discussed later on).
+
+
+m_fCinematicSkipTriggerDelay
+The delay in milliseconds before the actual skip occurs.
+
+
+m_fSlowMotionSpeed
+The game has no slow motion scenes, so this option doesn't effect anything in-game.
+
+Changing anything other than the recommended behaviors can cause severe gameplay bugs!
+
+
+Binding overview[]
+The binding of new keys, or changing behavior of existing keys is handled in the following way:
+Bindings=(Name="",InputMode=BIO_INPUT_MODE_NONE,Command="",Control=False,Shift=False,Alt=False)
+
+Name: Define the key that will execute the behavior.
+InputMode: Defines the engine predefined inputs. Should not be changed.
+Command: The command you want to assign to the key.
+Control, Shift, Alt: Does the key work in combination with one of these keys. Make sure to only set True/False here.
+Combining Commands: You can specify multiple commands, provided they don't interfere with each other. (A good example of this is left shift making you sprint or zooming the Mako's cannon). If you include the word "onrelease" before the command, then that particular command will only activate when the user releases this button.
+Generally, you only want to alter the Name and Command, unless you have a specific behavior you want to achieve.
+
+
+Key combinations[]
+When binding a key with Control, Shift, or Alt combination in addition to the same key without that combination, make sure that the declaration with the combination precedes the one without.
+For example:
+
+
+Bindings=(Name="N", InputMode=BIO_INPUT_MODE_NONE, Command="ToggleHUD",Control=False,Shift=False,Alt=True)
+
+Toggle the HUD when the "N" and "Alt" key combination are pressed.
+
+Bindings=(Name="N", InputMode=BIO_INPUT_MODE_NONE, Command="ToggleFlyCam",Control=False,Shift=False,Alt=False)
+
+Switch to fly cam when only the "N" key is pressed.
+Mass Effect comes with a set of commands that can be executed through the console or bound to keys, most are hidden and can only be found through trial and error.
+Please note, that changing critical game-play keys may cause you to not be able to interface with objects, start conversations, etc. There are also some keys that control several action and sub-actions, removing parts of the binding command can cause that key to stop behaving as expected.
+
+
+Common Tweaks[]
+Toggle HUD
+
+
+Command=ToggleCommandMenu
+
+The default method to view the HUD screen is to press and hold the 'Spacebar' key until you want to return to the "action". A different approach is to toggle the HUD so it will stay on by pressing a key, and return to the game when the same button is pressed again. It is recommended to use a key other than the 'Spacebar' to preserve the default method.
+Example: switching the spacebar menu into a toggle on/off mode
+open the file BIOInput.ini in a decent text-editor
+search for keyword "spacebar" and replace the correct line with this one:
+Bindings=(Name="SpaceBar",InputMode=BIO_INPUT_MODE_NONE,Command="ToggleCommandMenu | VehicleThrustersOn | OnRelease VehicleThrustersOff | GuiKey BIOGUI_EVENT_BUTTON_X | OnRelease GuiKey BIOGUI_EVENT_BUTTON_X_RELEASE",Control=False,Shift=False,Alt=False)
+
+Skip Cutscenes
+
+The game has a lot of repetitive cutscenes, i.e. docking on the Citadel, or traveling through the mass relays. Those cutscenes can be skipped, and there is no need to alter the binding keys. To activate the ability to skip cutscenes by pressing the "Draw/Holster Weapon" button (Q is default), just edit the lines:
+m_bDisableCinematicSkip=Falsem_fCinematicSkipTriggerDelay=1.000000
+
+The first line enables you to skip the cutscenes (make sure to only set True/False here). The second line indicates the time that it takes from the button press to the actual skip. Note: some locations have the cutscene for a reason (Shepard walk or say something that triggers another event). Skipping that cutscene, therefore, may leave you stuck. Experiment at your own risk.
+
+Quick-slot keys
+
+There are eight lines for the ability keys, they are numbered from 0 to 7, and are easy to alter.
+Command="UseAbility 0"shift=True
+
+This example, modifies the shift parameter, to allow more control over what keys can be used, what allows the usage of already bound keys to be used with the shift key (A, S, D, or W, for example). Setting the Shift option to True instead of False will activate that combination, and will make Shepard use the first ability instead of moving to the left.
+
+Squad Commands
+
+Sometimes you want to give commands to a certain party member (to move forward, most of the times) and not to both of them.
+Command="SquadCommandMoveTo 1"Command="SquadCommandMoveTo 2"
+
+The numerical parameter value is to indicate what squad member will execute the order. Either 1 (first squad member) or 2 (second squad member).
+
+Quickload
+
+It is possible to add a quickload option to the game. The problem is that you have to manually set the save name in the configuration file.
+Command="LoadGame John00_QuickSave"
+The LoadGame function receive the name of the save as a parameter: [profile_name]00_QuickSave. Replace [profile_name] with the name of your current character. This can be done with any save game file - look in your documents folder for desired name (x:\Documents and Settings\[username]\My Documents\BioWare\Mass Effect\Save\).
+Note that should you desire to use an F Key to bind quickload, you will also need to delete its corresponding line, such as
+
+"Bindings(Name="F9",InputMode=BIO_INPUT_MODE_NONE,Command="exec FKEY_F9.txt",Control=False,Shift=False,Alt=False)". Otherwise the quickload bind won't do anything.
+
+Fast game speed for travel and cutscenes
+
+This hotkey increases game speed tenfold while holding the key.
+Bindings=(Name="MiddleMouseButton",InputMode=BIO_INPUT_MODE_NONE,Command="SloMo 10 | OnRelease SloMo 1",Control=False,Shift=False,Alt=False)
+
+While holding the middle mouse button, game speed will increase ten times. It's helpful when traveling big distances, such as hub zones or planetary surface. It also works in Mako, and even in cutscenes, allowing you to fast-forward normally unskippable cutscenes. Speed multiplier may be arbitrary. Using this on a keyboard key sometimes causes glitches (e.g. it may freeze the game when fast-forwarding Mako landing), but binding on a mouse key doesn't.
+Game Engine (BioEngine.ini)[]
+Framerate[]
+[Engine.GameEngine]
+
+
+bSmoothFrameRate=TrueMinSmoothedFrameRate=22MaxSmoothedFrameRate=62
+bSmoothFrameRate Determines if the engine will enforce the framerate settings (True) or if it will let the graphic card manage them. This may cause spikes in FPS and unwanted graphic behavior.
+
+MinSmoothedFrameRate and MaxSmoothedFrameRate determine the minimum and maximum framerate. Setting the maximum value too high can sometimes degrade quality, rather then enhance it. It is recommended to set those values to the system refresh rate for best performance.
+Shadows[]
+
+bEnableBranchingPCFShadows=True
+
+This setting controls the presentation of shadows in the game. Setting it to false may increase performance, but at the same time can degrade the presentation of shadows.
+
+ShadowFilterRadius=2.000000
+
+Control shadow filtering to determine how sharp or soft the shadows will appear in the game. Higher value will make the shadow softer, and lower value will make them sharper.
+
+DepthBias=0.012000
+Controls the depth of shadows and how dynamic shadows appear. Higher value reduces the number of shadows shown, up to 1.0 that removes shadows altogether, and a lower value increase the number of shadows shown. This setting can cause glitches or fix them by changing the value.
+
+Note: Patch 1.02 set this setting to 0.030 that remove shadowing. Setting this to 0.012 will return them.
+
+MinShadowResolution=32MaxShadowResolution=512
+
+Determine the minimum and maximum shadow resolution. Higher minimum value will increase the richness of shadows. Lower maximum value will degrade the appearance of shadows. Note, that setting the minimum too high (or maximum too low) may result in glitches and loss of performance.
+
+ModShadowFadeDistanceExponent=0.200000
+
+Controls the distance from where shadows will be visible. Higher value will cause shadows to be visible in the near vicinity, while lower value will cause shadows to be shown at greater distance, increasing quality and degrading performance.
+Sound[]
+[ISACTAudio.ISACTAudioDevice]
+
+
+MaxChannels=64
+
+Depending on your sound card, and glitches you encounter, you can play with the values to enhance performance with sound or fix glitches.
+Misc. Graphical Settings[]
+[SystemSettings]
+
+
+DynamicDecals=True
+
+Controls the appearance of weapon fire left by players. Setting this setting to False enhances performance, but reduces game experience.
+
+DepthOfField=True
+
+Controls the Depth of Field that simulate how object inside the "focus area" are sharper than objects outside that field. It most noticeable while using the Sniper Rifle zoom feature that makes targeted objects more crisp and clear, and others blurred. Setting this option to False improves performance.
+
+QualityBloom=True
+
+Originally meant to control the quality of the Bloom Effect, but does not seem to have any effect in-game, although setting it to False may improve performance.
+
+Trilinear=True
+
+Enables or disables the Trilinear Filtering that can improve the quality of textures, but at the same time can cause glitches and loss of quality.
+
+MaxAnisotropy=4
+
+If the game is set with Anisotropic as the filtering mode in-game, this setting can control the level of Anisotropic Filtering used. Specifying numbers between 0 (no anisotropic filtering, better performance, but poorer image quality) to 16 (maximum filtering, degraded performance but crisper and more detailed textures) - the default is 4.
+[TextureLODSettings]
+
+
+TEXTUREGROUP_Character_Diff=(MinLODSize=32,MaxLODSize=512,LODBias=0)
+TEXTUREGROUP_Character_Norm=(MinLODSize=32,MaxLODSize=512,LODBias=0)
+TEXTUREGROUP_Character_Spec=(MinLODSize=32,MaxLODSize=256,LODBias=0)
+Setting the Min sizes to match the Max will force the game to always use the highest resolution textures on characters. This may decrease performance, but it will ensure a high resolution texture for Garrus's face - due to a bug, the game will always use the minimum resolution for his face texture.
+
+Raising the Max size is not recommended, this may cause graphical glitches.
+[D3DDrv.D3DRenderDevice]
+
+
+BIOVertexShaderVersion=vs_2_0
+
+Setting this to vs_3_0, improves game performance with minimal to none drop in graphics. Only recomended to users with GPU newer than the GeForce FX 5900 and the ATI Radeon X850.
+BioGame.ini[]
+Character Behavior[]
+[BIOC_Base.BioActorBehavior]
+
+
+AllowFriendlyCollateral=false
+
+Enables you to be injured by your squad, and vice-versa. This makes combat more realistic, but at the same time a problem with the current squad AI.  Can also result in the 'death' of non-targetable NPCs.
+[BIOC_Base.BioPlayerController]
+
+
+CoverEnterInterval=0.0
+
+Determines how much time it takes to the character to enter cover, when walking in-front of it.
+
+CoverExitCameraAngle=85
+
+Determines the camera angle that execute exiting from cover.
+
+CoverMovementModifier=0.25
+
+Determines the movement speed when in cover.
+
+ZoomMovementModifier=0.8
+
+Determines the movement speed when zooming with a weapon.
+Inventory[]
+[BIOC_Base.BioInventory]
+
+
+m_nMaxCredits=9999999m_nMaxGrenades=5m_fMaxSalvage=999m_fMaxMedigel=5
+
+Changes the maximum number of Credits, Grenades, Omni-gel, and Medi-gel. Changing any of these values may hamper game-play experience.
+Conversation[]
+[BIOC_Base.BioConversation]
+
+
+m_colSubtitleColor=(R=204,G=255,B=255,A=255)
+
+Changes the color and transparency of the subtitles. The values are in RGB (red, green, and blue) and alpha, which determines the transparency (lower the value to make the subtitles more transparent).
+
+m_fShowLastLineOffset=5.0
+
+In conversations, determines how much time passes between the NPC last line and the appearance of the dialogue wheel. Setting this to 0.0 will cause the wheel to appear immediately, and helps prevent choosing unwanted answers when skipping dialogue.
+
+m_bRemoveWeapons=True
+
+Determines if Shepard will holster his/her weapon when initiating a conversation. Setting this option to False will cause also cause others present to keep their weapons drawn during the conversation. Can create some strange situations in which Shepard waves an assault rifle at people.
+
+m_fShowRepliesOffset=2.0
+
+Changing this to 20.0 makes the dialogue wheel appear as soon as an NPC's last line of dialog starts.
+Misc. Behaviors[]
+[BIOC_Base.BioPawnBehavior]
+
+
+m_bAllowPhysicsOnDeadBodies=False
+
+Dead bodies will react more realistically, and shooting them results in minor movement and blood. Enabling this setting may result in degraded performance.
+[BIOC_Base.BioPawn]
+
+
+m_fCorpseCleanupFirstAttemptTime=5.0m_fCorpseCleanupAttemptRetryTime=2.0
+
+Determines the time until the game engine will attempt to remove enemy corpses for the first time, and how many retries it will execute. This will increase realism, but degrade performance (especially on intense combats). Note: Those settings also appear in [BIOC_Base.BioArtPlaceable], and might require the additional change, there.
+Cooldown[]
+[BIOC_Base.BioActivePower]
+
+
+m_bSkipPowerCooldown=False
+
+Removes the time limit for ability cooldown. Removing the cooldown also applies to NPCs. For example, geth shock troopers will be able to spawn hex shields without limit, making them very difficult to kill.
+Merchants[]
+[BIOC_Base.BioWorldInfo]
+
+
+m_buybackArrayMaxSize=20
+
+Changes the amount of items that you can buy back after selling to Merchants.
+Saves[]
+[BIOC_Base.BioSaveGame]
+
+
+m_bFilterCharacterSaves=True
+
+Setting this to False will show all the profile's save games from all characters, and will not filter them based on the current active character profile.
+
+m_nMaxSaveGames=999
+
+Determines the maximum number of saves allowed. Note: This setting might require to change m_bEnableLimitedSaves from False to True.
+Weapon Light Colours[]
+[BIOC_Base.BioWeapon]
+
+
+m_vActivatedMatParamColor_Active=(R=1,G=2,B=20)
+
+Controls the RGB hue of weapon lights when the weapon is drawn, in multiples of 10.
+
+m_vActivatedMatParamColor_Inactive=(R=20,G=2,B=1)
+
+Controls the RGB hue of weapon lights when the weapon is holstered, in multiples of 10.
+BIOGuiResources.ini[]
+[BIOC_Base.BioSFHandler_CharacterRecord]
+
+
+nMaxRenegade=330nMaxParagon=330
+
+Determines the amount of Paragon and Renegade  points needed to reach a full bar (squad window), accordingly.
+[BIOC_Base.BioSFHandler_HUD]
+
+
+m_nShieldPointsPerBar=60
+
+On the shield bars indicator, determines how many shield points per bar.
+[BIOC_Base.BioSFHandler_Shop]
+
+
+DEFAULT_SELL_PRICE_FACTOR=0.15MINIMUM_SELL_PRICE_FACTOR=0.15MAXIMUM_SELL_PRICE_FACTOR=0.45DEFAULT_BUY_PRICE_FACTOR=1.0MINIMUM_BUY_PRICE_FACTOR=0.70MAXIMUM_BUY_PRICE_FACTOR=1.0
+
+Determines the buy and sell prices modifier.
+BioParty.ini[]
+Inventory[]
+[BIOC_Base.BioPlayerSquad]
+
+
+m_nMaxInventoryItems=150m_nMaxInventoryWarningThreshold=135
+
+Determines how large your inventory can get until you are required to reduce new items into omni-gel, and when the game will warn you about reaching the limit.
+BioGame.ini[]
+[BIOC_Base.BioPawnBehavior]
+
+
+m_fVehicleExpScaleFactor=0.4
+
+Determines the amount of Experience Points awarded for a kill performed in the Mako, relative to the amount you would get on foot. Raising this to 1.0 will give you the same XP in the Mako as on foot. Raising over 1.0 also works (useful for speedruns with necessity of max level achievement).
+In-Game Console[]
+Enabling The Console[]
+To enable the console, browse to and open the file ...Documents\BioWare\Mass Effect\Config\BioInput.ini (the full location is mentioned above) in any text editor (Notepad, for example), but not with rich text editor (Microsoft Word, OpenOffice Writer, WritePad, and the likes).
+In the file you opened, search for [Engine.Console], and add the line ConsoleKey=Tilde just under it. This will create a console around 3/4 the height of your screen. Adding the line TypeKey=Tab underneath ConsoleKey (or whatever keys you prefer) will instead create a console that is only one line wide at the bottom of your screen, allowing you full use of the console while allowing you to see in-game going-ons.
+
+By default the [Engine.Console] section will contain:
+[Engine.Console]MaxScrollbackSize=1024HistoryBot=-1ConsoleKey=TildeTypeKey=Tab
+
+The code addition is marked as italicised text
+Note: some keyboard layouts, specifically on non-US English layouts, the Tilde key will map differently, and the game engine will not recognize the Tilde keyword. In this case, you will need to select a different key, such as Backslash, Tab, CapsLock, or any other to function as the console key.
+Be advised that when Mass Effect boots, the BIOInput.ini may be overwritten, and thus will not have the console enabled. To prevent this, set the file to read-only after making your changes.
+
+Usage[]
+
+GiveItem Self nSophistication Qa_SuperGun nmManufacturer
+Each command requires zero (0) or more arguments to be executed. The GiveItem code works the following way:
+
+The GiveItem command - marked in bold text.
+The Self keyword - indicates the target for the item (Use Target instead, when giving an item to a squad member).
+The Qa_SuperGun item - marked in bold text with the indication of the keyword string in italic text. Indicates the item you want.
+The nmManufacturer code - indicates the code of the manufacturer of that item.
+The nSophistication number - represents the 'level' of the item, which is the roman numeral (I, II, V, X, etc.) you see after the item name, but in the console is just a number (1-10).
+Commands[]
+
+
+Command
+Description
+Example
+
+
+AddTargetToParty
+Adds the targeted pawn to your party.
+
+
+
+ChangeSize float value
+Sets Shepard's physical size. 1 is default, 0.5 is half-sized, 2.0 is twice the size, etc.
+ChangeSize 0.01
+
+
+God
+Invulnerability. Does not protect against hardcoded instant death scenarios. Mass Effect Legendary Edition only.
+
+
+
+GiveXP int nValue
+Gives/takes experience to player - cannot lower current level.
+GiveXP 100
+
+
+GiveTalentPoints int numPoints
+Gives/takes talent points to player.
+GiveTalentPoints -12
+
+
+Set BioAttributesPawnParty m_TalentPoints int numPoints
+Sets all active squad members' available talent points to the given value.
+Set BioAttributesPawnParty m_TalentPoints 10
+
+
+GiveBonusTalent int bonusIdentifier
+Gives bonus talents to player. See 'Talent Codes' below.
+GiveBonusTalent 14
+
+
+GiveSpectreTalents
+Unlocks Spectre talents.
+
+
+
+PickSpecialization
+Unlocks bonus classes.
+
+
+
+GiveSuperArmor
+Gives a light "Survivor X" armor with 8000 shields.
+
+
+
+GiveItem Self string QaSuperArmor nmManufacturer
+Gives ultimate armor with 10000-20000 shields, depending on which manufacturer string is used
+GiveItem Self 10 QaSuperArmor Manf_Spectre03_Armor
+
+
+GiveSuperGun
+Gives a geth assault rifle with 25000 points of damage. Legendary Edition:  The supergun is never automatically unholstered and must be manually selected from the menu or the previous/next weapon keybinds.
+
+
+
+GiveItem Self string Qa_SuperGun nmManufacturer
+Gives geth-style Assault Rifle which does 30000 to 40000 damage, depending on which manufacturer string is used. Non-geth manufacturer codes may or may not be geth-style.
+GiveItem Self 10 Qa_SuperGun Manf_Geth_Weap
+
+
+Set BIOC_Base.BioPawnBehavior m_fInsanityEnemyDamageReduction ##F
+
+Changes how much damage enemies take on Insanity. A higher number means more damage, while a lower number means less damage.
+
+set BIOC_Base.BioPawnBehavior m_fInsanityEnemyDamageReduction 500F
+
+
+GiveAll
+Gives one of each weapon, weapon mod, bioamp, omnitool, and grenade. Does not give armors.
+
+
+
+GiveAllBioAmps string nmManufacturer
+Gives all bioamps to player.
+GiveAllBioAmps Manf_Serrice_Bioamp
+
+
+GiveAllOmniTools string nmManufacturer
+Gives all omnitools to player.
+GiveAllOmniTools Manf_Serrice_OmniTool
+
+
+GiveAllGrenades string nmManufacturer
+Gives all weapons of grenades to player.
+
+
+
+GiveAllWeapons string nmManufacturer
+Gives all weapons of manufacturer to player.
+GiveAllWeapons Manf_Spectre03_Weap
+
+
+GiveAllArmor string nmManufacturer
+Gives all armors of manufacturer to player.
+GiveAllArmor Manf_Spectre03_Armor
+
+
+GiveAllArmorHuman string nmManufacturer
+Gives all human armors of manufacturer to player.
+
+
+
+GiveAllArmorTurian string nmManufacturer
+Gives all turian armors of manufacturer to player.
+
+
+
+GiveAllArmorQuarian string nmManufacturer
+Gives all quarian armors of manufacturer to player.
+
+
+
+GiveAllArmorKrogan string nmManufacturer
+Gives all krogan armors of manufacturer to player.
+
+
+
+GiveAllXMods
+Gives all weapon and armor mods.
+
+
+
+GiveItem string nmActor int nSophistication string nmItemLabel string nmManufacturer
+Gives item to player.  The manufacturer string is optional. nSophistication determines the 'level' (I, II, ... X)
+Armor: GiveItem target 10 QuarianL manf_kassa_armor_colossusWeapon: GiveItem self 1 assault_rifle manf_hk_weap
+
+
+GiveArmor string nmActor int nSophistication string nmArmorLabel
+Gives armor to player.
+
+
+SetParagon int Points
+Sets paragon points to specified value. (340 is max)
+
+
+
+SetRenegade int Points
+Sets renegade points to specified value. (340 is max)
+
+
+
+AdjustCredits int #######
+Increments or decrements the value of the party's credits, to a maximum of 9,999,999.
+AdjustCredits +250000
+
+
+InitCredits int #######
+Sets the party's current credits to this amount, with a maximum value of 9,999,999.
+
+
+
+InitSalvage int ###
+Sets the amount of the party's total omni-gel count, to a maximum value of 999.
+
+
+
+InitMedigel int ##
+Sets the amount of the party's CURRENT medi-gel count; maximum value can only be increased by purchasing medi-gel count upgrades from stores.
+
+
+
+InitGrenades int ##
+Sets the amount of the party's CURRENT grenade count.
+
+
+
+Set BIOC_Base.BioInventory m_nMaxGrenades Int ##
+
+Sets the MAX amount of Grenades you can have.
+
+
+
+
+KillCurrentTarget
+Kills the currently targeted pawn.
+
+
+KillAll BioPawn
+Removes the player's henchmen from the party and all nearby pawns from the world.  This is reported to cause problems when attempting to play through the full game without a party.
+
+
+
+SetRunSpeed float speed
+Sets your running speed to the specified value
+SetRunSpeed 99 (for slow speed), SetRunSpeed 9999 (for fast speed)
+
+
+SuperSpeed
+Toggles on and off super-fast movement.  Using this twice will cancel out changes made by the SetRunSpeed command.
+
+
+
+UnlockAchievement int nAchievementID
+Unlocks an achievement. See Achievement Codes below.
+UnlockAchievement 5
+
+
+SetGender int ##
+Changes the PC's gender; 0 is male, 1 is female. Appears to affect body and voice, but not dialog flags, and doesn't seem to kick in until you zone.
+
+
+
+Ghost
+Disables collision clipping, prevents falling.
+
+
+
+Fly
+Disables falling.
+
+
+
+Walk
+Enables collision clipping and falling.
+
+
+
+Teleport
+Moves player to location at crosshair.
+
+
+
+Pause
+Pauses the game. Useful for pausing during dialogs.
+
+
+
+At string newArea
+Moves player to new area, places player 'at' the area specified.
+
+
+
+SpawnVehicle
+Spawns a Mako vehicle at the cursor location.
+
+
+
+upgradevehicle 6 vehthrusterforcebooster
+Triples the thrust (power) of the Mako underjets. Original game only.Using 5 instead of 6 allows for same boost, but Mako doesn't have to touch ground for the thruster to function again, allowing for repeated thrusts to stay off the ground. Gentle thrusts are needed to avoid falling damage.
+
+
+
+FOV int ##
+Changes the Field of View to the specified degrees.
+FOV 45
+
+
+Setbind string key string command
+Binds the specified command to the specified key
+Setbind CapsLock Showhud
+
+
+SloMo float multiplier
+Changes the game speed by the given multiplier (2.0 is twice as fast, 0.5 is half-speed)
+
+
+
+StasisAll
+Freezes all NPCs in place permanently.  This cannot be reversed without loading a savegame and should not be used aside from things like taking screenshots.
+
+
+
+ToggleFlyCam
+Toggles free camera mode
+
+
+
+CamToggleDebug
+Moves the camera slightly up and back of the player.
+
+
+
+Set BioCameraBehaviorFree m_fMovementScalar float
+Fine-tune the free camera's directional speed. Does not work in Mass Effect Legendary Edition.
+Set BioCameraBehaviorFree m_fMovementScalar 1.00  (very slow)  Set BioCameraBehaviorFree m_fMovementScalar 6000.00 (very fast)
+
+
+ShowHUD / ToggleHUD
+Toggles most parts of the HUD.
+
+
+
+Show Scaleform
+Toggles all of the  Scaleform  elements off (HUD, menus text, quick power bar).
+
+
+
+Show Vignette
+Toggles the vignette effect on or off. Mass Effect Legendary Edition only.
+
+
+
+PlayersOnly
+Toggles the game pause, allowing the player to line up a screenshot.
+
+
+SaveGame string
+Saves the game to filename indicated by string (See note 1).
+
+
+
+LoadGame string
+Loads saved game indicated by string filename (See note 2).
+
+
+
+Quit / Exit
+Exit game
+
+
+
+Shot
+Takes a screenshot exactly as it appears on the screen
+Shot
+
+
+TiledShot int multiplier int overlapPixels
+Takes a screenshot at many times the resolution of the screen. Postprocessing effects are rendered at default resolution rather than the target one, however, which may result in visual artifacts around the 'tile' edges.
+TiledShot 3x3 - takes a screenshot with a grid of 3 by 3. If the game is running in resolution of 1440x900, this will produce a 4320x2700 screenshot.TiledShot 2 - produces a screenshot twice the size of the game resolution.TiledShot 2 200 - takes a screenshot twice the size of the game resolution, and overlaps 200 pixels from every grid cell. The overlap may help ensure image continuity although it is not 100% assured.
+
+
+Stat FPS
+Toggles the display of your framerate
+
+
+
+Obj Classes
+See Unreal engine console documentation.
+
+
+
+Obj Dependancies
+See Unreal engine console documentation.
+
+
+
+Obj Hash
+See Unreal engine console documentation.
+
+
+
+Obj Linkers
+See Unreal engine console documentation.
+
+
+
+Get string propertyidentifier string value
+See Unreal engine console documentation.
+
+
+
+Set string propertyidentifier string value
+See Unreal engine console documentation.
+
+
+
+SetSensitivity int mouseSensitivity
+Sets mouse sensitivity from the console. Overrides any settings.
+
+
+
+Exec string filename
+Executes a specified file under the Mass Effect\Binaries directory
+
+
+
+ce hench_picksquad
+Select a new squad from the selection screen
+
+
+Notes:
+
+SaveGame John00_QuickSave. The first part is the character name followed by the number count of that character name (such as having more than one John).  The second part is the save name. John00_1 will result in "Save 1" in the loading screen user interface.  John00_tester will result in "Save 0" in the loading screen.Excluding the Name00 from the string will result in a save file that cannot be accessed via the user interface and can only be loaded with the LoadGame command.
+LoadGame John00_QuickSave. Loading a game such as tester without having loaded a previous save in the career the save game was created from will result in unrecoverable errors and you will be forced to exit the game via exit or quit.
+Reference[]
+Generic types[]
+Heavy_Armor
+Medium_Armor
+Light_Armor
+Assault_Rifle
+Sniper_Rifle
+Shotgun
+Pistol
+Bioamp
+Omnitool
+Gethgun_Pulse
+Example codes
+
+BIO AMP: Giveitem self 10 bioamp manf_serrice_bioamp (Mark 10 Serrice bioamp).
+OMNITOOL: Giveitem self 10 omnitool manf_serrice_omnitool (Mark 10 Serrice Omnitool).
+ARMOR: Giveitem self 10 TurianM manf_kassa_armor_colossus (Mark 10 Medium Turian armor).
+WEAPON: Giveitem self 10 Assault_Rifle manf_Spectre03_Weap (Mark 10 Spectre Assault rifle).
+ARMOR MODS: Giveitem self 10 x_armor_shieldVI (Mark 10 shields mod for armor).
+GRENADE MODS: Giveitem self 10 x_Gammo_HE (Mark 10 High Energy Explosive).
+WEAPON AMMO MODS: giveitem self 10 x_wammo_Harpoon (Mark 10 Harpoon rounds).
+WEAPON GEAR MODS: Giveitem self 10 x_wgear_frictionlessMAT (Mark 10 frictionless mats)
+
+Race-specific types[]
+HumanL
+HumanM
+HumanH
+QuarianL
+TurianL
+TurianM
+TurianH
+KroganM
+KroganH
+Manufacturer Codes[]
+
+
+Item
+
+Code
+
+Manufacturer
+
+
+Agent Armor
+
+Manf_Aldrin_Armor_Agent
+
+Aldrin Labs
+
+
+Hydra Armor
+
+Manf_Aldrin_Armor_Hydra
+
+
+Onyx Armor
+
+Manf_Aldrin_Armor_Onyx
+
+
+Bluewire Omnitool
+
+Manf_Aldrin_OmniTool
+
+
+Solaris BioAmp
+
+Manf_Aldrin_BioAmp
+
+
+Mercenary Armor
+
+Manf_Ariake_Armor_Mercenary
+
+Ariake Technologies
+
+
+Weapon
+
+Manf_Ariake_Weap
+
+
+Logic Arrest Omni-Tool
+
+Manf_Ariake_OmniTool
+
+
+Predator L/M/H Armor
+
+Manf_Armax_Armor_Predator
+
+Armax Arsenal
+
+
+Weapon
+
+Manf_Armax_Weap
+
+
+GeminiBio-amp
+
+Manf_Armax_BioAmp
+
+
+Nexus Omni-tool
+
+Manf_Armali_OmniTool
+
+Armali Council
+
+
+Prodigy Bio-amp
+
+Manf_Armali_BioAmp
+
+
+Explorer Armor
+
+Manf_Devlon_Armor_Explorer
+
+Devlon Industries
+
+
+Liberator Armor
+
+Manf_Devlon_Armor_Liberator
+
+
+Survivor Armor
+
+Manf_Devlon_Armor_Survivor
+
+
+Thermal Armor
+
+Manf_Devlon_Armor_Thermal
+
+
+Weapon
+
+Manf_Devlon_Weap
+
+
+Duelist Armor
+
+Manf_Elanus_Armor_Duelist
+
+Elanus Risk Control
+
+
+Guardian Armor
+
+Manf_Elanus_Armor_Guardian
+
+
+Warlord Armor
+
+Manf_Elanus_Armor_Warlord
+
+
+Weapon
+
+Manf_Elanus_Weap
+
+
+Assassin Armor
+
+Manf_Elkoss_Armor_Assassin
+
+Elkoss Combine
+
+
+Gladiator Armor
+
+Manf_Elkoss_Armor_Gladiator
+
+
+Weapon
+
+Manf_Elkoss_Weap
+
+
+Cipher Omni-tool
+
+Manf_Elkoss_OmniTool
+
+
+Battlemaster Armor
+
+Manf_Geth_Armor_BattleMaster
+
+Geth Armory
+
+
+Berserker Armor
+
+Manf_Geth_Armor_Berserker
+
+
+Rage Armor
+
+Manf_Geth_Armor_Rage
+
+
+Weapon
+
+Manf_Geth_Weap
+
+
+Geth Pulse Rifle
+
+Gethgun_Pulse_Player Manf_Geth_Weap
+
+
+Geth Shotgun
+
+Gethgun_Shotgun Manf_Geth_Weap
+
+
+Geth Sniper Rifle
+
+Gethgun_Sniper Manf_Geth_Weap
+
+
+Geth Anti-Tank Gun
+
+Gethgun_AntiTank Manf_Geth_Weap
+
+
+Silverback Armor
+
+Manf_HK_Armor_Hornet
+
+Hahne-Kedar
+
+
+Mantis Armor
+
+Manf_HK_Armor_Mantis
+
+
+Predator Armor
+
+Manf_HK_Armor_Predator
+
+
+Scorpion Armor
+
+Manf_HK_Armor_Scorpion
+
+
+Ursa Armor
+
+Manf_HK_Armor_Ursa
+
+
+Weapon
+
+Manf_HK_Weap
+
+
+Weapon
+
+Manf_HK_WeapAppr2
+
+
+Colossus Armor
+
+Manf_Kassa_Armor_Colossus
+
+Kassa Fabrication
+
+
+Weapon
+
+Manf_Kassa_Weap
+
+
+Polaris Omni-tool
+
+Manf_Kassa_OmniTool
+
+
+Polaris Bio-amp
+
+Manf_Kassa_BioAmp
+
+
+Titan Armor
+
+Manf_Rosen_Armor_Titan
+
+Rosenkov Materials
+
+
+Weapon
+
+Manf_Rosen_Weap
+
+
+Phantom Armor
+
+Manf_Serrice_Armor_Phantom
+
+Serrice Council
+
+
+Omni-tool
+
+Manf_Serrice_OmniTool
+
+
+Bio-amp
+
+Manf_Serrice_BioAmp
+
+
+Phoenix Armor
+
+Manf_Sitta_Armor_Phoenix
+
+Sirta FoundationNote: 'Sitta' is not a typo
+
+
+Omni-tool
+
+Manf_Sitta_OmniTool
+
+
+Bio-amp
+
+Manf_Sitta_BioAmp
+
+
+Weapon
+
+Manf_Haliat_Weap
+
+Haliat Armory
+
+
+Crisis Armor*
+
+Manf_Jorman_Armor_Crisis
+
+Jormangund Technology
+
+
+Hazard Armor*
+
+Manf_Jorman_Armor_Hazard
+
+
+Weapon
+
+Manf_Jorman_Weap
+
+
+Partisan Armor*
+
+Manf_Batarian_Armor_Partisan
+
+Batarian State Arms
+
+
+Skirmish Armor*
+
+Manf_Batarian_Armor_Skirmish
+
+
+Weapon
+
+Manf_Batarian_Weap
+
+
+Freedom Armor*
+
+Manf_Cerberus_Armor_Freedom
+
+Cerberus Skunkworks
+
+
+Hoplite Armor*
+
+Manf_Cerberus_Armor_Hoplite
+
+
+Weapon
+
+Manf_Cerberus_Weap
+
+
+Janissary Armor*
+
+Manf_HKShadow_Armor_Janissary
+
+Hahne-Kedar Shadow Works
+
+
+Spectre Armor*
+
+Manf_HKShadow_Armor_Spectre
+
+
+Weapon
+
+Manf_HKShadow_Weap
+
+
+Predator L/M/H Armor VI
+
+Manf_Spectre01_Armor
+
+Spectre Master Gear
+
+
+Predator L/M/H Armor VII
+
+Manf_Spectre02_Armor
+
+
+Predator L/M/H Armor X
+
+Manf_Spectre03_Armor
+
+
+Weapon - Basic Gear*
+
+Manf_Spectre01_Weap
+
+
+Weapon - Advanced Gear*
+
+Manf_Spectre02_Weap
+
+
+Weapon - Master Gear
+
+Manf_Spectre03_Weap
+
+
+Omni-tool - Basic Gear*
+
+Manf_Spectre01_OmniTool
+
+
+Omni-tool - Advanced Gear*
+
+Manf_Spectre02_OmniTool
+
+
+Omni-tool - Master Gear*
+
+Manf_Spectre03_OmniTool
+
+
+Bio-amp - Basic Gear*
+
+Manf_Spectre01_BioAmp
+
+
+Bio-amp - Advanced Gear*
+
+Manf_Spectre02_BioAmp
+
+
+Bio-amp - Master Gear*
+
+Manf_Spectre03_BioAmp
+
+Note: Items marked with an asterisk(*) are not normally obtainable in-game, and can only be acquired through the console.
+
+Armor Mods[]
+Example: GiveItem Self 10 X_Armor_MedicalExo
+
+X_Armor_AblCoating (Ablative Coating)
+X_Armor_CombatExo (Combat Exoskeleton)
+X_Armor_CushGel
+X_Armor_EnerWeave (Energized Weave)
+X_Armor_EnvSeals (Toxic Seals)
+X_Armor_Exoskel (Exoskeleton)
+X_Armor_FieldRegen (Shield Regenerator)
+X_Armor_FirstAid (First Aid Interface)
+X_Armor_HardWeave (Hardened Weave)
+X_Armor_HazardSeals (Hazard Seals)
+X_Armor_KineticBuff (Kinetic Buffer)
+X_Armor_KineticExo (Kinetic Exoskeleton)
+X_Armor_MedicalExo (Medical Exoskeleton)
+X_Armor_MedicalIntf (Medical Interface)
+X_Armor_MotoJoints (Motorized Joints)
+X_Armor_Plating (Armor Plating)
+X_Armor_PressSeals (Pressurized Seals)
+X_Armor_RegenPlating (Energized Plating)
+X_Armor_ShieldBatt (Shield Battery)
+X_Armor_ShieldMod (Shield Modulator)
+X_Armor_ShieldVI (Shield Interface)
+X_Armor_ShockAbs (Shock Absorbers)
+X_Armor_StimPack (Stimulant Pack)
+Grenade Ammo Mods[]
+Example: GiveItem Self 10 X_GAmmo_Incendiary
+
+X_GAmmo_AntiThorian (Anti-Thorian Gas I)
+X_GAmmo_Cryo (Cryo Explosive)
+X_GAmmo_Fusion (Fusion Explosive)
+X_GAmmo_HE (High Explosive)
+X_GAmmo_Incendiary (Incendiary Explosive)
+Weapon Ammo Mods[]
+Example: GiveItem Self 10 X_WAmmo_SnowBlind
+
+X_WAmmo_AntiPersonnel (Anti-Personnel Rounds)
+X_WAmmo_AP (Armor Piercing Rounds)
+X_WAmmo_Chemical (Chemical Rounds)
+X_WAmmo_Cryo (Cryo Rounds)
+X_WAmmo_Hammerhead (Hammerhead Rounds)
+X_WAmmo_Harpoon  (Harpoon Rounds)
+X_WAmmo_HE (High Explosive Rounds)
+X_WAmmo_HyperRail (Does nothing. May have been intended for mod of same name.)
+X_WAmmo_Incendiary (Incendiary Rounds)
+X_WAmmo_Inferno (Inferno Rounds)
+X_WAmmo_Phasic (Phasic Rounds)
+X_WAmmo_Polonium (Polonium Rounds)
+X_WAmmo_Proton (Proton Rounds)
+X_WAmmo_Radioactive (Radioactive Rounds)
+X_WAmmo_Shredder (Shredder Rounds)
+X_WAmmo_Sledgehammer (Sledgehammer Rounds)
+X_WAmmo_SnowBlind (Snowblind Rounds)
+X_WAmmo_Striker (Obsolete code)
+X_WAmmo_Tungsten (Tungsten Rounds)
+Weapon Mods[]
+Example: GiveItem Self 10 X_WGear_ScramRail
+
+X_WGear_CombatScanner (Combat Scanner)
+X_WGear_CombatSensor (Combat Sensor)
+X_WGear_CombatVI (Combat Optics)
+X_WGear_FrictionlessMat (Frictionless Materials)
+X_WGear_HeatSink (Heat Sink)
+X_WGear_HighCaliber (High Caliber Barrel)
+X_WGear_HyperRail  (Hyper Rail)
+X_WGear_ImpSighting (Improved Sighting)
+X_WGear_KineticCoil (Kinetic Coil)
+X_WGear_KineticStab (Kinetic Stabilizer)
+X_WGear_RailExt (Rail Extension)
+X_WGear_RecoilDamp (Recoil Damper)
+X_WGear_ScramRail (Scram Rail)
+X_WGear_TargettingVI
+Talents[]
+Example: GiveBonusTalent 7
+
+0 (Pistols)
+7 (Assault Rifles)
+14 (Shotguns)
+21 (Sniper Rifles)
+28 (Light Armor)
+29 (Tactical Armor)
+49 (Throw)
+50 (Lift)
+56 (Warp)
+57 (Singularity)
+63 (Barrier)
+64 (Stasis)
+84 (Electronics)
+86 (Damping)
+91 (Hacking)
+93 (Decryption)
+98 (First Aid)
+99 (Medicine)
+137 (Shock Trooper: Soldier)
+138 (Shock Trooper: Vanguard)
+141 (Commando: Soldier)
+142 (Commando: Infiltrator)
+145 (Operative: Engineer)
+146 (Operative: Infiltrator)
+149 (Medic: Engineer)
+150 (Medic: Sentinel)
+153 (Nemesis: Adept)
+154 (Nemesis: Vanguard)
+157 (Bastion: Adept)
+158 (Bastion: Sentinel)
+Difference between same specializations are first 6 points that are same as starting class mentioned in brackets.
+When adding the bonus talents string be very careful for the game will only allow you to use around 5-6 offensive abilities for use in game, no matter how many abilities you add. So keep in mind that firstly you should add the abilities which are most useful(ex.- Warp & Singularity) fully upgrade them, then go for the other bonus talents. Also one might wanna start adding talents with spectre & class talents like - "commando".
+
+Achievements[]
+Example: UnlockAchievement 12
+
+
+
+Achievement
+
+Mass Effect™ (2007)
+
+Mass Effect™ Legendary Edition
+
+
+Medal of Honor Achievement
+
+1
+
+0
+
+
+Medal of Heroism Achievement
+
+2
+
+1
+
+
+Distinguished Service Medal Achievement
+
+3
+
+2
+
+
+Council Legion of Merit Achievement
+
+4
+
+3
+
+
+Honorarium of Corporate Service Achievement
+
+5
+
+4
+
+
+Long Service Medal Achievement
+
+6
+
+40
+
+
+Distinguished Combat Medal Achievement
+
+7
+
+
+
+
+Medal of Valor Achievement
+
+8
+
+
+
+
+Pistol Expert Achievement
+
+9
+
+
+
+
+Shotgun Expert Achievement
+
+10
+
+
+
+
+Assault Rifle Expert Achievement
+
+11
+
+
+
+
+Sniper Expert Achievement
+
+12
+
+
+
+
+Lift Mastery Achievement
+
+13
+
+5
+
+
+Throw Mastery Achievement
+
+14
+
+6
+
+
+Warp Mastery Achievement
+
+15
+
+7
+
+
+Singularity Mastery Achievement
+
+16
+
+8
+
+
+Barrier Mastery Achievement
+
+17
+
+9
+
+
+Stasis Mastery Achievement
+
+18
+
+10
+
+
+Damping Specialist Achievement
+
+19
+
+11
+
+
+AI Hacking Specialist Achievement
+
+20
+
+12
+
+
+Overload Specialist Achievement
+
+21
+
+13
+
+
+Sabotage Specialist Achievement
+
+22
+
+14
+
+
+First Aid Specialist Achievement
+
+23
+
+15
+
+
+Neural Shock Specialist Achievement
+
+24
+
+16
+
+
+Scholar Achievement
+
+26
+
+18
+
+
+Completionist Achievement
+
+27
+
+
+
+
+Tactician Achievement
+
+28
+
+
+
+
+Medal of Exploration Achievement
+
+29
+
+
+
+
+Rich Achievement
+
+30
+
+
+
+
+Dog of War Achievement
+
+31
+
+
+
+
+Geth Hunter Achievement
+
+32
+
+
+
+
+Soldier Ally Achievement
+
+33
+
+23
+
+
+Sentinel Ally Achievement
+
+34
+
+24
+
+
+Krogan Ally Achievement
+
+35
+
+25
+
+
+Turian Ally Achievement
+
+36
+
+26
+
+
+Quarian Ally Achievement
+
+37
+
+27
+
+
+Asari Ally Achievement
+
+38
+
+28
+
+
+Power Gamer Achievement
+
+39
+
+
+
+
+Extreme Power Gamer Achievement
+
+40
+
+
+
+
+Renegade Achievement
+
+41
+
+
+
+
+Paragon Achievement
+
+42
+
+
+
+
+Paramour Achievement
+
+43
+
+
+
+
+Spectre Inductee Achievement
+
+44
+
+
+
+
+Charismatic Achievement
+
+45
+
+
+
+
+Search and Rescue Achievement
+
+46
+
+
+
+
+Colonial Savior Achievement
+
+47
+
+
+
+
+Undisputed Achievement
+
+48
+
+
+
+
+New Sheriff in Town Achievement
+
+49
+
+
+
+
+Best of the Best Achievement
+
+50
+
+
+
+Achievement 25 (in the original Mass Effect) is unknown.
+
+Area Codes[]
+Structure: Level development code - Official name - Console command 
+
+Main levels[]
+
+Group: 00 Files (Masters)
+
+
+ICE00 Master
+Noveria
+At BIOA_ICE00
+
+
+JUG00 Master
+Virmire
+At BIOA_JUG00
+
+
+LAV00 Master
+Therum
+At BIOA_LAV00
+
+
+LOS00 Master
+Ilos
+At BIOA_LOS00
+
+
+STA00 Master
+Citadel
+At BIOA_STA00
+
+
+WAR00 Master
+Feros
+At BIOA_WAR00
+
+
+Group: END (End-game in Citadel)
+
+
+END00
+
+At BIOA_END00
+
+
+END20_00
+Citadel
+At BIOA_END00 Start_END20_00
+
+
+END70_00
+Citadel Plaza
+At BIOA_END00 Start_END70_00
+
+
+END80_00
+Citadel Tower Space Walk
+At BIOA_END00 Start_END80_00
+
+
+Group: ICE (Noveria)
+
+
+ICE00
+
+At BIOA_ICE00
+
+
+ICE20_01
+Alpine City
+At BIOA_ICE00 Start_ICE20_01
+
+
+ICE25_01
+Aleutsk Valley
+At BIOA_ICE00 Start_ICE25_01
+
+
+ICE50_01
+Peak 15 Utility Station
+At BIOA_ICE00 Start_ICE50_01
+
+
+ICE60_01
+Science Station
+At BIOA_ICE00 Start_ICE60_01
+
+
+ICE60_14
+Binary Helix Hotlabs
+At BIOA_ICE00 Start_ICE60_14
+
+
+Group: JUG (Virmire)
+
+
+JUG20_00
+Vehicle approach to the Salarian encampment
+At BIOA_JUG00 Start_JUG00_01
+
+
+JUG20_01
+Vehicle landing zone and first barricade
+At BIOA_JUG00 Start_JUG20_01
+
+
+JUG20_02
+Anti-Aircraft turret and second barricade
+At BIOA_JUG00 Start_JUG20_02
+
+
+JUG20_03
+Final approach to the salarian encampment
+At BIOA_JUG00 Start_JUG20_03
+
+
+JUG40_00
+Pontoon approach to Saren's Facility
+At BIOA_JUG00 Start_JUG40_00
+
+
+JUG40_01
+Entrance from the Salarian Camp and the first combat
+At BIOA_JUG00 Start_JUG40_01
+
+
+JUG40_02
+Geth Communications Tower
+At BIOA_JUG00 Start_JUG40_02
+
+
+JUG40_03
+Jungle approach to the pontoons (mine field)
+At BIOA_JUG00 Start_JUG40_03
+
+
+JUG40_04
+Pontoons: Entrance and artillery relay (optional objective)
+At BIOA_JUG00 Start_JUG40_04
+
+
+JUG40_05
+Pontoons: Geth Flyer landing pad (optional objective)
+At BIOA_JUG00 Start_JUG40_05
+
+
+JUG40_06
+Pontoons: Artillery ammo dump
+At BIOA_JUG00 Start_JUG40_06
+
+
+JUG40_07
+Pontoons: Geth Flyer landing pad (optional objective)
+At BIOA_JUG00 Start_JUG40_07
+
+
+JUG40_08
+Entrance to Saren's facility
+At BIOA_JUG00 Start_JUG40_08
+
+
+JUG70_00
+Saren's indoctrination and Krogan Genophage research facility
+At BIOA_JUG00 Start_JUG70_01
+
+
+JUG70_01
+Front entrance to the warehouse
+At BIOA_JUG00 Start_JUG70_01
+
+
+JUG70_02
+Warehouse combat with indoctrinates
+At BIOA_JUG00 Start_JUG70_02
+
+
+JUG70_03
+Security Office and Detention cells
+At BIOA_JUG00 Start_JUG70_03
+
+
+JUG70_04
+Krogan Genophage/Indoctrination Labs
+At BIOA_JUG00 Start_JUG70_04
+
+
+JUG70_05
+Indoctrinated Prisoner Barracks
+At BIOA_JUG00 Start_JUG70_05
+
+
+JUG70_06
+Sewer combat with indoctrinates
+At BIOA_JUG00 Start_JUG70_06
+
+
+JUG70_07
+Walkway between Sovereign's Tower and the Breeding Facility
+At BIOA_JUG00 Start_JUG70_07
+
+
+JUG70_08
+Security Hardpoint before Sovereign's Tower
+At BIOA_JUG00 Start_JUG70_08
+
+
+JUG70_09
+Facade for the Interior trench
+At BIOA_JUG00 Start_JUG70_09
+
+
+JUG70_10
+Facade for the ecterior ocean view
+At BIOA_JUG00 Start_JUG70_10
+
+
+JUG70_11
+Communications tower (Uplink to Sovereign)
+At BIOA_JUG00 Start_JUG70_11
+
+
+JUG80_00
+Krogan Breeding Facility
+At BIOA_JUG00 Start_JUG80_01
+
+
+JUG80_01
+Spiral Breakwater path
+At BIOA_JUG00 Start_JUG80_01
+
+
+JUG80_02
+Entrance Combat on the Breakwater
+At BIOA_JUG00 Start_JUG80_02
+
+
+JUG80_03
+Facade of the ocean view
+At BIOA_JUG00 Start_JUG80_03
+
+
+JUG80_04
+Turret one Interior (Sabotage)
+At BIOA_JUG00 Start_JUG80_04
+
+
+JUG80_05
+Krogan breeding trench entrance
+At BIOA_JUG00 Start_JUG80_05
+
+
+JUG80_06
+Empty Trench
+At BIOA_JUG00 Start_JUG80_06
+
+
+JUG80_07
+Central trench hub (Bomb Site/Saren Encounter)
+At BIOA_JUG00 Start_JUG80_07
+
+
+JUG80_08
+Upper trench fortification
+At BIOA_JUG00 Start_JUG80_08
+
+
+JUG80_09
+Sealed Krogan Breeding Trench
+At BIOA_JUG00 Start_JUG80_09
+
+
+JUG80_10
+Breakwater combat corridor
+At BIOA_JUG00 Start_JUG80_10
+
+
+JUG80_11
+Upper facade structure (Sailes and Details)
+At BIOA_JUG00 Start_JUG80_11
+
+
+JUG80_12
+Lift to Turret two
+At BIOA_JUG00 Start_JUG80_12
+
+
+JUG80_13
+Turret two interior (Sabotage)
+At BIOA_JUG00 Start_JUG80_13
+
+
+JUG80_14
+Lift from Turret two to breakwater
+At BIOA_JUG00 Start_JUG80_14
+
+
+Group: LAV (Therum)
+
+
+LAV00
+
+At BIOA_LAV00
+
+
+LAV60_01
+Ring of Fire
+At BIOA_LAV00 Start_LAV60_01
+
+
+LAV70_01
+Knossos Ruins
+At BIOA_LAV00 Start_LAV70_01
+
+
+
+Group: LOS (Ilos Ruins)
+
+
+LOS00
+
+At BIOA_LOS00
+
+
+LOS10_01
+Landing Zone
+At BIOA_LOS00 Start_LOS10_01
+
+
+LOS30_02
+Security Station
+At BIOA_LOS00 Start_LOS30_02
+
+
+LOS40_01
+Archives
+At BIOA_LOS00 Start_LOS40_01
+
+
+LOS50_01
+Trench Run
+At BIOA_LOS00 Start_LOS50_01
+
+
+
+Group: NOR (Normandy)
+
+
+NOR00
+
+At BIOA_NOR00
+
+
+NOR10_01
+Cockpit
+At BIOA_NOR00 Start_NOR10_01
+
+
+NOR10_02
+
+Hallway to Cockpit
+At BIOA_NOR00 START_NOR10_02
+
+
+NOR10_03
+
+Galaxy Map
+
+At BIOA_NOR00 START_NOR10_03
+
+
+NOR10_04
+
+Comm Room
+At BIOA_NOR00 START_NOR10_04
+
+
+NOR10_05
+Stairwell
+At BIOA_NOR00 START_NOR10_05
+
+
+NOR10_06
+Dining
+
+At BIOA_NOR00 START_NOR10_06
+
+
+NOR10_07
+Medical Bay
+At BIOA_NOR00 START_NOR10_07
+
+
+NOR10_08
+Liara's Room
+At BIOA_NOR00 START_NOR10_08
+
+
+NOR10_09
+Captain's Quarters
+At BIOA_NOR00 START_NOR10_09
+
+
+NOR10_10
+
+Elevator to 2nd Deck
+At BIOA_NOR00 START_NOR10_10
+
+
+NOR10_11
+Garage
+At BIOA_NOR00 START_NOR10_11
+
+
+NOR10_12
+Engineering
+At BIOA_NOR00 START_NOR10_12
+
+
+INNERAIRLOCK
+Airlock
+At BIOA_NOR00 START_INNERAIRLOCK
+
+
+Group: PRO (Eden Prime)
+
+
+PRO00
+
+At BIOA_PRO00
+
+
+PRO10_01
+Landing Zone
+At BIOA_PRO00 Start_PRO10_01
+
+
+Group:  STA (Citadel)
+
+
+STA00
+
+At BIOA_STA00
+
+
+STA20_01
+The Presidium
+At BIOA_STA00 start_STA20_01
+
+
+STA20_02
+
+Elevator to Citadel Tower
+
+AT BIOA_STA00 START_STA20_02
+
+
+STA30_01
+Marshal's Training Grounds
+At BIOA_STA00 Start_STA30_01
+
+
+STA60_01
+Wards
+At BIOA_STA00 Start_STA60_01
+
+
+STA70_01
+Citadel Council Tower
+At BIOA_STA00 Start_STA70_01
+
+
+Group: WAR (Feros)
+
+
+WAR00
+
+At BIOA_WAR00
+
+
+WAR20_01
+Human colony
+At BIOA_WAR00 Start_WAR20_01
+
+
+WAR30_01
+Thorian Lair
+At BIOA_WAR00 Start_WAR30_01
+
+
+WAR40_01
+War Zone
+At BIOA_WAR00 Start_WAR40_01
+
+
+WAR50_01
+Imperator Camp
+At BIOA_WAR00 Start_WAR50_01
+
+
+Group: UNC52 (Asteroid X57)
+
+
+UNC52
+At BIOA_UNC52
+
+
+Exterior of Main Base
+At BIOA_UNC52 START_UNC52_EXT_MAINBASE
+
+
+Interior of Main Base
+At BIOA_UNC52 START_UNC52_INT_MAINBASE
+
+
+Exterior of Torch 1
+At BIOA_UNC52 START_UNC52_EXT_TORCH1
+
+
+Interior of Torch 1
+At BIOA_UNC52 START_UNC52_INT_TORCH1
+
+
+Exterior of Torch 2
+At BIOA_UNC52 START_UNC52_EXT_TORCH2
+
+
+Interior of Torch 2
+At BIOA_UNC52 START_UNC52_INT_TORCH2
+
+
+Exterior of Torch 3
+At BIOA_UNC52 START_UNC52_EXT_TORCH3
+
+
+Interior of Torch 3
+At BIOA_UNC52 START_UNC52_INT_TORCH3
+
+
+
+Group: UNC (Uncharted)
+
+
+UNC10
+Klensal
+At BIOA_UNC10
+
+
+UNC11
+Xawin
+At BIOA_UNC11
+
+
+UNC13
+Mavigon
+At BIOA_UNC13
+
+
+UNC17
+Antibaar
+At BIOA_UNC17
+
+
+UNC20
+Trebin
+At BIOA_UNC20
+
+
+UNC21
+Rayingri
+At BIOA_UNC21
+
+
+UNC24
+Altahe
+At BIOA_UNC24
+
+
+UNC25
+Edolus
+At BIOA_UNC25
+
+
+UNC30
+Chohe
+At BIOA_UNC30
+
+
+UNC31
+Amaranthine
+At BIOA_UNC31
+
+
+UNC42
+
+Nonuel
+At BIOA_UNC42
+
+
+UNC51
+Luna
+At BIOA_UNC51
+
+
+UNC53
+Agebinium
+At BIOA_UNC53
+
+
+UNC54
+
+Presrop
+At BIOA_UNC54
+
+
+UNC55
+Solcrum
+At BIOA_UNC55
+
+
+UNC61
+Tuntau
+At BIOA_UNC61
+
+
+UNC62
+Nepheron
+At BIOA_UNC62
+
+
+UNC71
+Metgos
+At BIOA_UNC71
+
+
+UNC73
+Nepmos
+At BIOA_UNC73
+
+
+UNC80
+Nodacrux
+At BIOA_UNC80
+
+
+UNC81
+Chasca
+At BIOA_UNC81
+
+
+UNC82
+Ontarom
+At BIOA_UNC82
+
+
+UNC83
+Casbin
+At BIOA_UNC83
+
+
+UNC84
+Eletania
+At BIOA_UNC84
+
+
+UNC90
+Sharjila
+At BIOA_UNC90
+
+
+UNC92
+Binthu
+At BIOA_UNC92
+
+
+UNC93
+Maji
+At BIOA_UNC93
+
+
+Group: FRE (Freighters)
+
+
+FRE31
+Freighter of Doom (SP116) Tarrus IV Freighter
+At BIOA_FRE31
+
+
+FRE32
+Hostage Situation (SP111) MSV Ontario Freighter
+At BIOA_FRE32
+
+
+FRE33
+CSI (SP104) MSV Worthington Freighter
+At BIOA_FRE33
+
+
+FRE34
+Garrus' Subplot (SP201) MSV Fedele Freighter
+At BIOA_FRE34
+
+
+FRE35
+Depot Sigma-23 (SP107) Gorgon System Depot Freighter
+At BIOA_FRE35
+
+
+Group: PRC2 (Pinnacle Station)
+
+
+Pinnacle Station
+At BIOA_PRC2
+
+
+Intai'sei (Shepard's Apartment)
+At BIOA_PRC2AA
+
+Removed levels[]
+Areas of this group were used during game development and are no longer available.
+
+
+Group: DEV (Development)
+
+
+TEST_BuildCheck1
+At TEST_BuildCheck1
+
+
+TEST_BuildCheck2
+At TEST_BuildCheck2
+
+
+TEST_MUSEUM_CHAR
+At TEST_MUSEUM_CHAR
+
+
+Character & Placeable Gallery
+At zGB_CharGallery
+
+
+BIOA_CoverDemo
+At BIOA_CoverDemo
+
+
+BIOA_zCOM10
+At BIOA_zCOM10
+
+
+BIOA_zCOM20
+At BIOA_zCOM20
+
+
+BIOA_CombatTest100
+At BIOA_CombatTest100
+
+
+BIOA_CombatTest200
+At BIOA_CombatTest200
+
+
+BIOA_zVEH10
+At BIOA_zVEH10
+
+
+BIOA_zCHR10
+At BIOA_zCHR10
+
+
+BIOA_zCHR20
+At BIOA_zCHR20
+
+
+Combat Stress Test
+At zGB_CombatStressTest
+
+
+characterprep_00
+At characterprep_00
+
+
+test_into_nor00
+At test_into_nor00
+
+
+LAV20_01
+Throw Down Plaza
+At BIOA_LAV00 Start_LAV20_00
+
+
+LAV40_01
+Foundry
+At BIOA_LAV00 Start_LAV40_01
+
+
+ICE70_01
+Binary Helix Hot Labs
+At BIOA_ICE00 Start_ICE70_01
+
+
+STA90_02
+
+Oculon
+
+AT BIOA_STA00 START_STA90_02
+
+
+LOS20_02
+
+Power Station
+
+At BIOA_LOS00 Start_LOS20_02
+
+
+Group: FRE (Freighters)
+
+
+FRE13
+Light content: Freighter Template 04
+At BIOA_FRE13
+
+
+FRE14
+Light content: Freighter Template 05
+At BIOA_FRE14
+
+
+FRE15
+Light content: Freighter Template 06
+At BIOA_FRE15
+
+
+FRE16
+Light content: Freighter Template 07
+At BIOA_FRE16
+
+
+FRE17
+Light content: Freighter Template 08
+At BIOA_FRE17
+
+
+FRE18
+Light content: Freighter Template 09
+At BIOA_FRE18
+
+
+FRE19
+Light content: Freighter Template 10
+At BIOA_FRE19
+
+
+Group: MIN (Mine)
+
+
+MIN_00
+Light Content: mining Template 01
+At BIOA_MIN00
+
+
+MIN_01
+Light Content: mining Template 02
+At BIOA_MIN01
+
+
+MIN_02
+Light Content: mining Template 03
+At BIOA_MIN02
+
+
+
+Disable Intro Videos[]
+To bypass the intro videos and boot the game directly to the start menu, rename these three files in YOUR GAME DIRECTORY\BioGame\CookedPC\Movies:
+
+BWLogo.bik
+db_standard.bik
+ME_EAsig_720p_v2_raw.bik
+
+
+Enable joystick move[]
+This tweak may be useful for those who want to use the mouse while having access to analog movement. Comes in useful for Steam controller users or gamepad users who want to bind gyro to a mouse.
+In BIOEngine.ini add
+
+[WinDrv.WindowsClient]
+AllowJoystickInput=True
+
+In BIOinput.ini add
+
+[BIOC_Base.BioPlayerInput]
+Bindings=(Name="XboxTypeS_LeftX",Command="Axis aStrafe Speed=1.0 DeadZone=0.3")
+Bindings=(Name="XboxTypeS_LeftY",Command="Axis aBaseY Speed=1.0 DeadZone=0.3")
+Bindings=(Name="XboxTypeS_RightX",Command="Axis aTurn Speed=0.2 DeadZone=0.3")
+Bindings=(Name="XboxTypeS_RightY",Command="Axis aLookup Speed=0.2 DeadZone=0.3")
+
+Additional resources[]
+Beyond changes to the configuration files, it is recommended to set your graphics card driver and settings to enhance graphic quality and performance. Below, are some recommendations for further readings:
+Tweak Guides: 
+
+Guide to Mass Effect configuration
+The TweakGuide Tweaking Companion
+ATI Catalyst Tweak Guide and Nvidia Forceware Tweak Guide
+The Gamer's Graphics & Display Settings Guide
+Support:
+
+Community Support
+Technical Support
+
+
+
+
+Mass Effect Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Experience • Systems • Mako • Codex
+
+
+Achievements
+
+Completionist • Rich Achievement •  Party Member Achievements  Scholar Achievement • Weapon and Ability Achievements
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • Merchants
+
+
+
+

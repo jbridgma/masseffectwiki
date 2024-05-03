@@ -1,0 +1,174 @@
+
+
+
+
+
+Turian Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Turian
+
+
+Rarity
+Uncommon
+
+
+Availability
+Initially unlockable
+
+
+Abilities
+Dual Omni-BladesWeapon ExpertToughnessDecreased Mobility
+
+
+Turians adhere to a strict moral code: "The needs of the group outweigh that of the individual." Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.
+Turians receive the best military training in the galaxy. Their proficiency with a wide range of weapons, as well as their unmatched focus and determination, make up for their lack of speed and agility. They are a redoubtable ally on any battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 500
+
+
+Class: Turian Veteran
+
+
+ Marksman
+
+
+
+
+ Concussive Shot
+
+
+
+
+ Proximity Mine
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Turian Soldier executes a series of up to three punches.
+Heavy Melee (Dual Omni-Blades) – The Turian Soldier generates two omni-blades and slashes horizontally.
+Grab (Omni-Blade Stab) – The Turian Soldier drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge – The Turian Soldier lacks a dodge maneuver.
+The Turian Soldier can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The main strength of the Turian Soldier is their ability to turn a fairly weak weapon, such as the M-9 Tempest,  into a very solid weapon choice. They can improve their accuracy, headshot damage, and rate of fire, and decrease recoil to give weapons an extremely high level of damage per second.
+The Turian Soldier excels with the M-27 Scimitar, as Marksman increases the weapon's fire cap, allowing the player to spam it into enemies at close range. This is incredibly effective on Bronze, as regular infantry only require two body shots to be killed.
+Much like the Human Soldier, should you wish to take Concussive Shot, the Acolyte will make for a perfect 1-2 combo. The Acolyte will strip every single infantry units' shields or barriers in a single shot on Gold, and can even take all shields or barriers away on some foes on Platinum, while Concussive Shot then knocks said foes onto their backs. If you have a light enough load out to pump out said power every couple of seconds, you can take out all the infantry single-handedly in an extremely quick and efficient fashion, with Marksman and a second weapon to deal with any armored foes you should come across. Used correctly, this combo is devastating.
+To get the extra mile out of the increased accuracy of the Marksman ability equip the M-76 Revenant, which normally suffers from too large a spread to be used at long range, and mod it with an Assault Rifle Stability Damper. This combines to make a very accurate high fire-rate weapon with a huge ammo clip capable of mowing down anything at any range for long stretches of time with minimal time wasted reloading. Alternatively, use the Collector Assault Rifle and spec Marksman for maximum rate of fire. The Collector rifle already has great accuracy and a decent reserve of shots, so it performs extremely well in combination with Marksman.
+They can also utilise either Proximity Mines to weaken multiple foes.
+Turians also have higher than average shielding (750 minimum) and, thus, are capable of withstanding more damage than Humans or Vorcha. However, they are slow and cannot dodge, though they can do a cover-to-cover roll. This makes them prone to instant-kill moves.
+Because they do have useful powers, it is recommended to keep to a moderate-light loadout to keep recharge times low.
+Players may wish to equip a secondary weapon like the Geth Plasma SMG just to be sure they have a backup weapon should the first run out of ammunition. When the weapons are leveled up to be fairly light, the Turian Soldier can achieve great balance between powers and weapons.
+The Cerberus Harrier is incredibly powerful in the hands of a Turian Soldier, especially with Marksman maxed out in favour of accuracy, and the Turian Veteran ability evolved for weapon damage and stability.  This gives the Harrier pinpoint accuracy when utilizing Marksman, and the increased rate of fire will increase its already spectacular DPS.  Thanks to a recent update, Marksman will now refill your magazine (like Adrenaline Rush) when activated, so the Harrier's relatively small clip size can now be circumvented by activating Marksman to refill the magazine.  However, it is wise to have a backup weapon, since the Harrier has a limited thermal clip capacity.
+With a Smart Choke equipped, the Piranha is a very versatile weapon in the hands of the Turian Soldier.  The accuracy bonuses from Marksman will allow the Turian to use the Piranha very effectively at medium range, or even long range.
+Weapons such as the Phaeston or Geth Pulse Rifle are ideal for the turian soldiers since it can use them over massive sight lines such as on Firebase Condor with pinpoint accuracy.
+Cerberus[]
+This is where Turian Soldiers excel. Their lethality against infantry enables them to kill even Phantoms in no time at all. Especially when employing the Concussive Shot strategy, where the Acolyte will quickly destroy a Nemeses or Centurions shields, or a Phantoms Barrier and leave them exposed. Concussive shot will not only hit said foes hard, but even if they survive, if one has opted for the "Shredder" evolution at rank 6, it will also disrupt a Phantoms cloak and render them very vulnerable.
+Be careful around Phantoms though since they can instantly kill you more easily than some races as you cannot roll away.
+A fast firing weapon (ideally with good damage), such as the Phaeston, N7 Hurricane, or M-76 Revenant, works really well here, as it can be sprayed across infantry, softening them up for allies.
+While they can also kill Atlases, they take longer to kill. Use a Revenant and a Assault Rifle Piercing Mod to ensure you can take on armoured opponents. A Cerberus Harrier, or N7 Typhoon will also fill this niche role nicely.
+Collectors[]
+Much like the Human Soldier, your main power should be your unique one - Marksman. The way to equip yourself though is very different. A sniper will not gain much use from Marksman, instead focus on a powerful anti-armor Assault Rifle or shotgun, and your secondary as a power anti-barrier/shield weapon like the Acolyte.
+Proximity Mine will soften up enemies struck by the mine, or slow them down. It will however stop you from being able to use Marksman, so you will have to make the judgement of more firepower, or softened targets for your team and decide which benefit is greater.
+Concussive Shot will only serve its usefulness against Abominations, unprotected Captains, or Troopers.
+Geth[]
+Stick to cover when you can to avoid being stunned as much by the Geth Hunters, Primes, and Rocket Troopers, as they will quickly destroy you if you let them, since you cannot dodge their attacks easily.
+Since nearly all geth have shields, equip a fast firing weapon.
+Optionally the player could also equip the Reegar Carbine to have a devastating close-quarters weapon.
+Do not try to rush out into the open: you will be cut down very quickly.
+Reapers[]
+Turians can have trouble with Banshees and Brutes, since they quickly close in on a player that cannot easily retreat, but Turian Soldiers are deadly against every other Reaper unit.
+Consider loading out an M-92 Mantis for anti-armour, and either a Geth Plasma SMG, Hurricane, or Phaeston to destroy barriers and for general killing.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

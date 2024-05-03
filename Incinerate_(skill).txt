@@ -1,0 +1,419 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For the power in Mass Effect 2 and Mass Effect 3, see Incinerate.
+
+Incinerate is a Tech skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Nakmor Drack Skill Ranks
+4 Player Notes
+5 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Incinerate
+
+    
+
+     Fires a plasma projectile that does bonus damage to armor and inflicts ongoing burning damage to unshielded foes. Burning enemies are primed for combo detonations.
+
+Initial Damage: 120
+Damage per Second: 50
+Burning Duration (s): 6
+Armor Damage Bonus: 50%
+Recharge Time (s): 12
+
+
+
+2
+
+Recharge Speed
+
+     
+
+-
+
++15% Recharge Speed
+
+
+3
+
+Damage
+
+     
+
+-
+
++15% All Damage
+
+
+4
+
+Radius
+
+     
+
+The projectile affects all enemies in a 2 m radius.
+
+-
+
+
+4
+
+Burning
+
+     
+
+-
+
++15% Damage Over Time
++30% Duration
+
+
+
+5
+
+Impact
+
+     
+
+-
+
++30% Initial Damage
+
+
+5
+
+Anti-Armor
+
+     
+
+
+
++50% Damage vs. Armor
+
+
+6
+
+Detonator
+
+     
+
+      Incinerate's initial attack now triggers combo detonations.
+
+-
+
+
+6
+
+Double Incinerate
+
+     
+
+Launches two projectiles (instead of one) that seek separate targets.
+
+-
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Incinerate
+
+     
+
+      Fires a plasma projectile that does bonus damage to armor and inflicts ongoing burning damage to unshielded foes. Burning enemies are primed for combo detonations.
+
+Initial Damage: 350
+Damage per Second: 45
+Burning Duration (s): 6
+Armor Damage Bonus: 60%
+Recharge Time (s): 12
+
+
+
+2
+
+Recharge Speed
+
+     
+
+-
+
++15% Recharge Speed
+
+
+3
+
+Damage
+
+     
+
+-
+
++35% All Damage
+
+
+4
+
+Radius
+
+     
+
+The projectile affects all enemies in a 2 m radius.
+
+-
+
+
+4
+
+Burning
+
+     
+
+-
+
++50% Damage Over Time
++50% Duration
+
+
+
+5
+
+Impact
+
+     
+
+-
+
++60% Initial Damage
+
+
+5
+
+Anti-Armor
+
+     
+
+
+
++65% Damage vs. Armor
+
+
+6
+
+Detonator
+
+     
+
+      Incinerate's initial attack now triggers combo detonations.
+
+-
+
+
+6
+
+Double Incinerate
+
+     
+
+Launches two projectiles (instead of one) that seek separate targets.
+
+-
+
+Nakmor Drack Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Incinerate
+
+     
+
+      Fires a plasma projectile that does bonus damage to armor and inflicts ongoing burning damage to unshielded foes. Burning enemies are primed for combo detonations.
+
+Initial Damage: 148
+Damage per Second: 45
+Burning Duration (s): 6
+Armor Damage Bonus: 50%
+Recharge Time (s): 20
+
+
+
+2
+
+Recharge Speed
+
+     
+
+-
+
++25% Recharge Speed
+
+
+3
+
+Damage
+
+     
+
+-
+
++20% All Damage
+
+
+4
+
+Impact
+
+     
+
+-
+
++40% Initial Damage
+
+
+4
+
+Radius
+
+     
+
+The projectile affects all enemies in a 2 m radius.
+
+-
+
+
+5
+
+Anti-Armor
+
+     
+
+
+
++75% Damage vs. Armor
+
+
+5
+
+Burning
+
+     
+
+Burn damage and duration increased.
+
++35% Damage Over Time
++35% Duration
+
+
+
+6
+
+Detonator†
+
+     
+
+      Incinerate's initial attack now triggers combo detonations.
+
++50% Tech Detonator Damage Bonus
+
+
+6
+
+Double Incinerate†
+
+     
+
+Launches two projectiles (instead of one) that seek separate targets.
+
+-
+
+Note: †Rank 6 is unavailable to Drack until his loyalty mission Nakmor Drack: A Future for our People is completed.
+
+Player Notes[]
+Mechanics
+Notes about skill's mechanics
+Strategies
+Because enemies in Andromeda move faster and tend not to cluster as tightly as they did in Mass Effect 3, the Rank 4 Radius evolution is much less prone to hitting multiple targets than it used to be.
+The Rank 6 Detonator evolution makes Incinerate one of only a few powers capable of both priming and detonating power combos. Note:  Incinerate can't be used to self-detonate its own primed targets, however.
+Availability[]
+Single-player:
+Pathfinder Ryder: Starting Tech Skill
+Nakmor Drack: Starting Tech Skill
+Multiplayer: Human Infiltrator, Krogan Engineer, Salarian Architect, Turian Havoc Trooper
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

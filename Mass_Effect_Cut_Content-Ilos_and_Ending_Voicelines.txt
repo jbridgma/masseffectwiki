@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut dialogues relating to the missions on Ilos or the finale on the Citadel. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 sta20_escape / sta70_escape
+2 los10_trig_turret
+3 los10_trig_door01
+4 los20_trig_a
+5 los20_power_plant_done
+6 end70_elevator
+7 end70_airlock
+8 end80_salarians
+9 end90_saren2
+10 end90_final_cutscene
+
+
+sta20_escape / sta70_escape[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA20\sta20_escape_D.upk; Mass Effect\BioGame\CookedPC\Packages\Dialog\STA70\sta70_escape_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta20_escape.isb; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta70_escape.isb
+Character present:
+
+Jeff "Joker" Moreau
+
+(During escape where Anderson uses Udina's terminal)
+Joker: Commander? I don't know what the captain did, but all our systems just came back online.
+
+(During escape where Anderson goes to the docks)
+Joker: The Captain came through!
+
+los10_trig_turret[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\LOS10\los10_trig_turret_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\los10_trig_turret.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: If we can get that turret working we can use it against the geth!
+| Ashley Williams: If we can get that turret working we can use it against the geth!
+| Liara T'Soni: If we can get that turret working we can use it against the geth!
+| Garrus Vakarian: If we can get that turret working we can use it against the geth!
+| Urdnot Wrex: If we can get that turret working we can use it against the geth!
+| Tali'Zorah: If we can get that turret working we can use it against the geth!
+
+los10_trig_door01[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate. The context is based on the conditionals used in the dialogue, which refers to opening the archives by both restoring power and shutting down the security system.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\LOS10\los10_trig_door01_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\los10_trig_door01.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(If only power was restored)
+| Kaidan Alenko: Looks like we've got power. Now we just have to find the security override.
+| Ashley Williams: Looks like we've got power. Now we just have to find the security override.
+| Urdnot Wrex: Looks like we've got power. Now we just have to find the security override.
+| Liara T'Soni: Looks like we have power. Now we just have to find the security override.
+| Garrus Vakarian: Looks like we've got power. Now, we just have to find the security override.
+
+(If only the security system was disabled)
+| Tali'Zorah: Looks like shutting down the security system wasn't enough. We'll have to restore the power if we want this door to open.
+| Urdnot Wrex: Looks like shutting down the security system wasn't enough. We'll have to restore the power if we want this door to open.
+| Garrus Vakarian: Looks like shutting down the security system wasn't enough. We'll have to restore the power if we want this door to open.
+| Liara T'Soni: Looks like shutting down the security system was not enough. We will have to restore the power if we want this door to open.
+| Ashley Williams: Looks like shutting down the security system wasn't enough. We'll have to restore the power if we want this door to open.
+
+los20_trig_a[]
+Note:  the following are the transcriptions of unused voicelines. Observing discrepancies in the numbering, it is likely that originally all the squadmates were able to comment, but only Garrus and Liara's sound files seem to have survived.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\los20_trig_a.isb
+Characters optionally present:
+
+Liara T'Soni
+Garrus Vakarian
+
+| Liara T'Soni: The path is blocked, we are not getting through here.
+| Garrus Vakarian: The path is blocked, we're not getting through here.
+
+| Garrus Vakarian: Come on, down into the canals.
+| Liara T'Soni: Come, down into the canals.
+
+los20_power_plant_done[]
+Note:  the following are the transcriptions of unused voicelines. Observing discrepancies in the numbering, it is likely that originally all the squadmates were able to comment, but only Garrus and Liara's sound files seem to have survived.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\los20_power_plant_done.isb
+Characters optionally present:
+
+Liara T'Soni
+Garrus Vakarian
+
+(Entering the power plant)
+| Liara T'Soni: There has to be some kind of generator around here to power this complex. Let's see if we can find it and get it fired up again.
+| Garrus Vakarian: There's gotta be some kind of generator around here to power this complex. Let's see if we can find it and get it fired up again.
+(Having restored power)
+| Liara T'Soni: We have power. Now we just need to find the controls that activate the door.
+| Garrus Vakarian: We've got power. Now we just need to find the controls that activate the door.
+|| Garrus Vakarian: I bet they're in those buildings over to the west. They look like control towers.
+
+end70_elevator[]
+Note:  while this dialogue never plays except for Shepard's line, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\END70\end70_elevator_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\end70_elevator.isb
+Character always present:
+
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: The elevator's locked! Saren must have taken control of the Citadel systems and shut it down [sic]
+| Ashley Williams: The elevator's locked! Saren must have taken control of the Citadel systems and shut it down [sic]
+| Liara T'Soni: The elevator's locked! Saren must have taken control of the Citadel systems and shut it down [sic]
+| Garrus Vakarian: The elevator's locked! Saren must have shut it down.
+| Tali'Zorah: The elevator's locked! Saren must have shut it down.
+ Shepard: Saren's locked the elevator! Suit up - we're going outside!
+
+end70_airlock[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate. Also note that several dialogue wheel options leading to the same Shepard voiceline is not an error, it's a common element throughout the first Mass Effect game.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\END70\end70_airlock_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\end70_airlock.isb
+Character always present:
+
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Ashley Williams: Looks like an airlock. We must be near the station's hull.
+| Kaidan Alenko: Looks like an airlock. We must be near the station's hull.
+| Garrus Vakarian: Looks like an airlock. We must be near the station's hull.
+| Tali'Zorah: Looks like an airlock. We must be near the station's hull.
+| Urdnot Wrex: Looks like an airlock. We must be near the station's hull.
+
+(Par) We can use this. (Neu) We're going out. (Ren) Suit up. 
+Shepard: We can get to Saren if we go along the outside of the Citadel.
+(End of conversation)
+
+end80_salarians[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate. Note that Tali's subtitle differs from its audio file; Tali's sound file clearly says "Captain Asond" instead of Captain Kirrahe.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\END80\end80_salarians_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\end80_salarians.isb
+Character always present:
+
+Kirrahe
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: Commander! Over there! It's Captain Kirrahe!
+| Ashley Williams: Commander! Over there! It's Captain Kirrahe!
+| Garrus Vakarian: Commander! Over there! It's Captain Kirrahe!
+| Liara T'Soni: Commander! Over there! It's Captain Kirrahe!
+| Tali'Zorah: Shepard! Over there! It's Captain Kirrahe!
+Kirrahe: I told you, Shepard. We salarians pay our debts. Make for the Council chamber, Commander. We'll try to draw fire away from your team.
+
+end90_saren2[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate. Also note that several dialogue wheel options leading to the same Shepard voiceline is not an error, it's a common element throughout the first Mass Effect game.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\END90\end90_saren2_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_END70_02D_DSG_LOC_INT.pcc
+Characters always present:
+
+Commander Shepard
+Saren Arterius / Sovereign
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Saren Arterius: The Citadel is mine, Shepard! You cannot stop me.
+
+(Par) You again? (Neu) Back for more? (Ren) That's where you're wrong.  Shepard: You just don't know when to quit, do you? Shepard: This time I'll make sure you stay dead! Shepard: This time I'll make sure you stay dead!
+Saren Arterius: You have no idea what stands before you. I am not Saren. This form is only a shell. A vessel to channel my power!
+| Ashley Williams: Looks like Saren got more than he bargained for with those upgrades.
+| Kaidan Alenko: Looks like Saren got more than he bargained for with those upgrades.
+| Tali'Zorah: Looks like Saren got more than he bargained for with those upgrades.
+| Garrus Vakarian: Looks like Saren got more than he bargained for.
+| Liara T'Soni: Looks like Saren got more than he bargained for with those upgrades.
+Saren Arterius: This flesh repulses me. It is vulnerable. Fragile. Weak. Like all organic life. My kind knows true strength: the strength of metal and steel.
+
+(Par) You need us! (Neu) You are nothing. (Ren) Time to die!  Shepard: You're parasites, feeding off organic society. Without us, your kind couldn't survive!Saren Arterius: We are aware of your presence. We tolerate your existence. But you are less than insects to us. You are bacteria. Germs. We are the pinnacle of creation! Immortal. Infallible. Perfect. I am Sovereign! And this station is MINE! Shepard: You're parasites, feeding off organic society. Without us, your kind couldn't survive!Saren Arterius: We are aware of your presence. We tolerate your existence. But you are less than insects to us. You are bacteria. Germs. We are the pinnacle of creation! Immortal. Infallible. Perfect. I am Sovereign! And this station is MINE! Shepard: Turian, Reaper, organic, machine -- I don't care what you are. I'm taking you down!Saren Arterius: I am Sovereign! And this station is MINE!
+(End of conversation)
+
+end90_final_cutscene[]
+Note:  while this dialogue never plays except for a few voicelines, it should be technically functional in the original release of Mass Effect. The transcription below is accurate. Also note that several dialogue wheel options leading to the same Shepard voiceline is not an error, it's a common element throughout the first Mass Effect game.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\END90\end90_final_cutscene_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\end90_final_cutscene.isb
+Characters present:
+
+Commander Shepard
+David Anderson
+Unnamed human C-Sec officer
+Venari Pallin
+
+C-Sec officer: Captain Anderson! We've found them! They're in here.
+David Anderson: Take it easy... it's over. You're safe now. Where's the commander? Where's Shepard?
+C-Sec officer: Captain, we need to clear out. This entire area's unstable. Ships are waiting to evacuate us.
+David Anderson: Commander Shepard is still missing. We don't leave anyone behind!
+C-Sec officer: We've got partial decompression and loss of power all over the deck. And we need to get these survivors back to the med lab.
+David Anderson: Contact the evac ships. Have them pick us up at the airlock.
+C-Sec officer: Rescue 17, this is ground team. Meet us at the airlock for immediate evacuation.
+Venari Pallin: No sign of Commander Shepard. It doesn't look good.
+David Anderson: Shepard! Shepard! You gave us a hell of scare, Shepard. But you'll make a better hero than a martyr.
+
+(Par) Good to see you, too. (Neu) My thoughts exactly. (Ren) You're not under arrest?  Shepard: Thought I'd need a prison pass to see you again, Captain. Shepard: Thought I'd need a prison pass to see you again, Captain. Shepard: I thought you were going to be court-martialed.
+David Anderson: They dropped the charges after Sovereign attacked the Citadel. Guess they figured helping you escape wasn't such a crime after all. You've been through a hell of a lot, Commander. But there's one more thing you need to take care of.
+(End of conversation)
+
+
+
+

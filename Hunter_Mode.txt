@@ -1,0 +1,167 @@
+
+
+
+Hunter Mode is a tech power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Hunter Mode[]
+Advanced diagnostics redirect power into offensive systems, boosting combat capabilities.
+Faster Movement.
+See through smoke and objects.
+More weapon, power, and melee damage.
+Greater weapon accuracy.
+Shields reduced by 50%.
+
+Recharge Speed: 3 sec
+Enhanced Vision Range: 15 m
+Damage Bonus: 5%
+Accuracy Bonus: 10%
+Movement Speed Bonus: 5%
+
+
+Rank 2: Movement Speed[]
+Increase movement speed by 5%.
+
+Recharge Speed: 3 sec
+Enhanced Vision Range: 15 m
+Damage Bonus: 5%
+Accuracy Bonus: 10%
+Movement Speed Bonus: 10%
+
+
+Rank 3: Damage[]
+Increase damage bonus by 2.50%.
+
+Recharge Speed: 3 sec
+Enhanced Vision Range: 15 m
+Damage Bonus: 7.50%
+Accuracy Bonus: 10%
+Movement Speed Bonus: 10%
+
+
+Rank 4: Power Recharge/Weapon Accuracy[]
+
+
+
+Power Recharge
+Decrease recharge speed of all powers by 20% while active.
+
+
+
+Weapon Accuracy
+Increase weapon accuracy bonus by 15%.
+
+Recharge Speed: 3 sec
+Enhanced Vision Range: 15 m
+Damage Bonus: 7.50%
+Accuracy Bonus: 25%
+Movement Speed Bonus: 10%
+
+
+
+Rank 5: Power Damage/Rate of Fire[]
+
+
+
+Power Damage
+Increase damage of all powers by 15% while active.
+
+
+
+Rate of Fire
+Increase rate of fire of all weapons by 15% while active.
+
+
+
+
+Rank 6: Speed & Vision/Damage[]
+
+
+
+Speed & Vision
+Increase movement speed bonus by 10%.Increase the range of your enhanced vision by 60%.
+
+Recharge Speed: 3 sec
+Enhanced Vision Range: 24 m
+Damage Bonus: 7.50%
+Accuracy Bonus: 10% (Power Recharge), 25% (Weapon Accuracy)
+Movement Speed Bonus: 20%
+
+
+Damage
+Increase damage bonus by 10%.
+
+Recharge Speed: 3 sec
+Enhanced Vision Range: 15 m
+Damage Bonus: 17.50%
+Accuracy Bonus: 10% (Power Recharge), 25% (Weapon Accuracy)
+Movement Speed Bonus: 10%
+
+
+
+Player Notes[]
+Mechanics
+Toggling Hunter Mode on or off, while using Tactical Cloak, counts as using a power and will break cloak.
+Hunter Mode creates a visual overlay on your Heads Up Display (HUD) akin to Devastator Mode.
+Strategies
+This power can be confusing and may distract from actual targets at first; it is suggested to keep it constantly turned on for a few missions, in order to get used to the visual noise on screen.
+Hunter Mode can be respectively turned on and off when trying to locate enemies, cloaked or otherwise. Care should be taken since it does count as using a power and as such, stops your ability to use other powers (like Tactical Cloak or Overload) during the cooldown.
+The Geth Scanner causes an User Interface (UI) effect similar to that of Hunter Mode.
+Caution should be observed when using Hunter Mode as it reduces shielding, since at best, geth characters are left with around 863 points of shields, or, at worst, 375. This makes geth very brittle.
+It may be necessary to take cover more often while the power activated, since most enemies will swiftly kill regardless of difficulty. When it is not in use, the character returns to its normal durability level.
+The Geth Trooper Soldier can largely compensate for the shield reduction of Hunter Mode with the 40% damage reduction from Fortification.
+Availability[]
+Single-player: N/A
+Multiplayer: Geth Engineer, Geth Hunter Infiltrator, Geth Trooper Soldier
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

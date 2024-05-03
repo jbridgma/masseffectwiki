@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+This article or section needs to be cleaned up to conform to a higher standard of quality.
+See this article's talk page or the editspace comment following the tag for details.
+
+
+Almost every ability each of the main three classes (Engineer, Adept, Soldier) is tied to an Achievement. Each weapon achievement requires 150 kills to unlock. Tech and biotic achievements require 75 successful uses of the skill to unlock. Some offensive abilities, like Singularity, and some defensive abilities, like Barrier, can be used at any time, but you are only able to gain the respective achievements using your main character, not with your party members.
+
+Contents
+
+1 Ability Achievements
+2 Weapon Achievements
+3 Bonus Talents
+
+3.1 Bonus Talent Bug
+
+
+
+
+Ability Achievements[]
+All tech abilities, except AI Hacking and Neural Shock, may be used without a target. This means that an Engineer may chain-cast these abilities - via saving and reloading, or simply waiting out the recharge period - on mid-air; however, unlocking the AI Hacking Specialist requires a little more work. Neural Shock must be used on organic enemies only. Note that the Mako counts as a organic enemy, so you can chain-cast Neural Shock on the Mako, meaning that only AI Hacking actually has to be used on enemies.
+Firstly, something to bear in mind is that with a low-level Hack ability only low-level mechanical foes may be hacked: this is important because the Achievement is only unlocked by 75 successful uses of the skill. One option to achieve this is to save near something synthetic and preferably stationary (e.g. a low-level turret, like the two guarding Fist in the Citadel), hack the target, and then reload the save. However, if you're starting an Engineer for the sole purpose of acquiring these achievements it may be difficult to actually unlock the Hacking skill at this early point in the game. An alternative to this is to finish becoming a Spectre and immediately head to Therum, in the Knossos system. Upon landing, the newly created Engineer may use the Mako to acquire the other tech abilities, and then proceed on the fairly linear path in the Mako towards the geth outpost. At the outpost you may attempt to hack any of the four available turrets, but their higher level significantly reduces the chance of successfully hacking them. Instead, head inside the outpost and clear out the main "courtyard." Upon doing so, there should still be two hostile contacts on the Mako's radar screen. Exit the Mako and head towards the building with the geth guarding the control panel to open the main gate and save your game before turning the corner inside the building. The geth here is a Rocket Trooper and, on Casual difficulty, is hackable with a very low-level of AI Hacking. Reload your save and repeat the process until you unlock the Achievement.
+To unlock the Neural Shock Achievement, a good idea is to obtain the UNC: Major Kyle assignment. If you persuade them to letting you into their base without a fight, you can get up close to unleash your powers. Reload and repeat. 
+If you own the Pinnacle Station DLC, the fastest way to gain the AI Hacking achievement is through a Survival mission. After creating an Engineer on the casual difficulty setting, head to Pinnacle Station and enter the tropical map on survival mode. Here you have an unlimited amount of geth to hack and when you die, you can repeat the process. It may be quicker to save just before talking to the tech expert, quickly entering one of the modes and getting one AI Hack and then loading, depending on how quickly your tech powers recharge.
+Note that First Aid can't be used at full health, so you need the source of constant controllable damage. The best decision is landing on hazardous planets (like Metgos). Return to Normandy to restock your medi-gel. This method can be combined with using Neural Shock on Mako (as mentioned above) while waiting for increasing hazard meter.
+For Adepts, all of the biotic abilities may be used on the Citadel Rapid Transport terminals; though be sure the skill "locks" onto the terminal before casting it.
+In general, the fastest way to gain these achievements artificially is to create either an Engineer or Adept, train up and unlock the skills you wish to acquire, go to the target (the Mako or the terminals), create a save, cast all the abilities, and reload the save. Repeatedly casting and reloading will unlock your desired talent bonuses. It should also be noted, however, the number of times each ability is used carries over to new games, and new careers, so it is possible to acquire these achievements via normal gameplay rather than this faster, but perhaps tedious to some, method.
+Note: Overload, Damping, Sabotage, Singularity and Barrier can actually be used anytime without a target.
+
+Weapon Achievements[]
+Your character does not need to have the corresponding skill in order to unlock weapon achievements. For example, this means you do not have to play a Soldier to attain the Assault Rifles Achievement; it is possible to do so with any of the classes.
+A good way of unlocking these achievements is simply by killing everything possible, including tame creatures (e.g. Gas Bags, Space Monkeys, Shifty Looking Cows, etc.). Additionally, once you have access to the Master Spectre Gear, by unlocking the Rich Achievement you may replace your main weapon with the HMWA of your choice. Because of its base high precision rating, you will be able to easily kill your enemies without any training, potentially making the earning of the desired Achievement easier. Furthermore, if you are playing a Bastion, you may also exploit the fact that your team mates will rarely attack enemies held in Stasis - so use it as often as you can to get more kills for yourself.
+On Pinnacle Station you can obtain all of the achievements easily; play a survival mission and kill 150 enemies with each weapon to unlock the represented achievement.
+Like the ability achievements the "kill count" for each of the weapons carries over to new games, and new careers; thus the player is able to unlock every weapon by replaying Eden Prime with different characters. However, a less tedious approach would involve completing the game with a Soldier, a class proficient with every weapon, to unlock all of the available weapon achievements.
+Hint: Killing two colonies of Space Monkeys (10 per colony) on Eletania (then reload) will complete the weapon achievements faster than replaying Eden Prime. Mind the Level 1 Toxic Hazard!
+
+Concentrating on just one colony and using High Explosive Rounds is the fastest method to get all weapon achievements. High Explosive Rounds' area of effect allows to completely ignore bullet spreading and kill multiple targets at once. Just position yourself between two monkeys and shoot under your feet.
+Hint: Another good place to rack up weapon kills is during the Citadel: Expose Saren assignment. On the way to fight Fist in Chora's Den, you run through 8 weak human enemies, 1 krogan, and then the 2 warehouse workers. After killing them all, reload the autosave. Make sure to tell your allies to wait so they don't steal your kills.
+
+Bonus Talents[]
+See also: Talents#Bonus Talents
+Once you unlock a weapon or ability Achievement, you may add the talent for that weapon/ability to any subsequent character by selecting it as a character's "bonus talent". The option to select a bonus talent appears during the character creation process after unlocking talent-related achievements. You do not have to finish a play-through after acquiring an Achievement, as you get the bonus immediately upon the unlocking. Only one bonus talent can be assigned to a character and no additional talent points are awarded to a character with a bonus talent.
+Bonus talent abilities do not benefit from normal class bonuses. For example, Singularity on a Bastion Sentinel receives no bonus to cooldowns at all. Neither will its duration be increased on a Nemesis Vanguard.
+A primary benefit of Bonus Talents is that they allow you to unlock weapons normally specialized for some classes. For example, Adepts and Engineers, who ordinarily rely solely on pistols, may use an unlocked assault rifle or shotgun talent to make them a lot more capable in heavy combat situations.
+Given their versatility and power, unlocking the Assault Rifles talent is highly recommended. However, for less close-combat oriented characters, Sniper Rifle training provides an alternate strategy for avoiding damage. Electronics is a useful talent for any combat-oriented player because of the shield bonus it grants (useful for both survivability and the Tactician Achievement). Other skills such as First Aid or Medicine allow the player to cover up weaknesses in their party. For example, a Soldier may benefit from learning Medicine in order to improve their First Aid and use the Neural Shock skill to supplement their fighting abilities.
+It is helpful to plan multiple playthroughs so you can unlock certain abilities to have on another class. For example, a first playthrough as a Soldier to unlock all of the weapons achievements, followed by another as an Adept with the Assault Rifles bonus talent could then unlock all the biotic achievements. A third playthrough could allow you to give an Engineer combat or biotic talents to assist in surviving while unlocking all of the tech achievements.
+Note: You can only pick a bonus talent for a character during character creation for a new playthrough. Existing characters from prior playthroughs cannot be given a bonus talent.
+Legendary Edition:  Unlike in the original Mass Effect, the "Mastery" and "Specialist" achievements in Legendary Edition can be unlocked through the use of squadmate abilities. This means that having Liara and Tali as squadmates will allow you to unlock almost all of the power-specific achievements and their respective bonus talents in a single playthrough, regardless of the player's own class. Kaidan would be needed to unlock the Neural Shock achievement.
+
+Bonus Talent Bug[]
+If you are playing the game with a bonus talent, the talent may mysteriously disappear from the Power Wheel once you obtain enough other powers. To get around this problem, map the power to the quick key before it is removed, so you will still be able to use it, but it's not a guarantee you won't lose it.
+
+
+
+
+
+Mass Effect Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Experience • Systems • Mako • Codex
+
+
+Achievements
+
+Completionist • Rich Achievement •  Party Member Achievements  Scholar Achievement • Weapon and Ability Achievements
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • Merchants
+
+
+
+

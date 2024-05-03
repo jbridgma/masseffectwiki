@@ -1,0 +1,122 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - SR Receiver: Capacitor boosts kinetic coil generators, increasing shot penetration through solid objects.
+Enhanced - SR Calibrated Receiver: Allows shots to significantly penetrate solid objects, but reduces clip size.
+Enhanced - SR Quick Receiver: Significantly increases penetration damage and distance, but reduces headshot/weak point damage.
+Note:  The Naladen and Shadow sniper rifles are unable to equip a Receiver Mod.
+Note:  Sniper rifle penetration damage is not reflected in the displayed weapon stats.
+Note:  Sniper rifle headshot/weak point damage is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+SR Receiver
+
++48%0.92
+
++52%1.08
+
++54%1.17
+
++57%1.25
+
++58%1.33
+
++61%1.42
+
++63%1.50
+
++66%1.58
+
++68%1.67
+
++70%1.75
+
+Sniper Rifle Penetration DamageSniper Rifle Penetration Distance (m)
+
+
+SR Calibrated Receiver
+
++50%1.10-8%
+
++54%1.17-9%
+
++58%1.33-10%
+
++63%1.50-11%
+
++68%1.67-12%
+
++72%1.83-13%
+
++77%2.00-14%
+
++81%2.17-15%
+
++86%2.33-16%
+
++90%2.50-18%
+
+Sniper Rifle Penetration DamageSniper Rifle Penetration Distance (m)Sniper Rifle Clip Size
+
+
+SR Quick Receiver
+
++50%1.10-5%
+
++54%1.17-6%
+
++58%1.33-7%
+
++63%1.50-8%
+
++68%1.67-8%
+
++72%1.83-9%
+
++77%2.00-10%
+
++81%2.17-11%
+
++86%2.33-12%
+
++90%2.50-13%
+
+Sniper Rifle Penetration DamageSniper Rifle Penetration Distance (m)Sniper Rifle Headshot/Weak Point Bonus
+
+
+Equipping a Sniper Rifle Receiver Mod changes the color of parts of the weapon, lighter or darker, depending on the specific weapon.
+
+
+
+

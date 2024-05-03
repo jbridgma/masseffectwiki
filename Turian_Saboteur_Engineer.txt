@@ -1,0 +1,173 @@
+
+
+
+
+
+Turian Saboteur Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Turian
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Retaliation
+
+
+Abilities
+Dual Omni-BladesWeapon ExpertToughnessPropulsion Packs
+
+
+Turians adhere to a strict moral code: "The needs of the group outweigh that of the individual." Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.
+Turians receive the best military training in the galaxy. Their proficiency with a wide range of weapons, as well as their unmatched focus and determination, make up for their lack of speed and agility. They are a redoubtable ally on any battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Trivia
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 500
+
+
+Class: Armiger Legion
+
+
+ Sabotage
+
+
+
+
+ Sentry Turret
+
+
+
+
+ Homing Grenade
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Turian Saboteur Engineer executes a series of up to three punches.
+Heavy Melee (Dual Omni-Blades) – The Turian Saboteur jets towards an enemy and slams the ground with dual omni-blades, dealing damage in a small area and knocking down unprotected foot soldiers.
+Grab (Omni-Blade Stab) – The Turian Saboteur Engineer drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Propulsion Packs) – The Turian Saboteur Engineer jets a short distance to evade incoming attacks.
+The Turian Saboteur Engineer can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Your jump jets provide excellent mobility; unfortunately your forward jump has a strong tendency to stick you to cover. A technique to get around this is to use sideways or even rearward jumps to get where you want to go, though this is "blind" and requires good map knowledge and some practice to do effectively.
+The jets are excellent for evading attacks with a wide area of effect such as the energy beams of Praetorians; however, they are less effective at evading enemy sync kill attacks. It's advisable not to wait until enemies like Banshees get close to you before trying to jet away.
+The heavy melee leaps the character into the air and forward, covering a lot of ground, though it can still lock on to targets just like most other melee attacks. However, this attack provides less resistance to stuns than the heavy melees of most characters, making it risky to attempt against enemies that can easily stun the player such as Phantoms.
+The heavy melee can be used for quickly dashing across open ground when carrying an object during Retrieval missions.
+The heavy melee can be triggered while jump-jetting either forwards or backwards. This can be useful for quickly diving into melee against an enemy too far out of range of the heavy melee alone, or for performing a short evasive jump backwards to avoid an attack and quickly lunging forward again.
+With Homing Grenade being the only (and in limited quantity) power capable of inflicting a large amount of direct damage, the Turian Saboteur relies mostly on defensive tactics and weapon damage. As such, he doesn't suffer much carrying heavier weaponry since his other two powers are more situational.
+Since the Saboteur lacks powers to deal with shields (especially on synthetics), anti-shield weapons such as the Acolyte and/or ammo equipment are advised.
+The Saboteur's heavy melee attack actually deals tech damage. Coupled with its decent range, ability to hit and knock down multiple targets, and Sabotage's Tech Vulnerability upgrade, the Saboteur can specialize in melee combat fairly well.
+As Homing Grenade is also a tech power, its direct detonation damage is buffed by Tech Vulnerability. It is also able to detonate the Tech Bursts that Sabotage primes on all organic targets, and these combos also have their damage enhanced by Tech Vulnerability in turn. Finally, with the rank 6 Split Grenade evolution, Homing Grenade can potentially detonate two such Tech Bursts if both grenade projectiles each hit a target primed by Sabotage. A lot of things have to go right for this to work, but if it does, the detonations from Homing Grenade can cause massive area damage.
+As both projectiles of Split Grenade can also hit the same target, it's also possible to detonate two Power Combos on the same target provided there are currently two priming effects active on that target (making it one of the only powers in the game able to do this); for the Saboteur itself to do this the target cannot be synthetic and a 2nd priming effect has to come from either Sentry Turret or Cryo/Incendiary Rounds.
+Homing Grenade can also be specced to do more damage to single armored targets than almost any other power, especially when buffed by Tech Vulnerability.
+A no-grenade build is entirely feasible with the Saboteur, relying exclusively on the damage of weapons and Sentry Turret, with Sabotage for occasional support and assisting teammates with tech powers to take down hard targets. A heavy weapon loadout can still be taken if Sabotage is used sparingly, as Sentry Turret's recharge time is relatively short. This style plays to the strengths of the turian classes, who in general do less power damage but are more effective with weapons.
+Cerberus[]
+Turrets and Atlases can be hacked.
+Sentry Turret, especially if evolved with the Flamethrower, can delay the charges of groups with Phantoms and Dragoons.
+Collectors[]
+Sentry Turret is useful as it can delay the movement of Abominations, being especially useful when they're possessed. However, always keep in mind that the turret can set off Abominations at the wrong moment; if necessary, throw out a new turret to cancel the current one and prevent this.
+Sentry Turret is also very useful for intercepting and destroying Seeker Swarms before they reach you.
+Every unit in the Collector roster completely ignores Sentry Turret except for Collector Troopers and Collector Captains. In rounds without many Troopers and Captains, it can rack up a ton of damage if deployed in a good vantage point.
+Geth[]
+The Saboteur has the advantage over geth. Being equipped with Sabotage and Sentry Turret, he can quickly dispose of dangerous enemies like Geth Bombers and Geth Hunters before they pose a threat to the squad, while Homing Grenade can deal with Geth Pyros and Geth Primes with high efficiency.
+All enemies but Geth Troopers are protected by shields, so the Acolyte is recommended.
+Reapers[]
+Sentry Turret is useful as it can delay and dispose of groups with weaker enemies, such as Swarmers, Husks and Cannibals.
+Trivia[]
+If the Turian Saboteur Engineer kills more than one enemy with its heavy melee slam attack, only one kill is credited in the kill feed as a melee kill. Any additional kills are either uncredited, or the last thing to damage that enemy before the melee is given credit for the kill.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

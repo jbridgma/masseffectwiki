@@ -1,0 +1,220 @@
+
+
+
+
+
+Quick Links
+
+
+General Guidelines
+
+
+Manual of Style Homepage
+
+
+General guidelines
+
+
+Comics (Comic Hubs)
+
+
+Templates
+
+
+Remakes
+
+
+Galaxy
+
+
+Clusters
+
+
+Systems
+
+
+Planets
+
+
+Game-play
+
+
+Missions
+
+
+Assignments
+
+
+Adversaries
+
+
+Classes
+
+
+Abilities / Powers
+
+
+Game-info
+
+
+Equipment
+
+
+Merchants / Stores
+
+
+Races
+
+
+Unique Dialogue
+
+
+See also
+
+
+Community Guidelines
+
+
+Chat Policies
+
+
+Collaboration
+
+
+Files Guideline
+
+
+Information Sourcing
+
+
+Administrators
+
+This article details the conventions used when uploading and using files for the wiki.
+
+Contents
+
+1 General Upload Guidelines
+
+1.1 Filenames
+1.2 Mass Effect Legendary Edition
+1.3 File Replacement
+
+
+2 Images
+
+2.1 Display
+2.2 Player Characters
+2.3 Screencaps
+2.4 In-game Images
+2.5 Official Art
+2.6 Fanart etc.
+2.7 Character-Specific Guidelines
+2.8 Personal Images
+
+
+3 Videos
+4 Audio
+5 Deletion
+
+
+General Upload Guidelines[]
+You can upload files here. Don't forget to add a quick summary of the file content to make it easier to find later. Even better, add the image page itself to any appropriate categories (by adding links like, for example, [[Category:Locations]]).
+List as many applicable categories on the file as possible, preferably by placing them in the summary section before uploading. This may be a tedious process especially if working with multiple unique files, but it keeps from clogging the Recent Changes page.
+Almost every file comes from a specific game or medium in the series; as a good reference start there and work downwards. For a practical example on categorizing files, see the initial comment box on the file history of File:Jack ME3 boxshot.png.
+
+Filenames[]
+When uploading files, make sure to use a very specific filename. Uploading an image with the name "Saren.png" or "Armor.png" is problematic; there are dozens of pictures of Saren and even more numerous types of armor. Not only do vague filenames run the risk of having your picture overwritten when someone else uploads a "Saren.png", it also makes it much harder to find the image you need.
+
+Example: instead of Garrus.png, use Garrus C-Sec Talking to Wrex.png, or whatever the image shows.
+Gibberish filenames (e.g. 357903458490583.png) will be renamed at admin discretion or author request if usable on mainspace articles and deleted if unused.
+
+Mass Effect Legendary Edition[]
+Because the Mass Effect Wiki documents both the original trilogy and the Mass Effect Legendary Edition, content from both versions may coexist within articles. Files are no exception to this.
+Just like with text and other types of wiki content, editors should generally strive to respect existing files. Rather than replacing images with similar ones from the other version, editors are encouraged to upload new original images (from either version).
+Galleries can be used if there is a particular case for demonstrating differences between the original and Legendary Edition version of the subject.
+
+File Replacement[]
+Uploading a new version of a file is acceptable per normal guidelines, meaning that the new file should depict the same subject but in clearly improved quality. Quality factors include resolution, format, and photography. See Screencaps for capture guidelines.
+Examples of replacements that may qualify as improvements:
+
+Replacing a JPG file with a higher-resolution PNG file.
+Updating an image that is blurred or has poor lighting.
+Images[]
+See also: Help:Images
+If a page requires a picture, use the {{PicturesWanted}} template at the top of the page.
+The Mass Effect Wiki aims for high-quality hi-res files. Low resolution does no justice to the rich and detailed universe BioWare has crafted.
+PNG files are strongly preferred over Jpeg/JPG because of the compression loss and artifacts. Note that converting a jpg into PNG defeats the actual purpose of preserving image quality, so instead ensure the original source is taken in a lossless format whenever possible. 
+
+Display[]
+Most pictures on MEWiki are displayed at 340px, but this is dependent on dimensions, article length, and other aesthetic factors. 
+
+Images in articles are tightly fit to the text content. For this reason, text should immediately follow the markup for the image, not one line after, except in unusual formatting circumstances.
+As a general rule of thumb, pictures are displayed primarily to the right of text content. Placement on the left is also allowable to provide an alternating pattern.
+Unlike many other wikis, do note that galleries have traditionally been used sparingly and on a case-by-case basis, e.g. to showcase a list of Armax Arsenal Arena maps. Integration into articles is usually preferred. If you have a bunch of related images, refer to the bullet points above for proper integration.
+Slideshows and sliders have also been used rarely.
+If a picture actively needs a caption (i.e. to explain the context of the image), pipe it instead of using a thumbnail. The following is an example of proper image markup:
+
+[[File:Prothean facepalm.png|right|340px|An exasperated Prothean]]
+
+Images smaller than 200px, like the talent icons, should not be captioned as they are too small to make the text worthwhile.
+
+Player Characters[]
+As explained in the Manual of Style regarding canon and Shepard / Pathfinder Ryder, any image that depicts customizable protagonists that does not fall under certain conditions is not allowed and will be put up for deletion.
+We therefore encourage prospective screencappers to be creative in concealing their characters from images.
+The only other exception to this is the personal images policy. This also does not apply to games with defined protagonists, like Randall Ezno in Mass Effect: Infiltrator or Jacob Taylor in Mass Effect Galaxy.
+
+Screencaps[]
+Any screenshot intended for use in articles should:
+
+Be a high-quality image in its original size, resolution, and color depth. It can, however, be cut to suit relevant articles.
+Be taken with the games' maximum visual settings except film grain. This means no jagged edges (see anti-aliasing) as much as possible while presumably making the proper configurations on your graphics cards.
+Have no top and bottom black bars if the screenshot is taken from within a cutscene. Cut them if present. The main games' cutscenes are presented in the 16:9 aspect ratio; this means if you want seamless transitions between gameplay and cutscenes you should set your game resolution to settings like 1280x720, 1920x1080, and so on.
+Not contain any HUD elements, unless those elements are the reason for taking the screenshot.
+When taking shots with the flying camera, don't forget that ground level sometimes gives the most dramatic view, as that's how the game is designed to be viewed.
+
+In-game Images[]
+If dealing with in-game images, like Codex, War Assets or Weapons pictures, rip them out of the game files directly instead of screencapping.
+
+Official Art[]
+The highest resolution version of any official art available is preferred, taken from BioWare sources and not watermarked by some other site. Scans from print material should be ideally cleaned up for graininess or other scanning anomalies if present.
+
+Fanart etc.[]
+Fan-made images and images not directly related to the Mass Effect series are not allowed, except as part of the Personal Images policy. The wiki's stringent quality requirements do not apply to user images as long as they aren't posted on articles.
+
+Character-Specific Guidelines[]
+In general, limit a picture of a character to their upper body rather than a full head-to-toe shot, as it takes up too much space (especially for shorter articles).
+Character shots should preferably be taken while in conversation with them or during a cutscene to ensure the camera's in the right place.
+Shots should give a clear view of the character's face. Any squad pics should be with their helmet off.
+Examples of good character shots include: Garrus Vakarian, Kelly Chambers, and Dr. Brynn Cole.
+If a character is first introduced on a non-game medium and gets an in-game appearance later, the in-game look of the character takes precedence in its article's character box. An example of this would be Oleg Petrovsky, who was first seen in Mass Effect: Invasion and later gained a game appearance in Mass Effect 3: Omega.
+Personal Images[]
+The Mass Effect Wiki does allow users to upload images to the site for their personal use. 
+They are subject to the following regulations:
+
+Users are permitted to upload ten (10) personal images for their personal use.
+Images uploaded for personal use that are not related to Mass Effect must be tagged as such, either when they are uploaded or after the fact.
+If an image that is related to Mass Effect is used on a user page, but will not meet the guidelines for it being placed into an article, examples of this include personal Shepards, then it counts against that user's limit. If the image would be permitted in an article, then it does not count against that limit.
+Images that a user uploaded for their personal use can be used anywhere in their personal user space.
+If a user goes over the ten image limit, they will be informed of such and will have to choose the image(s) they want to keep. Users will have 48 hours to tag the amount of images they are over for deletion, or request they be deleted. If no response is heard in that time, then the most recent image(s) will be deleted.
+If a user has an image in their signature, then it counts against that limit.
+Personal images are still subject to current rules about inappropriate images.
+The Mass Effect Wiki would also like to remind users that at the same time we are not an image repository and if you plan to upload a number of images, then it might be better to link them from an image-hosting website and embed them in your user space. 
+If images are not tagged for personal use when they are uploaded, they will more than likely be put up for deletion and eventually deleted if they are not used or they are missed being placed in a user space. Please make sure to add in the "Summary" line that it is for personal use so this does not happen.
+
+Videos[]
+Due to canon concerns, copyrights, and quality, uploading and using videos on articles are not allowed. The exception to this rule is official trailers that should be approved by the admins prior to uploading or linking from articles.
+However, videos on Userspace including blog posts and blog comments are permitted but should be linked, or embedded, from an outside source and not uploaded to the wiki.
+
+Audio[]
+Audio files are used to approximate the feel of the voiced Codex entries on the wiki. The file type used in all Codex entries to date is the Ogg Vorbis format, therefore for the sake of consistency any similar uploads should be of the same type.
+Cut content from the games often take the form of unused audio lying around in the game files; if they are to be uploaded, they must also be in .ogg .
+All other forms of audio will not be permitted on the wiki and will be deleted on sight.
+
+Deletion[]
+Unacceptable and otherwise unused files are regularly purged from the wiki. Only administrators can delete files, even the uploader cannot do it for their own files. To nominate a file for deletion, slap it with a {{delete}} tag while providing a reason especially if it is not readily apparent. Valid reasons include uploader request, obvious quality issues, or duplicate/superseded file. 
+If nobody opposes the nomination or nobody bothers to use an uploaded file within 2 days, the file gets deleted. If someone opposes the nomination, the wait period extends to the regular full week after the nomination is posted to allow for discussion. A decisive vote for deletion must be achieved at the end of the week; the file still stays up and the delete tag removed in case of a tie.
+Vandalism files aren't subject to these rules. They will be deleted on sight with the uploader blocked.
+
+
+
+

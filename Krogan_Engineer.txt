@@ -1,0 +1,126 @@
+
+
+
+
+
+Krogan Engineer
+
+
+
+
+
+
+Race
+Krogan
+
+
+Rarity
+Uncommon
+
+
+Availability
+Unlockable
+
+
+
+Explosives technician with high survivability and area damage.
+This is great! Who knew all those science lessons she had to take would be so handy? If only she could brag to her friends back home about her cool new team and how much fun fighting these little kett guys is.
+
+Skills and stats[]
+
+
+
+
+
+ Health: 600     Shields: 250
+
+
+Powers
+
+Overload
+
+
+Assault Turret
+
+
+Incinerate
+
+
+Passives
+
+Offensive Tech
+
+
+Rage
+
+
+Veteran Bonus
+
+
+Melee
+
+Headbutt
+
+
+Bonus Stat
+
+Health & Shield Regen Delay Reduction
+
+
+Player Notes[]
+General Notes[]
+The Krogan Engineer is a versatile but situational character. She can tank location-holding waves with her skill set but due to Rage being melee-oriented striking back at long-range enemies either with weapons or her combo-detonator skills doesn't give her bonuses upon confirmed kills. Given a tight space with at least two walls to her back and choke points for entrances, the Krogan Engineer can slaughter all but the toughest enemies thrown by the wave.
+Skills to emphasize while playing a low-rank Krogan Engineer are Assault Turret and Rage, with any leftovers for upgrading Overload and Incinerate's recharge times.
+Unlike with most other characters, maximizing Overload and Incinerate should wait until higher ranks (and therefore skill points) are unlocked. The skills' main utility for the Krogan Engineer is in producing fire explosions.
+At Rank II there are enough skill points to max out Assault Turret and Rage while evolving Overload to Rank 4 Recharge Speed, leaving Incinerate to Rank 2 Recharge Speed, and putting all leftovers for Offensive Tech Rank 4 Combo Detonation. This ensures that the Krogan Engineer can quickly produce fire explosions powerful enough to wipe out clumped enemies even at higher difficulties while being able to hold a given location.
+With Rage Rank 2, the Krogan Engineer can bring up to 55 weight units' worth of guns without sacrificing cooldowns: a wide array of weapon configurations, even low-ranked ones. This should allow for a long-range and a short-range pair for use against the appropriate enemies.
+Going for both Rage Rank 2 and Offensive Tech Rank 6 should allow the Krogan Engineer to effectively ignore weight limits with 105 units maximum, but at the expense of not fully upgrading one of the other skills even at character Rank X and above.
+The Omni-Capacitors or Structural Ergonomics Equipment are the items most useful by default to the Krogan Engineer's skill set. Armored Compartments, Shock Trooper Upgrade, and Grenade Capacity are next to useless since she doesn't have any power cell-consuming abilities. The others are situational depending on favored weapon/skill configurations.
+Shielded units can't be detonated off the bat unless a more vulnerable unit nearby is exploited and the resulting explosion causes the target unit to lose their shields. Turret or weapons fire (or headbutts) can strip the shields to ready them for the Incinerate/Overload combo, or alternatively, the Krogan Engineer's skills can function as the primer while another teammate deals the detonator.
+The Krogan Engineer is well-suited to taking out armored enemies thanks to the aforementioned Incinerate/Overload combo. In close range, a cryo or flamethrower turret can also prime targets in theory, but in practice the cryo or burn effect is up to chance.
+Kett[]
+Getting Rage to activate should be easy given that Wraith flankers are numerous in any given wave. Assault Turret will take care of the ones that sneak behind the back and any kills by the construct even count for Rage.
+Chosen or Destined grenades (or regular fire from Behemoths) can flush out the Krogan Engineer from her hidey-hole, but the latter two's lingering after-explosion damage can destroy the turret.
+Outlaw[]
+As with kett enemies, onrushing Adhi makes activating Rage easy. If Berserkers close in, the situation is dependent on difficulty level. They are survivable until Gold level, but on Platinum it is advisable to have seriously upgraded weapons or else quickly reposition somewhere else.
+Numerous Outlaw units are armored, providing many opportunities for fire explosions.
+Remnant[]
+Since all Remnant forces except Breachers fight at range, the Krogan Engineer cannot synergize her skills properly without any of them rushing in. She has to to be the one to close the distance, although they have to be somewhere within range of the Assault Turret for all that extra firepower.
+On Bronze difficulty this isn't strictly needed when tackling basic troops since the Krogan Engineer can basically headbutt each of them without issue, although on higher difficulties every shot counts.
+Engaging Remnant units from afar can be done with Overload/Incinerate and/or long-range weapons, although Rage activation should be considered secondary in this case.
+
+
+
+
+Mass Effect: Andromeda Multiplayer and APEX HQ
+
+
+
+
+
+
+
+Common
+
+Human Adept • Human Engineer • Human Infiltrator • Human Sentinel • Human Soldier • Human Vanguard
+
+
+Uncommon
+
+Asari Adept • Asari Sentinel • Krogan Engineer • Krogan Vanguard • Salarian Infiltrator • Turian Soldier
+
+
+Rare
+
+Angara Insurgent • Asari Huntress • Batarian Scrapper • Human Artificer • Human Commando • Human Guardian • Human Juggernaut • Krogan Mercenary • Salarian Architect • Turian Agent • Turian Havoc Trooper
+
+
+Ultra Rare
+
+Angara Avenger • Angara Exemplar • Asari Duelist • Batarian Vanguard • Human Kineticist • Krogan Gladiator • Salarian Operator
+
+
+
+
+
+

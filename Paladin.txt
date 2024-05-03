@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+This article is about the weapon in Mass Effect 3. For the multiplayer class, see N7 Paladin Sentinel. For the class power of the N7 Paladin Sentinel in multiplayer, see N7 Paladin.
+
+
+
+
+
+
+
+
+M-77 Paladin
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Heavy Pistol
+
+
+Location
+Spectre Requisitions
+
+
+Fire Mode
+Semi-Automatic
+
+
+
+Weight
+  30% 
+
+
+Capacity
+  15% 
+
+
+Fire Rate
+  10% 
+
+
+Damage
+  55% 
+
+
+Accuracy
+  66% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+3
+16
+
+
+
+
+
+
+
+Type
+Heavy Pistol
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+Semi-Automatic
+
+
+
+Weight
+  40% 
+
+
+Capacity
+  15% 
+
+
+Fire Rate
+  10% 
+
+
+Damage
+  55% 
+
+
+Accuracy
+  66% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+3
+21
+
+
+
+
+
+
+
+The M-77 Paladin is a heavy pistol in Mass Effect 3.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 Trivia
+
+
+Description[]
+The Paladin is a reliable, durable weapon developed by law enforcement looking for a high-powered but easily concealed sidearm for undercover agents. Surprisingly small for its hitting power, the Paladin is a variant on the Carnifex pistol. While it has a smaller clip than the Carnifex, its shots are unquestionably more powerful.
+
+Acquisition[]
+Single-player
+The M-77 Paladin is purchasable from the Spectre Requisitions terminal in the Citadel Embassies for 200,000 credits, or 75,000 in Mass Effect Legendary Edition.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The M-77 Paladin is categorized as ultra-rare and requires no multiplayer expansion packs.
+
+Player Notes[]
+GeneralSingle-playerMultiplayer 
+General
+The M-77 Paladin is very similar to the M-6 Carnifex in most respects including weight. The Paladin deals more damage per shot, but the Carnifex has double the magazine size, able to fire six shots before having to reload compared with the Paladin's three.
+The Paladin's main drawback is its small magazine size and low reserve clip capacity: only 3 shots in the magazine and 21 in reserve without upgrades. This makes the Paladin the heavy pistol with the second-lowest capacity in the game after the Executioner Pistol, with fewer shots than even some shotguns and sniper rifles. In order to maximize effectiveness, it is recommended to go for headshots whenever possible or weaken the target with powers first.
+The Paladin has one of the highest power-to-weight ratios in the game, making it an ideal backup weapon for classes reliant on powers.
+The Paladin is slightly heavier than the Arc Pistol, which can actually deal more damage than the Paladin shot-for-shot with its charged shots. However, the Paladin has the advantage of being less cumbersome to fire from cover, and it deals more damage in a shorter span of time when rapidly firing a full magazine.
+If modified with a Pistol Scope, the Paladin can act as a sniper rifle, its lower recoil making it easier to aim and re-sight, and easier to use at close range with no damage or accuracy penalty for not using the scope.
+The Paladin is comparable with the N7 Valiant when it comes to damage-per-second (DPS), with the Valiant having much more default accuracy at range and a faster reload and the Paladin dealing slightly more damage per shot and being more effective at close quarters. The Paladin is also a good deal lighter than the Valiant even without Pistol Ultralight Materials, which is a more effective way of reducing weapon weight than the sniper rifle equivalent.
+The Paladin can be very effective against armor with the Pistol Piercing Mod.
+The Paladin has a fairly good chance-per-shot of triggering the effects of most ammo powers/ammo bonuses, including Cryo Ammo which will freeze most unprotected targets.
+Recommended mods are the Pistol Magazine Upgrade mod (which, at level V, can upgrade the Paladin's capacity to five shots) and the Pistol High-Caliber Barrel mod.
+Powers that instantly reload the active weapon such as Adrenaline Rush can help compensate for the Paladin's low magazine capacity.
+Single-player
+As with certain other low-magazine capacity or slow-firing pistols, it is recommended that you do NOT use this weapon for killing Dr. Eva on Priority: Mars if you are not playing Legendary Edition. One shot is insufficient to disable her, and it may take more than three. However, the Pistol Magazine Upgrade can provide 1-2 extra shots, making the weapon a safer choice.
+The Paladin is a fairly effective weapon to give to squadmates. As weight is an irrelevant concern for them, equip the Pistol Heavy Barrel if it's available.
+Multiplayer
+Recent updates made the Paladin lighter and slightly more powerful, but it is still the second-heaviest pistol after the Executioner.
+Trivia[]
+Paladins, also known as the Twelve Peers, were the foremost warriors of Charles the Great's court, according to the literary cycle known as the Matter of France.
+The Paladin's color/light is not affected by the Pistol Piercing or the Pistol Magazine mods.
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

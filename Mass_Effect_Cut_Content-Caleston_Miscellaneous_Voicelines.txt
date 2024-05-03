@@ -1,0 +1,433 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut voicelines and dialogues related to Caleston which do not particularly relate to any of the missions or assignments on it. They are presented in no particular order.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 lav20_ambient_maleminer_1 / lav20_ambient_femaleminer_1
+2 lav20_ambient_maleminer_2
+3 lav20_ambient_bar
+4 lav40_ambient_malefoundry_1 / lav40_ambient_femalefoundry_1
+5 lav40_ambient_malefoundry_2 / lav40_ambient_femalefoundry_2
+6 lav40_ambient_union
+7 lav40_ambient_union_hostile_enc
+8 lav40_ambient_cartel
+9 lav40_amb_cartel_hostile_enc
+10 lav40_malescientistambient
+11 lav40_aramus
+12 lav60_ambient_maleminer / lav60_ambient_femaleminer
+
+
+lav20_ambient_maleminer_1 / lav20_ambient_femaleminer_1[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_ambient_maleminer_1_de.isb, lav20_ambient_maleminer_1_fr.isb, lav20_ambient_maleminer_1_it.isb, lav20_ambient_femaleminer_1_de.isb
+Character present:
+
+Unnamed human male or female miner
+
+Miner: Have you heard about the krogan? He was waving his gun around, asking where he'd find some asari bitch.
+
+Miner: If you ask me, ever since the Cartel arrived, the Union has been going downhill.
+
+Miner: At least the Union people were like us. Not like those mercs from the Cartel.
+
+Miner: If Harrah didn't drink himself into oblivion, maybe things would be different here.
+
+Miner: You want some advice? Get off this rock as soon as you can.
+
+Miner: You'll get used to the smell. Or at least you won't smell anything at all.
+
+Miner: Rumor has it they're using our eezo to build the engine for the Alliance's new dreadnought.
+
+(Male miner to male Shepard only)
+Miner: If you've got the urge, try the girls at the Seventh Moon. But stay away from Tatiana.
+
+(Male miner to female Shepard only)
+Miner: You smell nice. I mean, you don't smell like rotten eggs. I mean, you must be new around here. Maybe I'll see you around.
+
+(Female miner to male Shepard only)
+Miner: Are you a new arrival? Just ask me if you need any help.
+
+(Female miner to female Shepard only)
+Miner: Are you new here? I hope you're not shy. We all shower together here.
+
+(During the course of Caleston: Redemption)
+Miner: I've heard Harrah wants to quit drinking. He used to be a good man.
+
+(During the course of Caleston: Last Man Standing)
+Miner: You're here for the money? Why don't you leave us alone?
+
+Miner: I don't want any part of it.
+
+Miner: One of my friends went missing last week. I told her she should've paid Sessa's men.
+
+(Related to the completion of Caleston: Redemption, if Harrah survived)
+Miner: Some people say that Harrah and Tatiana are getting married.
+
+(Related to the completion of Caleston: Redemption, if Harrah died)
+Miner: I guess we need a new security officer.
+
+(Related to the completion of Caleston: Last Man Standing)
+Miner: At least there weren't any shootouts on the main level before you arrived.
+
+Miner: The Citadel sent you to take down the Cartel? As if we needed the aliens policing us.
+
+(Related to the completion of Caleston: Last Man Standing, if Tombiri was eliminated)
+Miner: With the Union gone, the company will surely screw us over.
+
+lav20_ambient_maleminer_2[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_ambient_maleminer_2_de.isb, lav20_ambient_maleminer_2_fr.isb, lav20_ambient_maleminer_2_it.isb
+Character present:
+
+Unnamed human male miner
+
+Miner: If Eldfell-Ashland cared about their workers, they'd do something to solve our problems.
+
+Miner: If you have problems, you'd better sort them out yourself. The EAE security guard's a drunken wreck.
+
+Miner: If I had money, I'd leave. This is like working in a flaming garbage dump.
+
+Miner: Sometimes I just like to watch the eezo containers coming and going.
+
+Miner: Some say the geth have been sighted beyond the Veil. It's just a rumor, right?
+
+Miner: What time is it? The shifts at the refinery are so long I lose track.
+
+Miner: I just got off a twelve-hour shift. I don't even have the strength to go to the Seventh Moon.
+
+Miner: Recently more and more krogan have been coming through here. I wonder why that is.
+
+Miner: Were you there when that krogan came? He almost blew Harrah's head off.
+
+Miner: Since the Cartel arrived, there's been a lot more aliens around. You think they like our food?
+
+(During the course of Caleston: Redemption)
+Miner: I actually saw Jason Harrah walking straight earlier. I think he had even shaved a little.
+
+(During the course of Caleston: Last Man Standing)
+Miner: I don't want any trouble.
+
+Miner: Find someone else to bother.
+
+Miner: I've already paid up for this month.
+
+Miner: I don't want any part of it.
+
+(Related to the completion of Caleston: Redemption, if Harrah survived)
+Miner: Harrah seems to have made it eventually.
+
+(Related to the completion of Caleston: Redemption, if Harrah died)
+Miner: It's too bad about Harrah. Everyone thought his liver would give out before the gang war ended.
+
+(Related to the completion of Caleston: Last Man Standing)
+Miner: The Cartel's the perfect example why we shouldn't deal with aliens. They just want to get rid of us.
+
+(Related to the completion of Caleston: Last Man Standing, if Tombiri was eliminated)
+Miner: Without crime, this place is gonna be just another crappy corporate station like any other.
+
+Miner: Everyone's afraid the company might take our retirement funds to make up for lost profits.
+
+lav20_ambient_bar[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_ambient_bar_de.isb, lav20_ambient_bar_fr.isb, lav20_ambient_bar_it.isb
+Character present:
+
+Unnamed human male patron
+
+Human patron: Ever since the Cartel settled, this place is crawling with turians. Those bastards just get on my nerves.
+
+Human patron: I heard a krogan came by last week, looking for the asari.
+
+Human patron: Those damned mercenaries think they're better than us... The Union should do something.
+
+Human patron: You think Harrah will show up today? He usually comes for a drink in the afternoon.
+
+Human patron: I've just got through a 10-hour shift. I came here to drink, not to talk.
+
+Human patron: Don't ask Ruushok for beer. He'll either serve you pure alcohol, or throw you out.
+
+Human patron: Nothing like a nice cold drink in here after a hard day's work. Not in these parts, anyway.
+
+Human patron: Unless you're buying me a round, I'm not interested.
+
+Human patron: We haven't had a good brawl for ages. That's probably why Ruushok is so grumpy.
+
+(Related to the first brawl during Caleston: Redemption)
+Human patron: I didn't take part in that brawl. I was sitting here with my drink.
+
+Human patron: Take your guns somewhere else.
+
+Human patron: I'm a paying customer. Leave me be.
+
+(Related to the second brawl during Caleston: Redemption)
+Human patron: It's been a while since I last saw Harrah around here. He didn't stop drinking, did he?
+
+Human patron: I don't want any trouble.
+
+Human patron: Go bother someone else.
+
+Human patron: Ruushok says these are neutral grounds.
+
+(Related to the completion of Caleston: Last Man Standing)
+Human patron: I'm gonna get plastered. Now that the gangs are gone, we're gonna have a party.
+
+lav40_ambient_malefoundry_1 / lav40_ambient_femalefoundry_1[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_ambient_malefoundry_1_de.isb, lav40_ambient_malefoundry_1_fr.isb, lav40_ambient_malefoundry_1_it.isb, lav40_ambient_femalefoundry_1_de.isb, lav40_ambient_femalefoundry_1_fr.isb, lav40_ambient_femalefoundry_1_it.isb
+Character present:
+
+Unnamed human male or female worker
+
+Human worker: You should be wearing a thermal suit. The people in administration might have a fit.
+
+Human worker: Stay away from the vats! You don't want to fall into them.
+
+Human worker: Watch out near the gravitic stills! They act up sometimes.
+
+Human worker: If you ask me, the gangs can have this hellhole if they want it.
+
+Human worker: Say, should you be in here?
+
+Human worker: Sessa and Raciloma should stop messing around and just get it on. It would help them let out some steam.
+
+(Male worker only)
+Human worker: Stay away from the labs. Lots of aliens around, and they don't like people poking their noses.
+
+(Female worker only)
+Human worker: I heard a krogan tried to rough up Harrah. Better him than me, right?
+
+(During the course of Caleston: Redemption)
+Human worker: Harrah's been hanging around here recently. You think something's up?
+
+(Related to the completion of Caleston: Last Man Standing)
+Human worker: I'm looking forward to a good night's sleep.
+
+Human worker: We'll be done soon with that new cruiser's drive core.
+
+Human worker: It's been pretty rough on this station, but now things are looking up.
+
+Human worker: The work still sucks, but at least we don't have to worry about getting shot anymore.
+
+Human worker: Sessa left in a hurry.
+
+lav40_ambient_malefoundry_2 / lav40_ambient_femalefoundry_2[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_ambient_malefoundry_2_fr.isb, lav40_ambient_malefoundry_2_it.isb, lav40_ambient_femalefoundry_2_de.isb
+Character present:
+
+Unnamed human male or female worker
+
+Human worker: Sorry, can't hear you! Too much noise!
+
+Human worker: What are you doing without a thermal suit? You want to get your face cooked off?
+
+Human worker: You can't just walk around here.
+
+Human worker: If the Union sees me talking with an outsider, I could lose my job or worse.
+
+Human worker: This job's dangerous enough without getting distracted.
+
+Human worker: If you ask me, it's those damn aliens' fault. They arrived and moved straight to producing drugs.
+
+(During the course of Caleston: Redemption)
+Human worker: It's always either Harrah or you walking around.
+
+(Related to the completion of Caleston: Last Man Standing)
+Human worker: What happened to Sessa? She's usually here from 7 A.M. to 7 P.M.
+
+Human worker: Things were pretty terrible. But then they sent someone to clean up the refinery.
+
+Human worker: I'll be glad to finally have a day off this week end.
+
+Human worker: Even without getting shot at, it's hard to take it easy.
+
+Human worker: I could have sworn those clowns on the board back on Earth had forgotten about us.
+
+lav40_ambient_union[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_ambient_union_de.isb
+Character present:
+
+Unnamed human male Union thug
+
+Union thug: I'm keeping my eye on you, don't make trouble around here.
+
+Union thug: Are you even supposed to be here?
+
+Union thug: This level is for employees only.
+
+Union thug: I work here.
+
+Union thug: Do you have a problem?
+
+Union thug: Leave the workers alone.
+
+(Only toward female Shepard)
+Union thug: Hey sexy, wanna see what a really big gun can do?
+
+lav40_ambient_union_hostile_enc[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_ambient_union_hostile_enc_de.isb
+Character present:
+
+Unnamed human male Union thug
+
+Union thug: You're not supposed to be here!
+
+Union thug: Who do you think you are? Cocky idiot.
+
+Union thug: Nice guns, bring them on!
+
+Union thug: You arrogant military-types!
+
+Union thug: Then let's see what you've got!
+
+lav40_ambient_cartel[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French and Italian. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_ambient_cartel_fr.isb, lav40_ambient_cartel_it.isb
+Character present:
+
+Unnamed turian male mercenary
+
+Cartel mercenary: You shouldn't be here.
+
+Cartel mercenary: Don't mess with us.
+
+Cartel mercenary: Nice guns. Is that an M-470?
+
+Cartel mercenary: First time seeing you here, right?
+
+Cartel mercenary: I have nothing to say to you.
+
+Cartel mercenary: Don't get cocky with these guns.
+
+lav40_amb_cartel_hostile_enc[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French and Italian. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_amb_cartel_hostile_enc_fr.isb, lav40_amb_cartel_hostile_enc_it.isb
+Character present:
+
+Unnamed turian male mercenary
+
+Cartel mercenary: They have guns, take them out!
+
+Cartel mercenary: Another Union troublemaker?
+
+Cartel mercenary: Halt!
+
+Cartel mercenary: This is a restricted area!
+
+Cartel mercenary: I'll confiscate your weapons.
+
+lav40_malescientistambient[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_malescientistambient_de.isb, lav40_malescientistambient_fr.isb, lav40_malescientistambient_it.isb
+Character present:
+
+Unnamed salarian scientist
+
+Salarian scientist: I don't want any trouble. I just do what I'm told.
+
+Salarian scientist: You can't start a fight in here. There's several million credits' worth of eezo in this lab.
+
+Salarian scientist: You shouldn't be here. This is very sensitive equipment.
+
+Salarian scientist: It's difficult to do your work with so many thugs around.
+
+Salarian scientist: If this eezo isn't 100% pure, then it has no value. I need to concentrate.
+
+Salarian scientist: Please, try not to touch anything, you understand?
+
+Salarian scientist: I wish the lab was closer to the elevators. Every day I go to work, I worry about getting shot.
+
+Salarian scientist: Just what we were missing here. Another human waving guns around.
+
+Salarian scientist: The refinery workers here are so... close-minded.
+
+Salarian scientist: Can't even lunch at the Seventh Moon without some sweaty human sticking a gun under my nose.
+
+(Related to the completion of Caleston: Last Man Standing)
+Salarian scientist: It's a relief to see fewer guns around here. Oh, my bad.
+
+Salarian scientist: I saw those red sand junkies on the news. Can't believe I had a part in it.
+
+lav40_aramus[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French and German, but the majority of it is missing. The general wording and phrasing or the order of the conversation may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_aramus_de.isb, lav40_aramus_fr.isb
+Characters present:
+
+Aramus
+Characters optionally present:
+
+Garrus Vakarian
+Urdnot Wrex
+
+(Missing)
+| Urdnot Wrex: You should be thinking about how to reduce your sentence. We're looking for someone. An asari named Liara T'Soni.
+| Garrus Vakarian: We're looking for an asari named Liara T'Soni. Tell us what you know if you want to make it to prison alive.
+(Missing)
+| Urdnot Wrex: No problem.
+(Missing)
+| Urdnot Wrex: Then everyone stand back and watch. I'll handle this.
+(Missing)
+| Urdnot Wrex: Agreed. Let him take care of details.
+| Garrus Vakarian: I think he can handle it, but he won't like it.
+|| Urdnot Wrex: That drunkard? The only thing he can handle is feeding his addiction.
+|| Garrus Vakarian: Is he really up to the task?
+(Missing)
+| Garrus Vakarian: It could be a problem, Commander. If these criminals start firefights on the main level, it could result in civilian casualties.
+| Urdnot Wrex: If there's a shootout in the open, many civilians are gonna be slaughtered.
+(Missing)
+| Urdnot Wrex: I like it. Can I take the hit?
+(Missing)
+
+lav60_ambient_maleminer / lav60_ambient_femaleminer[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_ambient_maleminer_de.isb, lav60_ambient_maleminer_fr.isb, lav60_ambient_maleminer_it.isb, lav60_ambient_femaleminer_de.isb, lav60_ambient_femaleminer_fr.isb, lav60_ambient_femaleminer_it.isb
+Character present:
+
+Unnamed human male or female miner
+
+Human miner: Hey, this is a worksite. Are you authorized to be here?
+
+Human miner: Careful. There are plenty of unstable gases underground. Geysers can take your legs off.
+
+Human miner: What are you even doing here? You're not on the schedule.
+
+Human miner: Stay away from the bores. We're taking core samples.
+
+(After the confrontation near the bore, if a shootout was avoided)
+Human miner: I thought you guys were gonna start shooting.
+
+Human miner: We want no part in your problems.
+
+(After the confrontation near the bore, if a shootout occurred)
+Human miner: Step back, please. If you get shot...
+
+Human miner: I don't want any trouble.
+
+Human miner: I can't believe this is happening to me.
+
+Human miner: Just leave, alright?
+
+
+
+

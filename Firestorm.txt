@@ -1,0 +1,318 @@
+
+
+
+The M-451 Firestorm is a heavy weapon in Mass Effect 2 and Mass Effect 3.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Description
+1.2 Acquisition
+1.3 Player Notes
+
+
+2 Mass Effect 3
+
+2.1 Acquisition
+2.2 Player Notes
+
+
+3 Trivia
+4 See Also
+
+
+Mass Effect 2[]
+
+
+
+
+
+
+
+M-451 Firestorm
+
+General Stats
+
+Type
+Heavy Weapon
+
+
+Location
+Zorya
+
+
+Accuracy
+High
+
+
+Recoil
+None
+
+
+Fire Mode
+Automatic
+
+
+Fire Rate
+800 RPM
+
+
+Reload Time
+N/A
+
+
+Ammo Per Clip
+N/A
+
+
+
+Damage & Bonus Multipliers
+
+Base
+15
+
+
+Armor
+×1.35
+
+
+Shields
+×1.15
+
+
+Barrier
+×1.15
+
+
+
+Spare Ammo Capacity
+
+Default
+500
+
+
+Armor Pack
+549
+
+
+Upgraded
+575 - 950
+
+
+Both
+625 - 1000
+
+
+Pickup Amount (Min - Max)
+260
+
+
+
+
+Description[]
+Short-ranged, the Firestorm suppresses the regenerative capabilities of vorcha and krogan. Effective against armor, shields, and biotic barriers.
+
+Acquisition[]
+The M-451 Firestorm can be found during Zaeed Massani's loyalty mission, on the body of a dead mercenary. Zaeed and his mission are available as a downloadable content pack for Mass Effect 2, or by default as a part of Mass Effect Legendary Edition along with most other DLC.
+
+Player Notes[]
+Mechanics
+Much like the Collector Particle Beam, this weapon consumes 5 units of ammunition at a time.
+Synthetic health (red bar) is more resistant to fire damage than organic health, and synthetics never panic from being set on fire. Klixen are also highly resistant to fire damage to their health bar.
+The Firestorm never needs to stop to reload in contrast to shotguns; however, despite being a flamethrower it doesn't really cause any spread or "splash" damage and should be considered primarily a single-target weapon.
+The Firestorm can disable the health regeneration of enemies like vorcha and krogan but there is a certain chance to cause this effect; usually at least a second or two of sustained fire on enemy health bars is required to ensure their regeneration is actually disabled (a mild burning visual effect seems to accompany this).
+Just like with other fire-based attacks such as Incinerate or Incendiary Ammo, hitting many unprotected bipedal organic enemies with the Firestorm can induce panic, causing them to flail around trying to put the fire out. Unfortunately, this occurs very rarely from the Firestorm's flame stream and it must be sustained on an enemy for a good chance of working—often enemies will just die first.
+The Firestorm can cause the fuel tanks of unprotected (red bar) pyro-type enemies carrying flamethrowers to explode, instantly killing them. However, their tanks will only ignite when the Firestorm actually triggers the full panic described above, which is rare and doesn't happen at all against synthetic enemies, meaning Geth Destroyers can't be detonated, period. So aside from the obviously bad tactics involved in trying to get close to enemy pyros to use this weapon, the Firestorm is not a reliable way to detonate them.
+The Firestorm does not cause any type of damage to Shepard or the squad regardless of difficulty setting allowing it to be fired at point blank range safely (though misleadingly it can create a burning effect on squadmates).
+Strategies
+The Firestorm provides above-average damage to single armored targets especially in the early part of the game when standard weapons are not as upgraded.
+Just like the Particle Beam, the Firestorm is very ammo-efficient, but the Collector weapon has superior range and damage, and is overall the better choice once it becomes available.
+
+
+
+Mass Effect 3[]
+
+
+
+
+
+
+
+M-451 Firestorm
+
+
+
+
+
+								Single-player
+							
+
+
+
+
+
+Type
+Heavy Weapon
+
+
+Location
+Attican Traverse: Krogan Team
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  0% 
+
+
+Capacity
+  100% 
+
+
+Fire Rate
+  100% 
+
+
+Damage
+  50% 
+
+
+Accuracy
+  25% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+250
+0
+
+
+
+
+
+
+
+
+Acquisition[]
+Single-player: Several are found throughout Attican Traverse: Krogan Team. This weapon is specific to this mission and cannot be taken off-world.
+Multiplayer: N/A
+Player Notes[]
+The Firestorm will burn slowly for a second, then after a second of the trigger being pressed, will burn much faster, for much more damage.
+Sometimes picking up another Firestorm while holding one with more ammunition will cause the Firestorm to be replaced with the one containing less ammunition, and the Firestorm with more ammunition will disappear.
+Trivia[]
+The name of this weapon references the book Fahrenheit 451 by Ray Bradbury.
+If Shepard did not collect the M-451 Firestorm from Zorya, then it can be seen on Zaeed's back as you board the shuttle to depart.
+See Also[]
+Upgrade Guide
+
+
+
+
+Mass Effect 2 Downloadable Content
+
+
+
+
+Promotional
+
+Blood Dragon Armor • Collectors' Weapon and Armor • Inferno Armor  M-29 Incisor Sniper Rifle • Terminus Weapon and Armor
+
+
+Cerberus Network
+
+Zaeed - The Price of Revenge • Normandy Crash Site  Cerberus Weapon and Armor • Arc Projector • Firewalker Pack
+
+
+Missions
+
+Kasumi - Stolen Memory • Overlord • Lair of the Shadow Broker • Arrival
+
+
+Additional Content
+
+Alternate Appearance Packs •  Equalizer Pack • Aegis Pack • Firepower Pack  Mass Effect: Genesis • Recon Operations Pack • N7 Complete Arsenal Bundle
+
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

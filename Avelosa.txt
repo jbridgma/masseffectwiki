@@ -1,0 +1,62 @@
+
+
+
+
+
+Avelosa
+
+Region
+Andromeda / Heleus Cluster / Solminae
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.9 AU
+
+
+Orbital Period
+1.6 Earth Years
+
+
+Keplerian Ratio
+0.285
+
+
+Radius
+1,442 km
+
+
+Atm. Pressure
+0.47 atm
+
+
+Surface Temp
+−131 °C 
+
+
+Location: Andromeda / Heleus Cluster / Solminae System /  Third planet
+
+
+Description[]
+Given its size and position, Avelosa might once have been a moon of H-323 - though how it was displaced is unclear. Unusual radiation emissions make Avelosa difficult to scan.
+
+Anomaly[]
+Satellite[]
+DATA:
+
+Satellite ID: Nexus 0105-L
+Power readings: 91.2%
+System report: Communications functional and active
+Status: Operational
+ANALYSIS:
+This appears to be a Nexus satellite stolen and reprogrammed by the Collective. It is actively monitoring the planet Suuricco.
+Awards +50  when scanned.
+
+
+
+

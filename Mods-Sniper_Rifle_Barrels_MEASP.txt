@@ -1,0 +1,141 @@
+
+
+
+[Edit this tab]
+
+Basic - SR Barrel: Enhances a weapon's barrel, creating greater gunfire velocity and impact.
+Enhanced - SR Reinforced Barrel: Substantially increases damage, but at the cost of increased recoil.
+Enhanced - SR Vented Barrel: Substantially increases damage, but at the cost of fire rate.
+Note:  Sniper Rifle stability is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+SR Barrel
+
++9%
+
++11%
+
++12%
+
++14%
+
++15%
+
++16%
+
++17%
+
++18%
+
++19%
+
++21%
+
+Sniper Rifle Damage
+
+
+SR Reinforced Barrel
+
+N/A
+
++12%-15%
+
++13%-18%
+
++15%-21%
+
++17%-24%
+
++18%-26%
+
++20%-29%
+
++22%-32%
+
++23%-35%
+
++25%-38%
+
+Sniper Rifle DamageSniper Rifle Stability
+
+
+SR Vented Barrel
+
+N/A
+
++12%-3%
+
++13%-4%
+
++15%-5%
+
++17%-6%
+
++18%-7%
+
++20%-8%
+
++22%-8%
+
++23%-9%
+
++25%-10%
+
+Sniper Rifle DamageSniper Rifle Rate of Fire
+
+
+Level Unlocked
+
+1
+
+6
+
+11
+
+21
+
+31
+
+41
+
+51
+
+61
+
+71
+
+81
+
+-
+
+Equipping a Sniper Rifle Barrel Mod changes the shape of the weapon by modifying the barrel depending upon the specific weapon.
+
+
+
+

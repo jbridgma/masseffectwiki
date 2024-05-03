@@ -1,0 +1,26 @@
+
+
+
+Rear Admiral Mikhailovich performed a surprise inspection of the Normandy.
+Acquisition[]
+After returning to the Citadel's Dock 422 for the first time after finding Liara, completing Feros, or completing Noveria, an Alliance admiral -- Rear Admiral Mikhailovich -- will be standing by the elevator to C-Sec. He accosts Commander Shepard in passing, and there is no way to walk or run past him or ignore him in any way. The assignment can only be delayed by returning to the Normandy before meeting Mikhailovich.
+However, if the first return to the Citadel is only during the lockdown, the Admiral will not be there, making the assignment impossible to acquire and complete.
+
+Walkthrough[]
+Note: Unlocking all possible assignment outcomes is completely dependent on the number of points invested in your Shepard's Charm and/or Intimidate talents. If you have a Charm/Intimidate score less than 9, turn back to the Normandy and increase your talent ranks elsewhere if you wish to have all options available.
+
+If Kaidan Alenko or Ashley Williams is in the party, he or she will stop and salute the Admiral. If both are in the party, Kaidan will be the one saluting the Admiral. 
+Mikhailovich is irritated that the Normandy was (in his opinion) handed over to the Citadel Council, when both the Normandy and Shepard were intended for the 63rd Scout Flotilla after their shakedown run. Though there's nothing he can do about it, Mikhailovich demands to make an inspection of the Normandy. 
+Shepard can refuse, using Spectre authority to tie Mikhailovich's hands; in this event he will leave angrily, resulting in Renegade points, but no experience. Otherwise, Mikhailovich will make his inspection, then return to Shepard with a list of grievances, including:
+
+The Normandy's CIC is too far from the bow
+The stealth system isn't worth the cost of the element zero used in the Tantalus drive core
+There are alien crewmen on board, which is a risk to Alliance security.
+Shepard has a choice of how to respond to each of these points, but only Charm or Intimidate will make much of a dent in Mikhailovich's negative opinions. You need at least a Charm/Intimidate score of 9 to answer all their associated dialogue trees. Different answers result in different rewards, varying from grenades to a codex entry (Starships: Carriers), and influence how positive or negative Mikhailovich's report to the Joint Military Chiefs will be.
+Only 2 Renegade points can be gained from this mission, whether you completely refuse to allow the Admiral his inspection tour, or allow it and then take all possible Renegade conversation options. You will gain 2 Paragon points by allowing the Admiral to inspect the ship and taking every possible Paragon conversation option.
+
+Trivia[]
+For some reason, this assignment does not appear in the journal.
+
+
+

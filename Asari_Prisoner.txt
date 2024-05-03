@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+Asari Prisoner
+
+
+
+
+Type
+Asari
+
+
+Armament
+M-96 Mattock AutoM-22 Eviscerator
+
+
+Abilities
+None
+
+
+Health
+Moderate
+
+
+Shields
+Low
+
+
+Locations
+X1 Wing, Incarceration
+
+
+Asari Prisoners are members of the asari race who were kidnapped by Cerberus and subsequently used for experimentation. Randall Ezno encounters them on the Barn space station during his escape.
+
+Tactics[]
+They possess a weak layer of shielding over their health, which will regenerate over time.
+The prisoners equipped with M-22 Eviscerator shotguns are particularly dangerous at close range.
+They will take cover during combat to protect themselves, though they tend to spend a lot of time there, allowing you to counter them. Using Pull will quickly flush them out.
+Like with other humanoid enemies, their heads act as a weak spot, and shots landing there inflict bonus damage.
+
+
+Mass Effect Infiltrator Enemies
+
+
+Cerberus personnel
+
+Assault Trooper • Assault Captain • Centurion • Engineer • Riot Trooper • Trooper • Sniper
+
+
+Synthetic
+
+Geth Trooper • Geth Juggernaut • Grad Turret • Ogre Mech • Orcus Mech
+
+
+Other
+
+Asari Prisoner • Krogan Prisoner • Inali Renata • Turian • Turian Trooper • Turian Sniper • X1
+
+
+
+
+

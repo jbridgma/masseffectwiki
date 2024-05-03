@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Support Systems is a passive Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Repair Systems
+
+
+
+-
+
++25% Shield Regeneration
++25% Health Regeneration
++25% Health & Shield Regeneration Delay Reduction
+
+
+
+2
+
+Defense Systems
+
+
+
+-
+
++20% Max Health
++20% Max Shields
++15% Tech Construct Health
+
+
+
+3
+
+Melee
+
+
+
+-
+
++30% Melee Damage
+
+
+4
+
+Tech Duration
+
+
+
+-
+
++30% to all Power Effect Durations
+
+
+4
+
+Tech Radius
+
+
+
+-
+
++25% Power Area of Effect Radius
++25% Tech Construct Area of Effect Radiuses
+
+
+
+5
+
+Advanced Construction
+
+
+
+-
+
++20% Max Health
++20% Max Shields
++30% Tech Construct Health
+
+
+
+5
+
+Tactical Revive
+
+
+
+Provides Damage Resistance while reviving an ally, and for 5s afterwards. Fully restores shields upon revival. Bonuses apply to you and the revived ally.
+
+Damage Resistance During Revive: 120
+Damage Resistance after Revive: 120
+
+
+
+6
+
+Shield Reset
+
+
+
+Once every 10s, using a tech power causes shields to recharge immediately rather than after the standard delay.
+
+-
+
+
+6
+
+Tech Sabotage
+
+
+
+Hitting enemies with powers causes them to temporarily deal less damage.
+
+Damage Debuff: 30%
+Damage Debuff Duration: 8
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Human Engineer, Salarian Architect, Salarian Infiltrator, Salarian Operator, Turian Agent
+
+
+

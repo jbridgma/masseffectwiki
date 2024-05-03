@@ -1,0 +1,299 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Barricade is a Combat skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Player Notes
+4 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Barricade
+
+
+
+Deploys a temporary energy barricade that will boost shield regeneration for everyone who takes cover behind it. Upgraded versions provide additional combat bonuses for allies.
+Activation requires one power cell from Barricade's limited power cell supply.
+
+
+Duration (s): 13
+Power Cell Capacity: 2
+Regeneration Delay Reduction: 40% 
+
+
+
+2
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+3
+
+Duration
+
+
+
+-
+
++25% Duration
+
+
+4
+
+Duration
+
+
+
+-
+
++40% Duration
+
+
+4
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+5
+
+Weapon Feedback
+
+
+
+Increases weapon damage and accuracy by 15% for allies (including the user) behind the barricade.
+
+-
+
+
+5
+
+Power Feedback
+
+
+
+Increases power damage and force by 20% for all allies (including the user) behind the barricade.
+
+-
+
+
+6
+
+Regeneration
+
+
+
+Negates broken shield regeneration delay for allies (including the user) behind the barricade
+
+-
+
+
+6
+
+Electric Defense
+
+
+
+     The barricade electrocutes nearby enemies with a chance to stun them. Especially damaging to shields and synthetic foes. Affected enemies are primed for combo detonations.
+
+Damage per Second: 125
+Shield Damage Bonus: 100%
+Synthetic Damage Bonus: 15% 
+
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Barricade
+
+
+
+Deploys a temporary energy barricade that will boost shield regeneration for everyone who takes cover behind it. Upgraded versions provide additional combat bonuses for allies.
+Activation requires one power cell from Barricade's limited power cell supply.
+
+
+Duration (s): 13
+Power Cell Capacity: 2
+Regeneration Delay Reduction: 40% 
+
+
+
+2
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+3
+
+Duration
+
+
+
+-
+
++25% Duration
+
+
+4
+
+Duration
+
+
+
+-
+
++35% Duration
+
+
+4
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+5
+
+Weapon Feedback
+
+
+
+Increases weapon damage and accuracy by 15% for allies (including the user) behind the barricade.
+
+-
+
+
+5
+
+Power Feedback
+
+
+
+Increases power damage and force by 30% for all allies (including the user) behind the barricade.
+
+-
+
+
+6
+
+Regeneration
+
+
+
+Greatly reduces shield regeneration delay for all allies (including the user) behind the barricade.
+
+-
+
+
+6
+
+Electric Defense
+
+
+
+     The barricade electrocutes nearby enemies with a chance to stun them. Especially damaging to shields and synthetic foes. Affected enemies are primed for combo detonations.
+
+Damage per Second: 125
+Shield Damage Bonus: 100%
+Synthetic Damage Bonus: 15% 
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: Pathfinder Ryder - Starting Combat Skill
+Multiplayer: Angara Exemplar, Human Sentinel, Salarian Architect
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

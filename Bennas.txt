@@ -1,0 +1,54 @@
+
+
+
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate the smoke
+2.2 Defeat the kett
+2.3 Speak with the survivors
+2.4 Defeat the kett
+
+
+3 Rewards
+4 Enemies
+5 Trivia
+
+
+Acquisition[]
+Prerequisite: A Trail of Hope II
+
+This mission is available once access to Voeld is granted as part of the given mission above. 
+Head west-northwest from Techiix into a deep valley. Heavy smoke will be rising into the sky; proceed to that location. When Ryder (or a squadmate) is alerted to the smoke, the mission starts automatically.
+Note:  This mission is not listed in the journal.
+
+Walkthrough[]
+Investigate the smoke[]
+When getting close to the smoke, you'll see a crashed ship, and some angara are fighting against kett. If you have Jaal Ama Darav with you, the angara named Bennas recognizes him and invites him to the skirmish.
+
+Defeat the kett[]
+Help the angara take out the kett. Enemy composition is an Anointed and two Chosen, plus three more Chosen by the barricades a few meters to the south. The crashed ship has a solar heater for whenever you need to get warm, as well as ammo and health supply caches for refills.
+As with most NPC helpers, they deal negligible damage and cannot die from enemy fire, so you can safely ignore their wellbeing.
+
+Speak with the survivors[]
+The group of angara has only one guy to speak on their behalf, Bennas. She explains that they're with the Resistance. They set up the smoke to attract kett so that they could kill them as revenge for what they have done to angaran civilians. You can either agree it's a good idea, or warn of consequences.
+Kett reinforcements arrive shortly and land closely on the north and south, surrounding your group.
+
+Defeat the kett[]
+The fight is a bit harder, as there are two dropships' worth of reinforcements. Enemy composition has Chosen and Anointed again in greater numbers.
+When all enemies are eliminated, the mission is completed. You can talk to Bennas again, and depending on what you thought about their little operation slightly adjusts her attitude. If you agreed with their deeds, she proclaims you've probably got the last of the marauders and the people of Voeld will never fall prey to them again. She invites you to loot the fallen before you go. If you disagreed, she admits it's underhanded but necessary. She then sends you off coldly compared to the other choice.
+
+Rewards[]
++29 AVP 
++2% Voeld viability
+Enemies[]
+Anointed
+Chosen
+Trivia[]
+According to the Mass Effect: Andromeda Official Prima Guide, this mission is classified as a Heleus Assignment even if it does not appear in the journal. However, it has no map markers, and no other source of pre-mission intro text.
+
+
+

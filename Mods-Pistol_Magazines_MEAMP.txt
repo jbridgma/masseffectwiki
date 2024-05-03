@@ -1,0 +1,120 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - Pistol Magazine: Increases magazine capacity, allowing more shots before reloading.
+Enhanced - Pistol Heavy Magazine: Substantially increases clip size, but at the cost of increased weight.
+Enhanced - Pistol Light Magazine: Substantially increases clip size, but at the cost of reload speed.
+Note:  Pistol reload speed is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Pistol Magazine
+
++37%
+
++43%
+
++47%
+
++50%
+
++54%
+
++57%
+
++60%
+
++64%
+
++67%
+
++71%
+
+Pistol Clip Size
+
+
+Pistol Heavy Magazine
+
++54%+3%
+
++61%+3%
+
++68%+4%
+
++74%+5%
+
++81%+6%
+
++88%+7%
+
++95%+8%
+
++101%+8%
+
++108%+9%
+
++115%+10%
+
+Pistol Clip SizePistol Weight
+
+
+Pistol Light Magazine
+
++54%-3%
+
++61%-3%
+
++68%-4%
+
++74%-5%
+
++81%-6%
+
++88%-7%
+
++95%-8%
+
++101%-8%
+
++108%-9%
+
++115%-10%
+
+Pistol Clip SizePistol Reload Speed
+
+
+Equipping a Pistol Magazine Mod changes the color of parts of the weapon to a dull red depending upon the specific weapon.
+
+
+
+

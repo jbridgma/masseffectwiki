@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Krogan Warrior is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Drack has centuries of experience and pure krogan instinct to help improve his offensive capabilities.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Weapon Training
+
+
+
+-
+
++15% Shotgun Damage
++15% Shotgun Force
+
+
+
+2
+
+Overpower
+
+
+
+-
+
++15% Power Damage
++15% Power Force
+
+
+
+3
+
+Precision
+
+
+
+-
+
++15% Shotgun Accuracy
++15% Shotgun Pellet Spread Reduction
++30% to all Power Effect Durations
+
+
+
+4
+
+Explosive
+
+
+
+-
+
++25% Power Damage
++25% Power Force
+
+
+
+4
+
+Tempered
+
+
+
+-
+
++25% All Power Recharge Speeds
+
+
+5
+
+Engineer
+
+
+
+-
+
++15% Power Damage
++15% Power Force
++15% Power Area of Effect Radius
+
+
+
+5
+
+Veteran
+
+
+
+-
+
+Bonus Damage vs. Armor: 25%
++15% Shotgun Damage
++15% Shotgun Force
+
+
+
+6
+
+Incendiary Ammo†
+
+
+
+     Drack's shotgun now uses incendiary ammo, dealing more damage. Affected enemies are primed for combo detonations.
+
++10% Shotgun Damage
+
+
+6
+
+Retaliation†
+
+
+
+Drack fires his shotgun faster and deals extra damage when at low health.
+
+Health Threshold: 25%
+Damage Bonus At Low Health: 25%
++25% Weapon Rate of Fire
+
+
+Note: †Rank 6 is unavailable to Drack until his loyalty mission Nakmor Drack: A Future for our People is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-Player: Nakmor Drack - Starting Combat Skill
+Multiplayer: N/A
+
+
+

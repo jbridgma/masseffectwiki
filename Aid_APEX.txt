@@ -1,0 +1,47 @@
+
+
+
+
+Lieutenant Sajax needs assistance getting APEX up and running effectively.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Assist at the APEX terminal
+2.2 Gather intel on enemies
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+After the prerequisite's completion, you need to talk to Lieutenant Sajax in the militia office to get this to show in the journal.
+
+Walkthrough[]
+Assist at the APEX terminal[]
+Speak with Sajax in the Militia Office on the Nexus.
+
+Gather intel on enemies[]
+You'll have to scan 20 enemies encountered on travels throughout the Heleus Cluster.
+
+Hostile local wildlife doesn't count towards this total. Wildlife that is scanned counts towards Task: Comparatively Alien.
+Enemies that can be scanned are NOT marked.
+Enemies don't need to be alive to count, as long as the body hasn't disappeared.
+Enemies already scanned prior to being given the assignment automatically count toward the total, so it is possible to instantly complete the mission if you wait long enough before acquiring the mission.
+50 Research Data (RD) is awarded for each unique enemy scanned (depending upon the enemy type).
+ - Milky Way enemies such as the Raider.
+ - Heleus enemies such as the Chosen.
+ - Remnant enemies such as the Destroyer.
+Each unique enemy will only award RD the first time the enemy is scanned.
+Note: After scanning 20 enemies to complete this mission, scanning further enemies will continue to award 50 RD per new unique enemy scanned until all unique enemies have been scanned.
+
+Rewards[]
++530 XP
++29 AVP 
+
+
+

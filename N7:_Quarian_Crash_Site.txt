@@ -1,0 +1,131 @@
+
+
+
+
+A distress signal from a shipwreck on planet Gei Hinnom (Sheol System, Hades Nexus) matches known quarian signatures. The distress signal was categorized as "extremely urgent."
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Pilot's Log
+3.2 E-Mail
+
+
+4 Bugs
+5 Trivia
+6 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Star Chart from Baria Frontiers store or Project Firewalker: Volcano Station and Horizon (mission)
+
+Scanning the planet will reveal this broadcast:
+
+
+“Repeat: This is Lieutenant Forzan vas Idenna, pilot of the scout ship Cyniad. Request immediate assistance and-- STATIC”
+
+
+
+Launching a probe at the anomaly will yield the following text:
+
+
+“Surface scans show evidence of a shipwreck meeting quarian design specifications. Identity of ship unknown. Number of life signs detected in vicinity: uncertain. Local wildlife may interfere with accuracy of biological scan.”
+
+
+Preparation[]
+You will be facing only varren on this mission, but a lot of them, and in a situation where you must defend an extremely weak quarian. Factors you should weigh when choosing squadmates and powers include the ability to deal damage quickly to organic targets and, on higher difficulty levels, the ability to strip armor; the ability to disable enemies often and for long durations is also useful. Incinerate and Reave work well in this regard, Reave in particular as it lands instantly and won't curve around and miss fast-moving varren. Both powers stun unarmored varren, and they also have area-of-effect evolutions that are useful for a last-ditch defense around the quarian. Combat Drone is ineffective against varren as neither its attacks or the explosions of Explosive Drone seem to stun them, and varren are also quite single-minded (especially in this mission) and won't be distracted by drones. 
+Ammo powers effective against armor, i.e. Armor-Piercing Ammo, Incendiary Ammo, or Warp Ammo, should also be considered. Cryo Ammo, if available, can also be very handy, especially if squad-evolved and activated on weapons such as the M-96 Mattock that apply the freezing effect consistently, but keep in mind that freezing effects take a few seconds to totally disable enemies during which time they can still attack. 
+In terms of weapon choice, you may wish to equip Shepard with a high-powered shotgun such as the M-300 Claymore or the Geth Plasma Shotgun as they can one-shot varren on most difficulties with the appropriate ammo power. A heavy pistol with an anti-armor ammo power that does enough damage to one-shot the armor of the varren is useful on higher difficulties as this can be followed up with a fast recharging disable such as Slam or Throw. Slam is a particularly useful bonus power for this assignment as it is instant and can't miss, and if evolved into Crippling Slam can knock out a varren for quite some time. 
+Squadmates with high level Pull are effective here. Somewhat counter-intuitively, Grunt is not that effective, as his tendency to melee charge at enemies in close proximity can backfire as he'll often miss varren that are rushing by on their way to the quarian, and he's not shooting his gun while doing this. If he has his Fortification power, he'll also activate it often, meaning he won't be able to use his Concussive Shot.  Thane can do the highest weapon damage of any squadmate to organic targets with the right power and weapon choices, plus he has Throw for disabling. Samara and Jack both have many useful powers, good weapons, and additionally, their class passive powers grant them faster recharge times than most squadmates.  
+If you want to bust out the big guns as a last resort, the most effective option is the Arc Projector as the chaining effect of the shots won't miss and will immediately stop all targets in their tracks, armored or not. Certain heavy weapons should be avoided as they can kill the injured quarian. 
+
+Walkthrough[]
+
+Upon landing, it is clear that the quarian survivors have been attacked by an endemic predator. The journal updates and tells you to search for any survivor of the crash that is still alive. Before moving on to the next area, you can search the containers of the camp for palladium (+2,000 palladium) and a med-kit, and read logs from a computer. Follow the blood trail out of the camp to find an injured quarian female in need of stabilizing. You won't have to fight anything until after stabilizing her, so make any preparations you want first before doing so.
+This battle is short but very sharp, and there will be a lot of targets coming from multiple directions at once towards the end.  Varren don't drop thermal clips and there are none in the area, so avoid using weapons with low extra ammo reserves like the M-15 Vindicator or you'll be running dry at the worst possible time. You will need to hold on and defend the quarian against the varren attacks until your shuttle arrives.   
+
+
+The varren have the tendency to ignore you and head straight for the quarian survivor, so make sure to shoot or disable the ones closest to her, as she has limited health. Enemies will come from all directions, even behind the rock wall next to the survivor. Each time a varren appears in the area it will make a distinctive growl, and listening carefully can alert you to the direction it's coming from even before you can see it in some cases. You can use the explosive containment units littered across the ground to repel some of the varren. The containers can be a double-edged sword however, as the damage they deal on higher difficulties isn't as useful, they can interfere with the targeting of powers, and they cause friendly-fire damage, so consider destroying them all before even starting the fight, but this is personal preference.  There is also some cover provided, though using it does more harm than good, as it adds additional delay when firing and varren don't use firearms anyway. The cover is also located quite far from the quarian.
+The straightforward strategy of bringing your entire group a bit forward of the quarian such that any varren have to pass through your combined and concentrated firepower works well. Another strategy involves placing your squad members at each of the first two holes on the right. You take care of the varren from the two left holes with your weapon of choice until all the varren are killed.
+An effective if expensive strategy for defeating the varren is to park your companions on top of the quarian survivor, step off to the side toward the original camp, and use a heavy weapon like the Collector Particle Beam to vaporize attackers.
+On higher difficulty levels where the varren possess armor, it's generally better to rely on weapon damage to strip the armor and save abilities to then disable the varren quickly to prevent them from getting to the quarian. This is because most disabling abilities such as Pull and Throw have a much faster recharge time than damage abilities such as Warp, especially on squadmates.
+After defeating about twenty varren, the shuttle will finally land in the area for evac. In the unlikely event any of your squadmates went down they will revive at this point. You can finish the assignment as soon as the shuttle lands by running up to it and pressing the action button, or you can wait and finish off the remaining varren (there is a finite number of them). If you finish the mission while there are varren remaining, they may interfere with the final animation sequence, which includes a nice display of Shepard's unarmed combat skills.
+
+Pilot's Log[]
+Lt. Forzan vas Idenna recorded several logs while on the planet.
+
+
+
+
+
+Commence Pilot's Record
+
+We managed to escape the geth's notice thanks to some clever work in silencing Cyniad's engines, but the strain on the old ship was too much. The best we can hope for is to find a friendly spot somewhere in the Sheol system. Our reports show that that isn't extremely likely.
+
+
+We were nervous scouting this close to the Perseus Veil, and we were right to be. At this point, I'm afraid we might never see the Fleet again. With everything the Cyniad has been through, it seems like an ignoble end.
+
+
+
+
+
+
+
+The First Few Hours
+
+The landing was rough, be we managed to salvage from the wreckage the things we'd need to survive. Unfortunately, Lieutenant Commander Gorlat didn't make it, leaving me the senior officer in charge.
+
+
+We've scouted the landscape and found the planet to be extremely hostile. We don't dare remove our environment suits here. We're all hoping to be rescued before there's any danger of exposure.
+
+
+
+
+
+
+
+Missing Survivors
+
+I don't know who or what is taking them, but we've now lost more than half the crew who survived the crash. We hoped to build a camp here, to survive until the Idenna found our beacon. But something is hunting us.
+
+
+I have to keep the crew together the best I can. We will send out a search party when the day comes. I will find my crew, and we will do whatever it takes to return to the Idenna.
+
+
+E-Mail[]
+Commander Shepard will receive the following e-mail, from Captain Ysin'Mal vas Idenna, after completing this assignment:
+The Cyniad -- Thank You
+
+
+
+
+From: Captain Ysin'Mal vas Idenna
+
+Commander Shepard:
+
+Please accept my sincere appreciation for your efforts in locating the wreckage of the Cyniad. That ship has a storied history with both the Migrant Fleet and Cerberus, and we are pleased to know that her wreckage can be salvaged by my people.
+
+
+In finding and stabilizing Lieutenant Forzan, you have returned to the flotilla one of her newest and most honored heroes. Your efforts in furthering the quarian search for a new homeworld will be remembered.
+
+
+Bugs[]
+On all difficulty levels, the quarian can be killed by certain heavy weapons and powers, causing an immediate Critical Mission Failure. Powers that can kill the quarian include Flashbang Grenade and Inferno Grenade.  The M-920 Cain, M-490 Blackstorm, ML-77 Missile Launcher, and M-100 Grenade Launcher can also kill her. This may not be an exhaustive list.
+Trivia[]
+As with Sinmara, another planet with an associated assignment, there is inconsistency between the planet description and the actual surface: Gei Hinnom is described as "tidally locked" and "almost atmosphereless", but upon landing, it appears to be a lush garden world.
+The quarian ships Idenna and Cyniad play major roles in the novel Mass Effect: Ascension.
+Mission Summary[]
+Found and extracted quarian survivor.
+Notified Idenna of Cyniad scout ship location.
+
+Experience reward: 125 (156)
+Credits: 7,500
+Cerberus Funding: 7,500
+Minerals:
+Palladium: 2,000
+
+
+

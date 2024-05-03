@@ -1,0 +1,216 @@
+
+
+
+An asari journalist, Keri T'Vessa, wants to interview you for her documentary about current events. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Meet Keri
+2.2 Speak with Keri about events on Eos
+2.3 Speak with Keri about the angara
+2.4 Speak With Keri About Kadara
+2.5 Speak With Keri's Producer
+2.6 Find Keri In The Militia Cells
+2.7 Find Keri in her apartment
+2.8 Speak With Keri About The Remnant City
+2.9 Speak With Keri About Meridian
+2.10 Meet With Keri At the Vortex (Optional Romance)
+
+
+3 Rewards
+
+
+Acquisition[]
+Acquired by accessing and acknowledging the email message from Keri while on board the Tempest. This can be done any time after starting A Better Beginning.
+
+
+
+
+
+Interviews
+To: Ryder
+From: Keri T'Vessa
+
+Hello Pathfinder,
+
+I'm a freelance vidmaker, and I could really use your help with my latest project. It's going to be historic, I hope just like your mission.
+
+Can we meet on the Nexus for a chat? I can explain better in person.
+
+
+Keri T'Vessa
+
+
+
+Warning:  It is possible to fail this task by putting off talking to Keri for too long.
+
+Walkthrough[]
+This task plays out over the course of the game, usually after significant events.
+
+Meet Keri[]
+If you return to the Nexus before establishing Prodromos, Keri will approach you just after exiting the Tempest docking bay. Otherwise, she can be found outside Pathfinder HQ after completing A Better Beginning. Speak to her. Pathfinder Ryder has the option to begin romancing the journalist, but a relationship with her will not affect other relationships.
+Jarun Tann has asked Keri to produce an uplifting documentary on the Initiative's progress, even if it means bending the truth. Keri, however, believes that people would benefit more from hearing the facts, no matter how daunting. Most choices will amount to either siding with, or against, the Nexus leadership. It is up to Ryder to decide which version reaches the public.
+Keri's first question pertains to the numerous problems the Initiative has encountered in its first fourteen months, which the Nexus leaders claim to have anticipated. Appeal to viewers to give them more time and understanding, or say that their past efforts have not been good enough. A positive answer here will please Director Tann who will make a donation which Ryder will receive on the next Keri interview.
+
+Speak with Keri about events on Eos[]
+An email will arrive after Prodromos is established:
+
+
+
+
+Free for an interview?
+To: Ryder
+From: Keri T'Vessa
+
+Hello, Ryder,
+
+Word is: you had a successful mission on Eos. Well done! Want to come talk about it on camera?
+
+
+Keri
+
+
+
+If Ryder has already done one interview with Keri she can be found nearby Foster Addison in Operations. She asks a few simple questions about what Ryder feels are the chances of Prodromos' viability on Eos and how they spend their time in between missions. Ryder may also receive a small monetary gift if answers to the previous interview were favorable for the Andromeda Initiative (+200 ). When the conversation is over, Ryder receives +50 XP.
+
+Speak with Keri about the angara[]
+Once A Trail of Hope I has been completed, Ryder will receive an email from Keri asking for another interview.
+
+
+
+
+
+Can we talk? (on camera)
+To: Ryder
+From: Keri T'Vessa
+
+Hello, Ryder,
+
+The things I'm hearing: a garden world? A whole new species? If you can talk on the record, you know where to find me!
+
+
+Keri
+
+
+
+Keri is near Vetra Nyx on the Nexus, essentially right in front as Ryder enters. She asks about the angara, but specifically wants to know about Aya and if the Initiative should be sending colonists there. Ryder receives +50 XP.
+
+Speak With Keri About Kadara[]
+When Ryder returns to the Tempest after visiting Kadara Port, there is an e-mail from Keri titled Another interview?. Acknowledge it to get the next objective. 
+
+
+
+
+
+Another interview?
+To: Ryder
+From: Keri T'Vessa
+
+Hello, Ryder,
+
+They're saying you just got back from Kadara Port. There isn't much "official" word from there, or the exiles. Can you give me a few on-camera details?
+
+
+Keri
+
+
+Go to the navpoint for the interview. Keri asks about the exiles on Kadara; Ryder can either say that they're still dangerous, or say that they have as many problems as the Initiative. Keri has to cut the interview short, and the mission is put on hold. When the conversation is over, Ryder receives +50 XP.
+
+Speak With Keri's Producer[]
+After the completion of Hunting the Archon, there is an email from Keri's producer Hakim Barakat titled "Keri's in Trouble" asking Ryder to come and talk with him on the Nexus. Acknowledge the email to start this objective.
+
+
+
+
+
+Keri's In Trouble
+To: Ryder
+From: Hakim Barakat
+
+Ryder - I'm Keri's producer for the documentary. Something's happened. Come by when you're on the Nexus next. We should talk.
+
+
+Hakim
+
+
+
+If Ryder chose "truths" Hakim says Keri has been arrested for "conspiracy to incite unrest", otherwise she is hiding in her apartment, Hakim says she was "making the initiative sound too good" and that some colonists blamed her when they experienced danger, he then asks you to talk to her. He hopes the Pathfinder will be able to help Keri. When the conversation is over Ryder receives +50 XP.
+
+Find Keri In The Militia Cells[]
+Keri says there were other people in the cells too, rioters, and left it because her truths scared them. When the conversation is over, Ryder receives +100 XP.
+Warning:  If Ryder runs away and then talks again to her in the cells there is an endless loading screen bug with ambient sound present.
+
+Find Keri in her apartment[]
+Keri says she is hiding in her apartment because she was mobbed by colonists and had a bottle thrown at her. When the conversation is over, Ryder receives +100 XP.
+
+Speak With Keri About The Remnant City[]
+After the Remnant City is discovered, Ryder will receive an email:
+
+
+
+
+I'm free!
+To: Ryder
+From: Keri T'Vessa
+
+Hello, Ryder,
+
+I'm out! Your visit must have shaken things up, hmm? Come on by the Nexus and I'll tell you everything - if you tell me all about that Remnant city you found! It'll be nice to see you without bars between us.
+
+
+Keri
+
+
+Ryder receives +50 XP.
+
+Speak With Keri About Meridian[]
+After the events of Epilogue: Home and Away, Ryder can acknowledge an email from Keri, titled "You and Meridian". 
+If she was romanced:
+
+
+
+
+You and Meridian
+To: Ryder
+From: Keri T'Vessa
+
+Ryder,
+
+Are you all right? The reports from Meridian are a little... no, they're terrifying.
+
+Please, can you drop by the Nexus? I just want to see you're okay.
+
+
+Love, Keri
+
+
+If she wasn't romanced:
+
+
+
+
+You and Meridian
+To: Ryder
+From: Keri T'Vessa
+
+Hello, Ryder,
+
+Historic doesn't even begin to cover it! Meridian will have entire textbooks to itself! Any interview footage you can give me before things turn upside down again?
+
+
+Keri
+
+
+If Ryder wants to talk to her, head back on the Nexus, where Ryder will find her by the railing outside the Nexus apartments. If Ryder has romanced her during the adventures of the game, she will be relieved to hear that Ryder is alive and well, and the two dialogue options will hint at a hopeful future between the two of you if Ryder romanced her earlier. (Despite this, however, Ryder will be unable to interact with Keri again after completing this task.)
+Ryder receives +50 XP and +29 AVP .
+
+Meet With Keri At the Vortex (Optional Romance)[]
+If Ryder romanced with Keri during the course of the game, then this will become an option for Ryder at certain times, requiring Ryder to have completed at least 3 of the romance dialogue prompts. The timing of this appears to vary; sometimes it occurs after talking to her about Kadara, sometimes it may not trigger until after she is released from jail. In any case, when this step appears, Ryder can meet with her in The Vortex and talk with her a bit, and she will eventually invite Ryder to her apartment. A short fade-in/fade-out cut will take Ryder outside the Nexus apartments. Despite dialogue suggesting otherwise, this is a one-time fling that does not impact any romances or other relationships Ryder may be pursuing.
+
+Rewards[]
+None
+
+
+

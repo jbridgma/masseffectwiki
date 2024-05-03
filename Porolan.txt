@@ -1,0 +1,68 @@
+
+
+
+
+
+Porolan
+
+Region
+Milky Way / Artemis Tau / Macedon
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+5.075 AU
+
+
+Orbital Period
+21.0 Earth Years
+
+
+Keplerian Ratio
+0.296
+
+
+Radius
+9,749 km
+
+
+Day Length
+45.4 Earth Hours
+
+
+Atm. Pressure
+1.4 atm
+
+
+Surface Temp
+−197 °C 
+
+
+Surface Gravity
+1.5 g
+
+
+Mass
+3.479 Earth Masses
+
+
+Location: Milky Way / Artemis Tau / Macedon System /  Second planet
+
+Description[]
+Porolan is an enormous terrestrial planet, half again the size of Earth. Despite its thick atmopshere, the weak output of the red dwarf Macedon leaves its surface biting cold. The crust is mainly composed of silica, but significant deposits of iron and other industrial metals are present. These lodes may prove rich enough to be profitably mined despite the heavy gravity.
+
+Survey Text[]
+
+“You were scanning the planet Porolan when a strange signal came from orbit. Navigator Pressly determined the signal was from an ancient beacon. Your salvage team brought the beacon aboard and found one of Matriarch Dilinaga's writings in its storage compartment.”
+
+
+Assignments[]
+Collection: UNC: Asari Writings: Matriarch's Writings ×1
+
+
+

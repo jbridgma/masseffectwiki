@@ -1,0 +1,138 @@
+
+
+
+The following are the messages relayed by Forward Stations on Kadara.
+
+Terminals[]
+
+
+
+Forward Station Protocol Engaged
+—Contact—
+Preset Viability Metrics: MISMATCH
+
+Habitat 4, dubbed Kadara, does not match Initiative preflight profiles. Advance predictives are no longer applicable. Parameters require 88% rework.
+
+—KNOWN—
+Habitat 4: Kadara
+Discovered: Attr. Ayako Makoto (AI Exo-geology)
+Orbital data onboard.
+Spectrographic profiles: WORKING…
+Geo-Sounding: WORKING…
+ALERT: Sulfide levels in water are extremely high. Until water is potable, outpost deployment not advised.
+
+—More data needed—
+Additional forward station coordination required.
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Multiple-Deployment Coordination
+—Forward Station Network established—
+Initiating geochemical analysis.
+
+—KNOWN—
+Planet name: KADARA (Origin: Angaran) Climate: Mild
+Toxicity of water found planet-wide.
+Biosphere manipulation suspected.
+Scourge radiation fallout: negligible.
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Synergy Achieved
+—Kadara Sensor Coverage Complete—
+Nexus dispatch found.
+Presenting…
+—KNOWN—
+To: Pathfinder Team
+From: Jarun Tann, Director of the Andromeda Initiative
+RE: Kadara (Habitat 4)
+
+I can't say I'm happy the exiles found a planet in better shape than most we've seen. Tread carefully with Sloane. To say she's impulsive is an understatement.
+
+Synchronicity achieved
+Kadara sensor coverage complete
+Viability index updated
+
+—MONITORING—
+
+
+
+
+
+
+
+
+
+Triangulation Achieved
+—Forward Station Network expanded—
+Angaran Resistance network located.
+Requesting access… Access granted. Geography and demography updated.
+
+—KNOWN—
+Political Geography (Updated)
+
+Major population centers: Kadara Port
+Known contingents: Outcasts, Collective
+Establishments within range : Charybdis Point, Tartarus, Daar Logyr
+
+Notes from Vetra's Contact.
+Displaying…
+
+"Biggest danger on Kadara isn't mother nature—it's the people. After the uprising, a lot of folks went psycho. Sloane keeps the cream of the crop (using the term lightly) up at port, but banishes the rest. The badlands are basically a prison, with mountains for walls and no cells."
+
+—More data needed—
+Additional forward station coordination required.
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Triangulation Failed
+—Forward Station Network expanded—
+Kadara Port network located.
+Requesting access… Access denied.
+Unable to update geography and demography.
+
+—KNOWN—
+To: Vetra Nyx
+From: Suvi Anwar
+
+Initial request for geographical data from the exiles was denied. Any "back doors" would be appreciated.
+
+Will repay with dextro-chocolate bars!
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+

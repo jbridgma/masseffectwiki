@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Recon Visor is a passive Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+Activate an augmented reality display that highlights nearby enemies regardless of walls or cover. This also allows projectile-based weapons to penetrate through cover.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Recon Visor
+
+
+
+Activate an augmented reality display that highlights nearby enemies regardless of walls or cover. This also allows projectile-based weapons to penetrate through cover.
+
+Enhanced Vision Range (m): 25
+Penetration Range (m): 2.3
+Penetration Damage: 60%
+Duration (s): 12
+Recharge Time (s): 12
+
+
+
+2
+
+Range
+
+
+
+-
+
++40% Enhanced Vision Range
+
+
+3
+
+Damage
+
+
+
+-
+
++25% Penetration Damage
+
+
+4
+
+Recharge Speed
+
+
+
+-
+
++30% Recharge Speed
+
+
+4
+
+Accuracy and Stability
+
+
+
+-
+
+Gun Accuracy Bonus: 30%
+Gun Stability Bonus: 30%
+
+
+
+5
+
+Augmented Range
+
+
+
+-
+
++50% Enhanced Vision Range
+
+
+5
+
+Duration
+
+
+
+-
+
++50% Duration
+
+
+6
+
+Extend Duration
+
+
+
+Each kill will extend the duration of Recon Visor.
+
+Duration (s): 1
+
+
+6
+
+Shatter Armor
+
+
+
+After being shot, armored enemies will temporarily receive more damage from all sources.
+
+Armor Defense Weakening: 25%
+Armor Weakening Duration (s): 10
+
+
+Player Notes[]
+Mechanics
+The Recon Visor tags enemies in a similar manner to the marker highlighting the last 3 enemies in a wave wherever they are. If it is active in that instance, the skill's bonuses only work if the unit is in range, not if the enemy is still on the far side of the map.
+Recon Visor's range modifiers are additive (+40% Rank 2 Range and +50% Rank 5 Augmented Range). From 25 meters base, unlocking both yields a maximum of 48 meters (47.5 meters rounded up), or good enough for sniper rifles.
+The skill only has one penetration damage modifier (+25% Rank 3 Damage). From a base of 60% the maximum is 85%.
+Recharge speed and duration max out at 8 seconds and 18 seconds respectively, from 12 seconds base value for both.
+Strategies
+Recon Visor requires projectile weapon loadouts for maximal synergy and shooting targets even behind (reasonably thin) walls. Energy gun users can still take advantage of the skill's x-ray display to learn where their targets are going and to promptly anticipate and shoot them there.
+Weapons that fire bouncing projectiles like the Scorpion and the M-37 Falcon can't use Receiver Mods, and by extension also don't benefit from the skill's penetration damage buff.
+Rank 6 Extend Duration is useful when there are clumps of low-health easily-killable enemies in one place. That one second extension per kill, however, may not be enough if the units are quickly roaming around.
+In ideal battlefield conditions, there should be enough enemies to extend Recon Visor until at least the end of the wave. However, dispatching one takes time especially in higher difficulties, and factor in the walking around to hunt more enemies this means Recon Visor will always run out even with extensions in practical settings.
+Rank 6 Shatter Armor earns its keep against Hydras, Fiends, and unshielded Destroyers.
+Availability[]
+Single-player: N/A
+Multiplayer: Turian Agent
+
+
+

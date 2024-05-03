@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+Rachni Soldier
+
+
+
+
+Race
+Rachni
+
+
+Type
+Organic
+
+
+Armament
+None
+
+
+Abilities
+ Acid Spit
+
+
+Health
+Moderate
+
+
+Locations
+Noveria, Altahe, Binthu, Nepmos
+
+
+Rachni Soldiers are slower but much larger creatures than Rachni Workers, with thin tentacles ending in little pods. These rachni use their bodies as weapons, spitting acid that can cause heavy toxic damage on par with the damage of a sniper round. Their tentacles are capable of impaling close victims. Rachni Soldiers are cunning and like to ambush their enemies, and are most at home in vents and tunnels.
+
+Tactics[]
+Because their attacks bypass shields, armor upgrades that increase damage protection are an excellent choice. Heavy armor and the Immunity power are also invaluable tools for resisting their up-front damage. The acid spit attacks, in addition to significant physical damage, also deal high toxic damage, but toxic damage does not directly reduce friendly health bars, it only interferes with the ability to recover health lost to other damage sources.
+The best way to handle the toxic damage is to deal with a group of rachni, and then after the battle, equip Medical Exoskeletons on all damaged and poisoned party members. This requires some patience, but eventually the green toxic damage indicator will wear off from the continuous regeneration plus toxin resistance provided by the armor upgrades, and you are free to use First Aid if needed to fully restore health.
+If Shepard is a Medic with the First Aid specialization, medical upgrades or toxin resistance are largely redundant for defensive purposes as long as you have ample medi-gel supplies; you can freely use medi-gel effectively even during active combat with the rachni.
+Biotic abilities are effective in disabling Rachni Soldiers: knock them on their bellies for a few seconds to give yourself some breathing room and a chance to deal damage to them with impunity. Singularity in particular works wonders against groups of Soldiers.
+Since Rachni Soldiers are strong in melee, especially when massed, it may be better to engage them at range. If possible, don't wait around in cover too long when fighting them, as they tend to quickly close to melee range.
+Some Rachni Soldiers can be encountered while you are in the Mako. Killing them from the Mako is easy even if they are in groups: shoot the main cannon in the middle of them, which should knock them down, and then use the machine gun to take them out. Note that their acid spit causes direct hull damage to the Mako, so stay on the move if possible.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

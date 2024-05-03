@@ -1,0 +1,108 @@
+
+
+
+
+
+Nullifier
+
+ 
+
+
+
+
+
+
+
+Faction
+Remnant
+
+
+Weapons / Attacks
+Energy ProjectilesMelee
+
+
+Abilities
+–
+
+
+Armor
+High
+
+
+Shields
+–
+
+
+Weak Points
+Ribbon cabling between legs
+
+
+The Nullifier is a Remnant unit. It fulfills the role of artillery support, forcibly flushing out enemies in cover lest they suffer its highly destructive main weapon.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Remnant Nullifier
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+The Nullifier anchors into the ground and launches energy projectiles that pass through solid objects. While anchored, the Nullifier is difficult to damage.
+
+
+Description[]
+This Remnant model appears to have been designed for excavation. If provoked, it enters a "siege mode," where it anchors itself to the ground and launches explosive projectiles at a target. In this mode, this Remnant constantly runs a self-repair cycle, reducing damage from incoming fire. Peebee claims that this characteristic is what earned it the name "Nullifier."
+Recovery of Nullifier parts has been illuminating. They use both balancing pitons and dense ferrofluid reservoirs in their lower extremities to remain stable while firing, design characteristics that could be useful for Initiative mining operations. Their blast shielding is also surprisingly light for its thickness (72mm) and density. The plates are cushioned by a honeycomb of shock-absorbing polymer to distribute any ballistic force. However, these characteristics are also what allows them to absorb heavy fire and act as formidable opponents.
+
+
+Capabilities[]
+Offensive
+The beams that they fire are preceded by a blue tracking laser which will turn red upon activation, and it can shoot through terrain. At close range, the Nullifier will use its legs to swipe at attackers.
+
+Defensive
+They are armored. When firing at range, they deploy a forward-facing tactical shield that blunts the impact of incoming damage.
+
+Tactics[]
+As they discourage camping behind cover, they are priority targets in most engagements. Incinerate and other armor-stripping skills are essential against them.
+There is a small grace period before a Nullifier's range attack fires. Quickly move out of position on spotting the blue tracking laser.
+The unit is difficult to damage from the front while its shield is deployed, though it has no such protection at the back. The trick is to keep it focused away: a squadmate, a multiplayer teammate, or fortuitous encounter with a wildlife unit can serve as distraction.
+Forcing the Nullifier into a melee confrontation is risky, though it will be discouraged from raising its shield as it attempts to counter with a melee attack of its own.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

@@ -1,0 +1,352 @@
+
+
+
+
+Contents
+
+1 Mass Effect
+
+1.1 Talents
+1.2 Class Talent
+1.3 Availability
+
+
+2 Mass Effect 2
+
+2.1 Power Ranks
+
+2.1.1 Quarian Engineer
+2.1.2 Quarian Mechanic
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+3 Mass Effect 3
+
+3.1 Power Ranks
+
+3.1.1 Rank 1: Quarian Machinist
+3.1.2 Rank 2: Durability & Recharge
+3.1.3 Rank 3: Durability & Recharge
+3.1.4 Rank 4: Recharge Speed/Health/Shields
+3.1.5 Rank 5: Weapon Damage/Tech Upgrade
+3.1.6 Rank 6: Squad Bonus/Drone Specialist
+
+
+3.2 Player Notes
+3.3 Availability
+
+
+4 Trivia
+
+
+Mass Effect
+See also: Squad Members Guide#Tali'Zorah nar Rayya
+Quarian Machinist is a non-playable class, similar to Engineer. Compared to the Engineer, the class forgoes Medicine (and Neural Shock by extension) and instead has the option of training with Shotguns.
+
+Talents
+See also: Talents#Class Specific
+
+
+
+
+
+Class: Quarian Machinist
+
+
+ Pistols
+
+
+
+
+ Shotguns
+
+Unlocked at Pistols 6
+
+
+ Basic Armor
+
+
+
+
+ First Aid
+
+Unlocked at Basic Armor 5
+
+
+ Electronics
+
+
+
+
+ Damping
+
+Unlocked at Electronics 4
+
+
+ Decryption
+
+
+
+
+ Hacking
+
+Unlocked at Decryption 7
+
+
+
+
+
+
+
+
+Class Talent
+Though young, Tali is a true genius when it comes to dealing with mechanical or electronic equipment.
+Increases tech resistance
+Increases shields
+
+
+Increases tech resistance by 10%. Increases shield capacity by 60.
+Increases tech resistance by 15%. Increases shield capacity by 90.
+Increases tech resistance by 20%. Increases shield capacity by 120.
+Increases tech resistance by 25%. Increases shield capacity by 150.
+Increases tech resistance by 30%. Increases shield capacity by 180.
+Increases tech resistance by 35%. Increases shield capacity by 210.
+Availability
+Tali'Zorah nar Rayya
+Mass Effect 2
+Quarian Machinist is a passive class power in Mass Effect 2.
+
+See also: Squad Members Guide (Mass Effect 2)#Tali'Zorah vas Neema
+
+Sharpens Tali's combat skills and weapon damage; lengthens her power duration.
+
+Power Ranks
+Rank 1 - Tali's continual practice and conditioning increases her health, weapon damage, and the duration of her powers.
+Health: +5.00%
+Weapon Damage: +6.00%
+Power Duration: +6.00%
+Rank 2 - Tali's continual practice and conditioning increases her health, weapon damage, and the duration of her powers.
+Health: +10.00%
+Weapon Damage: +12.00%
+Power Duration: +12.00%
+Rank 3 - Tali's continual practice and conditioning increases her health, weapon damage, and the duration of her powers.
+Health: +15.00%
+Weapon Damage: +18.00%
+Power Duration: +18.00%
+
+Rank 4
+Evolves Quarian Machinist into one of the following options:
+
+Quarian Engineer
+Tali is operating at peak efficiency, increasing the duration of her powers. Modest cybernetics and immuno-enhancers increase her health.
+Health: +20.00%
+Weapon Damage: +18.00%
+Power Duration: +25.00%
+Quarian Mechanic
+Tali's expertise in engineering firearms of all kinds increases her weapon damage. Modest cybernetics and immuno-enhancers increase her health.
+Health: +20.00%
+Weapon Damage: +25.00%
+Power Duration: +18.00%
+Player Notes
+Availability
+Tali'Zorah vas Neema
+Mass Effect 3
+See also: Squad Members Guide (Mass Effect 3)#Tali'Zorah vas Normandy
+
+
+Power Ranks
+Rank 1: Quarian Machinist
+Boost power recharge speed, shields/barriers, and health.
+
+Health & Shield Bonus: 10%
+Power Recharge Speed Bonus: 20%
+
+
+Rank 2: Durability & Recharge
+Increase health and shield bonuses by 10%.Increase power recharge bonus by 20%.
+
+Health & Shield Bonus: 20%
+Power Recharge Speed Bonus: 40%
+
+
+Rank 3: Durability & Recharge
+Increase health and shield bonuses by 10%.Increase power recharge bonus by 20%.
+
+Health & Shield Bonus: 30%
+Power Recharge Speed Bonus: 60%
+
+
+Rank 4: Recharge Speed/Health/Shields
+
+
+
+Recharge Speed
+Increase recharge speed bonus by 40%.
+
+Health & Shield Bonus: 30%
+Power Recharge Speed Bonus: 100%
+
+
+Health/Shields
+Increase health and shield bonuses by 20%.
+
+Health & Shield Bonus: 50%
+Power Recharge Speed Bonus: 60%
+
+
+
+Rank 5: Weapon Damage/Tech Upgrade
+
+
+
+Weapon Damage
+Increase weapon damage by 20%.
+
+
+
+Tech Upgrade
+Increase tech power damage by 30%.Increase tech power duration by 30%.
+
+
+
+
+Rank 6: Squad Bonus/Drone Specialist
+
+
+
+Squad Bonus
+Increase recharge speed of squadmate's tech powers by 10%.
+
+
+
+Drone Specialist
+Increase recharge speed of drone powers by 50%.
+
+
+
+
+Player Notes
+The Rank 6 Squad Bonus evolution applies to all members of the party with tech powers including Tali. There is possibility for confusion, as similarly named "Squad Bonus" evolutions on Shepard's various class powers do not apply to Shepard, only to NPC squadmates.
+Availability
+Single-player: Tali'Zorah vas Normandy
+Multiplayer: N/A
+Trivia
+Tali is the only character that can be a member of Shepard's squad in all three games of the Mass Effect trilogy who possesses a class-specific trait power/talent with the exact same name across all three games. For a counterexample, Liara's trait is Asari Scientist for the first two games but is Pure Biotic for the third.
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

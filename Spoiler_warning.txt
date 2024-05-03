@@ -1,0 +1,117 @@
+
+
+
+For spoiler tags used by Mass Effect Wiki, see the templates guideline.
+
+
+Quick Links
+
+
+General Guidelines
+
+
+Manual of Style Homepage
+
+
+General guidelines
+
+
+Comics (Comic Hubs)
+
+
+Templates
+
+
+Remakes
+
+
+Galaxy
+
+
+Clusters
+
+
+Systems
+
+
+Planets
+
+
+Game-play
+
+
+Missions
+
+
+Assignments
+
+
+Adversaries
+
+
+Classes
+
+
+Abilities / Powers
+
+
+Game-info
+
+
+Equipment
+
+
+Merchants / Stores
+
+
+Races
+
+
+Unique Dialogue
+
+
+See also
+
+
+Community Guidelines
+
+
+Chat Policies
+
+
+Collaboration
+
+
+Files Guideline
+
+
+Information Sourcing
+
+
+Administrators
+
+As an encyclopaedia, MEWiki naturally contains spoilers - information that may reduce one's enjoyment of the series if learned about before actually experiencing it: before actually playing the game, reaching a certain part of the game, reading a book, or other related events.
+These spoilers must be tagged for the benefit of all users. Some articles are spoilers in their entirety (e.g. Indoctrination) so the tag is at the top to alert users. 
+MEWiki has spoiler tags for every Mass Effect release that adds significant lore into the ME Universe. See the Category:Article management templates directory for the list. Relevant revelations should be written under the appropriate spoiler tag.
+In general usage, the spoiler tag is used before any major plot revelations. For example:
+
+Incorrect: "The detective conducted a thorough investigation of the house and all possible avenues of inquiry. In the end, we learn that the butler did it."
+Correct:
+The detective conducted a thorough investigation of the house and all possible avenues of inquiry.
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+In the end we learn that the butler did it.
+
+In practice, most information around the wiki is organized in terms of revelations per game. {{Spoilers (Mass Effect)}} goes before the heading for Mass Effect, {{Spoilers (Mass Effect 2)}} before the heading for Mass Effect 2, and so on. Piling spoiler tags on top of each other is also acceptable if the information presentation demands it, as is the case in the geth article.
+
+
+
+

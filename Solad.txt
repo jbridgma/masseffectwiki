@@ -1,0 +1,61 @@
+
+
+
+
+
+Solad
+
+Region
+Andromeda / Heleus Cluster / Tafeno
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+128.3 AU
+
+
+Orbital Period
+828.9 Earth Years
+
+
+Keplerian Ratio
+3.074
+
+
+Radius
+7,126 km
+
+
+Atm. Pressure
+0.65 atm
+
+
+Surface Temp
+−42 °C 
+
+
+Location: Andromeda / Heleus Cluster / Tafeno System /  Fourth planet
+
+
+Description[]
+Solad's severe storms, toxic atmosphere, and tectonic instability make it a challenging candidate for ice mining despite oceans of frozen water and liquid ammonia.
+
+Anomaly[]
+Ice Sheet[]
+DATA:
+
+Surface area: 22 million km
+Composition: 68% ice water, 30% mineral deposits
+Status: Stable
+ANALYSIS:
+A century-old abandoned angaran mining colony is half-buried in the snow atop this massive sheet of frozen water.
+Awards +270 XP when scanned.
+
+
+
+

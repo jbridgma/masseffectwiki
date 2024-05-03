@@ -1,0 +1,168 @@
+
+
+
+Submission Net is a tech power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Submission Net[]
+Entangle opponents in an electrified net, dealing massive damage to armored targets and incapacitating unarmored targets as they break free.
+Targets build up resistances to the grappling effects of the net.
+
+Recharge Speed: 6 sec
+Grapple Duration: 6 sec
+Incapacitate Duration: 4 sec
+Damage: 600
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 4.80 sec
+Grapple Duration: 6 sec
+Incapacitate Duration: 4 sec
+Damage: 600
+
+
+Rank 3: Damage & Duration[]
+Increase damage by 30%.Increase duration by 30%.
+
+Recharge Speed: 4.80 sec
+Grapple Duration: 7.80 sec
+Incapacitate Duration: 5.20 sec
+Damage: 780
+
+
+Rank 4: Damage/Incapacitate[]
+
+
+
+Damage
+Increase damage by 40%.
+
+Recharge Speed: 4.80 sec
+Grapple Duration: 7.80 sec
+Incapacitate Duration: 5.20 sec
+Damage: 1020
+
+
+Incapacitate
+Incapacitate targets 100% longer.
+
+Recharge Speed: 4.80 sec
+Grapple Duration: 7.80 sec
+Incapacitate Duration: 9.20 sec
+Damage: 780
+
+
+
+Rank 5: Damage & Slow/Recharge Speed[]
+
+
+
+Damage & Slow
+Increase damage by 40%.Slow armored targets by 30% for 10 seconds.
+
+Recharge Speed: 4.80 sec
+Grapple Duration: 7.80 sec
+Incapacitate Duration: 5.20 sec (Damage), 9.20 sec (Incapacitate)
+Damage: 1260 (Damage), 1020 (Incapacitate)
+
+
+Recharge Speed
+Increase recharge speed by 45%.
+
+Recharge Speed: 3.53 sec
+Grapple Duration: 7.80 sec
+Incapacitate Duration: 5.20 sec (Damage), 9.20 sec (Incapacitate)
+Damage: 1020 (Damage), 780 (Incapacitate)
+
+
+
+Rank 6: Shield & Barrier/Electric Field[]
+
+
+
+Shield & Barrier
+Increase damage to shields and barriers by 50%.
+
+
+
+Electric Field
+Improve the electrified net to deal 150 points of damage across 6 meters every 1 seconds [sic].
+
+
+
+
+Player Notes[]
+Mechanics
+Submission Net can be thought of as a tech version of Stasis, except that it is also a projectile power which can be dodged by enemies and takes a little over 1 second to launch. It will usually travel straight for a distance before arcing towards its target. Unlike some of the other projectile powers, Submission Net does not seem to track Banshees well.
+Like Stasis, only one Submission Net can be used at any one time. If a non-armoured enemy is caught by a Submission Net and the power is used again, the first Net will disappear and any enemy inside will fall to the ground incapacitated, and Submission Net is fired anew from the player's omni-tool. The "Incapacitate Duration" is the amount of time an infantry target will be knocked down by Submission Net regardless if it remains in a net for its full "Grapple Duration", which is distinct. An enemy released from the net's grapple will continue to suffer disruption effects for a few seconds after.
+Like Stasis, enemies grow resistant to repeated Submission Nets, and they become immune after being netted three times. This resistance only applies to the duration of the grapple and incapacitate effects on infantry targets; the damage-over-time duration remains unaffected on any target. Also, infantry targets that have grown immune are still staggered on impact with the net, and if susceptible to tech electrocution stuns, they will suffer those as well.
+Unlike Stasis, Submission Net does not break after dealing health damage to enemies.
+Similar to Stasis, cloaked units such as Phantoms and Geth Hunters can be caught by Submission Net. However, they usually cannot be targeted easily and often must be first revealed by gunfire before firing the Net.
+Like the Stasis Bubble evolution, Submission Net can be used as a stationary trap by firing it at nearby terrain; after a brief arming delay of about a second, any enemy that comes near will be instantly netted for the remaining duration.
+Unlike Stasis, Submission Net deals damage-over-time, so enemies inside often die through inherent Net damage which is significant.
+Unlike Stasis, Submission Net can hit armored targets, though they are not immobilized by the net. Despite the in-game description, armoured enemies take reduced damage from Submission Net and will only be slowed if the rank 5 "Damage and Slow" evolution is chosen.
+Submission Net can be used to set up Tech Bursts. It does not detonate any combos. The Batarian Sentinel can trigger a Tech Burst with Shockwave; the Vorcha Hunter Engineer with Incinerate.
+If the rank 6 Electric Field evolution is chosen, Submission Net will deal damage to the nearest target within 6 meters every second, in addition to any target trapped by the net. The second enemy can be shock-stunned by this effect if it is an unshielded food soldier, but the damage is dealt over time.
+Strategies
+Submission Net can make enemies easier to headshot, melee, or hit with weapons like the Kishock Harpoon Gun and the Graal Spike Thrower that fire projectiles with a travel time. With Submission Net's relatively short cooldown, it can be recast numerous times until it finally hits its target. Stunning enemies with weapon fire or forcing them to dodge can make them easier to net. Leaving a net in the path of any pursuer is also an effective way to ensure that the net will not be dodged.
+The damage-over-time of Submission Net is useful to prevent enemies from recharging their shields or barriers, especially important on higher difficulties.
+The slowing effect of the Damage and Slow evolution is significant and useful against almost any armored foe except the Banshee, which teleports and is already very slow when not teleporting.
+Like Stasis, Submission Net is very effective against Phantoms, but the above-mentioned ways of preventing them from dodging the net should be used.
+The rank 4 "Incapacitate" evolution can make the duration of the knockdown stun long enough that it can be used to disable multiple opponents quickly if you are being pressed.
+Availability[]
+Single-player: N/A
+Multiplayer: Batarian Sentinel, Vorcha Hunter Engineer
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

@@ -1,0 +1,98 @@
+
+
+
+You found a survey job started by Initiative technician Eric Camber. He was apparently interrupted by kett, and may have died. Accurate surveys are simple, but critical. Completing his beacon run is a small thing, but will help make Eos more viable. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Place Beacons
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Interact with a Field Comm Terminal (marked with a) on the ground in Four Giants (approximately halfway between Site 2: Resilience and the southeast monolith). Also, the vehicle next to the field comm terminal when scanned awards +10 .
+
+
+
+
+
+Work Detail: Outpost Survey Beacons
+Arrived on-site
+Login: Technician Eric Camber
+
+START LOG:
+We were right to survey here. Viability is huge. Just another beacon? Well, I'm just another tech, but I'll do what I can. One day at a time, we'll make it.
+Loading my custom protocols. The EJR is better than a double-cafe-eezo-tease. Be done in half the...
+(Static)
+Goddamn it, looks like kett. Stand down.
+(Static)
+But the beacons! This is important!
+(Static)
+No input
+No input
+No input
+Entering idle
+
+END LOG
+
+
+Walkthrough[]
+Place Beacons[]
+ Travel to the five navpoint locations markedon the map and place the beacons. 
+Four Giants - South of the field comm terminal.
+Far east of the map. Southeast of the Remnant ruins in the area.
+Northeast of Prodromos on a desert ledge in a small kett camp.
+West of Prodromos at the top of a small peak with a Remnant structure.
+South of Prodromos.
+Some of the locations are in the initial Hazard Level 3 zones so it advised to hold off on this mission until after the outpost  has been established on Eos during A Better Beginning and the radiation has cleared.
+After each beacon is placed, a recording is played with the following dialogue:
+
+After the first beacon:
+Motivational E.J.R.: [Audio Log]: Job started. Another step forward. Keep it up, dad.
+Ryder: SAM, what am I hearing?
+SAM: Technician Eric Camber's beacon protocols. They appear to include recorded motivational logs.
+
+After the second beacon:
+Motivational E.J.R.: [Audio Log]: Progress made, whatever it is. Each day, one at time. You'll be fine.
+Ryder: Okay. Where's this going?
+
+After the third beacon:
+Motivational E.J.R.: [Audio Log]: Progress, right dad? Probably simple, but in a new galaxy and after I... never mind.
+Ryder: What are you talking about, kid?
+
+After the fourth beacon:
+Motivational E.J.R.: [Audio Log]: Keep it up, dad. You promised. Doesn't matter that I'm sick. You're in the future.
+Ryder: I don't know if I'm okay with this.
+
+After the fifth beacon:
+Motivational E.J.R.: [Audio Log]: Another job done, dad. Reset, and hit the next. I'm watching, and I'm proud. Eric, Jr., signing off.
+Ryder: Job done, Erics.
+
+The mission will complete after the fifth beacon has been placed. After the last message plays, some companions react to the sad tale. For example, Cora sniffles and Peebee suggests that they go shoot something.
+
+Aftermath[]
+Afterwards, you will receive an email from Eric Camber, indicating he is in fact alive.
+
+
+
+
+
+You're the best.
+Thanks for picking up my slack. Jr. would've been amazed.
+
+
+Eric Camber
+
+
+Rewards[]
++270 XP
++29 AVP 
++2% Eos viability
+
+
+

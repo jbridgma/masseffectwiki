@@ -1,0 +1,102 @@
+
+
+
+
+
+Synalus
+
+Region
+Milky Way / Hourglass Nebula / Ploitari
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+2.2 AU
+
+
+Orbital Period
+3.3 Earth Years
+
+
+Keplerian Ratio
+0.978
+
+
+Radius
+5,391 km
+
+
+Day Length
+66.8 Earth Hours
+
+
+Atm. Pressure
+1.23 atm
+
+
+Surface Temp
+−3 °C 
+
+
+Surface Gravity
+0.84 g
+
+
+Mass
+0.596 Earth Masses
+
+
+Location: Milky Way / Hourglass Nebula / Ploitari System /  Third planet
+
+Prerequisite: Priority: Thessia (Mass Effect 3)
+
+Description[]
+Space probes indicate that Synalus is nowhere near as hospitable as its neighbor, Zanethu. Synalus's hydrogen-argon atmosphere is thought to be anathema to life, but the presence of borax on the surface, spawned by a boron-heavy core, indicates the planet may once have had water.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+High
+
+14,700
+
+
+Platinum
+
+Medium
+
+6,300
+
+
+Iridium
+
+Medium
+
+8,100
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

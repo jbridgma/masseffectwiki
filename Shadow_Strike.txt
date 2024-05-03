@@ -1,0 +1,292 @@
+
+
+
+Shadow Strike is a power in Mass Effect 2 and a tech power in Mass Effect 3's multiplayer mode. 
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Deadly Shadow Strike
+1.1.2 Rapid Shadow Strike
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Shadow Strike
+2.1.2 Rank 2: Recharge Speed
+2.1.3 Rank 3: Damage
+2.1.4 Rank 4: Damage/Damage Protection
+2.1.5 Rank 5: Electric Damage/Recharge Speed
+2.1.6 Rank 6: Damage/Shield Drain
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+
+
+Mass Effect 2[]
+
+Cloak and sneak behind a target to deliver a devastating blow.
+
+Power Ranks[]
+Rank 1 - Cloak and sneak behind a target to deliver a devastating blow that does massive damage and incapacitates weaker enemies.
+Recharge Time: 9.00 seconds
+Damage: 300.00 points
+Incapacitate Duration: 5.00 seconds
+Rank 2 - Cloak and sneak behind a target to deliver a devastating blow that does massive damage and incapacitates weaker enemies.
+Recharge Time: 9.00 seconds
+Damage: 350.00 points
+Incapacitate Duration: 6.00 seconds
+Rank 3 - Cloak and sneak behind a target to deliver a devastating blow that does massive damage and incapacitates weaker enemies.
+Recharge Time: 9.00 seconds
+Damage: 400.00 points
+Incapacitate Duration: 7.00 seconds
+Rank 4
+Evolves Shadow Strike into one of the following options:
+
+Deadly Shadow Strike[]
+Increases the damage done when assassinating the target.
+Recharge Time: 9.00 seconds
+Damage: 550.0 points
+Incapacitate Duration: 7.00 seconds
+Rapid Shadow Strike[]
+Reduces the cooldown by 80% if the target is killed by this power.
+Recharge Time: 9.00 seconds
+Damage: 450.0 points
+Incapacitate Duration: 7.00 seconds
+Player Notes[]
+Mechanics
+Using this power, Kasumi cloaks, appears behind her target and delivers a devastating sneak attack, then re-cloaks and returns to her previous location where she again uncloaks. The power only starts recharging once Kasumi returns.
+Shadow Strike has a 2x damage multiplier against shields, armor and barriers. Even without taking this multiplier into account, Shadow Strike deals more single-target damage than any other squadmate power.
+If the player is manually casting Shadow Strike to order Kasumi to use it, targeting works similarly to any other power in that there must be a clear, unobstructed view of the intended target at the moment of casting for Kasumi to follow the order or she will say she can't do it.
+Besides directly damaging the enemy, this power also has a distracting effect, as enemies will often turn to attack Kasumi when she appears in their midst, ignoring their previous targets. This is very useful against powerful units such as Harbinger, Scions, and YMIR Mechs, or against enemies with rocket launchers as they sometimes blow themselves up by firing at Kasumi point-blank when she appears next to them.
+The incapacitation (knockdown) only takes effect if the target is unprotected or if the strike's damage carries through to their health. Husks will be instantly killed by Shadow Strike even on higher difficulties where they possess armor.
+The power type of Shadow Strike is actually split between combat and tech—it gains the bonus for reduced cooldown from the tech upgrade but the damage type is combat, so the damage tech upgrade has no effect.
+Even though it's a "teleporting" attack, Kasumi can't use Shadow Strike on enemies in areas unreachable by Shepard, or in places with particularly torturous terrain. She will tell you if she cannot make a particular strike.
+Occasionally she will cloak as if the attack is going to work but it then fails and she will reappear.
+Shadow Strike will usually fail against targets knocked down, suspended or made airborne by powers such as biotics, so avoid using such abilities against enemies you have targeted for Shadow Strike.
+Shadow Strike will also usually fail to connect on fast-moving targets such as varren and FENRIS Mechs.
+If Kasumi says she can't make a Shadow Strike you think she should be able to make, just order her again a few times and it may go through.
+Kasumi will return to her original position after finishing a Shadow Strike. However, she will no longer be bound by any placement or hold position command. You have to re-assign the command to keep her behind cover after such a strike; luckily she will obey such a command as long as you issue it after her actual strike completes—it's not necessary to wait until she fully returns.
+Invulnerability: Kasumi gains temporary invulnerability during Shadow Strike, shrugging off damage that would otherwise absolutely kill her when she appears next to a target.
+This can be used as a technique to keep Kasumi alive if she's close to death, as the invulnerability prevents the timer on her shield recharge from being interrupted, meaning she can be near death, perform a Shadow Strike, and return back to her starting point at full health/shields again.
+On occasion Kasumi is slow or even unable to perform her attack after appearing next to her target, either because it moved, she is stunned, she is unable to get an attack angle, or because the power just decides to be wonky. This can cause the invulnerability to wear off and she can go down, sometimes in a very exposed position where reviving her would run a high risk of getting her killed again immediately.
+Strategies
+Because it instantly kills husks, it might seem like Rapid Shadow Strike would make Kasumi very effective at engaging masses of them due to the fast recharge; however, in practice Kasumi tends to get stun-locked by husk melee attacks and downed before she can execute her strikes.
+Deadly Shadow Strike is excellent against intermediate-level enemies that have stronger shields, barriers, and armor layers than basic enemies. Such targets include enemy Vanguards, Engineers, Blue Suns Heavies, Collector Assassins, Collector Guardians, Geth Hunters, enemy Pyros, and krogan foes.
+Availability[]
+Kasumi Goto
+Mass Effect 3[]
+
+
+Power Ranks[]
+Rank 1: Shadow Strike[]
+Cloak and sneak behind your target to unleash a vicious sword attack.
+Receives damage bonuses from sword upgrades.
+Considered a melee attack.
+
+Recharge Speed: 8 sec
+Damage: 600
+
+
+Rank 2: Recharge Speed[]
+Increases recharge speed by 25%.
+
+Recharge Speed: 6.40 sec
+Damage: 600
+
+
+Rank 3: Damage[]
+Increases damage by 20%.
+
+Recharge Speed: 6.40 sec
+Damage: 720
+
+
+Rank 4: Damage/Damage Protection[]
+
+
+
+Damage
+Increases damage by 30%.
+
+Recharge Speed: 6.40 sec
+Damage: 900
+
+
+Damage Protection
+Reduce all damage taken by 40% for 5 seconds after decloaking.
+
+
+
+
+Rank 5: Electric Damage/Recharge Speed[]
+
+
+
+Electric Damage
+Hit your opponent with an electric attack that does 40% additional damage over 5 seconds.
+Detonate this effect with other powers.
+
+
+
+Recharge Speed
+Increases recharge speed by 35%.
+
+Recharge Speed: 5 sec
+Damage: 900 (Damage), 720 (Damage Protection)
+
+
+
+Rank 6: Damage/Shield Drain[]
+
+
+
+Damage
+Increases damage by 50%.
+
+Recharge Speed: 6.40 sec (Electric Damage), 5 sec (Recharge Speed)
+Damage: 1200 (Damage), 1020 (Damage Protection)
+
+
+Shield Drain
+Strike shields or barriers to drain their energy to refill your shields.Increase movement speed by 15% for 4 seconds after decloaking.
+
+
+
+
+Player Notes[]
+Mechanics
+Shadow Strike functions very similarly to Kasumi's power in Mass Effect 2: the player cloaks, reappears behind the target, and delivers a powerful melee attack. Unlike Kasumi's power in Mass Effect 2, in Mass Effect 3 the player does not re-cloak and return to their starting point, nor is the player invulnerable when decloaking to attack.
+If the enemy is unaware of the N7 Shadow when Shadow Strike is activated, the attack cannot be blocked and the user appears behind them; otherwise, foes will attempt to shoot and/or melee the Shadow, and defenses will block the attack (e.g. a Guardian's shield).
+Shadow Strike benefits from melee damage bonuses of equipment and weapon mods as well as the melee damage evolutions of Shadow Strike, Tactical Cloak, and Sword Mastery.
+Shadow Strike can be used on any enemy that can be selected for targeting; even obstructed enemies or difficult-to-reach places are thus vulnerable to Shadow Strike.
+When used against specific foes:
+Shadow Strike may be used on Phantoms and Geth Hunters even while they are invisible, if the crosshair is aligned with their hitbox.
+Shadow Strike has difficulty landing on teleporting Banshees or other enemies using any movement ability that covers distance like a Brute lunge.
+As of Patch 4, Shadow Strike doesn't work against Atlases.
+A charged shot from a weapon such as the Kishock Harpoon Gun or Venom Shotgun can be held before initiating a strike, and released during the attack animation; if this isn't done manually, it will occur automatically right before the sword hit, which has a tendency to miss as the player rotates around to the rear of the target. To ensure this shot hits, release it manually while still facing the target.
+Using the Acolyte with this technique can be particularly useful to strip the shielding of an enemy, ensuring that the sword hit is fatal.
+Most weapons with a charging feature do not break Tactical Cloak's invisibility when a charged shot is fired as long as the shot began charging before cloaking, though the Arc Pistol is an exception.
+While the heavy melee of the N7 Shadow Infiltrator decapitates infantry targets if the blow is fatal, Shadow Strike does not.
+Shadow Strike can't be interrupted by a Husk or Abomination grabbing you as long as it was used before they initiate the grapple sequence.
+The Electric Damage evolution primes targets for a Tech Burst. The only way the N7 Shadow can self-detonate Power Combos is with a follow-up Electric Slash; if evolved with the Detonate evolution, this creates an especially powerful electric combo. Recharge times must be fast enough to use the two powers in succession before the priming effect wears off.
+Electric Damage is also very useful for finishing off enemies that may survive the initial strike.
+This evolution also helps reveal invisible enemies and delays their shield recharge.
+Strategies
+Shadow Strike is capable of instantly killing most basic-level enemies even on higher difficulties.
+A common tactic is to use Tactical Cloak's Bonus Power and Duration evolutions to allow two strikes before breaking cloak; this is useful for two strikes against powerful enemies, or to reduce vulnerability by remaining invisible after executing one attack with the option to attack a second target in a safer location than the first (or simply run away under cloak).
+With the proper evolutions and equipment, even Platinum Phantoms can be killed by a single cloaked Shadow Strike.
+Shadow Strike can be used to travel across the battlefield quickly to escape danger and/or to reach a strategic position, since it immediately transports the user to the target.
+Shadow Strike can be useful for rescuing downed teammates; it can prevent any enemy attempting to stomp on your ally while simultaneously transporting you to their body for a revive.
+Caution is advised against certain foes:
+Any enemy that can sync kill you such as Phantoms, Brutes, or Praetorians.
+Ravagers with their sacs intact may spout an acid patch that you will be standing right in the middle of; this also occurs when they die. You're also likely to get a faceful of Swarmers.
+Seeker Swarms can disable your powers and the Seeker Plague can heavily damage you as well. Be cautious about targeting a Collector Captain or Possessed Captain in the process of summoning a swarm.
+While Geth Primes can't see you while cloaked, their turrets can. They will also attempt to melee you at close range, cloaked or not.
+Abominations aren't decapitated by Shadow Strike and will detonate if they are glowing when killed.
+Any opponent that can stun you can be dangerous, which is almost any enemy with a melee attack; Brutes in particular are often able to interrupt Shadow Strike before it can even complete successfully.
+Unlike the Vanguard's Biotic Charge, Shadow Strike has the disadvantage of not replenishing the user's shields. This can be offset by the following:
+The Shadow Strike Damage Protection and Shield Drain evolutions of the power.
+The Sword Mastery durability and shield recharge evolutions, which synergize with the power.
+The Tactical Cloak Duration and Bonus Power evolutions, allowing the Shadow more time to select a target while shielded from enemy sight.
+Availability[]
+Single-player: N/A
+Multiplayer: N7 Shadow Infiltrator
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

@@ -1,0 +1,244 @@
+
+
+
+See also: Adept Guide, Adept Guide (Mass Effect 2)
+
+Adepts are biotic specialists, capable of disabling and killing enemies with raw biotic power. While they lack advanced combat training, they are the best at defeating enemies without firing a shot. They are outfitted with L5x implants that can spawn a micro-singularity, damaging enemies and pulling them into the air.
+
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Singularity
+2.1.2 Pull
+2.1.3 Shockwave
+2.1.4 Throw
+2.1.5 Warp
+2.1.6 Cluster Grenade
+2.1.7 Fitness
+2.1.8 Biotic Mastery
+
+
+2.2 Bonus Powers
+
+2.2.1 Energy Drain
+2.2.2 Stasis
+2.2.3 Reave
+2.2.4 Dark Channel
+2.2.5 Warp Ammo
+2.2.6 Barrier
+2.2.7 Defense Matrix
+2.2.8 Fortification
+2.2.9 Flare
+2.2.10 Lash
+2.2.11 Dominate
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Assault Rifles
+3.2 Heavy Pistols
+3.3 Shotguns
+3.4 Sniper Rifles
+3.5 Submachine Guns
+
+
+4 Combat Guide
+5 Squad Members
+
+
+
+Overview[]
+With the new additions to the combat system in Mass Effect 3, the Adept is capable of becoming a true powerhouse. With a low cooldown build utilizing low-weight gun load-outs that keep one's Power Recharge Speed at or close to +200%, an Adept can often kill or disable several enemies before they even start firing back, and most of your powers can be thrown in an arc around corners and over cover to hit enemies without putting yourself in danger at all.
+One of your most powerful tools as an Adept is the biotic explosion, which occurs when combining any biotic power that has a duration stat and/or lifting capability with a different biotic power that has a damage and/or force stat.  The power of these biotic combos depends on the rank of the powers used (so using two rank 6 powers is best), and can be boosted even further by using powers that have evolutions which specifically boost the power of biotic detonations. Even better, these combos will take off the same percentage of an enemy's health/armor/etc. on any difficulty setting, so biotic explosions are just as effective on Insanity as they are on Normal.
+In addition to biotic explosions, most of the Adept's powers are capable of triggering tech power combos.  Tech bursts are the easiest to trigger, and make up for the Adept's lack of anti-shield powers.
+
+Powers[]
+Class Powers[]
+Singularity[]
+Main article: Singularity
+Singularity is used firstly as a crowd control power and secondly (often in succession) as a setup for other biotic powers, usually Throw or Warp. It should be high on the Adept's list of prioritized active powers to level up besides Warp. Unprotected enemies are suspended helplessly, but even protected enemies are periodically staggered while within a Singularity field. Singularity's utility also comes from how it can be set up as a trap by targeting the ground when using the power so that enemies walking into the field are caught.
+Singularity is a good setup for most combos as it disables unprotected enemies. Paired with lightweight weaponry, armor that reduces power cooldown and a leveled up Warp or Throw, biotic explosions can easily and quickly be set up and detonated for massive effect.
+Singularity can also cause shielded enemies to stagger; this can allow you to lock a Marauder or Centurion while you deal with their shields. With the "Lift Damage" upgrade this feature is further enhanced, locking them in, sometimes for the duration of the Singularity.
+
+Pull[]
+Main article: Pull
+Pull is best used on Guardians and CAT6 Heavies as it will remove their riot shield and stagger them, leaving them vulnerable to another power.
+In fact, you can actually replace Singularity with Pull entirely, if you prefer. For the most part, the two powers can fulfill the same role, making it somewhat redundant to level both of them up. A single rank in Pull can still greatly benefit Singularity users though, as it has a naturally low cooldown and is devastating to frustrating Guardians.
+
+Shockwave[]
+Main article: Shockwave
+Shockwave is a very useful tool for fighting from a protected area. On some maps you'll find areas that allow you to see the enemy but not physically affect them, such as unbreakable glass or high blockades. Shockwave isn't stopped by these obstacles and can effectively allow you to attack whilst still benefiting from the cover these places provide.
+Another benefit of Shockwave is that it detonates all types of power combos. Warp + Throw is generally easier to set up and trigger biotic combos, but Warp + Shockwave can also be used for biotic explosions.
+Note that one of the rank 6 upgrades for Shockwave allows you to add a Lift effect to it. This effect can be detonated by other powers as well.
+
+Throw[]
+Main article: Throw
+Throw is a fantastic member of the Adept's arsenal for three reasons: it's a powerful crowd control power, able to take any small enemy off their feet and stagger some larger enemies; it's an extremely reliable detonator power; and its cooldown time is almost instant (assuming +200% Power Recharge Speed), allowing you to use both of the above applications of Throw as frequently as you like.
+A weightless target is affected by Throw to a much greater degree than one with their feet on the ground. Coupled with Pull or Singularity, Throw can be used to devastating effect, to the point where targets can be hurled out of the arena entirely. Even if your target isn't floating, throwing an enemy with their sights on you can buy you valuable time for a quick escape.
+The direction at which the Throw field hits an enemy affects which direction it will be sent. For instance, hitting a target from below will send it upward, and hitting from above will very quickly introduce them to the floor. In addition, throw allows you to literally 'throw' an enemy off of exposed places like cliffs, with predictable results.
+Should you choose to upgrade Throw to be used as a detonator power, biotic explosions will become your primary weapon. Coupled with Singularity, Warp, or Lifting Shockwave, you can cause a devastating explosion, causing massive amounts of damage all over the field. As an alternative, you can bring a squadmate with a good source power, then proceed to only use Throw. This will allow you to rapidly detonate not just potentially biotic explosions but other power combos—giving greater variety in your power combos.
+The Double Throw upgrade is a fairly viable choice for a level 6 Throw as well. If you prefer basic crowd control, Double Throw will take down two enemies at once and can easily clear the field. If you evolve Throw for power combos, you can either cause two combos with one use, knock down multiple enemies at once, or do both with one use of Throw.
+Double Throw is also particularly devastating against clumps of enemies when combined with biotics that can create detonate-able effects on multiple enemies at once (such as Reave with the radius upgrade and Stasis with the bubble upgrade).
+
+Warp[]
+Main article: Warp
+Warp is a projectile power that has the ability to bend around corners and over/under obstacles if angled correctly. Warp can be used to set up biotic explosions and to detonate any kind of power combo. With the Expose upgrade at rank 5, it also leaves the enemy more vulnerable to damage for a period of time--useful when working with high-damage allies to batter them with weaponry.
+Warp is particularly potent for being capable of setting up biotic explosions on armored enemies.  Following Warp with Throw allows you to inflict heavy damage to armored enemies.
+
+Cluster Grenade[]
+Main article: Cluster Grenade
+A grenade that splits into 3 (or 5 if later upgraded) smaller grenades in a forked pattern in front of you, dealing significant damage in an area. Useful for groups of enemies and crowd control.
+In particular, you may find it useful on larger enemies such as Brutes--it's easy to land all three/five grenades directly on one target, resulting in tons of damage to said target.
+Cluster Grenade is very potent for detonating power combos--it detonates all kinds of power combos and each grenade is capable of triggering a power combo. If thrown into a crowd of primed enemies, Cluster Grenade can set off several power combos for massive damage.
+
+Fitness[]
+Main article: Fitness (Adept)
+While extra health, shields, and melee damage is certainly not a bad thing, it might be a good idea to focus on the Adept's "core" powers (particularly Singularity/Pull, Warp, and Throw, for reasons already mentioned in the above sections) before investing points in this.
+Considering an Adept can do most of their damage from range, arcing their powers around corners and over cover without exposing themselves to enemy fire, you might find you don't need the survivability boost this passive ability provides.
+Alternatively, players who favor a play style that emulates Jack's Primal Adept evolution in Mass Effect 2 might find that the extra health and shields benefit the in-your-face action of dodging and staying mobile on the battlefield while tossing powers as soon as they are off cooldown.
+Melee damage boosts are less useful for the Adept than other classes, as their heavy melee attack is primarily a knockback attack and inflicts less damage than other classes' heavy melee.
+An interesting quality of the Adept's heavy melee is one that can be a game-changer in the right hands. The 'biotic push' it does has an unlisted force attribute, much like biotic powers. When the melee damage is increased with Fitness, so is the force. When combined with a Pistol Melee Stunner, the effects can be hilariously devastating: While the damage isn't increased on strike, the sheer force of the attack can make most unshielded enemies ragdoll to their demise from either an object in their path, or the edge of a cliff or building. On rare occasions they will fly to the left or right, or even straight up, leaving them somewhere where they can't do as much harm, or putting them into position to die from the fall.
+
+Biotic Mastery[]
+Main article: Biotic Mastery
+Much like Fitness, it may be best to focus on your "core" powers before putting points in this line.
+Do note that power damage bonuses from skills, armor, and Shadow Broker research do not increase the damage of biotic detonations; so keep that in mind when deciding when to level this up.
+Also, given that the Adept class need not rely too much on guns, the Weight Capacity bonuses this line provides are not as crucial as they are for more combat-oriented classes like the Soldier.
+
+Bonus Powers[]
+Energy Drain[]
+Main article: Energy Drain
+While a dedicated anti-shield solution is not completely necessary for an Adept, Energy Drain gives you a bigger punch against shields while recharging your barrier at the same time.
+Its cooldown may interfere with your other powers, however. Account for this by bringing teammates with good detonator powers to cause a Tech Burst (Liara's Warp works very well, since you can also follow it up with another biotic power). This will cause more damage to the target, as well as a bit of crowd control to make those cooldowns more bearable.
+
+Stasis[]
+Main article: Stasis
+While most Adepts are encouraged to upgrade Singularity or Pull and use it as the primary set-up for a biotic detonation, these powers suffer one downfall: they have little-to-no effect on targets with any sort of protection; and when used on such a target, will not set up a detonation. Stasis serves as a good replacement for Adepts who want to focus on causing explosions without having to worry about enemy shields/barriers.
+Up until level 5, it's a great way to pick off one specific target, at the cost of a longer cooldown. At level 6, Stasis Bubble can be chosen, which serves as a good alternative to the crowd control that Singularity would normally provide. Stasis bubble will also affect Guardians and make them drop their shields upon walking into the bubble, making them easy pickings for a detonation.
+Furthermore, Stasis is the easiest way to deal with Phantoms. Even if you use another bonus power most of the time, it's worth switching to Stasis for certain missions just for them. 
+Be aware however that Stasis has no effect on armored targets.
+
+Reave[]
+Main article: Reave
+Reave is a damage-over-time power similar to Warp. However if used on an organic enemy, and leveled for damage reduction, it provides more damage reduction than Barrier, and without the recharge speed penalty of Barrier. Like Warp it can detonate and be detonated. This makes area Reave a particularly strong specialization, as it can set up multiple targets to be detonated in succession. Reave also goes through a Guardian's shield.
+On a side note: unlike Warp, Reave connects instantly, meaning targets can't roll to avoid it.
+If Reave is used to detonate a target, the damage over time and damage reduction effects will remain, allowing enemies with small amounts of health left over from the biotic detonation to die while the Adept remains protected from enemy fire.  
+Using Pull then Reave to detonate the target is a lightning fast way to kill many enemies from a distance.  The fast recharge time of Pull coupled with the remaining damage over time effect of Reave make the Adept a killing machine.
+With the radius evolution at rank 4, Reave is particularly effective against clustered enemies when combined with the Adept's native Cluster Grenades.
+
+Dark Channel[]
+Main article: Dark Channel
+The main perk to Dark Channel is that you can detonate it and the effect will travel to another enemy, repeating until Dark Channel's duration expires.
+So, basically, for the next 30+ seconds after setting up Dark Channel, you can set off as many biotic detonations as you can spam Throw.
+
+Warp Ammo[]
+Main article: Warp Ammo
+Since Adept doesn't have any ammo powers by default, you might consider taking one as your bonus power, if you don't feel you need any of the above powers (or you just don't want yet another power competing for the Adept's cooldowns). In that case, Warp Ammo is the most sensible choice for an Adept, as it has more synergy with your abilities than Armor-Piercing Ammo.
+Warp Ammo is particularly recommended for Adepts who prefer to lift their targets and shoot them rather than focus primarily on biotic detonations. This allows you to take alternative bonuses on some of Shepard's powers (in particular, the Reach upgrade for Shockwave makes a significant difference).
+You could even build your character around it, taking the squad variant and spec-ing Pull and Singularity (and possibly even Shockwave with the Lifting bonus) for maximum crowd control and squad damage (though you'll still want Warp and Throw/Shockwave for creating biotic detonations on the bigger enemies).
+This also allows you to level up other abilities on your squadmates besides ammo powers (if you level those up on them).
+
+Barrier[]
+Main article: Barrier
+Barrier provides a good boost to your staying power (30% damage reduction with a 60% increase in power cooldowns or 20% damage reduction with a 30% increase in power cooldowns) and can be evolved to boost the damage of your powers by 25% (do note, however, that power damage bonuses do not apply to biotic detonations). In a pinch, you can also detonate Barrier to lift and disable nearby unprotected enemies.
+Barrier is at the peak of its usefulness when importing an ME2/ME3 character or switching to it later in the game, as you won't get most of the benefit out of it at lower levels (when you can't afford to level it up much, but you're still stuck with a similar-or-worse cooldown penalty).
+
+Defense Matrix[]
+Main article: Defense Matrix
+Defense Matrix can provide you with significant damage reduction and staying power in combat. While less useful to the Adept than to tech classes, it restores a portion of your barriers when purged and can be evolved to fully restore them, making it the best choice if you are used to armor powers that can restore barriers instantly. It's far more useful to the Adept when the "Shield Recharge" and "Power Recharge" evolutions are chosen.
+
+Fortification[]
+Main article: Fortification
+Fortification outperforms or ties with Barrier and Defense Matrix in the areas of damage reduction (up to 30%), power recharge penalty (as low as 20%) and bonus power damage (up to 30%), without forcing you to choose between increased damage reduction and lessening of the power recharge penalty. Its deactivation ability is less useful in a pinch, however, as it merely boosts melee damage instead of recharging your barrier or disabling surrounding enemies.
+
+Flare[]
+Main article: Flare
+Flare is well suited for an Adept; the long cooldown of this biotic power is mitigated by having a low weight loadout, as most Adepts would. In addition to the massive damage it inflicts, Flare can also detonate biotic explosions--and be evolved to increase the power of biotic explosions. Using Warp to set up a biotic explosion to be detonated with Flare can wipe out crowds of weaker enemies and severely damage tougher targets. Alternatively, taking Liara as a squad mate and using her low cooldown Singularity allows the player to use Flare whenever it's off cooldown. Even on Insanity, the combination of Flare and a biotic explosion are enough to finish off entire groups of basic enemies.
+
+Lash[]
+Main article: Lash
+Although somewhat redundant to Pull, Lash has the unique bonus of being able to disable shielded enemies with the rank 6 Shield Penetration evolution. This allows the Adept to toss around many shielded foes as if they were average mooks.
+
+Dominate[]
+Main article: Dominate
+Dominate is a nice bonus power one can obtain from the Leviathan DLC. It works on shielded and armored enemies with the ability to turn even the dangerous Brutes against the enemy force. Some of the creatures, such as Banshee and Harvester, however, are immune. Particularly useful for flanking the enemy with their own troops as well as for disabling dangerous closing enemies.
+
+Weapons and Equipment[]
+Because Adepts are heavily focused on powers, players should equip lighter loadouts to keep cooldown reductions high.
+
+Assault Rifles[]
+Main article: Assault Rifles
+The new weight system tends to make Adepts favor SMGs and heavy pistols rather than assault rifles. However, the M-8 Avenger and M-15 Vindicator are light enough that their impact on power recharge speed is minimal when upgraded, even without Biotic Mastery's weight capacity bonuses (for reference: at +0 weight capacity, equipping a lone Avenger/Vindicator V will result in a power recharge speed of +198%).
+With the full +50 weight capacity; a lone M-96 Mattock, Phaeston, or Geth Pulse Rifle can be equipped with no impact on power recharge speed.
+If you have the Firefight Pack, the Cerberus Harrier can be exceptionally useful for the Adept. When fully upgraded, its impact on power recharge speeds is negligible. This allows the Adept to pack some heavy firepower while still being able to unleash devastating biotic combos.
+The M-7 Lancer can also be useful for power heavy classes provided that the Mass Effect 3: Citadel DLC is downloaded. Its accuracy and damage are below average when not modded, but its infinite reserve ammo (which will eliminate reloading when used carefully) coupled with its low weight (which will result in a +200% recharge speed) can turn it into a powerful tool in the hands of a power heavy player, especially when it's modded correctly (as a modded M-7 Lancer with the right powers and armor pieces can take down most enemies on insanity without having to reload).
+
+Heavy Pistols[]
+Main article: Heavy Pistols
+Before investing in Biotic Mastery, mid-weight pistols like the M-6 Carnifex and M-77 Paladin can be equipped without slowing down one's power usage. However, heavier pistols such as the Scorpion and M-358 Talon will require weight capacity bonuses before they can be equipped without having a negative impact on power recharge speed. The Acolyte is a extremely effective choice for an adept as it provides a strong, low weight solution to all shields and barriers. It also can be a good source of fire combo priming if used with Squad Incendiary Ammo.  
+
+Shotguns[]
+Main article: Shotguns
+An Adept can make surprisingly good use of a shotgun due to their wide array of powers that disable enemies (especially if one takes Stasis as their bonus power), as well as their ability to effectively put down enemies at long range without gunfire via Biotic Detonations. Note that shotguns are usually very effective at combo priming if using Incendiary Ammo or Disruptor Ammo, though only Ashley can provide the second.  
+However, without weight capacity bonuses, the Disciple is the only shotgun light enough to not slow down your power usage. With +50 weight capacity; the M-23 Katana, M-27 Scimitar, M-22 Eviscerator, and M-11 Wraith can also be used without affecting power cooldown.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+While most sniper rifles are too heavy to retain a 200% cooldown reduction, they should not be overlooked, given the Adept's ability to disable and stun enemies.  The M-29 Incisor, M-13 Raptor, and M-97 Viper are the lightest snipers and good choices, or one can sacrifice cooldown time for a somewhat-heavier sniper such as the M-92 Mantis or the M-90 Indra.
+
+Submachine Guns[]
+Main article: Submachine Guns
+Submachine guns are among the lightest weapons and effective against shields; thus they are well-suited for an Adept. With Ultralight Materials, SMGs can be made to weigh almost nothing, giving very little to zero impact on cooldowns. The Blood Pack Punisher and the N7 Hurricane for example can offer DPS similar to an assault rifle while still allowing 200% cooldowns. 
+
+Combat Guide[]
+See also: Combat (Mass Effect 3)
+Even on Insanity difficulty, Adept can make quick work of any enemy without firing a single bullet--especially with the changes to the biotic detonation mechanic in Mass Effect 3.
+Unshielded enemies (whether alone or in groups) can be wiped out quickly with any biotic explosion, such as a well-placed Singularity detonated by a Warp/Throw (especially if you choose Warp evolution which makes biotic detonations even more powerful). Evolving Pull to Double Pull then detonating it with Double Throw can slice through an entire room of enemies on any difficulty very rapidly.
+Guardians can have their riot shields removed via Pull or Stasis Bubble, making them as vulnerable as common Cerberus Troopers.
+For enemies with defenses, you can use Warp, Reave, and Dark Channel to set up biotic explosions. Stasis can also set up a biotic explosion on unarmored targets with shields/barriers, and can be used in place of Singularity/Pull for crowd-control. Alternatively, you can have a squadmate set up a tech combo on the target, then detonate it with a power such as Warp or Throw—Tech Bursts are the easiest to pull off and inflict extra damage against shields, the one type of protection that doesn't take extra damage from biotic explosions. A particularly effective tactic against shielded enemies is to have a squadmate use Overload or Energy Drain, detonate that with Warp, and then detonate Warp with Throw.
+Armored enemies will go down fairly quickly by repeatedly using Warp followed by Throw. The explosions will often stagger anything smaller than Harvesters (including Brutes, Banshees, and Atlases), giving you extra time to take out the more dangerous enemies before they can get too close.
+For tightly-clustered groups of enemies (with defenses or not), you can also use Reave (w/rank 4 Radius evolution) or Stasis (w/rank 6 Bubble evolution) to set up multiple effects that can be detonated, and follow up with powers like Cluster Grenades or Double Throw for multiple detonations at once.
+The Adept's heavy melee is unique in that while it possesses the lowest damage of any heavy melee, it has a significant force value that will send unprotected enemies ragdolling to the ground. An enemy lifted by Singularity or Pull can be launched a significant distance, potentially flinging them to their death. The Adept's heavy melee has a small area of effect, potentially disabling multiple nearby enemies.
+
+Squad Members[]
+Main article: Squad Members Guide (Mass Effect 3)
+The Adept specializes in biotics, so it is highly recommended to bring power-focused squadmates to capitalize on the Adept's ability to create biotic explosions, the only limitation being that the two skills used to create these combinations must be different.
+Liara has 3 powers--Warp, Singularity, and Stasis--that an Adept can detonate. She also possesses swift recharge times due to her Pure Biotic class power. Her Singularity differs from the Adept's Singularity in that it spawns right over top of enemies, which will force Guardians to drop their riot shields.
+Kaidan has Reave, which can be used as both a starter and detonator for biotic combos. With the radius upgrade at rank 4, he can set up biotic effects on multiple targets, which an Adept can follow up on with a power like Cluster Grenade or Double Throw for multiple detonations against tightly-grouped enemies.
+Javik's Dark Channel is also an effective starter for biotic combos, as it will shift to another enemy if the first target dies, allowing the Adept to constantly have a target for detonation. Combined with the Adept's Throw, biotic detonations can happen faster than any other combination. 
+Adepts pack somewhat less of a punch against shields as they do against barriers and armor, so taking at least one squadmate with a power designed to deal with shields might be a good idea for some missions. Overload (possessed by Kaidan, EDI, and Garrus), Disruptor Ammo (provided by Ashley) and Energy Drain (provided by Tali) deal extra damage to shields; and the electric effects of these powers can be combined with Throw for quick Tech Bursts (which, while not as devastating as Biotic Detonations, are pretty powerful in their own right). On tougher targets, it's also effective to follow up Overload/Energy Drain with Warp to set off a Tech Burst, then Throw for a biotic detonation for maximum damage.
+It is important to note, though, that biotic explosions caused by two rank 6 abilities (especially if specialized for detonations) can be just as effective for dealing with shields.
+
+
+
+
+
+Mass Effect 3 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Search and Rescue • Equipment and Items
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • Power Combos • PC Tweaks • Interrupts • Merchants • The One and Only
+
+
+
+

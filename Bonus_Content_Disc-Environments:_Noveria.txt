@@ -1,0 +1,198 @@
+
+
+
+The following are transcriptions of the artists' comments for the design gallery "The Environments of Mass Effect: Noveria" found on the bonus content disc of Mass Effect released in 2007.
+
+Contents
+
+1 Image 1
+2 Image 2
+3 Image 3
+4 Image 4
+5 Image 5
+6 Image 6
+7 Image 7
+8 Image 8
+9 Image 9
+10 Image 10
+11 Image 11
+12 Image 12
+13 Image 13
+14 Image 14
+15 Image 15
+16 Image 16
+17 Image 17
+18 Image 18
+19 Image 19
+20 Image 20
+21 Image 21
+22 Image 22
+23 Image 23
+24 Image 24
+25 Image 25
+26 Image 26
+27 Image 27
+
+
+Image 1[]
+
+Derek Watts: So, this is one of the early concepts for Noveria. This is our "ice planet." I mean, every science-fiction game has to have an ice planet, and this is our ice planet. So, this is a concept of one of the stations on Noveria, the main lab. Just a large structure in the middle of the mountains, kind of buried into the side of the hills.
+
+
+Image 2[]
+
+Derek Watts: This is another view of the base. Just a soldier out patrolling, the large tower structures in the background there, the mountains out in the distance... Not much to this. Originally, Noveria was supposed to... We were planning to play around with the idea that maybe the lower part of the base was in the Alpine section, the lower greenlands; and as you moved up towards the top of the base, it would be all snow-covered, buried in the clouds.
+
+
+Image 3[]
+
+Derek Watts: This is a quick drawing of a floor map for the area. We drew these up pretty quickly, show these to the designers, making sure all the elements they want in there. So, they have specific areas they need to have; like, we need a base, maybe a cafeteria, barracks, we need a large computer core in here... We need to link these all together by a certain way, we need multiple levels and so on. So we draw these up, show them to the designers, so we can start building the block levels.
+
+
+Image 4[]
+
+Derek Watts: This is a map of the vehicle level. This got modified substantially from the beginning. This is one of the original ones. You're supposed to come out of the base, move your way up through the valley. You were going to go across the dam, you were going to work your way across this frozen lake... There was going to be all these gatehouses you had to open up. We ended up scrapping a lot of that and then just making it pretty well a road alongside of a mountain with a few tunnels. It was just getting way too complicated for what we could do.
+
+
+Image 5[]
+
+Derek Watts: These are some quick sketches of one of the earlier versions of the base. This was going to be buried in the mountain. The top one in the middle was going to be the rachni chamber. That one got modified quite a bit from that. The one on the top right, some of the bridge structures, some of the elevation and how maybe some of the rooms would look in this area.
+
+
+Image 6[]
+
+Derek Watts: So, once we get a drawing of the layout of the area, we'll go to a block level. This was a block level that was built for Noveria. This one probably took the artist about maybe a week to build. We could run around this area, get a good idea about the size, how the layout works... Is it getting too complicated? How are our views working? Can we see too much of the level? Are we going to have some streaming problems? Is there too much running around between the rooms? This is what we all decided this time before we even started to texture it or light it.
+
+
+Image 7[]
+
+Derek Watts: This is the hangar for Noveria. At this point we were thinking, as I mentioned earlier, that it was going to be lower down in the valley. There was going to be pine trees, you could see the mountains up in the distance... It almost had this feeling you were in Switzerland or Austria. You'd pull into this area, it would be quite lush; you'd get out of the walkway and move your way through the base. The problem with this was we tried to do this and it ended up like you were on two different planets. People were getting confused. "Why is it green down here and it's snowy up at the top?" "Why don't we just make it snowy on the whole planet to keep it consistent?" That's what we ended up doing.
+
+
+Image 8[]
+
+Derek Watts: This is a quick drawing over top of an actual block level, just to get our head around how the structure went up above. When you get into the level after you get out of the hangar, you move into this large hub. You can actually see it snowing outside. If you look up through the windows, you see the structure kind of above it, stepping up the side of the mountain. This is just a drawing to show the level artists what our idea was.
+
+
+Image 9[]
+
+Derek Watts: This is the garage front of the area when you get into your vehicle. It shows some of the beams, some of the walkways around there. This is where you get in the rover. We ended up having to move the rover outside of here because if you jumped into it, you could drive around and get stuck in all these areas, you could just cause total chaos. So, we moved it further out and pretty well left the hangar and the garage after that.
+
+
+Image 10[]
+
+Derek Watts: This is a concept done up for a part of Noveria. These were these tubes that we were trying to build later on in the area, this is where the rachni were going to come crawling out after you. This is a concept of maybe how these capsules were put together; almost like a gerbil cage as you ran through the cylinders, got in front of these capsules. It would be a room, rachni would pour into these, and you'd have to move to the next one. This one got pretty elaborate and we had to simplify it up quite a bit.
+
+
+Image 11[]
+
+Derek Watts: This is some drawings of maybe how some of the wall sections looked on Noveria. How the beams, maybe how the windows were built, what the frames would look like. Just some ideas for the level artist to take and build this area from there.
+
+
+Image 12[]
+
+Derek Watts: This is a drawing of the main computer core, Mira. How the beams again are also laid out for the rooms, how the actual computer is working... We ended up modifying this one substantially again. We had to use a lot of existing materials. We couldn't spend the time in it that required to make it look like this. It was just getting too complicated.
+
+
+Image 13[]
+
+Derek Watts: This is another version of some ideas. You can actually see the block level up in the top left. The artist has done some work on it in the bottom right. There's supposed to be some pipes going underneath to get into these areas. You were going to be able to scythe for quite a ways, get inside, move around some of the interiors, come back outside and so on.
+
+
+Image 14[]
+
+Derek Watts: As we decide what we want in the levels, we'll get drawings done up of a detailed version of these; we'll hand it off to the level artist and he can build those. Before we do that, we decide if we actually want to use this stuff. Is it getting too complicated? Can we make it simpler? This is an example of the pipe that goes around through the out part of the level. This looks really good. This would have been a really fun area as you walked around beside the pipe, there could have been a lot of combat in this area. Just the time invested to build it... Can we do it with something else? Is it going to be that important that we need it? If we do need it, we'll build it. If we can do it with something else, we will.
+
+
+Image 15[]
+
+Derek Watts: This is the rachni queen chamber. She was supposed to be in that tube and when you let her out, the tube moves up that ramp, clicks up onto that next section and she was supposed to leave out through that tube. Again, we had to modify this. It was getting complicated. We adjusted the floor, put more levels into it. Originally, that was supposed to be an ice floor, it was all going to be snow and so on, but we really had to build it out of a lot of existing pieces to get it done.
+
+
+Image 16[]
+
+Derek Watts: We'll also get the concept artist to do color versions of maybe what some of the rooms are going to look like. This is actually a version of the room we never used. It looks like more of a rounder room. That actual structure there in the top, that beam, we ended up making a detail mesh of that and using it throughout the level. This beam looks like it connects to a power generator. I think you were supposed to turn a switch on it and power up the station.
+
+
+Image 17[]
+
+Derek Watts: This is a concept of how the hallways would look. Hallways are very important in the games. It seems like we're endlessly in hallways. They link up all the rooms, you need them. You can make them longer in case you have to do something with streaming load. It's just something you always need. This is a drawing of maybe how the ice would look on the outside, a bit of glass... It always felt like you were on this ice world. Nice cool blue coming in through throughout that floor. That hole in the floor was supposed to be where the rack would pour through. So, if we built that, we would make that a detail mesh so we could easily move it throughout the level. We ended up changing that to be vents. It just worked out easier than trying to build all these holes in the floor.
+
+
+Image 18[]
+
+Derek Watts: This is an early concept for the reactor. It would have been really nice to build this, but again, it was just way beyond what we could do for the amount of time. Mass Effect is a huge game, we have tons of levels and we just really have to be very careful with what we try and tackle. We were supposed to go in here and power it up, we were going to go to multiple levels... This was a massive amount of work. It would have looked amazing but we really had to adjust what we were trying to do.
+
+
+Image 19[]
+
+Derek Watts: So this is an outdoor prototype of that area in the game where you were outside. You can see that pipe off to the left. These metal platforms on the ground that you would kind of walk through, like people would lay them down just so you could walk on them easier on the ground, that's all this was. We ended up having to modify this quite a bit, and this view was cut from the game.
+
+
+Image 20[]
+
+Derek Watts: So this is actually the main reactor core in the game. It changed quite a bit from the concept, but the level artist did a really good job of building this. It's got a lot of the same materials, it's got a lot of the hallway sections that we can re-use. We just opened it up a lot more. This was just a painting quickly over top of part of that level just to show how the lighting would look. What we sometimes do is, as a level artist, is build it, they might need some help in lighting, like where are some of the lights coming from; so we'll decide where spotlights are, maybe some of the colors. We can quickly do this in Photoshop to give them a really good idea of what they need to do. Lighting is complex now and very time-consuming, so you don't want to make too many changes.
+
+
+Image 21[]
+
+Derek Watts: This is a concept of the vehicle section of Noveria. This is as you come up to one of the bridges. It's supposed to be a blowing storm out there, blizzard, you can't see anything. So, we just had these snow sheds almost. If you ever drive up a highway in the mountains, they build these sheds where there's a lot of avalanche areas. That's what this is. Maybe just some orange lights to give some nice contrast in there, kind of draw your eye to it.
+
+
+Image 22[]
+
+Derek Watts: So as we did with a lot of the other levels, we built small little prototype sections. Texture artist built this one, he built this ice texture. Looks really good. So, what he did was just build a small little diorama, put some guys in there, lit it, put some cool fog in there. We can look at it and go "yeah, that looks amazing. That's the look we want. Let's carry it throughout the level."
+
+
+Image 23[]
+
+Derek Watts: What he also did was build some of our hallways, door sections. You know, we look at a lot of reference from books. We looked at Syd Mead, the Final Fantasy movie, Red Planet, Mission to Mars, we looked at Solaris... Just as much reference as we could possibly get. We looked at modern architecture for materials. So, we referenced a lot of things for that. Just the metal on the walls we liked, the kind of cushioned material on the doors, this kind of gave us a really good feeling. This, we were able to take throughout the level, this was the main part of "ice." This is what we could take throughout the area and make it really unique to Noveria.
+
+
+Image 24[]
+
+Derek Watts: So Noveria has this train you have to get into to go from level to level. And of course, how much time are you going to spend in it? Is it going to require a lot of concepting? So we gave this to one of the artists. He built this train up, did a great job on it, lit it, used a lot of re-usable materials in there. So he built it, showed us in a scene. That's what we used for the train.
+
+
+Image 25[]
+
+Derek Watts: This is another view of some of the hallways. How the windows would look, some of the railings, the floor materials... This is all textured up, lighting for it. So, what you can do is really just link these all together, build all the hallways you need, almost build rooms off these by these sections... Gives it this nice capsule feel with the ice on the outside. It turned out really well.
+
+
+Image 26[]
+
+Derek Watts: This is an earlier version of the vehicle level. We were playing around with how bright we wanted it. Did we want it quite dark during a blizzard or did we want it more during the daytime? So, this was just kind of figuring out the lighting, with some of the rough terrain built into it.
+
+
+Image 27[]
+
+Derek Watts: So Noveria went through a lot of changes like a lot of the other planets did. This was the main station. When you fly in, you come out, you go to the... This is the main part of the station that's built into the mountain. Originally, we wanted to have a lot of woods in there, some stainless steel, the green rolling hills on the outside... It just wasn't working. So we ended up bringing the snow all the way down to this point. Blue lighting outside, more concrete, just some warm lighting; these pot lights so that the level artists could really figure out where the lighting was coming from. This was a huge improvement from what we had before and the level artists did a really good job of building this.
+
+
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

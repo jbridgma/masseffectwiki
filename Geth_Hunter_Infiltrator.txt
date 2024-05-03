@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+This article is about the Mass Effect 3 Multiplayer character. For the enemy in Mass Effect 2 and Mass Effect 3, see Geth Hunter.
+
+
+
+Geth Hunter Infiltrator
+
+
+
+
+
+
+Class
+Infiltrator
+
+
+Race
+Geth
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Resurgence Pack
+
+
+Abilities
+Geth HopDecreased StaminaShield Pulse
+
+
+The geth are a humanoid race of networked AIs that were created by the quarians 300 years ago as tools of labor and war. Having since won their freedom from their creators, the geth have proven they are able to reason, analyze situations, and deploy tactics as well as any organic race so long as they remain networked with other geth.
+Geth hunters converge quickly on a target while remaining undetected. Unique perception systems give geth an unsurpassed understanding of the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 250
+
+
+Class: Networked AI
+
+
+ Tactical Cloak
+
+
+
+
+ Hunter Mode
+
+
+
+
+ Proximity Mine
+
+
+
+
+ Advanced Hardware
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Backhand slam
+Heavy Melee (Shield Pulse) – The Geth Hunter Infiltrator generates pulses of damaging energy at the expense of a fixed percentage of total shield strength. The initial activation pulse drains more shields than subsequent pulses if the attack is maintained.
+Grab (Electrified Punch) – The Geth Hunter Infiltrator drags an enemy over cover and then executes them with an electrified punch.
+
+
+
+
+
+Dodge (Geth Hop) – The Geth Hunter Infiltrator jumps out of the way of incoming attacks.
+The Geth Hunter Infiltrator can take cover, but cannot roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+This is potentially the most damaging class in Multiplayer, as it can acquire passive weapon damage bonuses from Networked AI and Hunter Mode, an additional bonus from Tactical Cloak, and still more from Proximity Mine. This makes the Geth Infiltrator one of the best classes to take down heavy units, due to the high damage that they can put out. However, to obtain maximum damage, one must sacrifice points into Fitness which can make the Geth Infiltrator very squishy; on higher difficulties one can easily be killed in two to three hits.
+Taking into account the geth weapon damage bonuses acquired from Networked AI, it is worth using the Javelin or the Geth Plasma Shotgun on this class in order to maximize the damage done.
+The Javelin's natural penetration distance is 1m, while the Widow's is 0.5m, and the Black Widow's is 0.25m. Hunter Mode, any of those weapons, and any terrain narrower than the applicable distance means easy kills on hiding or obscured opponents with no concern about return fire.
+A player can use the ability of the Plasma Shotgun to be charged up, go into cloak, and then fire without breaking cloak to devastating effect, as it allows for an incredibly powerful attack without losing your cloak. However, beware of the "charge-cloak" glitch when using the GPS though: the cloak is prone to instantly deactivating if the player has been using a charged weapon.
+The Geth Infiltrator can also excel with a heavy shotgun like the M-300 Claymore or M-11 Wraith. A cloaked Proximity Mine + Shotgun blast is fatal to all but the most powerful enemies, even on Gold. Don't put points into rank 6 of Tactical Cloak if you want to use a shotgun, though; put them in Advanced Hardware to give you some extra survivability.
+Having Hunter Mode on allows a player to use the penetration of either the M-98 Widow, the Black Widow or the Javelin to great effect, as it outlines enemies through walls and allow a player to then headshot them.
+Hunter Mode allows a deadly strategy on even the highest of difficulties. Knowing exactly where you opponent is, especially their head, even through the environment is invaluable.
+Defensively, Hunter Mode allows you to defend yourself against enemies by always keeping a wall and some cover between you and them at all times, thus never taking any damage.
+Offensively, with the aforementioned Sniper Rifles with natural piercing, the player can combine one with Armor Piercing Ammo, a Sniper Rifle Piercing Mod V, and a Sniper Rifle Rail Amp III to be able to penetrate the furthest possible distance of any combined set of weapons and equipment. Combined with Hunter Mode's awareness of where enemies are exactly behind a wall, and you can pierce up to 3.35m of environment with a shot, targeting the head, doing massive damage. The only reduction of damage is the 30% reduction of the Sniper Rifle Piercing Mod, and it is made up for in damage bonuses of the Armor Piercing Ammo and the Extended Barrel, the other advised mod. The only problem is that the Javelin and Widow only have one shot per clip, and Hunter Mode is a passive ability that increases damage dealt with guns and powers but does no damage. If you're shooting through walls completely, the Proximity Mine can be ignored. As such, all damage will be coming from weapons, so it's recommended to take the Black Widow, as of the 3 sniper rifles which can increase pierce distance, the Black Widow is the only one with a multi-shot clip. The resulting pierce distance is 2.6m. An alternate option is to use the Javelin due to its piercing properties and high damage.
+However, Hunter Mode comes at the price of incredibly reduced shields, combined with the already low health the geth characters have, making the player very vulnerable to grenades and rockets, which can kill a player in one hit on Gold. Grenades, however, require the enemy to have a straight line of sight on you, in order for the enemy to target you, and on higher difficulties, Grenades one-shot everyone but the most sturdy Krogan. Even without Hunter Mode on, one is likely to be killed by a grenade on Gold. Rockets can't initially shoot through shields, but if shields are not given a chance to regenerate adequately enough, rockets CAN hit through shields. That being said, there is an annoying bug where Rocket Troopers may shoot 2 rockets practically simultaneously. Both grenades and rockets can be avoided through dodging, good positioning, and awareness—awareness that Hunter Mode can further enhance.
+A duration maxed Tactical Cloak is very useful on Gold, when it allows a player to be invisible for the time it takes to activate an objective (such as Signal Boosters etc). That being said, when buying the Rank 4 Damage bonus rank over the Rank 4 Duration bonus rank, one can cloak right before starting a device, and finish mere seconds after the cloak breaks. If timed properly and no one sees you, enemies are unlikely to attack, and you can even use a power right as you're finishing the device and standing, and the Tactical Cloak will override the recharge speed, as it would have anyway.
+Proximity Mine can be used very effectively even on higher difficulties as, if it detonates whilst the player is in cloak, it can do lots of damage. However, it might be worth maximising either Hunter Mode or Proximity Mine, but not both in order to have maximum shields and weapon damage, and one very strong power.
+The geth's "light" melee strike is actually slower in execution than the "heavy" shield pulse, which is also capable of doing more damage, to multiple enemies, so it is generally better to use the shield pulse.
+Note that keeping the melee button held will cause you to continuously send out up to six pulses.
+One of the key things to keep in mind when playing a geth character is the shield/health balance. This means that you will only get a full screen visual warning (bloody screen) about how much damage you have taken when you have lost 75% of your hit points. In return, you can fully restore more of your hit points by taking cover than most other classes (since such a low proportion of your hit points are health).
+Since enemies that fire their weapons in a heavy 3 shot burst such as Atlases and Geth Primes can remove player shields so easily, a geth player should be very careful or try to avoid fighting one of these units if it is backed up by other enemies with faster-firing weapons as they with rip through your defences if they catch you.
+The animation for the Geth Infiltrator's heavy melee can actually be cancelled before the player touches the ground. This can be done by holding the melee button down long enough to activate the Shield Pulse and immediately letting it go. When performed correctly, the player will simply pause to release the pulse and the camera will shift slightly, then normal control will resume.
+The N7 Piranha and AT-12 Raider can be exceedingly powerful in the hands of a Geth Infiltrator if Hunter Mode is evolved for rate of fire and accuracy. This is because both the Piranha and the Raider have predetermined spread patterns to help counteract the high damage; these spreads will be tightened significantly with a choke in addition to Hunter Mode evolved for accuracy allowing these weapons to be used at significantly further ranges. In addition, Tactical Cloak will allow the player to fire almost all shots from the N7 Piranha while still retaining the damage bonus. A particularly effective and fun tactic is to use Hunter Mode to flank enemies, jump out from behind cover and empty the magazine into their backs, then get back into cover while those that survived are still turning around.
+If using a shotgun (other than the Geth Plasma Shotgun, Graal Spike Thrower, or Venom), Drill Rounds are a godsend. Drill Rounds III grants 3 meters of cover penetration, which is more than enough to penetrate most walls. The Geth is uniquely suited to take advantage of this, since Hunter Mode allows them to see opponents through walls at close-to-mid range. The N7 Crusader has a frighteningly good synergy with Drill Rounds and Hunter Mode
+Cerberus[]
+Using both the Javelin and Hunter Mode in concert are effective vs. Cerberus. They render Centurion's smoke grenades useless, pierces through multiple Guardians, reveals cloaked Phantoms, highlights a Trooper's head behind cover, and renders thick cover comparatively redundant.
+Proximity Mine combined with Hunter Mode's awareness bonuses, can help kill phantoms easily. Use Hunter Mode to first locate, cloak, shoot the ground near their feet with Proximity Mine to stagger and weaken them, then move in or aim for the kill. Repeat until dead.
+Geth Infiltrators are the only enemies that can truly one shot kill foes even on Gold, but a Javelin and some equipment is needed.
+Collectors[]
+Geth are very weak, even with Hunter Mode off and Advanced Hardware maxed out. It's advisable to maintain distance/cover/cloak vs. heavy hitters and armoured foes on higher difficulties, like Scions and Praetorians.
+It may be best to forego the Javelin and instead use a weapon that is a little more versatile I.E. the Valiant, Indra, or Collector Sniper Rifle, or the Acolyte pistol to dispose of the barriers. That will help you to strip barriers from every enemy who has them, and still allow you to deal with enemies who have armor.
+Geth[]
+Both Hunter Mode and the Javelin are fantastic! It allows a player to clearly see any Hunters sneaking up on their squad, and highlights where the head of a hunters is. Headshots can be performed on all geth foes: Geth Pyro's fuel tanks are especially vulnerable points.
+Shielding can easily be stripped off of heavier enemies by using the Acolyte. This will expose the armor in just a couple of shots.
+Take care to look out for where the Geth Prime lays its turrets and drones, if you get caught in their triple burst while one of the turrets is in a position to flank you, you will almost certainly be downed.
+Reapers[]
+Geth are overkill against Reapers, and as such it would generally be better to play as one of the other Infiltrators, or switch your weapon loadout since the snipers can kill enemies regardless of cloak. If you do opt for the standard Javelin Geth Hunter combo, then you will completely annihilate weaker enemies, and do extreme damage to Brutes, Ravagers, and unprotected Banshees. This'll make you a very powerful support class, but not really ideal for constant work on smaller foes. As such you may want to consider the Valiant, Black Widow, or Indra, if you want to snipe as these will give you more room for error, more shots to kill foes with, and make you more flexible.
+The Acolyte would prove quite useful against the Banshee, since you can then single handedly take down barriers alongside armor, the Geth Infiltrators main weakness.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

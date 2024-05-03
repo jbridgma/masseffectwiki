@@ -1,0 +1,336 @@
+
+
+
+
+
+Kett Carfalon
+
+
+
+
+
+
+General Info
+
+Rarity
+Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+0
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+325-715
+
+
+
+
+
+The Kett Carfalon is a melee weapon in Mass Effect: Andromeda.
+
+Contents
+
+1 Description
+2 Features
+3 Strategies
+4 Stats
+5 Development
+
+
+Description[]
+The kett Carfalon blade can directly inject the user's hand with a variety of neurochemical stimulants. The Carfalon reinforces the body's reward mechanisms, allowing a combatant to overcome pain and fatigue after successful strikes. The weapon's ability to adapt to various species suggests the kett occasionally give them to favored vassals.
+
+Features[]
+The Kett Carfalon is a mid-tier melee weapon that restores a small amount of the wielder's health with every successful strike on an enemy. It is swung horizontally in a spinning move, which enables it to hit multiple targets around the wielder, making it useful for crowd control purposes.
+The Human Guardian wields a Carfalon as his melee weapon.
+
+Strategies[]
+As with most melee weapons, the Carfalon is best suited to Vanguard-style builts that regularly get up-close and personal with the enemy. It excels in battle against clustered infantry where its spin attack can hit the maximum number of targets in a single strike, ideally killing them all before they can recover. Enemy reinforcements jumping from drop-ships are ideal targets for a Carfalon attack.
+Stats[]
+
+
+Rank
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+
+Melee Damage
+
+325
+
+368
+
+411
+
+455
+
+498
+
+541
+
+585
+
+628
+
+671
+
+715
+
+Development[]
+
+
+Rank
+
+ Research Cost
+
+ Kett Alloy
+
+ Copper
+
+ Cadmium
+
+ Vanadium
+
+ Augmentation Slots
+
+
+I
+
+125
+
+30
+
+120
+
+60
+
+20
+
+0
+
+
+II
+
+140
+
+30
+
+150
+
+60
+
+20
+
+3
+
+
+III
+
+155
+
+40
+
+160
+
+80
+
+20
+
+3
+
+
+IV
+
+170
+
+40
+
+180
+
+90
+
+20
+
+3
+
+
+V
+
+185
+
+50
+
+200
+
+100
+
+30
+
+3
+
+
+VI
+
+200
+
+50
+
+220
+
+110
+
+30
+
+3
+
+
+VII
+
+215
+
+50
+
+230
+
+110
+
+30
+
+3
+
+
+VIII
+
+230
+
+60
+
+240
+
+120
+
+30
+
+3
+
+
+IX
+
+245
+
+60
+
+250
+
+120
+
+30
+
+3
+
+
+X
+
+260
+
+60
+
+250
+
+120
+
+30
+
+3
+
+
+Total
+
+1925
+
+470
+
+2000
+
+970
+
+260
+
+N/A
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

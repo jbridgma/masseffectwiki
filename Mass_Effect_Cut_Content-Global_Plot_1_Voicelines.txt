@@ -1,0 +1,703 @@
+
+
+
+The following dialogues are related to the Mass Effect cut assignment Global Plot 1. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 gbl01_jered
+2 gbl01_lucan
+3 gbl01_vasilis (1)
+4 gbl01_scout
+5 gbl01_horace
+6 gbl01_joker
+7 gbl01_trig_01
+8 gbl01_gregor (1)
+9 gbl01_captain
+10 gbl01_gregor (2)
+11 gbl01_trig_05
+12 gbl01_grunt
+13 gbl01_trig_06
+14 gbl01_trig_07
+15 gbl01_trig_08
+16 gbl01_gregor / gbl01_jered
+17 gbl01_trig_01
+18 gbl01_vasilis (2)
+19 gbl01_vasilis (3)
+20 gbl01_trig_10
+21 gbl01_lysander
+
+
+gbl01_jered[]
+Note:  this dialogue was reconstructed solely based on its English audio files (Tali's lines excepted: these were translated from the German version as they're unavailable in English) and the pattern of their attributed TLK number. The order of the conversation, or the wording or position of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_jered.isb, gbl01_jered_de.isb
+Characters always present:
+
+Jered Salenta
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(Kaidan Alenko is not present) (Kaidan is present)  Jered Salenta: Commander. Kaidan Alenko's on your crew, right?
+(Par) Yes. (Neu) Who are you? (Ren) Do I know you?  Shepard: Yes, he is. How do you know him?Jered Salenta: I'm Jered Salenta. I knew Kaidan back at Jump Zero. Look, I can't stay here long. I have a friend on the Citadel who's got himself into some trouble.| Urdnot Wrex: Huh-uh. Really?| Ashley Williams: You don't say.| Tali'Zorah: I think I can relate.| Liara T'Soni: That is too bad.Jered Salenta: It's pretty serious. His life's in danger. Shepard: Who wants to know?Jered Salenta: I'm Jered Salenta. I knew Kaidan back at Jump Zero. Look, I can't stay here long. I have a friend on the Citadel who's got himself into some trouble.| Urdnot Wrex: Huh-uh. Really?| Ashley Williams: You don't say.| Tali'Zorah: I think I can relate.| Liara T'Soni: That is too bad.Jered Salenta: It's pretty serious. His life's in danger. Shepard: Who wants to know?Jered Salenta: I'm Jered Salenta. I knew Kaidan back at Jump Zero. Look, I can't stay here long. I have a friend on the Citadel who's got himself into some trouble.| Urdnot Wrex: Huh-uh. Really?| Ashley Williams: You don't say.| Tali'Zorah: I think I can relate.| Liara T'Soni: That is too bad.Jered Salenta: It's pretty serious. His life's in danger.
+(Par) I see. (Neu) How can I help? (Ren) I need to go.  Shepard: How can I help?Jered Salenta: I just need you to get a message to him. Tell him Lysander can help him, if he wants. I'd go myself but... I've got my own troubles. Shepard: What is it you want me to do?Jered Salenta: I just need you to get a message to him. Tell him Lysander can help him, if he wants. I'd go myself but... I've got my own troubles. Shepard: I don't have time for this right now.Jered Salenta: Please. Look, I just need to talk to you for a second. I just need you to get a message to him. Tell him Lysander can help him, if he wants. I'd go myself but... I've got my own troubles.
+(Neu) Tell me where to go. (Ren) Can't do. (Inv) What about C-Sec?  Shepard: Where is this friend of yours?Jered Salenta: Oh right. He's down in the alley by the black markets. I tried to get down there but it's too risky for me. His name's Lucan. I should warn you, he's got a bit of a temper.| Liara T'Soni: We will be careful.| Tali'Zorah: We'll manage.| Urdnot Wrex : He's not the only one.| Ashley Williams: Don't worry about us.Jered Salenta: Good. Okay. Well, uhh... I should beat it. I'll meet you in the docking bay by that ship of yours later on.| Urdnot Wrex: That kid's jumpier than a volus on a hot plate.| Ashley Williams: That kid needs to relax a little.| Tali'Zorah: That young man seems a little... unhinged.| Liara T'Soni: Something about that kid unnerves me.(End of conversation) Shepard: Sorry. I'm not interested in helping you right now.Jered Salenta: Fine, I... Just come and see me when you've got time.(End of conversation)(Re-initiating conversation)Jered Salenta: Hey, have you changed your mind? Will you speak to my friend for me?(Return to last choice) Shepard: Why come to me? Why not go to C-Sec?Jered Salenta: Didn't I mention I was in trouble? I need someone I can trust to speak to him. Kaidan's the closest I've got.(Return to last choice) Jered Salenta: Kaidan. It's me, Jered. Jered Salenta.
+(Par) Kaidan? (Neu) Who is this? (Ren) What the--  Shepard: You know this guy, Kaidan?Kaidan Alenko: Ahh... I don't remember... Jered? I...Jered Salenta: Jump Zero. We were in boot together... It's Jered!Kaidan Alenko: Right. Yeah. Wait, didn't you leave right after boot camp?Jered Salenta: Yeah. Those idiots didn't think I had enough skill. They wouldn't know skill if it bit them in the, ah... Hey. I need a favor. A friend of mine's got himself into some trouble.Kaidan Alenko: What kind of trouble?Jered Salenta: It's pretty serious. His life's in danger. Shepard: You know this guy, Kaidan?Kaidan Alenko: Ahh... I don't remember... Jered? I...Jered Salenta: Jump Zero. We were in boot together... It's Jered!Kaidan Alenko: Right. Yeah. Wait, didn't you leave right after boot camp?Jered Salenta: Yeah. Those idiots didn't think I had enough skill. They wouldn't know skill if it bit them in the, ah... Hey. I need a favor. A friend of mine's got himself into some trouble.Kaidan Alenko: What kind of trouble?Jered Salenta: It's pretty serious. His life's in danger. Shepard: You know this guy, Kaidan?Kaidan Alenko: Ahh... I don't remember... Jered? I...Jered Salenta: Jump Zero. We were in boot together... It's Jered!Kaidan Alenko: Right. Yeah. Wait, didn't you leave right after boot camp?Jered Salenta: Yeah. Those idiots didn't think I had enough skill. They wouldn't know skill if it bit them in the, ah... Hey. I need a favor. A friend of mine's got himself into some trouble.Kaidan Alenko: What kind of trouble?Jered Salenta: It's pretty serious. His life's in danger.
+(Inv) What is it? (Neu) Not now.  Shepard: What was it you wanted again?Jered Salenta: It's my friend. I'm worried he's in trouble.Kaidan Alenko: What kind of trouble?Jered Salenta: It's pretty serious. His life's in danger. Shepard: This just isn't a good time.Jered Salenta: Fine, I... Just come and see me when you've got time.(Dialogue ends)(Dialogue resuming)Jered Salenta: Hey, do you have time to hear me out now?(Return to last choice)
+(Par) I see. (Neu) How can I help? (Ren) I need to go.  Shepard: How can I help?Jered Salenta: I just need you to get a message to him. Tell him Lysander can help him, if he wants. I'd go myself but... I've got my own troubles. Shepard: What is it you want me to do?Jered Salenta: I just need you to get a message to him. Tell him Lysander can help him, if he wants. I'd go myself but... I've got my own troubles. Shepard: I don't have time for this right now.Jered Salenta: I just need you to get a message to him. Tell him Lysander can help him, if he wants. I'd go myself but... I've got my own troubles.
+{{#tag:tabber|(Neu) Tell me where to go. = Shepard: Where is this friend of yours?Jered Salenta: Oh right. He's down in the alley by the black markets. I tried to get down there, but it's too risky for me. His name's Lucan. I should warn you, he's got a bit of a temper.Kaidan Alenko: Thanks for the warning, Jered.Jered Salenta: Good. Okay. Well, uhh... I should beat it. I'll meet you in the docking bay by that ship of yours later on.| Urdnot Wrex: That kid's jumpier than a volus on a hot plate.| Ashley Williams: That kid needs to relax a little.| Tali'Zorah: That young man seems a little... unhinged.| Liara T'Soni: Something about that kid unnerves me.Kaidan Alenko: He's not a bad guy, though he was always a bit skittish from what I remember.| Liara T'Soni: I am a bit worried he was not telling us the whole truth.(End of conversation)
+|-| (Ren) Can't do. = Shepard: Sorry. I'm not interested in helping you right now.Jered Salenta: Kaidan, can't you say something?Kaidan Alenko: Commander, it doesn't sound like it'll take long.
+
+(Inv) Fine. (Neu) Leave me alone. (Inv) What about C-Sec?  Shepard: Alright. Where is this friend of yours?Jered Salenta: Oh right. He's down in the alley by the black markets. I tried to get down there, but it's too risky for me. His name's Lucan. I should warn you, he's got a bit of a temper.Kaidan Alenko: Thanks for the warning, Jered.Jered Salenta: Good. Okay. Well, uhh... I should beat it. I'll meet you in the docking bay by that ship of yours later on.| Urdnot Wrex: That kid's jumpier than a volus on a hot plate.| Ashley Williams: That kid needs to relax a little.| Tali'Zorah: That young man seems a little... unhinged.| Liara T'Soni: Something about that kid unnerves me.Kaidan Alenko: He's not a bad guy, though he was always a bit skittish from what I remember.| Liara T'Soni: I am a bit worried he was not telling us the whole truth.(End of conversation) Shepard: I said "no." Now back off.Jered Salenta: Oh but come on-- Alright then. If you change your mind, I might still be around later.(End of conversation)(Re-initiating conversation)Jered Salenta: Hey, have you changed your mind? Will you speak to my friend for me?
+(Inv) Sure. (Neu) Nope.  Shepard: What was it you wanted, again? = Jered Salenta: Oh right. He's down in the alley by the black markets. I tried to get down there, but it's too risky for me. His name's Lucan. I should warn you, he's got a bit of a temper.Kaidan Alenko: Thanks for the warning, Jered.Jered Salenta: Good. Okay. Well, uhh... I should beat it. I'll meet you in the docking bay by that ship of yours later on.| Urdnot Wrex: That kid's jumpier than a volus on a hot plate.| Ashley Williams: That kid needs to relax a little.| Tali'Zorah: That young man seems a little... unhinged.| Liara T'Soni: Something about that kid unnerves me.Kaidan Alenko: He's not a bad guy, though he was always a bit skittish from what I remember.| Liara T'Soni: I am a bit worried he was not telling us the whole truth.(End of conversation) Shepard: Not yet. Sorry, kid.Jered Salenta: Oh but come on-- Alright then. If you change your mind, I might still be around later.(End of conversation)(Re-initiating conversation)Jered Salenta: Hey, have you changed your mind? Will you speak to my friend for me?(Return to last choice) Shepard: Why come to me? Why not go to C-Sec?Jered Salenta: Didn't I mention I was in trouble? I need someone I can trust to speak to him. Kaidan's the closest I've got.(Return to last choice)
+gbl01_lucan[]
+Note:  these lines were transcribed from their English audio files. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate. Tali's lines also appear to be missing, as the game always requires at least five squadmates out of six to intervene in most situations.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_lucan.isb
+Characters always present:
+
+Lucan
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+(Ambient lines)
+Lucan: "The path is gone... All is lost..."
+Lucan: "It-it itches. Right there at the back of my skull."
+Lucan: "I've seen inside. There is only pain."
+Lucan: "You can't help me. Go away."
+(Initiating conversation)
+Lucan: Back. I must go back. But the path is gone. Go away! You will only muddy the path. Go--
+| Ashley Williams: I don't think this guy's all here.
+| Kaidan Alenko: Careful, he seems a bit unstable.
+| Garrus Vakarian: Something's not right, here.
+| Urdnot Wrex: This human's crazier than most.
+Lucan: The path... You don't know the path. But I do! Or I did.
+
+(Par) Easy now. (Neu) What path? (Ren) You're crazy.  Shepard: Calm down, friend. I'm just here to talk.Lucan: No talking! You don't know the path! The path leads to the camp. The quiet spot where no one talks. Back to my friends. Back to Feros. Shepard: Where are you trying to get back to?Lucan: The path leads to the camp. The quiet spot where no one talks. Back to my friends. Back to Feros. Shepard: What the hell are you talking about?Lucan: No talking! You don't know the path! The path leads to the camp. The quiet spot where no one talks. Back to my friends. Back to Feros.
+(Neu) I have a message. (Inv) Investigate  Shepard: I was asked to tell you that Lysander is trying to help you.Lucan: What? No! Lysander mustn't find us, that's why we fled! I shouldn't be talking to you.| Ashley Williams: Calm down! There's no need to shout.| Urdnot Wrex: Quit your hollering.| Kaidan Alenko: Relax, Lucan.Lucan: No! You won't take my friends! I won't let you!| Ashley Williams: Watch out! He's a biotic!| Garrus Vakarian: Look out, he's a biotic!| Kaidan Alenko: Damn it, he's a biotic!| Urdnot Wrex: Damn biotics.(End of conversation)
+{{#tag:tabber|Friends = Shepard: What friends? Who are they?Lucan: Good friends. Brothers even. But I couldn't stay. Too dangerous. Too much trouble for my friends. I don't hate them. It's not their fault. I was made poorly. Some parts not working. Other parts working too well.(Return to last choice)
+
+|-| Location = Shepard: Where did all this happen, Lucan?Lucan: Ruins... Crumpled buildings... It's our secret place. Nobody knows but us. It was... It's so distant now. Like a picture at the end of a long tunnel.(Return to last choice)
+gbl01_vasilis (1)[]
+Note:  this dialogue was reconstructed solely based on its English audio files (some of Kaidan's lines excepted: these were translated from the German version as they're unavailable in English) and the pattern of their attributed TLK number. The order of the conversation, or the position and wording of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_vasilis.isb, gbl01_vasilis_de.isb
+Characters always present:
+
+Vasilis Kostas
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(Kaidan is not present) (Kaidan is present)  | Ashley Williams: That guy was completely out of control.| Urdnot Wrex: And I thought the other kid was jumpy.| Liara T'Soni: Did you see his eyes? They were wild.| Garrus Vakarian: Well, that didn't quite go as planned.
+(Neu) Let's go. (Ren) Damn it, Kaidan.  Shepard: Looks like we're done here. Let's move out. Shepard: Alenko gets a smack the next time I see him. [sigh] Alright everyone, move out. | Ashley Williams: That guy was completely out of control.| Urdnot Wrex: And I thought the other kid was jumpy.| Liara T'Soni: Did you see his eyes? They were wild.| Garrus Vakarian: Well, that didn't quite go as planned.Kaidan Alenko: I'm sorry, Commander. I should have known better than to listen to him.
+(Par) It's all right. (Neu) Let's go. (Ren) Damn it, Kaidan.  Shepard: You were just trying to help. You couldn't have known it would end up like this.Kaidan Alenko: Thank you, Commander. Shepard: Looks like we're done here. Let's move out. Shepard: Last time I do a "favor" for one of your friends, Alenko.Kaidan Alenko: Yes, Commander. Understood.
+| Tali'Zorah: Wait... Commander. Looks like Lucan left something behind. A datapad of some sort."| Ashley Williams: Commander, looks like Lucan dropped this. Some sort of datapad.| Garrus Vakarian: Commander. Lucan dropped this datapad, might be important.| Liara T'Soni: Of course. Right behind you, Commander.Vasilis Kostas: Excuse me. Commander, is it? Could I speak with you a moment?
+
+(Par) Of course. (Neu) About what? (Ren) I just want to leave.  Shepard: What can I help with?Vasilis Kostas: My name is Vasilis Kostas. I was observing Lucan when you came along and, well... Did I hear you mention the name "Lysander"? Shepard: What is it now?Vasilis Kostas: My name is Vasilis Kostas. I was observing Lucan when you came along and, well... Did I hear you mention the name "Lysander"? Shepard: This really isn't a good time.Vasilis Kostas: I understand that, and I respect your privacy. But I was watching Lucan when you arrived and... Did I hear you mention the name "Lysander"?
+(Par) Indeed. (Neu) Why?  Shepard: You did. Do you know who this Lysander is? Shepard: What's your interest in Lysander?
+Vasilis Kostas: He's my brother. I was hoping Lucan might know where he is.
+| Ashley Williams: You don't know where your brother is?
+| Liara T'Soni: Why are you seeking your brother?
+| Urdnot Wrex: You don't know where he is?
+| Kaidan Alenko: Looking for him? Is he missing?
+Vasilis Kostas: He was abducted by a group of Voids. Guys jacked up on illegally implanted biotics.
+
+(Neu) Give me details. (Inv) What's a "Void"?  Shepard: What happened? What do they want with him?Vasilis Kostas: I don't know all the details. I know my brother had contact with these Voids and then he disappeared. That's why I was watching him, I thought he might know about my brother. But, erm... why were you talking to him? Shepard: I've never heard that term before.Vasilis Kostas: It's not common. Voids usually die from their procedures or end up like Lucan. They're fairly rare. That's why I was watching him, I thought he might know about my brother. But, erm... why were you talking to him?
+(Par) A friend was concerned. (Neu) I was told to.  Shepard: A friend of Lucan's asked me to speak to him. Thought he was in danger. Shepard: A friend of Lucan's thought he was in danger.
+| Kaidan Alenko: He said Lucan was a friend, but I'm starting to wonder if he was telling us the whole truth.
+| Urdnot Wrex: Huh... He said he was a friend.
+| Garrus Vakarian: Claimed to be a friend. I'm beginning to question his motives.
+| Liara T'Soni: He said he was a friend, but now I am beginning to wonder.
+| Ashley Williams: Well, he said Lucan was his friend. I wonder...
+Vasilis Kostas: But Lysander, did you hear anything about his whereabouts?
+
+(Par) He was confused. (Neu) Not really.  Shepard: Lucan was pretty nervous. He didn't say much of anything. Shepard: No. Lucan was quite secretive.
+Vasilis Kostas: It's too bad. I was hoping you might know more than I did.
+| Tali'Zorah: Hmm. Lucan's datapad mentions something about a planet in the Hades Gamma cluster. Might it be related?
+| Ashley Williams: Well, Lucan's datapad mentions a planet in the Hades Gamma cluster. That could be something.
+| Garrus Vakarian: Lucan's datapad might give us a clue. I noticed something in there about a planet in the Hades Gamma cluster.
+| Liara T'Soni: Perhaps his datapad will be of use. It does mention a planet, somewhere in the Hades Gamma cluster, I believe.
+Vasilis Kostas: Commander. I wasn't looking for help, but since you're already involved... Would you consider going to Feros? To look for my brother?
+
+(Par) I'll do it. (Ren) I don't think so. (Inv) I have questions.  Shepard: Sure. I'll help you out. Shepard: Finding your brother doesn't interest me.Vasilis Kostas: "But, Commander... Feros is a long way from here. If my brother is there, you'll be able to get to him much faster than I can.
+(Par) I'll find him. (Ren) I have other issues.  Shepard: I'll see if I can find your brother. Shepard: I don't have time for this, Vasilis. You're on your own.Vasilis Kostas: I see. Well... If you have time later, please consider helping me.(End of conversation)(Re-initiating dialogue)Vasilis Kostas: Commander, have you changed your mind? Are you going to help me find my brother on Feros?(Return to last choice)
+(Par) I'll find him (Ren) Too busy.  Shepard: I'll see if I can find your brother. Shepard: This just isn't the time, Vasilis.Vasilis Kostas: I see. Well... If you have time later, please consider helping me.(End of conversation)(Re-initiating conversation)Vasilis Kostas: Commander, have you changed your mind? Are you going to help me find my brother on Feros?(Return to last choice) Shepard: Tell me about your brother.Vasilis Kostas: Good man. Always trying to help people, trying to take the high road. I think that's how he got involved with the Voids. He thought he could help them.
+(Neu) [Return] (Inv) Relationship  (Inv) Lucan (Inv) Vasilis (Inv) Voids  Shepard: I've heard everything I need to.Vasilis Kostas: I've answered your questions, Commander. Will you help me find Lysander?(Return to second last choice) Shepard: You didn't want your brother helping them?Vasilis Kostas: No. And I told him so. Pushed him farther away. I just want to find him, Commander. Before something worse happens to him.(Return to last choice) Shepard: What makes you think Lucan knows the people who abducted your brother?Vasilis Kostas: Voids like Lucan are pretty rare, and they're usually exiles. They like to stick together. I figured he'd know the people who took my brother, or at least where to find them. He was my last good lead.(Return to last choice) Shepard: Tell me more about yourself, Vasilis.Vasilis Kostas: There's-- there's not much to tell, really, I... I spend most of my time looking for my brother. Occasionally I have time to head into work, but not often.
+(P Inv) What work?  Shepard: What do you do when you're not looking for your brother?Vasilis Kostas: I'm a researcher here on the Citadel. Unfortunately, since my brother disappeared, I haven't spent much time in the lab. I don't find my brother soon, I likely won't have a job to go back to.(Return to last choice) Shepard: What can you tell me about these "Voids"?Vasilis Kostas: They're dangerous, unpredictable. Generally a menace to society.
+(P Inv) Be specific.  Shepard: But what exactly is a Void?Vasilis Kostas: Anyone who is stupid enough to get illegally implanted biotics. Maybe they wanted an extra edge. Maybe they couldn't afford legal procedures. Illegal biotics can destroy the mind. Dementia, paranoia... Well, you saw Lucan. In the end, they all end up the same. Exiled, unstable and unfit for society.(Return to last choice)
+Vasilis Kostas: Good. I feel much better knowing you're going after him. Don't take any chances, Commander. Those Voids are dangerous.
+
+(Par) Of course. (Ren) I know.  Shepard: I'll be careful, Vasilis. See you soon. Shepard: I can take care of myself.
+Vasilis Kostas: I hope so, Commander. I hope so.
+(End of conversation)
+(Re-initiating conversation)
+Vasilis Kostas: What is it, Commander?
+
+(Neu) Goodbye. (Inv) I have questions.  Shepard: I was just on my way.(End of conversation) Shepard: Tell me about your brother.Vasilis Kostas: Good man. Always trying to help people, trying to take the high road. I think that's how he got involved with the Voids. He thought he could help them.
+(Neu) [Return] (Inv) Relationship  (Inv) Lucan (Inv) Vasilis (Inv) Voids  Shepard: I've heard everything I need to.Vasilis Kostas: I've answered your questions, Commander. Will you help me find Lysander?(Return to second last choice) Shepard: You didn't want your brother helping them?Vasilis Kostas: No. And I told him so. Pushed him farther away. I just want to find him, Commander. Before something worse happens to him.(Return to last choice) Shepard: What makes you think Lucan knows the people who abducted your brother?Vasilis Kostas: Voids like Lucan are pretty rare, and they're usually exiles. They like to stick together. I figured he'd know the people who took my brother, or at least where to find them. He was my last good lead.(Return to last choice) Shepard: Tell me more about yourself, Vasilis.Vasilis Kostas: There's-- there's not much to tell, really, I... I spend most of my time looking for my brother. Occasionally I have time to head into work, but not often.
+(P Inv) What work?  Shepard: What do you do when you're not looking for your brother?Vasilis Kostas: I'm a researcher here on the Citadel. Unfortunately, since my brother disappeared, I haven't spent much time in the lab. I don't find my brother soon, I likely won't have a job to go back to.(Return to last choice) Shepard: What can you tell me about these "Voids"?Vasilis Kostas: They're dangerous, unpredictable. Generally a menace to society.
+(P Inv) Be specific.  Shepard: But what exactly is a Void?Vasilis Kostas: Anyone who is stupid enough to get illegally implanted biotics. Maybe they wanted an extra edge. Maybe they couldn't afford legal procedures. Illegal biotics can destroy the mind. Dementia, paranoia... Well, you saw Lucan. In the end, they all end up the same. Exiled, unstable and unfit for society.(Return to last choice)
+gbl01_scout[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number, except for the scout's lines: these were translated from the German version as they're unavailable in English. The order of the conversation, or the position and wording of the responses on the dialogue wheel may not be accurate. Tali's lines also appear to be missing, as the game always requires at least five squadmates out of six to intervene in most situations.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_scout.isb, gbl01_scout_de.isb
+Characters always present:
+
+Commander Shepard
+Unnamed scout
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Ashley Williams: Commander.
+| Liara T'Soni: Commander.
+| Garrus Vakarian: Commander.
+| Urdnot Wrex: Shepard.
+Scout: Wait! Don't shoot!
+
+(Par) Don't be afraid. (Neu) Why are you here? (Ren) Talk. Fast.  Shepard: We're not gonna hurt you.Scout: I'm just a scout. They pay me to watch the street. That's all. Shepard: What are you doing out here?Scout: I'm just a scout. They pay me to watch the street. That's all. Shepard: You've got 10 seconds to explain why you're spying on us.Scout: Okay, okay! Just don't hurt me. I'm just a scout. They pay me to watch the street. That's all.
+| Ashley Williams: Who pays you?
+| Kaidan Alenko: Who do you work for, boy?
+| Garrus Vakarian: Who pays you?
+| Urdnot Wrex: Who are you working for?
+Scout: I... I shouldn't tell you.
+
+(Par) Alright. (Neu) He can leave. (Ren) You should run. (Cha) I need your help. (Int) You have bigger issues. (Inv) How about a bribe? (Int) You have bigger issues.  Shepard: Thanks for the info. You're free to go.Scout: You... you want to let me go, just like that? You won't shoot me in the back as soon as I turn around?| Ashley Williams: Then walk backwards. But do it quickly before we change our minds.| Kaidan Alenko: Just get moving, kid.| Garrus Vakarian: Get lost or we will shoot you.| Urdnot Wrex: Run quickly then.Scout: I-- I'm already gone!(End of conversation) Shepard: Let him go. He's not worth the trouble.Scout: You... you want to let me go, just like that? You won't shoot me in the back as soon as I turn around?| Ashley Williams: Then walk backwards. But do it quickly before we change our minds.| Kaidan Alenko: Just get moving, kid.| Garrus Vakarian: Get lost or we will shoot you.| Urdnot Wrex: Run quickly then.Scout: I-- I'm already gone!(End of conversation) Shepard: Get out of here before I decide to kill you.Scout: I-- I'm already gone!(End of conversation) Shepard: I'm a Spectre, here on important business. Helping me is the best thing for everyone.Scout: A Spectre? Alright. It's just a band of mercenaries. They camp further down the street from here.| Kaidan Alenko: Mercenaries? What are they doing out here in the middle of nowhere?| Ashley Williams: What are they doing out here?| Urdnot Wrex: Mercs, huh? Wonder what they're doing out here.| Garrus Vakarian: Mercs, out here? What do they want?Scout: They protect... It'd be best if I kept my mouth shut. You can ask them yourself if you want to know more.
+(Neu) Where's Lysander? (Ren) I need Lysander.  Shepard: Start by telling me where to find Lysander. Shepard: Just tell me where I can find Lysander.
+Scout: He is at a place called "MindTech". That's an office on... erm... Noveria. That's-- that's all I know. Please, don't hurt me. Here, look. I have a few things you can have, definitely worth your money. Alright?
+
+(Par) I should go. (Neu) Goodbye. (Ren) Leave. (P Inv) I want to buy. (Inv) I need information.  Shepard: Thanks for your help. I'd better go.Scout: Okay. Goodbye.(End of conversation) Shepard: I think I'll just be on my way.Scout: Okay. Goodbye.(End of conversation) Shepard: You can go now.Scout: Oh, okay. Thanks.(End of conversation) Shepard: Can I see your supplies?Scout: Sure. But it's not much.(Store categories)Shepard: Let's see what you have.(Store menu opens) Shepard: I'd like to ask you some questions.Scout: I'll tell you what I know.
+(Neu) Goodbye. (Inv) Lysander (Inv) Voids (Inv) MindTech  Shepard: "I'm done here."Scout: "Okay. See you later."(End of conversation) Shepard: Tell me what you know about Lysander.Scout: The leader of the Voids? I have never met him but I have seen what he has done to Lucan and his friends. I believe he's building an army even if nobody wants to admit it. That would explain the amount of soldiers he sends.(Return to last choice) Shepard: What do you know about the Voids?Scout: They are dangerous. Lucan almost destroyed our camp when we landed here. He wasn't even angry. He was just... a bit upset. They're not all like that, at least not at first. But it always gets worse eventually.
+(P Inv) Always?  Shepard: So all of them eventually go mad?Scout: Well, those I've seen did. Maybe Lucan and his friends were the only ones who went crazy.(Return to last choice) Shepard: What can you tell me about MindTech?Scout: I don't know much about that place. The Voids don't talk about it. Oh, but Lucan said something before he left. He said Lysander was using the company as cover to hide what they're really doing.
+(P Inv) And that is?  Shepard: What were they "really doing"?Scout: I don't know. He never told me.(Return to last choice) Shepard: They aren't here right now. I am. I suggest you worry about what I want.Scout: Please don't kill me. I will tell you everything I know. It's just a band of mercenaries. They camp further down the street from here.| Kaidan Alenko: Mercenaries? What are they doing out here in the middle of nowhere?| Ashley Williams: What are they doing out here?| Urdnot Wrex: Mercs, huh? Wonder what they're doing out here.| Garrus Vakarian: Mercs, out here? What do they want?Scout: They protect... It'd be best if I kept my mouth shut. You can ask them yourself if you want to know more.
+(Neu) Where's Lysander? (Ren) I need Lysander.  Shepard: Start by telling me where to find Lysander. Shepard: Just tell me where I can find Lysander.
+Scout: He is at a place called "MindTech". That's an office on... erm... Noveria. That's-- that's all I know. Please, don't hurt me. Here, look. I have a few things you can have, definitely worth your money. Alright?
+
+(Par) I should go. (Neu) Goodbye. (Ren) Leave. (P Inv) I want to buy. (Inv) I need information.  Shepard: Thanks for your help. I'd better go.Scout: Okay. Goodbye.(End of conversation) Shepard: I think I'll just be on my way.Scout: Okay. Goodbye.(End of conversation) Shepard: You can go now.Scout: Oh, okay. Thanks.(End of conversation) Shepard: Can I see your supplies?Scout: Sure. But it's not much.(Store categories)Shepard: Let's see what you have.(Store menu opens) Shepard: I'd like to ask you some questions.Scout: I'll tell you what I know.
+(Neu) Goodbye. (Inv) Lysander (Inv) Voids (Inv) MindTech  Shepard: "I'm done here."Scout: "Okay. See you later."(End of conversation) Shepard: Tell me what you know about Lysander.Scout: The leader of the Voids? I have never met him but I have seen what he has done to Lucan and his friends. I believe he's building an army even if nobody wants to admit it. That would explain the amount of soldiers he sends.(Return to last choice) Shepard: What do you know about the Voids?Scout: They are dangerous. Lucan almost destroyed our camp when we landed here. He wasn't even angry. He was just... a bit upset. They're not all like that, at least not at first. But it always gets worse eventually.
+(P Inv) Always?  Shepard: So all of them eventually go mad?Scout: Well, those I've seen did. Maybe Lucan and his friends were the only ones who went crazy.(Return to last choice) Shepard: What can you tell me about MindTech?Scout: I don't know much about that place. The Voids don't talk about it. Oh, but Lucan said something before he left. He said Lysander was using the company as cover to hide what they're really doing.
+(P Inv) And that is?  Shepard: What were they "really doing"?Scout: I don't know. He never told me.(Return to last choice) Shepard: Would 100 credits loosen your tongue?Scout: Maybe... but I need to see them first.
+{{#tag:tabber|(Par) Alright. = Shepard: Thanks for the info. You're free to go.Scout: You... you want to let me go, just like that? You won't shoot me in the back as soon as I turn around?| Ashley Williams: Then walk backwards. But do it quickly before we change our minds.| Kaidan Alenko: Just get moving, kid.| Garrus Vakarian: Get lost or we will shoot you.| Urdnot Wrex: Run quickly then.Scout: I-- I'm already gone!(End of conversation)
+|-|(Neu) He can leave. = Shepard: Let him go. He's not worth the trouble.Scout: You... you want to let me go, just like that? You won't shoot me in the back as soon as I turn around?| Ashley Williams: Then walk backwards. But do it quickly before we change our minds.| Kaidan Alenko: Just get moving, kid.| Garrus Vakarian: Get lost or we will shoot you.| Urdnot Wrex: Run quickly then.Scout: I-- I'm already gone!(End of conversation)
+|-|(Ren) You should run. = Shepard: Get out of here before I decide to kill you.Scout: I-- I'm already gone!(End of conversation)
+|-|(Cha) I need your help. = Shepard: I'm a Spectre, here on important business. Helping me is the best thing for everyone.Scout: A Spectre? Alright. It's just a band of mercenaries. They camp further down the street from here.| Kaidan Alenko: Mercenaries? What are they doing out here in the middle of nowhere?| Ashley Williams: What are they doing out here?| Urdnot Wrex: Mercs, huh? Wonder what they're doing out here.| Garrus Vakarian: Mercs, out here? What do they want?Scout: They protect... It'd be best if I kept my mouth shut. You can ask them yourself if you want to know more.
+
+(Neu) Where's Lysander? (Ren) I need Lysander.  Shepard: Start by telling me where to find Lysander. Shepard: Just tell me where I can find Lysander.
+Scout: He is at a place called "MindTech". That's an office on... erm... Noveria. That's-- that's all I know. Please, don't hurt me. Here, look. I have a few things you can have, definitely worth your money. Alright?
+
+(Par) I should go. (Neu) Goodbye. (Ren) Leave. (P Inv) I want to buy. (Inv) I need information.  Shepard: Thanks for your help. I'd better go.Scout: Okay. Goodbye.(End of conversation) Shepard: I think I'll just be on my way.Scout: Okay. Goodbye.(End of conversation) Shepard: You can go now.Scout: Oh, okay. Thanks.(End of conversation) Shepard: Can I see your supplies?Scout: Sure. But it's not much.(Store categories)Shepard: Let's see what you have.(Store menu opens) Shepard: I'd like to ask you some questions.Scout: I'll tell you what I know.
+(Neu) Goodbye. (Inv) Lysander (Inv) Voids (Inv) MindTech  Shepard: "I'm done here."Scout: "Okay. See you later."(End of conversation) Shepard: Tell me what you know about Lysander.Scout: The leader of the Voids? I have never met him but I have seen what he has done to Lucan and his friends. I believe he's building an army even if nobody wants to admit it. That would explain the amount of soldiers he sends.(Return to last choice) Shepard: What do you know about the Voids?Scout: They are dangerous. Lucan almost destroyed our camp when we landed here. He wasn't even angry. He was just... a bit upset. They're not all like that, at least not at first. But it always gets worse eventually.
+(P Inv) Always?  Shepard: So all of them eventually go mad?Scout: Well, those I've seen did. Maybe Lucan and his friends were the only ones who went crazy.(Return to last choice) Shepard: What can you tell me about MindTech?Scout: I don't know much about that place. The Voids don't talk about it. Oh, but Lucan said something before he left. He said Lysander was using the company as cover to hide what they're really doing.
+(P Inv) And that is?  Shepard: What were they "really doing"?Scout: I don't know. He never told me.(Return to last choice) Shepard: They aren't here right now. I am. I suggest you worry about what I want.Scout: Please don't kill me. I will tell you everything I know. It's just a band of mercenaries. They camp further down the street from here.| Kaidan Alenko: Mercenaries? What are they doing out here in the middle of nowhere?| Ashley Williams: What are they doing out here?| Urdnot Wrex: Mercs, huh? Wonder what they're doing out here.| Garrus Vakarian: Mercs, out here? What do they want?Scout: They protect... It'd be best if I kept my mouth shut. You can ask them yourself if you want to know more.
+(Neu) Where's Lysander? (Ren) I need Lysander.  Shepard: Start by telling me where to find Lysander. Shepard: Just tell me where I can find Lysander.
+Scout: He is at a place called "MindTech". That's an office on... erm... Noveria. That's-- that's all I know. Please, don't hurt me. Here, look. I have a few things you can have, definitely worth your money. Alright?
+
+(Par) I should go. (Neu) Goodbye. (Ren) Leave. (P Inv) I want to buy. (Inv) I need information.  Shepard: Thanks for your help. I'd better go.Scout: Okay. Goodbye.(End of conversation) Shepard: I think I'll just be on my way.Scout: Okay. Goodbye.(End of conversation) Shepard: You can go now.Scout: Oh, okay. Thanks.(End of conversation) Shepard: Can I see your supplies?Scout: Sure. But it's not much.(Store categories)Shepard: Let's see what you have.(Store menu opens) Shepard: I'd like to ask you some questions.Scout: I'll tell you what I know.
+(Neu) Goodbye. (Inv) Lysander (Inv) Voids (Inv) MindTech  Shepard: "I'm done here."Scout: "Okay. See you later."(End of conversation) Shepard: Tell me what you know about Lysander.Scout: The leader of the Voids? I have never met him but I have seen what he has done to Lucan and his friends. I believe he's building an army even if nobody wants to admit it. That would explain the amount of soldiers he sends.(Return to last choice) Shepard: What do you know about the Voids?Scout: They are dangerous. Lucan almost destroyed our camp when we landed here. He wasn't even angry. He was just... a bit upset. They're not all like that, at least not at first. But it always gets worse eventually.
+(P Inv) Always?  Shepard: So all of them eventually go mad?Scout: Well, those I've seen did. Maybe Lucan and his friends were the only ones who went crazy.(Return to last choice) Shepard: What can you tell me about MindTech?Scout: I don't know much about that place. The Voids don't talk about it. Oh, but Lucan said something before he left. He said Lysander was using the company as cover to hide what they're really doing.
+(P Inv) And that is?  Shepard: What were they "really doing"?Scout: I don't know. He never told me.(Return to last choice)
+|-|(Inv) [Give 100 credits] = Shepard: Now, who are you working for?Scout: It's just a band of mercenaries. They camp further down the street from here.| Kaidan Alenko: Mercenaries? What are they doing out here in the middle of nowhere?| Ashley Williams: What are they doing out here?| Urdnot Wrex: Mercs, huh? Wonder what they're doing out here.| Garrus Vakarian: Mercs, out here? What do they want?Scout: They protect... It'd be best if I kept my mouth shut. You can ask them yourself if you want to know more.
+
+(Neu) Where's Lysander? (Ren) I need Lysander.  Shepard: Start by telling me where to find Lysander. Shepard: Just tell me where I can find Lysander.
+Scout: He is at a place called "MindTech". That's an office on... erm... Noveria. That's-- that's all I know. Please, don't hurt me. Here, look. I have a few things you can have, definitely worth your money. Alright?
+
+(Par) I should go. (Neu) Goodbye. (Ren) Leave. (P Inv) I want to buy. (Inv) I need information.  Shepard: Thanks for your help. I'd better go.Scout: Okay. Goodbye.(End of conversation) Shepard: I think I'll just be on my way.Scout: Okay. Goodbye.(End of conversation) Shepard: You can go now.Scout: Oh, okay. Thanks.(End of conversation) Shepard: Can I see your supplies?Scout: Sure. But it's not much.(Store categories)Shepard: Let's see what you have.(Store menu opens) Shepard: I'd like to ask you some questions.Scout: I'll tell you what I know.
+(Neu) Goodbye. (Inv) Lysander (Inv) Voids (Inv) MindTech  Shepard: "I'm done here."Scout: "Okay. See you later."(End of conversation) Shepard: Tell me what you know about Lysander.Scout: The leader of the Voids? I have never met him but I have seen what he has done to Lucan and his friends. I believe he's building an army even if nobody wants to admit it. That would explain the amount of soldiers he sends.(Return to last choice) Shepard: What do you know about the Voids?Scout: They are dangerous. Lucan almost destroyed our camp when we landed here. He wasn't even angry. He was just... a bit upset. They're not all like that, at least not at first. But it always gets worse eventually.
+(P Inv) Always?  Shepard: So all of them eventually go mad?Scout: Well, those I've seen did. Maybe Lucan and his friends were the only ones who went crazy.(Return to last choice) Shepard: What can you tell me about MindTech?Scout: I don't know much about that place. The Voids don't talk about it. Oh, but Lucan said something before he left. He said Lysander was using the company as cover to hide what they're really doing.
+(P Inv) And that is?  Shepard: What were they "really doing"?Scout: I don't know. He never told me.(Return to last choice)
+}}
+gbl01_horace[]
+Note:  this dialogue was reconstructed solely based on its English audio files (except for Tali's lines which were translated from the German version as they're unavailable in English) and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_horace.isb, gbl01_horace_de.isb
+Characters always present:
+
+Horace
+Dorian
+Drak
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(First conversation)
+Horace: Hold it right there. I suggest you turn around.
+
+(Paragon) (Neutral) (Renegade)  Shepard: I'm looking for someone.Horace: I doubt it. Now how about you move along before I decide you've seen too much. Shepard: What are you doing out here?Horace: We just want to be left alone. If that's too much trouble, I can kill you instead. Shepard: I'm not interested in your suggestions. What are you doing here?Horace: We just want to be left alone. If that's too much trouble, I can kill you instead.
+| Kaidan Alenko: These guys aren't really acting like Lucan, Commander. Maybe--
+| Ashley Williams: I don't know if this is the right place. They're not like Lucan at all, they--
+| Tali'Zorah: These people aren't like Lucan at all. Perhaps we--
+| Urdnot Wrex: These guys seem a bit more stable than Lucan. Maybe they--
+| Garrus Vakarian: He's not acting like Lucan, I think this is--
+Dorian: What do you know about Lucan? Have you seen him? Where is he?
+Horace: Damn it, Dorian!
+
+(Par) My condolences. (Neu) He was sick.  (Ren) He asked for it.  Shepard: Lucan attacked me... and was killed. I'm sorry.Dorian: He's... dead? I knew we shouldn't have let him go on his own. Shepard: He was on the Citadel... before he died. He wasn't doing very well.Dorian: He's... dead? I knew we shouldn't have let him go on his own. Shepard: He attacked me, so I killed him.Dorian: You what? Lucan was my brother!
+Horace: I'm sorry he's dead. But it could have been all of us if he'd stayed.
+Dorian: Easy for you to say, Horace!
+Horace: So, Lucan led you here. What exactly are you looking for?
+
+(Par) Someone in particular. (Neu) Lysander. (Ren) Bring him to me.  Shepard: A human named Lysander, have you heard of him?Horace: Lysander? That's an interesting request. What do you want with him?| Ashley Williams: His brother is looking for him. He said Lucan might have been involved in Lysander's disappearance.| Tali'Zorah: He's missing. We were hoping we'd find him here.| Urdnot Wrex: He disappeared. We're just here to get him back.| Garrus Vakarian: He's gone missing and Lucan had something to do with it.| Kaidan Alenko: He disappeared some time ago. We have reason to believe Lucan's friends had something to do with it. Shepard: Tell me where I can find Lysander.Horace: Lysander? That's an interesting request. What do you want with him?| Ashley Williams: His brother is looking for him. He said Lucan might have been involved in Lysander's disappearance.| Tali'Zorah: He's missing. We were hoping we'd find him here.| Urdnot Wrex: He disappeared. We're just here to get him back.| Garrus Vakarian: He's gone missing and Lucan had something to do with it.| Kaidan Alenko: He disappeared some time ago. We have reason to believe Lucan's friends had something to do with it. Shepard: You've got someone who doesn't belong to you. Hand him over.
+Horace: I don't know what you've heard, but we were hired to protect Lucan and his friends from Lysander.
+Dorian: We can't stay here, Horace! If they can find us, he can find us.
+
+(Neu) Why the secrecy? (Ren) Stop being vague.  Shepard: Why are you hiding from Lysander?Dorian: He's a madman. If you've seen Lucan, you know what I'm talking about. Shepard: You know more than you're letting on.Dorian: Believe what you want, but Lysander is an animal. My brother was perfectly sane by comparison.
+Horace: Or so we were told, Dorian. We've never actually met this "Lysander". I only agreed to help protect Lucan and his friends from Lysander because Dorian asked me to. We brought them here to keep them hidden but Dorian's right, we can't stay here any longer.
+
+(Par) Tell me about him first. (Neu) Your people are dangerous. (Ren) I'm not leaving without him.  Shepard: I need more information on Lysander before you go. Shepard: I can't let you leave. Not with these crazy Voids you're protecting.Horace: Careful. We've been paid to protect these people... From anything and everything. Let us go peacefully and we can forget we ever met.
+(Par) Fine. (Neu) Info first.  Shepard: I suppose you can go. But first, I need more information on Lysander. Shepard: I need more information on Lysander before you go. Shepard: Bring me Lysander. Now.Horace: Careful. We've been paid to protect these people... From anything and everything. Let us go peacefully and we can forget we ever met.
+(Par) Fine. (Neu) Info first.  Shepard: I suppose you can go. But first, I need more information on Lysander. Shepard: I need more information on Lysander before you go.
+Horace: I'll tell you what I know. But like I said, we never met him in person. Lucan and his friends worked for Lysander on Noveria. At some... biotics place.
+Dorian: MindTech.
+Horace: That's right. If you really want him, you should head there. I'm not saying he'll be happy to see you, but it's a start. Dorian. Give them Lucan's datapad. Maybe it'll help them get into MindTech.
+
+(Par) Thanks, and goodbye. (Ren) You're not going anywhere.  Shepard: That's all I really need to know. You can go now.Dorian: You can kill that bastard if you ever find him. He destroyed my brother.Horace: Do what you want with that info. We've got a-- Shepard: Thanks for the information. But I'm afraid I can't let you leave.Dorian: Damn it, let's just kill them and get out of here!Horace: I suppose that's what it's come to--
+Nexxus commander: Kill them. No one leaves.
+Dorian: I told you! They led his men right to us!
+Horace: Protect the others!
+(End of conversation)
+
+(After the attack)
+Horace: I'd like to stay and savor this victory with you, but it's obvious we can't stay here any longer.
+
+(Neu) I'll be going too. (Inv) I have questions.  Shepard: I won't keep you.Horace: Commander.(End of conversation) Shepard: I need to ask you something.Horace: I need to get my people packed up and-- Hang on. Drak! Drak, come over here, boy!Drak: Oh, Horace? What should I do for you?Horace: Shut up and... Actually, you can talk to the Commander. See if we've got anything [he/she] might need.
+(Neu) I'll be going too. (Inv) What are your plans?  Shepard: I won't keep you.Horace: Commander.(End of conversation) Shepard: Where do you think you'll go?Horace: I don't know. I might have to call in some favors but we'll be okay. Good luck, Commander. And goodbye.(End of conversation)
+gbl01_joker[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_joker.isb
+Characters present:
+
+Vasilis Kostas
+Jeff "Joker" Moreau
+Commander Shepard
+
+Joker: Message coming in. Patching it through.
+Vasilis Kostas: Commander? I'm almost at Feros, what have you found?
+
+(Neu) He wasn't there. (Inv) It's complicated.  Shepard: We didn't find Lysander, but he did send several of his men to "greet" us. Shepard: It seems your brother is more involved with these Voids than you thought.Vasilis Kostas: So if Lysander's down there, did you find him?
+(Neu) He wasn't there. (Ren) We took care of things.  Shepard: We didn't find Lysander, but he did send several of his men to "greet" us. Shepard: We've got things under control. No thanks to Lysander's henchmen.
+Vasilis Kostas: Lysander's men? He doesn't have any. This... This isn't what I was expecting.
+Shepard: He's got a place on Noveria called MindTech.
+Vasilis Kostas: So will you be going to Noveria then?
+
+(Par) Soon. (Ren) When I want.  Shepard: I'll go as soon as I can.Vasilis Kostas: Thank you, Commander. Shepard: Don't push me, Vasilis. I'll go when it's convenient, no sooner.Vasilis Kostas: I guess it'll have to do. Thank you, Commander.
+(End of conversation)
+
+gbl01_trig_01[]
+Note:  these comments were retranscribed from English audio files (except for Tali's lines which were translated from the German version as they're unavailable in English), and their use is based on the pattern of their attributed TLK number.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_trig_01.isb, gbl01_trig_01_de.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+(First reaction)
+| Tali'Zorah: They probably knew we were coming.
+| Kaidan Alenko: Some office! Doesn't look like anyone's worked here lately.
+| Urdnot Wrex: Looks like they knew we were coming.
+| Garrus Vakarian: This place looks abandoned.
+| Ashley Williams: Doesn't look like anyone's worked here lately.
+(Second reaction)
+| Kaidan Alenko: Woah... Looks like there's somebody here after all.
+| Garrus Vakarian: I guess it's not completely abandoned.
+| Urdnot Wrex: We've got company.
+| Ashley Williams: I guess we're not welcome here.
+| Tali'Zorah: I don't think we're welcome here.
+(Third reaction)
+| Tali'Zorah: Watch out!
+| Urdnot Wrex: Heads up!
+| Liara T'Soni: Look out!
+| Ashley Williams: Watch it!
+| Garrus Vakarian: Watch out!
+
+gbl01_gregor (1)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate. 
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_gregor.isb
+Characters always present:
+
+Gregor
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+
+Gregor: What do you want?
+
+(Par) Some answers. (Neu) Such a warm welcome. (Renegade) Answers. Now.  Shepard: I'm just looking for information.Gregor: I'm not telling you a damn thing. Jered told me what you did to Lucan. Now you're working for Vasilis? Jered certainly picked the wrong guy to ask for help. Shepard: Why were you shooting at us?Gregor: You really need to ask? Jered told me what you did to Lucan. Now you're working for Vasilis? Jered certainly picked the wrong guy to ask for help. Shepard: Answer my questions.Gregor: I'm not telling you a damn thing. Jered told me what you did to Lucan. Now you're working for Vasilis? Jered certainly picked the wrong guy to ask for help.
+| Liara T'Soni: We are just looking for Vasilis's brother.
+| Garrus Vakarian: Vasilis just wants to find his brother.
+| Urdnot Wrex: Vasilis just wants to find his brother.
+| Kaidan Alenko: Vasilis just wants to find his brother.
+| Ashley Williams: Vasilis just wants to find his brother.
+Gregor: I know what he's doing. He won't get away with it.
+| Ashley Williams: We've got company. More troops.
+| Kaidan Alenko: Commander. More of those troops out in the main room.
+| Urdnot Wrex: There's trouble out there, Shepard.
+| Garrus Vakarian: Commander, we've got hostiles pouring in.
+| Liara T'Soni: Commander, there are more of those troops here.
+(End of conversation)
+
+gbl01_captain[]
+Note:  this comment is a retranscription of an English audio file.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_captain.isb
+Characters always present:
+
+Unnamed Nexxus Captain
+
+Nexxus Captain: Form a perimeter! Nobody leaves but us!
+
+gbl01_gregor (2)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate. Tali's lines also appear to be missing, as the game always requires at least five squadmates out of six to intervene in most situations.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_gregor.isb
+Characters always present:
+
+Gregor
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+Gregor: I don't understand. You admit you're working for Vasilis, then you kill all his grunts!
+Shepard: Those are Lysander's men.
+Gregor: Lysander's? No, these are Vasilis's troops. You brought them here yourself.
+| Kaidan Alenko: We came alone.
+| Garrus Vakarian: We didn't lead anyone here.
+| Urdnot Wrex: We came alone.
+| Ashley Williams: No, we came alone.
+| Liara T'Soni: That is not true. We came on our own.
+Gregor: I was monitoring the port. Vasilis sent his men after-- Ah. He sent his men to kill you too. Must've thought the job was done.
+
+(Neu) Explain. (Ren) I'm sick of this.  Shepard: What are you saying? Shepard: I don't know what your game is, but I've had enough of your lies.
+Gregor: It all makes sense. Vasilis needed someone who wasn't associated with Nexxus. Someone who would avoid suspicion.
+| Liara T'Soni: Nexxus? Where have I heard that name before?
+| Kaidan Alenko: Nexxus? Why does that sound familiar?
+| Garrus Vakarian: Nexxus? What's that?
+| Ashley Williams: What the hell is Nexxus?
+Gregor: It's a supposedly legitimate biotics firm. Vasilis is their chief of security. It's where Lucan and others like him are made.
+Shepard: You're talking about Voids. Vasilis said his brother was abducted by Voids.
+Gregor: Lies. Lysander helps Voids like Lucan.
+
+(Par) Who's Lysander, really? (Neu) What's with Vasilis? (Inv) Investigate  Shepard: How does he "help" them exactly? Shepard: Why is Vasilis so eager to find his brother?
+(Inv) Lucan's reaction (Inv) Why ask me?  Shepard: But Lucan and his brother were terrified of Lysander, not Vasilis.Gregor: Lucan was a victim of Nexxus! Lucan was one of the test subjects at Nexxus. Lysander tried to help him remove some of his implants but... he was already too far gone. He ran off in a paranoid fit. Jered thought he could get him back but I... I guess he asked the wrong person for help.
+(P Inv) It was unfortunate (R Inv) He had it coming.  Shepard: He tried to kill us. I had to defend myself.Gregor: It's possible. Lucan could certainly be violent.(Return to over-arching choice) Shepard: That's what happens when people try to kill me.Gregor: So I've noticed.(Return to over-arching choice) Shepard: If what you're saying is true, Vasilis could have found you himself. He didn't need me.Gregor: Perhaps. Or you just got in his way and he decided sending you here was the best way to dispose of you. Then again, maybe he didn't need your help. This is the closest he's ever come to finding us, thanks to you.(Return to last choice)
+Gregor: Lysander was one of their creations. He's seen what they do. Hell, he is what they do.
+| Urdnot Wrex: So Lysander is a Void?
+| Liara T'Soni: So Lysander is a Void too?
+| Ashley Williams: So, Lysander is a Void?
+| Kaidan Alenko: So Lysander is a Void too?
+Gregor: Both brothers are. They were raised in that place, brought up as "test subjects." But Lysander escaped. Since then he's gathered reams of incriminating data on Nexxus. Vasilis wants his brother and that data destroyed.
+
+(Par) He manipulated me. (Neu) I need payback. (Ren) I don't trust you. (Inv) Answer my questions.  Shepard: All this time, he was lying to me.Gregor: He only bothers with the truth when it suits his purposes. Perhaps if I contacted Lysander, you two could speak and-- Oh my god. Shepard: If you're telling me the truth, Vasilis owes me a lot more than credits.Gregor: He only bothers with the truth when it suits his purposes. Perhaps if I contacted Lysander, you two could speak and-- Oh my god. Shepard: This all seems too convenient.Gregor: What can I say to make you believe me? Perhaps if I contacted Lysander, you two could speak and-- Oh my god. Shepard: I'm still not convinced you're telling me the truth. I need more information before I can decide.Gregor: What can I say to make you believe me? Perhaps if I contacted Lysander, you two could speak and-- Oh my god.
+| Garrus Vakarian: What is it?
+| Kaidan Alenko: What's the matter?
+| Ashley Williams: What is it, what's wrong?
+| Urdnot Wrex: What is it now?
+Gregor: I alerted Lysander when you arrived. But Vasilis knew you were here. If he tracked my transmission... Damn it! I can't get through. Vasilis knows where to find Lysander. I've got to warn him! Please, help me.
+| Liara T'Soni: I am not sure that would be in our best interest.
+| Urdnot Wrex: Why would we do that?
+| Kaidan Alenko: Why would we want to help you?
+| Ashley Williams: Why would we want to do that?
+Gregor: Vasilis lied to you. He used you. For the love of god, he sent his men to kill you! Isn't that enough?
+
+(Par) Let us help you. (Neu) Where to? (Inv) Investigate  Shepard: We'll go with you. Where are we going? Shepard:"Where is this secret location?
+(Inv) Lysander Knowledge Voids' hideout MindTech  Shepard: Tell me more about Lysander.Gregor: I've worked with Lysander for years. I'm one of the few people he trusts. The extent of experimentation done to him was... unbelievable. I can only imagine what Vasilis must be like.(Return to last choice) Shepard: How do you know so much about Nexxus and Vasilis?Gregor: I've been with Lysander since he escaped. I'm his eyes and ears, gathering information, collecting evidence. I even spent a year in the Nexxus security force. They have nearly four times as many security personnel as they have scientists. Almost a thousand men. And Vasilis is in charge of all of them. He's been using all that power to find and eradicate his brother.(Return to last choice) Shepard: If Lysander's innocent, why would Lucan and his friends hide out in a barren world in the Hades Gamma cluster?"Gregor: Is that where they went? Well, I hope they'll be alright there. There wasn't anything more we could do for them. When Lucan left, he persuaded several of the others to go with him. Lucan was convinced Lysander was going to do something terrible. I tried to reassure him, but... he was too agitated.(Return to last choice) Shepard: What exactly do you do here?Gregor: We were a legitimate company providing legal biotics services. But rumors surfaced that threatened to shut us down. Lysander decided it was best to move everyone to a safe location. Now, Vasilis is on his way there. We really shouldn't waste any more time here.(Return to last choice)
+Gregor: There's a secret facility in the mountains. It's not as convenient as this one, but it does the job, and it keeps us from prying eyes. I need to gather some supplies. Meet me at this location. But don't take too long. We won't survive long against Vasilis without you.
+(End of conversation)
+
+(Approaching the facility)
+Gregor: You made it. Follow me, I'll take you to the facility. We'll have to travel on foot from here on in.
+
+(Par) Let's hurry. (Neu) Hoping for answers. (Ren) Enough time wasted. (P Inv) Wait. (R Inv) I've had enough.  Shepard: Let's move out, everyone. We don't have time to waste.Gregor: Good. Now we just need to get to Lysander before Vasilis does.(End of conversation) Shepard: Take me to Lysander. At the very least, I'll find out what's going on.Gregor: Good. Now we just need to get to Lysander before Vasilis does.(End of conversation) Shepard: I've had enough of this place. Let's get moving.Gregor: Good. Now we just need to get to Lysander before Vasilis does.(End of conversation) Shepard: I just need a bit more time.Gregor: It's now or never. I can't wait any longer.
+(Neu) I'm leaving. (Inv) Fine, I'll help.  Shepard: You're on your own.Gregor: You might as well be working for Vasilis, then.(End of conversation) Shepard: I'm right behind you.Gregor: Good. Stay close, Commander.(End of conversation) Shepard: I'm done with this.Gregor: Vasilis's troops will destroy us! You know that, don't you?
+(Neu) I'm leaving. (Inv) Fine, I'll help.  Shepard: You're on your own.Gregor: You might as well be working for Vasilis, then.(End of conversation) Shepard: I'm right behind you.Gregor: Good. Stay close, Commander.(End of conversation)
+gbl01_trig_05[]
+Note:  this comment is a retranscription of an English audio file.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_trig_05.isb
+Characters always present:
+
+Gregor
+
+Gregor: It's worse than I thought. Vasilis has already been through here.
+
+gbl01_grunt[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation or the position of the responses on the dialogue wheel may not be accurate. The wording of dialogue wheel options is also unknown.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_grunt.isb
+Characters always present:
+
+Commander Shepard
+Unnamed Nexxus "grunt"
+
+Nexxus grunt: Stop right there! No one's allowed past this point!
+
+(Par) Says who? (Neu) Try me. (Ren) Scram.  Shepard: By whose orders?Nexxus grunt: Vasilis. He said we weren't supposed to let anyone through. There's more guys here than you think! They... there're snipers all around! Shepard: Who the hell is gonna stop me?Nexxus grunt: Erm... We will! Vasilis told us to stay here and make sure nobody got through! There's more guys here than you think! They... there're snipers all around! Shepard: Get the hell out of my way!Nexxus grunt: We cannot do that. Vasilis told us to wait here and make sure nobody got through. There's more guys here than you think! They... there're snipers all around!
+(Neu) Let's do this. (Cha) Your odds are bad. (Int) You have a death wish?  Shepard: Then take me down, if you think you can.Nexxus grunt: I... erm... Attack!(End of conversation) Shepard: You sound like a smart guy. You really think you can survive a fight with a Spectre and [his/her] squad?Nexxus grunt: A Spectre? Vasilis didn't mention that part. I think... maybe... he might need my help back at the base.(End of conversation) Shepard: Look, kid. If you wanna die a hero, I can make that dream come true. Otherwise I suggest you run back to Vasilis.Nexxus grunt: I think maybe I should go... warn Vasilis or something.(End of conversation)
+gbl01_trig_06[]
+Note:  this dialogue was reconstructed solely based on its English audio files (Tali's lines excepted, which were translated from the German version as they're unavailable in English) and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_trig_06.isb
+Characters always present:
+
+Gregor
+Lysander Kostas
+Vasilis Kostas
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Vasilis Kostas: Commander, why won't you just die?
+
+(Par) You're a liar. (Neu) I know the truth. (Ren) You first.  Shepard: It seems you weren't entirely honest with me, Vasilis.Vasilis Kostas: I'm sorry, Commander. But I really didn't think I could trust you with the truth. You're on your own. Your army friends can't help you here, Commander. Shepard: It's over, Vasilis. I know all about you and Nexxus.Vasilis Kostas: No matter, you'll be dead soon enough. You're on your own. Your army friends can't help you here, Commander. Shepard: Death is a luxury I can't afford. You, on the other hand...Vasilis Kostas: It's over, Commander. You've lost this one. You're on your own. Your army friends can't help you here, Commander.
+Shepard: I'm a Spectre. I am the army.
+Vasilis Kostas: Hm, a Spectre? Well, that is unexpected.
+Lysander Kostas: You see, Vasilis? You can't win. This is the end for you and Nexxus.
+Vasilis Kostas: Shut. Up! Spectre or not, you can't be in two places at once. Try to stop me if you'd like, or... you can try to help Lysander's poor deluded followers.
+Lysander Kostas: Vasilis, no! Please, don't!
+Vasilis Kostas: I believe I've left them to die somewhere.
+
+(Par) You should surrender. (Neu) Don't make it worse. (Ren) You'll regret this.  Shepard: Give up quietly, and I'll see that you aren't harmed. Shepard: Let them go and maybe I'll let you live. Shepard: You'll pay for this. I promise.
+Vasilis Kostas: I think not. In a few short minutes, there will be nothing left to prove this place ever existed.
+Lysander Kostas: You bastard! You won't get away with this. Nexxus will be destroyed!
+Vasilis Kostas: Save your breath, brother. You have so little of it remaining.
+
+(Par) This needs to end. (Neu) Watch it. (Ren) You will die. Painfully.  Shepard: I won't play your games. Release them all! Shepard: Anything you do to him, I'll do to you. Shepard: I'm gonna tear you apart.
+Gregor: He's terminated the link. He's locked the others in one of the labs, it... it looks like he's venting something. I can't stop it from here. If we hurry, we can get there before they're killed.
+
+(Neu) We'll go after Vasili. (Inv) We'll save the hostages.  Shepard: More will die if Nexxus is allowed to continue.| Urdnot Wrex: Shepard's right, we need to stop Vasilis!| Tali'Zorah: I agree with the Commander. We might save more lives if we stop Vasilis.| Liara T'Soni: I do not like it but the Commander's right. Vasilis should be our first priority.| Ashley Williams: The commander's right. Stopping Vasilis is the only way to be sure Nexxus is stopped.| Kaidan Alenko: We need to stop Nexxus. The only way to do that is to stop Vasilis, now!Gregor: Arh... I know, you're right. But there are people in there I've known for years.
+(Neu) Vasilis needs to die. (Inv) Let's save the hostages.  Shepard: We take out Vasilis. That's my priority. Now fall in line.Gregor: I'll do as you ask, Commander.(End of conversation) Shepard: We need to try to save those prisoners if we can.Gregor: Right behind you, Commander.(End of conversation) Shepard: Let's get those prisoners.| Ashley Williams: Are you really sure you want to let Nexxus off the hook like this?| Urdnot Wrex: Forget the prisoners, you need to take down Nexxus!| Kaidan Alenko: I hate to say this, but our priority should be stopping Nexxus.| Tali'Zorah: Do you really want to put the safety of a few over the lives of the many?| Garrus Vakarian: We can't let Nexxus get away with this, we need to stop Vasilis first.
+(Neu) Let's get Vasilis. (Inv) I can't let them die.  Shepard: We can't let Vasilis destroy the evidence. Let's move out.Gregor: I'll do as you ask, Commander.(End of conversation) Shepard: Those prisoners are innocent!Gregor: Right behind you, Commander.(End of conversation)
+gbl01_trig_07[]
+Note:  this comment is the retranscription of English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_trig_07.isb
+Character present:
+
+Gregor
+
+Gregor: It looks like they're being poisoned somehow. We've got to find a way to close the vents!
+
+gbl01_trig_08[]
+Note:  this dialogue was reconstructed solely based on its English audio files (Tali's lines excepted, which were translated from the German version as they're unavailable in English) and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_trig_08.isb
+Characters always present:
+
+Gregor
+Jered Salenta
+Commander Shepard
+Character optionally present:
+
+Kaidan Alenko
+
+(Kaidan is not present) (Kaidan is present)  Gregor: That did it! Whatever it was, you stopped it!Jered Salenta: [cough] Commander... You saved our lives. And here I thought you were working with Vasilis!Shepard: Well, I thought you were a lying punk so I guess we're even. Will you be okay?Jered Salenta: I think so... [cough] I think we'll be fine. Just don't let that bastard Vasilis get away.Shepard: We're done here, people. Our target is Vasilis. Move out!(End of conversation) Gregor: That did it! Whatever it was, you stopped it!Jered Salenta: [cough] Commander... You saved our lives. And here I thought you were working with Vasilis!Kaidan Alenko: Jered! You okay?Jered Salenta: I think so... [cough] I think we'll be fine. Just don't let that bastard Vasilis get away.Kaidan Alenko: We won't. I promise.Shepard: We're done here, people. Our target is Vasilis. Move out!(End of conversation)
+gbl01_gregor / gbl01_jered[]
+Note:  these comment are retranscription of English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_gregor.isb, gbl01_jered.isb
+Characters always present:
+
+Gregor
+Jered Salenta
+
+Gregor: There's no time, go get Vasilis. Hurry!
+
+Jered Salenta: I'll be okay. You just make sure Vasilis doesn't get away.
+
+gbl01_trig_01[]
+Note:  these comments were retranscribed from English audio files (except for Tali's lines which were translated from the German version as they're unavailable in English), and their use is based on the pattern of their attributed TLK number.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_trig_01.isb, gbl01_trig_01_de.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: We're too late... They're all dead.
+| Urdnot Wrex: Looks like they didn't make it.
+| Garrus Vakarian: Damn it. We're too late.
+| Tali'Zorah: What a shame. We weren't fast enough.
+| Liara T'Soni: We are... too late. It looks like they have been suffocated or worse.
+
+gbl01_vasilis (2)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_vasilis.isb
+Characters present:
+
+Gregor
+Lysander Kostas
+Vasilis Kostas
+Commander Shepard
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya (missing)
+
+(If Vasilis was reached in time)
+Vasilis Kostas: Spectre, still alive? What am I supposed to do about you?
+
+(Par) You're finished. (Neu) Nothing you can do. (Ren) Beg for mercy.  Shepard: It's over, Vasilis. You and Nexxus are through. Shepard: Don't do anything. Just accept your fate. Shepard: You can plead for your life. Just don't expect me to listen.
+Vasilis Kostas: Charming. But not what I had in mind. Leave now. Forget me, forget the data, forget everything. I'll pay you fantasticly well.
+
+(Par) You're my target. (Neu) I want your head. (Ren) I'm listening. (Inv) Why go through all this?  Shepard: I'm here for you.Vasilis Kostas: Too bad, Spectre. This time, you will die.(End of conversation) Shepard: Your death is the only payment I'm interested in.Vasilis Kostas: Too bad, Spectre. This time, you will die.(End of conversation) Shepard: What exactly are you proposing?Vasilis Kostas: Walk away. Leave me to finish what Nexxus started. I'll pay you well. Even throwing some of my best biotic upgrades.Gregor: You're not considering this, are you? Kill him now, before he gets away!Vasilis Kostas: What will it be, Spectre? Rich or dead, you choose.
+(Neu) No deal. (Inv) Very well.  Shepard: You need to be punished.Vasilis Kostas: Too bad, Spectre. This time, you will die.(End of conversation) Shepard: Very good, Vasilis. But this is your mess to clean up, not mine.Gregor: You can't do this, he's a monster!Vasilis Kostas: Would someone shut him up?Gregor: No, I won't let you do it!Vasilis Kostas: Stop him!Lysander Kostas: Gregor! No! ...You! You're supposed to help people like us!(End of conversation) Shepard: What's so important? What is Nexxus trying to do?Vasilis Kostas: Do you think you could produce the best biotics in the galaxy without bending a few rules? Or that the Citadel Council is ignorant to our methods?Lysander Kostas: That's a lie, Vasilis... Nexxus has done a lot more than bend the rules... Look at what they did to us...Vasilis Kostas: They know we're not perfect. But they turn a blind eye so we can deliver what they want.(Return to last choice)
+
+(If Vasilis was not reached in time)
+Vasilis Kostas: You're too late, Spectre. The data's gone.
+Lysander Kostas: Hnng... No, Spectre... Wait...
+Vasilis Kostas: Brother, are you still alive?
+Lysander Kostas: It's not too late... I can extract the information, rip it from his mind...
+Vasilis Kostas: Haha. Charming. But you're far too weak to rip anything.
+Lysander Kostas: Spectre, please. Hand him over to me.
+
+(Par) You won't survive. (Neu) I prefer justice. (Ren) I know enough, Vasilis. (Inv) What's your plan?  Shepard: You're too weak, he'll kill you!Lysander Kostas: Subdue him. I'll do the rest. Shepard: I think I'd better just arrest him.Vasilis Kostas:"I'm not going anywhere with you, Spectre. You try to stop me...Lysander Kostas: Spectre, please. Many lives can still be saved. Subdue him. I'll do the rest. Shepard: I know what you did. And that's enough to put you away for a long time.Vasilis Kostas: I'm not going anywhere with you, Spectre. You try to stop me...Lysander Kostas: Spectre, please. Many lives can still be saved. Subdue him. I'll do the rest. Shepard: How can you get the data back without him killing you?Lysander Kostas: Just let me strip his mind. It contains everything I need to put Nexxus away for good.| Kaidan Alenko: That sounds like... torture.| Liara T'Soni: That sounds a bit like torture to me.| Garrus Vakarian: I'm not sure I like the sound of that.| Ashley Williams: I don't like the man, but that sounds a bit... extreme.Lysander Kostas: He's done the same to hundreds of others. Subdue him. I'll do the rest.
+(Neu) I'll subdue him. (Inv) I can't do this.  Shepard: He's all yours. Let me just make sure he doesn't cause you too much trouble.Vasilis Kostas: You're a fool if you think I'll go that easily, Spectre.(End of conversation) Shepard: I'd like to help you, Lysander, but I can't let you torture him.Vasilis Kostas: Really? Which to choose... Death at the Spectre's hands, or torture at my brother's. Such difficult decisions.
+(Par) I'll subdue him. (Neu) Let's have at it. (Ren) I've been waiting for this. (Inv) Why go through all this?  Shepard: He's all yours. Let me just make sure he doesn't cause you too much trouble.Vasilis Kostas: You're a fool if you think I'll go that easily, Spectre.(End of conversation) Shepard: Give me your best fight, Vasilis! Make this something to remember.Vasilis Kostas: You're a fool if you think I'll go that easily, Spectre.(End of conversation) Shepard: This is personal. Vasilis dies at my hands. Now.Vasilis Kostas: You're a fool if you think I'll go that easily, Spectre.(End of conversation) Shepard: What is Nexxus trying to do?Vasilis Kostas: Do you think you could produce the best biotics in the galaxy without bending a few rules? Or that the Citadel Council is ignorant to our methods?Lysander Kostas: That's a lie, Vasilis... Nexxus has done a lot more than bend the rules... Look at what they did to us...Vasilis Kostas: They know we're not perfect. But they turn a blind eye so we can deliver what they want.(Return to last choice)
+gbl01_vasilis (3)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_vasilis.isb
+Characters present:
+
+Vasilis Kostas
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+Vasilis Kostas: That was... unexpected. Fortunately, you're as good as your name, Spectre. So, here are some credits. As soon as you are ready, we can talk about your upgrades.
+
+(Neu) I'm done here. (P Inv) Upgrades (Inv) Your plans (Inv) Why me?  Shepard: Let's just get this over with. Shepard: I wanna see these "upgrades".Vasilis Kostas: Certainly. There are a few different approaches we can take depending on your strengths and weaknesses.(Opens store) Shepard: What will you and Nexxus do now, Vasilis?Vasilis Kostas: I'll clean up the mess here. Make sure there's no evidence left. I'll need to replace all the men you liquidated... But with the information we found here, I should be able to make a new force even better than the last.(Return to last choice) Shepard: Why did you ask me to help you?Vasilis Kostas: Isn't it obvious? I needed someone to do my dirty work, someone the authorities wouldn't suspect. Course if I'd known you were a Spectre, I might not have been so eager. But everything worked out in the end.(Return to last choice)
+Vasilis Kostas: I hope we never see each other again. No offense.
+
+(Neu) I'm going. (Ren) Same.  Shepard: Just get me out of here.Vasilis Kostas: Follow me. Shepard: The feeling's mutual. Let's go.Vasilis Kostas: Well then Spectre, I have a lot to do. Allow me to escort you back to Hanshan port. Follow me.
+(End of conversation)
+
+gbl01_trig_10[]
+Note:  this dialogue was reconstructed solely based on its English audio files (Tali's lines excepted, which were translated from the German version as they're unavailable in English) and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_trig_10, gbl01_trig_10_de.isb
+Character always present:
+
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: How could you let him get away with this, Commander?
+| Garrus Vakarian: I can't believe we're letting him get away with this!
+| Ashley Williams: It doesn't feel right. Vasilis and Nexxus should pay for what they've done.
+| Liara T'Soni: I know it is your decision, but allowing him to go freely seems inappropriate.
+| Tali'Zorah: Strange decision to just let Vasilis go.
+
+(Par) I made the call. (Neu) Let's go. (Ren) Quiet.  Shepard: You may not like it, but it's my decision. Now let's move, people. Shepard: No more chatter. Move out, people. Shepard: Don't question my orders, ever. Now move out!
+(End of conversation)
+
+gbl01_lysander[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl01_lysander.isb
+Characters always present:
+
+Lysander Kostas
+Commander Shepard
+Character optionally present:
+
+Vasilis Kostas
+
+(If Vasilis was killed and the data was destroyed)
+Lysander Kostas: Spectre, I appreciate your help with the prisoners. But without Vasilis, I can't stop Nexxus. I wish...
+
+(Par) I did all I could. (Neu) He was dangerous. (Ren) I needed revenge.  Shepard: I saved you. More importantly, I stopped Vasilis.Lysander Kostas: I see. Well, I suppose we all have our priorities. Unfortunately, it'll take me years to undo this mess. If there's nothing else, I'd like to get started. Shepard: I couldn't let Vasilis get away. He was my first priority.Lysander Kostas: I see. Well, I suppose we all have our priorities. Unfortunately, it'll take me years to undo this mess. If there's nothing else, I'd like to get started. Shepard: Vasilis lied to me. He had to die.Lysander Kostas: How very short-sighted of you. Well, your intentions may have been... questionable. But the result is still the same. Unfortunately, it'll take me years to undo this mess. If there's nothing else, I'd like to get started.
+(Par) Goodbye. (Neu) I should leave. (Ren) I'm out. (Inv) I have questions.  Shepard: I should be going, Lysander. Shepard: I just want to go. Shepard: I'm done here Shepard: Actually I'd like to ask you a few things before I go.
+(Par) Goodbye. (Neu) I should leave. (Ren) I'm out. (Inv) Investigate  Shepard: I should be going, Lysander. Shepard: I just want to go. Shepard: I'm done here.
+(Inv) Leaving Nexxus (Inv) The data (Inv) Nexxus's goal (Inv) Vasilis  Shepard: What have you been doing since you left Nexxus?Lysander Kostas: You make it sound like I was allowed to leave. I fled that place, Spectre. I ran like my life depended on it.
+(P Inv) How bad was it?''<br>'''Shepard''': What did they do to you?<br>'''Lysander Kostas''': I was nothing more than an experiment. A petri dish with a brain. I was routinely "upgraded." Old parts being ripped from you while new ones were jammed into place. In one year, I had more than 40 surgeries! It was a living hell. Since then I've worked to fix what they did to me, and others like me.<br>''(Return to last choice)'' Shepard: Why was this data so important?Lysander Kostas: It contains every bit of damning evidence we've gathered on Nexxus. It's got as much as you might expect after 10 years. But it's enough.
+(P Inv) Why wait?''<br>'''Shepard''': What were you waiting for? Why didn't you take this information to the authorities?<br>'''Lysander Kostas''': Too risky. Vasilis and Nexxus have more politicians in their pockets than you can imagine. We thought about leaking it to the vid-networks, but it's too easy for Nexxus to spin it.<br>''(Return to last choice)'' Shepard: What is Nexxus up to? What do they hope to achieve?Lysander Kostas: A larger piece of the market, a better return on investment... Does it really matter? Vasilis may have had delusions of grandeur, but Nexxus has always been focused on the bottom line. They aim to build the most sophisticated biotics in the galaxy. At any cost.(Return to last choice) Shepard: Why was Vasilis so determined to kill you?Lysander Kostas: Why would one brother want to kill another? Isn't that what you're really asking? Vasilis wasn't my brother. Not after Nexxus was done with him. We were born of the same parents but... Nexxus created us. Vasilis never seemed to mind the procedures, the surgeries and experiments, as long as they made him more powerful. In his eyes, I was nothing but a threat. Something that stood between him and his dreams of power.(Return to last choice)
+Lysander Kostas: I'll have Gregor escort you back to Hanshan. So long, Spectre.
+(End of conversation)
+
+(If the data was recovered and Vasilis was killed)
+Lysander Kostas: Spectre. Thank you for stopping Vasilis before he could erase the data. Please know I don't blame you for letting the others die.
+
+(Par) I'm sorry. (Neu) He was dangerous. (Ren) What's done is done.  Shepard: Thank you for understanding. It must be hard.Lysander Kostas: You've done more than I've been able to in nearly a decade of trying. I think you'll find me very understanding. It will take me quite a while to rebuild what was destroyed... but I'll do it. I'd like to repay you but I have no credits to spare. I do have some unique biotic prototypes you might be interested in. Shepard: I couldn't let Vasilis get away. He was my first priority.Lysander Kostas: Vasilis certainly didn't make things easy for either of us. It will take me quite a while to rebuild what was destroyed... but I'll do it. I'd like to repay you but I have no credits to spare. I do have some unique biotic prototypes you might be interested in. Shepard: I had to make a decision and I made it.Lysander Kostas: Vasilis certainly didn't make things easy for either of us. It will take me quite a while to rebuild what was destroyed... but I'll do it. I'd like to repay you but I have no credits to spare. I do have some unique biotic prototypes you might be interested in.
+(Par) Goodbye. (Neu) I should leave. (Ren) I'm out. (P Inv) Upgrades (Inv) I have questions.  Shepard: I should be going, Lysander. Shepard: I just want to go. Shepard: I'm done here. Shepard: I'd like to see your prototypes.Lysander Kostas: Excellent. You're welcome to take what you need. But only the first one is a gift.(Opens store) Shepard: Actually I'd like to ask you a few things before I go.
+(Par) Goodbye. (Neu) I should leave. (Ren) I'm out. (P Inv) Upgrades (Inv) Investigate  Shepard: I should be going, Lysander. Shepard: I just want to go. Shepard: I'm done here. Shepard: I'd like to see your prototypes.Lysander Kostas: Excellent. You're welcome to take what you need. But only the first one is a gift.(Opens store)
+(Inv) Leaving Nexxus (Inv) The data (Inv) Nexxus's goal (Inv) Vasilis  Shepard: What have you been doing since you left Nexxus?Lysander Kostas: You make it sound like I was allowed to leave. I fled that place, Spectre. I ran like my life depended on it."
+(P Inv) How bad was it?  Shepard: What did they do to you?Lysander Kostas: I was nothing more than an experiment. A petri dish with a brain. I was routinely "upgraded." Old parts being ripped from you while new ones were jammed into place. In one year, I had more than 40 surgeries! It was a living hell. Since then I've worked to fix what they did to me, and others like me.(Return to last choice) Shepard: Why was this data so important?Lysander Kostas: It contains every bit of damning evidence we've gathered on Nexxus. It's got as much as you might expect after 10 years. But it's enough.
+(P Inv) Why wait?<br>'''Shepard''': What were you waiting for? Why didn't you take this information to the authorities?<br>'''Lysander Kostas''': Too risky. Vasilis and Nexxus have more politicians in their pockets than you can imagine. We thought about leaking it to the vid-networks, but it's too easy for Nexxus to spin it. Of course, with Vasilis out of the way, we can finally make a move. It's all thanks to you.<br>''(Return to last choice)'' Shepard: What is Nexxus up to? What do they hope to achieve?Lysander Kostas: A larger piece of the market, a better return on investment... Does it really matter? Vasilis may have had delusions of grandeur, but Nexxus has always been focused on the bottom line. They aim to build the most sophisticated biotics in the galaxy. At any cost. I'm also gathering any evidence I can to expose their treachery.(Return to last choice) Shepard: Why was Vasilis so determined to kill you?Lysander Kostas: Why would one brother want to kill another? Isn't that what you're really asking? Vasilis wasn't my brother. Not after Nexxus was done with him. We were born of the same parents but... Nexxus created us. Vasilis never seemed to mind the procedures, the surgeries and experiments, as long as they made him more powerful. In his eyes, I was nothing but a threat. Something that stood between him and his dreams of power.(Return to last choice)
+Lysander Kostas: I'll have Gregor escort you back to Hanshan. So long, Spectre. Thanks again for all you've done.
+(End of conversation)
+
+(If Vasilis was subdued)
+Lysander Kostas: Thank you, Spectre. You've done more in one day than I've been able to in years.
+Vasilis Kostas: You won't get anything from me. I'll never give up the data.
+Lysander Kostas: Oh, I think you will, brother. I think you will.
+
+(Par) Don't lose yourself. (Neu) It's what I do. (Ren) Whatever.  Shepard= Revenge is never as sweet as it seems. Don't let it ruin you.Lysander Kostas: Thank you for the warning, Spectre. But my hate died long ago. I only want justice now. I'd like to repay you but I have no credits to spare. I do have some unique biotic prototypes you might be interested in. Shepard: I just did what I had to.Lysander Kostas: Well then, I'm glad you're good at your job. I'd like to repay you but I have no credits to spare. I do have some unique biotic prototypes you might be interested in. Shepard: Do what you want with him. I just want to go.Lysander Kostas: Fair enough. Though I do have a few upgrades of my own you might be interested in. It's the least I can offer you.
+(Par) Goodbye. (Neu) I should leave. (Ren) I'm out. (P Inv) Upgrades (Inv) I have questions.  Shepard: It seems like you have things under control. I should get going. Shepard: I just want to go. Shepard: I'm done here. Shepard: I'd like to see your prototypes.Lysander Kostas: Excellent. You're welcome to take what you need. But only the first one is a gift.(Opens store) Shepard: Actually I'd like to ask you a few things before I go.
+(Par) Goodbye. (Neu) I should leave. (Ren) I'm out. (P Inv) Upgrades (Inv) Investigate  Shepard: I should be going, Lysander. Shepard: I just want to go. Shepard: I'm done here Shepard: I'd like to see your prototypes.Lysander Kostas: Excellent. You're welcome to take what you need. But only the first one is a gift.(Opens store)
+(Inv) Leaving Nexxus (Inv) The data (Inv) Nexxus's goal (Inv) Vasilis  Shepard: What have you been doing since you left Nexxus?Lysander Kostas: You make it sound like I was allowed to leave. I fled that place, Spectre. I ran like my life depended on it."
+(P Inv) How bad was it?  Shepard: What did they do to you?Lysander Kostas: I was nothing more than an experiment. A petri dish with a brain. I was routinely "upgraded." Old parts being ripped from you while new ones were jammed into place. In one year, I had more than 40 surgeries! It was a living hell. Since then I've worked to fix what they did to me, and others like me.(Return to last choice) Shepard: Why was this data so important?Lysander Kostas: It contains every bit of damning evidence we've gathered on Nexxus. It's got as much as you might expect after 10 years. But it's enough.
+(P Inv) Why wait?<br>'''Shepard''': What were you waiting for? Why didn't you take this information to the authorities?<br>'''Lysander Kostas''': Too risky. Vasilis and Nexxus have more politicians in their pockets than you can imagine. We thought about leaking it to the vid-networks, but it's too easy for Nexxus to spin it. Of course, with Vasilis out of the way, we can finally make a move. It's all thanks to you.<br>''(Return to last choice)'' Shepard: What is Nexxus up to? What do they hope to achieve?Lysander Kostas: A larger piece of the market, a better return on investment... Does it really matter? Vasilis may have had delusions of grandeur, but Nexxus has always been focused on the bottom line. They aim to build the most sophisticated biotics in the galaxy. At any cost.(Return to last choice) Shepard: Why was Vasilis so determined to kill you?Lysander Kostas: Why would one brother want to kill another? Isn't that what you're really asking? Vasilis wasn't my brother. Not after Nexxus was done with him. We were born of the same parents but... Nexxus created us. Vasilis never seemed to mind the procedures, the surgeries and experiments, as long as they made him more powerful. In his eyes, I was nothing but a threat. Something that stood between him and his dreams of power.(Return to last choice)
+Lysander Kostas: Alright then. Gregor will escort you back to Hanshan. Thanks again for all you've done.
+(End of conversation)
+
+
+
+

@@ -1,0 +1,106 @@
+
+
+
+
+
+Neptune
+
+Region
+Milky Way / Local Cluster / Sol
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+29.1 AU
+
+
+Orbital Period
+164.8 Earth Years
+
+
+Keplerian Ratio
+0.907
+
+
+Radius
+24,764 km
+
+
+Day Length
+16.1 Earth Hours
+
+
+Mass
+17 Earth Masses
+
+
+Satellites
+14
+
+
+Location: Milky Way / Local Cluster / Sol System /  Eighth planet
+
+
+Colony
+
+Species
+Human
+
+
+Population
+70 (Triton)
+
+
+
+Prerequisite: Level 20 (Mass Effect)
+
+Description[]
+Though Neptune, like Uranus, has plentiful helium, its remoteness made it an unpromising target for mining before the development of mass effect drive. With Uranus cheaper to exploit, it has never seen extensive development. The only permanent human presence is a small research facility on Triton.
+
+Mineral Deposits[]
+Initial Scanner Result: Poor
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+6,700
+
+
+Platinum
+
+Medium
+
+7,300
+
+
+Iridium
+
+Medium
+
+5,000
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

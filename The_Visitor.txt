@@ -1,0 +1,51 @@
+
+
+
+Evidence suggests a creature has been eating the Tempest's food stores. Search the ship to find it.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Follow the crumb trail
+2.2 Build a trap at a research center
+2.3 Place the trap at the creature's lair
+2.4 Wait for the trap to spring
+2.5 Check the trap
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Hunting the Archon
+
+After returning to the Tempest from Kadara Port, at the bottom deck of the Tempest, Pathfinder Ryder gets signals that something is there. Scanning either the cargo bay floor (northwest from the parked Nomad) or the galley counter reveals some crumbs. Nakmor Drack comments over the comm that he has found crumbs too, and the mission starts.
+Alternatively, talking to Drack before any scanning has him complaining about the crumbs, possibly made by something "tasty". You have a couple of response options to that, and you'll get the mission nonetheless.
+
+Walkthrough[]
+Follow the crumb trail[]
+
+There are three crumb spots: the galley counter, the cargo bay floor northwest from the Nomad, and by the pile of crates outside Liam Kosta's quarters. The last one only appears once you acquire the mission and is the only one that matters; if you scan the other two locations it will merely result in Ryder commenting about the trail.
+On scanning the relevant spot Ryder concludes that the creature is nesting there and building a Humane Trap can be used to catch it. You will then receive the blueprint for the trap.
+
+Build a trap at a research center[]
+The Humane Trap is found under Special Items in the Development menu at a Research Center. It requires 3 Aluminum to craft.
+
+Place the trap at the creature's lair[]
+Put the trap by the boxes outside Liam's quarters.
+
+Wait for the trap to spring[]
+Simply land on a world and board the Tempest again. To complete this condition, go the cargo bay. Suvi Anwar notifies you over comms that something is in the trap.
+
+Check the trap[]
+
+Examine the trap. You now have a Hamster, congratulations. You hold a "conversation" of sorts with the hamster, with you setting the tone choice for a couple of lines and the creature emitting emotional squeaks. Decide what to do with it: set it loose, or "invite" it to be your pet. Whichever you decide, the hamster replies with happy squeaking.
+If you keep it as a pet, the hamster will thereafter be in the Pathfinder's quarters, near SAM and the e-mail terminal, with the trap repurposed as its cage. Examining the hamster prompts it to "wash" its face with its paws.
+
+Rewards[]
++530 XP
++29 AVP 
+
+
+

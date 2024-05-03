@@ -1,0 +1,141 @@
+
+
+
+[Edit this tab]
+
+Basic - AR Magazine: Increases magazine capacity, allowing more shots before reloading.
+Enhanced - AR Heavy Magazine: Substantially increases clip size, but at the cost of increased weight.
+Enhanced - AR Light Magazine: Substantially increases clip size, but at the cost of increased recoil.
+Note:  Assault rifle stability is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+AR Magazine
+
++28%
+
++32%
+
++34%
+
++37%
+
++39%
+
++41%
+
++43%
+
++46%
+
++48%
+
++50%
+
+Assault Rifle Clip Size
+
+
+AR Heavy Magazine
+
+N/A
+
++34%+3%
+
++39%+4%
+
++43%+5%
+
++48%+6%
+
++52%+7%
+
++57%+8%
+
++61%+8%
+
++66%+9%
+
++70%+10%
+
+Assault Rifle Clip SizeAssault Rifle Weight
+
+
+AR Light Magazine
+
+N/A
+
++34%-15%
+
++39%-18%
+
++43%-21%
+
++48%-24%
+
++52%-26%
+
++57%-29%
+
++61%-32%
+
++66%-35%
+
++70%-38%
+
+Assault Rifle Clip SizeAssault Rifle Stability
+
+
+Level Unlocked
+
+1
+
+6
+
+11
+
+21
+
+31
+
+41
+
+51
+
+61
+
+71
+
+81
+
+-
+
+Equipping an Assault Rifle Magazine Mod changes the color of parts of the weapon to a dull red depending upon the specific weapon.
+
+
+
+

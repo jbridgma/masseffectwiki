@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+This article is about the heavy weapon in Mass Effect 2. For the weapon in Mass Effect 3, see Particle Rifle.
+
+
+
+
+
+
+
+
+Collector Particle Beam
+
+General Stats
+
+Type
+Heavy Weapon
+
+
+Location
+Horizon
+
+
+Accuracy
+High
+
+
+Recoil
+None
+
+
+Fire Mode
+Automatic
+
+
+Fire Rate
+1200 RPM
+
+
+Reload Time
+N/A
+
+
+Ammo Per Clip
+N/A
+
+
+
+Damage & Bonus Multipliers
+
+Base
+20
+
+
+Armor
+×1.0
+
+
+Shields
+×1.5
+
+
+Barrier
+×1.5
+
+
+
+Spare Ammo Capacity
+
+Default
+500
+
+
+Armor Pack
+549
+
+
+Upgraded
+575 - 950
+
+
+Both
+625 - 1000
+
+
+Pickup Amount (Min - Max)
+190
+
+
+
+The Collector Particle Beam is a heavy weapon in Mass Effect 2.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 Trivia
+5 See Also
+
+
+Description[]
+Precise and lethal, this focused-radiation weapon is very effective against shields, barriers, and armor.
+The amount of energy required to create a destructive beam is several orders of magnitude more than the amount needed to launch a high-velocity projectile via a mass effect field.
+The weapon you've retrieved appears to be a beam weapon of Collector origin, but efforts to understand the technology and replicate it have failed. With enough research, Normandy's engineers may be able to produce beam weapons, perhaps on a larger scale.
+
+Acquisition[]
+Found during the mission on Horizon, on a stasis pod near the stairs where Shepard first finds frozen colonists. If you happen to miss that one, you can find a second one near the locked door that leads to Delan after you beat the waves of attacking Collectors. If you miss the previous two, you can find a third one right after you exit the Garage. If the weapon is not picked up at any of these locations, it will be awarded at the end of the mission. Picking up the weapon will also totally replenish Shepard's heavy weapon ammo.
+
+Player Notes[]
+Mechanics
+Although the Particle Beam is fully automatic, it will consume five units of ammunition at a time.
+The Collector Particle Beam has great range, ammo efficiency, and precision. It is effective at taking out the barriers or shields of tougher enemies such as YMIR Mechs or Tela Vasir.
+Even against armor, its damage rate outstrips the M-451 Firestorm, essentially rendering that weapon obsolete as the Particle Beam is superior in almost all other respects as well, such as range.
+The Collector Particle Beam does not cause any friendly fire damage to Shepard or Shepard's squad regardless of difficulty setting allowing it to be fired at point blank range safely.
+Enemies killed by the beam will often melt into a yellow puddle without leaving a corpse; glowing Abominations explode as they always do.
+The Particle Beam does not appear to deal bonus damage to heads or other "weak points" on enemies though aiming at the lower parts of husks can cut them in half as with other weapons.
+As with most heavy weapons, the Particle Beam can repeatedly stagger most lighter enemies that are hit, especially if the beam is kept on them persistently.
+The Particle Beam can quickly destroy the shields put up by Collector Guardians even on Insanity.
+The beam can be used to set off the fuel tanks of unprotected pyro-type enemies and Geth Destroyers to cause them to detonate and kill the owner.
+Strategies
+The Particle Beam is a much riskier weapon to use on higher difficulties as Shepard must maintain constant line of sight to targets in order to deal serious damage which in turn opens Shepard up to return fire.
+This weapon is especially useful for classes that lack sources of good damage versus barriers or the long-range precision of sniper rifles. The Engineer in particular can get decent utility from the Particle Beam against tougher single enemies by continuously distracting them with Combat Drones to prevent return fire while drilling them.
+Trivia[]
+The Particle Beam is the weapon wielded by Collector Assassins.
+Game assets for the Collector Particle Beam are present in Mass Effect 3 but cannot be accessed normally except for third-party modifications.
+See Also[]
+Upgrade Guide
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+

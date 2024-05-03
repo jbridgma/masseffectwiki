@@ -1,0 +1,63 @@
+
+
+
+
+
+Ithrone
+
+Region
+Milky Way / Nimbus Cluster / Kallini
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.5 AU
+
+
+Orbital Period
+0.3 Earth Years
+
+
+Keplerian Ratio
+1.389
+
+
+Radius
+10,436 km
+
+
+Day Length
+61 Earth Hours
+
+
+Atm. Pressure
+2.17 atm
+
+
+Surface Temp
+566 °C 
+
+
+Surface Gravity
+0.79 g
+
+
+Mass
+2.099 Earth Masses
+
+
+Location: Milky Way / Nimbus Cluster / Kallini System /  First planet
+
+Prerequisite: Priority: The Citadel II (Mass Effect 3)
+
+Description[]
+Vast swaths of Ithrone's surface are covered in thick ash, spewed into the air by chains of volcanoes across the planet. Beneath this layer of soot, Ithrone has an iron core and significant levels of cobalt in its crust.
+
+
+
+

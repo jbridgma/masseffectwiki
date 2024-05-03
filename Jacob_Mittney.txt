@@ -1,0 +1,39 @@
+
+
+
+You need to gather the necessary materials to craft a chestpiece for your armor at a research station. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Craft the Pathfinder chestpiece
+
+
+3 Rewards
+4 References
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+This task is acquired by speaking with Jacob Mittney, a man standing next to a structure on the eastern side of the pond in Prodromos colony on Eos.
+
+Walkthrough[]
+Jacob Mittney's R&D team has made a discovery they want Pathfinder Ryder to check out, claiming it could form the basis for armor production across the Initiative. If you have reservations, Jacob assures you he has no interest in wasting your time.
+
+Craft the Pathfinder chestpiece[]
+Simply go to any Research Center and use the "Development" section to craft a Pathfinder Chest. The blueprint can be found in the "Ready To Develop" tab (default), or by going to the "Armor" tab and selecting the "Chest" subcategory.
+Note:  Pathfinder Chest Rank I is not available in game.[1] Rank II is the lowest Rank that can be crafted to complete this task.
+Note:  This task can be completed with any level of the Pathfinder Chest, and doesn't have to be completed by crafting the Rank II version.
+
+Rewards[]
++270 XP
+References[]
+
+↑ https://answers.ea.com/t5/Bug-Reports/No-Pathfinder-Chest-1-Armor-Blueprint/td-p/5988830
+
+
+
+
+

@@ -1,0 +1,101 @@
+
+
+
+
+
+
+
+
+
+
+Geth Ghost
+
+
+
+
+Race
+Geth
+
+
+Type
+Synthetic
+
+
+Armament
+None
+
+
+Abilities
+ Assassination Overload Radar Jamming
+
+
+Health
+Moderate
+
+
+Shields
+Marginal
+
+
+Locations
+Feros, Virmire
+
+
+The Geth Ghost is a type of Geth Hopper used by the geth followers of Saren Arterius. Ghosts have a considerably darker color scheme than their similar subtypes, and intermittently glow blue on parts of their body like Geth Stalkers.
+The Ghost is a dedicated sniping platform, capable of shredding enemy kinetic barriers in preparation for its long-range assassination beam. Compared to the other two Hopper subtypes it has no radiation burst weaponry.
+
+Tactics[]
+Geth Ghosts are by far the most dangerous variety of hopper, because their Assassination ability does heavy damage and can easily one-shot Shepard on higher difficulty levels, fully-shielded or not. Worse, the red beam used to telegraph other Hopper abilities looks exactly like the Assassination warning beam, so you can easily be lulled into a fatal trap if you're not paying attention.
+One way to learn what ability the Ghost will use is through the color of the energy around its eye while it prepares to fire. Yellow means Overload, and none means it is preparing to Assassinate.
+Geth Ghosts, like all Geth Hoppers, are lightweight and lightly armored, making them vulnerable to gunfire. The problem is getting them to hold still long enough for a clear shot. Happily, they are usually encountered indoors, and a Hopper usually leaps back and forth between two positions across a room, allowing you to hit them on their return jump.
+Physics-based biotic attacks, especially Throw, will inflict heavy damage against Ghosts. Lift works nicely to hold them in midair, especially if you're using a sniper rifle.
+
+
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

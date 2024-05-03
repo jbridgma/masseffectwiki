@@ -1,0 +1,173 @@
+
+
+
+
+
+Krogan Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Krogan
+
+
+Rarity
+Rare
+
+
+Availability
+Initially unlockable
+
+
+Abilities
+Krogan ChargeKrogan HeadbuttToughness/MeleeDecreased Mobility
+
+
+Krogan are large bipeds native to the planet Tuchanka, a world known for its harsh environment, scarce resources, and vicious predators. Until the invention of gunpowder, the leading cause of krogan fatalities was "eaten by predators." Though slow, krogan can take tremendous damage in combat, allowing them to inflict grievous harm with impunity.
+Armored like a tank--and as slow as one--an angry krogan has more going for it than the species' infamous belligerence. It should come as no surprise that a krogan dishes out as much punishment as they're able to take on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 1000 / Health: 750
+
+
+Class: Krogan Berserker
+
+
+ Carnage
+
+
+
+
+ Fortification
+
+
+
+
+ Inferno Grenade
+
+
+
+
+ Rage
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee (Krogan Headbutt) – The Krogan Soldier headbutts the enemy, staggering it briefly.
+Heavy Melee (Krogan Charge) – The Krogan Soldier charges forward a short distance and strikes an enemy with held weapons.
+Grab (Physical Punch) – The Krogan Soldier drags an enemy over cover and then executes them with a gruesome physical punch.
+
+
+
+
+
+Dodge – The Krogan Soldier lacks a dodge maneuver.
+The Krogan Soldier can take cover, but cannot roll from cover to cover.
+
+
+
+Player Notes[]
+General Notes[]
+Krogan are highly capable of withstanding damage, albeit at the expense of being slow and lumbering. This means they are very susceptible to instant-kill moves from enemies capable of delivering them.
+Rage and Fortification can improve the Krogan Soldier's damage reduction by up to 30% and 40% respectively – this makes them very resistant to small arms fire and capable of withstanding even the hardest of hits.
+Alternatively, one can focus purely on raw melee damage, with certain evolutions in Fortification and Rage.
+Rage can increase standard melee damage by 95%: 80% when enraged, and a further 75% when a heavy melee kills an enemy.
+Fortification, when purged, can increase melee damage by up to 100%.
+Several mods and pieces of equipment also increase melee damage: equip a Shotgun Blade Attachment or a Pistol Melee Stunner on a pistol for up to 25% more melee damage (note that the melee damage only counts with the currently equipped weapon), or the Shotgun Omni-Blade for 30-50% extra melee damage but at the cost of 50 extra weight. A Strength Enhancer Weapon Bonus and/or Hydraulic Joints Gear help increase melee damage output even further.
+All in all, with these benefits you can potentially increase the strength of your melee attacks five-fold. This colossal boost to damage can allow you to take out any infantry with a single heavy melee on Bronze, almost all of them on Silver, and a great deal of them in just one or two hits on Gold. Be sure to purge (and reactivate) Fortification every 15-20 seconds to maintain the additional melee damage bonus.
+Krogan Soldiers can also choose to focus on damage protection and Inferno Grenades. This combination (if Fortification isn't purged at all) means there are no power cooldowns to worry about, so weapon weight isn't an issue. However, Inferno Grenades are in finite supply.
+Inferno Grenades are excellent for crowd control, especially against organics. Their large area-of-effect combined with their damage over time allows the Krogan Soldier to soften large groups of enemies before rushing in for a melee spree.
+It can be useful to invest a few points in Carnage if you plan on using Inferno Grenades, since Carnage may serve as a detonator of Fire Explosions.
+Cerberus[]
+Krogan can be devastating at close range, but be wary of Phantoms and Atlases. Krogan are more vulnerable to their instant-kill moves.
+If going for the Fortification-Inferno Grenade loadout, load a heavy assault rifle, and shotgun for a flexible all-range outfit. Remember, you cannot move quickly, so if a Phantom gets too close try to retreat, melee her if you can, or make her try to evade you.
+Collectors[]
+You will have your work cut out against the Collectors since most enemies cannot be knocked down. They can be seriously injured however, and a pure melee build will certainly prove devastating against even Scions. Steer clear of Praetorians though as their claw attacks will very quickly chew through your bulky physique.
+The Fortification power needs to be switched on and off to maintain maximum melee damage. Alternatively you can keep it on you, since protection is constant, and sometimes switching it off can prove fatal.
+Inferno Grenade will do the trick against Scions, and Praetorians, as well as the basic troopers, but you will first need to strip the barriers of the other enemies before it will affect the others as effectively.
+Geth[]
+Geth are a krogan's bane. Since many of the geth are capable of stunning you with melee attacks, shotguns, rockets, or pulse cannons, sticking to cover is imperative to survival. While they cannot interrupt you when you are charging them with a heavy melee, you will often take significant damage just trying to deal with one enemy. They may stop you in your tracks by interrupting you before you try the charge.
+Use the same loadout as you would for Cerberus: shotgun and assault rifle, as this will give you a good all-range loadout.
+Stick by your allies and stay behind something that is solid and, ideally, has a good height, to prevent them from shooting you whilst in cover.
+Reapers[]
+Krogan can quickly tear through Reaper forces and it is tempting to run into enemy spawn. However, since krogan are slow, you should make a tactical retreat when Banshees get close since they can instantly kill you.
+Brutes can be dangerous too, but they can be dealt with swiftly with an anti-armor load out, such as the M-300 Claymore with the Shotgun Shredder Mod.
+Husks are great melee targets to activate Rage since they are physically frail.
+Ravagers can deplete your shields and health quickly with their Swarmers and cannons, but efficient use of Inferno Grenades will neutralise that threat and render Ravagers vulnerable to a heavy melee attack.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

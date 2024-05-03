@@ -1,0 +1,92 @@
+
+
+
+
+
+Spitbug
+
+ 
+
+
+
+
+
+
+
+Faction
+Wildlife
+
+
+Weapons / Attacks
+–
+
+
+Abilities
+Spit Attack
+
+
+Health
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Unknown
+
+
+The arknid, also colloquially known as the spitbug, is an insect that resembles a tick scaled to dog-sized proportions. It can be found natively on Eos and Elaaden.
+These malodorous creatures emit an acid that is highly corrosive, strong enough to eat through a gun. Some outlaws have been conducting research to weaponize their goo into grenades.
+
+Scanner Information[]
+Arknid, AKA Spitbug
+
+
+DATA:
+Classification: Insect
+Origin: Andromeda
+ANALYSIS:
+An oversized, hard-shelled insect that spits acid when threatened. Not innately hostile. Bristles along its body and legs sense movement, as well as scents. 
+
+Capabilities[]
+Offensive
+Spitbugs spew projectile acid as their only means of attack. It is only viable at short to medium ranges.
+
+Defensive
+Spitbugs are unprotected by shields, armor, or barriers.
+
+Tactics[]
+Spitbugs can simply be run over with the ND1 Nomad. More effort is required to keep them alive as they have very low health and can be killed by errant squadmate fire.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

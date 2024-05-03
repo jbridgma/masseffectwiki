@@ -1,0 +1,235 @@
+
+
+
+See also: Infiltrator Guide, Infiltrator Guide (Mass Effect 2)
+
+Infiltrators are tech and combat specialists with the unique ability to cloak themselves from visual and technological detection. Their inventory is stacked with a wide variety of weapons, equipment, and powers. Infiltrators are deadly at any range, but particularly so with a sniper rifle. When scoping a target, superior reflexes take over, time momentarily slows down, and the Infiltrator finds an easy picking.
+
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Tactical Cloak
+2.1.2 Cryo Ammo
+2.1.3 Disruptor Ammo
+2.1.4 Sticky Grenade
+2.1.5 Incinerate
+2.1.6 Sabotage
+2.1.7 Fitness
+2.1.8 Operational Mastery
+
+
+2.2 Bonus Powers
+
+2.2.1 Energy Drain
+2.2.2 Dark Channel
+2.2.3 Decoy
+2.2.4 Defense Matrix
+2.2.5 Marksman
+2.2.6 Stasis
+2.2.7 Warp Ammo
+2.2.8 Armor-Piercing Ammo
+2.2.9 Dominate
+2.2.10 Defense Drone
+2.2.11 Inferno Grenade
+2.2.12 Flare
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Assault Rifles
+3.2 Heavy Pistols
+3.3 Shotguns
+3.4 Sniper Rifles
+3.5 Submachine Guns
+
+
+4 Combat Guide
+
+4.1 Reapers
+4.2 Cerberus
+4.3 Geth
+
+
+5 Squad Members
+
+
+
+Overview[]
+The Infiltrator uses its powers to create openings, which can be exploited by other powers or weapons. Tactical Cloak lets an Infiltrator maneuver into position and set up attacks without enemy targeting. Sabotage temporarily disables enemies OR turns them against their allies (through the AI Hacking feature). Incinerate provides some help against armor. Sticky Grenade can be quite useful if your aim and timing are good, and two ammo powers help give the Infiltrator some variety. With the proper selection of skill upgrades the Infiltrator is still the best possible sniper in the game, as it was in Mass Effect and Mass Effect 2, dropping enemy after enemy with one shot apiece.
+
+Powers[]
+Class Powers[]
+Tactical Cloak[]
+Main article: Tactical Cloak
+As in Mass Effect 2, the Tactical Cloak is one of an Infiltrator's greatest assets. Not only are you able to move around enemy lines undetected, but the next shot you take gets a considerable damage bonus. New to Mass Effect 3, however, is that disabling the Cloak before it wears off will reduce the cooldown of your powers, allowing the cloak to be turned on and off more frequently. In addition, the weight system allows Infiltrators to take a shotgun into combat in lieu of or in addition to a sniper rifle, granting the same damage bonus from the cloak, but at a much closer range. This allows an Infiltrator to maneuver around enemy cover and deal damage in situations where a sniper rifle has a high chance of missing or being blocked by armor (which is particularly helpful against Cerberus Guardians).
+
+Cryo Ammo[]
+Main article: Cryo Ammo
+Cryo Ammo is best used with weapons like Assault Rifles and SMGs--weapons that spray many shots, further increasing the chance of icing an enemy over. If you're quick at changing weapons and aiming, a sniper rifle shot can finish an enemy off--or you could simply use Incinerate. Cryo Ammo also softens up armored enemies, making it a good thing for wearing down Brutes, Banshees, Atlas Mechs, and anything else with armor as a protection. This ammo is particularly devastating when used with the Falcon, as any enemies caught in the area of effect are all susceptible to being frozen. Another tip is to evolve the squad version and allow your squad to stop entire squadrons of enemies. This also enables the player to use a different ammo type while still taking advantage of the freezing debuff on enemies (e.g. frozen Brutes + Armor-Piercing Ammo).
+
+Disruptor Ammo[]
+Main article: Disruptor Ammo
+Disruptor Ammo is eternally useful. It fries shields and synthetics, while also having a decent chance to stun organic enemies.  It also adds damage against all enemies with health now organic or synthetic but only up to 15% more. As an added bonus, Disruptor Ammo now deals bonus damage to Barriers (though not to the same magnitude as Warp Ammo). It's not a bad idea to get the Squad Disruptor Ammo evolution, but it's hardly essential.
+
+Sticky Grenade[]
+Main article: Sticky Grenade
+Sticky Grenade is useful mostly because it lacks a cooldown and can be used at any time. It fares well against single well-armored enemies, as they are often large targets which require much less effort to stick than the standard grunt. When stuck, the grenade deals massive damage, but unfortunately, its damage radius is quite small, meaning a miss is unlikely to deal much, if any, damage to moving targets. Guardians will not take any damage if you stick the grenade on their shield. Using Sticky Grenade does not disable the cloaking effect of Tactical Cloak, so one can gain further advantage against unsuspecting enemies.
+
+Incinerate[]
+Main article: Incinerate
+Incinerate's relatively quick recharge, solid damage, and anti-armor abilities are good features to have along. One of its late power evolutions does greatly increased damage to frozen enemies, making it self-synergize with Cryo Ammo above. Remember that the shot will curve towards the target, so it can be used to break enemies out of cover. On high-level difficulties, evolving Incinerate towards its anti-armor role makes dealing with Brutes, Banshees and Harvesters much easier. Furthermore, Incinerate will set enemies up for an incredibly devastating Fire Explosion. You can detonate this yourself with a Sticky Grenade or Bonus Power. If you should fail in doing that, your squadmates can detonate it with any number of abilities (Overload, Concussive Shot, Throw, Warp, etc.). If you pick the Radius upgrade at rank 4 of the skill it becomes quite effective at dealing with a larger number of weak rushing enemies like husks, which is the one situation the Infiltrator is somewhat weak at dealing with.
+
+Sabotage[]
+Main article: Sabotage
+Sabotage disables the weapons of enemies and causes slight damage over time to its targets. If recharge times are kept low, this can be a useful tool to disable enemies on one flank to give you time to eliminate the others. If an enemy has been wounded to near death, Sabotage will let you ignore him while the damage effect finishes him off. The opposite approach--disabling the strongest enemy present--has its virtues, especially against Atlas Mechs. Sabotage is slightly less useful against Reaper forces, but it still affects Cannibals and Marauders. It can also be used to hack synthetics, including Cerberus turrets. A good approach is to subvert enemies at the back of the squad; enemies in cover against you are likely not as protected against their own allies. Also, if you see a Cerberus turret, hack it immediately; they are quite powerful and can eliminate several enemies in short order. 
+
+Fitness[]
+Main article: Fitness (Infiltrator)
+Fitness adds to your health, shields, and melee damage. If you are an Infiltrator and taking damage, use your Tactical Cloak to be somewhere else and once again melee. If you're in a brawl, then cloak and retreat. That said, 1 point for 15% to all three is a good investment.
+
+Operational Mastery[]
+Main article: Operational Mastery
+Operational Mastery is a passive ability with a great set of benefits. Upgrading it will increase your influence, your weight capacity (thus allowing you to carry heavier weapons or have faster recharges), sniper time dilation (making it much easier to line up headshots), and more damage.
+
+Bonus Powers[]
+Energy Drain[]
+Main article: Energy Drain
+Energy Drain is one of the strongest out of the choices, and one of the reasons why salarian Infiltrators are among the most dominant Infiltrators in multiplayer. The Infiltrator lacks the ability to deal with shields natively, and the ability to restore its own shields. Energy Drain covers both those gaps nicely, and finding shielded enemies is relatively easy. Since cloak stops all shield regeneration, energy drain will be the only way to restore shields with heavy cloak usage. Even without tactical cloak's bonus power upgrade, you can combo your cloak shots with Energy Drain, as long as you Energy Drain or fire your shot quickly after the other.
+
+Dark Channel[]
+Main article: Dark Channel
+While not as useful for an Infiltrator as it would be for a biotic class like the Sentinel or Vanguard, a fully-evolved Dark Channel grants a 75% damage bonus to Barriers and Armor, and can be used effectively against multiple targets by "jumping" to a new target when the previous one is killed. This lets you soften up multiple armored targets very quickly. Dark Channel can also be evolved to reduce the movement speed of afflicted enemies, making them--as the slowdown will jump to another enemy once the afflicted enemy is killed--easy targets for headshots. If you choose Dark Channel for your bonus power, Kaidan and Liara are ideal squadmates, as they both have powers which can detonate Dark Channel.
+
+Decoy[]
+Main article: Decoy
+Decoy is a more traditional "Assassination skill" that allows you to maintain your stealth position by confusing the enemy into shooting your Decoy. This can be useful, since more than any other class the last thing the Infiltrator wants is fire on their position. Unlike Defense Matrix it doesn't provide any actual defense increase, so if your enemies aren't fooled it's as good as useless, but it also lacks Defense Matrix's 60% recharge reduction, allowing you to synergize better with Tactical Cloak.
+
+Defense Matrix[]
+Main article: Defense Matrix
+Defense Matrix is the primary defensive option for the Infiltrator, initially providing a defensive boost at the cost of a 60% recharge reduction - a steep price for a class heavily reliant on Tactical Cloak. The 25% damage boost and 30% recharge reduction evolutions offsets this damage and recharge penalty, while purging your Defense Matrix will restore 50-100% of your shields (based on rank and evolution). Due to the diminishing returns from very high recharge bonuses, a 30% penalty to recharge times will increase your cooldowns by very little, more than justifying the damage reduction and increased outgoing damage if you keep your weight bonus high and seek out other power recharge bonuses.
+
+Marksman[]
+Main article: Marksman
+If you'd prefer to be a "pocket-soldier", using weapons rather than powers to actually do almost all your killing, Marksman can be activated while in Tactical Cloak, then you cancel Tactical Cloak by shooting, thus recharging at the rate of Tactical Cloak, which for all practical purposes, gives you a permanent Marksman boost. It is probably best to combine this with one of the rapid fire sniper rifles, and not a high damage single shot version.
+
+Stasis[]
+Main article: Stasis
+Utilizing Stasis's Bonus Power evolution, along with Tactical Cloak's Bonus Power evolution, virtually allows for infinite Stasis use, and you should be able to fire 2 more powers for a total of 3 while under a single cloak.
+
+Warp Ammo[]
+Main article: Warp Ammo
+With a powerful, slow-firing weapon like a sniper rifle, a good ammo power is very useful, because the additional damage can make the difference between needing two shots to kill an enemy, or just needing one. Moreover, even though a squadmate can provide an ammo power for the entire party, it's useful for Shepard to have the power personally, since squad ammo powers only come at half strength. Using a power without a cooldown as a bonus power also avoids having other powers competing with Tactical Cloak for cooldown time. Of all the bonus ammo powers, Warp Ammo provides the highest potential bonus to health and armor damage. It also provides a very high bonus to barrier damage, but few enemies have barriers, and it's generally faster to have a squadmate overload an enemy's barrier rather than spend a shot on it. Its weakening effect may also be useful against tough enemies.
+
+Armor-Piercing Ammo[]
+Main article: Armor-Piercing Ammo
+Armor-Piercing Ammo provides similar benefits to Warp Ammo, but sacrifices some damage for penetration bonuses against cover and armor. This can be a better choice for players who want to fire further through cover without sacrificing a mod slot for a piercing mod.
+
+Dominate[]
+Main article: Dominate
+Dominate allows an Infiltrator to command most organic creatures into fighting for you. This allows the Infiltrator to either use the controlled enemy as a distraction for an easier headshot, or set up the poor thrall for an execution.
+
+Defense Drone[]
+Main article: Defense Drone (power)
+Defense Drone gives an Infiltrator yet another tool in their arsenal to deal with things that get a little too close for comfort. While a shotgun-wielding Infiltrator will have little, if any, problem with that, a marksman or sniper will have more than a few issues involving swarms of Husks and other shotgun-wielding enemies. Defense Drone also allows an Infiltrator, regardless of weapons and equipment, a little more leeway in these melee fights, and an 'early warning' system, the drone being able to stun an enemy who gets a little too close with no input from the player. While its damage is small, the sound it makes when electrocuting someone is unmistakable, and a boon to those who are ambushed.
+
+Inferno Grenade[]
+Main article: Inferno Grenade
+While the Infiltrator already possesses a grenade power and an incendiary power, Inferno Grenade provides a viable alternative when you need to hit more enemies than a Sticky Grenade will allow, trading heavy instant damage for a wide-radius damage-over-time attack that can temporarily disable enemies. In addition to offsetting Sticky Grenade's weaknesses, Inferno Grenade's capacity increase evolution will stack with Sticky Grenade's, allowing a possible total of seven grenades. A quick follow-up power may trigger a Flame Explosion, inflicting even greater damage.
+
+Flare[]
+Main article: Flare
+Due to the Infiltrator's ability to bypass cooldowns and lack of a biotic detonator (if one chooses to have a biotic bonus power), Flare fits in perfectly. Utilizing Tactical Cloak will bypass Flare's long cooldown, so the player can either focus on damage or radius evolutions (along with a detonation bonus of 50%) to have a power detonator in their arsenal. This power increases synergy with biotic squadmates, like Liara, Javik and Kaidan.
+
+Weapons and Equipment[]
+Assault Rifles[]
+Main article: Assault Rifles
+While seeming to not be a first choice for an Infiltrator, the damage bonus from Tactical Cloak applies to multiple rounds from these weapons, allowing for some staggering damage output from certain weapons. The M-15 Vindicator is perfect for this role, as the damage bonus from Tactical Cloak applies to all three rounds from the first burst fired, making its already respectable damage output even more lethal, especially if aimed well at an enemies' head. The M-96 Mattock also functions well in this role, with a little more ammunition conservation and capacity. An Infiltrator less concerned about power cooldowns might even choose the Mattock as a close-quarters backup weapon, as an Infiltrator can carry a M-98 Widow V and Mattock V and suffer only a 6% cooldown penalty if the Weight Capacity evolution of Operational Mastery was chosen.
+However, a cloaked Infiltrator with the M-99 Saber can easily match any weapon in terms of sheer damage output. The Saber can act as a sniper-rifle, since you can just as easily shoot enemies in the head, but it's also much more forgiving for when you misplace a shot.
+
+Heavy Pistols[]
+Main article: Heavy Pistols
+Heavy Pistols will be very familiar to players playing an Infiltrator similar to Mass Effect. In Mass Effect 3, however, there is far more choice in which pistol you want to carry. The M-3 Predator is simple, reliable, and accurate, if lacking in damage. Its fire rate is unsurpassed by any heavy pistol, however, and can be used with ammo powers to reliable, but not spectacular, effects. On the flipside, more powerful pistols, such as the M-6 Carnifex, M-77 Paladin, and even the Executioner Pistol, can be used to supplement your sniper rifle with accurate, longer range shots. The Executioner absolutely excels at this, although the Infiltrator will be significantly hampered by the single-shot capacity. For those who enjoy getting a little closer to the enemy, but don't want to use a shotgun, the M-358 Talon is a wonderful weapon, acting as a shotgun, but with less weight to worry about. For an amusing, if not unorthodox strategy, equip the salarian Scorpion pistol. The Infiltrator becomes more of a 'saboteur' style of combat, remaining unseen, and simply launching the mines at any enemy within sight. Basic infantry units are absolutely annihilated by the explosions, and, as an added bonus, close/combat units such as Geth Pyros and Cerberus Phantoms are stunned, giving you and your squad more breathing room and time to shoot at them. Finally the Acolyte with its 500% shield damage modified works extremely well as a light sidearm to strip shields, particularly if Disruptor Ammo is used as well. If you don’t pick a bonus power for shield stripping you can instead charge the Acolyte before cloaking, shoot without breaking cloak, and then switch to a sniper to basically completely bypass shield-gating. 
+
+Shotguns[]
+Main article: Shotguns
+The low weight and staggering effect of the Disciple, or a very heavy shotgun like the M-300 Claymore, work best with this strategy. The former allows you to re-cloak that much faster and more safely, and the latter to take full advantage of the weapon damage bonus when de-cloaking. If you use the M-300 Claymore, you can make up for its single shot by launching a power right before or after shooting, just like when using a single-shot sniper, reload cancelling is also very useful. Also of specific interest are the Geth Plasma Shotgun and the Graal Spike Thrower, both of which break the cloak when you start charging them rather than after firing, meaning that you can start charging the shotgun, activate the cloak, fire the fully-charged shotgun while still cloaked, and either get a second shot or run away before the cloak wears off.
+If you have the Groundside Resistance Pack, the N7 Piranha is also an excellent choice, particularly against Reaper forces. The fully automatic fire of the Piranha means you will be able to get 3-4 shots off before Tactical Cloak breaks.
+If you prefer the heavier single-shot sniper rifles, Shotguns are an important consideration for countering the one situation that a sniper-specialized Infiltrator is weak against and that is rushes of weaker enemies like Husks. One well upgraded shotgun completely eliminates this problem, however both shotguns and single-shot sniper rifles are heavy even when fully upgraded, so power recharge penalties may be a concern. If you do decide to use a Shotgun for your close-range fighting don't bring a Heavy Pistol or a Submachine Gun to reduce your weight as much as possible; the Shotgun will completely outperform either of them at that range anyways. Given the enemy types, their numbers and ranges that you would likely use a Shotgun it is recommended not to use anything heavier or slower than the initial M-23 Katana, which makes nearly every shotgun other than the M-27 Scimitar not really worth considering.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+The true headshot specialist normally favours a single-shot bolt-action sniper rifle with the power to stop a charging krogan, the M-98 Widow or even the humble M-92 Mantis being favoured here. And for those who can afford it, the Black Widow, purchased from the Spectre Requisitions Terminal, weighs the same as a standard Widow and does almost as much damage, but it has a larger clip size and reserve. The Javelin also works well and has the advantage of spotting cloaked or smoke-concealed targets. But other than the Mantis, these are all extremely heavy weapons which will severely restrict power use.
+For those less concerned about one hit kills, the M-13 Raptor is effective for lightweight players, the low damage is offset by the high rate of fire and high-capacity clips and can be enhanced with Armour-piercing Ammo and Sniper Rifle Extended Barrel for maximum stopping power. The M-97 Viper's advantage over other Sniper Rifles is its thermal clip size of 6, its large reserve, its low weight, its fast reload speed, and its low recoil coupled with a decent fire rate.The damage it delivers may not kill most targets in one shot, but it can leave most opponents at a very low health with a single headshot, allowing you to finish them off with your sidearm. If ever one is against multiple opponents with armor or shield, one can throw Incinerate or Energy Drain at a fairly fast rate. Its main weakness is the need to score a headshot to actually deal any recognizable damage, and its lack of penetration through surfaces. The M-90 Indra can also be very useful to an Infiltrator despite being fully automatic. However, this can actually become an advantage since it is unsurpassed in clip size and rate of fire.
+The Krysae Sniper Rifle (available through the Firefight Pack DLC) is another solid choice for an Infiltrator, particularly against Reaper forces. When combined with Cryo Ammo, it becomes an excellent crowd control tool.
+The Kishock Harpoon Gun (available through the Groundside Resistance Pack DLC) is an exceptionally deadly weapon in the hands of an Infiltrator. It also reloads faster than any other one shot sniper rifle, and can be fired from the hip without penalty, allowing the player to effectively use it in mid-to-close range combat. Furthermore, like all chargeable weapons, it can be charged before activating Tactical Cloak, then fired without breaking cloak. Its only real disadvantage is the fact that its projectiles take time to reach their target; however, this is largely mitigated by the time dilation effects afforded by Operational Mastery and a Sniper Rifle Concentration Mod. Note that it can also penetrate Guardian shields, and is lighter than other high power sniper rifles (such as the Widow, Black Widow, and Javelin).
+
+Submachine Guns[]
+Main article: Submachine Guns
+Submachine guns are a good complement to the classic Infiltrator's sniper rifle, since they're effective at close range where the rifle would be unwieldy, and have a high rate of fire for dealing with swarms of weak enemies on whom a rifle shot would be wasted. Another benefit of submachine guns is that with the SMG Ultralight Materials upgrade, they are the lightest guns in the game, which helps an Infiltrator keep a fast cooldown despite carrying a heavy sniper rifle. Infiltrators who use SMGs frequently should prioritize getting M-9 Tempest, since it's a much more effective SMG than the starting M-4 Shuriken. In the single-player campaign, there are few other good choices of SMG -- the M-12 Locust comes very late in the game, so while it might be useful in a New Game Plus, it's an afterthought in a character's first playthrough. The M-25 Hornet may also be a viable choice, although its recoil makes it difficult to handle. Another option is the Geth Plasma SMG, Which can substitute as a machine gun. The Blood Pack Punisher can also work wonders for an Infiltrator, giving them a close quarters weapon with a considerable punch against armored targets. For an Infiltrator who prefers heavy single-shot sniper rifles and does not want to rely on a Shotgun for their close range frantic fighting against enemy rushes the quickly available fully automatic M-9 Tempest modified for high damage, likely with the SMG High Caliber Barrel for higher damage per shot and the SMG Heat Sink for the occasional free bullet, is probably your best option.
+
+Combat Guide[]
+See also: Combat (Mass Effect 3)
+As with Mass Effect 2, Infiltrators should take full advantage of Tactical Cloak during flanking maneuvers and to position themselves for the best possible shot. The Infiltrator's default weapons-loadout is the bolt-action sniper rifle (such as the M-92 Mantis or M-98 Widow) backed with any personal defense weapon of choice (usually an SMG Ultralight Materials equipped SMG) for close quarters combat situations (SMGs being considered superior backup weapons to pistols due to negligible impact on recharge rate). The Concentration Module is recommended for its time-dilation effect and slightly increased damage.
+More than two weapons are not recommended as they cripple your power recharge rate to no good purpose, although some players have good success with a Soldier-type approach by carrying a hard-hitting sniper rifle, and pair it together with a heavy shotgun for a massively damaging load-out allowing you to take out the toughest enemies with minimal effort from any range.
+As always, when using a sniper rifle, aim for the head after stripping off shields and barriers. With a strong single-shot sniper rifle, this will one-shot kill any Cerberus troops and all but the heaviest Reaper troops. If a good Ammo power is used at the time such as Disruptor Ammo against a shielded enemy you may be able to one-shot kill the enemy even through the shield/barrier. This style of play is of most importance on harder difficulties, and particularly on Insanity: Often the biggest threat are grenades lobbed at your position as these will kill you instantly if you're anywhere near them, but the enemies who throw them are without shields or barriers (Assault Troops and Cannibals). Taking out these enemies before they can get into position and throw them at all can save the hassle of repositioning when a grenade is thrown into your covered area.
+With a style centered around close-quarter combat (focusing on melee damage and use of a shotgun with Disruptor Ammo), one particularly effective and fun technique is to position your squad members at a medium distance while you use Tactical Cloak to rush an enemy position and quickly dispatch an enemy with a heavy melee attack before ducking into cover. This will create a hammer-and-anvil situation where your squad is free to fire upon targets while you sow confusion with Cloak and a combination of melee attacks and a powerful wallop from a shotgun, with Sticky Grenades to supplement your firepower. However, caution is advised against attacking enemies in entrenched positions or Reaper forces -- without cover to hide in between Cloak recharges, or against Husks and Ravagers, you'll quickly find yourself in trouble.
+Another method of playing uses the Sniper rifle as more of a support weapon, or even eschews it entirely. The build revolves around melee damage and close range combat using Tactical Cloak, which means that weapons should be in the Shotgun or Heavy Pistol family with the appropriate melee damage increases. Shotguns are suggested, as one point-blank shot can decimate the opponent's shield and/or health, making it easier to melee enemies to death.
+Incinerate is useful for finishing weak enemies, hurting armored enemies, and flushing targets from cover (remember that it arcs to the target. Aim a little high and to one side of your target to help it around cover). While it's not on the level of Tactical Cloak, it's nonetheless a valuable part of your arsenal.
+Sabotage doesn't do much damage by itself, but it can remove a strong enemy from the fight long enough to attend to the weaker enemies, or end a weakened enemy (from the backfiring of his weapon) while you move onto the next one. It's also very useful for shutting down Atlas mechs to give you a few retaliation-free shots at it. 
+Sabotage's AI Hacking function is also extremely handy to have; Cerberus turrets are very, very effective, and often set up in the middle of an enemy position. It's not an exaggeration to say that one subverted turret will ruin any troopers, engineers, or Centurions that happen to be near it. AI Hacking still has the same uses against geth that it always had: Subvert a target in the back of the group, and he'll either divert attention to himself or flush enemies from cover, or get killed himself while softening up the group as a whole.
+Sticky grenade is good for slow-moving or large targets, like Brutes or Banshees. If you can get close enough, try throwing a grenade on them. Few things in the game do damage like a grenade that just went off on an enemy's shoulder. The sticky grenade is also good for tight groups of enemies. 
+Disruptor Ammo helps remove shields/barriers and destroys synthetics, and sometimes stuns organic enemies. Cryo Ammo is good for its armor-softening abilities, even if it doesn't freeze the target.
+If playing in multiplayer, especially if using a widow, be aware of your weapon's power and the difficulty you're playing on. If using a widow X, even on gold, extra time spent lining up a headshot on weaker targets may be a waste when a simple body shot would do the job.
+Reload Cancelling: This applies not just to Infiltrators but to any class; you can speed up reloads by cancelling the full animation after you hear the 'click' sound and see the ammo counter refill by performing almost any action such as a melee attack, dodge, power-use, dropping off a ledge, starting to climb a ladder, or simply tapping the Shared Action button. This greatly increases rate of fire especially with single-shot weapons. 
+
+Reapers[]
+Reapers are big, strong, and your orthodox enemy, and there aren't really any special tricks they have. With the single exception of your cloak Cryo Ammo is your best friend against Reapers; low level reapers like the Cannibal and Marauder freeze nicely and high level ones are mostly armour which is less effective chilled (and you can then follow up with an Incinerate while their armour is chilled). Husk rushes are of course stopped cold by Cryo Ammo. Your biggest inherent weakness, your lack of means of dealing with shields or barriers naturally, only matters against the Marauder, the Banshee, or if there are barrier generators around (which are, of course, a high priority). As Marauders are normally squad leaders, in the early game Garrus Vakarian or EDI on their own should be enough to render the Marauders' shields irrelevant, and the Banshee's barriers are vulnerable to the biotic powers of your squadmates as well as Overload and Energy Drain. And if a Banshee or Brute gets too close it becomes a perfect target for a Sticky Grenade.
+
+Cerberus[]
+Cerberus are a tricky enemy. Fortunately you are tricky as well and can match them trick for trick - and counter theirs. Smoke is trivially countered by putting a scope on your sniper rifle. The Cerberus Turret is something you should simply turn round with Sabotage - it will then kill the engineer who set it up, and probably be in the middle of the rest of the Cerberus squad and kill them. There are two easy ways to take out a Cerberus Guardian; you can either take advantage of time dilation to shoot them through the letterbox, or turn invisible and hit them from behind with a close range weapon. An Atlas Mech should simply help you if you have an armour piercing sniper rifle; once you've stripped it of its shields the canopy can be fired through with an armour piercing weapon. Headshot the guy inside and you can climb in yourself and have fun turning it against Cerberus. Your worst enemy is the Phantom - you do not want to be playing a melee Infiltrator too near one, and they are a challenge to headshot in addition to having barriers.
+
+Geth[]
+There are three great tools for eliminating Geth and you have two of them - and a couple of tricks all your own. The first tool is Sabotage to recruit Geth to fight for you. The second is Disruptor Ammo to do more damage against them than you otherwise would, and to stun them. The third one is Overload to strip away the Geth shields - and you lack this or any other means of stripping shields directly. Fortunately you can take Energy Drain to strip their shields - or just shoot them. Most Geth don't like melee combat, but watch for the Geth Hunter or Geth Pyro and run even if you are playing a melee Infiltrator. If sniping, as most Infiltrators do, head shots aren't always as easy as for the other factions - but Geth tend to have low health anyway. Just make sure the elusive Hunters don't get close, and shoot the Pyros in the fuel tank (an easy job with time dilation and the ability to move safely while cloaked).
+
+Squad Members[]
+Main article: Squad Members Guide (Mass Effect 3)
+In general, if you're a sniping specialist who prefers high damage single-shot rifles (or the Black Widow) you will find that you heavily outperform every other possible squad member at weapon combat (and virtually any other type of combat) at medium to long range; most ability-based squad members do light to moderate damage with their abilities and/or disrupt them at this range but you'll just be killing them one after the other at a far faster rate. Garrus Vakarian and Ashley Williams are the only members who are at least respectable in comparison due to their use of Sniper Rifles, since most ranged enemies duck behind cover when they start receiving fire and therefore won't take a full clip of fire from an automatic weapon, and every shot must count. You should select squad members that can deal with close range combat against potentially large numbers of enemies which is where you are weakest, and/or squad members that can help get enemies out of cover. You should also consider squad members that have a squad-wide passive boost to your health or damage output.
+If you're playing as a sniper, Liara is invaluable. Stasis locks enemies into place and allows you to get a headshot lined up; it also works on shielded enemies, allowing you to eliminate common shielded enemies like Centurions, Engineers, or Marauders. Warp and Warp Ammo help strip barrier defenses. Her Singularity can render unshielded enemies helpless, and easy to pick off with a sniper rifle, as well as strip the shields of Guardians if one is not using an armor piercing sniper rifle. Singularity's recharge time can be made quite short, allowing her to use Warp on enemies within it before it expires for extra damage if they aren't already killed by sniping. Finally, the Infiltrator's Sticky Grenade will wreck a great deal of havoc on enemies clustered together by Singularity.
+Similarly to Liara, Kaidan Alenko makes an excellent choice as a squadmate. Reave functions in a way very similarly to Warp in removing barriers, while Cryo Blast and Overload will either freeze or stun most enemies, allowing the Infiltrator to set up a killing headshot.
+Characters who have Overload, such as Kaidan, Garrus, and EDI, are also good to have along. In addition to removing shields so you can take out one enemy with a sniper round, Overload often stuns organic enemies for a few seconds, giving you the opening for that sniper round. Garrus's Armor-Piercing Ammo will grant damage boosts to the Infiltrator if given the Squad upgrade, helping out against tougher foes like Atlas Mechs and Brutes, while EDI's Incinerate coupled with her power damage boosts due to Unshackled AI can allow the Infiltrator to focus on other skills such as Tactical Cloak or Sabotage.
+For other guidelines, characters who can use assault rifles (Ashley Williams, Garrus, Javik, James Vega, and Kaidan) are good to have, especially with the piercing mod to help get to the enemies behind cover.
+If you have the DLC Mass Effect 3: From Ashes, Javik is also a very reliable option and can even effectively replace Liara's position. Javik's powers are somewhat similar to Liara's if evolved around the appropriate steps; by giving his Pull and Slam the ability to affect multiple targets. Javik also has a very low recharge time for both said powers, allowing you to spam them effectively. 
+
+
+
+
+
+Mass Effect 3 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Search and Rescue • Equipment and Items
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • Power Combos • PC Tweaks • Interrupts • Merchants • The One and Only
+
+
+
+

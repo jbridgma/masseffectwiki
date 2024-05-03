@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+
+
+Julia
+
+
+
+
+Race
+Human
+
+
+Type
+Organic
+
+
+Armament
+Shotgun, Pistol
+
+
+Abilities
+ Warp Throw Carnage Marksman
+
+
+Health
+Moderate
+
+
+Shields
+Low
+
+
+Locations
+MSV Worthington
+
+
+Julia is a crewmember aboard the Kowloon Class Merchant Freighter MSV Worthington.
+
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+Julia, a powerful biotic, and her boyfriend, Jacob, both served as crewmembers on the MSV Worthington in 2183. Sometime during normal operation, Jacob was exposed to space for too long, resulting in brain death. 
+Struggling to cope with the incident, Julia was strongly opposed to the crew's suggestion of turning his life-support machines off. The ship's doctor, Smith, and the captain gave Julia some meds to help calm her down, and planned to shut down the machines keeping Jacob alive in a vegetative state. Things didn't go as planned however, because Julia didn't take the meds and killed every crewmember on the ship— notably the captain while he was recording the events in the ship's journal — and booby-trapped the cargo bay of the vessel. Not able to pilot the ship on her own, it is left adrift off the orbit of Antiroprus. 
+The freighter can be found and boarded by Commander Shepard and the squad. Even with people around she conceals herself until the last possible moment, when either the visitors discover her story through logs or after Jacob's life support is shut down. She desperately charges the group, but is killed in the process.
+
+Tactics[]
+Julia has moderate health and 2 to 3 bars of shielding. Like with all ME enemies, her shielding regenerates. Her health doesn't, however, unlike certain other enemies.
+She starts the battle equipped with a shotgun, but will switch to pistol once she has fired Carnage. The pistol will have particularly high rate of fire associated with Marksman.
+Julia tends to latch on a single target and aggressively stay within melee range like a charging krogan, providing numerous opportunities to knock her down.
+Damping and Sabotage are very useful, preventing her from firing or using biotics. If you have closed the door before listening to the final log, Julia won't be able to enter until you open it yourself, giving you ample opportunity to position Tech proximity mines in the doorway. With more than one tech user in the squad, it is possible to kill her without firing a single shot.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

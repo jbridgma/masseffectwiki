@@ -1,0 +1,353 @@
+
+
+
+The Collector Assault Rifle is an assault rifle in Mass Effect 2 and in Mass Effect 3's multiplayer mode, where it is simply referred to as the Collector Rifle.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Description
+1.2 Acquisition
+1.3 E-Mail from the Illusive Man
+1.4 Squad Use
+1.5 Player Notes
+
+
+2 Mass Effect 3
+
+2.1 Description
+2.2 Acquisition
+2.3 Player Notes
+
+
+3 See Also
+
+
+Mass Effect 2[]
+
+
+
+
+
+
+
+Collector Assault Rifle
+
+General Stats
+
+Type
+Assault Rifle
+
+
+Location
+ME2 Collector's Edition or Recon Operations Pack (LE: Normandy SR-2)
+
+
+Accuracy
+High
+
+
+Recoil
+Low
+
+
+Fire Mode
+Automatic
+
+
+Fire Rate
+500 RPM
+
+
+Ammo Per Clip
+28
+
+
+
+Damage & Bonus Multipliers
+
+Base
+17.4
+
+
+Armor
+×1.25
+
+
+Shields
+×1.25
+
+
+Barrier
+×1.25
+
+
+
+Spare Ammo Capacity
+
+Default
+280
+
+
+Armor Pack
+308
+
+
+Upgraded
+N/A
+
+
+Both
+N/A
+
+
+Pickup Amount (Min - Max)
+49 - 91
+
+
+
+
+Description[]
+The Collector's main weapon uses the same principles as a human assault rifle, but its organic components clearly set it apart. Its power source appears to be an internal organ with biotic capacitance; its ammunition resembles pellets of metallic enamel that strip shields off enemies with deadly efficiency.
+
+Acquisition[]
+Available as part of the Collector's Editions of Mass Effect 2 in the Collectors' Weapon and Armor pack, regardless of preorder. If you start a new game with this weapon already in place, you will have it as the default assault rifle for your squadmates (instead of the M-8 Avenger). Also included in the Recon Operations Pack. 
+In Legendary Edition it can be researched in the Normandy's Tech Lab at a cost of 5,000 iridium.
+
+E-Mail from the Illusive Man[]
+
+
+
+
+
+
+Shepard,
+
+Our researchers have been working with captured Collector technology for some time now. They've developed an experimental armor suit in your size and an assault rifle that the techs say should take a standard thermal clip. I had the items delivered to the Normandy's armory.
+
+
+Good hunting.
+
+
+
+Squad Use[]
+This weapon can be used by Garrus, Grunt, Legion, Samara/Morinth, and Zaeed.
+
+Player Notes[]
+The Collector Assault Rifle has a higher damage output than the M-8 Avenger, but with a slightly lower rate of fire and ammo capacity. It is less accurate than other assault rifles, although its accuracy remains constant rather than decreasing with continuous fire or movement so it's best suited for players who prefer to fire while running.
+Mass Effect 3[]
+
+
+
+
+
+
+
+Collector Rifle
+
+
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Assault Rifle
+
+
+Location
+Bonus itemMass Effect 3: Retaliation
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  64% 
+
+
+Capacity
+  57% 
+
+
+Fire Rate
+  46% 
+
+
+Damage
+  14% 
+
+
+Accuracy
+  29% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+28
+280
+
+
+
+
+
+
+
+
+Description[]
+The Collectors' main weapon uses the same principles as a human assault rifle, but its organic components clearly set it apart. Its power source seems to be an internal organ with biotic capacitance; its ammunition resembles pellets of metallic enamel that tear through enemies with deadly efficiency.
+
+Acquisition[]
+Single-player
+The Collector Assault Rifle is exclusive to multiplayer.
+
+Multiplayer
+Unlocked with a code obtained by pre-ordering The Art of the Mass Effect Universe from Barnes & Noble, or ordering a Mass Effect 3-branded Razer gaming accessory. The code could also be obtained by purchasing the digital version of The Art of the Mass Effect Universe or the entire Mass Effect: Invasion series through Dark Horse digital store by March 21, 2012.
+After October 9, 2012, it is randomly rewarded by purchasing item packs with Mass Effect 3: Retaliation downloaded and installed. The Collector Assault Rifle is categorized as rare.
+
+Player Notes[]
+The Collector Rifle is a definite improvement in damage-over-time over the basic M-8 Avenger, but at the cost of significantly more weight, being almost as heavy as the M-37 Falcon. The extra damage is generally not worth that level of encumbrance in view of the weapon's lack of any other standout features, if other better options are available.
+Unlike the Collector SMG and the Collector Sniper Rifle, the Collector Assault Rifle uses thermal clips. Its clip capacity is on the low side.
+The Collector Rifle is fairly inaccurate when hip-fired, so aim down sights and/or fire from cover as much as possible.
+The Awakened Collector Adept can deal bonus damage with the Collector Rifle thanks to the Collector/Prothean Weapon Damage bonus it receives from its Vengeful Ancient passive. This bonus will also improve the damage of ammo equipment used with the weapon.
+See Also[]
+Collector Armor
+
+
+
+
+Mass Effect 2 Downloadable Content
+
+
+
+
+Promotional
+
+Blood Dragon Armor • Collectors' Weapon and Armor • Inferno Armor  M-29 Incisor Sniper Rifle • Terminus Weapon and Armor
+
+
+Cerberus Network
+
+Zaeed - The Price of Revenge • Normandy Crash Site  Cerberus Weapon and Armor • Arc Projector • Firewalker Pack
+
+
+Missions
+
+Kasumi - Stolen Memory • Overlord • Lair of the Shadow Broker • Arrival
+
+
+Additional Content
+
+Alternate Appearance Packs •  Equalizer Pack • Aegis Pack • Firepower Pack  Mass Effect: Genesis • Recon Operations Pack • N7 Complete Arsenal Bundle
+
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect 3 Downloadable Content
+
+
+
+
+Promotional
+
+AT-12 Raider • Chakram Launcher • Collector Rifle • M-55 Argus  M-90 Indra • N7 Collector's Edition Pack • N7 Warfare Gear • Reckoner Knight Armor
+
+
+Single-Player
+
+From Ashes • Extended Cut • Firefight Pack • Leviathan • Groundside Resistance Pack  Alternate Appearance Pack 1 • Omega • Citadel • Genesis 2
+
+
+Multiplayer
+
+Online Pass • Resurgence Pack • Rebellion Pack • Earth • Retaliation • Reckoning
+
+
+
+

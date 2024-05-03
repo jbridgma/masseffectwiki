@@ -1,0 +1,100 @@
+
+
+
+
+
+Fitful Current
+
+Region
+Milky Way / Eagle Nebula / Relic
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+1.2 AU
+
+
+Orbital Period
+1.5 Earth Years
+
+
+Keplerian Ratio
+0.768
+
+
+Radius
+9,260 km
+
+
+Day Length
+41.9 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+−47 °C 
+
+
+Surface Gravity
+3.1 g
+
+
+Mass
+6.486 Earth Masses
+
+
+Location: Milky Way / Eagle Nebula / Relic System /  Second planet
+
+Description[]
+Fitful Current was so named because it orbits in retrograde, indicating that it may have been an extrasolar planet that was captured by the Relic System's gravity well. Large for a rock planet, Fitful Current has only traces of hydrogen in its extremely thin atmosphere. Hanar robo-miners have recovered some uranium and thorium deposits from its depths.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+4,600
+
+
+Platinum
+
+Medium
+
+5,000
+
+
+Iridium
+
+High
+
+17,700
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

@@ -1,0 +1,176 @@
+
+
+
+
+Firebase Ghost is a multiplayer map in Mass Effect 3. It is located in a slum on Benning in the Earth Systems Alliance Space zone of the galaxy map. In single player, the Galaxy at War mission N7: Cerberus Abductions takes places on this map.
+
+Contents
+
+1 Description
+2 Hazard Version
+3 Locations
+
+3.1 Landing Pad
+3.2 Alley
+3.3 Main Street
+3.4 Central Pod
+3.5 Back Street
+
+
+4 Player Notes
+5 References
+
+
+Description[]
+Benning, the nearest garden world to Arcturus Station, is the station's primary food supply source and an important staging area for starship maintenance and repair. This makes reclaiming the planet a key part of any attempt to liberate the station, capital of the Systems Alliance.[1]
+
+Hazard Version[]
+Mass Effect 3: Retaliation adds a version of Firebase Ghost that is set during an acid rain storm. 
+
+
+Periodically, acid rain will start to fall, doing small but steady damage to the shields or barriers of any player out in the open, but none to health. It will damage enemy shields and barriers, but this damage cannot be relied on.
+
+It will never rain during Wave 1.
+It always will rain for the first 60 seconds of Wave 11 but will stop after that. This makes it difficult for those who rush into the extraction zone immediately and dig in until the shuttle arrives.
+Locations[]
+Landing Pad[]
+A corner location that connects to several areas. Players begin and extract at this location.
+
+Connects to Main Street (down the road ramp).
+Connects to Main Street (through Pods 96/5).
+Connects to the Alley (via the right road).
+Connects to the Alley (through Pod 52).
+Connects to the Alley (through the window in Pod 52 down climbable cover).
+Pod 52 is the only pod in this location.
+Pod 52 is connected to Pod 9 by a small open air bridge. 
+There is an ammo dump up the ramp on the left-hand side from the starting position between some small concrete walls of cover.
+
+Alley[]
+A corner street that connecting several areas.
+
+Connects to the Landing Pad (via the right road).
+Connects to the Landing Pad (through Pod 9).
+Connects to the Landing Pad (up climbable cover through the window into Pod 52).
+Connects to the Central Pod (up a staircase into Pod 25).
+Connects to the Back Street (via the right road).
+Connects to the Back Street (up a staircase into Pod 22).
+Pod 9 is the only pod in this location.
+Pod 9 is connected to Pod 52 by a small open air bridge. 
+
+Main Street[]
+A lower street with staircases and ladders leading to several pods.
+
+Connects to the Landing Pad (up the road ramp).
+Connects to the Landing Pad (through Pods 96/5).
+Connects to the Central Pod (up a ladder into Pod 27).
+Connects to the Central Pod (up a staircase into Pod 27).
+Connects to the Central Pod (up a ladder into Pod 25).
+Pods 96, 5, and 7 are in this location.
+Pod 96 connects directly to Pod 5.
+There is an ammo dump on the left-hand side of the staircase leading up into Pod 7.
+
+Central Pod[]
+A series of habitat pods that run the central length of the map.
+
+Connects to the Alley (down a staircase from Pod 25).
+Connects to the Main Street (down a ladder from Pod 27).
+Connects to the Main Street (down a staircase from Pod 27).
+Connects to the Main Street (down a ladder from Pod 25).
+Connects to the Back Street (down two staircases from Pod 27).
+Connects to the Back Street (down a staircases from Pod 25).
+Pods 25 and 27 are in this location.
+Pod 25 is connected to Pod 27 by a small open air bridge.
+There is an ammo dump in the back corner of Pod 27 near a window looking down into Pod 7 and the back ramp looking out in the Back Street.
+
+Back Street[]
+A back area near the Central Pod. 
+
+Connects to the Alley (via the right road).
+Connects to the Alley (down a staircase from Pod 22).
+Connects to the Central Pod (up two staircases into Pod 27).
+Connects to the Central (up a staircase into Pod 25).
+Pod 22 is the only pod in this location.
+There is an ammo dump in very dark area between some open top blue bins and the left-hand side of the staircase leading up into Pod 25.
+
+Player Notes[]
+General
+
+Grenade resupply for the ammo dump locations is the same for the Hazard Map as it is for the General Map.
+
+
+Grenade Resupply Location
+Bronze
+Silver
+Gold
+Platinum
+
+
+Back Street
+4
+2
+2
+2
+
+
+Central Pod
+4
+2
+2
+2
+
+
+Landing Pad
+4
+2
+2
+2
+
+
+Main Street
+4
+2
+2
+2
+
+
+Firebase Ghost is one of the larger firebases in the game. The outside areas are fairly wide, there are several winding hallways, and there are multiple levels of altitude. This has both advantages and disadvantages. On the one hand, it allows you more room to maneuver and escape from large groups of enemies and/or enemies with very powerful attacks like Banshees and Geth Pyros. It also allows you an opportunity to attack from multiple directions and flank the enemy. On the other hand, it makes it easier for the enemy to flank you.
+Perhaps more so than any other multiplayer map, waiting for extraction at the landing pad may not be the best idea with Firebase Ghost. First, there is no ammo dump at the landing pad; the closest is up the ramp on the left. Second, you will have to deal with enemies attacking you from a practically unbroken ninety degree arc. This makes it harder to prevent being overwhelmed by enemies, especially those with lethal close range attacks. This is true even on Bronze difficulty. Third, cover is limited, and most of it leaves you vulnerable on one side. The cover that exists is only waist high so enemies can shoot over your cover from their advantageous high ground.
+Hazard
+
+The acid rain only affects shields and barriers.
+Damage to shields and barriers from the acid rain is very light, but even a single enemy attack can cause a lot of damage when combined with it. Characters with high shields/barriers or powers that replenish them will naturally be able to last longer outside.
+Rain is falling during the first half of the extraction wave, so you should hunker down in the Central Pod or Pod 52 and move to the LZ after the rain stops.
+If you play with the Alliance Infiltration Unit, its Repair Matrix basically cancels out the acid rain, making it an excellent choice for "retrieval" or "devices" objectives taking place outdoors.
+References[]
+
+↑ http://masseffect.bioware.com/about/multiplayer/
+
+
+
+
+Mass Effect 3 Multiplayer Maps
+
+
+Original Maps
+
+Firebase Dagger • Firebase Ghost • Firebase Giant • Firebase Reactor • Firebase Glacier •  Firebase White
+
+
+Resurgence Maps
+
+Firebase Hydra • Firebase Condor
+
+
+Rebellion Maps
+
+Firebase Jade • Firebase Goddess
+
+
+Earth Maps
+
+Firebase Rio • Firebase Vancouver • Firebase London
+
+
+
+
+

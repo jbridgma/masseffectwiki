@@ -1,0 +1,147 @@
+
+
+
+Uncover the angaran roots on the ice planet known as Voeld.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate ice cave
+2.2 Clear out kett
+2.3 Rescue captured angara
+2.4 Talk to rescued angara
+2.5 Go to blockage
+2.6 Clear blast zone
+2.7 Enter chamber
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Remove the Heart
+
+This mission is automatically acquired once the shield around Ja Niihk has gone down.
+Note: Task: Gone Dark dovetails with this mission and cannot be completed until the city is accessible.
+Note: Forgotten History dovetails with this mission and cannot be completed until the city is accessible.
+
+Walkthrough[]
+Investigate ice cave[]
+Once Ja Niihk Dig Site's shields are down, Pathfinder Ryder will be able to access the kett base with the cave system . You will have to fight through the kett occupying the ruined city.
+Be careful approaching the area as there are numerous Area-Denial Mines scattered around the site. Disembark from the ND1 Nomad and walk into the site.
+You may or may not come under attack from kett forces when approaching the base. If kett forces are in the area, defeat them quickly as the site is still a cold hazard.
+Before following the navpoint  down into the cave system, there are two Kett Core Encryption Techs that can be scanned for +100  each (+200 ). One is located near some large containers and the other is under located on a platform beneath the Remnant turret.
+Voeld is a frozen wasteland, so stick close to the heat lamps that follow the path down into the cave. You will come under attack from kett forces following the navpoints. Defeat them and continue into the cave system. You will eventually locate the remaining kett forces deep inside the cave.
+
+Clear out kett[]
+You will end up looking down into a large room with numerous kett forces. Engage the kett from the high ground or venture down to engage the enemy at close range. Either way, defeat them and continue exploring the area. 
+Be on guard as additional kett forces are in the area. When you approach a glowing orange shielded cage with a Kett Computer Console nearby, the next objective will be added. 
+
+Rescue captured angara[]
+Three energy shielded cages will be marked with navpoints. Interact with the Kett Computer Console to release the prisoner. There will be two additional angara to rescue. Once all three angaran prisoners are free, a navpoint will point to an angara for you to speak with.
+
+Talk to rescued angara[]
+The angara tells Ryder that the kett are trying to get into a room behind a certain wall. The kett had explosives they were planning to use to break it down.
+
+Go to blockage[]
+Head to the navpoint and Ryder decides scanning the area would help. The wall is made of ice, and SAM detects some strong signals from behind it.
+
+Clear blast zone[]
+After setting the explosives, you need to run back behind a barricade. The explosives successfully take down the wall.
+
+Enter chamber[]
+A newly revealed tunnel opens, leading to a huge room, and the Pathfinder's squad will come across an Ancient AI. The AI introduces herself, but SAM catches her lying twice; she also blocks his attempt to scan her. She seems to be afraid and hostile, wishing for an end.
+The angaran prisoner attempts to remove the AI but will be attacked and held hostage by the AI for cooperation. You have two options to continue this mission: deciding whether to kill the AI or save the AI.
+If you kill the AI, the angara prisoner will thank the Pathfinder, but SAM will confirm that there is nothing left to salvage.
+If you save the AI, she will kill the prisoner then plead to be kept with SAM. At this point you are given another two options: keep the AI or give it to the angara.
+
+If the AI is handed over to the angara, it is then taken to Aya. Once Ryder reaches Meridian during Meridian: The Way Home, the angara will use the AI’s abilities to help Ryder complete the mission.
+If the AI is kept for the Initiative it takes up residence in the SAM Node and can be heard talking to SAM sometimes when Ryder enters. You will lose out on any assistance that it offers during Meridian: The Way Home, though.
+Aftermath[]
+One of three emails will arrive from Evfra de Tershaav depending upon your choices during the mission:
+If the AI is killed:
+
+
+
+
+Mail from Angara Resistance HQ
+To: Ryder
+
+From: Evfra
+
+So, apparently you had your hands on an ancient angaran AI and you destroyed it to save an angaran life. It was a very tough decision that you had to make in the heat of the moment. I applaud you. It's exactly what I would have done. That former slave had a family that thought he was dead. You've given them a great gift.
+
+
+The talk on Aya itself is very divided, although I suspect that no one may say so to your face. I find these kinds of debates invigorating—we're a complex, emotional people with many different views. I love it!
+
+
+If the AI is given to the angara, you can talk with it in the Resistance HQ on Aya and the following email arrives:
+
+
+
+
+Mail from Angara Resistance HQ
+To: Ryder
+
+From: Evfra
+
+Thank you for returning the pre-scourge AI that you discovered on Voeld, even though Jaal tells me that it was against her wishes. He also tells me that she is an unreliable liar—we'll see, I can be very persuasive.
+
+I've just had her installed in the Resistance HQ. Such a valuable resource can't be simply given over to scientists to "study". So far, she is locked down and uncooperative.
+ This tech may prove important to the angaran people.
+
+
+Our alliance is indeed proving fruitful.
+
+
+If you gave the AI to the Nexus, you can talk with it in the SAM node. You'll receive this email from Evfra instead:
+
+
+
+
+Mail from Angara Resistance HQ
+To: Ryder
+
+From: Evfra
+
+Word's reached me that you found a pre-scourge angaran AI and that you chose to keep it for yourself and send it to the Nexus.
+
+What's wrong with you?
+
+Jaal explained that the AI itself was hostile and wished to go with you. Regardless of your stance on freewill for artificial intelligence, I would have liked to have had made that call myself.
+
+Paraan Shie was ready to close the Embassy. It's only because of your continued work against the kett that I was able to persuade her against it. I assured her that you would be as cooperative with all data you discovered because of it. Right?
+
+
+Please try not to be so stupid next time.
+
+
+You can now speak with Eska Yeveth in Techiix (aon the map). She invites you to establish an outpost  on Voeld. (Although you may have already done so, given the only requirement for an outpost is 40% viability.)
+In the building with Eska Yeveth, there is an Angaran Medical Stats on the wall that can be scanned for +10 .
+
+Rewards[]
++1330 XP
++29 AVP 
++2% Voeld viability
+
+Voeld Resistance Missions Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+
+
+
+Remove the Heart
+
+Missions (Mass Effect: Andromeda)
+
+
+
+
+
+

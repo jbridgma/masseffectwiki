@@ -1,0 +1,63 @@
+
+
+
+
+
+Erros
+
+Region
+Milky Way / Minos Wasteland / Arrae
+
+
+
+
+
+Planet view
+
+
+Orbital Distance
+0.8 AU
+
+
+Orbital Period
+0.7 Earth Years
+
+
+Keplerian Ratio
+1.045
+
+
+Radius
+7,095 km
+
+
+Day Length
+37.6 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+127 °C 
+
+
+Surface Gravity
+1.33 g
+
+
+Mass
+1.634 Earth Masses
+
+
+Location: Milky Way / Minos Wasteland / Arrae System /  First planet
+
+Prerequisite: Priority: The Citadel II (Mass Effect 3)
+
+Description[]
+Erros is a turian word meaning "overlook" or "pleasant view," not to be confused with humanity's mythological Eros. The name refers to the planet's nearly absent atmosphere, allowing visiting probes and rovers a sweeping view of its volcanic mountains. Erros's hematite deposits give the world a reddish color. Accessible deposits of iron and copper have attracted second-tier turian and volus conglomerates that robo-mine the surface.
+
+
+
+

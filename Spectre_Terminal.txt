@@ -1,0 +1,212 @@
+
+
+
+
+The Spectre Terminal is a message terminal found in the Spectre Office in the Citadel Embassies location of the Citadel. It contains messages relating to Spectre activities and support for the authorization of covert operations or requisitions.
+
+Contents
+
+1 Welcome
+2 Quarian Fleet Intel
+3 Military Pardons for Normandy Engineers
+4 Military Pardon for Normandy Engineer
+5 Partner Benefits Increase
+6 Hanar Embassy Tracking
+7 Citadel Entry Authorization
+8 Civilian Deportation Order
+9 Asari Huntress Weapon Permit
+10 Authorize Civilian Militia
+11 Authorize Weapons Sales
+12 First Irune Financial Report
+13 Surveillance Authorization
+14 Location for Batarian Patient
+15 Batarian Access Codes
+16 Medical Supplies
+17 Transfer Authorization, Private Talavi
+18 Location for Din Korlack
+19 Commendation, Captain Riley
+20 Posthumous Commendation
+21 Civilian Consultant Authorization
+
+
+Welcome[]
+Welcome to the Spectre Information Processing Center. This terminal offers secure information access and support for authorization of covert operations or requisitions. It is restricted to operatives currently on active duty with Special Tactics and Reconnaissance. Any operation requiring payment can be executed at the terminal nearby, which supports secure and untraceable financial transactions.
+
+Availability
+First visit to the Citadel.
+
+Quarian Fleet Intel[]
+Quarian pilgrim Jen'Volan nar Neema on the Citadel received a large credit transfer from the fleet. Jen'Volan purchased tech, including high-end weapon mounts and kinetic barrier emitters, from several ship service centers. On Illium, another quarian pilgrim, unidentified, was observed searching for a ship traveling: "close to the Perseus Veil." The pilgrim was later heard saying that his pilgrimage was recalled. Data suggests the quarian fleet is withdrawing its pilgrims and upgrading ships for combat somewhere near the Perseus Veil. This could be a reaction to the Reaper invasion, but no formal offer or request for assistance has come. Intel suggests the quarians may instead be preparing for conflict with geth.
+
+Availability
+First visit to the Citadel.
+
+Military Pardons for Normandy Engineers[]
+Engineers Gabriella Daniels and Ken Donnelly are in custody on the Citadel for working with Cerberus. Daniels and Donnelly surrendered peacefully before the Normandy was turned over to the Alliance but have maintained that they were motivated purely to help fight the Collectors and Reapers and had no other connection to the terrorist organization. Spectre authorization could offer Daniels and Donnelly full pardons and reinstate them aboard the Normandy.
+
+Availability
+Complete Priority: Palaven. Will be unavailable if both Daniels and Donnelly died during the assault on the Collector Base in Mass Effect 2.
+
+Authorization Effect
+Kenneth Donnelly and Gabriella Daniels are recruited and can be found in the Engineering Deck of the Normandy SR-2.
+
+Military Pardon for Normandy Engineer[]
+Engineer Ken Donnelly is in custody on the Citadel for working with Cerberus. Donnelly surrendered peacefully before the Normandy was turned over to the Alliance. He appears grief-stricken by the death of fellow engineer Gabriella Daniels, who died in a Collector attack, and was fully cooperative in giving all available evidence against Cerberus. He maintains that he joined Cerberus purely in an effort to save endangered colonists and that he does not pose a security threat. Spectre authorization could offer Donnelly a full pardon and reinstate him aboard the Normandy.
+
+Availability
+Complete Priority: Palaven. Will be unavailable if Daniels is also alive (see above) or if Donnelly died during the assault on the Collector Base in Mass Effect 2.
+
+Authorization Effect
+Kenneth Donnelly is recruited and can be found in the Engineering Deck of the Normandy SR-2.
+
+Partner Benefits Increase[]
+Reservists called to active duty are not drawing full pay because of the scale of the galactic threat and the massive funding required to match salaries and partner benefits for so many on short notice. Using Spectre authority to mandate salary-matching for all personnel with partners or dependents on the Citadel would require cuts to tax incentives and post-war economic stimulus goals.
+
+Availability
+After listening to the full conversation of a departing turian soldier and his asari wife next to Avina in Normandy Dock: Bay D24.
+They are not present after Priority: The Citadel II, so this must be done before Priority: Tuchanka.
+
+Authorization Effect
+Updates the Citadel Defense Force War Asset +8.
+
+Hanar Embassy Tracking[]
+Spectre-level access codes can bypass privacy settings and track financial data, transit records, and personal communications for all employees in the hanar embassy. To avoid triggering surveillance countermeasures, embassy files must be accessed on site. NavPoints of consoles or access points with relevant information will be tagged on the Spectre's omni-tool.
+
+Availability
+Speak to Jondum Bau after receiving his email.
+
+Authorization Effect
+Allows tracking of hanar diplomats in order to complete Citadel: Hanar Diplomat.
+
+Citadel Entry Authorization[]
+Instructors at Grissom Academy have requested facilities on the Citadel to train young students who escaped the attack on the school but who are not yet ready to join the older students in combat. Citadel authorities will find room for the students if a Spectre approves the request.
+
+Availability
+After completing Grissom Academy: Emergency Evacuation.
+
+Authorization Effect
+Updates Citadel Defense Force War Asset +5.
+
+Civilian Deportation Order[]
+Commander Bailey has requested assistance with a con man who is preying on refugees. The man has exploited loopholes to delay his arrest. Spectre authorization would allow C-Sec to immediately deport the con man from the Citadel.
+
+Availability
+Listen to the two turian C-Sec officers outside of Purgatory Bar. They are not present after Priority: The Citadel II, so must be done before Priority: Tuchanka.
+
+Authorization Effect
+Updates Citadel Defense Force War Asset +7.
+
+Asari Huntress Weapon Permit[]
+Huntress Aeian T'Goni is a patient at Huerta Memorial Hospital. She is currently on stress leave due to a mission on the human colony of Tiptree, where she was forced to kill a human civilian to prevent both of them from being discovered by Reaper forces. T'Goni has repeatedly requested a permit to carry weapons on the Citadel. The request has been denied because of T'Goni's paranoia and the possibility of self-inflicted harm. Spectre authority can override these security measures and grant T'Goni the right to a firearm.
+
+Availability
+After listening to the full conversation between the PTSD Soldier and her doctor at Huerta Memorial Hospital, sitting at the wall behind the reception.
+
+Authorization Effect
+Updates Citadel Defense Force War Asset -4.
+Note: The easiest way to listen to the full conversation is to quicksave and load right after one part of the conversation has finished. Standing near the NPCs will trigger the next part. There are about 10 parts. You might notice that the PTSD Soldier is gone after the conversation.
+Trivia: The updated War Asset will indicate that the Asari comitted suicide after you authorise the request. 
+The 15-year old girl mentioned in the conversation is most likely Joker's sister, he will refer to her if spoken to right after Priority: Thessia.
+
+Authorize Civilian Militia[]
+C-Sec has fielded requests for a civilian militia to defend the Citadel in the event of another attack. Many C-Sec officers believe a militia would benefit the Citadel's state of readiness and improve morale, but they lack funds and clearance for the program. Spectre authorization would allow C-Sec to begin training civilian volunteers, using funds normally allocated to executive bonuses.
+
+Availability
+After Priority: The Citadel II and supporting the Worried Merchant at Aegohr Munitions.
+
+Authorization Effect
+Updates Citadel Defense Force War Asset +7.
+
+Authorize Weapons Sales[]
+C-Sec has noticed that weapons dealers are breaking regulations by selling weapons to civilians without the proper permits. The dealers have argued that they are giving civilians the ability to protect themselves, and many C-Sec officials privately sympathize. Spectre authorization will give C-Sec officers leeway to turn a blind eye to sales that they deem harmless. This could improve morale around the Citadel in the wake of the Cerberus attack.
+
+Availability
+After Priority: The Citadel II and supporting the Angry Merchant at Aegohr Munitions.
+
+Authorization Effect
+Updates Citadel Defense Force War Asset -4.
+
+First Irune Financial Report[]
+This financial report is for top-level embassy access only. According to financial estimates from First Irune Investment Trusts, a division of Elkoss Combine, the Citadel races cannot sustain the cost of the war effort for more than one year. Although military spending has stimulated certain market sectors, shortages and rationing in other areas have depressed the financial system. Civilian discretionary spending has fallen except in entertainment areas like escapist vids and drinking. First Irune is borrowing heavily to provide funds for key functions across the Citadel, but if the war does not end within the next year, galactic financial collapse is inevitable.
+
+Availability
+After talking to the Bank teller arguing with the salarian in the Presidium Commons.
+
+Surveillance Authorization[]
+C-Sec has requested a number of surveillance warrants in an attempt to find evidence that would incriminate Cerberus informants on the Citadel. Officers have tapped public surveillance feeds but do not have legal access to private security feeds. Spectre authorization would enable C-Sec to tap into business feeds without informing civilian agencies.
+
+Availability
+After Priority: The Citadel II and supporting either the Frustrated Officer or the Cafe Owner in the Presidium Commons.
+
+Authorization Effect
+Updates Citadel Defense Force War Asset +7.
+
+Location for Batarian Patient[]
+A batarian patient named Ghorek is located in a makeshift clinic in the temporary refugee camp at Docking Bay E24. He is suffering from undisclosed but severe injuries. Medical staff from Huerta Memorial Hospital have provided painkillers, but there is no viable long-term treatment. Because the Batarian Hegemony refuses to share records, no data on Ghorek is available prior to his arrival on the Citadel.
+
+Availability
+After listening to two civilians in the Presidium Commons, after Priority: The Citadel II.
+
+Batarian Access Codes[]
+With Spectre-level access codes, it is possible to bypass standard security protocols and track top-level diplomatic dispatches. The location of consoles accessed using suspect ciphers will be uploaded to the Spectre's omni-tool and highlighted for easy detection.
+
+Availability
+Speak to C-Sec officer Jordan Noles after Priority: The Citadel II.
+
+Authorization effect
+Allows tracking of access points in order to complete Citadel: Batarian Codes.
+
+Medical Supplies[]
+Medical supplies originally meant for occupied zones have been rerouted to the Citadel because the Reaper invasion has made delivery impossible. The supplies are currently in lockdown on the docks, but can be released to the Huerta Memorial Hospital under Spectre authority.
+
+Availability
+After overhearing a doctor on comms at Huerta Memorial Hospital after Priority: The Citadel II.
+
+Authorization Effect
+Updates Citadel Defense Force War Asset +7.
+
+Transfer Authorization, Private Talavi[]
+Private Talavi has requested a transfer to a unit actively engaged against Reaper hostiles. A note from Sergeant Olembe says that Private Talavi is an exceptional engineer, recommending her for duty on a team set to sabotage Reaper processing centers. Spectre authorization would fast-track this request.
+
+Availability
+After listening to the full conversation between Private Talavi and her superior officer on Normandy Dock: Bay D24 after Priority: The Citadel II.
+
+Authorization Effect
+Updates Alliance Third Fleet War Asset -4.
+
+Location for Din Korlack[]
+Volus ambassador Din Korlack's current location is unknown. Biometric analysis does not detect him in any public location at this time. His last known position was an office suite near the human embassy.
+
+Availability
+On gaining the mission Citadel: Volus Ambassador.
+
+Commendation, Captain Riley[]
+Captain Riley, an N7 operative, has been nominated for a commendation for valor for her actions at Cyone. Approval from a Spectre would fast-track the award process.
+
+Availability
+After N7: Fuel Reactors; if Captain Riley is alive.
+
+Authorization Effect
+None.
+
+Posthumous Commendation[]
+Captain Riley, an N7 operative killed in the line of duty, has been nominated for a posthumous commendation. The award is to be presented to her family in lieu of her body, which could not be retrieved. Approval from a Spectre would fast-track the award process.
+
+Availability
+After N7: Fuel Reactors, if Captain Riley died.
+
+Authorization Effect
+None.
+
+Civilian Consultant Authorization[]
+An importer/exporter with past convictions for smuggling has offered to gather critical supplies for Alliance forces and civilian medical emergencies. C-Sec believes the offer is in good faith and has refused to make an arrest, but is legally restricted from accepting her offer without Spectre authorization.
+
+Availability
+After listening to the full conversation between the smugglers near the bar on the dance floor in Purgatory Bar, available after Priority: The Citadel II.
+
+Authorization Effect
+Updates Alliance Fifth Fleet War Asset +7.
+
+
+
+

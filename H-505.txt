@@ -1,0 +1,62 @@
+
+
+
+
+
+H-505
+
+Region
+Andromeda / Heleus Cluster / Dar'hegah
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.8 AU
+
+
+Orbital Period
+1.3 Earth Years
+
+
+Keplerian Ratio
+0.303
+
+
+Radius
+6,636 km
+
+
+Atm. Pressure
+21.39 atm
+
+
+Surface Temp
+−27 °C 
+
+
+Location: Andromeda / Heleus Cluster / Dar'hegah System /  Second planet
+
+
+Description[]
+Hidden from early surveys by reflective objects in Dar'hegah's asteroid belt, H-505 is a frigid world with a krypton-nitrogen atmosphere.
+
+Anomaly[]
+Crater[]
+DATA:
+
+Hypervelocity impact crater (largest)
+Rim diameter: 402 km
+Depth: Approx. 2.1 km
+Ejecta: Mineral deposits, heavy metals
+ANALYSIS:
+This is the largest of multiple impact craters, suggesting a swarm of debris - possibly from the asteroid belt - struck H-505 in the distant past.
+Awards +270 XP when scanned.
+
+
+
+

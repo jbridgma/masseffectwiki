@@ -1,0 +1,176 @@
+
+
+
+
+
+
+
+This article is about the Mass Effect 3 Sentinel class power. For the Sentinel class power in Mass Effect 2, see Defender.
+
+
+Offensive Mastery is a passive class power in Mass Effect 3's single-player mode.
+
+Power Ranks[]
+Rank 1: Offensive Mastery[]
+Be an expert tactician on and off the battlefield.
+Faster and stronger powers.More weapon damage.More dexterity.More charisma.
+
+Reputation Bonus: 4%
+Weapon Damage Bonus: 2.50%
+Power Damage Bonus: 5%
+Weight Capacity Bonus: 15
+
+
+Rank 2: Influence & Capacity[]
+Increase reputation bonus by 4%.Increase weight capacity bonus by 20 points.
+
+Reputation Bonus: 8%
+Weapon Damage Bonus: 2.50%
+Power Damage Bonus: 5%
+Weight Capacity Bonus: 35
+
+
+Rank 3: Influence & Damage[]
+Increase power damage and force bonuses by 5%.Increase weapon damage bonus by 2.50%.Increase reputation bonus by 4%.
+
+Reputation Bonus: 12%
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 10%
+Power Force Bonus:  5%
+Weight Capacity Bonus: 35
+
+
+Rank 4: Force & Damage/Influence & Duration[]
+
+
+
+Force & Damage
+Increase damage and force bonuses by 15%.
+
+Reputation Bonus: 12%
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 25%
+Power Force Bonus:  5%
+Weight Capacity Bonus: 35
+
+
+Influence & Duration
+Increase reputation bonus by 8%.Increase power duration by 25%.
+
+Reputation Bonus: 20%
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 10%
+Power Force Bonus:  5%
+Weight Capacity Bonus: 35
+
+
+
+Rank 5: Squad Bonus/Weight Capacity[]
+
+
+
+Squad Bonus
+Increase the force and damage of squadmate powers by 15%.Increase squadmate weapon damage by 10%.
+
+
+
+Weight Capacity
+Increase weight capacity bonus by 35 points.
+
+Reputation Bonus: 12% (Force & Damage), 20% (Influence & Duration)
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 25% (Force & Damage), 10% (Influence & Duration)
+Power Force Bonus:  5%
+Weight Capacity Bonus: 70
+
+
+
+Rank 6: Force & Damage/Bonus Power[]
+
+
+
+Force & Damage
+Increase power damage and force bonuses by 25%.Increase power duration by 25%.
+
+Reputation Bonus: 12% (Force & Damage), 20% (Influence & Duration)
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 50% (Force & Damage), 35% (Influence & Duration)
+Power Force Bonus:  5%
+Weight Capacity Bonus: 35 (Squad Bonus), 70 (Weight Capacity)
+
+
+Bonus Power
+Use two powers in a row by giving the first power a 15% chance to cause no cooldown.
+
+
+
+
+Player Notes[]
+Rank 4 presents a choice between damage/force for powers or additional duration.  More damage and force benefits Warp, Throw, and Overload; greater duration benefits Warp and the freeze/chill length of Cryoblast.  If you use Warp more for the damaging effects, or rely on Overload as a primary attack, the Damage and Force bonus is the better choice.  The damage of Power Combos is not enhanced by power damage bonuses, but duration bonuses on the other hand may keep targets "primed" for such combos longer.  Also keep in mind what bonus power you are using, e.g. Dominate can benefit from additional duration but not damage.
+The Rank 5 Squad Bonus evolution applies only to NPC squad members and not to Shepard. There is possibility for confusion, as the similarly named "Squad Bonus" evolutions of squadmates' class powers apply to the entire party including Shepard and also the owner of the power.
+Availability[]
+Single-player: Sentinel
+Multiplayer: N/A
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

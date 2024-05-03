@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+This article is about the N7 Destroyer's grenade power in Mass Effect 3. For the power available to the Soldier class in Mass Effect 3, see Frag Grenade. For the skill in Mass Effect: Andromeda, see Frag Grenade (skill).
+
+Multi-Frag Grenade is a grenade power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Multi-Frag Grenade[]
+Launch multiple frag grenades by upgrading the T5-V's right gauntlet.
+
+Damage: 350
+Force: 1000 N
+Radius: 4 m
+
+
+Rank 2: Max Grenades[]
+Increase grenade capacity by 1.
+
+
+Rank 3: Force & Damage[]
+Increase damage by 20%.Increase force by 20%.
+
+Damage: 420
+Force: 1200 N
+Radius: 4 m
+
+
+Rank 4: Force & Damage/Radius[]
+
+
+
+Force & Damage 
+Increase damage by 30%.Increase force by 20%.
+
+Damage: 525
+Force: 1400 N
+Radius: 4 m
+
+
+Radius
+Increase impact radius by 35%.
+
+Damage: 420
+Force: 1200 N
+Radius: 5.40 m
+
+
+
+Rank 5: Max Grenades/Force & Damage[]
+
+
+
+Max Grenades
+Increase grenade capacity by 2.
+
+
+
+Force & Damage
+Increase damage by 40%.Increase force by 40%.
+
+Damage: 665 (Force & Damage), 560 (Radius)
+Force: 1800 N (Force & Damage), 1600 N (Radius)
+Radius: 4 m (Force & Damage), 5.40 m (Radius)
+
+
+
+Rank 6: Grenade Count/Force & Damage[]
+
+
+
+Grenade Count
+Increase the number of grenades launched by 2.
+
+
+
+Force & Damage
+Increase damage by 50%. Increase force by 50%.
+
+Damage: 700 (Force & Damage), 595 (Radius) [Max Grenades], 840 (Force & Damage), 735 (Radius) [Force & Damage]
+Force: 1900 N (Force & Damage), 1700 N (Radius) [Max Grenades], 2300 N (Force & Damage), 2100 N (Radius) [Force & Damage]
+Radius: 4 m (Force & Damage), 5.40 m (Radius)
+
+
+
+Player Notes[]
+Mechanics
+Grenade powers do not have a recharge time and, thus, can be used immediately at any time, provided grenades are available. Using the power consumes one grenade each time.
+If the player has multiple grenade powers, the grenade pool is shared between them.
+The N7 Destroyer does not toss these grenades by hand; instead, the grenades are fired forward in a conical spread pattern after a short animation where the Destroyer raises its hands, similar to the casting animations of Nightshade Blades or Ballistic Blades.
+Three grenade projectiles are fired per use (5 with the rank 6 Grenade Count evolution).
+The displayed damage, force, and radius values in the ability details screen for this power are per frag grenade.
+This ability has potentially enough force to stagger big targets such as Atlases and Geth Primes and even enough to interrupt a Banshee's sync kill on an ally.
+Like most grenade powers, Multi-Frag Grenade can detonate non-biotic Power Combos.
+Strategies
+Due to the damage being per grenade, the Grenade Count evolution does apply more damage if the grenades are clustered close together. This requires you to be close to the target(s) to minimize grenade spread. Aiming at the ground near your target(s) is preferable.
+At longer ranges it is impossible to keep them clustered due to the farther travel trajectory, forcing the grenades to have a wider spread. Use this to your advantage for spread-out groups of enemies.
+Because this power has significant force, use it to interrupt Atlas and Geth Prime attacks or slow their advance while also doing a good amount of damage to them.
+Availability[]
+Single-player: N/A
+Multiplayer: N7 Destroyer Soldier
+Trivia[]
+Any kills registered with this ability will be attributed to "Frag Grenade" in the kill feed.
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

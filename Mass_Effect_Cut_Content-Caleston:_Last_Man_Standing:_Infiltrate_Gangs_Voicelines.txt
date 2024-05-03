@@ -1,0 +1,882 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut voicelines and dialogues related to the mandatory part of the cut mission Caleston: Last Man Standing, before and after rescuing Liara T'Soni. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 lav20_charliebooker (1)
+2 lav20_charliebooker (2)
+3 lav20_nonyatombiri (1)
+4 lav40_trig02_professionals
+5 lav40_fredmazzei
+6 lav40_fredmazzei / lav40_sessatarrent
+7 lav40_violettarossi (1)
+8 lav20_charliebooker (3)
+9 lav60_trig12_hench_1
+10 lav60_fredmazzei (1)
+11 lav60_trig06_fred_runs / lav60_trig07_fred_helps
+12 lav60_trig08_fred_bye / lav60_trig09_thug_bye
+13 lav60_fredmazzei (2)
+14 lav40_sessatarrent (2)
+15 lav40_sessatarrent (3)
+16 lav40_sessatarrent (4)
+17 lav40_trig04_union_assassin
+18 lav40_trig05_raciloma_dies (1)
+19 lav40_trig05_raciloma_dies (2)
+20 lav40_trig09_hench_concern
+21 lav20_mansionguard
+22 lav20_sannulamnoss
+23 lav20_trig07_sessa_confront
+24 lav20_nonyatombiri (2)
+25 lav60_trig13_gate
+26 lav60_trig01_assassins
+27 lav60_trig11_no_vehicle
+28 lav60_trig03_base_sentries
+29 lav60_trig04_mining_tunnels
+30 lav20_nonyatombiri (3)
+31 lav20_trig24_wren_admin (1)
+32 lav20_trig24_wren_admin (2)
+33 lav20_charliebooker (4)
+34 lav40_violettarossi (2)
+35 lav20_nonyatombiri / lav20_sannulamnoss / lav20_trig23_tomb_smile_jail
+36 sp_news_vids
+37 sta30_khalisah (missing nodes)
+
+
+lav20_charliebooker (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_charliebooker_de.isb, lav20_charliebooker_fr.isb, lav20_charliebooker_it.isb
+Characters present:
+
+Charlie Booker
+Nonya Tombiri
+
+Nonya Tombiri: Charlie. An Alliance warship just landed. Has it been cleared?
+Charlie Booker: No. You want me to hold them with an inspection or something?
+Nonya Tombiri: No, I want to talk to them. It's important.
+Charlie Booker: You're the boss.
+
+lav20_charliebooker (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_charliebooker_de.isb, lav20_charliebooker_fr.isb, lav20_charliebooker_it.isb
+Characters present:
+
+Charlie Booker
+Commander Shepard
+
+Charlie Booker: Hey, you're the one from that ship, what was it called... Normandy?
+
+(Par) Yes. (Neu) Why? (Ren) Maybe.  Shepard: That's right. Why?Charlie Booker: Administrator Tombiri saw your arrival manifest. She wants to talk to you. Shepard: Yeah, so what?
+Charlie Booker: Administrator Tombiri saw your arrival manifest. She wants to talk to you. Shepard: Who wants to know?Charlie Booker: The guy who can impound that fancy little toy of yours sitting in my hangar. Administrator Tombiri saw your arrival manifest. She wants to talk to you.
+(Neu) I'll get on it. (Inv) Waste of time.  Shepard: Where can I find her?Charlie Booker: Go to administration. Up the stairs, to the right of the plaza. Tombiri's office is on the second floor. Shepard: Why should I care?Charlie Booker: Maybe you don't get it, [friend/sweetheart]. This station is the property of Eldfell-Ashland Energy, and Miss Tombiri is their representative. If she wants me to ground your ship, I will. Go to administration. Up the stairs, to the right of the plaza. Tombiri's office is on the second floor.
+(Neu) I need to go. (Inv) Tell me about you.  Shepard: Well, I'll be going. For now.Charlie Booker: Okay, sure. I've got work to do.(End of conversation)(Re-initiating conversation)
+(Shepard is male) (Shepard is female)  Charlie Booker: What do you want? Can't you see I'm busy? Charlie Booker: Hello, sweetheart. What can old Charlie do for you today?
+(Return to last choice) Shepard: What's your story? What do you do here?
+(Shepard is male) (Shepard is female)  Charlie Booker: The name's Charlie. I sit here all day long, tapping on the keyboard and scratching my butt. What do you think the port authority is for? I keep track of arrivals and departures, make sure permits are in order, and so forth. I also manage the garage downstairs. If you need any parts or repairs, I'm your man. Charlie Booker: Call me Charlie, sweetheart. I keep track of arrivals and departures, make sure permits are in order, and so forth. I also manage the garage downstairs. If you need any parts or repairs, I'm your man.
+(Par) I want to buy. (Neu) Goodbye. (Ren) Cut the sexist crap. (P Inv) Vehicle parts (Int) Learn some manners. (Inv) Investigate  Shepard: Show me what you have.
+(Booker was persuaded) (Booker was not persuaded)  (Opens store inventory) Charlie Booker: All sales are final. No returns, no exchanges, no guarantees. And if you're looking for something special, you're in the wrong cluster.
+(Par) Let's see it. (Neu) [Return] (Cha) That can't be all. (Int) You'd better stop lying.  (Opens store inventory) (Return to overarching choice) Shepard: You know about everything that comes and goes through this station. A smart guy like you must have something special in stock.Charlie Booker: I got my hands on a few special items. If you've got credits, take your pick. Here's the list.(Opens upgraded store inventory) Shepard: Scumbags like you usually have whole warehouses full of stolen items. Show me your real inventory. Now.Charlie Booker: Yeah, alright, no need to get violent. Sure, I do get some nice stuff from time to time. I guess you could afford it.(Opens upgraded store inventory) Shepard: I have to go.
+(Taught some manners) (Didn't teach some manners)  Charlie Booker: Of course, [sir/ma'am]. Good day, [sir/ma'am].(End of conversation)(Re-initiating conversation)Charlie Booker: [Sir/Ma'am]. What can I do for you, [sir/ma'am]?(Return to last choice) Charlie Booker: Okay, sure. I've got work to do.(End of conversation)(Re-initiating conversation)
+(Shepard is male) (Shepard is female)  Charlie Booker: What do you want? Can't you see I'm busy? Charlie Booker: Hello, sweetheart. What can old Charlie do for you today?
+(Return to last choice) (Only for female Shepard)Shepard: My eyes are up here, dirtbag.Charlie Booker: Well, aren't you a feisty one. Fine by me. Hey now, calm down swee-- I mean, ma'am! I didn't mean any disrespect.(Return to last choice) Shepard: What parts do you have available?(Opens garage store) Shepard: I think you're being disrespectful. I'm very sensitive, you know. You wouldn't want to hurt my feelings, would you?Charlie Booker: Sure, I'm sorry. I get carried away sometimes. My bad. I'm sorry. Please put the gun down.(Return to last choice)
+(Neu) Return (Inv) Liara T'Soni (Inv) Krogan  (Return to overarching choice) Shepard: Do you know where Liara T'Soni is?
+(Male Shepard, didn't teach manners) (Female Shepard, didn't teach manners) (Taught some manners)  Charlie Booker: The asari? Now that's my kind of alien, haha! Nah, I don't know where she is. If I knew, I'd have set up some cameras in there. Try asking Tombiri.(Return to last choice) Charlie Booker: The asari? You're interested in her? Oh-oh, now that gets my mind going. Nah, I don't know where she is. If I knew, I'd have set up some cameras in there. Try asking Tombiri.(Return to last choice) Charlie Booker: Nah, I don't know where she is. If I knew, I'd have set up some cameras in there. Try asking Tombiri.(Return to last choice) (If Shepard has heard of the krogan)Shepard: I heard a krogan came here not long ago. Was he armed?Charlie Booker: Yeah, probably some mercenary. Said he was looking for someone and rushed in Tombiri's office. Apparently he clashed with Harrah too.
+(P Inv) Where is he?  Shepard: Is this krogan still here?Charlie Booker: Nah, he left in a fury. I barely had time to open the gates before he bugged out.(Return to overarching choice)
+lav20_nonyatombiri (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_nonyatombiri_de.isb, lav20_nonyatombiri_fr.isb, lav20_nonyatombiri_it.isb
+Characters present:
+
+Commander Shepard
+Nonya Tombiri
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+
+Nonya Tombiri: Greetings. You're Shepard, right? The Spectre who just landed.
+
+(Par) Commander Shepard. (Neu) Here I am. (Ren) Spectre? Me?  Shepard: I'm Shepard, Commanding Officer of the Alliance frigate SSV Normandy.Nonya Tombiri: Heh. Don't be so ceremonious. I am Nonya Tombiri, the administrator of this complex. We call it Throw Down. I'm glad they sent someone over to clean up. Everything is going down the drain here, I no longer hold any control over the platform. Shepard: You wanted to see me?Nonya Tombiri: I am Nonya Tombiri, the administrator of this complex. We call it Throw Down. I'm glad they sent someone over to clean up. Everything is going down the drain here, I no longer hold any control over the platform. Shepard: What makes you think I'm a Spectre?Nonya Tombiri: I looked up the Normandy's registry. "Assigned to the Citadel's Special Tactics and Reconnaissance." I am Nonya Tombiri, the administrator of this complex. We call it Throw Down. I'm glad they sent someone over to clean up. Everything is going down the drain here, I no longer hold any control over the platform.
+(Par) I'll make time for you. (Neu) That's not my purpose. (Ren) I have bigger issues.  Shepard: I'll help out if I can, but I'm here to find Dr. Liara T'Soni. Shepard: You misunderstand. I'm here for Dr. Liara T'Soni. Shepard: I'm not here to fix your issues. I need to find Dr. Liara T'Soni.
+Nonya Tombiri: The asari? Popular girl, that one. A krogan was also looking for her. Harrah, my security officer, had to talk him down.
+
+(Par) He's a bounty hunter. (Neu) A krogan? (Ren) And your answer?  Shepard: I hope you didn't tell him where she was. Her life could be in danger.Nonya Tombiri: Her life? What the hell? Look, he rubbed me the wrong way and he was annoying. I told him I didn't know where T'Soni was. But of course I do know where she is. And you could take care of my problem on your way to her. Shepard: Wait. What krogan? When?Nonya Tombiri: He arrived last week on an alien-looking ship. He waved his gun around, asking where he could find Liara T'Soni. Look, he rubbed me the wrong way and he was annoying. I told him I didn' t know where T'Soni was. But of course I do know where she is. And you could take care of my problem on your way to her. Shepard: What did you tell him?Nonya Tombiri: Look, he rubbed me the wrong way and he was annoying. I told him I didn' t know where T'Soni was. But of course I do know where she is. And you could take care of my problem on your way to her.
+(Par) I'm listening. (Neu) Explain first. (Ren) You're kidding me.  Shepard: Tell me what's bothering you.Nonya Tombiri: The leader of the Cartel is a creep named "Smiley". He holds Liara prisoner in his quarters. Shepard: Take care of what? I have no idea what you're talking about.Nonya Tombiri: The leader of the Cartel is a creep named "Smiley". He holds Liara prisoner in his quarters. Shepard: Look, I'm trying to save the galaxy.Nonya Tombiri: I know full well that Spectres don't deal in trivial matters. Let me explain. The leader of the Cartel is a creep named "Smiley". He holds Liara prisoner in his quarters.
+(Par) What should I do? (Neu) I'll see to it. (Ren) Great. Some action.  Shepard: How do you suggest I proceed? Shepard: I'll take care of him. How would you rather have me do that? Shepard: Give me two hours and 2000 bullets, and I'll sweep the place clean.
+Nonya Tombiri: Smiley isn't dumb. He's holed up in the infirmary, and only lets his brother Raciloma come in. With this code, you can activate the elevator to the refinery. Once there, look for Sessa Tarrent. She's a Union representative.
+
+(Par) I'm on it. (Neu) Goodbye. (P Inv) Mako repairs (R Inv) Dealing with Smiley (Inv) Investigate  Shepard: Very well. I'll see what I can do.Nonya Tombiri: We're all counting on you, rest assured.(End of conversation)(Re-initiating conversation)Nonya Tombiri: Nice to see you again, Spectre.(Return to last choice) Shepard: I'd better go.Nonya Tombiri: If you need anything, just ask.(End of conversation)(Re-initiating conversation)Nonya Tombiri: Nice to see you again, Spectre.(Return to last choice) Shepard: Where can I find someone to do vehicle repairs?Nonya Tombiri: Charlie Booker, who runs the portmaster's office. I've heard you're already acquainted.(Return to last choice) Shepard: You gave me some advice on how to meet Smiley. Would you mind telling me again?Nonya Tombiri: You have to lure Raciloma out, and for that, you'll need to work for the Union. Go to the refinery and speak to their representative, her name is Sessa.(Return to last choice)
+(Neu) Return (Inv) Law enforcement (Inv) Liara T'Soni (Inv) Bounty hunter (Inv) Cartel (Inv) Union  (Return to overarching choice) Shepard: Why hasn't your security service done anything about the Cartel?Nonya Tombiri: Harrah's my security service. The company didn't expect much trouble, a few pirates at most... but that's what the Navy is for, right?
+(Ren) What happened? (P Inv) He's a wreck. (P Inv) I'm helping him. (P Inv) He's better now. (R Inv) Have him replaced.  (If Shepard heard about Harrah's past)Shepard: What do you know about his heartbreak?Nonya Tombiri: Nothing. There are two groups of people on this planet, Shepard. Those who accept their responsabilities, and those who don't. Who does their job here, me or Harrah? The only thing that the Union and the Cartel agree on, is that he's better off drunk. (If Harrah was met but not helped)Shepard: Being sober would do him some good.Nonya Tombiri: He used to be. Excellent shot, with a great sense of justice. He took that job because he wanted to, not for the money. He tries to keep it under control but he's constantly drinking and throwing up. Some time ago he got with a woman, but that didn't end well.(Return to overarching choice) (If Harrah is being helped)Shepard: I'm trying to help Harrah with his drinking problem.Nonya Tombiri: Don't waste so much time on him, you have the Cartel to take care of, right? The man has ingested so much alcohol he could outlive an asari.(Return to overarching choice) (If Harrah is sober)Shepard: I managed to get Harrah to quit the bottle.Nonya Tombiri: Great, but I'm not very fond of him. I can't stand people who shirk their duties. In any case, I don't think he'd be able to deal with the Cartel on his own. It's a good thing you're here.(Return to overarching choice) Shepard: Ask your superiors for a new security officer.Nonya Tombiri: Before I can fire him, he would have to botch his work for a whole year. All I can do is have him fill a form that says: "I'm a damn drunkard and I'll try to get better in the next quarter." Shepard: What else can you tell me about Dr. T'Soni?Nonya Tombiri: She's an expert on Protheans, which is why she came here. This moon is full of Prothean ruins. She had to make a deal with the Cartel to move the artifacts off-world. That's how she must have been captured.
+(P Inv) Why kidnap her?  Shepard: What do they want her for?Nonya Tombiri: No idea. Maybe she owes him money. Or maybe Smiley wanted to try out an asari.(Return to overarching choice) Shepard: This krogan who was looking for Doctor T'Soni, where is he now?Nonya Tombiri: I suspect he's checking out the Prothean ruins. T'Soni is an archeologist after all. However there are hundreds of ruins on Caleston, so it might take a while. Shepard: I'd like to know more about the Cartel.Nonya Tombiri: It's run by a salarian everyone calls Smiley. His brother Raciloma acts as his second-in-command and bodyguard. Their drug is called red sand. They produce it here then sell it off to Earth. They give it to children.
+(P Inv) Red sand? (R Inv) Who's Smiley?  Shepard: Tell me about the drug the Cartel makes.Nonya Tombiri: They say it was invented by the Mars Triads. It's a by-product of eezo. It triggers a biotic response. Makes you feel good, and maybe allows you to make a pen float a couple inches off the ground.(Return to overarching choice) Shepard: I want to know more about Smiley.Nonya Tombiri: Devious little bastard, with a couple screws loose. Seems he never recovered from seeing his clan wiped out by an earthquake. He thinks he's some champion of the poor. He ships the red sand to Earth and claims he only sells it to the rich. He must think everyone there is rich.
+(R Inv) Earth? Rich? Yeah, right.  (Only if Shepard is Earthborn)Shepard: I'm from Earth. I could have set him straight.Nonya Tombiri: So I've heard. My parents moved us out of the Dakar metroplex when I was six. I only remember huge buildings, police sirens and a lot of smog.(Return to overarching choice) Shepard: I'd like to know more about the Union.Nonya Tombiri: They run the bar's smuggling, gambling and prostitution ring. The entertainment, in short.
+(P Inv) Who leads it? (R Inv) You're awfully lax.  Shepard: Who runs the whole thing?Nonya Tombiri: The Union chairman. He's always locked up in his office at the refinery, no doubt to maintain secrecy. Shepard: And you just let them?Nonya Tombiri: It is a necessary evil. The hours here seem endless, work is hard, and the whole moon smells terrible. There have been some blackmail issues with the Miners' Union, but we eventually reached a compromise. The people need to blow off steam, forget their problems. Do you know how much the crime rate dropped after the Union arrived?| Ashley Williams: It's not just illegal, it's immoral.| Kaidan Alenko: It's not just illegal, it's immoral.| Garrus Vakarian: You can't just ignore the law when you see fit.Nonya Tombiri: You may think what you want, but I'm the one who has to keep people happy when they work for six months straight in a suffocating, smelly mining station. Most people come here to make an honest living. The miners and refinery workers are decent folks.
+(R Inv) Blackmail?  Shepard: Didn't you say the Union blackmailed you?Nonya Tombiri: They can behave if you give them enough space. Before the Cartel came, they kept things stable enough around here. Then six months ago, a salarian drug cartel took over the refinery. They've been butting heads with the Union ever since. But I said we should do something about the Cartel. And the Union was willing to cooperate to that end.(Return to overarching choice)
+lav40_trig02_professionals[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_trig02_professionals_de.isb, lav40_trig02_professionals_fr.isb, lav40_trig02_professionals_it.isb
+Characters present:
+
+Raciloma Amnoss
+Fred Mazzei
+Violetta Rossi
+Sessa Tarrent
+Two unnamed male humans
+
+Human 1: Hello there, sweet-heart. Why don't you come over to play?
+Violetta Rossi: I'm... I'm just on my way to work.
+Human 2: Yeah, we know what you're all doing in the labs, you filthy Cartel whore.
+Raciloma Amnoss: Make way!
+Human 1: Raciloma? What's going on?
+Raciloma Amnoss: Violetta. Get going.
+Fred Mazzei: Sessa, you can't let him! You must do something... something violent! To him!
+Sessa Tarrent: No.
+Fred Mazzei: Why don't you--
+Sessa Tarrent: They were a bunch of young idiots, Fred. I told them to stay out of it. I can't stand idiots, same as Raciloma.
+Raciloma Amnoss: Everyone get back to work!
+
+lav40_fredmazzei[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_fredmazzei_de.isb, lav40_fredmazzei_fr.isb, lav40_fredmazzei_it.isb
+Characters present:
+
+Fred Mazzei
+Sessa Tarrent
+
+Fred Mazzei: Erm... Sessa? About that thing, with Oronath...
+Sessa Tarrent: Do you have the credits?
+Fred Mazzei: Well, no. Not really.
+Sessa Tarrent: If you can't even get a hanar to cough up, you're useless to me.
+Fred Mazzei: I can do it. I'm strong like a bear as strong as... two bears. I just need to... I'll be... well... I'll be like... a bear. Grrr.
+
+lav40_fredmazzei / lav40_sessatarrent[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_fredmazzei_de.isb, lav40_fredmazzei_fr.isb, lav40_fredmazzei_it.isb, lav40_sessatarrent_de.isb, lav40_sessatarrent_fr.isb, lav40_sessatarrent_it.isb
+Characters present:
+
+Fred Mazzei
+Commander Shepard
+Sessa Tarrent
+
+Fred Mazzei: What do you-- Oh, nice guns! Who sent you? I mean, who are you?
+
+(Par) I work for Tombiri. (Neu) Goodbye. (Ren) Let me through.  Shepard: The administrator sent me to talk to Sessa.Fred Mazzei: What, she thinks she can just... Shepard: I'm just passing through, don't mind me.Fred Mazzei: Yeah, sure. Watch your step over there. The stuff in those vats can melt your face off. I've seen it happen. It was pretty funny.Sessa Tarrent: Fred. You're here to work, not chat.Fred Mazzei: Yeah, alright.(End of conversation)(Re-initiating conversation)Fred Mazzei: You can't just... What do you want?(Return to last choice) Shepard: I'm here to talk to your boss, so get out of my way.
+Sessa Tarrent: You're Shepard? I knew your face seemed familiar, Commander. Useful thing, the extranet. My Spider VI only took a few seconds to fetch your data.
+
+(Par) Impressive. (Neu) So what do you think? (Ren) Who cares?  Shepard: You have me at a disadvantage.
+(Sole Survivor) (War Hero) (Ruthless)  Sessa Tarrent: I'm a freelance mercenary, there's nothing more to it. You, however, are a different story. The universe is a better place without those batarian slave traders. I would have done the same. You have qualities which would be useful to me. If you turn a blind eye, I'll do the same. The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation. Sessa Tarrent: I'm a freelance mercenary, there's nothing more to it. You, however, are a different story. You know what happens when aliens try to take over a human colony. You prevented it on Elysium. You have qualities which would be useful to me. If you turn a blind eye, I'll do the same. The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation. Sessa Tarrent: I'm a freelance mercenary, there's nothing more to it. You, however, are a different story. You get the job done, at any cost, by channelling your anger. An admirable quality. You have qualities which would be useful to me. If you turn a blind eye, I'll do the same. The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation. Shepard: I'm guessing you liked what you saw.
+(Sole Survivor) (War Hero) (Ruthless)  Sessa Tarrent: The universe is a better place without those batarian slave traders. I would have done the same. You have qualities which would be useful to me. If you turn a blind eye, I'll do the same. The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation. Sessa Tarrent: You know what happens when aliens try to take over a human colony. You prevented it on Elysium. You have qualities which would be useful to me. If you turn a blind eye, I'll do the same. The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation. Sessa Tarrent: You get the job done, at any cost, by channelling your anger. An admirable quality. You have qualities which would be useful to me. If you turn a blind eye, I'll do the same. The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation. Shepard: I kill people, you kill people. End of story. Can you help me get to Smiley?Sessa Tarrent: Sure. But it won't be easy. The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation.
+(Neu) Very well. (Inv) I don't see the point.  Shepard: What will I need to do exactly?Sessa Tarrent: The same as all the others: complete the mission. The Cartel knows we found their cache. Make sure they don't get in our way. Shepard: And how does that get me inside Smiley's quarters?Sessa Tarrent: It doesn't. But if we can hit them, it will force Raciloma, Smiley's brother, to negotiate with me. The Cartel knows we found their cache. Make sure they don't get in our way.
+(Par) I'll do it. (Neu) Not right now. (Ren) I'm very busy. (Inv) Investigate  Shepard: Very well. I'm in.Sessa Tarrent: Good. Get to the garage, there's an airlock to the surface. Fred and the rest of the team will meet you on site. Shepard: I'm not interested at the moment.Sessa Tarrent: This is work that requires a quick response. The offer will not stand forever.(End of conversation)(Re-initiating conversation)Sessa Tarrent: Have you changed your mind?
+(Par) I'll do it. (Neu) Not right now. (Ren) I'm very busy. (Inv) Investigate  Shepard: Very well. I'm in.Sessa Tarrent: Glad to hear you say it. Fred and the rest of the team are waiting for you. Shepard: I'm not interested at the moment.Sessa Tarrent: Think about my offer, and do it fast.(End of conversation)(Re-initiating conversation)Sessa Tarrent: Have you changed your mind?(Return to last choice) Shepard: The whole galaxy is chock full of people with problems. I can't deal with all of them.Sessa Tarrent: Think about my offer, and do it fast.(End of conversation)(Re-initiating conversation)Sessa Tarrent: Have you changed your mind?(Return to last choice)
+(Neu) Return (Inv) Objective (Inv) Reward (Inv) Location  (Return to overarching choice) Shepard: Tell me again about the job.Sessa Tarrent: The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation. It might draw out Smiley, the boss of the Cartel. Are you interested now?(Return to last choice) Shepard: What kind of reward do you have in mind?Sessa Tarrent: The Union isn't short on funds. All who help us get a slice of the profits.(Return to last choice) Shepard: Where exactly is this cache?Sessa Tarrent: On the surface, within walking distance of Throw Down.(Return to last choice) Shepard: The whole galaxy is chock full of people with problems. I can't deal with all of them.Sessa Tarrent: This is work that requires a quick response. The offer will not stand forever.(End of conversation)(Re-initiating conversation)Sessa Tarrent: Have you changed your mind?
+(Par) I'll do it. (Neu) Not right now. (Ren) I'm very busy. (Inv) Investigate  Shepard: Very well. I'm in.Sessa Tarrent: Glad to hear you say it. Fred and the rest of the team are waiting for you. Shepard: I'm not interested at the moment.Sessa Tarrent: Think about my offer, and do it fast.(End of conversation)(Re-initiating conversation)Sessa Tarrent: Have you changed your mind?(Return to last choice) Shepard: The whole galaxy is chock full of people with problems. I can't deal with all of them.Sessa Tarrent: Think about my offer, and do it fast.(End of conversation)(Re-initiating conversation)Sessa Tarrent: Have you changed your mind?(Return to last choice)
+(Neu) Return (Inv) Objective (Inv) Reward (Inv) Location  (Return to overarching choice) Shepard: Tell me again about the job.Sessa Tarrent: The Cartel manufactures a drug called red sand, to be shipped off-world. It can take weeks to make a batch. We found one of their caches where it's stored before shipping. I've assembled a team to destroy it. I want you to take part in the operation. It might draw out Smiley, the boss of the Cartel. Are you interested now?(Return to last choice) Shepard: What kind of reward do you have in mind?Sessa Tarrent: The Union isn't short on funds. All who help us get a slice of the profits.(Return to last choice) Shepard: Where exactly is this cache?Sessa Tarrent: On the surface, within walking distance of Throw Down.(Return to last choice)
+(Neu) Return (Inv) Reward (Inv) Location  (Return to overarching choice) Shepard: What kind of reward do you have in mind?Sessa Tarrent: The Union isn't short on funds. All who help us get a slice of the profits.(Return to last choice) Shepard: Where exactly is this cache?Sessa Tarrent: On the surface, within walking distance of Throw Down.(Return to last choice)
+(Par) He's vulnerable. (Neu) He's weird. (Ren) He's useless.  Shepard: Fred doesn't look like a fighter. I'll keep an eye on him.Sessa Tarrent: I need him because he knows the equipment. Don't let him out of your sight, and everything will be fine. I'll let the men know that you're with the Union. From now on, you're one of us. They won't bother you anymore. Shepard: I thought you didn't trust Fred.Sessa Tarrent: I don't trust him when he works on his own. I'll let the men know that you're with the Union. From now on, you're one of us. They won't bother you anymore. Shepard: I need to babysit him? Just great.Sessa Tarrent: I need him because he knows the equipment. Don't let him out of your sight, and everything will be fine. I'll let the men know that you're with the Union. From now on, you're one of us. They won't bother you anymore.
+(Neu) Goodbye. (Inv) I have questions.  Shepard: I have to go. Shepard: I need more information.
+(Neu) Return (Inv) Reward (Inv) Location  (Return to last choice) Shepard: What kind of reward do you have in mind?Sessa Tarrent: The Union isn't short on funds. All who help us get a slice of the profits.(Return to last choice) Shepard: Where exactly is this cache?Sessa Tarrent: On the surface, within walking distance of Throw Down.(Return to last choice)
+Fred Mazzei: I know exactly what you mean. As soon as you're done putting on your environmental suit, only then you realize you gotta run straight to the bathroom. And then you try opening all the zippers while you run, but also you gotta be careful when the upper part starts falling down to your knees, because then it becomes harder to run.
+
+(Par) Wha-- (Neu) I-- (Ren) Don't--  Shepard: Uhh... Shepard: I should... Shepard: [sigh]
+Fred Mazzei: And then you finally get there with your suit in one hand and your helmet in the other, so you gotta headbutt the door open, and that's when you...
+Sessa Tarrent: Fred. Shut up.
+Fred Mazzei: What? What did I do? I'm just talking, is all.
+Sessa Tarrent: Fred, go to the garage and get ready for a field assignment. You think you can do that?
+Fred Mazzei: Sure. Well... See ya!
+Sessa Tarrent: While you're gone, I'll let everyone know you're one of us now. Good hunting.
+(End of conversation)
+
+(Re-initiating conversation)
+Sessa Tarrent: Don't you have work to do?
+(End of conversation)
+
+lav40_violettarossi (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_violettarossi_de.isb, lav40_violettarossi_fr.isb, lav40_violettarossi_it.isb
+Characters present:
+
+Violetta Rossi
+Commander Shepard
+
+Violetta Rossi: What are you doing here?
+
+(Inv) What's your name? (Neu) Goodbye.  Shepard: Who are you?Violetta Rossi: Violetta. Doctor Violetta Rossi. I oversee the lab. Hi. Shepard: I should go.Violetta Rossi: Please be careful in here, okay? This stuff is really expensive.(Re-initiating conversation)Violetta Rossi: I just look after the centrifuges. Why did they call me a... why did they call me that?
+(Neu) Goodbye. (Inv) Investigate  Shepard: I should go.Violetta Rossi: Please be careful in here, okay? This stuff is really expensive.(Re-initiating conversation)Violetta Rossi: I just look after the centrifuges. Why did they call me a... why did they call me that?(Return to last choice)
+(Neu) Return (Inv) Work (Inv) Harassment (Inv) Office access  (Return to overarching choice) Shepard: What do you do here?Violetta Rossi: We remove the last impurities from the eezo in centrifuges. Then the material is cooled and prepared for transport in small portions. All the hazardous materials are kept behind glass, but several million credits' worth of eezo goes through this lab every day. Be careful.(Return to last choice) Shepard: Why did those refinery workers threaten you?Violetta Rossi: I don't know. They just don't like the people in the labs. Thank goodness Mister Raciloma was there.(Return to last choice) Shepard: How do I get into the office behind the lab?Violetta Rossi: You mean Mister Raciloma's office? You're given a keycard if you need it.
+(P Inv) What about you? (R Inv) Be more clear.  Shepard: Do you have a keycard?Violetta Rossi: No. When Mister Raciloma wants to see me, he lets me in.(Return to overarching choice) Shepard: What do you mean, "if you need it"? Could I get one?Violetta Rossi: I doubt it. They only give them to those who work for the Amnoss brothers.(Return to overarching choice)
+lav20_charliebooker (3)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_charliebooker_de.isb, lav20_charliebooker_fr.isb, lav20_charliebooker_it.isb
+Characters present:
+
+Charlie Booker
+Commander Shepard
+
+Charlie Booker: I don't want any trouble. I'm squared up with the Union.
+
+(Neu) I need to go (Inv) Tell me about you.  Shepard: Well, I'll be going. For now.Charlie Booker: Okay, sure. I've got work to do.(End of conversation)(Reinitializing conversation)
+(Shepard is male) (Shepard is female)  Charlie Booker: What do you want? Can't you see I'm busy? Charlie Booker: Hello, sweetheart. What can old Charlie do for you today?
+(Return to last choice) Shepard: What's your story? What do you do here?
+(Shepard is male) (Shepard is female)  Charlie Booker: The name's Charlie. I sit here all day long, tapping on the keyboard and scratching my butt. What do you think the port authority is for? I keep track of arrivals and departures, make sure permits are in order, and so forth. I also manage the garage downstairs. If you need any parts or repairs, I'm your man. Charlie Booker: Call me Charlie, sweetheart. I keep track of arrivals and departures, make sure permits are in order, and so forth. I also manage the garage downstairs. If you need any parts or repairs, I'm your man.
+(Par) I want to buy. (Neu) Goodbye. (Ren) Cut the sexist crap. (P Inv) Vehicle parts (Int) Learn some manners. (Inv) Investigate  Shepard: Show me what you have.
+(Booker was persuaded) (Booker was not persuaded)  (Opens store inventory) Charlie Booker: All sales are final. No returns, no exchanges, no guarantees. And if you're looking for something special, you're in the wrong cluster.
+(Par) Let's see it. (Neu) [Return] (Cha) That can't be all. (Int) You'd better stop lying.  (Opens store inventory) (Return to overarching choice) Shepard: You know about everything that comes and goes through this station. A smart guy like you must have something special in stock.Charlie Booker: I got my hands on a few special items. If you've got credits, take your pick. Here's the list.(Opens upgraded store inventory) Shepard: Scumbags like you usually have whole warehouses full of stolen items. Show me your real inventory. Now.Charlie Booker: Yeah, alright, no need to get violent. Sure, I do get some nice stuff from time to time. I guess you could afford it.(Opens upgraded store inventory) Shepard: I have to go.
+(Taught some manners) (Didn't teach some manners)  Charlie Booker: Of course, [sir/ma'am]. Good day, [sir/ma'am].(End of conversation)(Re-initiating conversation)Charlie Booker: [Sir/Ma'am]. What can I do for you, [sir/ma'am]?(Return to last choice) Charlie Booker: Okay, sure. I've got work to do.(End of conversation)(Re-initiating conversation)
+(Shepard is male) (Shepard is female)  Charlie Booker: What do you want? Can't you see I'm busy? Charlie Booker: Hello, sweetheart. What can old Charlie do for you today?
+(Return to last choice) (Only for female Shepard)Shepard: My eyes are up here, dirtbag.Charlie Booker: Well, aren't you a feisty one. Fine by me. Hey now, calm down swee-- I mean, ma'am! I didn't mean any disrespect.(Return to last choice) Shepard: What parts do you have available?(Opens garage store) Shepard: I think you're being disrespectful. I'm very sensitive, you know. You wouldn't want to hurt my feelings, would you?Charlie Booker: Sure, I'm sorry. I get carried away sometimes. My bad. I'm sorry. Please put the gun down.(Return to last choice)
+(Neu) Return (Inv) Liara T'Soni (Inv) Krogan  (Return to overarching choice) Shepard: Do you know where Liara T'Soni is?
+(Male Shepard, didn't teach manners) (Female Shepard, didn't teach manners) (Taught some manners)  Charlie Booker: The asari? Now that's my kind of alien, haha! Nah, I don't know where she is. If I knew, I'd have set up some cameras in there. Try asking Tombiri.(Return to last choice) Charlie Booker: The asari? You're interested in her? Oh-oh, now that gets my mind going. Nah, I don't know where she is. If I knew, I'd have set up some cameras in there. Try asking Tombiri.(Return to last choice) Charlie Booker: Nah, I don't know where she is. If I knew, I'd have set up some cameras in there. Try asking Tombiri.(Return to last choice) (If Shepard has heard of the krogan)Shepard: I heard a krogan came here not long ago. Was he armed?Charlie Booker: Yeah, probably some mercenary. Said he was looking for someone and rushed in Tombiri's office. Apparently he clashed with Harrah too.
+(P Inv) Where is he?  Shepard: Is this krogan still here?Charlie Booker: Nah, he left in a fury. I barely had time to open the gates before he bugged out.(Return to last choice)
+lav60_trig12_hench_1[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_trig12_hench_1_de.isb, lav60_trig12_hench_1_fr.isb, lav60_trig12_hench_1_it.isb
+Characters present:
+
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: Commander. May I speak freely?
+| Garrus Vakarian: Commander Shepard. May I ask you something?
+| Tali'Zorah: Shepard. Something's bothering me. Can we talk?
+| Ashley Williams: Commander. May I speak freely?
+
+(Par) Of course. (Neu) I'm listening. (Ren) There's no time.  Shepard: You don't need my permission to speak your mind.| Kaidan Alenko: We're working for criminals. Is there no other way to get to T'Soni?| Garrus Vakarian: (Depending on outcome of Garrus: Find Dr. Saleon) [Regulations say otherwise. Sorry./It's very kind of you. But I had to ask anyway.] We're working for criminals, when we should be rounding them up.| Tali'Zorah: Oh, I'm the only one here not in the military. I thought I should ask. I've seen groups like the Union before. I don't like working for them.| Ashley Williams: All right. Glad to hear it. We're working for criminals here. Is this morally right? Shepard: What is it?| Kaidan Alenko: We're working for criminals. Is there no other way to get to T'Soni?| Garrus Vakarian: We're working for criminals, when we should be rounding them up.| Tali'Zorah: I've seen groups like the Union before. I don't like working for them.| Ashley Williams: We're working for criminals here. Is this morally right? Shepard: We must get to the bore as soon as possible.| Kaidan Alenko: That's what I wanted to talk about. We're working for criminals. Is there no other way to get to T'Soni?| Garrus Vakarian: That's what I wanted to talk about. We're working for criminals, when we should be rounding them up.| Tali'Zorah: I know. That's what I wanted to talk about. I've seen groups like the Union before. I don't like working for them.| Ashley Williams: That's what I wanted to talk about. We're working for criminals here. Is this morally right?
+|| Urdnot Wrex: We're trying to protect the galaxy, and you're worried about a bunch of miners?
+|| Ashley Williams: Saren's out there with who knows how many geth. If we don't stop him, it'll be much worse.
+|| Tali'Zorah: Is there a way to get to T'Soni without working with these criminals?
+|| Garrus Vakarian: But we need to look at the big picture. If our methods are wrong however...
+
+(Par) We'll do what we can. (Neu) No use in debating now. (Ren) Stick to the mission.  Shepard: I understand your concern. At least from the inside, we might prevent them from doing any harm.| Kaidan Alenko: Got it. Thanks for hearing me out.| Garrus Vakarian: Understood. Thank you for hearing me out.| Tali'Zorah: I'm feeling a little better, thanks.| Ashley Williams: Got it. Thanks for hearing me out. Shepard: We need to get to Dr. T'Soni before Saren does. For now, we have to play along. Later, we'll see.| Kaidan Alenko: Your orders, Commander.| Garrus Vakarian: Of course, Commander. I apologize.| Tali'Zorah: Well, you must be in command for a reason.| Ashley Williams: Your orders, Commander. Shepard: If a city was occupied by the enemy, shouldn't we bomb it? Whatever it takes.| Kaidan Alenko: Your orders, Commander.| Garrus Vakarian: Of course, Commander. I apologize.| Tali'Zorah: Well, you must be in command for a reason.| Ashley Williams: Your orders, Commander.
+(End of conversation)
+
+lav60_fredmazzei (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_fredmazzei_de.isb, lav60_fredmazzei_fr.isb, lav60_fredmazzei_it.isb
+Characters present:
+
+Fred Mazzei
+Commander Shepard
+Unnamed human female miner
+Unnamed human male mercenary
+Unnamed turian male mercenary
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Fred Mazzei: Hey. It's... good to be working with you. The bore is just over here. When I joined the Union, I thought... Well, when I worked on the belts, people always came to me for advice. Take Sessa for instance. You've seen it, right? Always saying "Shut up, Fred!" She thinks I'm no good for anything.
+
+(Par) Don't give up. (Neu) You should quit. (Ren) She's right. Let's go.  Shepard: You just need to show her what you're capable of.Fred Mazzei: Yeah, right. Only she'll never let me have that chance. I can't prove my worth by shaking down some jellyfish. They're just too slimy.
+(Par) Let me do it. (Neu) Persevere. (Ren) You're pathetic.  Shepard: I could get the credits from Oronath for you.Fred Mazzei: For real? You'd be doing me a solid... uh, whatever it is. Shepard: You just need to show them what you can do.Fred Mazzei: Yeah... But nobody will give me the chance, right? Shepard: Collecting extortion money is for chumps.Fred Mazzei: Extor-- No, no no! They're dues. All unions charge dues, right? Shepard: If you want to be respected for your skills, the Union's not for you.Fred Mazzei: Maybe I'm not cut out for this job. I should just... go to space.
+(Par) Yes, it's beautiful. (Neu) Persevere. (Ren) I don't care.  (Only if Shepard has the Spacer background)Shepard: Space has a purity that planets don't have. Perfect momentum, precise movements.Fred Mazzei: Yeah, if I was in space, I'd be all like "weee-yahoo-waatchaa!" But down here, I'm like a fish out of its league. You think I should leave this place? Another job, that'd be... I know a thing or two. And I'm good at interviews. Shepard: You just need to show them what you can do.Fred Mazzei: Yeah... But nobody will give me the chance, right? Shepard: It makes no difference if you work on the ground or in vacuum. It's that simple.Fred Mazzei: I guess. But the Union doesn't really care what I do as a miner. Shepard: I don't have time to deal with your problems, we have a job to do.Fred Mazzei: Okay, sure, I'll shut up! I know when it's time to be quiet, when it's time to move on.
+Human mercenary: Get a move on, Fred. We've been here for too long.
+Fred Mazzei: I've worked on these Tenkara Corp drills before. They're easy to rig. I just need to tinker with this thing for a bit.
+Human mercenary: What thing?
+Fred Mazzei: That thing, there. That thing! That thing right there.
+Turian mercenary: How about you take a hike, Mazzei?
+Fred Mazzei: How about you try to hike your kicked ass out of my foot up your butt in-- I mean, you take a hike!
+Turian mercenary: Hey, rookie. You want to die here, by any chance? Get out now.
+
+(Par) I've fought worse. (Neu) Try it. (Ren) Shut up, Fred.  Shepard: That might work with the miners, but we've encountered geth up close.Turian mercenary: No regular soldier could have fought the geth. Have you heard of Raciloma Amnoss? He's the Cartel's number two guy. One of the best killers in the galaxy. The assassination of the Zedor minister, Kurinar 7, that was him. Shepard: You're not going to kill me.Turian mercenary: That's what the last guy said too. Have you heard of Raciloma Amnoss? He's the Cartel's number two guy. One of the best killers in the galaxy. The assassination of the Zedor minister, Kurinar 7, that was him. Shepard: Well, that was... something. Very intimidating. But it won't do.Turian mercenary: Have you heard of Raciloma Amnoss? He's the Cartel's number two guy. One of the best killers in the galaxy. The assassination of the Zedor minister, Kurinar 7, that was him.
+Human mercenary: So? Aramus hired Sessa Tarrent. She took out that asari admiral, Altaia. Shot her on Yormea.
+Turian mercenary: If she's so good, why hasn't she killed Raciloma?
+| Ashley Williams: My dad can blow your dad's head off.
+| Urdnot Wrex: This is embarrassing. Can we kill them?
+| Garrus Vakarian: Murder as a contest.
+| Tali'Zorah: I didn't know hired killers were so competitive.
+Turian mercenary: Go back to Throw Down. Otherwise, the last thing you'll ever smell is the sulfur dioxide entering your suit.
+Miner: Erm, look guys. We don't want to get dragged into this. Maybe you could go somewhere else?
+Turian mercenary: Shut up.
+
+(Par) In your dreams. (Neu) Tough words. (Ren) Raciloma will die too. (Cha) Don't touch the miners. (Int) Just try it.  Shepard: And let you keep the drugs, so you can sell them to kids?Turian mercenary: Do I look like a dealer? What the Cartel does with it is not my concern. Shepard: And I'm supposed to believe you?Turian mercenary: I don't want to waste bullets if I can help it. Shepard: You think Raciloma could take us on? Bring him.Turian mercenary: You want to meet Raciloma? Your funeral. Let's go.| Urdnot Wrex: Let me take out one of them. Just one. He won't be missed.| Ashley Williams: You guys had better turn around and leave.| Garrus Vakarian: Sure, I can't wait to meet him in person.| Kaidan Alenko: You guys had better turn around and leave. Shepard: If you intend to hurt them, you're going to have to deal with me first.| Urdnot Wrex: I say we kill them anyway. Just to be safe.| Ashley Williams: You don't want to try and find out.| Garrus Vakarian: This isn't a good day to die, right?| Kaidan Alenko: Just say the word.Turian mercenary: You haven't won. We'll be back with reinforcements. Shepard: I won't let you hurt anyone here. Leave, or we'll kill you.| Urdnot Wrex: I say we kill them anyway. Just to be safe.| Ashley Williams: You don't want to try and find out.| Garrus Vakarian: This isn't a good day to die, right?| Kaidan Alenko: Just say the word.Turian mercenary: You haven't won. We'll be back with reinforcements.
+(End of conversation)
+
+lav60_trig06_fred_runs / lav60_trig07_fred_helps[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_trig06_fred_runs_de.isb, lav60_trig06_fred_runs_fr.isb, lav60_trig06_fred_runs_it.isb, lav60_trig07_fred_helps_de.isb, lav60_trig07_fred_helps_fr.isb, lav60_trig07_fred_helps_it.isb
+Characters present:
+
+Fred Mazzei
+Unnamed human male mercenary
+
+(If Fred wasn't convinced to leave)
+Fred Mazzei: Maybe Sessa will be impressed by this!
+
+(If Fred was convinced to leave)
+Fred Mazzei: Time to go!
+Human mercenary: Fred! Where the hell are you--
+Fred Mazzei: Tell Sessa I quit!
+
+lav60_trig08_fred_bye / lav60_trig09_thug_bye[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_trig08_fred_bye_de.isb, lav60_trig08_fred_bye_fr.isb, lav60_trig08_fred_bye_it.isb, lav60_trig09_thug_bye_de.isb, lav60_trig09_thug_bye_fr.isb, lav60_trig09_thug_bye_it.isb
+Characters present:
+
+Fred Mazzei
+Unnamed human male mercenary
+
+(If Fred stayed)
+Fred Mazzei: Yeah, that'll teach them a lesson! Power to the people and all that. You take care of the bore, I'll... I need to go throw up. Throwing up in a suit is bad.
+
+(If Fred left)
+Human mercenary: Goddamnit. I can't believe Fred... We could have died. You take care of the bore, I'll tell Sessa that Fred bailed.
+
+lav60_fredmazzei (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_fredmazzei_de.isb, lav60_fredmazzei_fr.isb, lav60_fredmazzei_it.isb
+Character present:
+
+Fred Mazzei
+
+Fred Mazzei: Well, we'd better move on. Boom! There goes a million credits.
+
+lav40_sessatarrent (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_sessatarrent_de.isb, lav40_sessatarrent_fr.isb, lav40_sessatarrent_it.isb
+Characters present:
+
+Commander Shepard
+Sessa Tarrent
+
+Sessa Tarrent: Is the job done?
+
+(Neu) Goodbye. (Inv) Not yet.  Shepard: I should go. Shepard: We've pushed back the Cartel but we haven't destroyed the bore yet.Sessa Tarrent: Get to it. If Racil-- the Cartel doesn't hear from their team, they'll send another one.
+(End of conversation)
+
+lav40_sessatarrent (3)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_sessatarrent_de.isb, lav40_sessatarrent_fr.isb, lav40_sessatarrent_it.isb
+Characters present:
+
+Commander Shepard
+Sessa Tarrent
+
+Sessa Tarrent: Is the job done?
+
+(Par) It was hard. (Neu) Yes. (Ren) Duh.  Shepard: Yes, but we ran into the Cartel.Sessa Tarrent: Since you're alive and well, I assume you've remedied the issue. Standard Union rate for this is 500 credits. The Union needs violent types, especially since the Cartel set itself up here. Shepard: The job is done.Sessa Tarrent: Excellent. I like getting results. Standard Union rate for this is 500 credits. The Union needs violent types, especially since the Cartel set itself up here. Shepard: Of course it is. Don't you trust me?Sessa Tarrent: I trust only two people: God, and myself. And you don't look like the former. Standard Union rate for this is 500 credits. The Union needs violent types, especially since the Cartel set itself up here.
+(Neu) I'll take the 500. (Int) It's not enough. (Inv) What about Fred?  Shepard: I will spend them wisely.Sessa Tarrent: You can't go wrong with hollow-point rounds. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: You forgot hazard pay. Refusing to pay me more would be a hazard to your health.Sessa Tarrent: Your sense of humor could be your undoing, but you're right. I'll throw in another 250 just this one time. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: Fred doesn't seem like the violent type.Sessa Tarrent: You don't say.
+(Par) He needs a promotion. (Neu) His talents are wasted. (Ren) Give him your job.  Shepard: He isn't fit to be a criminal, but he's a seasoned miner. You could make use of his experience.| Tali'Zorah: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Kaidan Alenko: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Garrus Vakarian: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Urdnot Wrex: I know a woman of action when I see one. Let him have your crappy job.Sessa Tarrent: Interesting proposition. Fred!Fred Mazzei: Whu-- Erm, what's up? I mean, what do you need, ma'am? From me. Uh, miss.Sessa Tarrent: From now on, you're the new supervisor. If you screw up, I'll kill you myself. Got it?Fred Mazzei: Yeah, sure. I'll be running things like butter. Smooth butter. I mean, buttered smoothly. Ah, nevermind.Sessa Tarrent: Shut up, and just do your job. Take the rest of the shift off, and go get yourself a drink.Fred Mazzei: A drink? Tonight, I'll be drinking a whole pipeline! (laughs)Sessa Tarrent: For God's sake... It feels like I'm guarding a bunch of pets. Big, dumb pets.
+(Neu) I'll take the 500. (Cha) That's worth a raise. (Int) It's not enough.  Shepard: I will spend them wisely.Sessa Tarrent: You can't go wrong with hollow-point rounds. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: 500, got it. And a bonus for finding you a new supervisor?Sessa Tarrent: I'll pay another 250 for it. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: You forgot hazard pay. Refusing to pay me more would be a hazard to your health.Sessa Tarrent: Your sense of humor could be your undoing, but you're right. I'll throw in another 250 just this one time. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: He's no fighter, but he knows eezo inside and out. Why don't you let him work here?| Tali'Zorah: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Kaidan Alenko: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Garrus Vakarian: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Urdnot Wrex: I know a woman of action when I see one. Let him have your crappy job.Sessa Tarrent: Interesting proposition. Fred!Fred Mazzei: Whu-- Erm, what's up? I mean, what do you need, ma'am? From me. Uh, miss.Sessa Tarrent: From now on, you're the new supervisor. If you screw up, I'll kill you myself. Got it?Fred Mazzei: Yeah, sure. I'll be running things like butter. Smooth butter. I mean, buttered smoothly. Ah, nevermind.Sessa Tarrent: Shut up, and just do your job. Take the rest of the shift off, and go get yourself a drink.Fred Mazzei: A drink? Tonight, I'll be drinking a whole pipeline! (laughs)Sessa Tarrent: For god's sake... It feels like I'm guarding a bunch of pets. Big, dumb pets.
+(Neu) I'll take the 500. (Cha) That's worth a raise. (Int) It's not enough.  Shepard: I will spend them wisely.Sessa Tarrent: You can't go wrong with hollow-point rounds. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: 500, got it. And a bonus for finding you a new supervisor?Sessa Tarrent: I'll pay another 250 for it. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: You forgot hazard pay. Refusing to pay me more would be a hazard to your health.Sessa Tarrent: Your sense of humor could be your undoing, but you're right. I'll throw in another 250 just this one time. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: He's not one for philosophical discourse, but he knows eezo inside and out. You should take advantage.| Tali'Zorah: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Kaidan Alenko: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Garrus Vakarian: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Urdnot Wrex: I know a woman of action when I see one. Let him have your crappy job.Sessa Tarrent: Interesting proposition. Fred!Fred Mazzei: Whu-- Erm, what's up? I mean, what do you need, ma'am? From me. Uh, miss.Sessa Tarrent: From now on, you're the new supervisor. If you screw up, I'll kill you myself. Got it?Fred Mazzei: Yeah, sure. I'll be running things like butter. Smooth butter. I mean, buttered smoothly. Ah, nevermind.Sessa Tarrent: Shut up, and just do your job. Take the rest of the shift off, and go get yourself a drink.Fred Mazzei: A drink? Tonight, I'll be drinking a whole pipeline! (laughs)Sessa Tarrent: For god's sake... It feels like I'm guarding a bunch of pets. Big, dumb pets.
+(Neu) I'll take the 500. (Cha) That's worth a raise. (Int) It's not enough.  Shepard: I will spend them wisely.Sessa Tarrent: You can't go wrong with hollow-point rounds. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: 500, got it. And a bonus for finding you a new supervisor?Sessa Tarrent: I'll pay another 250 for it. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: You forgot hazard pay. Refusing to pay me more would be a hazard to your health.Sessa Tarrent: Your sense of humor could be your undoing, but you're right. I'll throw in another 250 just this one time. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him?
+(Par) The Cartel's number two? (Neu) Yes, I remember. (Ren) He made you look bad.  Shepard: The Cartel mercs near the bore talked about him with respect.Sessa Tarrent: It might be the only smart reaction they've ever had. I'll give it to you straight: I can't take on Raciloma on my own, as much as I wish I could. I've set up a meeting in the shut-down part of the refinery. You will be ambushing him. I've already found an ideal spot. You take care of his escort, I'll handle him myself. I'll be down there with him, he'll respect that. Shepard: Tombiri mentioned him. Smiley's brother?Sessa Tarrent: Raciloma is the only one Smiley trusts. He would blindly follow his elder brother anywhere. I'll give it to you straight: I can't take on Raciloma on my own, as much as I wish I could. I've set up a meeting in the shut-down part of the refinery. You will be ambushing him. I've already found an ideal spot. You take care of his escort, I'll handle him myself. I'll be down there with him, he'll respect that. Shepard: It's the salarian who gave your men a beating when I came here.Sessa Tarrent: They're lucky he decided not to kill them. I'll give it to you straight: I can't take on Raciloma on my own, as much as I wish I could. I've set up a meeting in the shut-down part of the refinery. You will be ambushing him. I've already found an ideal spot. You take care of his escort, I'll handle him myself. I'll be down there with him, he'll respect that.
+(Neu) I'll be going. (P Inv) Risky plan. (Inv) Respect? (R Inv) You're hiding something.  Shepard: I have all the info I need.Sessa Tarrent: Very good. Go take up your position. I'll... I'll go talk to Raciloma.(End of conversation) Shepard: Will he fall for it? It's obviously a trap, and you two are not exactly friends.Sessa Tarrent: He may not believe a word I say, but he will come... if I ask him to.(Return to last choice) Shepard: He's your enemy. Why do you care about his respect?Sessa Tarrent: He's not my enemy. We just work for different organizations. Nothing personal about it.(Return to last choice) Shepard: I get the feeling you're not telling me the whole truth.Sessa Tarrent: Your feelings are irrelevant in getting the job done.(Return to last choice)
+lav40_sessatarrent (4)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_sessatarrent_de.isb, lav40_sessatarrent_fr.isb, lav40_sessatarrent_it.isb
+Characters present:
+
+Commander Shepard
+Sessa Tarrent
+
+Sessa Tarrent: Is the job done?
+
+(Par) It was hard. (Neu) Yes. (Ren) Duh.  Shepard: Yes, but we ran into the Cartel.Sessa Tarrent: Since you're alive and well, I assume you've remedied the issue. Standard Union rate for this is 500 credits. The Union needs violent types, especially since the Cartel set itself up here. Shepard: The job is done.Sessa Tarrent: Excellent. I like getting results. Standard Union rate for this is 500 credits. The Union needs violent types, especially since the Cartel set itself up here. Shepard: Of course it is. Don't you trust me?Sessa Tarrent: I trust only two people: God, and myself. And you don't look like the former. Standard Union rate for this is 500 credits. The Union needs violent types, especially since the Cartel set itself up here.
+(Neu) I'll take the 500. (Cha) Fred let us down. (Int) It's not enough. (Inv) What about Fred?  Shepard: I will spend them wisely.Sessa Tarrent: You can't go wrong with hollow-point rounds. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: We both know that Fred wasn't much help. How about you also give me his share?Sessa Tarrent: How about you take half of his salary and leave it at that? I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: We got the job done despite Fred's desertion. That's worth more than 500.Sessa Tarrent: That seems fair. I'll give you half of his 500 credits. Shepard: Fred doesn't seem like the violent type.Sessa Tarrent: The rest of the team told me Fred ran away.
+(Par) He didn't run. (Neu) I'll take the 500. (Ren) Good riddance. (Cha) Fred let us down. (Int) It's not enough.  Shepard: He asked me to inform you of his resignation.Sessa Tarrent: How thoughtful of him. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: I will spend them wisely.Sessa Tarrent: You can't go wrong with hollow-point rounds. I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: He's a coward and a moron. You'll be better off without him.Sessa Tarrent: I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: We both know that Fred wasn't much help. How about you also give me his share?Sessa Tarrent: How about you take half of his salary and leave it at that? I'll expect the same efficiency in your next assignment. But it will be... somewhat more difficult. The Union's chairman has handed me a contract for Raciloma Amnoss. Do you know him? Shepard: We got the job done despite Fred's desertion. That's worth more than 500.Sessa Tarrent: That seems fair. I'll give you half of his 500 credits.
+(Par) The Cartel's number two? (Neu) Yes, I remember. (Ren) He made you look bad.  Shepard: The Cartel mercs near the bore talked about him with respect.Sessa Tarrent: It might be the only smart reaction they've ever had. I'll give it to you straight: I can't take on Raciloma on my own, as much as I wish I could. I've set up a meeting in the shut-down part of the refinery. You will be ambushing him. I've already found an ideal spot. You take care of his escort, I'll handle him myself. I'll be down there with him, he'll respect that. Shepard: Tombiri mentioned him. Smiley's brother?Sessa Tarrent: Raciloma is the only one Smiley trusts. He would blindly follow his elder brother anywhere. I'll give it to you straight: I can't take on Raciloma on my own, as much as I wish I could. I've set up a meeting in the shut-down part of the refinery. You will be ambushing him. I've already found an ideal spot. You take care of his escort, I'll handle him myself. I'll be down there with him, he'll respect that. Shepard: It's the salarian who gave your men a beating when I came here.Sessa Tarrent: They're lucky he decided not to kill them. I'll give it to you straight: I can't take on Raciloma on my own, as much as I wish I could. I've set up a meeting in the shut-down part of the refinery. You will be ambushing him. I've already found an ideal spot. You take care of his escort, I'll handle him myself. I'll be down there with him, he'll respect that.
+(Neu) I'll be going. (P Inv) Risky plan. (Inv) Respect? (R Inv) You're hiding something.  Shepard: I have all the info I need.Sessa Tarrent: Very good. Go take up your position. I'll... I'll go talk to Raciloma.(End of conversation) Shepard: Will he fall for it? It's obviously a trap, and you two are not exactly friends.Sessa Tarrent: He may not believe a word I say, but he will come... if I ask him to.(Return to last choice) Shepard: He's your enemy. Why do you care about his respect?Sessa Tarrent: He's not my enemy. We just work for different organizations. Nothing personal about it.(Return to last choice) Shepard: I get the feeling you're not telling me the whole truth.Sessa Tarrent: Your feelings are irrelevant in getting the job done.(Return to last choice)
+lav40_trig04_union_assassin[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_trig04_union_assassin_de.isb, lav40_trig04_union_assassin_fr.isb, lav40_trig04_union_assassin_it.isb
+Characters present:
+
+Raciloma Amnoss
+Sessa Tarrent
+Unnamed turian male mercenary
+
+Raciloma Amnoss: I'm here. Drop the act.
+Sessa Tarrent: "Act"?
+Raciloma Amnoss: We've worked together for four years. I know why you've asked me to come here. The ambush is up there, right?
+Sessa Tarrent: Racil...
+Turian mercenary: Boss? What's--
+Raciloma Amnoss: Be quiet. Well now, Sessa. No lies between us. Not after everything. Shoot. My men will not interfere.
+Sessa Tarrent: I... We stick to the plan. Take out the mercenaries.
+Raciloma Amnoss: Whoever shoots this woman is a dead man!
+
+lav40_trig05_raciloma_dies (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_trig05_raciloma_dies_de.isb, lav40_trig05_raciloma_dies_fr.isb, lav40_trig05_raciloma_dies_it.isb
+Characters present:
+
+Raciloma Amnoss
+Sessa Tarrent
+
+Sessa Tarrent: I told you not to touch him! Racil?
+Raciloma Amnoss: I'm still here... but not for long... You still have the ring?
+Sessa Tarrent: Of course I do. I'm sorry. I'm so sorry.
+Raciloma Amnoss: We both knew that sooner or later, it would end like this.
+Sessa Tarrent: I should have done it alone. But you're too good, Racil. Too good.
+Raciloma Amnoss: You had a contract? I would have done the same.
+Sessa Tarrent: I'm sorry.
+Raciloma Amnoss: Be professional, don't let them see who you really are... I... love you...
+
+lav40_trig05_raciloma_dies (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_trig05_raciloma_dies_de.isb, lav40_trig05_raciloma_dies_fr.isb, lav40_trig05_raciloma_dies_it.isb
+Characters present:
+
+Commander Shepard
+Sessa Tarrent
+
+Sessa Tarrent: Clean this up, and don't forget the pass to Smiley's quarters. He always carried it.
+
+(Par) How are you feeling? (Neu) Understood. (Ren) We'll end this.  Shepard: Hey, are you all ri--Sessa Tarrent: Shut your trap! Shut it, or I'll kill you! Shepard: We'll take care of him.Sessa Tarrent: I... don't want to know what you'll do with the body. Shepard: Smiley is as good as dead.Sessa Tarrent: I... don't want to know what you'll do with the body.
+(End of conversation)
+
+lav40_trig09_hench_concern[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_trig09_hench_concern_de.isb, lav40_trig09_hench_concern_fr.isb, lav40_trig09_hench_concern_it.isb
+Characters present:
+
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: What will we do once we've found Doctor T'Soni? We can't leave this station to the Union.
+| Kaidan Alenko: What will we do with the Union once we've freed T'Soni from Smiley?
+| Garrus Vakarian: What will we do once we've freed T'Soni? The Union is a bunch of common criminals. Shouldn't they be punished?
+| Ashley Williams: Do you plan on taking down the Union, Commander? We can't let these thugs roam free.
+
+(Par) We'll stop them. (Neu) I'm not sure yet. (Ren) None of our concern.  Shepard: I won't let those criminals in control. Once we've got T'Soni, we take them out.| Urdnot Wrex: I'd just shoot them. What? It's not like anybody's going to miss them.| Ashley Williams: I'm down, as long as the bad guys get what's coming to them.| Garrus Vakarian: We will manage. Patience and restraint are the key to success.| Kaidan Alenko: I'll be glad when this is all over. Looking forward to a nice shower.|| Ashley Williams: You're such a girl...|| Kaidan Alenko: What was that, Chief?|| Ashley Williams: Sir! Nothing, sir! Shepard: I have a couple ideas, but no plan survives contact with the enemy.| Urdnot Wrex: I'd just shoot them. What? It's not like anybody's going to miss them.| Ashley Williams: I'm down, as long as the bad guys get what's coming to them.| Garrus Vakarian: We will manage. Patience and restraint are the key to success.| Kaidan Alenko: I'll be glad when this is all over. Looking forward to a nice shower.|| Ashley Williams: You're such a girl...|| Kaidan Alenko: What was that, Chief?|| Ashley Williams: Sir! Nothing, sir! Shepard: We're here for T'Soni. Everything else is secondary. Am I clear?| Urdnot Wrex: Agreed. It's not our problem.| Ashley Williams: Loud and clear, Commander.| Garrus Vakarian: Got it, Commander.| Kaidan Alenko: Aye aye, Commander.
+(End of conversation)
+
+lav20_mansionguard[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_mansionguard_de.isb, lav20_mansionguard_fr.isb, lav20_mansionguard_it.isb
+Characters present:
+
+Commander Shepard
+Unnamed turian guard
+
+Turian guard: This is private property.
+
+(Neu) Goodbye. (Ren) Let me in. (Inv) Investigate  Shepard: Fine, I'll be leaving.Turian guard: Good.(End of conversation)(Re-initiating conversation)Turian guard: I told you to go away.(Return to last choice) Shepard: I'm here for Smiley.Turian guard: Then you'll have to deal with me.(End of conversation)
+(Neu) Return (Inv) Medical bay (Inv) Owner (Inv) Liara T'Soni  (Return to overarching choice) Shepard: Is this not a public building?Turian guard: It's not an infirmary anymore. It's a private residence.
+(P Inv) But I need help.  Shepard: Where can I get medical assistance then?Turian guard: A hanar called Oronath. His kiosk is on the main level.(Return to overarching choice) Shepard: Who owns this place?Turian guard: Sannul Amnoss. He runs this station.(Return to last choice) Shepard: Is Dr. T'Soni in there?Turian guard: I can't answer that.(Return to last choice)
+lav20_sannulamnoss[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_sannulamnoss_de.isb, lav20_sannulamnoss_fr.isb, lav20_sannulamnoss_it.isb
+Characters present:
+
+Sannul "Smiley" Amnoss
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Smiley: Hello, Spectre. I was waiting for you. You killed my brother.
+
+(Par) You must have a story. (Neu) You know me? (Ren) That I did.  Shepard: How did you end up doing this?Smiley: An earthquake. Most of my clan was buried under the rubble. I did what I had to do. I couldn't let Raciloma starve. That's why I only sell to the rich, and donate the money. I know what it means to be hungry.| Garrus Vakarian: I wonder what prompted the change in career, from commando to drug lord.| Kaidan Alenko: Sounds fun.| Tali'Zorah: Sounds fun.| Urdnot Wrex: Your job's actually child's play.Smiley: Indeed. Why did you kill my brother? We haven't done anything to you. Shepard: What makes you think I'm a Spectre?Smiley: An organization like mine needs to keep an ear to the ground. Couldn't stay in business otherwise. I've always wanted to meet a Spectre. You were my heroes when I was a kid. We used to play Spectres and pirates by the old pond. Why did you kill my brother? We haven't done anything to you. Shepard: It's nice to feel appreciated.Smiley: Too bad we didn't meet under different circumstances. But I can't forgive you for what you did to Racil.| Garrus Vakarian: Think this through. Raciloma can't save you anymore.| Ashley Williams: Think this through. Raciloma can't save you anymore.| Urdnot Wrex: Think this through. Raciloma can't save you anymore.| Kaidan Alenko: Your brother can't save you anymore. There's no need to shed any more blood.Smiley: Why did you kill my brother? We haven't done anything to you.
+(Par) You're wicked. (Neu) I'm here for T'Soni. (Ren) Prepare to join him.  Shepard: You're making drugs, and you've kidnapped Liara T'Soni.Smiley: Smiley: What? What are you talking about?
+(Neu) Drop the act. (Neu) I'm here for T'Soni. (Ren) Stop it.  Shepard: Don't get coy with me. You kidnapped Liara T'Soni.Smiley: What? No, I... I mean, do you see her here? Shepard: I didn't come for you. I want Dr. T'Soni free.Smiley: Smiley: Free her? How so? Where is she? Did the krogan kidnap her? Shepard: Don't play dumb with me.Smiley: I'm not playing dumb. For all I know, she's gone to an archaeological digsite. Shepard: I didn't come for you. I want Dr. T'Soni free.Smiley: Smiley: Free her? How so? Where is she? Did the krogan kidnap her?
+(Par) Wait, really? (Neu) Erm... (Ren) Stop it.  Shepard: You don't know?Smiley: No. She's missing? Shepard: No, you did.Smiley: What? No, I... I mean, do you see her here? Shepard: Don't play dumb with me.Smiley: I'm not playing dumb. For all I know, she's gone to an archaeological digsite. Shepard: Yes, I killed Raciloma. And you're next. Does that upset you?Smiley: Oh yes. I'm going to make you pay. But it's so... Ruajet!(End of conversation)
+(Par) So you do know her? (Neu) Tombiri was clear. (Ren) I'm done talking.  Shepard: When did you last see her?Smiley: Last time was when she asked us to transport some of her artifacts. Ah, of course. Damn, what an idiot. Tombiri, she made a fool of you. She's the chairman of the Miners' Union. She used you to eliminate me.| Tali'Zorah: Tombiri is the chairman of the Union? She's a criminal?| Garrus Vakarian: Tombiri is the chairman of the Union? My intuition's getting rusty.| Ashley Williams: I think we should have a word with Tombiri, Commander.| Kaidan Alenko: The administrator is also chairman of the Union? Shepard: I was told you had T'Soni.Smiley: Ah, of course. Damn, what an idiot. Tombiri, she made a fool of you. She's the chairman of the Miners' Union. She used you to eliminate me.| Tali'Zorah: Tombiri is the chairman of the Union? She's a criminal?| Garrus Vakarian: Tombiri is the chairman of the Union? My intuition's getting rusty.| Ashley Williams: I think we should have a word with Tombiri, Commander.| Kaidan Alenko: The administrator is also chairman of the Union? Shepard: I'm going to count to three.Smiley: Wait. Let me think. Ah, of course. Damn, what an idiot. Tombiri, she made a fool of you. She's the chairman of the Miners' Union. She used you to eliminate me.| Tali'Zorah: Tombiri is the chairman of the Union? She's a criminal?| Garrus Vakarian: Tombiri is the chairman of the Union? My intuition's getting rusty.| Ashley Williams: I think we should have a word with Tombiri, Commander.| Kaidan Alenko: The administrator is also chairman of the Union?
+(Par) She lied to us. (Neu) Keep talking. (Ren) I'll make her pay.  Shepard: She knew Liara wasn't here?Smiley: I can tell you where she is. Would benefit us both, right? Let's make a deal. Shepard: Enlighten me.Smiley: I do know where Liara is. I might tell you, just to annoy Nonya. Shepard: Nobody makes a fool of me.Smiley: I do know where Liara is. I might tell you, just to annoy Nonya.
+(Par) I'll take care of her. (Neu) You're on borrowed time. (Ren) [Rough him up] (Cha) You're gambling too much. (Int) I have a better deal.  Shepard: We have unfinished business. Shepard: We already made a deal. Talk.Smiley: T'Soni is digging in some Prothean ruins in the Ring of Fire. Eldfell-Ashland calls that place Knossos. This OSD has the coordinates. Take it.
+(Neu) Time to finish you off. (Inv) You're going to jail.  Shepard: Naturally, you still head an interstellar drug cartel. I can't have that.Smiley: You... Kill them! Quick! This wasn't supposed to happen... Shepard: Thank you. We'll hand you over to Harrah. But first, I'll have a chat with Tombiri.Smiley: I only give people what they want. The workers love me. They won't let you.
+(Par) Cooperation is good. (Neu) Not my problem. (Ren) I'm sick of you.  Shepard: I'll let the court know you've helped us. The rest is up to them.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri. Shepard: That's for the court to decide.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri. Shepard: Just shut up already.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri. Shepard: I'm not here to talk about your feelings, but to take what I need.Smiley: Hey! What are you-- Help! Raciloma!
+(Inv) That's all you got? (Neu) Forgive me.  Shepard: You're no hero. I am. Shepard: Sorry. I have to get on with my mission.
+Smiley: Hrng... Go to hell.
+
+(Neu) Your clock is ticking. (Inv) Do the right thing.  Shepard: You will soon pass out. Don't choose death. Shepard: Smiley, tell me where Liara is. We'll take you to the Normandy's medbay.
+Smiley: Hn... Alright. Fine. T'Soni is in the Ring of Fire, in some ruins the EAE calls... Knossos. I have an OSD... with the coordinates.
+
+(Neu) Time to finish you off. (Inv) You're going to jail.  Shepard: Naturally, you still head an interstellar drug cartel. I can't have that.Smiley: You... Kill them! Quick! This wasn't supposed to happen... Shepard: Thank you. We'll hand you over to Harrah. But first, I'll have a chat with Tombiri. Shepard: You're a criminal. If I have to take you out, I won't hesitate to do it.Smiley: T'Soni is digging in some Prothean ruins in the Ring of Fire. Eldfell-Ashland calls that place Knossos. This OSD has the coordinates. Take it.
+(Neu) Time to finish you off. (Inv) You're going to jail.  Shepard: Naturally, you still head an interstellar drug cartel. I can't have that.Smiley: You... Kill them! Quick! This wasn't supposed to happen... Shepard: Thank you. We'll hand you over to Harrah. But first, I'll have a chat with Tombiri.Smiley: I only give people what they want. The workers love me. They won't let you.
+(Par) Cooperation is good. (Neu) Not my problem. (Ren) I'm sick of you.  Shepard: I'll let the court know you've helped us. The rest is up to them.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri. Shepard: That's for the court to decide.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri. Shepard: Just shut up already.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri. Shepard: If you tell me where T'Soni is, I'll take you in. If you don't, I'll kill you.Smiley: T'Soni is digging in some Prothean ruins in the Ring of Fire. Eldfell-Ashland calls that place Knossos. This OSD has the coordinates. Take it.
+(Neu) Time to finish you off. (Inv) You're going to jail.  Shepard: Naturally, you still head an interstellar drug cartel. I can't have that.Smiley: You... Kill them! Quick! This wasn't supposed to happen... Shepard: Thank you. We'll hand you over to Harrah. But first, I'll have a chat with Tombiri.Smiley: I only give people what they want. The workers love me. They won't let you.
+(Par) Cooperation is good. (Neu) Not my problem. (Ren) I'm sick of you.  Shepard: I'll let the court know you've helped us. The rest is up to them.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri. Shepard: That's for the court to decide.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri. Shepard: Just shut up already.Smiley: I-- I want to talk to my lawyer.| Garrus Vakarian: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Kaidan Alenko: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.| Urdnot Wrex: I would have killed him. Speaking of which, let's go "thank" the administrator.| Ashley Williams: We can leave him in Harrah's custody. Then we should talk with Miss Tombiri.
+(End of conversation)
+
+lav20_trig07_sessa_confront[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig07_sessa_confront_de.isb, lav20_trig07_sessa_confront_fr.isb, lav20_trig07_sessa_confront_it.isb
+Characters present:
+
+Commander Shepard
+Sessa Tarrent
+Characters optionally present:
+
+Kaidan Alenko
+Jason Harrah
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+Unnamed mercenary
+
+Sessa Tarrent: Is Smiley dead?
+
+(Par) That's quite a crowd. (Neu) He's dealt with. (Ren) Why the deception?  Shepard: Why all the backup, Miss Tarrent?Sessa Tarrent: I assume that was a rhetorical question. You can't be so dumb. I enjoy working with reliable people. Unfortunately, I have contracts of my own to fulfill. (If Smiley was killed)Shepard: He's dead.Sessa Tarrent: I enjoy working with reliable people. Unfortunately, I have contracts of my own to fulfill.(If Smiley was arrested)Shepard: I arrested him. He's out of the picture.Sessa Tarrent: It's all that matters. We'll take care of him later. I enjoy working with reliable people. Unfortunately, I have contracts of my own to fulfill. Shepard: You lied to me. Tombiri is the chairman of the Union.Sessa Tarrent: I've never claimed otherwise. But she is very grateful for your work. I enjoy working with reliable people. Unfortunately, I have contracts of my own to fulfill.
+| Garrus Vakarian: I don't like this, Commander.
+| Urdnot Wrex: That's a lot of guns.
+| Kaidan Alenko: I don't like this, Commander.
+| Ashley Williams: I don't like this, Commander.
+
+(Par) You betrayed Racil too. (Neu) You're so selfish. (Ren) Go home. (Inv) Why do this?  Shepard: You cared about Raciloma. Why work for someone who ordered you to kill him? Shepard: Even now, you value your reputation more than Raciloma? Shepard: You've killed enough for today, find yourself another client. Shepard: Now that you got what you wanted, we're expendable?Sessa Tarrent: I just kill if I need to. Says so in my contract.(Return to last choice)
+Sessa Tarrent: I don't know what you mean. I get hired to do a job, my feelings are irrelevant. My reputation is all I have.
+| Garrus Vakarian: Working for Tombiri certainly won't improve your reputation.
+| Tali'Zorah: Working for Tombiri certainly won't improve your reputation.
+| Kaidan Alenko: Working for Tombiri certainly won't improve your reputation.
+| Ashley Williams: Working for Tombiri certainly won't improve your reputation.
+
+(Par) Stop this bloodbath. (Neu) Just try me. (Ren) You stand no chance. (Cha) Tombiri's next. Don't bother. (Int) I'll teach you a lesson.  Shepard: Enough people have died today.Sessa Tarrent: Kill them all.(Only if Caleston: Redemption was completed with Harrah alive)Jason Harrah: Enough of this, Sessa! Take your men and go back to the refinery.Sessa Tarrent: Go back to your bottle, Harrah. You might get hurt out here.Jason Harrah: You want to cause trouble here? I hope not. This is a public deck. I'm responsible for people's safety here. If by the count of three, you haven't dispersed... I'll have to use other methods.Sessa Tarrent: I need everyone for a briefing in the refinery. Now.Mercenary: (missing)Sessa Tarrent: Are you questioning my orders?Mercenary: (missing)Sessa Tarrent: You have fifteen minutes. Better get going. Shepard: I'm leaving. Do these men a favor, step aside.Sessa Tarrent: Kill them all.(Only if Caleston: Redemption was completed with Harrah alive)Jason Harrah: Enough of this, Sessa! Take your men and go back to the refinery.Sessa Tarrent: Go back to your bottle, Harrah. You might get hurt out here.Jason Harrah: You want to cause trouble here? I hope not. This is a public deck. I'm responsible for people's safety here. If by the count of three, you haven't dispersed... I'll have to use other methods.Sessa Tarrent: I need everyone for a briefing in the refinery. Now.Mercenary: (missing)Sessa Tarrent: Are you questioning my orders?Mercenary: (missing)Sessa Tarrent: You have fifteen minutes. Better get going. Shepard: We both know I'm going to win. And either way, the Normandy can tear this station to pieces.Sessa Tarrent: Kill them all.(Only if Caleston: Redemption was completed with Harrah alive)Jason Harrah: Enough of this, Sessa! Take your men and go back to the refinery.Sessa Tarrent: Go back to your bottle, Harrah. You might get hurt out here.Jason Harrah: You want to cause trouble here? I hope not. This is a public deck. I'm responsible for people's safety here. If by the count of three, you haven't dispersed... I'll have to use other methods.Sessa Tarrent: I need everyone for a briefing in the refinery. Now.Mercenary: (missing)Sessa Tarrent: Are you questioning my orders?Mercenary: (missing)Sessa Tarrent: You have fifteen minutes. Better get going. Shepard: In a few minutes, Tombiri won't be your client anymore. No point in dying to protect her.Sessa Tarrent: You know what it's like to just follow orders, Commander.| Ashley Williams: I would only follow a suicidal order if it meant saving someone else's life.| Urdnot Wrex: If someone ordered me to kill myself, I'd shoot them in the face.| Garrus Vakarian: A soldier is not a machine. We die for a cause, not because we're ordered to.| Tali'Zorah: You are not a machine. All organics have self-preservation instinct.Sessa Tarrent: I need everyone for a briefing in the refinery. Now.Mercenary: (missing)Sessa Tarrent: Are you questioning my orders?Mercenary: (missing)Sessa Tarrent: You have fifteen minutes. Better get going. Shepard: That's quite a few armed men you have here. Too bad you're the only professional. We'll spray the deck with the blood of those clowns.Sessa Tarrent: You know what it's like to just follow orders, Commander.| Ashley Williams: I would only follow a suicidal order if it meant saving someone else's life.| Urdnot Wrex: If someone ordered me to kill myself, I'd shoot them in the face.| Garrus Vakarian: A soldier is not a machine. We die for a cause, not because we're ordered to.| Tali'Zorah: You are not a machine. All organics have self-preservation instinct.Sessa Tarrent: I need everyone for a briefing in the refinery. Now.Mercenary: (missing)Sessa Tarrent: Are you questioning my orders?Mercenary: (missing)Sessa Tarrent: You have fifteen minutes. Better get going.
+(End of conversation)
+
+lav20_nonyatombiri (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_nonyatombiri_de.isb, lav20_nonyatombiri_fr.isb, lav20_nonyatombiri_it.isb
+Characters present:
+
+Commander Shepard
+Nonya Tombiri
+Characters optionally present:
+
+Ashley Williams
+Urdnot Wrex
+
+Nonya Tombiri: Hey, Shepard. How's the investigation going? Made any progress?
+
+(Par) Start talking. (Neu) You used me. (Ren) I sure have.  Shepard: You have a lot to explain.Nonya Tombiri: How about we start with Dr. T'Soni? I know where she is. But I guess that's the only thing keeping me alive. Here's what I propose. I tell you where she is, and you let me stay in charge here. Leave as if nothing had happened. Shepard: I've done your dirty laundry. Now tell me where Liara is.Nonya Tombiri: If I were a woman of her word, I would. But you know I'm a liar and a crook. Here's what I propose. I tell you where she is, and you let me stay in charge here. Leave as if nothing had happened. Shepard: Shut up.Nonya Tombiri: Hey, hey! I can help you! I know where T'Soni is! Calm down, alright? Here's what I propose. I tell you where she is, and you let me stay in charge here. Leave as if nothing had happened.
+(If Smiley gave Liara's location) (If Smiley didn't give Liara's location) 
+(Par) I already know. (Neu) Too late. (Ren) Oopsie.  Shepard: Smiley told me where Dr. T'Soni is. Shepard: Smiley already told me where she is. Shepard: That's too bad. Smiley already told me where to find her.
+Nonya Tombiri: Fantastic. I have nothing more to offer you. What will you do now, Shepard?
+
+(Neu) I'll leave you alone. (Inv) Your career's over.  Shepard: I've got what I need. You can stay here and run your little world.Nonya Tombiri: I won't get in your way. And even if you don't care... thanks.
+(Neu) Goodbye. (Inv) Investigate  Shepard: I'm going.Nonya Tombiri: Go find that T'Soni, I won't get in your way.
+(Return) (Inv) Knossos  (Return to overarching choice)
+(Inv) Tatiana and Harrah = (Only if the player has progressed sufficiently in Caleston: Redemption)Shepard: You threatened Tatiana, used her to blackmail Harrah so he'd leave you alone.Nonya Tombiri: He's a stand-up guy, I can respect that. But he wanted to interfere with my war against the Cartel. She was his weakness, just as T'Soni is yours.(Return to last choice) Shepard: Where's Knossos?Nonya Tombiri: About a hundred kilometers from here, in the Ring of Fire. The ring is the caldera of a supervolcano, very unstable. There are hundreds of ruins here, but Knossos is the only one that remains mostly intact.
+(P Inv) Hundreds? (R Inv) Who's with her?  Shepard: Why are there so many ruins on a world like this?Nonya Tombiri: No idea. They're all built the same. Large dome structures, like some underwater colony.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice)
+(P Inv) She stayed behind? (R Inv) Who's with her?  Shepard: So why did she stay?Nonya Tombiri: She's interested in Prothean culture. Bunch of liberal crap, if you ask me.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice) Shepard: I'll leave you into Harrah's custody, and notify Eldfell-Ashland that you're under arrest.Nonya Tombiri: Goddamn it...
+(Neu) Goodbye. (Inv) Investigate  Shepard: I don't need anything else. I'll take you to your cell.Nonya Tombiri: Let's get this over with.
+Return (Inv) Tatiana and Harrah (Inv) Knossos  (Return to overarching choice) (Only if the player has progressed sufficiently in Caleston: Redemption)Shepard: You threatened Tatiana, used her to blackmail Harrah so he'd leave you alone.Nonya Tombiri: He's a stand-up guy, I can respect that. But he wanted to interfere with my war against the Cartel. She was his weakness, just as T'Soni is yours. Shepard: Where's Knossos?Nonya Tombiri: About a hundred kilometers from here, in the Ring of Fire. The ring is the caldera of a supervolcano, very unstable. There are hundreds of ruins here, but Knossos is the only one that remains mostly intact.
+(P Inv) Hundreds? (R Inv) Who's with her?  Shepard: Why are there so many ruins on a world like this?Nonya Tombiri: No idea. They're all built the same. Large dome structures, like some underwater colony.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice)
+(P Inv) She stayed behind? (R Inv) Who's with her?  Shepard: So why did she stay?Nonya Tombiri: She's interested in Prothean culture. Bunch of liberal crap, if you ask me.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice)
+(Par) You're going to jail. (Neu) Deal. (Ren) Let's try violence. (Cha) I'm taking you in anyway. (Int) My patience has run out.  Shepard: I'm putting you in Harrah's custody. When we leave, I'll tell the authorities what you've been up to.Nonya Tombiri: You can't force me, Shepard. If I tell the company...(Return to last choice) Shepard: I accept.Nonya Tombiri: Very well. She's in the Prothean ruins the company calls Knossos. This OSD contains the coordinates.
+(Neu) Goodbye. (Inv) Investigate  Shepard: I'm going.Nonya Tombiri: Go find that T'Soni, I won't get in your way.
+Return (Inv) Tatiana and Harrah (Inv) Knossos  (Return to overarching choice) (Only if the player has progressed sufficiently in Caleston: Redemption)Shepard: You threatened Tatiana, used her to blackmail Harrah so he'd leave you alone.Nonya Tombiri: He's a stand-up guy, I can respect that. But he wanted to interfere with my war against the Cartel. She was his weakness, just as T'Soni is yours. Shepard: Where's Knossos?Nonya Tombiri: About a hundred kilometers from here, in the Ring of Fire. The ring is the caldera of a supervolcano, very unstable. There are hundreds of ruins here, but Knossos is the only one that remains mostly intact.
+(P Inv) Hundreds? (R Inv) Who's with her?  Shepard: Why are there so many ruins on a world like this?Nonya Tombiri: No idea. They're all built the same. Large dome structures, like some underwater colony.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice)
+(P Inv) She stayed behind? (R Inv) Who's with her?  Shepard: So why did she stay?Nonya Tombiri: She's interested in Prothean culture. Bunch of liberal crap, if you ask me.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice)
+(Wrex is present) (Ashley is present, but not Wrex) (Neither Ashley nor Wrex is present)  Shepard: Do as you wish, Wrex.Urdnot Wrex: With pleasure. Where's T'Soni? Tell me or I'll rip your head off. Now! Shepard: Chief Williams, reason with Tombiri.Ashley Williams: Awaiting your order, Commander.
+(Par) Stand down. I'll do it. (Neu) She's mine. (Ren) Beat her ass, Chief.  Shepard: Relax, Chief. I'll take care of it. I don't have time to waste playing around. Tell me where she is, now! Shepard: It's my call, I'll do it. I don't have time to waste playing around. Tell me where she is, now! Shepard: Chief Williams, initiate code red on the administrator.Ashley Williams: Aye-aye, Commander. On your feet, soldier! Where is she? Spit it out, dammit! Shepard: Billions of lives are at stake. I don't have time to waste playing around. Tell me where she is, now!
+Nonya Tombiri: Stop! Knossos! (grunting) She's in some Prothean ruins... the company calls Knossos. There's an OSD with the coordinates in my desk drawer.
+
+(Par) Much obliged. (Neu) Bye-bye. (Ren) I'm being merciful.  Shepard: Thanks. We'll be on our way. Shepard: I'm going. Shepard: I could very well kill you for having obstructed my mission. But I won't. Count yourself lucky.
+Nonya Tombiri: Hey, wait a minute! What about me?!
+
+(Par) We'll heal you. (Neu) Go see Oronath. (Ren) I don't care.  Shepard: Our medic will patch you up. Sorry that it came to this. Shepard: You have a medic here, some big blue guy. You can call him. Shepard: You can limp your way out.
+Nonya Tombiri: Bastard... Shepard: I've had enough of your little games. You're going to jail. If you want a shorter sentence, then tell me where she is.Nonya Tombiri: Fine. T'Soni is at the prothean ruins the company calls Knossos. Here's an OSD with the coordinates.
+(Neu) Goodbye. (Inv) Investigate  Shepard: I'm going.Nonya Tombiri: Go find that T'Soni, I won't get in your way.
+Return (Inv) Tatiana and Harrah (Inv) Knossos  (Return to overarching choice) (Only if the player has progressed sufficiently in Caleston: Redemption)Shepard: You threatened Tatiana, used her to blackmail Harrah so he'd leave you alone.Nonya Tombiri: He's a stand-up guy, I can respect that. But he wanted to interfere with my war against the Cartel. She was his weakness, just as T'Soni is yours. Shepard: Where's Knossos?Nonya Tombiri: About a hundred kilometers from here, in the Ring of Fire. The ring is the caldera of a supervolcano, very unstable. There are hundreds of ruins here, but Knossos is the only one that remains mostly intact.
+(P Inv) Hundreds? (R Inv) Who's with her?  Shepard: Why are there so many ruins on a world like this?Nonya Tombiri: No idea. They're all built the same. Large dome structures, like some underwater colony.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice)
+(P Inv) She stayed behind? (R Inv) Who's with her?  Shepard: So why did she stay?Nonya Tombiri: She's interested in Prothean culture. Bunch of liberal crap, if you ask me.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice) Shepard: Finding Dr. T'Soni is a matter of galactic security. Tell me where she is or I'll have to hurt you.Nonya Tombiri: Fine. T'Soni is at the prothean ruins the company calls Knossos. Here's an OSD with the coordinates.
+(Neu) Goodbye. (Inv) Investigate  Shepard: I'm going.Nonya Tombiri: Go find that T'Soni, I won't get in your way.
+Return (Inv) Tatiana and Harrah (Inv) Knossos  (Return to overarching choice) (Only if the player has progressed sufficiently in Caleston: Redemption)Shepard: You threatened Tatiana, used her to blackmail Harrah so he'd leave you alone.Nonya Tombiri: He's a stand-up guy, I can respect that. But he wanted to interfere with my war against the Cartel. She was his weakness, just as T'Soni is yours. Shepard: Where's Knossos?Nonya Tombiri: About a hundred kilometers from here, in the Ring of Fire. The ring is the caldera of a supervolcano, very unstable. There are hundreds of ruins here, but Knossos is the only one that remains mostly intact.
+(P Inv) Hundreds? (R Inv) Who's with her?  Shepard: Why are there so many ruins on a world like this?Nonya Tombiri: No idea. They're all built the same. Large dome structures, like some underwater colony.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice)
+(P Inv) She stayed behind? (R Inv) Who's with her?  Shepard: So why did she stay?Nonya Tombiri: She's interested in Prothean culture. Bunch of liberal crap, if you ask me.(Return to last choice) Shepard: Does Liara work there alone?Nonya Tombiri: I'd think so. The company's paleotechnological branch left the site after they'd taken all the technology they could recover.(Return to last choice)
+(End of conversation)
+
+lav60_trig13_gate[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand. One squadmate voiceline appears to be missing; either Ashley or Tali's.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_trig13_gate_de.isb, lav60_trig13_gate_fr.isb, lav60_trig13_gate_it.isb
+Characters present:
+
+Unnamed controller
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Urdnot Wrex
+
+(If Tombiri was left in charge) (If Tombiri was arrested or killed)  Controller: Normandy rover, this is Throw Down control.  We'll open the security gate for you. Administrator Tombiri sends her regards. Enjoy the ride.| Kaidan Alenko: Regards, my ass.| Urdnot Wrex: She'd rather we don't come back.| Garrus Vakarian: Now she's helping. Controller: Normandy rover, this is Throw Down control.  We'll open the security gate for you. Enjoy the ride.
+lav60_trig01_assassins[]
+Note:  this dialogue is based on the transcription of its English soundbank for the assassin's lines, and the translation of foreign soundbanks in French, Italian and German for Shepard's lines. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_trig01_assassins.isb, lav60_trig01_assassins_de.isb, lav60_trig01_assassins_fr.isb, lav60_trig01_assassins_it.isb
+Characters present:
+
+Commander Shepard
+Unnamed human male assassin
+
+Assassin: That'd be far enough, Commander Shepard.
+
+(Par) Hello. (Neu) Excuse me? (Ren) Scram.  Shepard: Who is this?Assassin: Agent Saren hired us. Not that we like him, it's just a business relationship. We got a contract with your name on it. I'm sorry about that, but I'm the sheriff, not the senator. Shepard: Says who?Assasssin: Says agent Saren. He hired us to look for you. We got a contract with your name on it. I'm sorry about that, but I'm the sheriff, not the senator. Shepard: I don't have time to lose with you.Assassin: We'll see about that. We got a contract with your name on it. I'm sorry about that, but I'm the sheriff, not the senator.
+(Par) Let's talk. (Neu) You'd betray humanity? (Ren) Tough luck. (Inv) Employed by Saren  Shepard: I can offer you a more profitable contract.Assassin: I don't think so. Saren's put a lot of zeroes at the end of your name.
+(Par) We're still talking. (Neu) You'd betray humanity? (Ren) Tough luck.  Shepard: So why are we making conversation?Assassin: Professional courtesy. I don't have anything against Spectres; we do pretty much the same work. Don't get me wrong. I've got people all over this ravine. You try to run, they'll end you. Now let us do this quick and clean. One shot, one kill. If not, I can't guarantee you an open-casket wake. Shepard: Humans, working for the geth?Assassin: Nah, I'm not fond of those clockwork sons of bitches my own self. Don't get me wrong. I've got people all over this ravine. You try to run, they'll end you. Now let us do this quick and clean. One shot, one kill. If not, I can't guarantee you an open-casket wake. Shepard: You should have read the fine prints. I don't intend to die today.Assassin: Yeah, who ever does. Don't get me wrong. I've got people all over this ravine. You try to run, they'll end you. Now let us do this quick and clean. One shot, one kill. If not, I can't guarantee you an open-casket wake. Shepard: Humans, working for the geth?Assassin: Nah, I'm not fond of those clockwork sons of bitches my own self. Don't get me wrong. I've got people all over this ravine. You try to run, they'll end you. Now let us do this quick and clean. One shot, one kill. If not, I can't guarantee you an open-casket wake. Shepard: You should have read the fine prints. I don't intend to die today.Assassin: Yeah, who ever does. Don't get me wrong. I've got people all over this ravine. You try to run, they'll end you. Now let us do this quick and clean. One shot, one kill. If not, I can't guarantee you an open-casket wake. Shepard: Saren has a billion geth and krogan under his command.Assassin: I wondered about that myself. If you have an army, you generally don't order out for one. Krogan and geth attract attention. He wants you found wherever you go. Here, the Citadel, or wherever.(Return to last choice)
+(Par) Too bad. (Neu) You're crazy. (Ren) This is boring.  Shepard: Then I'm going to make you earn your payday.Assassin: Good on you. I'll do the same myself. Let's get to it, boys! Shepard: Only an idiot would willingly get shot.Assassin: That's what I think. No offense intended, just trying to do right by you. Let's get to it, boys! Shepard: Do you plan on using those guns, or are you going to talk me to death?Assassin: Fair enough. Let's get to it, boys!
+(End of conversation)
+
+lav60_trig11_no_vehicle[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German, except for Ashley's line "This place looks like hell" which exists in English. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_trig11_no_vehicle_de.isb, lav60_trig11_no_vehicle_fr.isb, lav60_trig11_no_vehicle_it.isb
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Garrus Vakarian: This place looks like hell.
+| Kaidan Alenko: This place looks like hell.
+| Ashley Williams: This place looks like hell.
+|| Tali'Zorah: Smells like it too.
+|| Ashley Williams: Smells like it too.
+|| Urdnot Wrex: Smells like it too.
+|| Kaidan Alenko: Smells like it too.
+| Urdnot Wrex: Looks like home.
+
+lav60_trig03_base_sentries[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German, except for Wrex's line which exists in English. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_trig03_base_sentries.isb, lav60_trig03_base_sentries_de.isb, lav60_trig03_base_sentries_fr.isb, lav60_trig03_base_sentries_it.isb
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Urdnot Wrex: We should blow their sentry network.
+| Ashley Williams: We should take out the sentries on this side of the base.
+| Garrus Vakarian: There's a sentry perimeter on this side as well. We should take it down.
+| Kaidan Alenko: Before we leave, we should eliminate the sentries on this side of the base.
+| Tali'Zorah: We should disable their security systems before we leave.
+
+lav60_trig04_mining_tunnels[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German, except for Garrus's line which exists in English. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav60_trig04_mining_tunnels.isb, lav60_trig04_mining_tunnels_de.isb, lav60_trig04_mining_tunnels_fr.isb, lav60_trig04_mining_tunnels_it.isb
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Garrus Vakarian: I hear wind. It must go on for a long way.
+| Tali'Zorah: There's a tunnel network beneath the surface.
+| Urdnot Wrex: A tunnel. I can't see the end of it. But at least there are no geth.
+| Kaidan Alenko: A tunnel, Commander. No geth inside, but it looks quite long.
+| Ashley Williams: A tunnel, Commander. No geth inside, but it looks quite long.
+
+lav20_nonyatombiri (3)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_nonyatombiri_de.isb,  lav20_nonyatombiri_it.isb
+Characters present:
+
+Nonya Tombiri
+
+Nonya Tombiri: You've found T'Soni, haven't you?
+
+Nonya Tombiri: I won't stand in the way.
+
+Nonya Tombiri: There's so much to look after.
+
+(Only if Smiley was arrested or killed)
+Nonya Tombiri: Everything is much more calm without the Cartel.
+
+lav20_trig24_wren_admin (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig24_wren_admin_de.isb, lav20_trig24_wren_admin_fr.isb, lav20_trig24_wren_admin_it.isb
+Characters present:
+
+Wren Carson
+Commander Shepard
+
+Wren Carson: Wonderful. As if I didn't have enough problems.
+
+(Neu) Don't test me. (Inv) What a surprise.  Shepard: Do you have a problem? We can clear it up outside.Wren Carson: Cool. I've been promoted. Some suit on Earth decided a technician should fill in for Tombiri. Shepard: What are you doing here?Wren Carson: I've been promoted. Some suit on Earth decided a technician should fill in for Tombiri.
+(Neu) It's an important job. (Inv) She won't be missed.  Shepard: Someone has to do it.Wren Carson: Yeah, but I don't get why I have to do her job. They should have picked someone better suited for a desk job. I have to run a refinery. Shepard: Tombiri had to go, you know that.Wren Carson: Yeah, but I don't get why I have to do her job. They should have picked someone better suited for a desk job. I have to run a refinery.
+(Neu) Need anything? (Inv) Ask to be replaced.  Shepard: Can I help you?Wren Carson: Look, I've got tons of work to do. Leave me to it. Shepard: Can't they send a new administrator?Wren Carson: Yeah, at the next crew rotation. Three months to go. Look, I've got tons of work to do. Leave me to it.
+(End of conversation)
+
+lav20_trig24_wren_admin (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig24_wren_admin_de.isb, lav20_trig24_wren_admin_fr.isb, lav20_trig24_wren_admin_it.isb
+Character present:
+
+Wren Carson
+
+Wren Carson: Sum of column 23 minus 18 times C 14... Why won't it work?
+
+Wren Carson: Why the hell does it keep giving me zero?
+
+Wren Carson: What is this "undefined variable" crap?
+
+Wren Carson: Son of a... Can we get a VI on this?
+
+Wren Carson: What the... Why is there a game in this file?
+
+Wren Carson: I wonder if Jason left some bottles lying around.
+
+lav20_charliebooker (4)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_charliebooker_de.isb, lav20_charliebooker_fr.isb, lav20_charliebooker_it.isb
+Character present:
+
+Charlie Booker
+
+(If Tombiri was killed or arrested)
+Charlie Booker: Erm... Nice day, isn't it? Pretty calm. No problems.
+
+(If Tombiri was left in charge)
+Charlie Booker: Look who's here, the hero of Throw Down. I wish I was the hero of some crappy town too.
+
+lav40_violettarossi (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_violettarossi_de.isb, lav40_violettarossi_fr.isb, lav40_violettarossi_it.isb
+Character present:
+
+Violetta Rossi
+
+(If Smiley was killed or arrested)
+Violetta Rossi: I'm so glad the Cartel was taken down.
+
+Violetta Rossi: Maybe I should have stayed at the university after all.
+
+Violetta Rossi: I can't believe I was part of a drug operation.
+
+(If Smiley was left in charge)
+Violetta Rossi: No one called me names on the way to work this morning.
+
+Violetta Rossi: I don't have time to chat now.
+
+Violetta Rossi: Please be careful in here, okay? This stuff is really expensive.
+
+lav20_nonyatombiri / lav20_sannulamnoss / lav20_trig23_tomb_smile_jail[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_nonyatombiri_de.isb, lav20_nonyatombiri_it.isb, lav20_sannulamnoss_fr.isb, lav20_sannulamnoss_it.isb, lav20_trig23_tomb_smile_jail_de.isb, lav20_trig23_tomb_smile_jail_fr.isb, lav20_trig23_tomb_smile_jail_it.isb
+Characters optionally present:
+
+Sannul "Smiley" Amnoss
+Nonya Tombiri
+
+(If only Smiley is in jail)
+Smiley: I don't have anything to say to you.
+
+Smiley: I've done nothing you wouldn't do.
+
+Smiley: The charges against me won't hold up.
+
+Smiley: I can afford the best lawyers.
+
+(Only if Smiley wasn't hurt)
+Smiley: Can I keep the handcuffs? Would you like to sign them?
+
+(Only if Smiley was hurt)
+Smiley: Oronath is growing new kneecaps for me. Thanks for your concern.
+
+(If only Tombiri is in jail)
+Nonya Tombiri: Proteins and water. Delightful.
+
+Nonya Tombiri: I miss the blue sky. This piss-colored crap is depressing.
+
+Nonya Tombiri: (singing) Nobody knows the trouble I've seen...
+
+Nonya Tombiri: Could I have more ice?
+
+Nonya Tombiri: Can I have access to the extranet? Just receiving would suit me fine.
+
+(If both Smiley and Tombiri were arrested)
+Smiley: This is all your fault.
+Nonya Tombiri: Like hell it is.
+
+Nonya Tombiri: Do you have a blanket?
+Smiley: Yeah.
+Nonya Tombiri: Can I have it?
+Smiley: No.
+Nonya Tombiri: Damn it!
+Smiley: You should try asking me nicely.
+
+Nonya Tombiri: I hope you don't snore.
+Smiley: I hope you wash regularly.
+
+Smiley: If we worked together, we might be able to escape.
+Nonya Tombiri: You've watched too many vids.
+Smiley: I'm telling you we can! I bet one of the bars could be dislodged.
+Nonya Tombiri: They're all forged from the same block.
+Smiley: I could pretend I'm sick.
+Nonya Tombiri: Oronath could diagnose you from across the room.
+Smiley: I could carve some soap and shape it into a gun.
+Nonya Tombiri: If we had any soap, I'd throw it at your head.
+
+Nonya Tombiri: My lawyer will get me out of here.
+Smiley: My lawyer is much better.
+Nonya Tombiri: You'll be lucky if you're tried on the Citadel.
+Smiley: Why?
+Nonya Tombiri: Some nations on Earth still have the death penalty.
+Smiley: How primitive! You people still have nations?
+
+sp_news_vids[]
+Note:  while this report never plays, it should be technically functional. The transcription below is accurate.
+File sources:  Mass Effect/BioGame/CookedPC/Packages/Dialog/STA20/sp_news_vids_D.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/BIOA_STA70_01_PLC_LOC_INT.pcc
+Characters present:
+
+Unnamed male reporter
+
+(If Tombiri was arrested)
+Reporter: Nonya Tombiri has been arrested and removed from her post as administrator of the Caleston mining station. Local officials have not provided details, but Tombiri was allegedly involved with the Caleston Cartel, a group of red sand dealers. Administrator Tombiri's successor has not yet been named.
+
+(If Tombiri was killed or left for dead)
+Reporter: Administrator Nonya Tombiri of the Caleston mining station has vanished and is presumed dead following a violent incident at her offices. Local officials have not provided details, but Tombiri was allegedly involved with the Caleston Cartel, a group of red sand dealers. Administrator Tombiri's successor has not yet been named.
+
+(If Tombiri was left in charge)
+Reporter: Administrator Tombiri of the Caleston mining station reports that the Caleston Cartel has been brought to justice. The Cartel, a powerful group of red sand dealers, has defied authorities for years. EAE, which owns the Caleston mining facility, was reportedly pleased that the Cartel is no longer operating in its station.
+
+sta30_khalisah (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline. The time length of the voiceline gives an approximation of the remaining amount of characters.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\sta30\sta30_khalisah_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_STA30_01_DSG_LOC_INT.pcc
+Characters present:
+
+Khalisah al-Jilani
+Commander Shepard
+
+(First part of the interview goes as usual)
+Khalisah al-Jilani: There are reports that you bro[80 to 120 characters remaining]
+
+(Unknown option 1) (Unknown option 2) (Unknown option 3)  Shepard: Did your sources tell you the [87 characters remaining]Khalisah al-Jilani: I'm familiar with it. It was m[40 to 60 characters remaining] Shepard: The aliens weren't the only cr[66 characters remaining]Khalisah al-Jilani: I'm sure our viewers would be [40 to 60 characters remaining] Shepard: Drug dealers sell poison to wh[30 characters remaining]Khalisah al-Jilani: But when that "whoever" is our[80 to 110 characters remaining]
+(The rest of the conversation proceeds as usual)
+
+
+
+

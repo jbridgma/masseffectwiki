@@ -1,0 +1,105 @@
+
+
+
+On occasion when Legion is in the squad, it will engage in conversations unique to it.  
+
+Contents
+
+1 Unique Dialogue
+2 Talk to Squad Mate
+3 Spontaneous
+4 Secret Dialogue
+
+
+
+
+Unique Dialogue[]
+Throughout Shepard's travels, there are specific points where Legion will voice its opinions.
+
+On the Citadel:
+When talking to the C-Sec Customs Officer about the high level of security, the officer explains the new security protocols against geth infiltration, Legion notes that geth do not infiltrate. The Officer, oblivious to it being an actual geth, then tells Shepard that "personal synthetic assistants" are not allowed on public shuttles, forcing Legion to admit not to infiltrate intentionally. (Which is ironic given that Legion's initial class is Geth Infiltrator.)
+If brought along during Shepard's first visit to the Citadel, Legion will humorously mention that "metal detectors are inconvenient" when the turian C-Sec officer explains that the scanners think Shepard is dead.
+On the Presidium, during the Council meeting when Shepard asks them to investigate Sovereign's superior technology as proof of the Reapers' existence, the Salarian Councilor will state there is no proof that Sovereign was not of geth origin. Legion will retort that the geth do not have that kind of technology. The salarian dismisses this, labelling Legion as Shepard's trophy and saying that its word is suspect, theorizing that the geth that followed Saren may have simply been more advanced.
+On the Presidium, when asking Captain Anderson about the war with the geth, Anderson will remark that Shepard's "trophy-bot" hasn't caused a stampede among the general population because the war with the geth is winding down. If Shepard tries stating that some geth can be reasoned with, Anderson warns that it's best not to get into another fruitless debate with the Council.
+When asking Avina on Level 27 about the Reapers without Tali present, Legion will comment, "Social engineering. The Council blames the geth. Repeat the lie enough, they will not worry about the Reapers."
+In Rodam Expeditions, provided the Council was saved in Mass Effect, using the Renegade option to get a discount prompts the salesman to request a geth's head to make into a desk lamp. Legion notes that functionality is not in the geth's specifications.
+During Tali's recruitment mission:
+When the first geth opponents appear, Legion states that it is resetting its targeting parameters to allow targeting geth.
+Kal'Reegar will notice Legion and inform Shepard that "you've got a geth right behind you." Legion will inform him that it will combat these geth, which Reegar says he will only accept because he can't afford to be picky. Upon finding Tali she will shoot at Legion, unless a paragon interrupt is used, causing Legion to take cover and request assistance against friendly-fire.
+When the Geth Colossus begins firing upon Shepard's team, Legion will state: "Tactical disadvantage. Recommend orbital fire support."
+On the Migrant Fleet during Tali's loyalty mission:
+On boarding the Rayya, Legion will be held at gunpoint by quarian security. Unless Charm or Intimidate is used, Legion will be sent back to the Normandy SR2. (Ironically, Tali is being charged with bringing active geth into the Migrant Fleet; bringing Legion, one would think, would be the equivalent of admitting guilt.) Moreover, at the start of the trial, Zaal'Koris will summon security thinking Tali is trying to scare the admirals by bringing the geth. It also triggers different dialogue with many of the Admirals.
+Daro'Xen will be fascinated by Legion and wish to study it, to which it responds "This platform is not available for experimentation". It also judges Xen's plan to re-enslave the geth as "unsound", to which Tali agrees.
+While talking to Zaal'Koris, Shepard can ask Legion if a peace can be made between the quarians and geth. Legion responds that it will seek peace only when it receives more data that a truce is what the quarians truly seek, as the only other time the quarians believed they held an advantage, they attacked.
+Shepard can tell Han'Gerrel that there are different factions of geth, but Gerrel doesn't care much, simply hoping the geth can kill enough of each other for the quarians to take back the homeworld. It is notable that no one on the Migrant Fleet seems at all surprised that Legion, a solitary geth, can talk.
+If Shepard tells Shala'Raan about the schism between the geth, Raan says that the other admirals don't care about divisions and want to simply exterminate the geth.
+During Samara's recruitment mission:
+Legion can be asked about its opinion on drugs, upon which it compares it to overclocking, which provides short term improvements at the expense of possible long-term damage. Legion notes that while geth can easily repair damage caused by overclocking, organics cannot, leading to it questioning why they would engage in it.
+Before entering the crime scene, just after Detective Anaya said that the Justicar is drawn to an "impossible cause", Legion will reply that "impossible suggests she never succeeds", and she'd be drawn to their cause, because it's just "improbable".
+If Shepard suggests not following the order to arrest the Justicar, Legion will note that they are ordered into deadly situations "an average of 2.73 times daily. Rounded down."
+Legion comments on the drugged Niftu Cal's claim of killing Wasea: "His operating system is unstable. He will fail."
+Should you tell Niftu Cal to leave and take the subsequent Paragon interrupt, as Niftu walks away, Legion will comment by saying "The first thing a god masters is itself."
+During Thane's recruitment mission, upon encountering Telon, in response to Telon's threat Legion will state "We doubt your ability to accurately target." During the same conversation, after Chesith explains the mercenary's fate, Legion will comment "The assassin possesses high accuracy."
+During the Suicide Mission:
+After the fight with the Oculus, when it detonates, Legion may state "It appears to have been terminated. Permanently."
+If Legion is chosen as a Tech Specialist during Collector Base: Infiltration, upon reaching the 6th valve, provided it has not yet been opened, it will contact Shepard saying "Another obstacle impeding progress. I am unable to continue without your assistance, Shepard". This is one of the rare occurences where Legion refers to self in first person and calls the Commander simply "Shepard".
+If Legion was disloyal and was selected as the technician for the first third of the mission, he will take a biotic attack to the face, uttering "Critical Failure" before falling to his untimely demise.
+If Legion is chosen to lead the second diversion squad, it will end up dying after being hit by a Collector attack. Its final words are "Barriers overwhelmed. Auto-saving. Archival upload commencing. No carrier. No carrier. No carrier. No-".
+If Legion is carried away by the seeker swarms, its final words are "Critical error. Error!".
+When the decision is presented to preserve or destroy the Collector base, if Legion is present, it voices an opinion that seems to be in favor of preserving the base. It indicates that the base is "data only" and that destroying it will not bring those who died back, but saving may prevent further deaths. However, if the base is preserved and Legion survives and is spoken to after the Suicide Mission, it becomes apparent that it was simply stating logical observations and is in actuality against using the base. Legion believes that the technology in the Collector base should not be used, for humanity has the potential to create their own future without it.
+If Shepard chooses to destroy the Collector base, Legion calls it an interesting choice, saying humanity was offered everything geth aspire to - unity, understanding and transcendence. Legion adds that Shepard even rejected using the Reapers' technology to achieve victory on humanity's own terms, and comments that the Commander is more like the geth than Legion initially thought.
+During Overlord, when Dr. Archer meets Shepard, if Legion is present, Archer asks Shepard if Legion can be trusted. Shepard replies that Legion cannot be brainwashed by other AI.
+On Tuchanka for Grunt's loyalty mission, when the clan leader tells you about the Rite of Passage, Legion will remark that it is a "maturation ritual."
+During Jack's loyalty mission, Legion will comment that "These﻿ facilities are inadequate." (as opposed to all the other squadmates who balk at the idea of children being kept here.)
+After the Dracon Trade Center is bombed, Legion will report, "Situation chaotic. Decisive action required."
+During Jacob's loyalty mission:
+On reaching the encampment with the female survivors, Legion observes that their behavior resembles that of livestock.
+When the mechs attacking the crew have been defeated, Legion notes that such tactics are "inconsistent with known methods of shipboard discipline."
+After finding the bodies on the ground, Legion will offer his conclusions as to their varying ages based on "biological decay metrics."
+If Ronald Taylor is marooned, Legion will comment about how anger increases the creativity of organics and how it will be interesting to observe what the hunters will do to Ronald Taylor for what he has done.
+During Legion's loyalty mission:
+Sometimes when activating the turrets it will say "assuming control", similar to what Harbinger says when taking over a Collector.
+There is a minor joke in a dialogue with Legion on its loyalty mission. If you choose to rewrite the geth heretics, Legion states that the resulting electromagnetic pulse with a power of "1.21 petawatts" will be deadly to team inside the base.
+If, during the argument between Tali and Legion, you initially side with Tali and then use the Paragon option to make up with Legion, it will state "Our analysis of organic humour suggests an 87.3% chance that you expect us to respond with, "You are only human."
+Talk to Squad Mate[]
+Citadel : Zakera Wards Level 27 behind Avina, Legion will state that the station is not unlike their own — it is inefficient since organic shells require more space. Legion will then begin an extranet search of other hive species in an attempt to understand.
+Illium: At a trade station next to the volus shorting on Prefabs, Legion notes that the Council races find slavery abhorrent, but no one questions the limits placed on EDI.
+Omega: In the lower level of Afterlife, Legion, not understanding the partying habit of organics, will question why anyone would wish to willingly poison themselves with alcohol, damage their ears from the venue's loud music, or contract sexually-transmitted diseases.
+Tuchanka:
+At a pile of rubble near the Chieftain's throne, Legion observes that the krogan chose to bomb their homeworld into its present state, noting that quarians weren't as aggressive on Rannoch and their colonies during the Morning War with the geth.
+If Tali is in the party, she exclaims that her people expected to get their worlds back, not destroy them. The geth approves, as the quarians wouldn't be able to live in the conditions the krogan thrive in.
+If Grunt is in the party, he wouldn't expect the geth, or any alien, to understand; Legion retorts that the destruction of a world is factual, perception does not change that.
+If neither are around, Legion continues, pointing out that other worlds are available yet the krogan continue to live on their ruined planet.
+Urz: Upon initiating dialogue with the varren, after it has been wounded in a pit fight, Legion will remark about how organics treat 'lesser-evolved' beings inconsistently - either as tools, toys, or "younger members of their own species."
+Spontaneous[]
+Sometimes Legion will say something spontaneously, without being prompted.
+
+When deploying its Combat Drone, Legion may say "Automated flight-weapon rigged."
+When using AI Hacking, Legion may say "Hacking hostile system", "Initiating systems hack", "Enemy firewalls compromised". "Executing sudo command" or "Rerouting friend or foe identification."
+When utilizing the Geth Shield Boost, Legion may say "Overclocking kinetic barrier systems", "Shields engaged" or "Emergency shields activated."
+When an enemy Engineer or a Geth Prime spawns a Combat Drone, Legion may refer to the drones as "Skirmish-class enemy platforms."
+When encountering Geth Hunters, Legion may refer to them as "Mobile platforms with optical camouflage."
+When encountering Geth Primes, Legion may refer to them as "Enemy combat platforms."
+When a Krogan is about to charge somebody, Legion may notify "Krogan approaching for close combat" or instead say "Recommend keeping enemies at distance."
+When encountering an enemy with a heavy weapon, Legion will say "Warning! Enemy possesses heavy weapons!"
+When killing an enemy, Legion may say "Target processed", "Target eliminated" or "Threat neutralized."
+When killing an enemy with a Sniper Rifle, Legion may say "Long-range target neutralized" or "Sniper rifle neutralization."
+When finishing an enemy with a headshot, Legion may say "High efficiency shot."
+When Shepard kills an enemy with a headshot, Legion may say "Vulnerable anatomy shot" or "Successful headshot."
+When injured in combat, Legion will mutter "Under fire", "Error", "Malfunction", "Armor penetration" or "Critical systems damage."
+When under friendly fire, Legion will say "Shepard-Commander, you are targetting us!", "Adjust aim, Shepard-Commander" or "Shift fire from friendly forces!"
+Secret Dialogue[]
+Secret dialogue cannot be normally triggered due to the game's plot advancement requirements, and is only accessible by manually editing Legion into the player's party at a point before it would otherwise be obtainable.
+
+On Purgatory, when using the Renegade options to recruit Jack, when Shepard warns Jack she doesn't want to be Shepard's enemy, Legion will note that "There is a high statistical probability of death by gunshot. A punch to the face is also likely."
+Legion may also "recommend subject Jack be disabled and transported aboard as cargo".
+Also on Purgatory, when approaching the guard overseeing the inmate being beaten, Legion will question the efficiency of such tactics, claiming that "The subject will invent fiction it believes the interrogator desires. Data acquired will be invalid."
+Also on Purgatory, when finding the dead guard during the prison riot, Legion will discuss how ineffective Purgatory would be at maintaining order if not for the security systems installed. "The guards are heavily outnumbered without the force multiplier of automated security systems."
+On Omega, if Legion is in the party just before heading into the quarantine zone, he will say "This platform is immune to organic disease."
+If brought on Grunt's recruitment mission, Legion will remark on scaring the first merc you talk to. He will also remark on Rana Thanoptis if she is present.
+If chosen to remain with Garrus during his recruitment mission, Garrus will consider it an "interesting choice".
+Also on Garrus's recruitment mission, when the explosions are triggered by the Blood Pack in the lower levels, Legion will calculate their energy as "5.3 × 10 to the sixth power (5,300,000) joules".
+Legion has similar generic dialogue to other squad members on the Collector Ship and says of the ship's appearance: "Unusual design. Chaotic."
+
+
+

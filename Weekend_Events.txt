@@ -1,0 +1,294 @@
+
+
+
+See also: Weekend Challenges, Challenges, N7 Operations
+In Mass Effect 3's multiplayer mode, BioWare holds special Weekend Events which offer exclusive rewards. These events typically take place during the weekends (currently occurring every other weekend) from 5:00 pm PST on Friday, to 5:00 am PST the following Monday. The reward for participating in an event varies from additional character experience for the event's duration or item packs. For completing the objectives for certain events, individual players can receive a Commendation Pack, and the community can receive a Victory Pack. However, if the community fails to complete a weekend event, they will suffer negative effects during the next event.
+Beginning October 19, 2012, Weekend Events were replaced by Weekend Challenges, which only offer a squad or individual goal without an overall community goal. Weekend Events with community goals will still be held, but less frequently than the Challenges.[1]
+
+Contents
+
+1 Participation
+2 List of Events
+3 Failed Event Consequences
+4 References
+
+
+Participation[]
+Initially, the weekend challenge events were only available on the PC and the Xbox 360 as Sony did not allow such events on the PlayStation 3. Beginning with Operation Exorcist on April 27, 2012, BioWare announced that weekend challenge events would be made available across all three platforms from then on.[2]
+In order to participate in weekend challenges, ensure that the "Upload Gameplay Feedback" is set to "on" in the online options menu.[3]
+
+List of Events[]
+
+
+Operation Name
+
+Event Date
+
+Individual Objective
+
+Community Objective
+
+Result
+
+
+Goliath
+
+March 16 - 18, 2012
+
+Any extraction on Silver difficulty against Reapers
+
+Kill 1,000,000 Brutes
+
+Success3,000,000+ Brutes killed
+
+
+Fortress
+
+March 23 - 26, 2012
+
+No objective, all players receive a 25% Experience Bonus for playing and fewer Brutes appear in matches with Reaper enemies
+
+N/A
+
+N/A
+
+
+Raptor
+
+March 30 - April 1, 2012
+
+Promote two (2) characters into the single-player campaign
+
+Promote 150,000 characters into the single-player campaign
+
+Success350,000+ promotions
+
+
+Beachhead
+
+April 5 - 10, 2012
+
+No objective, all players receive a 25% Experience Bonus for playing
+
+N/A
+
+N/A
+
+
+Resurgence
+
+April 13 - 16, 2012
+
+Download the Resurgence Pack and play a match
+
+N/A
+
+N/A
+
+
+Exorcist
+
+April 27 - 30, 2012
+
+Any extraction on Gold difficulty against any enemy
+
+Kill 1,000,000 Phantoms
+
+Success1,500,000+ Phantoms killed
+
+
+Silencer
+
+May 11 - 14, 2012
+
+Full extraction on Gold difficulty against any enemy
+
+Kill 3,000,000 Banshees
+
+Failure1,900,000+ Banshees killed
+
+
+Shieldwall
+
+May 25 - 27, 2012
+
+Promote three (3) characters into the single-player campaign
+
+Promote 50,000 characters
+
+Success
+
+
+Mastiff
+
+June 8 - 10, 2012
+
+Any extraction on Silver difficulty with one squad member of the Rebellion Pack classes
+
+Complete 100,000 retrieval missions
+
+Success
+
+
+Savage
+
+June 22 - 24, 2012
+
+Any extraction on any difficulty with a squad using only a mix of krogan, vorcha, or batarian classes
+
+Eliminate 7,000,000 trooper-level enemies: Assault Troopers, Husks, Cannibals, Geth Troopers
+
+Success15,000,000+ Killed
+
+
+Broadside
+
+July 13 - 15, 2012
+
+Any extraction on Gold difficulty against Reapers
+
+Fully extract 400,000 squads against Reapers on any difficulty
+
+Failure
+
+
+Overwatch
+
+July 27 - 30, 2012
+
+Any extraction on any difficulty with at least one squad member using a character from the Mass Effect 3: Earth DLC
+
+Extract 800,000 players on any difficulty
+
+Success1.25 Million Extractions
+
+
+Olympus
+
+August 10 - 12, 2012
+
+Full extraction from Firebase London on any difficulty
+
+Complete wave 10 on a total of 200,000 Bronze, 175,000 Silver, and 70,000 Gold missions.
+
+SuccessBronze total: 253,408
+Silver total: 206,386
+Gold total: 89,198
+
+
+
+Alloy
+
+August 24 - 26, 2012
+
+Promote two (2) characters into the single-player campaign
+
+Promote 50,000 characters
+
+SuccessPC: 67,573
+PS3: 28,398
+Xbox 360: 166,778
+TOTAL: 262,749
+
+
+
+Vigilance
+
+September 7 - 9, 2012
+
+Complete up to and including wave 10 on any difficulty without anyone in the squad using a consumable (medi-gel, ammo, Ops pack or Cobra Missile Launcher).
+
+Complete 250,000 escort missions on any difficulty.
+
+Failure231,456 Escort missions successful
+
+
+Patriot
+
+September 21 - 23, 2012
+
+Full extraction on any difficulty with all squad members as the same non-human race. Requires 2 or more players in squad.
+
+Kill 600,000 Atlas Mechs on any map at any difficulty.
+
+SuccessPC: 199,153
+PS3: 82,465
+Xbox 360: 322,410
+TOTAL: 604,028
+
+
+
+Overdrive
+
+October 5 - 7, 2012
+
+Full extraction on any map at any difficulty in 20 minutes or less. Squads can be any size.
+
+Complete 200,000 extraction waves on any difficulty. Squads can be any size. Full extraction not required.
+
+Success213,943 Extractions
+
+
+Privateer
+
+November 23 - 25, 2012
+
+Earn 50,000 points versus any enemy with shields on any map, at any difficulty. Points are cumulative across matches.
+
+Complete 50,000 cumulative total extractions of batarian, vorcha, or turian characters.
+
+Success108,582 Extractions
+
+Failed Event Consequences[]
+If the Allied Goal for a Weekend Event is not met, then the community suffers a penalty condition during the following Weekend Event.
+
+
+
+Operation Failed
+
+Operation Affected
+
+Failed Event Date
+
+Effects of Failure
+
+
+Silencer
+
+Shieldwall
+
+May 11 - 14, 2012
+
+More Banshees will spawn with Reaper faction and can possibly spawn with Geth and Cerberus factions.
+
+
+Broadside
+
+Overwatch
+
+July 13 - 15, 2012
+
+The extraction time on wave 11 has been extended by 30 seconds.
+
+
+Vigilance
+
+Patriot
+
+September 7 - 9, 2012
+
+Escort Drones travel speed reduced.
+
+
+References[]
+
+↑ https://web.archive.org/web/20141029071009/forum.bioware.com/topic/412304-a-quick-note-on-weekend-challenges/
+
+↑ http://blog.bioware.com/2012/04/25/operation-exorcist/
+
+↑ http://blog.bioware.com/2012/04/11/operation-resurgence
+
+
+
+
+

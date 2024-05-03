@@ -1,0 +1,217 @@
+
+
+
+Remnant decryption puzzles are encountered during Pathfinder Ryder's travels in the Heleus Cluster. Puzzles are found on locked Remnant technology on all planets of the Heleus Cluster. The puzzles consist of a grid of Remnant Glyph symbols that must be organized in a specific order to unlock the Remnant technology and corresponding rewards.
+Contents
+
+1 Mechanics
+2 Rewards
+3 Puzzle Solutions
+
+3.1 Elaaden
+3.2 Eos
+3.3 H-047c
+3.4 Havarl
+3.5 Kadara
+3.6 Khi Tasira
+3.7 Voeld
+
+
+4 Trivia
+
+
+Mechanics[]
+When Ryder attempts to interact with locked Remnant technology, an interface will open showing the decryption puzzle.
+
+Puzzles consist of a 4X4 or 5X5 grid of Remnant Glyph symbols. Red symbols are locked in place and blue symbols Ryder can change.
+Glyphs cannot repeat on any horizontal or vertical straight line.
+Glyphs cannot repeat within the boundaries of the interior blue lines of the puzzle grid.
+Each decryption puzzle has a unique fixed solution that does not change.
+Certain puzzles are missing symbols and this will be indicated by ? symbols. Ryder will be required to scan the surrounding area using the scanner for the missing Glyphs. No Research Data (RD) is given for scanning a Glyph.
+Submitting an incorrect solution to the puzzle will immediately summon Remnant forces which Ryder will have to defeat before another attempt to solve the puzzle can be made. Each incorrect solution will summon hostile Remnant defenders.
+In order to accelerate the process of solving a puzzle, Remnant Decryption Keys can be used to bypass the decryption and automatically enter a correct solution for the puzzle. However, these are expensive items that can be sold for a large amount of  and should potentially be saved. Note: While the in-game description of a Remnant Decryption Key says that all consoles can be bypassed, two puzzles can't be bypassed.
+
+Rewards[]
+Depending upon the specific puzzle being decrypted, different rewards are received but center on the following three concepts:
+
+Game Progression - Some puzzles are required to continue the main story or optional side missions and will need to be completed.
+Valuable Loot - A number of the puzzles are for locked containers or open access to areas that contain rare, valuable items.
+Skill Points - Four puzzles award free bonus skill points.
+Completing 20 puzzle solutions in a single playthrough will award the Cryptographer Achievement.
+
+Puzzle Solutions[]
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+Each mission page with a puzzle has section of text describing if additional Glyphs need to be scanned, if the puzzle can't be bypassed, and a link to the "Puzzle Solution" section at the bottom of the page with a picture of the completed puzzle(s). The list of puzzles below is a quick reference of all puzzles and solutions that can be encountered. Refer to each mission for the specifics of the location and any puzzle requirements.
+
+Elaaden[]
+
+
+
+
+
+
+
+
+
+Investigate Remnant Derelict Puzzle ConsoleGame Progression
+
+Taming a DesertNortheastern MonolithGame Progression
+
+Taming a DesertVault ConsoleSkill PointsNo Override
+
+
+
+
+
+
+
+
+
+Task: Cache FlowPuzzle ContainerValuable Loot
+
+Task: Remnant Data CoresPuzzle ContainerValuable Loot
+
+
+Eos[]
+
+
+
+
+
+
+
+A Better BeginningVault ContainerValuable Loot
+
+A Better BeginningWestern MonolithGame Progression
+
+
+
+
+
+
+
+
+
+Task: Data TrailPuzzle ContainerValuable Loot
+
+Task: The Ghost of PromisePuzzle ContainerValuable Loot
+
+
+H-047c[]
+
+
+
+
+
+The Remnant TillerVault ConsoleGame Progression
+
+
+Havarl[]
+
+
+
+
+
+
+
+
+
+A Dying PlanetVault ConsoleSkill Points
+
+Fusion Mod Of AdrenalinePuzzle ConsoleValuable Loot
+
+Helping Havarl's ScientistsPuzzle ConsoleGame Progression
+
+
+Kadara[]
+
+
+
+
+
+
+
+Healing Kadara's HeartEastern MonolithGame Progression
+
+Healing Kadara's HeartVault ConsoleSkill Points
+
+
+Khi Tasira[]
+
+
+
+
+
+The Journey to MeridianPuzzle DoorGame ProgressionNo Override
+
+
+Voeld[]
+
+
+
+
+
+
+
+
+
+Peebee: Secret ProjectRemnant RelicValuable Loot
+
+Restoring a WorldNorthern MonolithGame Progression
+
+Restoring a WorldSouthern MonolithGame Progression
+
+
+
+
+
+
+
+
+
+
+
+Restoring a WorldSouthwestern MonolithGame Progression
+
+Restoring a WorldVault ConsoleSkill Points
+
+SubjugationPuzzle ContainerValuable Loot
+
+
+Trivia[]
+Remnant Puzzles may be compared to the game of Sudoku played with symbols instead of numbers. As such, they are susceptible to the same solving algorithms.
+
+
+
+
+Mass Effect: Andromeda Guides
+
+
+
+
+Completion
+
+Walkthrough • Dialogue • Inventory • Experience • Remnant Decryption Puzzles • Hang Time Achievement Guide • Codex Entry Guide (Mass Effect: Andromeda)
+
+
+Profiles
+
+Soldier • Engineer • Adept • Sentinel • Vanguard • Infiltrator • Explorer
+
+
+Other
+
+Squad Members • Merchants • Skills • Research • Development • Narrative Actions
+
+
+
+

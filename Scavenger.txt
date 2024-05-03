@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+Scavenger
+
+
+
+
+Race
+Human,  Turian
+
+
+Type
+Organic
+
+
+Armament
+Assault Rifles, Pistols, Sniper Rifles
+
+
+Abilities
+ Immunity Assassination Carnage
+
+
+Health
+Moderate
+
+
+Shields
+Very Low
+
+
+Locations
+Trebin
+
+
+Scavengers are enemies encountered on the planet Trebin in the Hades Gamma Cluster. There are five of them: two humans armed with sniper rifles, two turians with assault rifles, and one human with a pistol. They stand near a crashed probe in the northwest corner of the map, with an M29 Grizzly parked nearby. It is implied that they've set up the transmitter responsible for crashing the research satellites.
+
+Tactics[]
+They have low shielding, but as with all Mass Effect enemies, it will regenerate over time. Their health regenerates as well, and they can use Immunity for further protection.
+Their surroundings provide no cover, whereas the player can easily step back behind the dunes to avoid fire.
+The snipers' Assassination is devastating at higher difficulties, often killing Shepard outright and doing considerable damage to the Mako. It will always be signalled by the targeting laser beam, so make sure to dive behind the dunes or the Grizzly when you see it.
+Scavengers with assault rifles can also use Carnage, even though the ability is usually limited to shotguns. It does great damage, but travels slowly and is thus easier to avoid than Assassination.
+Sabotage is extremely helpful against these enemies, preventing them from firing or using the aforementioned abilities.
+Lift and Stasis are noteworthy ways to disable snipers.
+Accuracy-reducing or cooldown-increasing ammunition is also useful, while Warp and Incendiary or Chemical Rounds provide a good counter to health regeneration.
+Simply firing the Mako's main cannon at the Scavengers will eliminate them with ease. Follow up with the secondary weapon to mop up any survivors.
+If you do intend on fighting these enemies on foot, use Immunity if you have it and focus on one member individually, overwhelming them with sheer firepower, before moving onto the next opponent.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

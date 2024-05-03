@@ -1,0 +1,209 @@
+
+
+
+See also: Sentinel Guide, Sentinel Guide (Mass Effect 2)
+
+Sentinels are unique, bringing both tech and biotic abilities to the battlefield. In addition to complete weapons training, Sentinels are equipped with an advanced shield that makes taking cover much less necessary and rushing their enemies much more productive. This armor system can also be detonated to blast nearby enemies.
+
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Tech Armor
+2.1.2 Throw
+2.1.3 Warp
+2.1.4 Cryo Blast
+2.1.5 Overload
+2.1.6 Lift Grenade
+2.1.7 Fitness
+2.1.8 Offensive Mastery
+
+
+2.2 Bonus Powers
+
+2.2.1 Defense Matrix
+2.2.2 Marksman
+2.2.3 Stasis
+2.2.4 Reave
+2.2.5 Armor-Piercing Ammo
+2.2.6 Barrier
+2.2.7 Inferno Grenade
+2.2.8 Carnage
+2.2.9 Warp Ammo
+2.2.10 Fortification
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Assault Rifles
+3.2 Heavy Pistols
+3.3 Shotguns
+3.4 Sniper Rifles
+3.5 Submachine Guns
+
+
+4 Combat Guide
+5 Squad Members
+
+
+
+Overview[]
+Tech Armor, the Sentinel's unique power, has changed significantly from Mass Effect 2 to Mass Effect 3. Likewise the Sentinel itself plays quite differently.
+Tech Armor will no longer automatically detonate after your shields go down, but must be detonated manually instead. Furthermore, Tech Armor imposes a significant cooldown penalty on your other powers while active. In combination with the Weight Capacity system, all of this results in the Sentinel having two basic build options: one that focuses on weapons, supplementing their defense with Tech Armor, and one that focuses on powers, trading durability for versatility.
+If you plan to tank it up with Tech Armor, focus on Fitness as well to make yourself as hard to kill as possible, ignore weight restrictions, and gun everyone down. Even compared to the Soldier this is low-maintenance as you don't need to spam Adrenaline Rush. Due to limits on power points, this build works best with a fresh Mass Effect 3 character rather than one imported from a previous game, or one who has free run of the Normandy and can reset their powers.
+The second way returns to the original Mass Effect  playstyle: eschewing Tech Armor for emphasis on your other powers. You can easily stun and kill light enemies with a maxed-out Overload, or by chaining Warp and Throw. The core of this build is versatility: the Sentinel can stand back and use Overload, Warp and (now) a sniper rifle to ruin shields, armor and health in rapid succession. You can single-handedly execute a Biotic Explosion by combining Warp and Throw -- each of which can also detonate Overload for a Tech Burst, and Cryo Blast for a Cryo Explosion. Additionally, a Tech Burst followed by a Biotic Explosion can be performed in only three attacks by chaining Overload, Warp, and Throw. The Sentinel is the only class capable of achieving this without bonus powers or assistance from squadmates.
+
+Powers[]
+Class Powers[]
+Tech Armor[]
+Main article: Tech Armor
+As stated above, Tech Armor no longer detonates automatically. This allows for players to play more defensively with heavier armor choices, or more offensively by increasing the knock-back and damage. The big disadvantage to Tech Armor is that when it is active, powers recharge a lot slower; use light weapon load-outs and other advanced powers to counter. If Power Recharge is chosen at rank 6, research upgrades alone can completely negate the penalty. Combining the Power Recharge and Damage evolutions at ranks 5 and 6 respectively can significantly increase the character's DPS when combined with a light weapon load. Combining the Melee and Durability evolutions creates one of the most durable melee builds.
+
+Throw[]
+Main article: Throw
+Throw is best used as an offensive knock-back tool to dislodge enemies from cover and for detonating biotic source powers like Warp. The Recharge Combo evolution at rank 5 is very useful for Sentinels, as it mitigates the cooldown penalty from Tech Armor. This is doubly true for Sentinels equipped with a heavier loadout. With this evolution and a biotic squadmate, Throw becomes a power that can be used liberally. Choosing the Detonate evolution instead is one half of the strongest biotic detonation available in single-player mode. Though each of the rank 5 evolutions only apply to Biotic Explosions, Throw can be used to detonate all types of Power Combos.
+
+Warp[]
+Main article: Warp
+Warp in Mass Effect 3 does not remove barriers like in Mass Effect 2, though it is still potent against armor and can be detonated by Throw to create a Biotic Explosion. Like Throw, Warp is also a detonator power for any type of Power Combo.
+Warp is at the center of the Sentinel's unique ability to chain Power Combos (without bonus powers or assistance from squadmates) due to its ability to detonate a Tech Burst and prime a Biotic Explosion in a single use: casting Overload, Warp, and Throw in succession will devastate shielded enemies even on Insanity. The entire combo is further enhanced if the Expose evolution is chosen for Warp and the Detonate evolution is chosen for both biotic powers.
+The Pierce evolution at rank 6 greatly increases the amount of damage targets take, for a maximum of 16 seconds with the rank 5 Lasting Damage evolution. This makes it a great tool against tougher enemies such as Atlases and Brutes: Warp them and then focus-fire.
+
+Cryo Blast[]
+Main article: Cryo Blast
+Cryo Blast is a nice tool in that it slows enemies and might even freeze the target. That said, consider only upgrading it to Tier 2. You may find the Sentinel's other powers are a lot more useful.
+If Cryo Blast is leveled up, it can be valuable for slowing tougher enemies to give the player more breathing room, or weakening the target to take it down more quickly with gunfire.
+All of the Sentinel's other innate powers can be used to detonate a cryo explosion.
+
+Overload[]
+Main article: Overload
+Overload has gained a few nice abilities since Mass Effect 2. For starters, it is now the main tool for taking down barriers and shields. Upgraded it gains the ability to jump from multiple enemies, making it a great crowd control weapon, and in some circumstances a means of detonating up to three cryo explosions simultaneously. 
+It also can create a Tech Burst when the same enemy is hit by a Warp, Throw, or a Lift Grenade.
+
+Lift Grenade[]
+Main article: Lift Grenade
+Lift grenades for players transferring from Mass Effect 2 will be relativity useless as Throw can be used an unlimited number of times and can be useful for dislodging enemies. Upgrade to Tier 2 for the 4th grenade and use the points for other powers.  This is also not a great upgrade for long-range power-users, since grenades are less dependable than the Sentinel's other target-seeking abilities.
+Alternatively, the upgraded grenade can do a significant amount of damage over a large radius, making it a useful offensive power in its own right.
+
+Fitness[]
+Main article: Fitness (Sentinel)
+Other than the usual improvement in shield, health and melee damage, the Sentinel's Fitness ability is capable of increasing squadmate health and shield by 30% in its 5th upgrade, making them significantly more durable.
+
+Offensive Mastery[]
+Main article: Offensive Mastery
+Being a passive power, it focuses mainly on increasing power and weapon damage, but, for Caster-style Sentinels, it also offers valuable weight capacity bonuses. Offensive Mastery is unique among passive class powers due to containing an evolution that cancels recharge times 15% of the time. While it doesn't happen very often, it can be a huge boon when it does.
+
+Bonus Powers[]
+Defense Matrix[]
+Main article: Defense Matrix
+Coupling a defense-specialized Tech Armor with Defense Matrix is a smart way to survive the more difficult encounters in the game - it is effectively a second, slightly weaker Tech Armour that stacks. However, Defense Matrix gives you the option of detonating it to restore a portion of your shields, further increasing your survivability. For Sentinels who prefer to Tank and don't care about cooldowns, this is possibly the best choice.
+Even if you want to play as a power-focused Sentinel, Defense Matrix can still be useful, replacing Tech Armor entirely: it has a near identical cooldown penalty (which can be reduced to merely 30% at rank 6) and, like the Barrier from Mass Effect 1 and the Tech Armor from Mass Effect 2, it can restore your shields instantly in the heat of the combat. If you are used to this feature from the previous games, this power is a great choice. It should be noted that the power damage evolution of Defense Matrix will only improve the Sentinel's Overload.
+
+Marksman[]
+Main article: Marksman
+Additional offense is even more wide open since the Sentinel has so much of it to begin with. Marksman is a poor man's Adrenaline Rush, providing increased accuracy but not the "bullet time" slowdown. However, it is much more suited for automatic weapons, such as SMGs and assault rifles. With a weapon such as the Revenant, this is a reasonable choice for a Tank-style Sentinel, as you will only have to use the power against strong foes - heavy weapons can be used as you will not be concerned with cooldowns.
+
+Stasis[]
+Main article: Stasis
+The one biotic power that the Sentinel lacks is a means of debilitating a target, such as the Adept's Singularity or the Vanguard's Pull. Stasis fills that gap, and gives you another option for generating biotic explosions with Throw or Warp. With the Bubble evolution at rank 6, Stasis becomes effective even on enemies protected by shields or barriers, and can be used to set up traps at bottlenecks.
+
+Reave[]
+Main article: Reave
+This Biotic power works really well as a bonus protection without hindering cooldown, with the right evolutions, the Sentinel can have as much as 75% damage reduction, while still using powers frequently, the only real drawbacks are that it has to be an organic target, and that it only lasts for a small period of time. When used with rank 6 of Fitness and Tech Armor, this is even more formidable, but can seriously compromise cooldowns.
+
+Armor-Piercing Ammo[]
+Main article: Armor-Piercing Ammo
+With a protective power, a good grenade power, and enough offensive powers to deal with any protective layers and set-up/detonate 3-out-of-4 power combos, Sentinels have it all... except for an ammo power. Armor-Piercing Ammo gives a passive bonus to all weapon damage against health and armor, and all enemies have health or armor. It deals extra damage to all the enemies that are hardest to kill, and makes armor-piercing weapon upgrades unnecessary, thus freeing up a slot for scopes, smart chokes, melee mods, or ammo upgrades. Especially on Insanity, or against armor-plated enemies in general, it makes a huge difference.
+
+Barrier[]
+Main article: Barrier
+Further adding to a Sentinel's damage protection, Barrier envelops the player in a biotic barrier (hence the name) and can be detonated to damage enemies and send them flying. The bonus to this is that it can both set up and detonate biotic explosions, giving a Sentinel even more close range flexibility. Plus, with Barrier and Tech Armor active, a max of 70% damage negation is possible, making the Sentinel an unstoppable force. It also can be chained with Tech Armor detonations, giving the Sentinel a needed edge in close combat.
+
+Inferno Grenade[]
+Main article: Inferno Grenade
+While the Sentinel already possesses a grenade power, Inferno Grenade provides several advantages that their existing powers do not: a means to prime Fire Explosions (the only kind of power combo that a Sentinel cannot set up) and a grenade that inflicts heavy damage to armor (whereas Lift Grenades are most powerful against barriers). Inferno Grenades deal more damage than Lift Grenades while Lift Grenades inflict instant damage; an Inferno Grenade followed by a Lift Grenade will inflict massive damage and potentially set off a Fire Explosion. The capacity evolutions of both grenade powers stack, allowing a total of nine grenades between Lift and Inferno Grenades if all capacity evolutions are chosen.
+
+Carnage[]
+Main article: Carnage
+Like Inferno Grenade, Carnage also provides Sentinels with another method of priming a Fire Explosion. It does decent damage to both armor and health, and it can also stun weaker enemies; however Carnage comes with a catch: It is only worth taking on recharge heavy builds. The benefit of choosing Carnage over Inferno Grenade is that you can add yet another primer and detonator to your already potent arsenal, and one that doesn't require grenades to use. The downside is that the detonation window of Carnage's primer is extremely short (possibly less than a second), and because of the global cooldown it must be used at a distance to allow Carnage's shot to travel. For similar reasons, you must also follow it up with an instant-hit ability like Overload or a Squadmate's power.
+
+Warp Ammo[]
+Main article: Warp Ammo
+An alternative to Armor-Piercing Ammo for players more concerned with damage than piercing cover and plating. Warp Ammo provides a significantly higher damage bonus to both health and armor compared to Armor-Piercing Ammo, with the added bonus of a high damage bonus to barriers. The big selling point to Warp Ammo is the damage bonus to targets that have been primed for a biotic explosion (i.e. "lifted"), resulting in amazing synergy with the Sentinel's existing powers. Even if health/armor damage is focused on over damage to lifted targets when evolving Warp Ammo, using Warp on an enemy, unloading a clip into it, and optionally finishing with a Throw before Warp's duration runs out is one of the most damaging power combinations in the game.
+
+Fortification[]
+Main article: Fortification
+If you want to have a build all about soaking up as much damage as possible, you may find this power to your liking: with all durability evolutions, you can have damage reduction at a whopping 90%, allowing you to absorb a ton of shots before getting back into cover. You can also increase the rate at which your shields recharge by 15%, meaning less time in cover between shots. The one major downside is that it will increase your cooldown time by about 100%, meaning you should instead look towards weapons as your primary damage dealer.
+An alternative would be to take the power damage and recharge evolutions. With all durability- and power-oriented evolutions for both Tech Armor and Fortification, the recharge speed penalty will be 40%, but the power damage bonus will be 60% and the damage reduction 70%.
+
+Weapons and Equipment[]
+Assault Rifles[]
+Main article: Assault Rifles
+Assault Rifles are powerful and versatile weapons that can either be the primary (or even sole) weapon of many Sentinels. Depending on the player's personal preferences, there is argument to choose literally every Assault Rifle available - from the humble M-8 Avenger to the withering N7 Typhoon. The key to picking the right Assault Rifle for your Sentinel will be in finding the balance you want to strike, and the role you expect to play in combat. Sentinels using a lighter load can get much mileage out of the M-96 Mattock as their primary weapon. It is relatively light and is useful in nearly every situation you can expect to need a firearm. Sentinels using a bit heavier load may want to look at the M-76 Revenant. Though less flexible in general, a Sentinel can repel every form of infantry and most heavy units with this weapon alone. Among the best choices is the new M-7 Lancer rifle. It provides strong damage, flexibility, good customization options - all with low cooldowns. While new, it is possibly the premier assault rifle for the Sentinel. The Geth Pulse Rifle is also very light and offers better accuracy at long range, compensing its lower damage by shot by a higher rate of fire.
+
+Heavy Pistols[]
+Main article: Heavy Pistols
+Heavy Pistols are lightweight, reliable, and  effective at dispatching enemies at any range, and with DLC providing the Pistol Power Magnifier, they can be used to boost the Sentinel's tech and biotic attacks. Regardless of playstyle, there's a heavy pistol for your Sentinel. From the lightweight, accurate M-3 Predator for a powers-based build, to the any number of powerhouse pistols such as the M-6 Carnifex, M-77 Paladin, or M-358 Talon for weapons-centric builds, a heavy pistol can make for a decent sidearm (or main gun) for any Sentinel. As a sidearm, one choice not to be overlooked is the Acolyte. While not versatile enough in its own right to be considered a primary weapon, this can trivialize enemies with thick shielding or barriers (such as Atlas Mechs or Geth Primes), and a fully-upgraded Acolyte can usually remove a Phantom in two rounds on most difficulties. A Scorpion can serve well in dealing large amounts of AOE damage, and also as crowd control. It stuns enemies and causes knock-back, giving you room and time to use more powers.
+
+Shotguns[]
+Main article: Shotguns
+For those wanting to tank it up with Tech Armor, shotguns are a very powerful tool to add to your arsenal. The close quarters stopping power combined with Tech Armor's damage negation gives the Sentinel an edge in close combat. As for which shotgun to use... that is all up to personal preference. Those wanting to still use a power or two could use a lighter shotgun such as the Disciple, M-22 Eviscerator, M-11 Wraith, or M-27 Scimitar. For those simply tanking it up and not worried about powers the M-300 Claymore is excellent at destroying anything in your way, as is the N7 Piranha. Yet another option for a heavily-armed Sentinel would be to employ the Venom Shotgun as a "heavy killer." This weapon is particularly devastating against Brutes, Banshees, Geth Primes, and other large, armored enemies. Keeping it on the side for these enemy types can entirely trivialize the difficulty of these encounters. The downside of this strategy is that it does require a commitment to a heavy loadout. Even with a Shotgun Spare Thermal Clip mod, this will not be accurate or efficient enough to use as a primary weapon.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Sniper Rifles may be difficult to justify for any power-focused Sentinel. They do not gain as much weapon damage from their respective class passive (Offensive Mastery) as other classes do, and so Sniper Rifles will deal less damage in the hands of a Sentinel than they would in that of almost any other class. That aside, many Sniper Rifles do not need a specifically tuned class to deal a tremendous amount of damage. To that end, a heavily-armed Sentinel can definitely benefit from the firepower a Black Widow or Javelin would provide. If you are already considering a heavy loadout, it will be worth your time to employ one of these. A Sentinel looking for a long-range solution without sacrifying cooldowns should consider the M-13 Raptor, which is basically an assault rifle with more accuracy and low weight. Coupled with Warp and Warp Ammo, it allows to take out hardened targets at long range with devastating speed.
+
+Submachine Guns[]
+Main article: Submachine Guns
+A 'bread and butter' gun of the Sentinel, sub-machine guns give a Sentinel an edge in any situation, from power-saving builds to Tech Armor tanks. All are lightweight, do decent damage, and have an almost unrivaled ammunition capacity, and with the SMG Power Magnifier available via DLC they can be used to augment the Sentinel's tech and biotic abilities. Add in the Ultra-light Materials modification, and they weigh almost nothing, and as such, have seemingly no downsides, regardless of build. As with shotguns, specific weapon use is up to the player - there are no immediately superior choices, though special consideration should be given to the M-9 Tempest, M-25 Hornet, N7 Hurricane, and even the humble M-4 Shuriken.
+
+Combat Guide[]
+See also: Combat (Mass Effect 3)
+As a Sentinel, you are very versatile and can adapt to any situation. You can load up an assault load-out one mission, a CQC load-out the next, then a marksman load-out the mission after.
+The main deciding factor is how you load up your Tech Armor. A focus on defense can make you a walking tank and act as a support class, working in the back and managing your squad-mates. Choosing a more offensive Tech Armor will allow you to play as a more aggressive class, with your squadmates supporting you.
+Or you could forgo Tech Armor entirely and focus on your other powers, between Warp and Overload, you have a very effective way to deal with all types of protections.  This effectively makes you an Engineer/Adept hybrid; this caster-style approach isn't as durable due to the lack of Tech Armor, but the number of power combos you can create make up for it.
+And while either options (defensive tank or offensive caster) are effective and viable, a middle-of-the-road approach (fitting given that the Sentinel is a jack-of-all-trades class) involves keeping your recharge speed as close to 200% as possible.  Given that the recharge speed boost/penalties are based on percentages rather than raw numbers, Tech Armor's recharge penalty isn't too extreme.  You can simply activate it at the start of a mission and just leave it on as added defense.  Spec Tech Armor for maximum damage reduction (50%) and power damage (25%) and you've made yourself harder to kill and your powers more lethal.  Make sure to give yourself the weight capacity bonuses, for a total of 70% (on par with Vanguards and Infiltrators) and maximize power damage and force bonuses.
+This build makes your powers stronger without long cool-down times while retaining the defensive bonuses from Tech Armor.  The only major downside to this is it requires a 200% recharge speed, so heavier weapons are not viable options.  The two best bonus powers are Fortification or Warp Ammo.  Fortification also has a power damage option at rank 5 and, when combined with damage protection options at ranks 4 and 6, create a 90% damage reduction in tandem with Tech Armor.  Warp Ammo has great synergy with Warp and can make even lightweight weapons deal heavy damage.
+The typical weapon loadout for a Sentinel would be an Assault Rifle and a Pistol. For stronger power recharge using a SMG instead of a Assault Rifle. For a stronger weapon load-out, replace the Pistol with a Shotgun or the Talon.
+Using an upgraded Mattock or a Raptor will make the Sentinel more of a marksman while keeping the power cool-down tolerable. Adding close range weapons like an SMG or a light shotgun, like the Disciple or the Talon Pistol, will make the Sentinel an all around combat class without too much additional cooldown penalty.
+Using a high rate of fire weapon like the Revenant or the Geth Pulse Rifle and an extremely light weapon like a SMG with lightweight materials mod will turn the Sentinel into a squad-support class. Taking the Armor Piercing perk will allow you to take down any enemy with sustained fire.
+The extreme combat build invests in Tech Armor, Lift Grenade, defensive bonus powers (like Barrier or Defense Matrix), health and shield bonuses from Fitness (Sentinel), and takes advantage of Throw's ability to not have a cooldown when used in Biotic Explosions. With this build, you are free to load up as many weapons as you like, ignoring cooldowns almost entirely besides the odd tech armor explosion or other protective power's cooldowns. The cost is ignoring other powers the class has to offer. The benefit is that you can carry a weapon for literally any situation you come across, negating the need for powers almost entirely. Players using a build like this should consider equipping themselves with only the best. Typically, this means a M-76 Revenant, N7 Typhoon, or M-99 Saber as the primary weapon, a heavy Sniper Rifle (such as the M-98 Widow or Javelin), a Shotgun (such as the M-300 Claymore, N7 Piranha, or Venom Shotgun), and an appropriate Heavy Pistol as well as even an SMG. Also consider party members - such as Liara T'Soni or Garrus Vakarian - that can provide ammo powers that the player might not otherwise be able to obtain.
+Finally, if you have the Mass Effect 3: From Ashes DLC and its Particle Rifle, all calculations go out the window.  The Particle Rifle is an extremely versatile weapon; basically any class can use it as their sole weapon. With nerves of steel and the right point investments, you could potentially build a Sentinel around the Particle Rifle who can switch between play styles at a moment's notice, charging in under Tech Armor and then retreating when necessary or if hardened enemies show up.
+
+Squad Members[]
+Main article: Squad Members Guide (Mass Effect 3)
+The Sentinel is a very versatile class that can combine well with a lot of squadmates. Bringing Liara T'Soni, Kaidan Alenko or Javik will allow you to set up powerful biotic detonations. in particular, the warp/reave detonation combo can deal heavy damage to tough, armored enemies such as the Atlas Mech, Banshee, and Brute. Bringing EDI allows you to set up powerful tech explosions with Overload and Incinerate. Even on Hardcore and Insanity, a fully evolved Overload and Incinerate will very quickly destroy shielded enemies such as the Centurion, Marauder, and deal heavy damage to Phantoms. Tali can provide a Tech Burst option with Energy Drain  (followed by Overload from Shepard), and render enemies vulnerable to tech and weapon damage with Sabotage.
+Bringing Ashley Williams, James Vega, or Garrus Vakarian allows you to have a powerful combatant on your team and gives you access to their grenades and ammo powers.
+
+
+
+
+
+Mass Effect 3 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Search and Rescue • Equipment and Items
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • Power Combos • PC Tweaks • Interrupts • Merchants • The One and Only
+
+
+
+

@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+This article is about information and tactics for fighting Kai Leng. For the page about him in general, see Kai Leng.
+
+Kai Leng is an assassin working for the human-survivalist organization Cerberus. Leng was formerly a lieutenant and N7 marine in the Systems Alliance known for having anti-alien attitudes. He is described as being Earth-born with features that show his dominant Chinese heritage.
+
+Mass Effect 3[]
+
+
+
+
+
+
+
+Kai Leng
+
+
+
+
+Faction
+Cerberus
+
+
+Type
+Organic
+
+
+Armament
+Monomolecular BladePalm Blaster
+
+
+Abilities
+ Shield Boost Electric Slash Impale
+
+
+Health
+Moderate
+
+
+Shields
+Very High
+
+
+Locations
+Thessia, Cronos Station
+
+
+Kai Leng is amongst the forces that Cerberus sends against Commander Shepard. Like Cerberus Phantoms, he is equipped with a palm-sized weapon in his right gauntlet that projects a kinetic barrier and fires kinetic-based projectiles, a tactical cloak and a monomolecular blade for close-range combat. 
+
+Capabilities[]
+Offensive
+Kai Leng is equipped with a palm blaster and a sword that is capable of Electric Slash, which fires a seeking projectile that is quite difficult to dodge, even at range. He uses occasional heavy-melee attacks if you allow him to get close. These attacks can kill you instantly unless you block them by tapping the melee key/button. It is easy to tell when he is about to perform his heavy-melee maneuver; Shepard will automatically be pulled in his direction before a hint stating to press the melee key/button rapidly comes up.
+When encountered on Thessia Kai Leng will recharge his shields under the cover of his gunship.
+When encountered on Cronos Station Leng will punch new holes in the floor and summon additional enemies, but does not attempt to close with Shepard as aggressively.
+Defensive
+Leng stops to regenerate his shields several times during each combat, making it difficult to damage him significantly all in one go. You will need to knock his shield down several times in order to defeat him.
+Leng becomes temporarily immune to damage during his shield regeneration process. When encountered on Thessia he's supported by a gunship during his recharge; at Cerberus HQ, Leng recharges while he punches new holes in the floor and summons additional enemies.
+Leng is immune to most crowd control abilities, although he can be slowed by Cryo powers. If he's frozen while recharging his shields the time he spends recharging will be significantly longer, this has both pro & cons: while he's out of the fight for longer, he is also immune to damage during this time. At Cerberus HQ this can be used to your advantage, allowing more time to eliminate his minions unopposed.
+When deciding whether to engage or avoid Leng, note that he becomes invincible at four blocks of shielding (where his recharge cycle brings him back up to full strength) - when this is reduced to one block he'll go back into a recharge cycle, bringing him back up to four blocks. After this, he loses his invincibility permanently.
+Tactics[]
+Unless you're a close-range specialist, it's better to keep Kai Leng at a safe distance. Vanguards naturally work best against Leng in this range. Charge and Nova, repeated over and over, will knock his shields out eventually, if running the risk of being pulled in for an instant kill sequence is worth it.
+Leng tends to yell right before attacking with the heavy-melee maneuver. The sequence will also drain a very tiny bit of Shepard's shielding or barriers as it drags on, and allows enemies to fire without retaliation for a few seconds. Shepard can, however, still order teammates to use powers on Leng while in the middle of the sequence, presenting an opportunity to damage him significantly while the two are dueling.
+Lash with the shield piercing evolution will allow you to throw Kai Leng around like a toy.
+On Thessia, you only need to deplete Kai Leng's shields, while on Cronos Station you have to finish him off to the last health bar. Overloading him with, well, Overload and other shield-stripping powers from you and your squadmates will hasten his escape on Thessia or demise on Cronos Station.
+Weapons that deal bonus damage to shields are also very effective against Leng, such as the Adas Anti-Synthetic Rifle, Acolyte, and the Reegar Carbine.
+When Leng is immune to damage or powers (e.g. recharging his shields), Energy Drain will not recharge the user's shields if used against him.
+Despite its "disintegrate on death" properties, hitting Leng with a fatal blow from fire based attacks will not disintegrate his body, he will simply crumple over. He is still affected normally by damage over time effects but cannot be put into "panic mode" from fire attacks.
+Leng will only pull Shepard in for an instant kill sequence after a melee attack that is successful. As mentioned above, watch for the tell and counter appropriately.
+Leng's fist slam into the ground to initiate his recharge sequence will temporarily stagger Shepard if the Commander isn't in the middle of a combat roll. This also gives enemies time to attack Shepard, although since most of them are entering the battlefield at this point, incoming fire shouldn't be too much of a problem.
+Leng will commonly follow Shepard around and generally ignore squadmates unless they are focusing on him and in close proximity. This allows squadmates to engage him with greater effectiveness. Leng can also be distracted by Decoy.
+Leng tends to be only partially fooled by Tactical Cloak; he will miss with the shots from his palm blaster but is somehow still able to pursue Shepard for melee attacks. However, Leng will usually stop chasing a cloaked Shepard to focus on squadmates if any are active.
+
+
+Mass Effect 3 Enemies
+
+
+CAT6
+
+Brooks • CAT6 Heavy • CAT6 Sniper • CAT6 Specialist • Clone • Disruption Drone
+
+
+Cerberus
+
+Adjutant • Assault Trooper • Atlas • Centurion • Combat Engineer • Dragoon • Dr. Eva • Guardian • Kai Leng • Legion Assassin • Nemesis • Phantom • Rampart Mech • Turret
+
+
+Collectors
+
+Abomination (Possessed) • Collector Captain (Possessed) • Collector Trooper (Possessed) • Collector Web • Praetorian (Possessed) • Scion (Possessed) • Seeker Swarm (Plague)
+
+
+Geth
+
+Combat Drone • Geth Bomber • Geth Hunter • Geth Prime • Geth Pyro • Geth Rocket Trooper • Geth Trooper • Geth Turret
+
+
+Reapers
+
+Banshee • Brute • Cannibal • Harvester • Husk • Marauder • Ravager • Swarmer
+
+
+
+

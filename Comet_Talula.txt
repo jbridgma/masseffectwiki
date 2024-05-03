@@ -1,0 +1,19 @@
+
+
+
+Location: Andromeda / Heleus Cluster / Hefena
+
+Description[]
+
+DATA:
+
+Nucleus: 6.7 km true
+Coma Cloud: 35,000 km
+Current Tail: 765,000 km
+ANALYSIS:
+Highly reliable orbit, despite the Scourge and the black hole.
+Awards a random small amount of Vanadium when scanned.
+
+
+
+

@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+This article is about the Power. For the Ammo Upgrade in Mass Effect, see Incendiary Ammunition. For the Ammo Bonus in Mass Effect 3 Multiplayer, see Incendiary Rounds. For the consumable ammo item in Mass Effect: Andromeda, see Consumables.
+
+Incendiary Ammo is a power available in Mass Effect 2 and Mass Effect 3's single-player mode.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Inferno Ammo
+1.1.2 Squad Incendiary Ammo
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Incendiary Ammo
+2.1.2 Rank 2: Panic
+2.1.3 Rank 3: Damage
+2.1.4 Rank 4: Damage/Squad Bonus
+2.1.5 Rank 5: Ammo Capacity/Headshots
+2.1.6 Rank 6: Damage/Explosive Burst
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+3 Bugs
+4 References
+
+
+Mass Effect 2[]
+ Burns through armor, sets enemies on fire, and damages health.
+
+Power Ranks[]
+Rank 1 - Burns and wounds organic targets, blocking health regeneration, damaging armor, and making unshielded enemies panic. Synthetic enemies are more resistant to fire damage.
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Fire Damage: 20.00% of weapon damage over 3.00 seconds
+Rank 2 - Burns and wounds organic targets, blocking health regeneration, damaging armor, and making unshielded enemies panic. Synthetic enemies are more resistant to fire damage.
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Fire Damage: 30.00% of weapon damage over 3.00 seconds
+Rank 3 - Burns and wounds organic targets, blocking health regeneration, damaging armor, and making unshielded enemies panic. Synthetic enemies are more resistant to fire damage.
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Fire Damage: 40.00% of weapon damage over 3.00 seconds
+Rank 4
+Evolves Incendiary Ammo to one of the following options:
+
+Inferno Ammo[]
+An explosive charge spreads the ammunition's payload on impact, potentially igniting the target and all nearby enemies.
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Fire Damage: 60.00% of weapon damage over 3.00 seconds
+Blast Radius: 3.00 meters
+Squad Incendiary Ammo[]
+Each member of your squad gains the effect of your incendiaries, allowing you to spread pain and panic in a very literal crossfire.
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Fire Damage: 40.00% of weapon damage over 3.00 seconds
+Player Notes[]
+When Incendiary Ammo is active on a weapon, shots deal bonus fire damage to enemy armor and health. Incendiary Ammo has no effect on enemy shielding (shields or barriers).
+Incendiary Ammo stops the health regeneration of enemies such as vorcha and krogan, but only if their health (red bar) is damaged.
+Damage dealt against armor (yellow bar) is inflicted instantly rather than over time.
+While synthetics (geth and mechs) as well as klixen are resistant to fire-based attacks, this only applies to their health and not to any armor protection they may have. Incendiary Ammo will do full damage to armor regardless of enemy type.
+Due to how ammo power damage is applied in Mass Effect 2, Incendiary Ammo, along with Armor-Piercing Ammo and Warp Ammo, are the most effective ammo powers for maximizing the damage of a single shot against an armored target, even if the target's armor is nearly depleted.
+The explosive effect of Inferno Ammo can only be triggered when hitting health.
+Panic Effects: Incendiary Ammo can ignite targets, which causes most unprotect organic enemies to halt and flail around briefly, during which time they can't attack or take cover.
+Non-sentient organic enemies such as Husks, klixen, and Abominations, do not panic when set aflame.
+The explosive effect of Inferno Ammo may panic secondary enemies through armor/barriers/shields (this only works for the explosive effect; normally, protected enemies never panic). If these secondary enemies are protected, the damage is not instant but done over the burn time. This splash damage can occur without the panic effect.
+The erratic movements of panicking enemies can make lining up headshots more difficult.
+The damage-over-time of Incendiary Ammo is helpful if an enemy ducks into cover, as sufficiently weakened enemies may be fatally wounded by a previous shot and succumb without needing further attention.
+Availability[]
+Soldier
+Vanguard
+Jacob Taylor
+Grunt
+Mass Effect 3[]
+
+
+Power Ranks[]
+Rank 1: Incendiary Ammo[]
+Shoot and your enemies will burst into flames.
+More weapon damage. Weaken armor.Chance to make an enemy panic.
+
+Weapon Damage Bonus: +10%
+Armor Damage Bonus: +10%
+
+
+Rank 2: Panic[]
+Improve the odds of panicking a target by 15%.
+
+
+Rank 3: Damage[]
+Increase health and armor damage bonuses by 4%.
+
+Weapon Damage Bonus: +14%
+Armor Damage Bonus: +14%
+
+
+Rank 4: Damage/Squad Bonus[]
+
+
+
+Damage
+Increase health and armor damage bonuses by 6%.
+
+Weapon Damage Bonus: +20%
+Armor Damage Bonus: +20%
+
+
+Squad Bonus
+Squadmates gain Incendiary Ammo at 50% effectiveness.
+
+
+
+
+Rank 5: Ammo Capacity/Headshots[]
+
+
+
+Ammo Capacity
+Increases ammo capacity by 30%.
+
+
+
+Headshots
+Increases headshot damage by 25%.
+
+
+
+
+Rank 6: Damage/Explosive Burst[]
+
+
+
+Damage
+Increases health and armor damage bonuses by 10%.
+
+Weapon Damage Bonus: +30% (Damage), +24% (Squad Bonus)
+Armor Damage Bonus: +30% (Damage), +24% (Squad Bonus)
+
+
+Explosive Burst
+Ignites enemies with an intermittent explosion that covers 2.50 meters for 100 damage.
+
+
+
+
+Player Notes[]
+Mechanics
+By default, Incendiary Ammo does not do any bonus damage to shields or barriers.[1]
+There are a few beneficial glitches that can work to increase Incendiary Ammo's damage.
+Incendiary Ammo (and Incendiary Rounds in multiplayer) can permanently halt or prevent the health regeneration of Cannibals and Phantoms. Their health does not need to be damaged directly for this, i.e. shooting a Phantom with its barrier still intact will still prevent any healing from occurring at any point as long as the Incendiary Ammo effect was triggered.
+Most infantry enemies killed by Incendiary Ammo burn up without leaving a corpse.
+Incendiary Ammo primes targets hit for Fire Explosions after doing 30 points of damage, though with some conditions:
+Only armored (yellow bar) and unprotected (red bar) targets can be immediately primed.
+Targets with active shields or barriers (blue or purple bar) can be "latently" primed; that is, the priming effect can be present, but can only be detonated once the shield or barrier is removed by damage. This also applies to any panic effects caused by the burning, i.e. the target only starts flailing around once its shield or barrier is removed. Synthetic enemies and Cannibals never panic when on fire, though synthetic enemies are not resistant to fire damage as they are in Mass Effect 2.
+The priming behavior described above is in contrast to other fire powers such as Incinerate and Inferno Grenade, both of which can immediately prime targets still protected by shields or barriers for fire combos.
+Once detonated, Incendiary Ammo (and Incendiary Rounds in multiplayer) cannot re-prime the same enemy immediately; there is a short "cooldown" period before it works again. This is in contrast to Disruptor Ammo/Rounds where there is no such delay for priming a Tech Burst.
+The "50% effectiveness" of the Squad Bonus evolution of Incendiary Ammo applies not only to its damage dealt but also to its ability to prime targets for Fire Explosions. Weapons that can prime for fire combos still can but the chance for a given shot to do so is greatly reduced, necessitating more hits on average before a target becomes primed.
+The ammunition capacity boost, if chosen, only applies on the active ammo power. Switching to another ammo power will remove the extra ammunition even if both have the capacity boost.
+Explosive Burst: Explosive Burst has a 50% chance to trigger from any shot, regardless of the weapon's rate of fire, making rapid-fire automatic weapons the most effective.
+Explosion damage is much higher than individual shot damage of most automatic weapons. For those weapons, Explosive Burst can increase damage by several hundred percent.
+Each shotgun pellet has an individual chance to trigger Explosive Burst. Most shotguns shoot 8 pellets, for up to 8 possible simultaneous explosions. On average, every fully connected shotgun blast results in 4 explosions. On a similar basis, a fully charged shot from an Arc Pistol can result in 3 simultaneous explosions. However, the N7 Hurricane can only trigger one explosion per 2 shots spent. The shotgun-style M-358 Talon heavy pistol fires 6 projectiles per shot, so 3 explosions are expected from a fully-connected blast.
+Explosive Burst is not triggered by most weapons that don't fire standard bullets, such as the Kishock Harpoon Gun. However, the Particle Rifle and the Reegar Carbine are exceptions; 1 unit of ammo spent has a 50% chance of causing an explosion. Both weapons are extremely effective with Explosive Burst thanks to their high firing rates.
+Explosive Burst doesn't harm enemies who are protected by shields or barriers. However, the explosions occur regardless of your target's defenses. When you shoot a shielded enemy, the resulting explosions will harm any nearby non-shielded enemies.
+Unlike other ammo powers, the independent nature of Explosive Burst's damage allows weapons with low damage per individual shot (e.g. the M-12 Locust or the Geth Pulse Rifle) to be moderately effective against armor, depending on difficulty level.
+Explosive Burst's damage is increased by the character's passive class power bonuses that improves power damage, and by the Soldier's Combat Mastery that improves ammo power damage. However, Explosive Burst's damage is unaffected by armor piece bonuses, effects of other powers, and the Intel Terminal bonuses. It's also unaffected by powers or effects which improve weapon damage. Because it is considered power damage, it will also be blocked by the power-immunity abilities of Banshees, Phantoms, and Praetorians.
+Explosive Burst is triggered by shots which penetrate cover due to a weapon's piercing mod. This combination provides an easy way to deal with Guardians, and is more effective for shooting unprotected enemies through cover than simply using Armor-Piercing Ammo.
+Explosive Burst deals instant damage and doesn't always set enemies on fire. It is a separate effect from Incendiary Ammo's default "burn and panic" effect which can be used to set up Fire Explosions. However, an explosion from Explosive Burst also has a chance to ignite and panic surrounding enemies.
+Explosive Burst suffers 50% reduced damage if the Incendiary Ammo is being provided through the Squad Bonus evolution.
+Availability[]
+Single Player: Soldier, Vanguard, James Vega, Grunt, Jacob Taylor
+Multiplayer: N/A
+Bugs[]
+In Mass Effect 3, Incendiary Ammo's burn damage stacks with itself, allowing it to deal up to three times more damage than it should from continuous fire.
+In Mass Effect 3, the default damage modifiers of Incendiary Ammo can be overwritten through a buggy interaction with Incinerate, Inferno Grenade, Warp and Fire Explosions (which are incorrectly assigned the same damage type as Incendiary Ammo).[1] When freshly arriving (not being updated/re-applied) on a target under the effect of those attacks, Incendiary Ammo will assume their damage modifiers.
+References[]
+
+↑ 1.0 1.1 http://social.bioware.com/forum/1/topic/343/index/14033200/1#14033200
+
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

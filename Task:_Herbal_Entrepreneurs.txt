@@ -1,0 +1,36 @@
+
+
+
+You've found a UV light that could help the herbal entrepreneurs grow their plants.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Bring the UV light to the herbal entrepreneurs
+
+
+3 Bugs
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Emergency S.O.S.
+
+Prerequisite: Task: Broken Family
+
+Head to the Forward Station in Haarfel on Kadara. Southeast from the forward station is a small building.
+Go into the building and get the UV lights from the salarian. This mission and objective will then show up.
+
+Walkthrough[]
+Bring the UV light to the herbal entrepreneurs[]
+Return to the herbal entrepreneurs in Kurinth's Valley and give them the UV-lights. The entrepreneurs are grateful and offer to let Pathfinder Ryder take a free sample of herbs. The herbs can be used to cure infections. Scanning the herbs reveal that they have antibiotic effects.
+
+Bugs[]
+Note: The herbs were intended for Task: Running a Fever to cure the fever of one of the turians in Task: Broken Family, but Task: Running a Fever is broken and currently has no official fix available.
+
+Rewards[]
++540 XP
+
+
+

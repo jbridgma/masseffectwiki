@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+This article is about one of three named armor talents in Mass Effect. For armor generally, see Armor. For a list of articles with the term "combat" in the title, see Combat (disambiguation).
+
+Combat Armor is a combat-oriented talent available to Soldiers and the Krogan Battlemaster. Combat Armor unlocks the ability to use Heavy Armor, and, like the other armor talents Tactical Armor and Basic Armor, unlocks Shield Boost.
+All of the armor talents boost the owner's resistance to health damage, especially useful against enemy attacks that aren't stopped by shields, such as melee hits. Hardening improves the owner's resistance to enemy tech attacks and abilities, reducing both their damage and duration.
+
+Talent Ranks[]
+Level 1: Increases damage reduction and hardening by 5%.
+Level 2: Increases damage reduction and hardening by 8%.
+Level 3: Shield Boost: Recharges 30% of your shield per second. Duration: 2s. Recharge Time: 45s. Accuracy Cost: 30%.
+Level 4: Increases damage reduction and hardening by 10%. Unlocks Fitness (Krogan Battlemaster).
+Level 5: Increases damage reduction and hardening by 12%.
+Level 6: Increases damage reduction and hardening by 14%. Unlocks First Aid (Soldier).
+Level 7: Increases damage reduction and hardening by 16%. Allows the use of Heavy Armor.
+Level 8: Advanced Shield Boost: Recharges 40% of your shield per second. Duration: 2s. Recharge Time: 45s. Accuracy Cost: 30%.
+Level 9: Increases damage reduction and hardening by 18%.
+Level 10: Increases damage reduction and hardening by 19%.
+Level 11: Increases damage reduction and hardening by 20%.
+Level 12: Master Shield Boost: Recharges 50% of your shield per second. Duration: 2s. Recharge Time: 45s. Accuracy Cost: 30%.
+Classes[]
+These classes have access to the Combat Armor talent:
+
+Soldier
+Krogan Battlemaster
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

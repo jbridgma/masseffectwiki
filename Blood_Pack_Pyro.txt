@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+Blood Pack Pyro
+
+
+
+
+Race
+Vorcha
+
+
+Type
+Organic
+
+
+Faction
+Blood Pack
+
+
+Armament
+M-451 Firestorm
+
+
+Abilities
+ Regeneration Fortification
+
+
+Health
+Low
+
+
+Armor
+Low
+
+
+Locations
+Omega, Zada Ban, Tuchanka, Pragia
+
+
+The Blood Pack Pyro is a member of the Blood Pack mercenary group armed with a flamethrower. These troops are always vorcha. They are encountered on many worlds and are always accompanied by other vorcha troops and sometimes krogan.
+
+Capabilities[]
+Offensive
+Pyros are relatively non-threatening until they get in range to use their flamethrowers, which can force Shepard or the squad from cover and constantly stagger them, leaving them vulnerable to enemy fire. On harder difficulties, this usually spells death.
+Defensive
+They gain a weak layer of armor on Hardcore and Insanity difficulties, and have consistent health regeneration on all difficulties. Pyros may retreat or take cover if their armor is destroyed, and will sometimes use the vorcha special ability to restore their armor, though much more rarely than Blood Pack Troopers do. The armor restoration ability can be suppressed by Flashbang Grenade for over 40 seconds at any rank of the power.
+
+Tactics[]
+General
+
+Warp, Incinerate, Reave, Incendiary Ammo, Inferno Grenade, and Neural Shock will prevent health regeneration. Incinerate and Overload used on an unprotected Pyro without armor will instantly detonate its fuel tank, killing it and dealing heavy damage to nearby enemies while burning and panicking them at the same time. The Arc Projector can halt their health regeneration if it damages their health—but doing this will also overload their fuel tanks and detonate them, making the first effect rather academic.
+Hitting an unprotected Pyro's gas tank with almost any weapon will puncture the tank causing the Pyro to panic and eventually explode. Using a high-powered weapon like a Sniper Rifle will cause the Pyro to explode instantly as long as any armor protecting it was penetrated by the shot damaging the health (and the tank) underneath. An ammo power effective against armor can make this easier to accomplish.
+Biotic powers such as Singularity and Throw are useful to prevent Pyros from approaching but their armor must be stripped.
+Using Dominate also makes them exceptionally useful: Their flame weapons will quickly burn through armor, and prevents regeneration on any vorcha or krogan it hits, and they're typically already in range of allies.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

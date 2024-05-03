@@ -1,0 +1,178 @@
+
+
+
+
+
+N7 Demolisher Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Human
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Earth
+
+
+Abilities
+Combat RollExplosive Omni-Tool
+
+
+These soldiers are the go-anywhere, fight-anything special forces of the Alliance that were trained at the Interplanetary Combatives Academy in Rio de Janeiro, Brazil. They had to survive combat situations "in an admirable and effective fashion" to receive the N7 rank. Many N7s now train other species in anti-Reaper asymmetric warfare.
+The Demolisher uses grenades to attack at range and to terrorize the battlefield. Demolishers can also create a supply pylon that stocks allies with an unending reserve of grenades and thermal reloads.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 600 / Health: 500
+
+
+Class: N7 Demolisher
+
+
+ Homing Grenade
+
+
+
+
+ Arc Grenade
+
+
+
+
+ Supply Pylon
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The N7 Demolisher Engineer executes a series of up to three punches.
+Heavy Melee (Explosive Omni-Tool) – The N7 Demolisher Engineer punches with an omni-tool that explodes on impact hitting multiple targets. One unprotected foot soldier can be sent flying, its body incinerating if the blow is fatal.
+Grab (Omni-Blade Stab) – The N7 Demolisher Engineer drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Roll) – The N7 Demolisher Engineer rolls to quickly evade incoming attacks.
+The N7 Demolisher Engineer can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The N7 Demolisher Engineer has two grenade powers, but they both draw from the same pool. Using a Homing Grenade will also deplete your supply of Arc Grenades, and vice versa. Remember to resupply frequently.
+A maximum of 13 Grenades can be carried.
+The Demolisher benefits immensely from gear that increase the number of grenades that a player can carry, in addition to choosing all available Extra Grenade evolutions.
+This also applies to your grenade count bonuses from powers. For instance, having both grenade powers at rank 2 will give you two extra grenades. The N7 Demolisher passive skill also provides increases to grenade capacity.
+With a large extra grenade capacity, dozens of grenades can be thrown in a short space of time, dealing massive amounts of area damage, especially when any resulting Power Combos are factored in.
+Homing Grenades travel relatively slowly, so they should be used mostly on tougher enemies that aren't likely to be killed before it can arrive.
+Homing Grenades have a small impact radius but deal more damage than Arc Grenades, which cover a wider area.
+With the Electrical Damage evolution, an Arc Grenade can prime a Tech Burst. A Homing Grenade can then detonate the Tech Burst.
+However, due to the slow travel time of Homing Grenades and the limited duration of the priming effect, it's often best to launch the Homing Grenade first, then land an Arc Grenade on the intended target just before the Homing Grenade hits.
+The Fire Damage effect available to the Homing Grenade cannot be detonated into a Fire Explosion.
+Supply Pylon is the Demolisher's only rechargeable power. The base charge time is relatively long, and the power does not usually need to be used repeatedly. This allows for the use of heavier weapons with few ill effects.
+Alternatively, aiming for minimal weight is also effective. Since the Supply Pylon immediately drops ammo and grenades when deployed and it is possible to reduce the cooldown to less time than it takes to deploy a grenade drop, a low-weight build can produce greater quantities of ammo and grenades by deploying a new Supply Pylon immediately after grenades are dropped. For a heavy grenade playstyle, this is most effective with the rank 6 evolution of Supply Pylon that grants two grenade refills.
+Supply Pylon can be recast to instantly grant grenades and thermal clips.
+Having a sniper rifle or a heavy pistol/assault rifle with a scope mod can allow a player to "ammo-dump-camp;" throwing grenades from a safe distance and refilling them reliably while sniping enemies.
+Weapons with small extra clip capacities like the Cerberus Harrier, Reegar Carbine, or heavy sniper rifles like the Javelin can be used to great effect since the Supply Pylon largely negates this weakness.
+Powerful sniper rifles such as the M-98 Widow are exceptionally useful in the hands of the N7 Demolisher character, who does not require low cooldown times to be effective. The shield-breaking qualities of the Demolisher's Arc Grenade (especially if the "Shield Overload" evolution is chosen at Rank 6) help overcome the shield gate seen on higher difficulties, allowing the player to dispatch most, if not all infantry-class enemies with a single headshot. In addition, having Supply Pylon frees up a weapon slot that would otherwise be occupied with the Sniper Rifle Spare Thermal Clip mod, leaving room for a more useful mod.
+The Demolisher's heavy melee is a blunt omni-tool punch which explodes on contact. While this attack is relatively weak, it is capable of knocking down enemies and pushing them away slightly, acting much like a Concussive Shot.
+The Demolisher is an excellent support class in group play especially in Gold and Platinum matches where ammo usage increases and available ammo from the normal resupply caches around the map decreases. Grenade spam is extremely powerful in heavy combat situations to help prevent your party from being overwhelmed. Finally, Supply Pylon acts as an excellent force multiplier, especially with its rank 5 evolutions combined with the rank 4 Radius upgrade; good Demolisher players will always group with their team and redeploy the pylon at locations where the party-wide buff to shields and powers/weapons will benefit the most team members.
+Cerberus[]
+Phantoms are fairly adept at blocking grenade damage with their biotic bubbles, but an Arc Grenade is still effective against groups of them on higher difficulties simply to suppress their advance and fire by forcing them into their defensive stance, buying time for the team to deal with them.
+Homing Grenades also prove rather effective against Guardians, as they tend to drop down from above and bypass the shield entirely.
+Collectors[]
+Collectors are close-quarters specialists that will rush/flank players and push them out of cover, making a static playstyle around a Supply Pylon more difficult. A reliable and easy to use shotgun or a weapon that causes stuns like the Scorpion is a good choice for a backup weapon when the Collectors start invading your personal space.
+Because Supply Pylon cannot be moved around, you may find yourself doing one of two things; running back and forth from ammo drops to get grenades you have just used, or, using up all of your Thermal Clip Pack consumables too early. Be prepared to continually drop new Supply Pylons, which is assisted by carrying lighter weapons.
+On the bright side, being hit by a Seeker Swarm has little impact on the Demolisher as they don't affect Grenade Powers.
+Heavy Melee won't kill Abominations in most situations, but throws them away from the player and nearby allies, making it safer to finish them off conventionally.
+Geth[]
+Geth, and other synthetics, are weak to Arc Grenades. A wise move would be to set up a Supply Pylon in a defensible well-covered position with an ammo box right by it, and keep up a steady stream of grenades. A damage-optimized grenade will kill Geth Troopers in one hit, and if the grenades don't kill Geth Hunters and Geth Rocket Troopers outright, they'll be severely damaged and easy to finish off. Clearing out the weaker enemies single-handedly will leave the rest of the squad free to bring down the more durable Geth Pyros and Geth Primes. It is advisable to use Disruptor Rounds on your weapon, as this will increase your chances of setting off a Tech Burst.
+Reapers[]
+Arc Grenades are very effective at clearing out groups of lesser enemies, or stripping the barriers from Banshees.
+Homing Grenades are effective against the slow-moving Ravagers and Brutes, especially with the rank 6 Armor Damage evolution softening them up for weapon fire.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

@@ -1,0 +1,85 @@
+
+
+
+A discovered report indicates that supplies headed for Prodromos have gone missing. Checking the supply drop sites might uncover some information about what's happening.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate Supply Drop Sites
+2.2 Report The Wildlife
+2.3 Optional: Investigate Other Sites
+2.4 Investigate The Hideout
+2.5 Report The Smugglers
+
+
+3 Rewards
+4 Bugs
+
+
+Acquisition[]
+This task is available once an outpost  has been established on Eos during A Better Beginning and the radiation has cleared.
+Interact with a terminal (marked with a) in Prodromos on the first floor of the building with the merchant and acknowledge the entry to acquire the task.
+
+
+
+
+
+Prodromos supplies report
+Reporting: Prodromos supply Jerry O'Donnell
+
+Log Begins
+
+Shrinkage from our survey team supply drops has been running at 15%. If we had people to spare, I'd send them to investigate the actual sites. Still, it's pissing me off. It's rough country, but I've been told to expect up to 20% loss. Doesn't mean I accept it.
+
+
+(Navpoints of supply loss sites available.)
+
+
+Walkthrough[]
+Investigate Supply Drop Sites[]
+Head to one of the navpoints to scan the lost supplies and clear out the vermin. Scan the debris for +10 .
+Depending on which site Ryder scans, SAM will make different suggestions on what happened or Ryder will reach different conclusions about what happened.
+
+Report The Wildlife[]
+Ryder can continue investigating further sites to uncover the truth, or head back to the terminal to finish the task early by completing the objective "Report The Wildlife."
+
+Optional: Investigate Other Sites[]
+If Ryder chooses to check out the other navpoints, the next site found confirms that the crates were opened first, before any vermin got to them. Scanning awards +10 .
+The third site seems to indicate that, though the drops were set to a certain schedule, the drop dates were modified to ensure that the culprits wouldn't run into anybody. Scanning awards +10 .
+Scanning the last site, SAM identifies a possible source for the delivery data corruption and marks a navpoint on the map. Scanning awards +10 .
+At this point, "Report The Wildlife" is marked as failed, but Ryder receives another objective instead.
+
+Investigate The Hideout[]
+Go to the navpoint northeast of the kett base in The Sheartop for Defeating the Kett. Nearing the navpoint, someone named Chase Gagnon will threaten the Pathfinder over comm, but Chase is convinced to stand down and talk. It turns out the thieves are exiles from the Nexus, hoping for some way to make it back. Ryder can either offer them a new start in Prodromos, or tell them to get off of Eos.
+If Ryder choses to give the smugglers a second chance, Chase Gannon can be found in Prodromos next to Dr. Ramirez in the med bay. Note that he is labelled as a 'Worker' not by his actual name. He has a few new dialogue lines. Majordomo Evan Bell-Scott mentions him too if he is given a second chance.
+
+Report The Smugglers[]
+Go to Prodromos and upload the investigation data to the terminal. The mission is then complete.
+
+
+
+
+
+Prodromos Supplies Report
+Upload remote supply drop site investigation data
+
+
+Rewards[]
+If Ryder chooses to report the destruction is due to wildlife:
+
++270 XP
++29 AVP 
++2% Eos viability
+If Ryder chooses to report the destruction is due to smugglers:
+
++530 XP
++29 AVP 
++2% Eos viability
+Bugs[]
+If Ryder visits the hideout much later, there is the same dialogue, but this time with the invisible and voiceless man.
+
+
+
+

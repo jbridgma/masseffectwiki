@@ -1,0 +1,269 @@
+
+
+
+For the special 2012 re-release of Mass Effect, Mass Effect 2, and Mass Effect 3, see Mass Effect Trilogy.
+The Mass Effect Legendary Edition is a remaster of the Mass Effect trilogy.
+Contents
+
+1 Release
+2 Details
+3 Changes from the Original Trilogy
+4 PC Version
+
+4.1 System Requirements
+4.2 Photo Mode
+
+
+5 Downloadable Content
+6 Development
+7 Patches
+8 Trivia
+9 References
+
+
+Release[]
+The remaster was released on May 14, 2021[1] for Xbox One, PlayStation 4, and PC. 
+
+Details[]
+With forward compatibility and targeted enhancements on Xbox Series X and PlayStation 5, the Mass Effect Legendary Edition features most of the single-player content, Downloadable Content, and promo items from across the trilogy remastered and optimized for 4K UltraHD gaming.[2]
+Mass Effect Legendary Edition bundles Mass Effect, Mass Effect 2, and Mass Effect 3 together in one launcher. Over 40 single-player DLCs from all three games are included. However, Mass Effect 3 Multiplayer and its corresponding DLCs are not included and neither is Pinnacle Station.[3][4] The M-597 Ladon weapon from the Wii U exclusive Mass Effect 3: Special Edition release is also absent.
+Visual improvements include enhanced models, shaders, effects, lighting, and depth of field. Performance options can support ultra-high refresh rates on PC, and consoles are given a binary choice for performance vs. quality.[5] All versions support HDR.[6] The Legendary Edition has a photo mode across all three games to fully showcase these improvements.[7][8]
+Commander Shepard's appearance can be customized in a unified character creator for a more cohesive experience, and with all options available across the trilogy. The default female Shepard face that debuted in Mass Effect 3 has been retouched, then backported to the previous two games for consistency.[9] The previous default female face is also available as an option.[10]
+The first Mass Effect game in particular features improved controls, cameras, weapon balance, squad AI and cover behavior, in addition to a full worldbuilding pass for better environmental art, visual effects, and lighting. Elevator loading times have been shortened;[11] elevator conversations are still present although a skip button is now provided for convenience.[12]
+Morality checks between two arguing squad members in Mass Effect 2 have been relaxed, and it is now easier to persuade both to remain loyal instead of requiring full paragon/renegade bars.[13]
+Several bugs left unfixed in the original games are fixed in the Legendary Edition. One of the issues addressed is the black blobs bug affecting AMD processors not using the deprecated 3DNow! instruction sets on Noveria levels.[14] Another is the music cutting off during Samara and Morinth's confrontation in Samara: The Ardat-Yakshi.[15]
+Legendary Edition is a completely new install separate from any preexisting trilogy installs.[16] Physical game installers span two discs.[17]  All difficulty levels are available from the start, instead of requiring players to finish multiple runs to unlock the Hardcore and Insanity levels.[18] The interactive comics preceding Mass Effect 2 and 3 can be skipped at discretion.[19]
+
+Changes from the Original Trilogy[]
+For a detailed list of the differences between the original Mass Effect trilogy and Mass Effect Legendary Edition, see Mass Effect Legendary Edition/Changes from the Original Mass Effect Trilogy.
+PC Version[]
+The PC version has native 21:9 widescreen and controller support, UI improvements, and DirectX 11 compatibility.[5]
+
+System Requirements[]
+
+
+Component
+Minimum
+Recommended
+
+
+OS
+64-bit Windows 10
+
+
+Processor
+Intel Core i5 3570 or AMD FX-8350
+Intel Core i7-7700 or AMD Ryzen 7 3700X
+
+
+Memory
+8 GB RAM
+16 GB RAM
+
+
+Video Card
+NVIDIA GTX 760 or AMD Radeon 7970 / R9280X
+2 GB Video Memory
+
+
+NVIDIA GTX 1070 or AMD Radeon Vega 56
+4 GB Video Memory
+
+
+
+Hard Drive
+At least 120 GB of free space
+
+
+DirectX
+DirectX 11
+
+Photo Mode[]
+Photo mode is accessed via a button at the system menu. The player is presented with a number of options to adjust the camera position, depth of field, brightness and contrast, and other camera effects. When the shot is ready, hit the tab button to make the photo mode UI disappear and hit the spacebar to take the shot. There is no visual feedback when the shot is taken, only an audible sound.
+The screenshot is then saved to:
+C:\Users\<username>\Documents\BioWare\Mass Effect Legendary Edition\ScreenShots\.
+
+Downloadable Content[]
+The following single-player DLCs are included in the Legendary Edition:
+
+
+
+
+Mass Effect
+Bring Down the Sky
+Mass Effect 2
+Zaeed - The Price of Revenge
+Kasumi - Stolen Memory
+Lair of the Shadow Broker
+Firewalker Pack
+Overlord
+Normandy Crash Site
+Arrival
+Cerberus Weapon and Armor
+Equalizer Pack
+Inferno Armor
+Aegis Pack
+M-29 Incisor†
+Firepower Pack
+Arc Projector
+ME2 Alternate Appearance Pack 1
+ME2 Alternate Appearance Pack 2
+Recon Operations Pack
+Collectors' Weapon and Armor
+Terminus Weapon and Armor
+Blood Dragon Armor
+Dr. Pepper promotional items
+Recon Hood
+Sentry Interface
+Umbra Visor
+
+
+Mass Effect 3
+From Ashes
+Mass Effect 3: Extended Cut
+Mass Effect 3: Leviathan
+Mass Effect 3: Omega
+Mass Effect 3: Citadel
+ME3 Alternate Appearance Pack 1
+Firefight Pack
+M-90 Indra
+Groundside Resistance Pack
+N7 Warfare Gear
+Pre-order bonus items
+AT-12 Raider
+M-55 Argus
+Kingdoms of Amalur cross-promotion items
+Reckoner Knight Armor
+Chakram Launcher
+N7 Collector's Edition Pack
+Interactive Comics
+Genesis
+Genesis 2
+
+†noted as "M-21 Incisor" on the official EA page
+
+Development[]
+The developers have acknowledged having trouble keeping rumors of the remaster under wraps during its official announcement on N7 Day, November 7, 2020.[1][20][2]
+Although the Legendary Edition was supposed to include everything from the trilogy, certain parts like Pinnacle Station and Mass Effect 3 Multiplayer had to be cut. The development team tried to contact Demiurge Studios for their source files for Pinnacle Station, but the code backups that were turned over were corrupted. Rebuilding it from scratch would have taken another six months, and game director Mac Walters described the decision to cut it as "heartbreaking."[21]
+Multiplayer was cut due to logistical challenges in overhauling its systems for modern sensibilities, and focusing on it would have eaten into the singleplayer remaster's limited development time. Instead, the game has been rebalanced, and sections of Mass Effect 3 that would have required multiplayer to tie into the story experience have been redistributed.[22][23]
+Legendary Edition aims for a faithful retelling of the trilogy's story and doesn't provide extra content, romances or otherwise. BioWare considered resurrecting previously cut content, but much of it was not in a readily available state and would have required rebuilding any missing linkages from scratch, diverting from the effort to remastering the trilogy.[24]
+The remaster uses Unreal Engine 3, the same engine behind the original trilogy. Several assets like the Kismet scripting language used in the trilogy have no equivalent in Unreal Engine 3's successor Unreal Engine 4, which also means everything else would have to be redone from scratch. Consulting with Epic, the engines' creator, BioWare determined that bringing the trilogy to UE4 would have fundamentally changed how it felt and how it played. BioWare instead opted to push the limits of UE3, such as creating real-time dynamic reflections by sticking another camera in every scene and rendering each one twice.[25][26][27]
+Substantial work went into bringing the first Mass Effect closer in line to the aesthetics of the later two games. It was more of an RPG than the shooters the latter two games became, so BioWare aimed to bring the improvements they've made to various systems in 2 and 3 back into the first game.[28]
+Strange camera placements in the original trilogy have been rectified in Legendary Edition. Shepard's sitting model was designed for males, which translates to an awkward look on skirted female Shepards, so the camera angle on the latter has been raised. Lingering shots of Miranda Lawson's butt are also slated to be corrected.[28]
+Owing to the existence of numerous mods for the trilogy, Walters revealed ongoing discussions with certain people in the modding community regarding how the remaster would impact their mods and how to better integrate them into the games going forward.[29]
+Development is currently ongoing to determine if custom Shepard faces from the original trilogy can be imported into the Legendary Edition. The first Mass Effect game gained a face code importer, but due to several improvements and additions to the character creator some codes are working better than others.[30]
+The inclusion of photo mode is attributed to Technical Design Director Brenon Holmes' efforts.[31]
+
+Patches[]
+The current Mass Effect Legendary Edition patch version is 1.03.
+
+Trivia[]
+The system menu has a submenu for brightness and HDR settings called "Calibration" which is a shout-out to a  frequent line that Garrus says.[32]
+On July 27, 2021 the Mass Effect twitter released updated player statistics based on decisions taken throughout the trilogy in Legendary Edition.[33]
+References[]
+
+↑ 1.0 1.1 https://www.ea.com/games/mass-effect/mass-effect-legendary-edition
+
+↑ 2.0 2.1 https://blog.bioware.com/2020/11/07/happy-n7-day-4/
+
+↑ https://www.gameinformer.com/2021/02/02/bioware-explains-pinnacle-station-dlc-exclusion-from-mass-effect-legendary-edition
+
+↑ https://www.theverge.com/2021/2/2/22256376/mass-effect-legendary-edition-no-multiplayer
+
+↑ 5.0 5.1 https://www.ea.com/games/mass-effect/mass-effect-legendary-edition/overview
+
+↑ https://twitter.com/macwalterslives/status/1357404965032001538
+
+↑ https://twitter.com/macwalterslives/status/1382812283286347777
+
+↑ https://twitter.com/masseffect/status/1383117772050300931
+
+↑ https://www.polygon.com/2021/2/3/22264224/mass-effect-remastered-femshep-legendary-edition-jennifer-hale-bioware
+
+↑ https://twitter.com/macwalterslives/status/1356678635483131904
+
+↑ https://www.gameinformer.com/2021/02/03/mass-effect-legendary-edition-changes-iconic-elevator-sequences
+
+↑ https://twitter.com/macwalterslives/status/1356738177709432832
+
+↑ https://twitter.com/macwalterslives/status/1357083291313037312
+
+↑ https://twitter.com/macwalterslives/status/1357044211686625280
+
+↑ https://twitter.com/macwalterslives/status/1356677009380839424
+
+↑ https://twitter.com/macwalterslives/status/1356814957099114496
+
+↑ https://twitter.com/macwalterslives/status/1383248269388619777
+
+↑ https://twitter.com/macwalterslives/status/1357527512897650688
+
+↑ https://twitter.com/macwalterslives/status/1356819403703152641
+
+↑ https://twitter.com/masseffect/status/1325106163722162177
+
+↑ https://www.gameinformer.com/2021/02/02/bioware-explains-pinnacle-station-dlc-exclusion-from-mass-effect-legendary-edition
+
+↑ https://www.gameinformer.com/2021/02/02/bioware-explains-why-it-didnt-bring-back-mass-effect-3-multiplayer-in-legendary-edition
+
+↑ https://www.theverge.com/2021/2/2/22256376/mass-effect-legendary-edition-no-multiplayer
+
+↑ https://www.theverge.com/2021/2/2/22256391/mass-effect-legendary-edition-content-story-dlc-jack-jacob
+
+↑ https://www.gamespot.com/articles/why-mass-effect-legendary-edition-doesnt-use-unreal-engine-4/1100-6487003/
+
+↑ https://www.ign.com/articles/mass-effect-legendary-edition-first-impressions-less-than-a-remake-but-much-more-than-a-basic-remaster
+
+↑ https://www.thedigitalfix.com/gaming/news/mass-effect-legendary-edition-keeps-unreal-engine-3/
+
+↑ 28.0 28.1 https://metro.co.uk/2021/02/02/mass-effect-remaster-interview-changing-femshep-but-not-the-ending-14008330/
+
+↑ https://twitter.com/macwalterslives/status/1357142809980010497
+
+↑ https://twitter.com/macwalterslives/status/1356820035067502592
+
+↑ https://twitter.com/macwalterslives/status/1382827341852729346
+
+↑ https://kotaku.com/mass-effect-legendary-edition-has-a-calibration-menu-1846897079
+
+↑ https://twitter.com/masseffect/status/1420036454042857472/photo/1
+
+
+
+
+Mass Effect Series
+
+
+Games
+
+Mass Effect (CE, ♫) • Mass Effect 2 (CE, ♫) • Mass Effect 3 (CE, ♫, Multiplayer) • Trilogy • Mass Effect Legendary EditionMass Effect: Andromeda (DE, ♫, Multiplayer)
+
+
+Mobile Games and Apps
+
+Mass Effect Galaxy • Mass Effect: Infiltrator • Mass Effect 3: Datapad • Mass Effect: Andromeda APEX HQ
+
+
+Downloadable Content
+
+Mass Effect • Mass Effect 2 • Mass Effect 3
+
+
+Books
+
+Revelation •  Ascension • Retribution • Deception • Nexus Uprising • Initiation • Annihilation
+
+
+Comics
+
+Redemption •  Evolution • Invasion • Homeworlds • Foundation • Incursion • InquisitionConviction • Blasto: Eternity is Forever • He Who Laughs Best • Library Edition • Discovery
+
+
+Films
+
+Paragon Lost (♫) • Mass Effect
+
+
+
+
+

@@ -1,0 +1,147 @@
+
+
+
+The following are transcriptions of the artists' comments for the design gallery "The Creatures of Mass Effect: Creatures" found on the bonus content disc of Mass Effect released in 2007.
+
+Contents
+
+1 Image 1
+2 Image 2
+3 Image 3
+4 Image 4
+5 Image 5
+6 Image 6
+7 Image 7
+8 Image 8
+9 Image 9
+10 Image 10
+11 Image 11
+12 Image 12
+13 Image 13
+14 Image 14
+15 Image 15
+16 Image 16
+17 Image 17
+18 Image 18
+19 Trivia
+
+
+Image 1[]
+
+Matt Rhodes: In the early development of the creatures and a lot of the stuff that you'd find, the aliens, not necessarily dangerous aliens, it's just somewhat, sort of the fauna and the biology that you'd encounter in the galaxy, we'd just play really, again, as many different shapes as we possibly could find. Just, you know, trying to come up with stuff that really stretches the imagination. Just because-- You're watching any documentary about animals and you'll find stuff that's just absolutely mind blowing. So in a lot of ways it gives you a lot of room because, I mean, there's probably something fairly similar to this to begin with. This is the gas bag creature. It's kind of a floating man-o-war in a way. So based on the Portuguese man-o-war. Again, you know, you really don't need to stretch too far. So this guy's a Portuguese man-o-war mixed with a mosquito, with a couple of little foraging hands instead of a big needle.
+
+
+Image 2[]
+
+Matt Rhodes: And here's just a color treatment over the gas bag creature. This was pretty much all you needed. It was like, "all right," you know, it's got this thin membrane. It's got the green skin, kind of sickly. It's just, you know, it's one of those creatures that you just don't want to touch, and you wouldn't want it touching you.
+
+
+Image 3[]
+
+Matt Rhodes: This is another experiment in... just shape, just trying to see what kind of stuff we can get away with. I like the idea of something with a hard, dusty, dark, maybe even stained shell, but that had like a real inner glow to it. Something that had almost like these little lights that would walk around. Kind of like a glow bug, but more dangerous. One of the tricky things in video games is always like very thin-legged creatures. And also this just didn't really have the right look to it. This might be better suited for a dungeon somewhere.
+
+
+Image 4[]
+
+Matt Rhodes: Okay. Here, playing with shapes. There were a few different creatures that were drawn based on this shape, just with different surface treatments. This is kind of the insectoid one. Playing with different textures and trying to see, you know... Again, in the end, technical restraints are something you have to consider, but at this early stage, you know, the idea of transparent sacks filled with goo that you could shoot, or you know, the shiny carapace that fades off and gets stained and dirty in some parts, but it's really shiny in others... So, again, just toying around, seeing what we could actually get away with.
+
+
+Image 5[]
+
+Matt Rhodes: For the next one here-- the spike hound. This is sort of-- I was wanting to create sort of a, you know, a four-legged creature, but there was kind of an insect, kind of a grub. This, you know, still, you'll notice sort of the worm neck mouth, the separated jaw. That's kind of a feature that you'll find in a lot of deep sea creatures, but you know, trying to just tack it on there to make you question like, "okay, well he's shaped like this, so he must eat in a way that's terrifying. Don't touch me." But again, you know, technical restrictions, this, you know... The transparent body-- something difficult to toy with. And then also again, the thin structure wasn't really... And plus two, I mean this guy's just a little heavy metal for what we were going for.
+
+
+Image 6[]
+
+Matt Rhodes: This sketching, just pencil on paper, is always, always a blast. And that-- here we have the "worm neck" sketch, and this was drawn over one of the silhouettes that Sung Kim had painted up early on. We like to shape, but it was kind of a matter of figuring out the, you know, how do we articulate all the details on the shape? How does this shape become an actual creature, an actual object with a biology to it? So here we were pulling out different elements that had been in some of our early creature designs. We've got sort of the separated jaw with the long neck with, you know, vertebrae sticking out of the body. And yeah, the four-legged creatures are pretty popular in this environment.
+
+
+Image 7[]
+
+Matt Rhodes: And here's the worm neck in color. Not too much experimentation, it needed to be done at this point. It was just, you know, it sort of made sense that the carapace, the rub-like neck-- making it white really made it sickly. And that was something that seemed pretty important to... making this guy as menacing as possible.
+
+
+Image 8[]
+
+Matt Rhodes: And here's the final worm neck. This is a different wing configuration than the previous one. Something, you know, a little bit smaller. This guy, we ended up scaling up quite a bit. And so by making the wings a little bit smaller and giving him more of the moose, sort of supporting the idea that kind of like a grasshopper, he's not meant to fly around. They're more of a, this flood, you know-- uses wings to support him as he leaps at you and then controls his fall.
+
+
+Image 9[]
+
+Derek Watts: These are just four head studies for the maw. This is one of the vehicle enemies we decided to put in the game. He was going to be pretty well-- only on uncharted worlds. He was a large creature. He would come out of the ground, almost like the worm in Dune. So these are just looking at how the head would come up and then animate the mouth open.
+
+
+Image 10[]
+
+Derek Watts: So this is the maw. This is a pencil drawing of how some of his arms would look. We had a nice shape on there. We ended up making the front arms quite a bit bigger, but this shows how the main body and the head would look at an early stage.
+
+
+Image 11[]
+
+Derek Watts: This is a color study of the maw. We didn't do too many; we actually pretty well picked the only one that was done. And the cool thing about this one is it had this glowing tongue, it was almost like a deep sea creature. We were wondering maybe with some of the uncharted worlds being quite dark, this would make it show up a bit better.
+
+
+Image 12[]
+
+Derek Watts: This is just a study of how the back would look on the maw. We had these glowing panels on the back. Again, like a deep sea creature. We were kind of playing around with the idea that the uncharted worlds would be extremely dark, like in the movie Alien when they land on that world. It's just blowing snow, pitch black, the lights of the vehicle. But as we started to really work with the uncharted worlds more, we wanted more-- we needed more variety. So we ended up losing the lights on the back and just keeping the ones on the tongue.
+
+
+Image 13[]
+
+Derek Watts: This is a study. Not only did the maw come out of the ground, but it also had these small tentacles that would pop up around it and they would attack the vehicle. This is just a drawing to show the animators how these would work.
+
+
+Image 14[]
+
+Derek Watts: The designers always want any animate creatures, ambient creatures. This kind of gives a bit of life to the level. These were some quick pencil drawings of what a beetle might look like. It's also good at the beginning of the game to build a few of these. The character modelers were getting good at normal mapping, give something to the animators to test putting these in the level. Ambient creatures usually are the first things to get cut as the game gets closer to the end though. Usually people would rather have more enemies to fight than just a small beetle running around the level.
+
+
+Image 15[]
+
+Derek Watts: This is a beetle drawn up. This is the final design, just colored up. We ended up building this. We placed it in a few levels. This probably will show up in a few of the uncharted worlds.
+
+
+Image 16[]
+
+Derek Watts: This is a concept for the varren. This is like our space hound. We're going to have him in "war world" and a few other areas. Kind of had some dreadlock type bone structures on the front there. It was a bit crazy.
+
+
+Image 17[]
+
+Derek Watts: This is the final drawing for the varren. Not much different than this, than a dog. It was actually drawn over a dog. The thing that made it interesting was the larger teeth, but we put these large eyes on it, almost like a deep sea fish eye, that gave it a really interesting look. And then the texturing was going to be more of a kind of a silver color.
+
+
+Image 18[]
+
+Derek Watts: This is the final color version of it, with the large eye. We wanted this kind of interesting kind of scales on it, like fish scales on it, just to kind of make the dog look a little bit different. Plus it's also a neighbor to do hair in video games.
+
+
+Trivia[]
+The "wormneck" would become known as the "harvester" before it was cut from the game, only to appear canonically for the first time in Mass Effect 2. In Mass Effect 3, Garrus Vakarian and Steve Cortez also refer to the Reaper-corrupted harvesters as "wormnecks."
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

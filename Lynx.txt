@@ -1,0 +1,101 @@
+
+
+
+
+
+Lynx
+
+ 
+
+
+
+
+
+
+
+Faction
+OutlawsCollective
+
+
+Weapons / Attacks
+Disciple
+
+
+Abilities
+Backlash
+
+
+Health
+Normal
+
+
+Shields
+Normal
+
+
+Weak Points
+Head
+
+
+Lynx is an agent of the Collective who works at the Collective Base. 
+
+
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+Pathfinder Ryder can first meet Lynx upon discovering the hidden base inside Draullir. At the time, she and a salarian agent are manning the door when the Pathfinder arrives, and she tells her partner to stand down as the Charlatan has explicit orders to keep the Pathfinder unharmed. 
+How she relays the information depends on whether Ryder has fully sided with the Collective or not: If yes, she reveals even the lowest-ranked operatives now know to leave the Pathfinder alone. If not yet, she explains that the operatives in the field may not know of the Charlatan's orders due to the size of the organization. Whichever the case, she has a couple of side comments related to the matter. Ryder's team is safe inside the base, and Lynx directs them to Crux if they need anything else.
+Lynx is one of the few people who know how to operate the base's water filters. She's had little success training a replacement, as most of the recruits can't stand the sulfurous smell. Consequently, she hasn't seen the sun in weeks, frequently complains about needing some rest, and she has marks of chemical burns on her limbs in addition to elevated levels of sulfur.
+If Ryder decides to help investigate who's faking the Charlatan's orders, Lynx emerges as one of the two top suspects. Working on one of the base's support columns, Lynx apologizes for her prior stiff behavior at the gate as the base doesn't get visitors often. She explains what her job on the base is, though she gets creeped out if Ryder pointedly asks about the sulfur in her clothes. SAM examines her reactions and concludes she isn't being deceitful.
+If the Collective's bid for power fails because Ryder sided with the Outcasts, if the base is only discovered afterwards Lynx will be among the place's defenders and can be heard ordering the others to kill the Pathfinder.
+
+Capabilities[]
+Offensive
+Lynx is armed with the Disciple shotgun. At close range she makes a punching/jumping melee attack.
+
+Defensive
+Lynx has a moderate layer of shields as well as the Backlash ability to protect herself from attacks to the front. 
+
+Tactics[]
+Lynx is essentially a named Pariah (and registers as one if scanned), inheriting the strengths and weaknesses of the enemy type. She doesn't have more health and shields than a regular Pariah, nor does she deal more damage.
+Lynx prefers to keep mobile around the Collective Base with the Backlash aegis up, frequently jumping up and down the structure. She's more vulnerable while jumping.
+Trivia[]
+Lynx is a constellation named after the animal from Earth.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

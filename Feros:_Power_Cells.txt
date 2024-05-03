@@ -1,0 +1,41 @@
+
+
+
+May O'Connell has asked you to find replacement power cells in the ruins of Zhu's Hope, in order to restore power to the colony.
+Alternative journal entry:
+You found some power cells while exploring the tunnels beneath Zhu's Hope. It's likely that someone back in the colony will be able to use them.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Enemies
+4 See Also
+
+
+Acquisition[]
+Prerequisite: Feros: Geth Attack
+
+Speak to May O'Connell near the entrance to the Zhu's Hope colony. This can be done at any time after speaking with Fai Dan for the first time, and subsequently eliminating the geth that interrupt your conversation.
+Alternatively, this assignment can be acquired by recovering the power cells before talking to May.
+
+Walkthrough[]
+May will ask Commander Shepard to obtain the power cells necessary to power the generator. They are found on a heavily damaged vehicle, down in the tunnels. 
+Head towards the elevator to the skyway, and continue down the stairs beyond it. Once in the tunnels fight through the geth, if this has not been done already. Go through another set of doors about halfway along the path. 
+
+Upon going through the doors, a short cutscene will show some varren who seem ready to devour you. Kill all the varren in the area. This will start the Feros: Varren Meat assignment if not already begun.
+Approach the vehicle and look at the front; examine the fuel compartment to recover the power cells. The only other loot cases in this room are the sludge canister and malfunctioning object. Leave the tunnels and take the power cells back to May O'Connell.
+May rewards Shepard with omni-gel and some credits that Fai Dan gave her, in addition to 8 Paragon points.
+Warning: If May is killed during the main Feros mission the assignment can still be acquired, but not completed.
+
+Enemies[]
+Varren
+Varren Alpha
+See Also[]
+The following assignments can also be completed while in the tunnels:
+
+Feros: Geth in the Tunnels
+Feros: Water Restoration
+
+
+

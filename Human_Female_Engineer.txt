@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect 3. For the multiplayer class in Mass Effect: Andromeda, see Human Engineer (Mass Effect: Andromeda).
+
+
+
+Human Engineer
+
+
+
+
+
+							Male
+							
+						
+
+
+
+							Female
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Human
+
+
+Rarity
+Common
+
+
+Availability
+Starting character
+
+
+Abilities
+Combat RollIncendiary Omni-Blade
+
+
+Humans joined the galactic community after discovering a Prothean data cache on Mars in 2148. Their devotion to understanding and adapting to modern warfare left the staid Council races stunned. Humanity's persistence and unflappable spirit has taken them further than anyone in the galaxy could have imagined.
+Human engineers are support specialists that set up ambushes, provide fire support, and destroy enemy tech. Their value is not lost on an ally when a battlefield is cleared of turrets.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 500
+
+
+Class: Alliance Training
+
+
+ Overload
+
+
+
+
+ Incinerate
+
+
+
+
+ Combat Drone
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Human Engineer executes a series of up to three punches.
+Heavy Melee (Incendiary Omni-Blade) – The Human Engineer strikes with an omni-blade charged with incendiary energy.
+Grab (Omni-Blade Stab) – The Human Engineer drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Roll) – The Human Engineer rolls to quickly evade incoming attacks.
+The Human Engineer can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The Combat Drone is useful for its ability to draw fire away from teammates (even if only for a brief period) and causing a little stress in the enemies' ranks, even on Gold/Platinum difficulties. If there is nothing to target or it's the end of a wave, the drone is the sort of power you might as well use since it will move toward enemies and your power cooldowns will finish before the next wave of enemies arrive.
+The Human Engineer has lower shields than other Engineers, so the Combat Drone is a valuable distraction to draw enemy fire away.
+It can also be a useful early warning system. Spawn the drone near an enemy spawn point, then place yourself somewhere where you can see the drone but not the spawn point. If enemies drop there you will see the drone attack them, alerting you to their location. Conversely if the drone does not attack it shows you that point is clear at present.
+At lower difficulties, keep in mind the role you want the drone to have on the battlefield: damage or distraction. With the Rank 6 Rockets evolution, your drone will deal heavy damage at range; however, it will always back away from the target, making it much less effective at distraction. However, the drone may frequently try to shoot rockets through walls, making this less useful in multiplayer.
+For Gold/Platinum difficulties, anything other than a Rank 4 Detonate-evolved drone may prove to be of limited use, due to immense enemy damage and health. Detonate is also the only way a drone can set off Power Combos, and this can be a useful way to both temporarily distract and severely damage powerful enemies (Geth Primes, Atlases, etc).
+On the other hand, it may be wise to skip Combat Drone altogether to focus on maxing the Overload, Incinerate, Fitness, and Alliance Training powers. By doing this, one can get 20% extra weapon damage, and 35% power damage, as well as a few extra weight capacity points. This tactic allows Incinerate to devastate armor and health, while Overload fills in the gap of dealing with shields and barriers. Combined together, a Human Engineer can be very versatile and capable of taking on almost any enemy single-handedly.
+The Human Engineer can single-handedly create Tech Bursts and Fire Explosions, through the use of Overload and Incinerate.
+Because Engineers are a power-focused class, one should keep their loadout as light as possible. At 200% recharge speed, you can potentially fire off Overload and Incinerate every 2 seconds, causing utter havoc against enemies of any kind. A good weapon combination to equip is a M-6 Carnifex and either a Disciple or M-25 Hornet. These weapon combinations with power damage and capacity maxed out, gives 160-165% recharge speed or even 200% when using the Rank 6 Weapon Weight evolution in Alliance Training. Outfit the M-6 Carnifex with the Pistol Heavy Barrel and Pistol Piercing Mod, and you can eliminate the Engineer's biggest problem: armor-plated Reaper enemies, or Cerberus Guardians. Combine the powers with this and you have a character with pretty much all bases covered.
+If you prefer an assault rifle, the Geth Pulse Rifle and M-8 Avenger at level X are both light enough to give the Human Engineer a 200% recharge speed if the rank 4 Damage & Capacity evolution in Alliance Training is chosen.
+When equipped with Disruptor Rounds, the Human Engineer can spam a barrage of Tech Bursts by simply shooting the enemies before unleashing Overload (or vice versa).
+An additional option for the Human Engineer is to become a full support character. By evolving Alliance Training for cooldown, Fitness for durability and both Overload and Combat Drone for stunning, you can rapidly volley multiple shocks into groups of targets, keeping many enemies stunned and taking continuous, low damage attacks. Pairing up with other characters with tech powers makes for a potentially very powerful set-up, allowing for continuous creation of Tech Bursts.
+Cerberus[]
+When dealing with a Guardian, release a Combat Drone behind him. The Guardian will turn towards the new threat, showing his sensitive side to your sights. Should you have the Neural Shock evolution of Overload, unleash it on the distracted Guardian to make him drop his shield.
+High levels of Overload can wipe out Phantom barriers quickly, making them much easier to take out. If they are doing acrobatics, wait for them to stop before you fire an Overload on them; otherwise it will do less damage.
+A weapon equipped with a Pistol Piercing Mod is recommended so that you can take on Guardians regardless of their shields, and deal more damage to Atlases and Dragoons alike.
+Collectors[]
+Since the Combat Drone appears behind an enemy, it is best used against Scions to distract them and make them turn around, exposing their back, which is a confirmed weak spot of the enemy.
+Because Overload is more effective against barriers, the Human Engineer is very proficient at taking down possessed enemies, along with Praetorians and Collector Captains barriers.
+With the recent update, death of an enemy is not required to trigger Fire Explosions, so the Engineer can be useful for crowd control.
+The only risk involving using this character is that the Engineer has no close quarters abilities, so equipping a light shotgun, like the Disciple (which has a useful staggering effect) would be a good choice.
+Geth[]
+Overload is indispensable against geth troops as all foes other than the basic Geth Trooper have shields, and many geth (being synthetics) take full damage from Overload otherwise. Geth Troopers and man-sized geth that have had their shields removed can also be stunned for a short while.
+Overload or Incinerate on a Geth Pyro with a damaged tank will detonate the tank immediately.
+Overload followed by Incinerate will devastate shielding via a Tech Burst: this is a deadly combo when used on Geth Primes since a single burst can strip most of a Prime's shields in one go, even on Gold. This is also a great combo for Geth Pyros: there is a good chance of the Pyro exploding by Fire Explosion, Tech Burst or Pyro tank explosion.
+Reapers[]
+Because most enemies are armored or have only health, Incinerate is extremely useful here. Overload can expose Banshees and Marauders to a burning from Incinerate. All in all, this can be a Human Engineer's best enemy to engage due to the enemies' weakness to Incinerate.
+Combat Drones are exceptionally useful at halting the advance of Brutes and Banshees. If one is destroyed, simply deploy another and the enemy will continue trying to fight it rather than you.
+The rank 4 Incineration Blast evolution is very useful against the groups of Cannibals that frequently gather to devour their fallen comrades.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

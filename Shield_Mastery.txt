@@ -1,0 +1,159 @@
+
+
+
+Shield Mastery is a passive class power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Shield Mastery[]
+Boost health, shields/barriers, melee damage, and durability.
+
+Health & Shield Bonus: 15%
+Melee Damage Bonus: 15%
+Omni-Shield Health: 3000
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 10%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 15%
+Omni-Shield Health: 3300
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 20%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 35%
+Omni-Shield Health: 3300
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 65%
+Omni-Shield Health: 3300
+
+
+Durability
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 40%
+Melee Damage Bonus: 35%
+Omni-Shield Health: 3750
+
+
+
+Rank 5: Shield Durability/Shield Recharge[]
+
+
+
+Shield Durability
+Increase the damage the omni-shield withstands before collapsing by 50%.
+
+Health & Shield Bonus: 25% (Melee Damage), 40% (Durability)
+Melee Damage Bonus: 65% (Melee Damage), 35% (Durability)
+Omni-Shield Health: 4800 (Melee Damage), 5250 (Durability)
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Fire Shield/Cryo Shield[]
+
+
+
+Fire Shield
+Add a flame effect to your omni-shield. Your shield melees will burn enemies and are highly effective against armor.
+Adds a fire effect to impacted targets that does 50% additional damage over 5 seconds.
+
+
+
+Cryo Shield
+Add a freezing effect to your omni-shield that can chill or freeze enemies.
+Snap freeze unprotected enemies.Slow shielded and armored targets by 30%.Weaken enemy armor by 50% for 5 seconds.
+
+
+
+
+Player Notes[]
+The rank 6 evolutions give your melee attacks burning or freeze attributes depending on which one is chosen. This means that you can use your melee attacks to set up Fire Explosions or Cryo Explosions.
+The empowered shield melee attacks cannot be used to detonate combos.
+Due to a multiplayer update, Fire and Cryo Explosions do not require the death of the target to trigger Power Combos, greatly increasing the effectiveness of the N7 Paladin Sentinel. However, Power Combos occasionally fail to go off if the power that would otherwise detonate a combo kills the target with its own damage outright.
+Fire Shield: Fire Shield enables all of the Paladin's melee attacks to cause a damage burning effect on all nearby enemies, protected or not. Against most unprotected organic infantry, the burning effect has a unique property: it causes an incapacitation knockdown.
+The burn damage will trigger this knockout if an enemy is shielded as long as the shielding depletes during the effect.
+While the burning effect lasts, each tick of burn damage triggers the incapacitation, meaning affected targets are kept down for several seconds.
+If the Paladin is surrounded by multiple foes, the heavy melee shield slam can cause knockdowns and panic flailing on all unprotected enemies in range.
+Synthetic enemies are immune to the panic/incapacitation, as are Cannibals, Phantoms and Possessed Abominations even when they are unprotected.
+Fire shield also triggers the burn effect on enemies that melee the N7 Paladin Sentinel while the omni-shield is deployed, even if the omni-shield breaks from the attack. Enemies that are susceptible to the knockdown stun will not only damage themselves, but knock themselves out as well. Shielded infantry enemies that melee you will be stunned (staggered).
+Cryo Shield: The Cryo Shield evolution allows the Paladin to chill and mildly damage enemies that attempt melee attacks on the Paladin while the shield is deployed (even if the shield breaks from the attack) or that are nearby when the shield is deployed using the heavy melee.
+This will also apply the described debuff to enemy armor.
+No more than one unprotected enemy in close proximity will be immediately frozen solid and primed for a Cryo Explosion; uniquely, this can also freeze an unprotected Phantom and repeatedly freeze a Possessed Abomination without causing it to become immune. Also, much like how the Snap Freeze power works, this lone enemy is instantly primed for a Cryo Explosion whether they are protected or not, though only unprotected enemies can be frozen. The heavy melee damage (either from deploying the shield, or when said enemy takes damage by striking a deployed shield) will trigger the freeze if an enemy is shielded as long as the shielding depletes from the damage.
+The regular melee swipe with the shield does not have the above effects, and does not even apply a chill.
+When Cryo Shield is combined with the rank 6 Damage & Weakness evolution of Snap Freeze, the Paladin can cause a 100% weakening of armored targets for 5 seconds. This can be especially useful on harder difficulties where enemy armor mitigates more damage. Of course, this requires getting into melee range of armored enemies, often an unwise idea as many of them can instantly kill you.
+A Husk or Abomination that melee attacks the Paladin with the Cryo Shield or Fire Shield out may still be able to successfully grab the player even though they will be chilled or burned, respectively. The chances of this appear to increase when more than one are attacking in close proximity.
+Availability[]
+Single-player: N/A
+Multiplayer: N7 Paladin Sentinel
+Trivia[]
+The Cryo Shield and Fire Shield evolutions can grant kill credit to Shield Mastery in the kill feed.
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

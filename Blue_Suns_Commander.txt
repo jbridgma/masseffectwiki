@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+Blue Suns Commander
+
+
+
+
+Race
+TurianHumanBatarian
+
+
+Type
+Organic
+
+
+Faction
+Blue Suns
+
+
+Armament
+M-76 RevenantM-300 Claymore
+
+
+Abilities
+ Morale Boost Tech Armor Incendiary Ammo Disruptor Ammo
+
+
+Health
+High
+
+
+Armor
+High
+
+
+Shields
+High
+
+
+Locations
+Purgatory, Factory District, Joab, Sanctum
+
+
+The Blue Suns Commander is a powerful member of the Blue Suns mercenary group. Blue Suns Commanders are equipped with armor and superior weapons in comparison to other Blue Suns forces.
+
+Capabilities[]
+Offensive
+Human and batarian Commanders are armed with the M-76 Revenant light machine gun, while turians are equipped with M-300 Claymore heavy shotguns. They can equip their guns with Incendiary and Disruptor Ammo.
+Commanders can provide a stats boost to nearby troops.
+Defensive
+Commanders have shields, which they can regenerate over time, and a high armor, making them more durable than other Blue Suns during combat. They also have access to Tech Armor.
+
+Tactics[]
+Not surprisingly, the best way to handle a Commander is at range. Sniper rifles make good weapons for taking these soldiers down, but in close quarters, assault rifles will do. Because they are so durable, it's a good idea to shift your team's fire to concentrate on the Commander until he can be crowd-controlled with biotics or tech. If dealing with the Claymore-wielding variant, keeping them away is a must.
+Overload, Incinerate and Reave are all good ways to deal with Commanders.
+On higher difficulties, using powers to drain their shields and destroy their armor will prove useful at a distance, allowing you to conserve ammo and kill them quickly.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

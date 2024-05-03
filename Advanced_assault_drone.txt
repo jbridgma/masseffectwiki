@@ -1,0 +1,107 @@
+
+
+
+
+
+
+
+
+
+
+Alliance Assault Drone
+
+
+
+
+Type
+Synthetic
+
+
+Armament
+Mass Accelerator Machine Gun
+
+
+Abilities
+None
+
+
+Health
+Moderate
+
+
+Shields
+Very High
+
+
+Locations
+Luna
+
+
+Advanced Assault Drones are employed by the Systems Alliance and other armed forces for support of their ground operations. Assault Drones are armed with a Mass Accelerator Machine Gun.
+
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+Advanced Assault Drones are known to be used by the Systems Alliance to train its soldiers and marines for combat scenarios. In 2183 an Alliance VI at the training center on Luna went rogue and used drones and turrets under its command to kill the staff.
+
+Tactics[]
+Advanced Assault Drones possess six bars of shielding and are highly durable, which can be quite significant if the player fights them early. As is the case with all Mass Effect enemies, their shields will regenerate over time. Their health will not regenerate, however, and Cold Ammunition could be used to exploit this.
+They tend to swarm the player at close range and travel around cover. Additionally, they are armed with a rapid fire machine gun that can quickly deplete your shields and health. Packs of them support each other with no regard for their own cover, instead relying on the sheer force of overwhelming numbers and constant suppression fire. As such, you should never stay in the group's firing arc for long. If you cannot thin them out, funneling them through the corridor can help you match their tactics and their firepower.
+Because they're flying enemies that can thrust in any direction, they completely ignore the physics component of biotics, though Warp functions normally and Throw does a small but noticeable bit of damage. To compensate for that, they have heightened vulnerability to the tech attacks that is uncommon even amongst geth, with each tech grenade dealing more damage than usual. Overload can help deal with their strong shields, and since the machine gun is their only weapon, Sabotage will prevent them from attacking for a short while.
+The Assault Drones can be made to attack their brethren with the Master AI Hacking, providing a useful distraction. They may be marked as hacked at Advanced level, but appear to be effectively immune. Keep in mind that if there are no drones in its line-of-sight, it will still attack you.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

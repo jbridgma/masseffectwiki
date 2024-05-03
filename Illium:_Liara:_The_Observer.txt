@@ -1,0 +1,103 @@
+
+
+
+
+Liara has asked for assistance in rooting out a Shadow Broker agent, the Observer. She needs data fragments recovered from information cache terminals around Illium.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Locations
+
+2.1.1 Data Point 1
+2.1.2 Data Point 2
+2.1.3 Data Point 3
+2.1.4 Data Point 4
+2.1.5 Data Point 5
+
+
+2.2 Guessing the Observer
+
+
+3 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Illium: Liara: System Hacking
+
+This assignment is available upon the completion of the above. Speak to Liara for the assignment to commence.
+
+Walkthrough[]
+Note: If the Lair Of The Shadow Broker conversation option is selected after starting this mission, then this mission instantly completes without awarding credits or experience. Therefore, complete this mission before beginning the Shadow Broker DLC.
+
+
+Liara will tell you about a senior agent of the Shadow Broker known only as the Observer, who she wishes to identify and kill in order to severely weaken the Broker. In an effort to do this, she asks the Commander to find and hack 5 terminals, each containing a fragment of text with which to unmask the Observer. Liara's assistant, Nyxeris, has narrowed down the list of potential suspects to a turian, a salarian, a krogan, a batarian and a vorcha. 
+After successfully hacking a terminal, you will be given the option to call Liara and tell her who you believe the Observer is. Liara assembles a strike team to take the suspect out. Alternatively, you can continue to search for evidence.
+
+Locations[]
+Data Point 1[]
+Next to the asari and volus discussing human colonies and business on the western side of the Trading Floor. The text reads:
+
+
+“…trader tried to kill the batarian. Claims it was because he hates slavers, but the men were more likely fighting over money. Watch for now…”
+
+
+Data Point 2[]
+Found near the counter in the Eternity bar. The text reads:
+
+
+“Smuggler and assassin have refused to work with the vorcha due to lack of trust. Odd to see scruples from the men at this point.”
+
+
+Data Point 3[]
+On the Trading Floor. At a digital information board, just right of the large hologram. The text reads:
+
+
+“The turian's asking too many questions. Observer recommends terminating him and framing assassin or salarian contact.”
+
+
+Data Point 4[]
+At a kiosk near Serrice Technology. The text reads:
+
+
+“Turian contact working well with the trader. Observer has rescinded kill order against him, given difficulty in securing contact with the trader through other methods.”
+
+
+Data Point 5[]
+Located just down the stairs from Liara's office. The text reads:
+
+
+“Vorcha trader has requested no further contact with the salarian. Salarian is becoming more trouble than he is worth. Observer recommends a kill, but she may have a grudge.”
+
+
+Guessing the Observer[]
+
+After hacking the fifth terminal, you can call Liara, and a new dialogue option becomes available: "None of the suspects fit". Selecting this option leads to Shepard informing Liara that the Observer is female, whereas all of the possible suspects are male. Liara then deduces that her assistant, Nyxeris, has been feeding her misinformation, and is a double agent working for the Shadow Broker. If you wrongly identify one of the five as the Observer, you earn 2 Paragon points. If you correctly deduce that the Observer is not one of the five, you get 5 Paragon points, and Liara beckons Nyxeris to her office to deal with the spy herself. Return to Liara to conclude the assignment.
+The rest of the morality points in this assignment are earned during your closing talk with Liara in her office. If you picked the wrong person, Liara will tell Shepard that the other agents have gone to ground and she will continue her search. If not, Liara informs you Nyxeris had some interesting data on her and was well-compensated to boot, so she gives you the spy's credits. In either situation, you can tell Liara, "Don't give in to temptation" for 2 Paragon points or "Good luck, Liara" for 2 Renegade points. Warning:  Choosing the "Liara's needs" investigate option inexplicably ends the conversation and doesn't let you say "Good luck, Liara" or "Don't give into temptation."
+Investigating her anger about the Shadow Broker leads to Liara mentioning that the Broker wanted to sell Shepard's body to the Collectors. To fully explore the conversation, you should choose "Anger at Shadow Broker" before investigating "Liara's needs."
+
+Mission Summary[]
+Experience reward: 40 (50)
+Credits: 5,000 (4,500 If you didn't import a character from Mass Effect, not awarded if any of the male suspects were picked)
+
+Liara and the Shadow Broker Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+
+
+
+Illium: Liara: System Hacking
+
+Missions
+
+
+
+
+
+

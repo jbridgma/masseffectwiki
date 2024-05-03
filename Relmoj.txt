@@ -1,0 +1,37 @@
+
+
+
+A discovered audio log revealed that an angaran refugee family is being hunted by the kett. Search the area for signs of survivors.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Find the missing daughter
+2.2 Find the missing parents
+
+
+3 Enemies
+
+
+Acquisition[]
+Prerequisite: Meet the Resistance
+
+Going straight north from Techiix on Voeld, there is red smoke from a flare among ice formations. Next to it is an audio log on the ground from a girl. Listening to the log starts the mission and Ryder receives +270 XP. 
+Alternatively, you can discover the girl's parents' log instead if the marker and the daughter's log aren't around. It's on a small cave on the side of the mountain southeast from the center-north Forward Station, between it and a Remnant site. This switches the order of the objectives but there are no differences in the rewards or outcome.
+
+Walkthrough[]
+Find the missing daughter[]
+In the message, Ibyl says that she had to leave her parents in a nearby cave, while she herself was on the run from kett. They've already taken her acquaintances Oren and Ulri, and she hears them coming for her. 
+A navpoint will be added to the cave location. Before you go, there's a lithium node in a nearby ice column.
+
+Find the missing parents[]
+In the cave, there is an audio log from Ibyl's father Relmoj. Listen to the audio log and Ryder receives +270 XP. The kett have taken Relmoj and Eira's children except Ibyl, so they sent her ahead to Techiix. He hears the kett coming for him and his wife.
+Be prepared as a pack of Wraith will spawn in/around the cave entrance after Ryder listens to the father's audio log.
+When you get both logs, Ryder has no way to track them so all that remains is to transmit the audio logs to the Resistance.
+
+Enemies[]
+Wraith
+
+
+

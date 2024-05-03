@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Cryo Beam is a Tech skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Player Notes
+4 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Cryo Beam
+
+
+
+     HOLD BUTTON: Directs a continuous stream of super-cooled particles that freezes targets, priming them for combo detonations. Freezing disables unarmored enemies and weakens enemy armor, but has no effect on shielded foes.
+
+Damage per Second: 135
+Defense Debuff vs. Armor: 50%
+Recharge Time (s): 15
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++10% Recharge Speed
+
+
+3
+
+Damage
+
+
+
+-
+
++20% Damage
+
+
+4
+
+Damage
+
+
+
+-
+
++25% Damage
+
+
+4
+
+Recharge Speed
+
+
+
+-
+
++25% Recharge Speed
+
+
+5
+
+Brittle Freeze
+
+
+
+-
+
++50% Armor Defense Debuff
+
+
+5
+
+Radius
+
+
+
+The beam freezes targets in a small radius around its impact point.
+
+Radius (m): 2
+
+
+6
+
+Snap Freeze
+
+
+
+Shattering frozen targets causes additional damage to nearby foes and snap-freezes nearby defenseless enemies.
+
++50% Frozen Shatter Damage
++50% Frozen Shatter Force
++150% Frozen Shatter Radius 
+
+
+
+6
+
+Cryo Trap
+
+
+
+     When aimed away from a direct target, the beam creates a temporary freezing zone that chills enemies who enter.
+
+-
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Cryo Beam
+
+
+
+      HOLD BUTTON: Directs a continuous stream of super-cooled particles that freezes targets, priming them for combo detonations. Freezing disables unarmored enemies and weakens enemy armor, but has no effect on shielded foes.
+
+Damage per Second: 150
+Defense Debuff vs. Armor: 50%
+Recharge Time (s): 10
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++10% Recharge Speed
+
+
+3
+
+Damage
+
+
+
+-
+
++30% Damage
+
+
+4
+
+Damage
+
+
+
+-
+
++50% Damage
+
+
+4
+
+Recharge Speed
+
+
+
+-
+
++30% Recharge Speed
+
+
+5
+
+Brittle Freeze
+
+
+
+-
+
++65% Armor Defense Debuff
+
+
+5
+
+Radius
+
+
+
+The beam freezes targets in a small radius around its impact point.
+
+Radius (m): 2.5
+
+
+6
+
+Snap Freeze
+
+
+
+Shattering frozen targets causes additional damage to nearby foes and snap-freezes nearby defenseless enemies.
+
++200% Frozen Shatter Damage
++100% Frozen Shatter Force
++150% Frozen Shatter Radius 
+
+
+
+6
+
+Cryo Trap
+
+
+
+      When aimed away from a direct target, the beam creates a temporary freezing zone that chills enemies who enter.
+
+-
+
+Player Notes[]
+Mechanics
+Cryo Beam has no set range, meaning that any targeted enemy can be hit with the power.
+Shielded enemies take damage from the beam, but cannot be frozen or primed for Cryo Combos.
+Enemies need to be hit with the Cryo Beam for a few seconds before they are considered frozen. Unarmored and unshielded enemies will freeze solid and stop moving, while armored enemies will appear to be almost pure white and covered in ice.
+Strategies
+Due to its ability to both stop enemies and set them up for combos, Cryo Beam is especially useful against enemies such as Breachers, Adhi, and Wraiths that try to rush Ryder with melee attacks. Adding the Rank 5 Radius and Rank 6 Cryo Trap evolutions make it even more effective in this role.
+Cryo Beam is one of the more effective powers for priming combos, as it has virtually unlimited range and if only used for a duration sufficient to freeze an enemy, has a very fast cool down.
+Availability[]
+Single-player: Pathfinder Ryder - Starting Tech Skill
+Multiplayer: Human Artificer, Human Engineer
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

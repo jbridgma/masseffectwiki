@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+This article is about the talent in the first Mass Effect game and its unlockable Overload ability. For the tech power called Overload in Mass Effect 2 and Mass Effect 3, see Overload. For the skill in Mass Effect: Andromeda, see Overload (skill).
+
+Electronics is a tech talent available to Engineers, Infiltrators, and the Quarian Machinist from the start and is an unlockable talent for Sentinels, the Turian Agent, and the Asari Scientist. Electronics can allow you to repair or bypass objects. Electronics increases the strength of your shields and the amount of hull restored when you repair the Mako. Similar to how First Aid works for healing the squad, the team's combined Electronics level adds to how much hull can be restored per repair, and with a high enough combined skill the Mako can be fully repaired from almost destroyed.
+This talent also grants the Overload ability, which damages enemies and shuts down their shields.
+
+Contents
+
+1 Talent Levels
+2 Overload
+
+2.1 Overload
+2.2 Advanced Overload
+2.3 Master Overload
+
+
+3 Classes
+4 Trivia
+
+
+Talent Levels[]
+Level 1: Overload; can use electronics skill on easy objects.
+Level 2: Increases shield capacity by 30. Restores 400 extra hull during vehicle repair.
+Level 3: Increases shield capacity by 60. Restores 600 extra hull during vehicle repair.
+Level 4: Increases shield capacity by 90. Restores 800 extra hull during vehicle repair. Unlocks Damping (Infiltrator, Quarian Machinist, Engineer).
+Level 5: Advanced Overload; can use electronics skill on average objects.
+Level 6: Increases shield capacity by 120. Restores 1200 extra hull during vehicle repair.
+Level 7: Increases shield capacity by 150. Restores 1400 extra hull during vehicle repair.
+Level 8: Increases shield capacity by 180. Restores 1600 extra hull during vehicle repair.
+Level 9: Master Overload; can use electronics skill on hard objects.
+Level 10: Increases shield capacity by 210. Restores 2000 extra hull during vehicle repair.
+Level 11: Increases shield capacity by 240. Restores 2200 extra hull during vehicle repair.
+Level 12: Increases shield capacity by 270. Restores 2400 extra hull during vehicle repair.
+Overload[]
+The Overload ability is granted by the Electronics talent. Like Damping and Sabotage, Overload is deployed via omni-tool as a tech proximity mine.
+Overload is best used at the beginning of a battle to give you an instant edge over your enemies, allowing you to spend less time taking down their shields and more time killing them. It is effective against larger enemies like Geth Armatures and Krogan Battlemasters, who often fully recharge their shields when close to death. Overload will also damage the hexagonal 'Geth Barriers'. Similarly to Sabotage, it can be used to blow up fuel tanks and containment cells for environmental damage.
+Overload is also notable for weakening enemy resistance to damage, making it useful even against opponents that have no shields such as the rachni or Thorian Creepers. While the vulnerability effect isn't as powerful as Warp's, it is still potent; it can also stack with Warp's effect. Certain rare enemy types can use Overload against you and your party, dealing severe damage to your shields and also reducing your damage resistance. Counteract this with abilities like Immunity and Shield Boost.
+Note: If Liara learns all available biotic abilities, the Overload ability becomes hidden in the HUD/Power Wheel. Liara will only be able to use Overload if the Squad Power Usage option is set to Active.
+
+Overload[]
+Does 50 damage in a 6m radius. Does 200 damage to enemy shields. Reduces damage protection by 20%.
+
+Duration: 10 sec.
+Recharge time: 60 sec.
+Accuracy Cost: 60%
+Advanced Overload[]
+Does 100 damage in a 8m radius. Does 400 damage to enemy shields. Reduces damage protection by 25%.
+
+Duration: 10 sec.
+Recharge time: 50 sec.
+Accuracy Cost: 60%
+Master Overload[]
+Does 150 damage in a 10m radius. Does 600 damage to enemy shields. Reduces damage protection by 30%.
+
+Duration: 10 sec.
+Recharge time: 40 sec.
+Accuracy Cost: 60%
+Classes[]
+The following classes have the Electronics talent tree:
+
+Engineer Starting
+Infiltrator Starting
+Sentinel Unlockable
+Quarian Machinist Starting
+Turian Agent Unlockable
+Asari Scientist Unlockable
+Trivia[]
+In the mobile game Mass Effect Galaxy, Jacob Taylor can use a variant of this tech attack.
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

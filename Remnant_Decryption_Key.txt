@@ -1,0 +1,1406 @@
+
+
+
+
+
+
+
+This article is about resources which include minerals and materials used for developing items in Mass Effect: Andromeda. For the assignment in Mass Effect, see UNC: Valuable Minerals. For the planetary resources scanning system in Mass Effect 2, see Planet Scanning. For the system in Mass Effect 3 to recover War Assets, see Search and Rescue.
+
+In Mass Effect: Andromeda, the inventory resources tab consists of five main categories. All six resources types in the resource category do not count towards the Inventory item limit.
+
+Contents
+
+1 Minerals
+
+1.1 Acquisition
+
+
+2 Tech Materials
+
+2.1 Acquisition
+
+
+3 Bio Materials
+
+3.1 Acquisition
+
+
+4 Salvage
+5 Augmentations
+6 Special Items
+7 Resources For Development
+8 Resource Scanning Rewards
+
+
+Minerals[]
+
+Raw minerals are the most common materials used in research and development. They can be discovered in space, purchased from merchants, or even picked up on foot in small amounts, but the best way to acquire minerals is with the Nomad's mining system.
+When exploring a planet, establish forward stations to detect major mineral deposits. 
+
+Acquisition[]
+Merchants
+All minerals can be acquired by purchasing from certain merchants. Increasing the maximum purchasable amount of materials is possible by unlocking the Commerce cryo pod perk Supply Lines.
+
+Probes
+When exploring a star system or celestial objects via the galaxy map, Dr. Suvi Anwar may alert Ryder to an anomaly. Locating and probing the anomaly may yield some minerals or salvage although it does not return as much minerals compared to mining. See Tempest Scanning Rewards for details.
+
+Mining
+While mining minerals from a vehicle is not new to the Mass Effect series, the method differs in Mass Effect: Andromeda. 
+
+While exploring a planet, Ryder can establish a Forward Station marked as  and basic mining zones indicated as  are then revealed on the map.
+If the ND1 Nomad is within a mining zone, SAM will notify Ryder that the area can be mined for resources.
+Toggle open the Nomad's mining computer display and drive around the mining zone until one or more of the mineral column signal increases.
+Drive around a bit more to make sure the signal is as strong as it's going to get, then deploy a mining drone.
+The drone will mine in a radius outlined by an orange line; Ryder can no longer find any resources within this perimeter.
+All minerals gathered will be transferred to Ryder's inventory immediately.
+When almost all minerals have been mined in the area, the SAM and the mining display will indicate that the zone is depleted.
+Additional enhancedand rare  mining zones can be revealed if the Science cryo pod perks Expanded Field Analysis and Expanded Field Analysis II are unlocked.
+On Foot
+Ryder will also locate mineral nodes while completing missions by foot on the planet surface. Most nodes will only require direct interaction but occasionally SAM will advise Ryder of an 'unknown mineral'. This mineral could be something not encountered before, or it could be a special request by an NPC. Use the scanner to scan the node. Containers also might have minerals.
+
+Deconstruction
+See also: Deconstruct
+Ryder can acquire minerals by deconstructing (breaking down) weapons and armor obtained through combat, exploration, or purchase. The minerals used to craft an item are what will be returned during deconstruction but at a reduced amount. 
+
+Deconstruction is a very effective strategy for to obtain hard-to-find and/or expensive minerals. Certain resources (Vanadium for example) can actually be acquired for fewer credits after deconstruction than by purchasing the mineral itself.
+
+
+Icon
+
+Element (Symbol)
+
+Rarity
+
+Description
+
+Acquired from
+
+
+
+
+Aluminum (Al)
+
+Common
+
+A valuable non-magnetic light metal, useful in construction and manufacturing despite its relatively low melting point.
+
+Mining - Eos, Kadara
+
+
+
+
+Beryllium (Be)
+
+Common
+
+An ideal metal for lightweight construction in a variety of applications. Useful as an alloying element.
+
+Mining - Kadara, Voeld
+
+
+
+
+Cadmium (Cd)
+
+Uncommon
+
+A metal often used in constructing electronic components and in complex manufacturing.
+
+On Foot - Eos, Kadara, Voeld
+
+
+
+
+Copper (Cu)
+
+Common
+
+Copper is a noble metal with high conductivity that makes it useful for a variety of purposes.
+
+Mining - Kadara, Voeld
+
+
+
+
+Element Zero (Ez)
+
+Ultra Rare
+
+Electrically stimulated element zero creates “mass effect” fields. It’s the basis of much modern technology, including faster-than-light travel.
+
+Mining - Elaaden, Voeld
+On Foot - Elaaden
+
+
+
+
+
+Fluorite (F)
+
+Uncommon
+
+A mineral used for creating precision scientific lenses, among other applications.
+
+On Foot - Elaaden, Eos, Voeld
+
+
+
+
+Graphite (C)
+
+Common
+
+This crystalline carbon mineral is an electrical conductor and a useful part of many manufacturing processes.
+
+Mining - Elaaden, Eos
+
+
+
+
+Iridium (Ir)
+
+Uncommon
+
+A hard, ultra-dense metallic element that is highly resistant to heat and corrosion.
+
+On Foot - Kadara
+
+
+
+
+Iron (Fe)
+
+Common
+
+A common metallic element found in many planetary cores. Broadly useful for multiple engineering purposes.
+
+Mining - Elaaden, Eos, H-047c
+
+
+
+
+Lithium (Li)
+
+Uncommon
+
+A useful light metal used in multiple engineering applications, including vehicle batteries, radiation shields, and high-quality steel production.
+
+On Foot - Kadara, Voeld
+
+
+
+
+Magnesium (Mg)
+
+Common
+
+Magnesium is a light and sturdy metal. Magnesium alloys are integral to many complex Initiative structures.
+
+Mining - H-047c, Havarl
+
+
+
+
+Nickel (Ni)
+
+Uncommon
+
+A corrosion-resistant transition metal useful for manufacturing purposes.
+
+On Foot - Elaaden, H-047c, Havarl
+
+
+
+
+Platinum (Pt)
+
+Rare
+
+Platinum is a malleable noble metal with multiple catalytic applications. Also possesses a degree of cultural cachet among humans.
+
+Mining - H-047c, Voeld
+On Foot - H-047c, Havarl
+
+
+
+
+
+Silicon (Si)
+
+Common
+
+A metalloid element useful in electronics manufacturing and the fabrication of ceramic compounds.
+
+Mining - Elaaden, H-047c
+
+
+
+
+Titanium (Ti)
+
+Rare
+
+This extremely strong transition metal vital for manufacturing starship components and other equipment.
+
+Mining - H-047c, Kadara
+On Foot - H-047c
+
+
+
+
+
+Uranium (U)
+
+Uncommon
+
+A heavy, radioactive element valuable in nuclear technologies and, in its depleted state, for armor plating.
+
+On Foot - H-047c, Kadara
+
+
+
+
+Vanadium (V)
+
+Rare
+
+This rare metal can be used to produce various construction alloys.
+
+Mining - Eos
+On Foot - Elaaden
+
+
+Tech Materials[]
+
+Technological materials are found are found among the various sapient species of Andromeda. 
+Tech materials are “species”-specific base materials that are used in crafting items. An item’s technological origin (Milky Way , Heleus , or Remnant ) can be a good indicator of the base materials that may be used in the crafting of the item.
+
+Acquisition[]
+Merchants
+Tech materials can be acquired by purchasing from certain merchants. Ryder can increase the maximum purchasable amount of materials by unlocking the Commerce cryo pod perk Supply Lines.
+
+On Foot
+Tech materials are acquired from fallen enemies.
+Tech materials can also be found in containers while exploring on foot.
+
+Deconstruction
+See also: Deconstruct
+Ryder can acquire tech materials by deconstructing (breaking down) weapons and armor obtained through combat, exploration, or purchase. The materials used to craft an item are what will be returned during deconstruction but at a reduced amount. 
+
+Deconstruction is a very effective strategy to obtain hard-to-find and/or expensive materials.
+
+
+Icon
+
+Name
+
+Type
+
+Rarity
+
+Description
+
+Dropped From
+
+
+
+
+Angaran Meditation Crystal
+
+Tech Material
+
+Common
+
+An apparently delicate crystal incorporating angaran technology to produce an electromagnetic field. The field reacts soothingly with angaran biology but has other applications as well.
+
+Angara, Roekaar
+
+
+
+
+Kett Alloy
+
+Tech Material
+
+Common
+
+The kett utilize a number of unfamiliar alloys in their technology. At this time, the Initiative is unable to replicate most of them.
+
+Kett
+
+
+
+
+Omni-Gel Canister
+
+Tech Material
+
+Common
+
+A semi-molten mixture of alloys and synthetic polymers used in Milky Way technology for rapid fabrication.
+
+Outlaws
+
+
+
+
+Remnant Polymer
+
+Tech Material
+
+Common
+
+A synthetic polymer of incredible durability and conductive properties, fashioned by Remnant technology through unknown means.
+
+Remnant
+
+
+Bio Materials[]
+
+Biological materials are most commonly acquired by hunting the native wildlife of Heleus. Some may be sold by merchants as well.
+
+Acquisition[]
+Merchants
+Bio materials can be acquired by purchasing from certain merchants. Ryder can increase the maximum purchasable amount of materials by unlocking the Commerce cryo pod perk Supply Lines.
+Note:  Remnant Core can't be purchased and can only be found.
+
+On Foot
+Bio materials are anatomical parts of animal wildlife native to the Heleus Cluster.
+Bio materials can also be found in containers while exploring on foot.
+
+Deconstruction
+See also: Deconstruct
+Ryder can acquire bio materials by deconstructing (breaking down) weapons and armor obtained through combat, exploration, or purchase. The materials used to craft an item are what will be returned during deconstruction but at a reduced amount. 
+
+Deconstruction is a very effective strategy to obtain hard-to-find and/or expensive materials.
+
+
+Icon
+
+Name
+
+Type
+
+Rarity
+
+Description
+
+Dropped From
+
+
+
+
+Eiroch Fluid Sac
+
+Bio Material
+
+Rare
+
+Sacs inside eirochs contain a fluid used to suspend delicate electronic components. The standard synthetic alternative is in extremely short supply.
+
+Eiroch, Fiend
+
+
+
+
+Remnant Core
+
+Bio Material
+
+Ultra Rare
+
+This compact core of Remnant circuitry and power cells has a limited self-repair capability. Properly stimulated, it might be able to “seed” similar tech into other devices.
+
+Architect
+
+
+
+
+Renderable Plates
+
+Bio Material
+
+Common
+
+The tissues of these animal plates can be rendered into a variety of adhesives and lubricants at a fraction of the cost of producing synthetic equivalents.
+
+Adhi, Eiroch, Galorn, Taurg
+
+
+
+
+Scale Fibers
+
+Bio Material
+
+Common
+
+These scales are layered with an unusual natural fiber similar to spider silk. It could be chemically modified to create a material with strength and elasticity.
+
+Challyrion, Rylkor
+
+
+
+
+Shell Filaments
+
+Bio Material
+
+Common
+
+A keratin-like structure forms the basis of shell plating on certain creatures. If replicated, this biopolymer could prove useful in kinetic padding.
+
+Drall, Echidna, Kaerkyn, Taurg
+
+
+
+
+Soft Chitin
+
+Bio Material
+
+Common
+
+The chitin of certain Heleus creatures is constantly strengthened and repaired by colonies of microorganisms. Study could lead to breakthroughs in materials technology.
+
+Shemrys, Spitbug
+
+Salvage[]
+
+These items have no practical use for Ryder in the field, but can be sold to merchants for a tidy profit. 
+
+Different salvage items differ in value; the higher the value, the more credits gained for selling it.
+Deconstructing salvage destroys the item and does NOT give resources. As resources do not count towards the item inventory limit, it is better to save them for sale.
+Commerce cryo pod perks Grey Market Connections and Grey Market Connections II increase the amount of credits salvage items can be sold for.
+Salvage items sell for a premium on Elaaden: 
+
+Annea at The Paradise pays twice the base credit worth of a salvage item.
+The Blood Threshers Manager and Team Ryncol Manager at the New Tuchanka fighting pit pay five times the base credit worth of a salvage item.
+Tip: The best strategy is to sell salvage items to the fighting pit managers as they pay more for salvage than anyone else (even with the previously mentioned Commerce cryo pod perks at a different merchant).
+
+     Low Value Salvage  
+     Moderate Value Salvage  
+     High Value Salvage  
+
+
+Salvage Name
+
+Value
+
+ Base Credits
+
+
+Adaptive Optics
+
+High
+
+100
+
+
+Adaptive Polymer Wrap
+
+Low
+
+20
+
+
+Algorithm Fragment Scan
+
+High
+
+200
+
+
+Angaran Ceramics
+
+Low
+
+20
+
+
+Asari Comm-Link
+
+Low
+
+20
+
+
+Ballistic Drift Stabilizer
+
+High
+
+100
+
+
+Beacon Optics
+
+Moderate
+
+50
+
+
+Biodisinfectant
+
+Low
+
+20
+
+
+Bioelectric Infusers
+
+Moderate
+
+50
+
+
+Bioelectric Restraints
+
+Low
+
+20
+
+
+Bionacent Converter
+
+Moderate
+
+50
+
+
+Bioweave Canvas
+
+Low
+
+20
+
+
+Classification Circuit
+
+High
+
+200
+
+
+Comm Array
+
+Moderate
+
+50
+
+
+Coolant Cells
+
+High
+
+100
+
+
+Dampening Coils
+
+Moderate
+
+50
+
+
+Eezo Shunt
+
+Moderate
+
+50
+
+
+Eezo-Inlaid Circuitry
+
+Moderate
+
+100
+
+
+EMF Suppressor
+
+Moderate
+
+50
+
+
+Enzymatic Injector
+
+High
+
+100
+
+
+Enzymatic Vials
+
+Low
+
+20
+
+
+ExoGeni M-Spec Magnets
+
+Low
+
+20
+
+
+Flexible Polymer Casing
+
+Moderate
+
+50
+
+
+Grav-Torque Pad
+
+Moderate
+
+50
+
+
+Impact Restrictors
+
+Low
+
+20
+
+
+Inorganic Lubricant
+
+Low
+
+40
+
+
+Intact Neuro-Coil
+
+Moderate
+
+100
+
+
+Kett Sealant
+
+Low
+
+20
+
+
+Leather Wrapping
+
+Low
+
+20
+
+
+Modified Energy Cell
+
+Moderate
+
+50
+
+
+Moisture Filters
+
+Low
+
+20
+
+
+Nanocrystal Modules
+
+High
+
+100
+
+
+Nav-Coil Fibers
+
+Moderate
+
+50
+
+
+Nitrate Infuser
+
+Low
+
+40
+
+
+Observer Lens
+
+Moderate
+
+100
+
+
+Opto-Electric Module
+
+Moderate
+
+50
+
+
+Portable Rebreather
+
+Moderate
+
+50
+
+
+Protein Sludge Pack
+
+Low
+
+20
+
+
+Quarian Nav Processor
+
+High
+
+100
+
+
+Rarefied Filaments
+
+Low
+
+40
+
+
+Reconstituted Components
+
+Low
+
+40
+
+
+Reflexive Coupling
+
+High
+
+100
+
+
+Remnant Processing Core
+
+Moderate
+
+100
+
+
+Repair Actuals
+
+Low
+
+20
+
+
+Resin Caps
+
+Low
+
+20
+
+
+Salarian Magnifier
+
+Low
+
+20
+
+
+Scourge Drift Sensor
+
+Moderate
+
+50
+
+
+Settlement Core Relay
+
+High
+
+100
+
+
+Shield Focusing Module
+
+High
+
+100
+
+
+Small Power Core
+
+Moderate
+
+50
+
+
+Soil Reducer
+
+High
+
+100
+
+
+Sprouted Seed Vial
+
+High
+
+200
+
+
+Terran Rivets
+
+Low
+
+20
+
+
+Turian Calibration Coil
+
+Low
+
+20
+
+
+Uncharged Bioreader
+
+Moderate
+
+50
+
+
+Universal Semiconductor
+
+High
+
+200
+
+
+UR-Exo Power Supply
+
+High
+
+100
+
+
+Vault-Forged Relay
+
+High
+
+200
+
+
+Welding Electrodes
+
+Low
+
+20
+
+
+Augmentations[]
+
+Main article: Augmentations
+Augmentations are special optional components which can be added into an [sic] blueprint when developing an item to customize it. They can grant various bonuses to an item or even change its basic functionality. 
+
+
+Special Items[]
+
+These are items critical to one or more of your missions. They cannot be sold or destroyed.
+Special items can be purchased from merchants.
+
+
+
+Name
+
+Description
+
+Required for
+
+
+Akantha
+
+A popular brand of asari liquor renowned for its warm, smoky flavor and sweet aftertaste.
+
+Movie Night: Raise a Glass
+
+
+Ancient Angaran Figurine
+
+An odd relic depicting an unknown individual or species physically different from modern angara.
+
+Forgotten History
+
+
+Ancient Angaran Musical Instrument
+
+An advanced musical instrument crafted by angara in the distant past.
+
+Forgotten History
+
+
+Ancient Angaran Pilot's Helmet
+
+A high-tech helmet worn by an angaran astronaut, centuries ago.
+
+Recovering the Past
+
+
+Ancient Angaran Star Map
+
+An angaran astronavigation device with data predating the Scourge disaster.
+
+Forgotten History
+
+
+Angaran Antibiotics
+
+Advanced antimicrobial drugs to treat bacterial infections in angaran patients.
+
+Task: Outpost Supplies on Kadara
+
+
+Angaran Resistance Supplies
+
+A collection of weapons, ammunition, and rations intended for the Angaran Resistance.
+
+Trading Favors
+
+
+Archon's Flagship Model
+
+A finely crafted scale model which can be displayed in the Pathfinder's Quarters on the Tempest.
+
+-
+
+
+Blue Ticket
+
+-- Blue to Win --Krogan fighting pit ticket
+
+-
+
+
+Citadel Model
+
+A finely crafted scale model which can be displayed in the Pathfinder's Quarters on the Tempest.
+
+-
+
+
+Cybernetic Device
+
+This device, and its accompanying software, will compensate for the damage to Alain Nigh's spinal implants, enabling them to function correctly.
+
+The Firefighters
+
+
+Humane Trap
+
+A humane trap designed to capture a small creature alive for future study.
+
+The Visitor
+
+
+Ionic Water Filters
+
+A device to modify alkaline levels in ground water and make it potable for Milky Way species.
+
+Task: Outpost Supplies on Elaaden
+
+
+Kett Shuttle Model
+
+A finely crafted scale model which can be displayed in the Pathfinder's Quarters on the Tempest.
+
+-
+
+
+Last of the Legion
+
+A special edition OSD of "Last of the Legion," critically panned upon its release but popular on turian military bases.
+
+Movie Night: The Final Piece
+
+
+Liam's Armor Requisition
+
+This project's requisitions armor for what Liam is calling a "diplomatic effort.". He wasn't specific.
+
+Liam Kosta: Something for Us
+
+
+Lover's Leap Jump-Jet Mod
+
+It's not immediately clear what this mod accomplishes. Liam wants to alter the output of the standard Initiative jump-jet using unique specifications. His only comment is "no peeking".
+
+Liam Kosta: Armor Diplomacy
+
+
+ND1 Nomad Model
+
+A finely crafted scale model which can be displayed in the Pathfinder's Quarters on the Tempest.
+
+-
+
+
+Nexus Model
+
+A finely crafted scale model which can be displayed in the Pathfinder's Quarters on the Tempest.
+
+-
+
+
+Quilloa Seeds
+
+Enough seeds to produce a large crop of fruit-bearing quilloa plants.
+
+Task: Outpost Supplies on Eos
+
+
+Red Ticket
+
+-- Red to Win --Krogan fighting pit ticket
+
+-
+
+
+Remnant Decryption Key
+
+Remnant decryption keys can be used to bypass any glyph-locked Remnant console. Unfortunately, the key is always destroyed in the process.
+
+-
+
+
+Remnant Fighter Model
+
+A finely crafted scale model which can be displayed in the Pathfinder's Quarters on the Tempest.
+
+-
+
+
+Scourge Data Capsule
+
+ANALYSIS: A data capsule of targeted Scourge trajectory data, collected to aid in modifying Khi Tasira exploration and navigation systems in service of location Meridian.
+
+Meridian: The Way Home
+
+
+Snacks
+
+A large bag of popcorn and a container of graxen, popular snacks from the Milky Way.
+
+Movie Night: Snacks
+
+
+Solar Amplifiers
+
+Highly optimized solar energy collection and storage technology.
+
+Task: Outpost Supplies on Voeld
+
+
+Tavarv Plant
+
+A nutritious plant which, properly dried and prepared, is given to angaran children as a snack.
+
+Movie Night: Better Snacks
+
+
+Vid Components
+
+Angaran electrodermal transmission components. With work, they would be compatible with the Tempest's vid systems.
+
+Movie Night: The Right Setup
+
+
+Vorn's Flower for Kesh
+
+Vorn asked you to give Kesh a flower that he's named after her.
+
+Task: A Flower for Kesh
+
+
+Winning Ticket
+
+Krogan fighting pit winning ticketReturn to a merchant to collect credits
+
+-
+
+
+Zorai's Heirloom
+
+Once belonging to the champion called Zorai, this gauntlet appears designed to fit an angaran hand. An intricate web of circuitry and silvery contacts run over its interior and exterior surfaces.
+
+A Dying Planet
+
+Resources For Development[]
+The total required amount for each resource listed is the amount of that resource to develop one copy of every Rank for all of the items listed. 
+Refer to each individual resource page for details on the specific items that can be crafted and the amounts of that specific resource required.
+
+
+
+Resource
+
+CraftedItems
+
+TotalRequired
+
+
+
+Resource
+
+CraftedItems
+
+TotalRequired
+
+
+ Aluminum
+
+4
+
+25
+
+
+
+ Nickel
+
+22
+
+13650
+
+
+ Angaran Meditation Crystal
+
+9
+
+3660
+
+
+
+ Omni-Gel Canister
+
+69
+
+21720
+
+
+ Beryllium
+
+22
+
+25485
+
+
+
+ Platinum
+
+24
+
+2255
+
+
+ Cadmium
+
+29
+
+16560
+
+
+
+ Remnant Core
+
+2
+
+54
+
+
+ Copper
+
+19
+
+25290
+
+
+
+ Remnant Polymer
+
+12
+
+4870
+
+
+ Element Zero
+
+40
+
+5595
+
+
+
+ Renderable Plates
+
+4
+
+471
+
+
+ Eiroch Fluid Sac
+
+5
+
+1058
+
+
+
+ Scale Fibers
+
+9
+
+2489
+
+
+ Fluorite
+
+20
+
+11425
+
+
+
+ Shell Filaments
+
+9
+
+2188
+
+
+ Graphite
+
+8
+
+8890
+
+
+
+ Silicon
+
+9
+
+9160
+
+
+ Iridium
+
+13
+
+4748
+
+
+
+ Soft Chitin
+
+4
+
+471
+
+
+ Iron
+
+28
+
+28455
+
+
+
+ Titanium
+
+21
+
+2155
+
+
+ Kett Alloy
+
+16
+
+6690
+
+
+
+ Uranium
+
+8
+
+4600
+
+
+ Lithium
+
+20
+
+13470
+
+
+
+ Vanadium
+
+32
+
+6320
+
+
+ Magnesium
+
+4
+
+6900
+
+
+
+
+
+
+
+
+
+
+
+Resource Scanning Rewards[]
+For scanning that awards resources using the Tempest, see Tempest Scanning Rewards.
+
+
+
+
+Mass Effect: Andromeda Resources
+
+
+
+
+
+
+
+Bio Materials
+
+Eiroch Fluid Sac • Remnant Core • Renderable Plates • Scale Fibers • Shell Filaments • Soft Chitin
+
+
+Minerals
+
+Aluminum • Beryllium • Cadmium • Copper • Element Zero • Fluorite • Graphite • Iridium • Iron • Lithium • Magnesium • Nickel • Platinum • Silicon • Titanium • Uranium • Vanadium
+
+
+Tech Materials
+
+Angaran Meditation Crystal • Kett Alloy • Omni-Gel Canister • Remnant Polymer
+
+
+
+
+

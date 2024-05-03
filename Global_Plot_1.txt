@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+Global Plot 1 is an assignment which was cut from Mass Effect. Like the other "global plots", it is a lengthy quest which would have taken place across several of the main story's locations. Thematically, Global Plot 1 further explored the topic of biotic corporations and human experimentation.
+
+Contents
+
+1 Acquisition
+2 Plotline
+
+2.1 On the Citadel
+2.2 The Camp on Feros
+2.3 Noveria: MindTech Office
+2.4 Noveria: Hidden Facility
+
+2.4.1 Option 1: Chasing Vasilis
+2.4.2 Option 2: Saving the Captives
+
+
+2.5 Finale
+
+
+3 Trivia
+4 References
+
+
+Acquisition[]
+This quest would have been acquired on the Citadel, but it also cannot be completed if the player doesn't have access to both Feros and Noveria.
+
+Plotline[]
+On the Citadel[]
+Shepard would come across a man named Jered Salenta (who Kaidan recognizes if he's present) who begs Shepard for a favor to help out a friend in need. He skittishly tells you to let his friend, Lucan, know that "Lysander can help." After accepting the quest, Shepard's squadmates remark on how jumpy and suspicious Jered acted.
+Shepard would then head to where you were told Lucan would be, in an alleyway near the black markets. However, conversing with him quickly reveals Lucan is mentally unstable, and he mentions his friends are on Feros. When you finally tell him about Lysander, Lucan goes into a panic and eventually attacks, revealing he's a biotic.
+After having dealt with Lucan, Shepard's squadmates pick up Lucan's dropped datapad, which mentions a planet in the Hades Gamma cluster. Immediately afterwards, you are approached by another character who calls himself Vasilis Kostas. He inquires why you were interested in Lucan, then reveals he's searching for his brother Lysander. He had come into contact with a special group of mad biotics like Lucan called "Voids" who seem to have abducted him. Vasilis then asks Shepard to follow the trail to Feros to find his brother and ensure he's safe.
+
+The Camp on Feros[]
+Somewhere on Feros, Shepard's squad would come across a group of unidentified mercenaries. After dispatching them, a nearby scout could be talked to. He explains the group of "mercenaries" camps further down the street, but won't say anymore unless you either bribe or persuade him using Charm or Intimidate. If he's convinced to talk some more, he will tell you to head to the MindTech office on Noveria and even allow you to trade with him. In either case, the conversation is ended by letting him go.
+Further up the road, Shepard would arrive at the mercenaries' camp and talk with one of them, a turian named Horace, who insists on being left alone. Your squadmates drop Lucan's name and one of the mercenaries, Dorian, overhears this and asks what happened to Lucan, who turned out to be his brother. Depending on Shepard's tone, he reacts with regret or anger at the news but Horace calms him down. After explaining that you're looking for Lysander, Horace and Dorian explain that the Voids they're protecting here are Lucan's friends, and they're trying to prevent Lysander from finding them, though they don't seem to know exactly why. They eventually tell you to try searching the MindTech office on Noveria, where the Voids used to work for Lysander, and they hand over Lucan's datapad to help locating it. Shepard may then decide if this group should be left alone, or insist the Voids are too dangerous to be allowed to leave. Either way however, the dialogue will be interrupted by the attack of another unidentified group of mercenaries, who must then be dealt with. If Dorian and Horace are not killed in the ensuing battle, then they allow one of the Voids, Drak, to trade with Shepard before moving out.
+Back on the Normandy, you would receive an incoming transmission of Vasilis Kostas who asks what you found on Feros. Shepard then informs him about heading to the MindTech office on Noveria before closing the transmission.
+
+Noveria: MindTech Office[]
+As Shepard enters the MindTech office on Noveria, the squadmates remark on it being long abandoned, before the presence of someone else is heard. A man named Gregor appears and confronts Shepard quite aggressively. He initially believes you are working for Vasilis, but soon enough, more hostile mercenaries appear, which Gregor recognizes as Vasilis's men, and he realizes there's been a misunderstanding. After you kill the attackers, Gregor explains his side of the story to Shepard.
+Lysander, like Lucan, was a test subject for a biotics company called Nexxus, whose security branch is led by Vasilis. Both Lysander and Vasilis are Voids, but Lysander escaped Nexxus and has been trying to help other test subjects escape and hide from it while Vasilis is dedicated to stopping his brother. Vasilis needed a disposable outsider to track Lysander down to avoid suspicion, as Lysander has been gathering incriminating data to take down Nexxus. Gregor also realizes that Vasilis has tracked Shepard's movements to Noveria and may have intercepted Gregor's transmission, meaning his men are closing in on Lysander who is hiding in a facility in the mountains. He urges you to meet him on the way there.
+
+Noveria: Hidden Facility[]
+As you meet up with Gregor again, he asks you to follow him to the facility on foot. If you refuse to go right away, Gregor turns hostile and the quest seemingly cannot proceed. Otherwise, he'll remark on the way that Vasilis's troops seem to have raided the facility already. You eventually come across a skittish guard who will initiate combat if he cannot be persuaded to flee using Charm or Intimidate.
+After fighting your way through the facility, you finally find Lysander, gravely injured, as Vasilis appears on a livefeed screen. He gives you a choice: either try to go after him and prevent him from destroying the evidence against Nexxus, or free Lysander's friends who are trapped in a room filling with deadly gas. All squadmates agree, even Gregor though reluctantly, that chasing Vasilis should be your priority.
+
+Option 1: Chasing Vasilis[]
+When you finally find Vasilis again, he makes you an offer: let him go, and he'll reward you handsomely.
+
+Option 2: Saving the Captives[]
+A timer would indicate how much time you have left before the prisoners die. You would eventually find the labs where Lysander's friends are imprisoned and find a way to stop the gas, and open the door. If you were fast enough, Jered comes out safely and urges you to go after Vasilis, while Gregor stays with him there. Otherwise, your squadmates remark on the captives all being dead.
+Arriving to the place where Vasilis is holed up, he tells you that you're too late and Lysander's incriminating evidence was destroyed. However a very weakened Lysander tells you that he should be able to "rip" it from his mind if Shepard can defeat him in combat. Your squadmates and Vasilis remark on how that's akin to torture, but Lysander insists Vasili has inflicted it many times himself and stresses that it's necessary. Vasilis then proposes a different deal to you: let him go, and he'll reward you handsomely.
+
+Finale[]
+If you take Vasilis's offer, Lysander and Gregor turn hostile, but Vasilis's guards quickly finish them off. After that, Vasilis offers you a sum of credits and even the option to upgrade your biotics. He also states how, despite the losses you inflicted on his personnel, he'll be able to grow Nexxus into an even more capable force. When you're done, he has you escorted back to Port Hanshan. Shepard's squadmates disapprove of the decision to let him go.
+If you refuse Vasilis's offer, you are forced to fight him and his men. Then, if the data was destroyed but you went along with Lysander's plan to rip it from his mind, you have the ability to subdue Vasilis. In any case, Lysander thanks you for everything you've done, and doesn't blame you if you chose to let his friends die earlier to save the data. If you recovered the data, he's unable to pay you with credits but offers to provide you with biotic prototypes and upgrades. He explains that with this data, he'll be able to take down Nexxus for good. If the data was lost for good due to Vasilis' death, Lysander still thanks you but wearily states that this mess will take years to undo, and he doesn't offer any rewards. When you're done, he lets Gregor escort you back to Port Hanshan.
+
+Trivia[]
+The Plot Database related to this mission mentions a human character named Ian Ferguson, who appears to be at some point part of Normandy's crew.[1] However, none of the quest's recovered dialogue mentions his name, nor does his short unused dialogue on the Normandy mention anything relating to this assignment.
+The choice between saving innocent hostages or going after the villain bears more than a passing resemblance to the one found in the climax of Mass Effect's downloadable content Bring Down the Sky.
+There are a number of unexplained discrepancies throughout the plot:
+Lucan seems to drop "his" datapad after being killed, leading Shepard to Feros; on Feros, Dorian and Horace also hand out "Lucan's datapad" to Shepard.
+One line of Vasilis's says "Good. The sooner you find Lucan, the better." However everything else points to Vasilis only showing up after Lucan has died.
+The location of the Voids' camp is both referred to a "barren planet in the Hades Gamma cluster" and Feros, which contradict one another.
+References[]
+Mass Effect Cut Content/Global Plot 1 Voicelines
+Plot Database: LE1.Global_Plots.Global_Plot_01
+
+↑ Plot Database: LE1.Global_Plots.Global_Plot_01.Ferguson_Mentioned
+
+
+
+
+

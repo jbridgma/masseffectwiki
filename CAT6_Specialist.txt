@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+CAT6 Specialist
+
+
+
+
+Faction
+CAT6
+
+
+Type
+Organic
+
+
+Armament
+M-9 TempestShock Baton
+
+
+Abilities
+ Multi-Frag Grenade Disruption Drone
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Citadel
+
+
+The CAT6 Specialist (also known as the Merc Trooper) is a CAT6 unit encountered in Mass Effect 3 Citadel DLC.
+
+Capabilities[]
+Offensive
+CAT6 Specialists create Disruption Drones to distract enemies and drain their shields, then use their M-9 Tempest SMGs after closing in. They also use Multi-Frag Grenades to flush enemies from cover, and often use them in tandem with their drones. They are also equipped with Shock Batons for melee attacks, like Cerberus troops.
+Defensive
+CAT6 Specialists have a moderate amount of health and are protected by a layer of shields, which regenerates over time. They often hide in cover, using their abilities to deal most damage, but in large groups their weapons can strip your shields quickly. They can roll to avoid gunfire or powers and like other enemies in Mass Effect 3, they can be staggered by gunfire or powers if unshielded, and take 40% additional damage from headshots.
+
+Tactics[]
+The initial encounter with them forces you to rely heavily on your powers and stealth, as you don't have your armour, medi-gel or any weapons besides the M-11 Suppressor at the time.
+Remember to aim for the head with the M-11 Suppressor, as the weapon has a much greater headshot damage bonus than normal. These troops have somewhat large heads, which makes this weakspot easier to attack for massive damage.
+The Multi-Frag Grenades Specialists throw are more dangerous than the standard grenades thrown by most enemies as they explode faster once on the ground near you and can cover a wider area. They also land without much warning and with no beeping sound while in flight, so  just "expect" them to be coming your way and don't get complacent. Specialists will often yell out "Grenade!" as an additional warning.
+Since they're equipped with shields, Disruptor Ammo and Overload are very handy against them. Despite being the CAT6 "basic infantry", Specialists actually have stronger shields than the shielded infantry of other enemy factions such as the Centurion and Marauders. You may need a little more "juice" than you expected to knock their shields out.
+A somewhat unique feature of CAT6 Specialists is that during their melee baton attacks they are immune to interrupts from various powers and attacks that normally stun other similar foot soldier-type enemies out of their melee animations.  This includes, but may not be limited to, light (normal) melee attacks, and the shocks/stuns of Combat Drone and Defense Drone.  The following are not exhaustive lists:
+While shielded, Specialists can still be stunned during their melee animation by Shepard's heavy melee attacks, and the following powers: Incinerate, Overload, Pull, Shockwave, and Charge.  Nova and Reave do not stun them.
+When unshielded, most physics-based abilities like Nova can interrupt them (and lift or hurl them as usual), in addition to everything described above.  Light melee attacks, drone stuns, and Reave still won't work, however.
+CAT6 Specialists also have a specific animation while summoning a Disruption Drone that takes several seconds during which time they will crouch behind cover.  Aside from just killing them, this summoning animation is uninterruptible with even fewer exceptions than those described above for their melee animations, especially when the Specialist is shielded.  This is usually a moot point anyway as Specialists only try to summon drones when far away from the player and in cover, so interrupting them usually isn't practical, even if it were possible.
+Their Disruption Drones can be turned against them if you use Sabotage.
+Killing the Specialist will destroy any drones it created.
+
+
+Mass Effect 3 Enemies
+
+
+CAT6
+
+Brooks • CAT6 Heavy • CAT6 Sniper • CAT6 Specialist • Clone • Disruption Drone
+
+
+Cerberus
+
+Adjutant • Assault Trooper • Atlas • Centurion • Combat Engineer • Dragoon • Dr. Eva • Guardian • Kai Leng • Legion Assassin • Nemesis • Phantom • Rampart Mech • Turret
+
+
+Collectors
+
+Abomination (Possessed) • Collector Captain (Possessed) • Collector Trooper (Possessed) • Collector Web • Praetorian (Possessed) • Scion (Possessed) • Seeker Swarm (Plague)
+
+
+Geth
+
+Combat Drone • Geth Bomber • Geth Hunter • Geth Prime • Geth Pyro • Geth Rocket Trooper • Geth Trooper • Geth Turret
+
+
+Reapers
+
+Banshee • Brute • Cannibal • Harvester • Husk • Marauder • Ravager • Swarmer
+
+
+
+

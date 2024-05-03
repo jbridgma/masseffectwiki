@@ -1,0 +1,87 @@
+
+
+
+Damping is an unlockable tech talent available to Engineers, Infiltrators, the Turian Agent, and the Quarian Machinist. Damping increases the explosion radius on your tech proximity mines, and shuts down enemy tech and biotic abilities. This makes it a useful defensive talent when facing large groups of enemies or strong biotics like Asari Commandos. 
+Like other tech talents, Damping also works by deploying a tech proximity mine. The short stunning effect of Damping does not knock targets to the ground but merely stops them in their tracks briefly during which time they cannot move, attack, or use abilities. Many enemy types, especially most humanoid soldiers wearing armor, possess tech resistance that makes them immune to the stun effect or reduces the stun's duration to insignificance.
+In conjunction with Sabotage, Damping can render many enemies virtually helpless. However, like most tech abilities it is less effective against opponents with organic-based attacks such as the rachni or Thorian Creepers. It's also worth noting that Damping does not prevent enemies with Immunity from using it.
+When used by enemies, Damping can affect the cooldown of First Aid. Only a few enemies in the game possess Damping, but this is something to watch out for. Having a high level of tech resistance such as from armor will also work to reduce the duration of Damping on Shepard or allies.
+
+Contents
+
+1 Talent Levels
+
+1.1 Damping
+1.2 Advanced Damping
+1.3 Master Damping
+
+
+2 Classes
+
+
+Talent Levels[]
+Level 1: Damping
+Level 2: Increases the radius of Sabotage, Overload, and Damping by 10%.
+Level 3: Increases the radius of Sabotage, Overload, and Damping by 14%.
+Level 4: Increases the radius of Sabotage, Overload, and Damping by 18%.
+Level 5: Increases the radius of Sabotage, Overload, and Damping by 20%.
+Level 6: Advanced Damping
+Level 7: Increases the radius of Sabotage, Overload, and Damping by 22%.
+Level 8: Increases the radius of Sabotage, Overload, and Damping by 24%.
+Level 9: Increases the radius of Sabotage, Overload, and Damping by 26%.
+Level 10: Increases the radius of Sabotage, Overload, and Damping by 28%.
+Level 11: Increases the radius of Sabotage, Overload, and Damping by 30%.
+Level 12: Master Damping
+Damping[]
+Damage: 50 damage in a 6m radius. Stuns basic enemies for 3s.
+Enemy Cooldown: Adds 30% cooldown time to enemy biotic or tech talents.
+Recharge Time: 60 sec.
+Accuracy Cost: 60%
+Advanced Damping[]
+Damage: 100 damage in an 8m radius. Stuns most enemies for 3s.
+Enemy Cooldown: Adds 45% cooldown time to enemy biotic or tech talents.
+Recharge Time: 50 sec.
+Accuracy Cost: 60%
+Master Damping[]
+Damage: 100 damage in a 10m radius. Stuns all but the toughest enemies for 3s.
+Enemy Cooldown: Adds 60% cooldown time to enemy biotic or tech talents.
+Recharge Time: 40 sec.
+Accuracy Cost: 60%
+Classes[]
+The following classes can use the Damping talent:
+
+Engineer Unlockable
+Infiltrator Unlockable
+Quarian Machinist Unlockable
+Turian Agent Unlockable
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

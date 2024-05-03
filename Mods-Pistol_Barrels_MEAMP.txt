@@ -1,0 +1,118 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - Pistol Barrel: Enhances a weapon's barrel, creating greater gunfire velocity and impact.
+Enhanced - Pistol Long Barrel: Substantially increases damage, but reduces clip size.
+Enhanced - Pistol Short Barrel: Substantially increases damage, but at the cost of accuracy.
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Pistol Barrel
+
++9%
+
++11%
+
++12%
+
++14%
+
++15%
+
++16%
+
++17%
+
++18%
+
++19%
+
++21%
+
+Pistol Damage
+
+
+Pistol Long Barrel
+
++16%-5%
+
++18%-7%
+
++19%-7%
+
++21%-9%
+
++23%-10%
+
++24%-11%
+
++26%-12%
+
++28%-13%
+
++29%-14%
+
++31%-15%
+
+Pistol DamagePistol Clip Size
+
+
+Pistol Short Barrel
+
++16%-5%
+
++18%-5%
+
++19%-7%
+
++21%-9%
+
++23%-10%
+
++24%-11%
+
++26%-12%
+
++28%-13%
+
++29%-14%
+
++31%-15%
+
+Pistol DamagePistol Accuracy
+
+
+Equipping a Pistol Barrel Mod changes the shape of the weapon by modifying the barrel depending upon the specific weapon.
+
+
+
+

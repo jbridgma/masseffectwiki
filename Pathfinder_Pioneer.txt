@@ -1,0 +1,335 @@
+
+
+
+The Pathfinder Pioneer is an assault rifle in Mass Effect: Andromeda.
+
+
+Pathfinder Pioneer
+
+
+
+
+
+
+General Info
+
+Category
+Assault Rifles
+
+
+Rarity
+Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+63-81
+
+
+Rate of Fire
+600
+
+
+Max Clip Size
+24
+
+
+Max Ammo
+168-187
+
+
+Accuracy
+55-65
+
+
+Weight
+25-19
+
+
+
+
+
+
+Contents
+
+1 Description
+
+1.1 Features
+1.2 Strategies
+
+
+2 Stats
+3 Development
+4 Bugs
+
+
+Description[]
+The Pioneer feeds data directly to a Pathfinder's SAM, allowing adjustments to the automatic weapon's balance, recoil, and heat buildup. The first Pathfinder weapon was developed by Andromeda Initiative scientists to serve as a virtual extension of its user's body.
+
+Features[]
+Like all weapons in the Pathfinder Elite Weapons Set, the Pioneer is not available above Rank V.
+The Pathfinder Pioneer fires in 3 round bursts.
+Despite being classified as a Rare weapon, the Pioneer only has 2 augmentation slots.
+Strategies[]
+Stats[]
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+63
+
+600
+
+24
+
+168
+
+55
+
+25
+
+
+II
+
+67
+
+600
+
+24
+
+173
+
+59
+
+24
+
+
+III
+
+72
+
+600
+
+24
+
+177
+
+62
+
+22
+
+
+IV
+
+76
+
+600
+
+24
+
+182
+
+63
+
+21
+
+
+V
+
+81
+
+600
+
+24
+
+187
+
+65
+
+19
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Iron
+
+ Cadmium
+
+ Element Zero
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+20
+
+80
+
+40
+
+10
+
+0
+
+
+II
+
+Level 6
+
+20
+
+90
+
+40
+
+10
+
+2
+
+
+III
+
+Level 11
+
+20
+
+100
+
+50
+
+10
+
+2
+
+
+IV
+
+Level 21
+
+30
+
+110
+
+50
+
+10
+
+2
+
+
+V
+
+Level 31
+
+30
+
+130
+
+60
+
+20
+
+2
+
+
+Total
+
+N/A
+
+120
+
+510
+
+240
+
+60
+
+N/A
+
+Bugs[]
+In the development menu, all iterations of the Pioneer will be found grouped together in the Rank I area.
+The game incorrectly flags the Pioneer as fully automatic, preventing the Automatic Fire System augmentation from being applied to it.
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

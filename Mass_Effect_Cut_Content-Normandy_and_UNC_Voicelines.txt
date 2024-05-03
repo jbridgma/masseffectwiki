@@ -1,0 +1,600 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut dialogues either taking place on the SSV Normandy without relating to any mission on particular, or relating to UNC assignments. They are presented in no particular general order, but are shown chronologically within a same assignment.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 joker
+2 jb_workbench
+3 nor20_ian_ferguson
+4 sp102_data_module
+5 sp102_triggers
+6 sp103_triggers (1)
+7 sp103_triggers (2)
+8 sp110_triggers (1)
+9 sp110_triggers (2)
+10 sp110_triggers (3)
+11 sp120_transmission
+12 sp113_distress_call
+13 sp113_party_triggers (1)
+14 sp113_engine_triggers
+15 sp113_party_triggers (2)
+16 sp113_trig01_engineer
+17 sp113_engineer
+18 dlc_plottest_test
+19 sp106_trig01_supplies
+20 x06_hench
+21 x06_end
+
+
+joker[]
+Note:  among the following voicelines, only the first one exists in English despite being present in audio banks labelled "_fr" and "_it." The rest only exist in and were translated from Polish, and their wording may be inaccurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\joker_fr.isb; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\joker_plpc.isb
+Character present:
+
+Jeff "Joker" Moreau
+
+Joker: As we're flying along in this... infinite vast expanse of nothingness, passengers on the left can look out their portholes and see... nothing for miles and miles and miles, with the occasional star clusters and distant asteroid belts.
+
+Joker: And the lucky ones on the right have the opportunity to see... an ice rock, probably never inhabited. Not surprised, it doesn't look very... friendly.
+
+Joker: Now cross your fingers. I'm gonna turn around to take you into an incredible journey through razor-sharp asteroids. Just kidding, there's nothing there.
+
+Joker: Now relax a bit, you can even walk freely around the deck or go to the labs if you want to work. Just don't forget to clean up after you're done, all right? Cleaning lady is having a day off.
+
+Joker: The chef recommends dehydrated ice creams with fruits and something that was supposed to be a meat... meat loaf. It didn't cook up well.
+
+Joker: The weather for today is cold, reaching absolute zero. It's not recommended going outside without a hat, scarf... All right, you might also need a body suit.
+
+Joker: I've turned up the porthole heater so you could have a better view on... absolutely nothing. Have fun!
+
+Joker: Ah, I'm bored. Anyone got any board games? I could play a couple rounds.
+
+Joker: I'm wasting time here. I'm just sitting here with my thumb up my ass. Not literally, I always wash my hands. Want to see my nails?
+
+Joker: It's about time for a break. Piss break I mean. Could you pass me that bottle? Just kidding, I'm going.
+
+Joker: Do you have some sudoku? I'm about to die of boredom.
+
+Joker: Do you have a book with crosswords? Preferably the biggest one filled with exceptionally difficult words. I'm bored.
+
+Joker: Don't you have better things to do? Are you not a badass Spectre, saving the world and that kind of crap?
+
+Joker: Wanna talk? Take a seat. It's not like I dislike gossip, except for the fact that I hate it.
+
+Joker: Go save the day, old timer. I have a lot things to do. I need to pick my nose, for starters.
+
+Joker: You need to spend more time with the crew. Not that you are bothering me, it's just... I'm feeling a bit hemmed in, okay?
+
+Joker: What, you wanna do a high-five or a little dancing?
+
+Joker: I would take it seriously if I didn't have a lot of work to do. What? You've got nothing to do and you just came here to see me? How cute.
+
+Joker: You know, not many women would've looked great in those fatigues. You are the exception. That was a compliment in case you hadn't noticed.
+
+Joker: You see, I don't want to sound too confident or anything, but would you like to go for a drink with me? Coffee? No? How about juice, you like juice? I prefer grapefruit... Wait, am I boring you? I'm not some hero, you know? But I can tell jokes for example. You know the one about a pig?
+
+Joker: Hey, hey, nice to see you again!
+
+Joker: Okay, fine, go away! Now! I'll stay here, alone! To save your asses if need be.
+
+jb_workbench[]
+Note:  the workbench was an interactable device on the Normandy that allowed the player to spend "salvage" (omni-gel) to craft various types of gear. The following menu transcription is accurate, as its file was present and technically functional in the original Mass Effect release.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\jb_workbench_D.upk
+
+
+If the player doesn't have the skill to do crafting:
+Pop-up: You need basic crafting to use the workbench.
+(End of conversation)
+
+If the player has less than 100 units of omnigel:
+Pop-up: You don't have enough salvage.
+(End of conversation)
+
+If the player wants to make "armor":
+Pop-up: What type of armor do you wish to craft?
+
+(Par) Light (Neu) Don't create anything. (Ren) Medium (P Inv) Heavy  Pop-up: "Light" Pop-up: Don't create anything. Pop-up: Medium Pop-up: Heavy
+(End of conversation)
+
+If the player wants to make a "tool":
+Pop-up: Do you want to make a bioamp or omni-tool?
+
+(Par) BioAmp (Neu) Don't create anything. (Ren) Omni-tool  Pop-up: "BioAmp" Pop-up: Don't create anything. Pop-up: Omni-tool
+(End of conversation)
+
+If the player wants to make a "weapon":
+Pop-up: Which weapon do you want to craft?
+
+(Par) Assault Rifle (Neu) Don't create anything. (Ren) Pistol (P Inv) Shotgun (R Inv) Sniper  Pop-up: "Assault Rifle" Pop-up: Don't create anything. Pop-up: Pistol Pop-up: Shotgun Pop-up: Sniper
+(End of conversation)
+
+If the player wants to make a "mod":
+Pop-up: What type of mod do you wish to make?
+
+(Par) Armor Gear (Neu) Don't create anything. (Ren) BioAmp Gear (P Inv) Omni-tool Gear (R Inv) Weapon Gear (Inv) Weapon Ammo  Pop-up: Armor Gear Pop-up: Don't create anything. Pop-up: BioAmp Gear Pop-up: Omni-tool Gear Pop-up: Weapon Gear Pop-up: Weapon Ammo
+(End of conversation)
+
+nor20_ian_ferguson[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect except for missing transitions and conditions. The transcription below is accurate. Do note that several dialogue wheel options leading to the same Shepard voiceline is not an error, it's a common element throughout the first Mass Effect game.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\NOR20\nor20_ian_ferguson_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\nor20_ian_ferguson.isb
+Characters present:
+
+Commander Shepard
+Ian Ferguson
+
+General ambient lines:
+Ian Ferguson: Commander. Ship's looking good. No security issues at present.
+
+Ian Ferguson: My folks sent some food from back home. Earthside food just tastes better, somehow.
+
+Ian Ferguson: Commander. All's sound and clear.
+
+Conversation regarding Urdnot Wrex
+Ian Ferguson: Commander. Things are looking good.
+
+(Par) Report.(Neu) Good.(Ren) That's it.
+Shepard: Nothing to report, then?
+Ian Ferguson: Well. That krogan makes me a wee bit nervous. He's not done anything, but the way he just glares at everyone... well. He's on my list of concerns.
+
+(Par) Thanks. (Neu) Noted. (Ren) Don't worry about it.  Shepard: I'll keep that in mind.Ian Ferguson: Thank you, Commander. Shepard: I'll keep that in mind.Ian Ferguson: Thank you, Commander. Shepard: He'll stay in line.Ian Ferguson: Aye. If you say so.
+(End of conversation)
+
+sp102_data_module[]
+Note:  while this dialogue never plays in full, it should be technically functional. It is related to UNC: Lost Module. The transcription below is accurate. 
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\UNC84\sp102_data_module_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_UNC84_04_DSG_LOC_INT.pcc
+Characters always present:
+
+Commander Shepard
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+| Urdnot Wrex: This is the surveillance drone. But where's the data module?
+| Tali'Zorah: This is the surveillance drone. But where's the data module?
+| Garrus Vakarian: This is the surveillance drone. But where's the data module?
+| Liara T'Soni: This is the surveillance drone. But where is the data module?
+| Kaidan Alenko: This is the surveillance drone. But where's the data module?
+|| Ashley Williams: Over there! That monkey-looking thing has it!
+|| Kaidan Alenko: Over there! That monkey-looking thing has it!
+|| Liara T'Soni: Over there! That creature has it.
+|| Garrus Vakarian: Over there! That-- That creature has it.
+|| Tali'Zorah: Over there! That... thing has it!
+
+(Par) Careful! (Neu) Grab him! (Ren) Take him out!  Shepard: No weapons! We might damage the data module. Shepard: Don't let him get away!| Tali'Zorah: No weapons! We could damage the data module!| Liara T'Soni: No weapons! We could damage the data module!| Kaidan Alenko: No weapons! We could damage the data module!| Ashley Williams: No weapons! We could damage the data module!| Garrus Vakarian: No weapons! We could damage the data module! Shepard: Quick! Shoot him before he gets away!| Tali'Zorah: No weapons! We could damage the data module!| Liara T'Soni: No weapons! We could damage the data module!| Kaidan Alenko: No weapons! We could damage the data module!| Ashley Williams: No weapons! We could damage the data module!| Garrus Vakarian: No weapons! We could damage the data module!
+| Urdnot Wrex: Guess we're doing this the hard way.
+| Garrus Vakarian: Oh, this'll be fun.
+| Ashley Williams: Guess we're doing this the hard way.
+| Kaidan Alenko: Guess we're doing this the hard way.
+| Liara T'Soni: This will not be easy.
+(End of conversation)
+
+sp102_triggers[]
+Note:  while this dialogue never plays, it should be technically functional. It is related to UNC: Lost Module. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\UNC84\sp102_triggers_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_UNC84_05_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: Over there! Don't let the geth catch him!
+| Ashley Williams: Over there! Don't let the geth catch him!
+| Liara T'Soni: Over there! Don't let the geth catch him!
+| Garrus Vakarian: Over there! Don't let the geth catch him!
+| Tali'Zorah: Over there! Don't let the geth catch him!
+
+sp103_triggers (1)[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. It is related to UNC: Rogue VI. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\UNC80\sp103_triggers_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp103_triggers.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+| Tali'Zorah: Take out the shield generators!
+| Garrus Vakarian: Take out the shield generators!
+| Urdnot Wrex: Take out the shield generators!
+| Kaidan Alenko: Take out the shield generators!
+| Ashley Williams: Take out the shield generators!
+| Liara T'Soni: Take out the shield generators!
+
+sp103_triggers (2)[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. It is related to UNC: Rogue VI. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\UNC80\sp103_triggers_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp103_triggers.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+| Tali'Zorah: These drones won't stop until we disable the VI core!
+| Garrus Vakarian: These drones will just keep coming until we disable the VI core!
+| Urdnot Wrex: These drones will just keep coming until we disable the VI core!
+| Kaidan Alenko: These drones won't stop until we disable the VI core!
+| Ashley Williams: These drones won't stop until we disable the VI core!
+| Liara T'Soni: You have to disable the VI core if you want to stop the drones!
+
+sp110_triggers (1)[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. It is related to UNC: ExoGeni Facility. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\UNC51\sp110_triggers_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp110_triggers.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+| Urdnot Wrex: The signal's stronger here. That distress beacon's somewhere inside this camp.
+| Garrus Vakarian: The signal's stronger here. That distress beacon's somewhere inside this camp.
+| Tali'Zorah: The signal's stronger here. That distress beacon's somewhere inside this camp.
+| Liara T'Soni: The signal appears stronger here. The distress beacon must be located somewhere inside this camp.
+| Kaidan Alenko: The signal's stronger here. The distress beacon must be somewhere inside this camp.
+| Ashley Williams: The signal's stronger here. The distress beacon must be somewhere inside this camp.
+
+sp110_triggers (2)[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. It is related to UNC: ExoGeni Facility. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\UNC51\sp110_triggers_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp110_triggers.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+| Ashley Williams: No signs of life. This is bad, Commander.
+| Kaidan Alenko: No signs of life. This is bad, Commander.
+| Liara T'Soni: I do not see any signs of life. I am afraid we might be too late to help this colony.
+| Tali'Zorah: I wonder what happened to the colonists. I don't see any signs of life.
+| Garrus Vakarian: Nobody's here. This place is dead.
+| Urdnot Wrex: Nobody's here. This place is dead.
+
+sp110_triggers (3)[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. It is related to UNC: ExoGeni Facility. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\UNC51\sp110_triggers_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp110_triggers.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+| Urdnot Wrex: Plant zombies. Just like the ones on Feros.
+| Garrus Vakarian: This is the same thing we saw on Feros.
+| Tali'Zorah: This is the same thing we saw on Feros.
+| Ashley Williams: This is the same thing we saw on Feros.
+| Kaidan Alenko: This is the same thing we saw on Feros.
+| Liara T'Soni: These creatures are similar to the ones from Feros.
+
+sp120_transmission[]
+Note:  the Renegade option was deliberately removed from the playable conversation and isolated. It is related to UNC: Dead Scientists. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\NOR10\sp120_transmission_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_NOR10_03_DSG_LOC_INT.pcc
+Characters present:
+
+Steven Hackett
+Commander Shepard
+
+Steven Hackett: I've received some troubling information, Commander. We need your help. Someone is killing former Alliance scientists. There have been four deaths in the past month.
+
+(Par) How can I help? (Neu) What did they work on? (Ren) I don't have time for this.  Shepard: I'm happy to look into it, Admiral. What can you tell me?(The rest of the conversation proceeds as usual) Shepard: Former scientists? Sounds like someone has a project they'd like to keep secret.(The rest of the conversation proceeds as usual) Shepard: I've got higher priorities than retired scientists, Admiral. Find someone else.Steven Hackett: Understood, Commander. Sorry to trouble you. Fifth Fleet out.(End of conversation)
+sp113_distress_call[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate. Also note that this dialogue is part of the original version of X57: Bring Down the Sky as it was developed for the main game, and is not to be confused with the final version released as an expansion.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp113_distress_call.isb; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp113_distress_call_de.isb
+Characters present:
+
+Commander Shepard
+Jeff "Joker" Moreau
+Steven Hackett
+
+Joker: Commander, we've got a priority signal from Fifth Fleet headquarters. Patching it through.
+Steven Hackett: Commander, there's a situation [(English) in the Artemis Tau cluster. / (foreign) on Artemis 13093. In its orbit, to be precise.] Terrorists seized an asteroid being moved in orbit around the colony. They're going to bring it down. We only have an hour before the rock hits the red line.
+
+(Par) Ready and able. (Neu) Please go on. (Ren) So? Blast it away. (Inv) What's it doing there?  Shepard: We're at your disposal if you need us, Admiral.Steven Hackett: I appreciate that, Commander, but there's another factor you should be aware of. There was an engineering crew of a hundred aboard the rock. They were monitoring stability during transit. As far as we know, they're still aboard. Shepard: If you're calling us, there must be more to it than that.Steven Hackett: There was an engineering crew of a hundred aboard the rock. They were monitoring stability during transit. As far as we know, they're still aboard. Shepard: Why do you need us for? Just blow it into rubble.Steven Hackett: I have ships standing by, but the terrorists have hostages aboard. There was an engineering crew of a hundred aboard the rock. They were monitoring stability during transit. As far as we know, they're still aboard. Shepard: Why was the asteroid being moved?Steven Hackett: I think they were going to tether it to an orbital elevator, I didn't ask. All that's important to us is that a big rock is going to hit dirt in sixty.(Return to last choice)
+(Par) We're on it. (Neu) What will you do? (Ren) Not worth the hassle. (Inv) Investigate  Shepard: We can try to extract them.Steven Hackett: You're our best bet, Commander. I'll send our marines from the Harare, but they're mostly greenhorns. Your best option is to gain control of the engines. The engineers installed three fusion torches to propel it from the asteroid belt into orbit. If you can get control of them in the next hour, you can change the asteroid's vector, steer it into a stable orbit around the planet. If that's impossible, see if you can get the engineers out. We'll blast the rock into rubble. If all else fails, we'll have to sacrifice the hostages. Shepard: Is there an extraction op planned?Steven Hackett: You're our best bet, Commander. I'll send our marines from the Harare, but they're mostly greenhorns. Your best option is to gain control of the engines. The engineers installed three fusion torches to propel it from the asteroid belt into orbit. If you can get control of them in the next hour, you can change the asteroid's vector, steer it into a stable orbit around the planet. If that's impossible, see if you can get the engineers out. We'll blast the rock into rubble. If all else fails, we'll have to sacrifice the hostages. Shepard: Unless there are more engineers than colonists, I'd say "weapons free."Steven Hackett: If we have no other choice, we'll do that. I hope you can give us another option. You're our best bet, Commander. I'll send our marines from the Harare, but they're mostly greenhorns. Your best option is to gain control of the engines. The engineers installed three fusion torches to propel it from the asteroid belt into orbit. If you can get control of them in the next hour, you can change the asteroid's vector, steer it into a stable orbit around the planet. If that's impossible, see if you can get the engineers out. We'll blast the rock into rubble. If all else fails, we'll have to sacrifice the hostages. [Investigate]
+(Neu) Return (Inv) They may be dead already. (Inv) Evacuate the colony.  (Return to overarching choice) Shepard: Are we sure the engineers are alive?Steven Hackett: The terrorists claim they're still alive. We're holding fire until we can extract them, or confirm they're dead.(Return to last choice) Shepard: Can you evacuate the colonists? There can't be that many, the planet's still using a registry number.Steven Hackett: We couldn't do it in an hour, not with the resources we have on site. It is still a garden world, Commander. The rock's big enough to cause a climate shift. There aren't so many habitable worlds out there that we can lose one.(Return to last choice)
+(Par) We'll handle it. (Neu) No promises. (Ren) I can't get distracted.  Shepard: We'll make it right, Admiral.Steven Hackett: Thank you, Commander. We'll transmit the asteroid's location and vector to your navigator. Fifth Fleet out. Shepard: I'll see if we can divert from our current mission.Steven Hackett: Anything you could do would be appreciated. We'll transmit the asteroid's location and vector to your navigator. Fifth Fleet out. Shepard: We have our own mission to worry about.Steven Hackett: I understand... No, that's a lie. I don't understand. But you're not under my command. Officially, I can only beg for favors. We'll handle it ourselves. Fifth Fleet out.
+(End of conversation)
+
+sp113_party_triggers (1)[]
+Note:  the following is a transcription of English audio files. Also note that this dialogue is part of the original version of X57: Bring Down the Sky as it was developed for the main game, and is not to be confused with the final version released as an expansion.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp113_party_triggers.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Jeff "Joker" Moreau
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+(45 minutes remaining)
+| Tali'Zorah: We've got forty-five minutes to do this, Shepard.
+| Urdnot Wrex: We've got forty-five minutes. Make them count.
+| Garrus Vakarian: We've got forty-five minutes. Let's make them count.
+| Ashley Williams: We've got forty-five minutes to do this, Commander.
+| Kaidan Alenko: We've got forty-five minutes to do this, Commander.
+
+(30 minutes remaining)
+| Kaidan Alenko: Half-hour to the red line, Commander.
+| Ashley Williams: Half-hour to the red line, skipper. / Half-hour to the red line, Commander.
+| Garrus Vakarian: Half-hour to the red line, Commander.
+| Urdnot Wrex: Half-hour to the red line.
+| Liara T'Soni: We only have a half-hour to change the asteroid's course.
+
+(15 minutes remaining)
+| Tali'Zorah: We've got fifteen minutes to get control of the engines, Commander.
+| Urdnot Wrex: We've got fifteen minutes.
+| Garrus Vakarian: We're down to fifteen minutes, Commander.
+| Ashley Williams: We've got fifteen minutes to get control of this rock, skipper. / We've got fifteen minutes to get control of this rock, Commander.
+| Kaidan Alenko: We've got fifteen minutes to get control of the engines, Commander.
+
+(10 minutes remaining)
+| Liara T'Soni: Ten minutes, Shepard.
+| Ashley Williams: Ten minutes, skipper. We'd better get this done. / Ten minutes, Commander. We'd better get this done.
+| Garrus Vakarian: Ten minutes, Commander. We'd better get this done.
+| Kaidan Alenko: Ten minutes, Commander. We'd better get this done.
+| Tali'Zorah: Ten minutes, Shepard. We should hurry.
+
+(5 minutes remaining)
+| Garrus Vakarian: We've got five minutes left. Whatever we're doing, do it fast.
+| Kaidan Alenko: Five minutes, Commander! Time to be a hero.
+| Ashley Williams: Five minutes, skipper. Time to be a hero. / Five minutes, Commander! Time to be a hero.
+| Liara T'Soni: Five minutes, Shepard. I recommend haste.
+| Tali'Zorah: We've got five minutes left. Whatever we're going to do, do it fast.
+
+(2 minutes remaining)
+| Garrus Vakarian: Two minutes to the red line, Commander!
+| Kaidan Alenko: Two minutes to the red line, Commander!
+| Ashley Williams: Two minutes to the red line, skipper! / Two minutes to the red line, Commander!
+| Urdnot Wrex: In two minutes, we're dead.
+| Tali'Zorah: Two minutes to the red line, Shepard.
+
+(1 minute remaining)
+| Kaidan Alenko: One minute warning, Commander! We've got to go!
+| Ashley Williams: One minute, skipper! We've got to go! / One minute, Commander! We've got to go!
+| Urdnot Wrex: One minute, Shepard! I'm not dying on this rock!
+| Garrus Vakarian: One minute warning, Commander, we've got to go!
+| Tali'Zorah: One minute, Shepard! We've got to go!
+Joker: Normandy to shore party, we are inbound for extraction!
+
+(No time left)
+Joker: Shore party, time's up! Get out of there now!
+
+sp113_engine_triggers[]
+Note:  the following is a transcription of English audio files. Also note that this dialogue is part of the original version of X57: Bring Down the Sky as it was developed for the main game, and is not to be confused with the final version released as an expansion.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp113_engine_triggers.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+(First fusion torch)
+| Tali'Zorah: We've got control of thruster alpha.
+| Liara T'Soni: We've got control of thruster alpha.
+| Ashley Williams: We've got control of thruster alpha.
+| Garrus Vakarian: We've got control of thruster alpha.
+| Kaidan Alenko: We've got control of thruster alpha.
+
+(Second fusion torch)
+| Tali'Zorah: We've got control of thruster beta.
+| Liara T'Soni: We've got control of thruster beta.
+| Ashley Williams: We've got control of thruster beta.
+| Garrus Vakarian: We've got control of thruster beta.
+| Kaidan Alenko: We've got control of thruster beta.
+
+(Third fusion torch)
+| Tali'Zorah: We've got control of thruster gamma.
+| Liara T'Soni: We've got control of thruster gamma.
+| Ashley Williams: We've got control of thruster gamma.
+| Garrus Vakarian: We've got control of thruster gamma.
+| Kaidan Alenko: We've got control of thruster gamma.
+
+(All fusion torches done)
+| Tali'Zorah: That's all of them, Shepard. Let's nudge this rock onto a new course.
+| Ashley Williams: That's all of them. Let's give this rock a kick in the ass.
+| Urdnot Wrex: That's all of them. We're in control now.
+| Kaidan Alenko: That's all of the engines, Commander. Let's put this rock back on course.
+| Garrus Vakarian: That's all of them, Commander. We've done it.
+
+sp113_party_triggers (2)[]
+Note:  the following is a transcription of English audio files. Also note that this dialogue is part of the original version of X57: Bring Down the Sky as it was developed for the main game, and is not to be confused with the final version released as an expansion.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp113_party_triggers.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+| Garrus Vakarian: Noise coming from that door, Commander. Could be one of the engineering staff.
+| Kaidan Alenko: Noise coming from that door, Commander. Could be one of the engineering staff.
+| Ashley Williams: Noise coming from that door, Commander. Could be one of the engineering staff.
+| Urdnot Wrex: Noise from the door. Could be the engineering staff. I'd blow it open to be safe.
+| Tali'Zorah: I think there's someone behind that door, Shepard. Maybe one of the engineering staff?
+
+sp113_trig01_engineer[]
+Note:  the following is a transcription of English audio files. Also note that this dialogue is part of the original version of X57: Bring Down the Sky as it was developed for the main game, and is not to be confused with the final version released as an expansion.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp113_trig01_engineer.isb
+Character present:
+
+Unnamed asteroid engineer
+
+Engineer: Hello? Hello!
+
+Engineer: Is there anyone out there?
+
+Engineer: Please! Let my people out!
+
+Engineer: You don't need to do this!
+
+sp113_engineer[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate. Also note that this dialogue is part of the original version of X57: Bring Down the Sky as it was developed for the main game, and is not to be confused with the final version released as an expansion.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp113_engineer.isb
+Characters always present:
+
+Commander Shepard
+Unnamed asteroid engineer
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+Engineer: Hello? I know there's someone there.
+
+(Par) You're safe now. (Neu) How many are you? (Ren) Be quiet.  Shepard: (whispering) Shepard, Alliance military. We're here to rescue you.Engineer: Thank God! Listen, they sealed the entire team into one of the storage spaces. They welded the door shut. You'll have to cut them out, or tunnel in through the asteroid maybe. Shepard: (whispering) Are all of the engineering staff in there?Engineer: What? No, this is a closet. Listen, they sealed the entire team into one of the storage spaces. They welded the door shut. You'll have to cut them out, or tunnel in through the asteroid maybe. Shepard: (whispering) Keep it down. We're here to eliminate the terrorists.Engineer: Thank God! Listen, they sealed the entire team into one of the storage spaces. They welded the door shut. You'll have to cut them out, or tunnel in through the asteroid maybe.
+| Garrus Vakarian: (whispering) I don't think we have time for that, Commander.
+| Tali'Zorah: (whispering) That would take some time, Shepard.
+| Ashley Williams: (whispering) I don't think we have time for that, [skipper/Commander].
+| Liara T'Soni: That could take hours.
+| Urdnot Wrex: We'll all be dead before we got in.
+
+(Neu) Don't move. (Ren) I'll fix this mess.  Shepard: (whispering) Sit tight in there. We'll try to regain control of the asteroid. Shepard: (whispering) Listen up in there. I'm gonna go kill some people. We'll come back for you when they're dead.
+Engineer: Oh... okay.
+(End of conversation)== sp113_terrorist ==
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate. Also note that this dialogue is part of the original version of X57: Bring Down the Sky as it was developed for the main game, and is not to be confused with the final version released as an expansion.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sp113_terrorist.isb
+Characters present:
+
+Commander Shepard
+Unnamed terrorist leader
+
+Terrorist leader: What form of life consumes more than it needs to live? Organics. We pass through the galaxy like a worm, eating everything before us, leaving only excretia behind. We must transcend! Free our spirits from these shells of meat and bone, these imperfect vessels, slaves to hormones and crippling infirmity. The day is coming when the intellect can be transfigured into data! Until that day, we must stop the organic virus from infecting more worlds!
+
+(Par) You're insane. (Neu) You're finished. (Ren) You're dead.  Shepard: You get that crazy in college? This is murder, not philosophy class. Shepard: Are you done? Because I think you're done. Shepard: You people want to get loaded into boxes? I can help.
+Terrorist leader: Maggots! Kill them!
+(End of conversation)
+
+dlc_plottest_test[]
+Note:  these are transcriptions of English audio files that are related to some version of X57: Bring Down the Sky. The first part of the news report seems lost.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\dlc_plottest_test.isb
+
+
+(If the mission was failed or the hostages were killed)
+News reporter: To the families of those who lost their lives on the asteroid, we offer our deepest condolences.
+
+(If the hostages were saved)
+News reporter: The engineers' union is now calling for higher security standards in light of this near-tragedy. We will keep you updated as events unfold.
+
+
+sp106_trig01_supplies[]
+Note:  the following is an exact transcription of the full dialogue in UNC: Listening Post Theta, as the Investigate option Are you sure? was voluntarily omitted from the released game. The rest of the dialogue, despite being accessible in-game, is included for better context. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\UNC22\sp106_trig01_supplies_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_UNC24_02_DSG_LOC_INT.pcc
+Characters always present:
+
+Commander Shepard
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+Urdnot Wrex
+
+| Tali'Zorah: According to this, they received a supply ship just two days ago. The rachni must have attacked since then.
+| Garrus Vakarian: Commander, you see this? They just received a supply run two days ago. The rachni worked fast.
+| Kaidan Alenko: Commander, you see this? They just received a supply run two days ago. The rachni worked fast.
+| Ashley Williams: Commander, you see this? They just received a supply run two days ago. The rachni worked fast.
+| Liara T'Soni: Shepard. Their logs say they received a supply run two days ago. The rachni worked fast.
+
+(If Listening Post Alpha was done) (If Listening Post Alpha was not done) 
+(Par) I don't like this. (Neu) Suspicious. (Ren) Supply ship?  Shepard: Two worlds with sudden rachni infestations? This isn't a coincidence. Tell me about that supply ship. Shepard: Two worlds with sudden rachni infestations? This isn't a coincidence. Tell me about that supply ship. Shepard: Where'd that supply ship come from?
+(Par) I don't like this. (Neu) Suspicious. (Ren) Supply ship?  Shepard: Tell me about that supply ship. This planet is supposed to be uninhabited. The rachni didn't come from nowhere. Shepard: Tell me about that supply ship. This planet is supposed to be uninhabited. The rachni didn't come from nowhere. Shepard: Where'd that supply ship come from?
+| Tali'Zorah: One moment. These things are drones, dispatched at irregular intervals from different depots. To reduce the likelihood of tracking. I have it. This one came from Argos Rho.
+| Kaidan Alenko: Hang on. Seems these things are drones, dispatched at irregular intervals from different depots. To reduce the likelihood of tracking. Got it. It came from Argos Rho.
+| Ashley Williams: Hang on. Seems these things are drones, dispatched at irregular intervals from different depots. To reduce the likelihood of tracking. Got it. It came from Argos Rho.
+| Liara T'Soni: I'll need a moment. This base is supplied by drone freighters, dispatched at irregular intervals from different depots to reduce the likelihood of tracking. I have it. This one came from Argos Rho.
+| Garrus Vakarian: Checking. This base is supplied by drone freighters, dispatched at irregular intervals from different depots. To reduce the likelihood of tracking. I have it. This one came from Argos Rho.
+
+(Par) There may be more rachni. (Neu) Let's go. (Ren) Let's kill something. (Inv) Are you sure?  Shepard: Wherever it is, there's probably more rachni there. Let's get to the bottom of this. Shepard: Then that's where we're going. Move out, people. Shepard: Let's get this over with. Somebody needs an ass-kicking. Whoever it is, we'll find them there. Shepard: That's inside an emission nebula. The Alliance doesn't have any depots inside nebulae.| Tali'Zorah: Whoever programmed that freighter didn't take any pains to scrub or alter their data.| Garrus Vakarian: Whoever programmed that freighter didn't take any pains to scrub or alter their data.| Kaidan Alenko: Whoever programmed that freighter didn't take any pains to scrub or alter their data.| Ashley Williams: Whoever programmed that freighter didn't take any pains to scrub or alter their data.| Liara T'Soni: Whoever programmed that freighter did not take any pains to scrub or alter their data.(Return to last choice)
+| Urdnot Wrex: Right.
+| Liara T'Soni: Very well, Shepard.
+| Ashley Williams: Aye, aye, Commander.
+| Kaidan Alenko: Aye, aye, Commander.
+| Garrus Vakarian: Yes, Commander.
+(End of conversation)
+
+x06_hench[]
+Note:  this dialogue was part of the "X06 Demo" destined to showcase the dialogue system in Mass Effect in 2006. It was never meant to be playable in game despite being complete, and notably has E. G. Daily as Ashley Williams, and an unidentified actor as Joker (not heard in the video). Additionally, only male Shepard's voice is available. It was reconstructed based on its English audio files, the pattern of their attributed TLK number, and what can be seen in the video. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not always be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\x06_hench.isb
+Characters present:
+
+Ashley Williams
+Commander Shepard
+Garrus Vakarian
+Jeff "Joker" Moreau
+
+Ashley Williams: Looks like a clean drop, Commander. The geth don't know we're here.
+Garrus Vakarian: They overran a mining facility a couple klicks to the north. They're bunkered in.
+Ashley Williams: We've got civilians trapped in the mines. One of the excavation teams could make it out.
+
+(Par) We'll save them. (Neu) We'll try to help. (Ren) They don't matter.  Shepard: Rescuing those civilians is our number one priority!Garrus Vakarian: The mission objective didn't say anything about civilians, Shepard.Ashley Williams: You're just saying that because they're human! If it was turians trapped down there, you'd want to get them out!Garrus Vakarian: We can't endanger the mission for a bunch of miners!
+(Par) We're helping them! (Neu) I gave you an order! (Ren) He has a point.  Shepard: I'm not gonna let innocent people die! Not while I'm in charge.Garrus Vakarian: Understood, Commander. Shepard: I'm in charge here, Garrus, not you. I gave you an order and you damn well better follow it.Garrus Vakarian: Understood, Commander. Shepard: Damn it! Garrus is right, the mission comes first. Civilians are expendable.Ashley Williams: Understood, Commander. Shepard: Eliminating the geth is priority one. But keep an eye out for those miners.Garrus Vakarian: The mission objective didn't say anything about civilians, Shepard.Ashley Williams: You're just saying that because they're human! If it was turians trapped down there, you'd want to get them out!Garrus Vakarian: We can't endanger the mission for a bunch of miners!
+(Par) We're helping them! (Neu) I gave you an order! (Ren) He has a point.  Shepard: I'm not gonna let innocent people die! Not while I'm in charge.Garrus Vakarian: Understood, Commander. Shepard: I'm in charge here, Garrus, not you. I gave you an order and you damn well better follow it.Garrus Vakarian: Understood, Commander. Shepard: Damn it! Garrus is right, the mission comes first. Civilians are expendable.Ashley Williams: Understood, Commander. Shepard: This mission has one goal: eliminate the geth. Civilians are expendable.Ashley Williams: You can't just let them die, Commander!
+(Par) You're right. (Neu) This is too important. (Ren) I gave you an order!  Shepard: Eliminating the geth is priority one. But keep an eye out for those miners.Garrus Vakarian: Understood, Commander. Shepard: If this mission fails, billions of people die. Sometimes sacrifices have to be made, Williams.Ashley Williams: Understood, Commander. Shepard: I give the orders around here, Williams. And I expect you to follow them.Ashley Williams: Understood, Commander.
+(Par) We go in soft. (Neu) Let's go. (Ren) We go in heavy.  Shepard: Let's move out, slow and quiet. Don't let the geth know we're here.Ashley Williams: Aye-aye, Comm-- What's that?Garrus Vakarian: Geth dropship! They've spotted us!Shepard: Cover's blown! Into the Mako! Move!Joker: So much for slow and quiet! Shepard: Standing here isn't getting the job done. Move out.Ashley Williams: Aye-aye, Comm-- What's that?Garrus Vakarian: Geth dropship! They've spotted us!Shepard: Cover's blown! Into the Mako! Move! Shepard: We hit them hard and fast! Catch them off-guard. Move out!Ashley Williams: Aye-aye, Comm-- What's that?Garrus Vakarian: Geth dropship! They've spotted us!Shepard: Cover's blown! Into the Mako! Move!Joker: So much for catching them off-guard.
+(End of conversation)
+
+x06_end[]
+Note:  this dialogue was part of the "X06 Demo" destined to showcase the dialogue system in Mass Effect in 2006. It was never meant to be playable in game despite being complete, and only has male Shepard's voice is available. Due to the small amount of voicelines and what's shown in the video, the following transcription can be considered as accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\x06_end.isb
+Characters present:
+
+Commander Shepard
+Garrus Vakarian
+
+Garrus Vakarian: We weren't counting on them having armatures, Shepard. There could be more inside the mines. Maybe we should wait for backup.
+
+(Par) There's no time! (Neu) We can handle it. (Ren) Screw the back up!  Shepard: There are people down there that need our help. Maybe they can tell us what's so important down there, and why the geth are so determined to find it. Shepard: We can take down anything they throw at us. We're going in. Shepard: The geth wouldn't send an armature just to kill a few miners. There's something important down there, and we're gonna get it.
+(End of conversation)
+
+
+
+

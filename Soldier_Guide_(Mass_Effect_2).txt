@@ -1,0 +1,261 @@
+
+
+
+See also: Soldier Guide, Soldier Guide (Mass Effect 3)
+
+High level operatives are outfitted with ocular synaptic processors that allow them to focus on targets with lethal accuracy.
+Power Training: Adrenaline Rush, Concussive Shot
+Weapon Training: Assault Rifle, Shotgun, Sniper Rifle, Heavy Pistol
+Ammo Training: Incendiary, Cryo, Disruptor
+Soldiers are pure combat specialists. No one is tougher or more effective at taking down enemies with gunfire. Soldiers have the most thorough weapons training and can use all special ammo types.
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Adrenaline Rush
+2.1.2 Concussive Shot
+2.1.3 Disruptor Ammo
+2.1.4 Incendiary Ammo
+2.1.5 Cryo Ammo
+2.1.6 Combat Mastery
+
+
+2.2 Notable Bonus Powers
+
+2.2.1 Barrier/Fortification/Geth Shield Boost
+2.2.2 Warp Ammo
+2.2.3 Armor Piercing Ammo
+2.2.4 Reave
+2.2.5 Slam
+2.2.6 Inferno Grenade
+2.2.7 Flashbang Grenade
+2.2.8 Stasis
+
+
+
+
+3 Weapons and equipment
+
+3.1 Weapons
+
+3.1.1 Assault rifles
+3.1.2 Heavy pistols
+3.1.3 Shotguns
+3.1.4 Sniper rifles
+
+
+3.2 Heavy weapons
+
+3.2.1 M-100 Grenade Launcher
+3.2.2 ML-77 Missile Launcher
+3.2.3 M-622 Avalanche
+3.2.4 M-920 Cain
+3.2.5 Collector Particle Beam
+3.2.6 M-451 Firestorm
+3.2.7 M-490 Blackstorm
+3.2.8 Arc Projector
+
+
+3.3 Advanced Weapons Training
+
+3.3.1 M-76 Revenant
+3.3.2 M-300 Claymore
+3.3.3 M-98 Widow
+
+
+
+
+4 Combat guide
+5 Squad members
+
+
+
+Overview[]
+Like in Mass Effect, the Soldier in Mass Effect 2 still has the widest variety of weapons available, with its only tasks being to absorb and deal out damage. The Soldier's powers in Mass Effect 2, however, are all brand-new, with none of the old powers returning in the second game. Most of the new powers available to the class complement the new combat system, but combat flow remains largely unchanged. Because the Soldier lacks any biotics or tech abilities, you are going to have to bring along squadmates that have those abilities. On the flip side, to compensate for their reliance on guns, Soldiers have the highest health of any class, and their weapon versatility makes them capable of handling virtually any situation given proper backup to deal with anything outside their realm of expertise.
+There are no more weapon-based powers in Mass Effect 2, although the Soldier's new signature power, Adrenaline Rush, can be seen as an overhauled version of Marksman and Overkill. The defensive and utility powers like Immunity or Adrenaline Burst are gone as well. The second game's combat powers are largely ammo-based, acting similar to ammo upgrades from Mass Effect. Once they are turned on, the appropriate effect will be applied to all of your shots with that weapon. The Soldier also has a burst damage and knockdown ability, Concussive Shot.
+Damage largely comes from the class specific assault rifle, while the sniper rifle can be used to lock down enemy snipers and heavy weapons. The Soldier is the only class that doesn't have access to submachine guns, but since they have access to every other weapon class, you shouldn't miss them that much.
+
+Powers[]
+Class Powers[]
+Adrenaline Rush[]
+Main article: Adrenaline Rush
+This power slows down your surroundings by 50% and lasts for five seconds. Damage percentage increases for the duration to compensate for slowed rate of fire. It is best used when popping out of cover, in order to line up shots and chip away at enemy health while taking less damage from weapons fire for the duration. It is particularly effective when used with the M-92 Mantis or the M-98 Widow and the Kuwashii Visor, both to deal tremendous damage for a single shot, but also to line up an easy headshot. This tactic also works well with the M-6 Carnifex and the M-15 Vindicator, as well as the M-5 Phalanx and M-96 Mattock. It can also be used to offset the noticeable recoil of the powerful (and Soldier exclusive) Revenant Light Machine Gun. Reloading is also made 50%/70% faster, allowing someone with decent sniping abilities to line up a headshot and reload in the 6 seconds. Be sure to check that your weapon has a fresh thermal clip, or it will waste a few seconds to reload. Rush is also useful if you find yourself flanked, as it allows you to hastily retreat for better cover.
+On Hardcore and Insanity, it is advisable to max out Adrenaline Rush as soon as possible, as it becomes a lifesaver. With a 3 second cooldown, damage increase and time slowdown, you'll find yourself using it whenever it's available. The key to survival on these difficulties is to maximize Adrenaline Rush's power to help the Soldier deal damage and stay alive.
+
+Concussive Shot[]
+Main article: Concussive Shot
+Unlocks with Adrenaline Rush at level 2
+Fires a high-impact shot that can stun enemies and damage biotic barriers. It is ineffective against shields and armor and cannot knock down enemies with shields or armor. This power can be used together with Pull to toss enemies over railings or into walls for more damage. Concussive Shot is most useful for knocking down charging enemies, such as krogan and Husks. Damage is moderate, but can be used to finish off weakened enemies. The stronger force from heavy Concussive Shot is probably better, but either evolution will be useful. Concussive Shot is often compared with Warp and Incinerate, but note that it does not use the same targeting mechanics. A Concussive Shot is always launched directly at the enemy you have bracketed and will track them if they move, but cannot be intentionally arced around corners. This limits its usefulness against enemies ducking behind cover.
+
+Disruptor Ammo[]
+Main article: Disruptor Ammo
+Increases damage against synthetics and shields. Adds the ability to disable synthetics and overheat weapons with added squad points. Arguably the best non-bonus ammo power, it is useful for its ability to take down the many enemy shields found in the game. Combined with the rate of fire inherent with assault rifles, enemy shields can be taken down very quickly. Mechs are also widespread throughout the game, extending this power's usefulness. Evolving Disruptor Ammo either endows the Soldier with superior damage and gives a chance to make a synthetic explode violently upon death (similar to Heavy Overload), or sharing its shield-stripping, synthetic-pounding damage with your squad. A useful strategy involves using Squad Disruptor Ammo to give your allies extra power against shielded enemies, then taking Heavy Warp Ammo or Tungsten Ammo for yourself to cause heavy damage against your shield-stripped enemies.
+
+Incendiary Ammo[]
+Main article: Incendiary Ammo
+Unlocks with Disruptor Ammo at level 2
+Increases damage against organics and armor. Prevents health regeneration and deals damage over time. This power is very useful for the same reasons as Disruptor Ammo, only against armored enemies and healing enemies like the vorcha and krogan. There are probably just as many enemies with armor throughout the game. Evolving the power allows you to choose between increasing the burning effect and adding splash damage, or sharing the effects with your squad. Incendiary Ammo is far more effective against organics since it can set them on fire, causing them to break cover and flail about helplessly for a few seconds, making them vulnerable.
+
+Cryo Ammo[]
+Main article: Cryo Ammo
+Unlocks with Incendiary Ammo at level 2
+Cryo Ammo has a chance of snap-freezing unprotected targets, leaving them more susceptible to damage with a chance of an instant kill. It is unique in that its crowd control properties work equally well against unprotected organic enemies as well as synthetic enemies. Depending on the play-style, Cryo Ammo can be an excellent ammo power, regardless of the difficulty setting. Effective use requires focusing on stripping defenses/freezing enemies, as opposed to dealing with enemies one-by-one. An aggressive play-style (flanking/rushing enemies) or open terrain is very helpful, since frozen enemies often fall behind cover. This can make Cryo Ammo counter-productive for players who like to hang back. 
+Cryo Ammo can be particularly useful against krogan (high health, stop advancing once frozen, Incendiary Ammo is ineffective at panicking them), geth (often clustered, area versions of Overload/Energy Drain and SMGs are extremely effective at taking down shields) Husks (usually die when frozen). Good weapons to use are: M-9 Tempest/Geth Pulse Rifle (very effective at taking down shields in the hands of squad mates, high freeze chance once defenses are down), Heavy Pistols/M-97 Viper (very effective at taking down armor, high freeze chance once defenses are down) and Shotguns (pellets hit independently, defenses may be stripped and the enemy frozen in a single shot).
+
+Combat Mastery[]
+Main article: Combat Mastery
+This is the class power for the Soldier and provides boosts to several elements. The power provides a boost to health, storm speed, and Paragon and Renegade scores. The power evolves into either the Commando or Shock Trooper. Commando increases weapon damage, storm speed, and damage dealt with powers, which includes the ammo powers the Soldier has access to. Shock Trooper increases conversation skills, health, and the duration of powers. So if you are going for the damage aspect of Soldiers, then Commando would be your choice. If you prefer to last longer and go for the "tank" aspect of the group, then Shock Trooper is for you. In short, Shock Troopers go for survivability and Commandos go for brute force.
+
+Notable Bonus Powers[]
+Barrier/Fortification/Geth Shield Boost[]
+Main article: Barrier
+Main article: Fortification
+Main article: Geth Shield Boost
+Erects a barrier/shield that effectively increases your shield power for its duration. If you're a Soldier veteran from Mass Effect, who misses the days of Immunity tanking, then these powers are for you. With them, a Soldier can close the distance and take down enemy defenses and your squad can finish them off. Barrier and Fortification are pretty much the same; Barrier creates biotic barriers, while Fortification creates armor. These can be upgraded for better protection or longer duration. Geth Shield Boost is very similar, but instead of a duration evolution, a +10% damage bonus can be chosen, which may appeal to run-and-gun players. On higher difficulties however, the cooldown time of Barrier, Fortification or Geth Shield Boost hinders the use of Adrenaline Rush, which often becomes the primary skill used in combat, making other bonus talents more useful. Considering that enemies also rip through shields like tissue paper on higher difficulties, these powers tend to be more of a detriment, as their cons outweigh the pros.
+
+Warp Ammo[]
+Main article: Warp Ammo
+The Warp Ammo is a slightly misleading power, as its effect is not simply Warp in ammo form. This ammo power will provide a damage boost against armor, biotic barriers, and health. To compensate for this broad type coverage, Warp Ammo deals less additional damage than other ammo powers. However, it is well worth it, as the versatility keeps the Soldier well prepared for any mission scenario, and will allow you to sustain your assault rifle fire on the enemy without interrupting to switch ammo types. Used alongside Disruptor Ammo, these two ammunitions can take down every type of enemy health bar with ease. It also makes Incendiary Ammo redundant, allowing points to be placed in other categories. As an added benefit, Warp Ammo does additional damage against enemies affected by biotics, such as Pull or Reave. Choosing Squad Warp Ammo as its evolution brings an added benefit - it can replace the ammo powers of teammates, freeing up squad points for other uses.
+
+Armor Piercing Ammo[]
+Main article: Armor Piercing Ammo
+Armor Piercing Ammo provides a large (the second largest bonus of any ammo power) damage boost to armor and health. Since almost every enemy has a health bar, and armor is a common defense type, this is highly effective on almost every enemy in the game. It does not provide a bonus against barriers, but barriers can be dealt with by weapon fire or defense stripping powers by your squadmates. Since barriers are always the first line of defense for enemies using them, it's quite likely that your team will have dealt significant damage by the time you have engaged. Combining Armor Piercing Ammo's damage bonus with weapons like the Mattock or Revenant, or sniper rifles like the Widow, will cause massive damage against virtually any enemy, especially Blood Pack or mechs.
+
+Reave[]
+Main article: Reave
+Valuable for reasons similar to Warp Ammo, Reave deals double damage against armor and barriers, while stunning unprotected organics. Reave also restores health when used on organics. Offers less DPS than Warp Ammo, but grants more survivability and tactical variability. It has good synergy with Hardened Adrenaline Rush, and benefits from Commando's power damage increase and Shock Trooper's power duration bonus. Reave can also be used to flush an enemy out of cover by making them seize up, allowing you to immediately thin the herd by targeting them.
+
+Slam[]
+Main article: Slam
+Slam has an extremely short cooldown as a bonus power and does greater damage against unprotected targets than Concussive Shot. Slam's most notable trait as a bonus power is that it can be detonated with Warp; this negates the need to take two biotic squadmates in order to set off Warp detonations. As Husks are instantly killed when lifted off the ground, Slam is also an easy way to one-shot Husks every three seconds.
+
+Inferno Grenade[]
+Main article: Inferno Grenade
+Note: Only available with the Zaeed - The Price of Revenge DLC pack.
+Even though the DPS for the Inferno Grenade is pretty low, it can set multiple enemies on fire, which gives you time to get out of cover to maneuver or shoot while they panic. The grenades don't ignite shielded or armored enemies; the idea is to set the unprotected henchmen on fire to lessen the barrage of incoming shots. It can also be used to flush enemies out of cover. Another reason to consider this skill is its effectiveness with husks, especially Heavy Inferno Grenade which can burn them to death within a second.
+
+Flashbang Grenade[]
+Main article: Flashbang Grenade
+Note: Only available with the Kasumi - Stolen Memory DLC pack.
+While the Flashbang Grenade does negligible damage, it has a very wide blast radius. Coupled with a strong disorientation effect, the ability to overheat enemy weapons, disrupt the tech and biotic abilities of enemies and instantly kill husks, it makes a powerful crowd control ability for the Soldier, which the Soldier severely lacks. However, even when fully upgraded, the flashbang will only incapacitate enemies for the length of the power's cooldown, making the Soldier unable to follow up with other skills without some sort of cooldown upgrade. However, evolving the power into Frag Grenade adds the option to damage multiple enemies while the Soldier takes cover and allows health and shields to regenerate.
+
+Stasis[]
+Main article: Stasis
+Note: Only available with the Lair of the Shadow Broker DLC pack.
+Stasis is arguably much more effective than Neural Shock on account of the fact that it can affect any enemy, organic or synthetic, making them combat ineffective for the duration of the power. If there is a particularly troublesome enemy (like a heavy or krogan), you can use Stasis to remove them from the battle temporarily. While not the best crowd control option in every situation (i.e., against a horde of melee attackers), the Soldier's access to shotguns and assault rifles make up for Stasis' weakness in that regard. Even better, Shock Trooper's power duration bonus is taken into account for this power.
+
+Weapons and equipment[]
+Weapons[]
+Assault rifles[]
+Main article: Assault Rifles
+The signature weapon of the Soldier, and one of the main reasons to choose this class. Good for close to mid-range firefights, this weapon is effective against all types of enemy defenses and is the best general combat weapon type for the Soldier, with other weapons being superior in specific instances. Combining the assault rifle with the Soldier's various ammo powers plus Adrenaline Rush can make it a force to be reckoned with. Be sure to pick up all the assault rifle upgrades throughout the missions and assignments. Just remember that assault rifles are good at mid to long-range, so be sure to switch weapons when necessary. The Firepower Pack adds another rifle, the M-96 Mattock, which is comparable to the Vindicator but with one key advantage: a semi-automatic rate of fire. This "as fast as you can pull the trigger" fire rate makes the Mattock absolutely devastating when used during Adrenaline Rush, able to empty an entire magazine before the effect wears off. Its only downside is a low ammo capacity, which requires careful ammo conservation. 
+Generally, the choice of assault rifle will guide the choice of Adrenaline Rush ; choosing Heightened Adrenaline Rush for its 70% time dilation and higher damage bonus makes it more useful at lining up a headshot with the M-15 Vindicator or Mattock, while Hardened Adrenaline Rush's health damage reduction fits better with the run-and-gun tactics that suit the M-76 Revenant.
+
+Heavy pistols[]
+Main article: Heavy Pistols
+While the pistol may seem redundant, it can actually be very useful backup for a Soldier, or when you need to or want to save clips. Soldiers can also use pistols for enemies that stick their heads out at mid-range distances because both pistols are accurate, even if they don't do that much damage. The Firepower pack also adds the M-5 Phalanx, which is very powerful. The Phalanx is a good weapon for a pistol as it does a lot of damage and is accurate, and combined with Adrenaline Rush can act as a back-up sniper rifle usable at short range as well as long, provided the player's aim is good.
+
+Shotguns[]
+Main article: Shotguns
+Only reliable at close range, the shotgun fires too slowly to be of any use in a heavy firefight. However, it is very useful for picking off stragglers and against YMIR Mechs when combined with Adrenaline Rush to spring in, out, or around cover. Also useful against krogan or husks that get too close. The M-22 Eviscerator, freely available through the Cerberus Network, adds significant punch to the Soldier class in close quarters combat, mostly due to its receiving a damage bonus against armour — something which is absent from both the M-23 Katana and the M-27 Scimitar. Overall shotguns are only effective at close range, so use them accordingly. The Firepower Pack further adds the Geth Plasma Shotgun, which is more accurate at mid-range, than the other four shotguns. The Plasma Shotgun is also devastating against single enemies, or small groups. Depending on what ammo power is used, the Plasma Shotgun can also rip through shields and barriers easily even on high difficulties.
+
+Sniper rifles[]
+Main article: Sniper Rifles
+This will be the second-most used weapon of the class. If you're pinned down from across a room by snipers and heavy weapons and can't take the risk of closing the distance, then this weapon is essential since it can allow the Soldier to return fire and thin enemy ranks while minimizing time spent out of cover. Sniper rifles are often best used in conjunction with Adrenaline Rush both to increase damage and to ensure accuracy. Sniper rifles are also good at keeping enemies heads down until either you or your squadmates can close the distance. The Aegis Pack adds the M-29 Incisor, which can help the Soldier rip through enemy shields, and coupled with one of the ammo powers, can be a very powerful weapon.
+
+Heavy weapons[]
+Main article: Heavy Weapons
+M-100 Grenade Launcher[]
+Main article: M-100 Grenade Launcher
+The M-100 Grenade Launcher is the first heavy weapon to be acquired during the Prologue: Awakening mission. The weapon is decent against groups of enemies, which the Soldier has few powers for crowd control. Picking this weapon, while it may have a disadvantage in ammo capacity, can help you deal a lot of damage and it does have a splash radius, which helps with crowd control. The M-100 can be a good weapon to use in just about any situation, especially if no one fits.
+
+ML-77 Missile Launcher[]
+Main article: ML-77 Missile Launcher
+The ML-77 Missile Launcher is a very good, well rounded weapon that has the ability to lock on and track enemies. While lacking the knockdown power of other heavy weapons, its ability to track enemies is a bonus that allows you to hit enemies at a distance and sometimes behind cover. To outweigh the lower damage of the other heavy weapons, the ML-77 has a higher ammo capacity, which does make it very useful on long missions or assignments. Overall, the ML-77 is similar to the M-100 in that it will fit just about any situation, especially if no other one will fit.
+
+M-622 Avalanche[]
+Main article: M-622 Avalanche
+For a Soldier the M-622 is a decent weapon that shines more on lower difficulties when enemies don't have armor, shields, and barriers. However, even on higher difficulties its large blast radius can reduce multiple enemies' protection in a few shots. Because this weapon can also instant-kill husks, it is useful in missions that have a lot of them, or in areas with them. Because the Soldier also has Cryo Ammo, this weapon may also seem redundant, though it's blast radius is a vital distinguishing feature.
+
+M-920 Cain[]
+Main article: M-920 Cain
+The M-920 Cain is a powerful weapon to say the least, but unless the weapon has 100% ammo or more, the weapon will not fire. At most, the Cain can only fire once, maybe twice, during a mission. If you don't plan for it in advance, you can get overwhelmed quickly. Basically, either plan where and when to use this weapon in advance or leave it behind.
+
+Collector Particle Beam[]
+Main article: Collector Particle Beam
+Acquired during the mission on Horizon, this weapon can be useful to a Soldier. A Soldier has many ways to combat enemies, but fewer powers to deal directly with barriers. Disruptor Ammo and Incendiary Ammo are good against shields and armor, and synthetics and organics, respectively. However the Particle beam is good against barriers and at range, while the Soldier does have the sniper rifle and assault rifles, having a weapon that is good against barriers and at range can't hurt. While the Particle beam drains ammo, it does have a large ammo capacity thus bringing it along after you pick it up won't be detrimental to your mission. Since the Particle Beam requires Shepard to use continuous fire, Adrenaline Rush can help mitigate the damage incurred while using it, as well as increasing precision and damage dealt. The high accuracy and large damage output make this the heavy weapon of choice for many boss fights, particularly on higher difficulties.
+
+M-451 Firestorm[]
+Main article: M-451 Firestorm
+The Firestorm, or flamethrower, is an excellent weapon for Soldiers who like to get up close and personal. Because Soldiers also have access to higher amounts of health than other classes, it isn't a bad selection. However, because of its limited range, it may not be a good choice for the Soldier who prefers to shoot from range with a sniper rifle, pistol, or assault rifle. As the Soldier has access to shotguns, it might make the Firestorm somewhat redundant. However, this weapon can still be very useful for defense against constantly charging enemies. Its high ammo supply further compliments its role as a defensive weapon. It's better to use this weapon against enemies that actively try to close distance with Shepard, allowing you to barbeque them once they get in range. To this end, the Firestorm is useful against melee enemies like wild animals and husks, and the occasional krogan.
+
+M-490 Blackstorm[]
+Main article: M-490 Blackstorm
+If you have access to the Blackstorm, then it would be a good weapon for a Soldier, especially because the Soldier lacks any crowd control abilities. On higher difficulties it does lose some effectiveness but not as much as the Avalanche. The Blackstorm is capable of pulling enemies out of cover, and using them as a shield from enemies who are behind them. The Blackstorm has a low ammo capacity but if used effectively, you only need a few shots to accomplish what you need it to.
+
+Arc Projector[]
+Main article: Arc Projector
+Because the Soldier has Disruptor Ammo, which is effective against shields and synthetics and turns any weapon into a synthetic's nightmare, the Arc Projector seems a little redundant. However, the weapon shows its effectiveness on longer missions where you may start running out of ammo for your favorite assault rifle or other weapon. Despite the difficulty level, this weapon also offers great crowd control on missions where you will encounter a lot of synthetics or against shielded enemies, possibly stunning them and leaving them open to follow-up attacks. The Arc Projector can becomes a Soldier's best friend at stripping any shields so that a biotic squadmate can use crowd control powers against enemies.
+
+Advanced Weapons Training[]
+During the mission aboard the Collector Cruiser, there will be the option of training in the usage of the M-76 Revenant, M-300 Claymore, or M-98 Widow.
+
+M-76 Revenant[]
+Main article: M-76 Revenant
+The Revenant is a light machine gun, and therefore isn't too accurate. However, the Revenant is useful because of the round of shots it can fire and its large reserve ammo. In the hands of an expert, the Revenant can be deadly. The Revenant is also the most well-rounded of the three weapons that you can select from because it is good at most ranges, and usually the closer, the better. When coupled with one of the Soldier's numerous ammo powers, the Revenant can be even more effective. Combine that with Adrenaline Rush's attack boost and recoil compensation and the Revenant is a good choice. Because an accuracy upgrade is available, once mixed with the M-76, the LMG becomes absolutely devastating, and is one of the best weapons within the game.
+
+M-300 Claymore[]
+Main article: M-300 Claymore
+The Claymore is one of the most powerful shotguns in the game, and great for a Soldier who likes to be in the thick of it. However the Claymore does have some drawbacks: it's single shot and only effective at close-range. It loses its effectiveness as the range increases and the damage it does as the pellets spread out. However for the Soldier who likes to be up close and personal, then the Claymore is the best choice. Unfortunately, both the M-22 Eviscerator and the Geth Plasma Shotgun are more powerful in many respects and definitely more versatile, meaning that the Claymore is generally the least useful of the three weapons.
+
+M-98 Widow[]
+Main article: M-98 Widow
+The Widow is perfect for those Soldiers who like to keep their distance and put large holes in their enemies. The Widow is the most powerful sniper rifle in the game, and is also good at stopping enemies. The Widow may have to reload after every shot, but if you are a good sniper, then you know how to line it up for maximum damage. Even if you aren't a good sniper, the Widow remains desirable as it is superior to the M-29 Incisor, while a better shotgun and assault rifle are available in the Firepower Pack.
+
+Combat guide[]
+The Soldier's powers are mostly ammo powers, which can be of good use in many situations. However, the Concussive Shot is the only real offensive power and Adrenaline Rush is useful for taking out enemies quickly. The Soldier's main ability to inflict damage is via their weapons, not their powers. So picking a bonus power is really more up to personal taste, damage, defense, or another ammo power. The ammo powers the Soldier has access to, which is the most, should be used at every opportunity and changed if necessary to fit the situation. Picking the right ammo power is crucial to a Soldier's success because they can make or break a fight. Since the Soldier has access to almost all weapons, except SMGs, make sure to put ammo powers on all of your weapons. It is good idea to familiarize oneself with a mission and anticipate what weapon and ammo power would be most effective, then calibrate accordingly at the start of the mission or when there is a lull in the fighting, before moving to another enemy encounter. Though it may not be feasible in all situations, readjusting your bonus power to fit a mission (i.e., Energy Drain against synthetics, Warp Ammo against Collectors, etc.) can also be useful.
+When it comes to weapons, the Soldier has access to every weapon class except submachine guns, so make use of all of your weapons. Assault rifles are the bread and butter of the Soldiers because of the lack of SMGs, but the SMGs function at different ranges than assault rifles. A Soldier typically has to switch weapons about the same as other classes, because assault rifles can function the same as SMGs, but when they get closer, you will have to switch to shotguns. Also, because the Soldier has sniper rifles, make use of them to cover squadmates and take out enemies before they get a chance to get near. Overall, Soldiers must rely more on their weapons and their squadmate powers than their own powers.
+The exception to this rule is, of course, Adrenaline Rush. In order to maximize damage output, survivability and tactical control of the battlefield, the Soldier will probably use this power every time it cools down in a pitched firefight. Whether you need to break cover and rush towards a new position, flank your enemy or get out of a tricky situation, Adrenaline Rush will be your best friend.
+In terms of armor and research priorities, Soldiers should consider armor that grants health or damage bonuses rather than shield bonuses, such as Life Support Leggings and the Kuwashii Visor. The Capacitor Chestplate and Helmet can give a Soldier great survivability, however, and should not be overlooked. For research, assault rifle upgrades should be priority number one with sniper rifle upgrades second, as well as damage protection and heavy skin weave upgrades.
+The choice of evolving Combat Mastery will also reflect on battle tactics immensely. Commando turns a Soldier into a damage-dealing dynamo, which supports a sniper-based combat style supplemented by mid-range combat with either the Vindicator or Mattock for head-shotting enemies too close to get sniped. Shock Trooper is more supportive of a tanking role that requires the Soldier to wade into the fray with rapid-fire weapons or shotguns, making use of a longer Adrenaline Rush to survive a firefight. Whatever choice is made, assault rifles remain the most consistent weapon for dealing damage in a Soldier's arsenal and are flexible enough to respond to virtually any situation.
+
+Squad members[]
+Because a Soldier is completely lacking in crowd control, tech, or biotic powers, picking squadmates with them is a must. Keep in mind, however, that there are no party members that are strictly better than other members. A team needs to be built according to the mission profile and what enemies you will encounter. Learn each party member's strengths and weaknesses, and build a team around what bases you need covered.
+Jack is an especially good squadmate for several reasons, one, because of her Shockwave ability, which can be very useful on any difficulty because even if it doesn't knock enemies on their backs, it does stun them for a second, and two, for the combination of Pull and Warp Ammo. She can endow the Soldier with Squad Warp Ammo and use Pull to turn an enemy into a sitting duck that takes heavy extra damage from Warp Ammo's increased damage against enemies affected by biotics. Pairing Jack with Liara during Lair of the Shadow Broker is beneficial to a Soldier, especially on higher difficulties. This is because Liara's Singularity collects enemies within a small area and then Jack's shockwave could defeat those collected enemies in one attack. Any squadmate with Throw can also be useful and probably in more situations, but this again must be picked on the mission and the situation you will be facing. If you are facing a lot of biotics, then bring along squadmates with Warp for use against their barriers. Miranda or Thane are useful because they have access to crowd control powers; Thane's Throw, Miranda's squad buffs, and the ability to deal with barriers, with both squad members having access to Warp.
+Garrus and Thane are also an advantageous combination for an all-purpose squad. Garrus, with a Mantis and an AR, can cover long-range enemies and hostiles who sneak up behind you, proving invaluable on missions with overwhelming forces of enemies. Meanwhile, Thane can provide support for short-range combat while you cover everything in between with the weapon of your choice. Garrus' overload ability and Thane's throw ability also work well, Thane bringing the hostile in close for Garrus or you to tear up, and Garrus' overload de-shielding enemies within instants of contact. Combining that with well-timed concussive shots from both Garrus and yourself can lead to a near-constant opening in defense from the enemy.
+Bringing both Jack and Samara with their loyalty powers unlocked can be a devastating tactic. Jack's Warp Ammo can rip through barriers and armor, allowing Samara to hit unprotected organics with Reave, and allowing Shepard to quickly dispatch the stunned enemies with Warp Ammo's double damage bonus. This combo is very effective against Collectors and Eclipse but understandably less useful against synthetics.
+Tech powers must also be chosen based on the mission. On a mission with a lot of synthetics, Miranda or Garrus will be good because of their Overload ability, which is extremely effective against them. If you need general tech powers, then Mordin might be a good choice because of his Cryo Blast and Incinerate powers. Tali and Legion have virtually identical power sets, besides their loyalty power, so choose one based on preference. Legion's weapon choices might make him a better choice on combat missions, but he is acquired late in the game. On the other hand, after her loyalty mission Tali might be better for missions with synthetics as her Energy Drain functions similarly to Overload. Their Combat Drones are extremely effective no matter what evolution is chosen as enemies usually target the drones first.
+Lair of the Shadow Broker offers the new Shadow Broker intel center, which can allow the player to recalibrate their squadmembers' powers for a small element zero fee. With this flexibility, the Soldier has even more options for customizing squadmates for certain missions (such as unlocking AI Hacking for Tali or Legion prior to a mission against synthetics, then changing back later to suit more general purposes).
+A good general purpose squad would be Garrus for long-range sniping and tech damage, and Samara for biotics and crowd control with medium range weapon choices. This covers all of the bases allowing the Soldier to fill out whatever role is necessitated by the current situation (by contributing with ammo powers or for close range enemies).
+Overall, a Soldier is great at taking damage and inflicting it with weapons, but they lack tech and biotic abilities, so picking squad members with those powers is a must. However, each squad must be chosen based on the mission that you are embarking on, and what enemies you will be facing.
+
+
+
+
+
+Mass Effect 2 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Upgrades • Planet Scanning
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • No One Left Behind • Data Hound • Merchants  Research Guide • Interrupts
+
+
+
+

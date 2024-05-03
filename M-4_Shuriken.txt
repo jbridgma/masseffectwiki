@@ -1,0 +1,355 @@
+
+
+
+The M-4 Shuriken Machine Pistol is a submachine gun in Mass Effect 2 and Mass Effect 3.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Description
+1.2 Acquisition
+1.3 Squad Use
+1.4 Player Notes
+
+
+2 Mass Effect 3
+
+2.1 Description
+2.2 Acquisition
+2.3 Player Notes
+
+
+3 Trivia
+
+
+Mass Effect 2[]
+
+
+
+
+
+
+
+M-4 Shuriken
+
+General Stats
+
+Type
+Submachine Gun
+
+
+Location
+Freedom's Progress
+
+
+Accuracy
+Low
+
+
+Recoil
+Moderate
+
+
+Fire Mode
+3-Round Burst-Fire
+
+
+Fire Rate
+700 RPM
+
+
+Ammo Per Clip
+24
+
+
+
+Damage & Bonus Multipliers
+
+Base
+20.5
+
+
+Armor
+×1.0
+
+
+Shields
+×1.5
+
+
+Barrier
+×1.5
+
+
+
+Spare Ammo Capacity
+
+Default
+240
+
+
+Armor Pack
+264
+
+
+Upgraded
+360
+
+
+Both
+384
+
+
+Pickup Amount (Min - Max)
+46 - 92 (LE: 92 - 144)
+
+
+
+
+Description[]
+A common but effective submachine gun. Fires three-round bursts, and can be pulsed for a higher rate of fire at the expense of accuracy. Very effective against shields and biotic barriers.
+As kinetic barriers have grown in popularity, so has the popularity of submachine guns. Manufactured by the Elkoss Combine, the Shuriken Machine Pistol has a reputation for being deadly and easy to use, but is weak against armor.
+
+Acquisition[]
+Automatically granted for all classes except the Soldier during the mission on Freedom's Progress.
+
+Squad Use[]
+This weapon can be used by Miranda, Mordin, Samara/Morinth, Thane, Kasumi, Liara and Dr. Amanda Kenson.
+
+Player Notes[]
+Unlike the M-9 Tempest and the M-12 Locust, the Shuriken is not capable of fully automatic fire, instead firing in three-round bursts. It can nonetheless maintain a constant stream of fire if the trigger is pulled quickly and repeatedly.
+While the Shuriken suffers from very poor accuracy, it still has the second highest damage and rate of fire out of the SMGs, allowing it to deal better burst DPS at close range than the slower-firing Locust, and it is more controllable at ranges where the Tempest would start to lose precision when firing at full auto.
+Squadmates and enemies (e.g. LOKI Mechs) do not fire the weapon at anywhere near its maximum rate, though they do fire it with perfect accuracy and stability, making them far more effective at long range shooting with the Shuriken than Shepard.
+Since squadmates don't fire the Locust except in small bursts of a few shots at a time, the Shuriken is actually more effective for them. While the Tempest is the most damaging squadmate option, the burst fire of the Shuriken does cause squad members to drop back into cover more frequently, keeping them alive longer on higher difficulty levels.
+
+Mass Effect 3[]
+
+
+
+
+
+
+
+M-4 Shuriken
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Submachine Gun
+
+
+Location
+Priority: Mars
+
+
+Fire Mode
+Six-round burst
+
+
+
+Weight
+  18% 
+
+
+Capacity
+  70% 
+
+
+Fire Rate
+  80% 
+
+
+Damage
+  12% 
+
+
+Accuracy
+  10% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+36
+324
+
+
+
+
+
+
+
+Type
+Submachine Gun
+
+
+Location
+Starter weapon
+
+
+Fire Mode
+Six-round burst
+
+
+
+Weight
+  20% 
+
+
+Capacity
+  70% 
+
+
+Fire Rate
+  80% 
+
+
+Damage
+  12% 
+
+
+Accuracy
+  10% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+36
+360
+
+
+
+
+
+
+
+
+Description[]
+As kinetic barriers have grown in popularity, so has the popularity of submachine guns. Manufactured by the Elkoss Combine, the Shuriken Machine Pistol fires six-round bursts with a high rate of fire.
+
+Acquisition[]
+Single-player
+The M-4 Shuriken is automatically given to Adepts and Engineers at the beginning of Priority: Mars. Otherwise, it can be found on a dead soldier in the security station. It is not purchasable from a shop if missed during the mission.
+
+Multiplayer
+The M-4 Shuriken is one of the five starter weapons. Upgrades are randomly rewarded through purchases of item packs. The Shuriken is categorized as common.
+
+Player Notes[]
+GeneralMultiplayer 
+General
+The Shuriken is a lightweight weapon, so it's useful for those who like to use their powers regularly. Its main strength are its six-round bursts, which allow it to do serious damage at close range if most of the shots are to the head. It also has a reasonable accuracy level at close range, has a fast burst fire rate, manageable muzzle climb, and moderate rate of fire overall.
+The recoil of the Shuriken is quite high, but this can be largely negated by firing from cover, allowing for a full burst of accurate shots at short to medium ranges.
+One of its major weaknesses is its low damage. This can make it difficult to employ on higher difficulties.
+The Shuriken has a faster reload speed than most other SMGs.
+The SMG Recoil System makes the Shuriken a very precise weapon, making it easy to consistently land headshots on enemies from a great distance.
+The Shuriken does not possess its hidden feature in Mass Effect 2 of firing at a much faster rate with repeated taps of the trigger.
+Multiplayer
+The high recoil of the Shuriken can be negated if playing as a turian character and evolving the Turian Veteran power to increase stability. This means that it is possible to get all six shots on the head of a target without much difficulty at medium range, allowing for much faster kills at that range.
+Trivia[]
+Commander Shepard is seen using the Shuriken in a number of cutscenes even if Shepard's class is a Soldier, which cannot use submachine guns. It appears to be the default handgun of Mass Effect 2. In cutscenes it can be seen in the hands of non-combatant NPCs and squad members, regardless of what SMG they're wielding or weapons training they have. It is also seen in Jack's "quarters".
+The Shuriken should be considered a type of machine pistol due to its compact size and rapid burst fire, similar in nature to a Beretta 93R.
+A shuriken is a throwing blade that was used in feudal-era Japan.
+There might have been a mix-up with regards to the Shuriken Machine Pistol being created by Elkoss Combine and the M-27 Scimitar shotgun being created by Ariake Technologies; Ariake Technologies' weaponry generally tends to have Japanese-language names, while the Scimitar shotgun was made by Elkoss Combine in the original Mass Effect.
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

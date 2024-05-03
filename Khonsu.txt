@@ -1,0 +1,71 @@
+
+
+
+
+
+Khonsu
+
+Region
+Andromeda / Heleus Cluster / Pytheas
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+31.4 AU
+
+
+Orbital Period
+197 Earth Years
+
+
+Keplerian Ratio
+0.798
+
+
+Radius
+7,495 km
+
+
+Atm. Pressure
+3.57 atm
+
+
+Surface Temp
+−178 °C 
+
+
+Location: Andromeda / Heleus Cluster / Pytheas System /  Sixth planet
+
+
+Contents
+
+1 Description
+2 Anomaly
+
+2.1 Beryllium
+
+
+3 Trivia
+
+
+Description[]
+Khonsu's oddly mild climate - given its orbital distance - and rich resources made it a candidate for a mining outpost. However, its unexpectedly rugged terrain has tabled discussions indefinitely.
+
+Anomaly[]
+Beryllium[]
+DATA:
+Beryllium
+ANALYSIS:
+A metal ideal for lightweight construction in a variety of applications. This deposit is readily accessible.
+Awards a random small amount of Beryllium when scanned.
+
+Trivia[]
+The planet is named after the Egyptian God of the moon and protector of travelers
+
+
+

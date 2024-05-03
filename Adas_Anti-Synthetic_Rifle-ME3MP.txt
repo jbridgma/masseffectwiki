@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+This article is about the assault rifle in Mass Effect 3. For the planet, see Adas.
+
+
+
+
+
+
+
+
+Adas Anti-Synthetic Rifle
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Assault Rifle
+
+
+Location
+Firefight Pack
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  80% 
+
+
+Capacity
+  30% 
+
+
+Fire Rate
+  35% 
+
+
+Damage
+  30% 
+
+
+Accuracy
+  15% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+24
+72
+
+
+
+
+
+
+
+Type
+Assault Rifle
+
+
+Location
+Multiplayer Store with Reckoning Pack
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  80% 
+
+
+Capacity
+  30% 
+
+
+Fire Rate
+  35% 
+
+
+Damage
+  30% 
+
+
+Accuracy
+  15% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+24
+72
+
+
+
+
+
+
+
+The Adas Anti-Synthetic Rifle is an assault rifle in Mass Effect 3.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 Trivia
+5 References
+
+
+Description[]
+Named in memory of the quarians killed in the Morning War on the planet Adas, this weapon's electrical attack has been optimized for medium- to long-range firefights. Alliance marines take issue with calling it a "rifle" since, technically, it has no rifling in its barrel. The quarians shrug this off, as quarian weapon terminology rarely translates flawlessly into human languages.
+
+Acquisition[]
+Single-player
+Available after downloading the Mass Effect 3: Firefight Pack.
+In Legendary Edition it is available from the Elkoss Combine Arsenal Supplies terminal in the Presidium Commons for a base amount of 10,000 credits.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The Adas Anti-Synthetic Rifle is categorized as rare and requires the Mass Effect 3: Reckoning DLC.
+
+Player Notes[]
+GeneralSingle-playerMultiplayer 
+General
+Despite its name, the Adas Anti-Synthetic Rifle deals equal damage to organic and synthetic targets, though it possesses a 2x damage modifier against enemy shields and barriers.[1]
+The Adas is a powerful weapon that fires rounds that inflict area damage and stun most enemies, making it useful for crowd control. Whole squads or even large foes like Brutes can be suppressed due to the knock-back effect. The rounds also have a slight target-tracking capability, allowing for easier aiming.
+The target-tracking capability is only noticeable across longer distances.
+The target-tracking cannot lock on to invisible targets such as cloaked Geth Hunters, or targets obscured by smoke.
+At close range, the Adas has a tendency to miss, especially against small, moving targets like Husks. Aiming at the target's feet can help in these situations.
+The Adas' homing ability sometimes results in shots hitting cover instead of the enemy when aiming for exposed points. Conversely, aiming at certain angles will allow the user to shoot around cover.
+Due to the explosive nature of its munitions, weapon mods or ammo bonuses that increase penetration are useless. Likewise, bonus damage to enemy heads or weak points is not possible with the weapon.
+Despite its accuracy meter being on the low side in the in-game screens, the Adas is highly accurate even over very long distances without the aid of any scope mods. The Adas does have muzzle climb but so minor it's barely noticeable.
+The Adas is one of the heaviest assault rifles, though its ability to stagger enemies can still make it useful for power-reliant classes as the stuns make it easier to land projectile powers by preventing enemies from dodging.
+As the Adas really doesn't need any mods beyond the Assault Rifle Extended Barrel to be effective, there is a lot of freedom with the second slot for options like Assault Rifle Ultralight Materials or the Assault Rifle Omni-Blade. The Assault Rifle Magazine Upgrade is usually the best second slot option if weapon weight is not a concern.
+The Adas is devastating against shielded enemies. It is also effective against most lighter enemies, including Phantoms who take full damage from its explosive munitions and are repeatedly knocked off balance.
+It is also effective against Ravagers because its splash damage can knock out Swarmers as they spawn.
+It is extremely effective against the geth as most geth enemies possess heavy shielding; against Geth Primes it can truly shine, as a single round can destroy their summoned turrets and drones.
+The Adas isn't the most effective weapon against armored foes as it gains no damage multiplier; however, like most weapons that fire non-conventional or explosive rounds, the Adas suffers no damage penalty from enemy armor. It also will rarely have its damage blocked by the armor plating found on enemies like Brutes.
+The Adas' area of effect damage makes it excellent for applying ammo effects that can prime for Power Combos such as from Incendiary Ammo.
+With Cryo Ammo or Cryo Rounds, the Adas is capable of freezing or chilling multiple enemies with a single shot, and any enemies that are not frozen are still staggered and slowed, further enhancing its already considerable crowd control capabilities. The chance for a single shot to trigger Cryo Ammo/Rounds is fairly high.
+Activating Tactical Cloak while firing the Adas will not break the cloak, instead granting its invisibility and damage bonus across the entire duration. Use caution, however, as enemies can detect you while firing.
+Single-player
+One drawback to this weapon is its ammunition consumption. The rapid fire and full-auto capability cause the Adas to burn through thermal clips quickly.
+The Adas is an excellent weapon for squadmates as they utilize its full rate of fire and its low spare ammo capacity and high weight are not a concern.
+One downside to giving this weapon to squad members is that when they fire close to you or at enemies in close proximity, the explosive effect can cause screen shake. While this is only a visual effect which does not directly impact weapon accuracy, it nonetheless can make it difficult to aim.
+The Adas' high fire rate and massive extra damage against shields and barriers makes Disruptor Ammo somewhat redundant unless shooting at targets with particularly heavy protections.
+The weapon is extremely effective against Kai Leng and the final bosses of the Mass Effect 3: Citadel mini-campaign.
+Multiplayer
+The Adas' rate of fire is drastically lower than its single-player counterpart, firing about half as fast, making ammo consumption a lesser concern.
+The Marksman ability can improve the fire rate of the rifle by 50%, bringing it somewhat back to its single-player fire rate.
+Trivia[]
+Art for the Adas can be seen among multiplayer store card assets within Mass Effect: Andromeda's data files, although the rifle itself is yet to be officially released in the game.
+References[]
+
+↑ https://web.archive.org/web/20160821054356/http://forum.bioware.com/topic/277136-gameplay-data-and-mechanics/?p=11863319/
+
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect 3 Downloadable Content
+
+
+
+
+Promotional
+
+AT-12 Raider • Chakram Launcher • Collector Rifle • M-55 Argus  M-90 Indra • N7 Collector's Edition Pack • N7 Warfare Gear • Reckoner Knight Armor
+
+
+Single-Player
+
+From Ashes • Extended Cut • Firefight Pack • Leviathan • Groundside Resistance Pack  Alternate Appearance Pack 1 • Omega • Citadel • Genesis 2
+
+
+Multiplayer
+
+Online Pass • Resurgence Pack • Rebellion Pack • Earth • Retaliation • Reckoning
+
+
+
+

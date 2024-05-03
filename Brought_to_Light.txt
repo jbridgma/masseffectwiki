@@ -1,0 +1,65 @@
+
+
+
+An angaran historian, Rjoek, sent his colleagues to recover a priceless artifact from the Eroesk ruins, but they haven't returned. He's asked for help getting them out of kett territory.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Travel to the Eroesk ruins
+2.2 Defeat the kett
+2.3 Speak to Astra
+2.4 Defend the turians
+2.5 Speak to Astra
+2.6 Optional: Confront Rjoek
+2.7 Give the map to Intelligence Officer Kaas
+
+
+3 Rewards
+4 Enemies
+
+
+Acquisition[]
+Prerequisite: A Trail of Hope II
+
+Talk to Rjoek (marked with ) in Techiix to acquire this assignment. You must agree to help at the end of the conversation. If you don't, Rjoek can be talked to again if you change your mind.
+
+Walkthrough[]
+Travel to the Eroesk ruins[]
+Before leaving Techiix, you can scan a Resistance Cruiser next to Rjoek (+10).
+The ruins are to the east-southeast of Techiix. There is a Forward Station just to the north-northwest of the navpoint for Eroesk. Along the way when you're nearing the objective, you may run into the undocumented mission A Frosty Reception, so it's up to you to deal with it now or later.
+When you arrive, the sound of weapons firing is heard further in the daar. Some turians are in combat against kett.
+
+Defeat the kett[]
+Eliminate the kett. Enemy headcount is 2: a Chosen and a Wraith or maybe another Chosen. Once defeated, there will be a small pause in the battle where the female turian Astra explains they recovered the map but the kett keep attacking. And right on cue, her male teammate Korvis announces more enemies incoming.
+Speak to Astra[]
+When you approach Astra after defeating the first wave of kett, this objective completes automatically and then the next objective is given right away. The Speak To Astra objective is also given a second time after the second battle.
+Warning:  Astra does not actually have any speak to interface here, meaning if you loaded the segment from an autosave her cue to speak may fail to trigger, also derailing the next sequences.
+
+Defend the turians[]
+Another wave of kett will drop in via airship at the part of the daar overlooking the Kett Base. There are two airships delivering 2-3 Chosen each, one after the other, for a total of 4-6 goons.
+As with most friendly NPCs in battle, the turians can't actually be killed but they deal minimal damage, so just focus on personally taking out the kett. Other than the omnipresent cold hazard, the battlefield is average with no particular advantages or disadvantages to cover, mobility, or distance combat, so you can practice whichever playstyle and weapon/power loadout you prefer here.
+
+Speak to Astra[]
+The second time around, Astra does have a talk interface. She reveals that Rjoek lied to the Pathfinder. Rjoek, Astra, and Korvis are smugglers from Kadara. Rjoek wanted to sell the map to the highest bidder, but after seeing what the kett did here, Astra had a change of heart. She asks you to take the map to the Resistance instead. Korvis initially dissuades Astra from telling the truth, but eventually decides he knows better than to argue with her and lets you have the map.
+You can search the site for a few mineral nodes and lootable containers. There are two ammo supply caches in the daar if you ran low. On the upper levels of Eroesk, there is a medical cache for the mission Medical Caches.
+
+Optional: Confront Rjoek[]
+A navpoint  will be added to Rjoek in Techiix. When you face Rjoek, there are three possible options (only two are available at any time):
+
+Let him go.
+Tell him to turn himself in to Techiix's governor.
+If Jaal Ama Darav is in the squad, he tells Rjoek to report to the Resistance, making this part of the untracked Resistance recruitment as discussed with Anjik Do Xeel. This option replaces the report to the governor option.
+Give the map to Intelligence Officer Kaas[]
+Intelligence Officer Davja Kaas is at the Angaran Resistance Base and is grateful for the map. The map will help the Resistance in planning more efficient attacks on the kett.
+Note:  If you give the map to Kaas before confronting Rjoek, the optional objective is marked failed and you lose any conversation possibilities with him.
+
+Rewards[]
++270 XP
+Enemies[]
+Chosen
+Wraith (optional)
+
+
+

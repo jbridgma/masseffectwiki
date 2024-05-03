@@ -1,0 +1,52 @@
+
+
+
+
+
+Thy'vernos
+
+Region
+Andromeda / Heleus Cluster / Govorkam
+
+
+
+
+
+
+
+Orbital Distance
+15.9 AU
+
+
+Orbital Period
+71.2 years
+
+
+Radius
+11,450 km
+
+
+Atm. Pressure
+0.00 atm
+
+
+Surface Temp
+−210 °C 
+
+
+Location: Andromeda / Heleus Cluster / Govorkam System /  planet
+
+
+Description[]
+A massive ball of rock and frozen methane, Thy'vernos has little apparent material or scientific value. Would-be miners from Kadara keep scanning it, just in case.
+
+Anomaly[]
+DATA:
+Beryllium
+ANALYSIS:
+A metal ideal for lightweight construction in a variety of applications. This deposit is readily accessible. 
+Awards a random small amount of Beryllium when scanned.
+
+
+
+

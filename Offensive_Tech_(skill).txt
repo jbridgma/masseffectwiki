@@ -1,0 +1,301 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Offensive Tech is a passive Tech skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Player Notes
+4 Availability
+
+
+SP Skill Ranks[]
+Maximizes the offensive capabilities of tech powers through specialized omni-tool software and hardware.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Damage
+
+    
+
+Increases tech power damage with each skill point invested in the Tech Skill Group.
+
++2% Tech Power Damage
+
+
+2
+
+Recharge Speed
+
+    
+
+Improves tech power recharge speeds with each skill point invested in the Tech Skill Group.
+
++2% Tech Recharge Speed
+
+
+3
+
+Detonators
+
+     
+
+Increases combo detonation damage from tech detonators with each skill point invested in the Tech Skill Group.
+
++2% Tech Detonator Damage Bonus
+
+
+4
+
+Anti-Armor
+
+     
+
+-
+
++20% Tech Damage Bonus to Armor
+
+
+4
+
+Anti-Shield
+
+     
+
+-
+
++20% Tech Damage Bonus to Shields
+
+
+5
+
+Detonators
+
+     
+
+Increased combo detonation damage from tech detonators.
+
++30% Tech Detonator Damage Bonus
+
+
+5
+
+Anti-Synthetic
+
+     
+
+Improves existing damage bonuses against synthetic enemies for electric powers.
+
++25% Electric Damage Bonus to Synthetics
+
+
+6
+
+Elemental Tech
+
+     
+
+Enemies suffering ongoing effects of the user's tech powers take increased damage from heat, cold, and electricity.
+
+Elemental Defense Debuff: 35%
+
+
+6
+
+Technical Rounds
+
+     
+
+Increased gun damage for a short period after using a tech power.
+
+Weapon Damage Bonus: 30%
+Weapon Damage Bonus Duration (s): 5
+
+
+MP Skill Ranks[]
+Maximizes the offensive capabilities of tech powers through specialized omni-tool software and hardware.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Power Augmentation
+
+     
+
+-
+
++10% Power Damage
+
+
+2
+
+Weapons And Melee
+
+     
+
+-
+
++8% Weapon Damage
++20% Melee Damage
+
+
+
+3
+
+Constructs
+
+
+
+-
+
++15% Power Damage
++20% Tech Construct Damage
+
+
+
+4
+
+Power Enhancement
+
+
+
+-
+
++25% Power Damage
++20% to all Power Effect Durations
+
+
+
+4
+
+Combo Detonation
+
+     
+
+-
+
++50% All Combo Damage
++30% All Combo Radiuses
+
+
+
+5
+
+Anti-Shield
+
+     
+
+-
+
++40% Power Damage Bonus to Shields
+
+
+5
+
+Anti-Armor
+
+     
+
+-
+
++40% Power Damage Bonus to Armor
+
+
+6
+
+Elemental Tech
+
+     
+
+Inflicting a status effect on enemies causes them to take more damage from heat, cold, and electricity.
+
+Elemental Defense Debuff: 35%
+
+
+6
+
+Weapon Mass Reduction
+
+
+
+-
+
++50% Weapon Weight Capacity
++15% Weapon Accuracy
++15% Weapon Stability
+
+
+Player Notes[]
+Mechanics
+Offensive Tech will only work while using Tech Skills.
+Strategies
+Rank 6 Technical Rounds is a great way to increase weapon damage for tech skill heavy Profiles such as Engineers, Infiltrators, or Sentinels if skill points haven't been invested in the weapon skills (such as Assault Rifles).
+Rank 4 Anti-Armor combines well with biotic skills that have Anti-Shield bonuses (such as Nova, Pull, and Singularity) to help rounding out damage application.
+Availability[]
+Single-Player: Pathfinder Ryder - Starting Tech Skill
+Multiplayer: Angara Insurgent, Human Artificer, Human Engineer, Krogan Engineer, Salarian Architect, Salarian Infiltrator, Salarian Operator
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

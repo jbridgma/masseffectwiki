@@ -1,0 +1,193 @@
+
+
+
+
+
+
+
+This article is about the power in Mass Effect 3's multiplayer mode. For the skill in Mass Effect: Andromeda, see Snap Freeze (skill).
+
+Snap Freeze is a tech power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Snap Freeze[]
+Flash-freeze unprotected enemies and slow down the rest with a wave of ice damage.
+Frozen targets don't regenerate health.Weaken armor by 25%.
+
+Recharge Speed: 8 sec
+Damage: 250
+Range: 10 m
+Freeze Duration: 6 sec
+Movement Speed: -15%
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 6.40 sec
+Damage: 250
+Range: 10 m
+Freeze Duration: 6 sec
+Movement Speed: -15%
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Recharge Speed: 6.40 sec
+Damage: 300
+Range: 10 m
+Freeze Duration: 6 sec
+Movement Speed: -15%
+
+
+Rank 4: Damage/Reach[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Recharge Speed: 6.40 sec
+Damage: 375
+Range: 10 m
+Freeze Duration: 6 sec
+Movement Speed: -15%
+
+
+Reach
+Increase range by 50%.
+
+Recharge Speed: 6.40 sec
+Damage: 300
+Range: 15 m
+Freeze Duration: 6 sec
+Movement Speed: -15%
+
+
+
+Rank 5: Duration & Slow/Cryo Explosion[]
+
+
+
+Duration & Slow
+Increase the duration of freeze effects by 50%.Decrease the movement speed of chilled targets by an additional 20%.
+
+Recharge Speed: 6.40 sec
+Damage: 375 (Damage), 300 (Reach)
+Range: 10 m (Damage), 15 m (Reach)
+Freeze Duration: 9 sec
+Movement Speed: -35%
+
+
+Cryo Explosion
+Increase damage to chilled and frozen targets by 10%.
+
+
+
+
+Rank 6: Damage & Weakness/Tech Combo[]
+
+
+
+Damage & Weakness
+Increase damage by 40%.Weaken armored targets by an additional 25%.
+
+Recharge Speed: 6.40 sec
+Damage: 475 (Damage), 400 (Reach)
+Range: 10 m (Damage), 15 m (Reach)
+Freeze Duration: 9 sec (Duration & Slow), 6 sec (Cryo Explosion)
+Movement Speed: -35%(Duration & Slow), -15% (Cryo Explosion)
+
+
+Tech Combo
+Increase the damage of tech combos by 100%.
+
+
+
+
+Player Notes[]
+Mechanics
+Snap Freeze has a conical area of effect, similar to Flamer, Ballistic Blades, and Nightshade Blades.
+No more than three enemies can be hit by a single cast of Snap Freeze.
+It can be helpful to think of Snap Freeze as the "ice" version of Flamer. Like Flamer, Snap Freeze fires a spray that can be swept around in an arc to hit targets approaching from multiple angles; unlike Flamer, Snap Freeze only sprays for a short, set duration.
+The area of effect is very large, so there is no need to aim precisely or target enemies before using it.
+Like Shockwave and Biotic Slash, Snap Freeze can fire through solid objects, allowing you to hit enemies on the other side of walls or enemies hiding in cover. All enemies within range (10m or 15m) are guaranteed to be hit. The only exception is Guardians, whose shields block the spray.
+As the ability description suggests, a maximum of one target hit can be frozen, which tends to be the closest enemy; as usual, only an unprotected foot soldier with just a red health bar can be frozen. All other unprotected infantry enemies caught in the blast will flail around briefly, similar to the panic induced by fire-based powers or incendiary ammunition. Interestingly, Cannibals will flail around like this if chilled but not frozen by Snap Freeze, when they don't normally do so if set on fire.
+Snap Freeze is unlike most tech powers in regards to creating Power Combos:
+When it is used as the detonating power for fire or electric combos, the combo explosion will originate from the character, rather than the enemy that was primed for the combo.
+It will prime Cryo Explosions even if enemies are merely chilled instead of frozen. Therefore, it isn't necessary to wait for the freezing animation to complete for a target to be primed, and targets that normally can't be fully frozen such as armored enemies can be primed.
+Bugs: Snap Freeze is notoriously buggy[1]; see the bugs section below for full details.
+Strategies
+Snap Freeze is extremely good at disabling a large group of enemies simultaneously, especially since it can both set up and detonate combo explosions.
+An effective strategy is to combine this with a class that can use Overload specced to chain hit multiple targets. When combined with hordes of enemies and low cooldowns, one can easily cause multiple Cryo Explosions in quick succession.
+Equipping the Geth Scanner Gear item allows you to see and target nearby enemies behind walls.
+Bugs[]
+Snap Freeze is bugged, though in different ways for either the N7 Paladin and the Alliance Infiltration Unit Infiltrator, and also depending on whether or not the player has the Reckoning DLC installed.[2]
+Without Reckoning, Snap Freeze always has the rank 6 Tech Combo evolution active, which means all tech combos primed/detonated by Snap Freeze do 2x damage. This also means that the rank 6 evolution does nothing.
+However, for the N7 Paladin, the 2x combo damage only affects Cryo Explosions primed by Snap Freeze.
+With Reckoning, the interaction is more complicated:
+The N7 Paladin still gets no benefit from Tech Combo Evolution, but now the combo does normal damage until the rank 4 Reach evolution is chosen (at which point all Cryo Explosions primed by Snap Freeze do double damage).
+The Alliance Infiltration Unit now has to choose the Tech Combo evolution as normal, and all relevant tech combos primed/detonated by Snap Freeze are affected (not just Cryo Explosions).
+Availability[]
+Single-player: N/A
+Multiplayer: Alliance Infiltration Unit Infiltrator, N7 Paladin Sentinel
+References[]
+
+↑ https://bsn.boards.net/thread/1302/mass-effect-multiplayer-bug-list
+
+↑ https://web.archive.org/web/20160731151910/https://forum.bioware.com/topic/472106-snap-freeze-tech-combo-retested/
+
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

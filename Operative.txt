@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+This article is about the class specialization in the first game. For the class power in Mass Effect 2, see Operative (power).
+
+
+Operative is a specialist class for Engineers and Infiltrators, with the alternate specialization options being the Medic and the Commando, respectively. Operatives are masters at manipulating their environment to maximum advantage. Bonuses include reduced recharge on all tech attacks, and improvements to Overload and Sabotage.
+
+Overview[]
+See also: Talents#Specialization Classes
+Overload Specialization
+Increase Overload's radius by 2m, explosion damage by 50, shield damage by 200, and damage vulnerability by 5%
+Sabotage Specialization
+Increase Sabotage's radius by 2m, explosion damage by 50, damage per second by 1, and duration by 5 seconds
+Talent Level Bonuses (Engineer)[]
+
+Bonus: Reduces recharge time on tech talents and increases tech protection
+
+
+Rank
+Recharge time
+Tech protection
+Notes
+
+
+1
+4%
+6%
+
+
+
+2
+6%
+9%
+
+
+
+3
+8%
+12%
+
+
+
+4
+10%
+15%
+
+
+
+5
+12%
+18%
+
+
+
+6
+14%
+21%
+
+
+
+7
+18%
+
+
+
+
+8
+20%
+
+
+
+
+9
+22%
+
+Overload Specialization
+
+
+10
+24%
+
+
+
+
+11
+26%
+
+
+
+
+12
+28%
+
+Sabotage Specialization
+
+Talent Level Bonuses (Infiltrator)[]
+
+Bonus: Reduces tech talent recharge times and heat buildup on pistols and sniper rifles, and increases tech explosion damage
+
+
+Rank
+Recharge time
+Heat buildup
+Tech explosion damage
+Notes
+
+
+1
+
+5%
+5%
+
+
+
+2
+
+6%
+7%
+
+
+
+3
+
+7%
+9%
+
+
+
+4
+
+8%
+11%
+
+
+
+5
+
+9%
+13%
+
+
+
+6
+
+10%
+15%
+
+
+
+7
+4%
+
+
+
+
+
+8
+6%
+
+
+
+
+
+9
+8%
+
+
+Overload Specialization
+
+
+10
+10%
+
+
+
+
+
+11
+12%
+
+
+
+
+
+12
+14%
+
+
+Sabotage Specialization
+
+
+
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+

@@ -1,0 +1,84 @@
+
+
+
+Several issues must be addressed before we can establish an outpost on Elaaden. One of the most pressing is to ensure that the krogan there do not see our activity as a threat. Being supportive of them might gain their trust.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Resolve the tension at the krogan colony
+2.2 Clear out the scavenger flophouse
+2.3 Reach 40% viability on Elaaden
+2.4 Create an outpost
+
+
+3 Aftermath
+4 Reward
+
+
+Acquisition[]
+Prerequisite: Search for the Stolen Remnant Drive Core
+
+Prerequisite: The Flophouse
+
+Prerequisite: Taming a Desert
+
+This mission starts automatically when any one of the three missions above have been accomplished.
+
+Walkthrough[]
+This mission has three main objectives that can be completed in any order before the outpost can be created. 
+Warning:  This mission can fail depending upon Pathfinder Ryder's final choice during the search for the Remnant drive core. You MUST choose to give Nakmor Morda the drive core.
+Warning:  If this mission fails:
+
+Any mission requiring Ryder to visit the newly created outpost will be unavailable (such as Architect on Elaaden).
+The Research Center on Elaaden will be unavailable for use.
+Any personnel associated with the new colony will not be available to interact with.
+Resolve the tension at the krogan colony[]
+This objective requires the completion the following mission arc:
+
+Conflict in the Colony
+Parlay with the Krogan
+Investigate Remnant Derelict 
+Search for the Stolen Remnant Drive Core and Ryder MUST give the drive core to Nakmor Morda.
+After the final mission of the arc is completed by giving Morda the drive core, the objective will be marked as complete.
+
+Clear out the scavenger flophouse[]
+Head to the Scavenger Flophouse ("Misery") region and clear out all hostiles there. This objective will then be marked as complete.
+Note: You will automatically acquire The Flophouse mission by completing drive core mission arc as the last mission requires travelling into the Scavenger Flophouse ("Misery") location to a locked area.
+
+Reach 40% viability on Elaaden[]
+Obtain enough viability to reach the 40% threshold and this objective will then be marked as complete.
+Note:  It is not necessary to activate Elaaden's vault (Taming a Desert) before establishing the outpost. Completing the objectives for Settling Elaaden will push viability beyond the 40% threshold required. However, activating the vault early on will make it easier to complete the various missions on the planet as the heat hazard levels will be removed.
+
+Create an outpost[]
+Head to the navpoint  location right next to the New Tuchanka outpost and interact with the navpoint to create the outpost .
+Note:  Unlike other outposts on other planets, the new outpost doesn't have a name. This outpost will be a combination of the Andromeda Initiative outpost and the krogan colony of New Tuchanka. 
+
+Aftermath[]
+Neighbors to New Tuchanka. Foster Addison is very satisfied to have the krogans back in the Initiative, and that she now can consider the krogan colony New Tuchanka to be an Initiative outpost. She points out that Jarun Tann might not so happy about this.
+
+Reward[]
++1330 XP
++1600 AVP 
++20% Elaaden viability
+
+Elaaden Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+
+
+
+Search for the Stolen Remnant Drive Core
+
+Missions (Mass Effect: Andromeda)
+
+
+
+
+
+

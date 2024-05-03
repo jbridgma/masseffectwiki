@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+
+The following dialogues were cut from the Mass Effect mission Prologue: Find the Beacon, on the SSV Normandy and on Eden Prime. They are shown here in approximate chronological order.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 nor10_ambient_03
+2 nor10_navigator
+3 nor10_landing_bay
+4 pro10_trig02_a_river_approach (1)
+5 pro10_trig02_a_river_approach (2)
+6 pro10_trigger_03_b_river_ambush
+7 pro10_trig06_c_cresting_ridge
+8 pro10_trigger_10_shed02
+9 pro20_trigger_01_ridge_approach
+10 pro20_trigger_02_ridge_path_1
+11 pro20_trigger_06_aeroculture
+12 pro20_trigger_06_control_panel
+13 pro20_trigger_07_sniper_attack
+14 pro20_trigger_08_thresher
+15 pro20_trigger_09_geth
+16 pro20_trigger_10_bodies
+17 pro20_sovereign
+
+
+nor10_ambient_03[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation may not be accurate. Animation files show this scene has been fully choreographed, and depicted Kaidan biotically throwing a cup at Jenkins.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\nor10_ambient_03.isb
+Characters present:
+
+Kaidan Alenko
+Dr. Karin Chakwas
+Richard L. Jenkins
+
+Richard Jenkins: Come on, Lieutenant! I missed your demonstration, let me see.
+Karin Chakwas: Leave him alone, Jenkins.
+Richard Jenkins: The lieutenant doesn't mind. Right, LT?
+Kaidan Alenko: I'm a little tired, Jenkins.
+Richard Jenkins: Ah come on, man! The whole crew's talking about it, let me see! Do something easy, one of the chairs or something.
+Kaidan Alenko: [sigh] Alright.
+Richard Jenkins: Oof!
+Kaidan Alenko: How was that, Jenkins? You want to see it again?
+Richard Jenkins: Erm, no... No, I'm good, Lieutenant, I... better head down below.
+Karin Chakwas: That was a little extreme. Are you feeling alright, Lieutenant?
+Kaidan Alenko: Just a slight headache. Between Jenkins and Joker, there's always someone yapping in my ear.
+Karin Chakwas: It's not their fault and you know it. Those damned biotic implants...
+Kaidan Alenko: Don't worry about it, I'm okay. Really.
+
+nor10_navigator[]
+Note:  this line should be functional in-game but never plays. The condition for it was for the first dialogue with Pressly to be finished, but it is never applied since Shepard can talk to Pressly again at will. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\NOR10\nor10_navigator_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_NOR10_03_DS1_LOC_INT.pcc
+Character present:
+
+Charles Pressly
+
+Charles Pressly: Commander. The turian's waiting for you and the captain in the comm room.
+
+nor10_landing_bay[]
+Note:  the second line should be functional in-game but never plays, only Joker's. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\NOR10\nor10_landing_bay_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_NOR10_11_DS1_LOC_INT.pcc
+Characters present:
+
+David Anderson
+Jeff "Joker" Moreau
+
+Joker: We are approaching drop point two. Somebody was doing some serious digging here, Captain.
+David Anderson: Find a spot to land near the excavation. Not too close. I don't want anyone to know we're here yet.
+
+pro10_trig02_a_river_approach (1)[]
+Note:  the third line should be functional in-game but never plays. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO10\pro10_trig02_a_river_approach_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_PRO10_01_DSG_LOC_INT.pcc
+Characters present:
+
+Kaidan Alenko
+Richard L. Jenkins
+
+Kaidan Alenko: What the hell are those?
+Richard Jenkins: Gas bags. Don't worry - they're harmless.
+Kaidan Alenko: Freaky looking things, aren't they?
+
+pro10_trig02_a_river_approach (2)[]
+Note:  upon shooting a gas bag, the second line should be functional in-game but never plays. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO10\pro10_trig02_a_river_approach_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_PRO10_01_DSG_LOC_INT.pcc
+Characters present:
+
+Kaidan Alenko
+Richard L. Jenkins
+
+Kaidan Alenko: Damn!
+Richard Jenkins: Oh, yeah. Don't stand next to them when the shooting starts.
+
+pro10_trigger_03_b_river_ambush[]
+Note:  this dialogue is technically functional in-game but never plays during the cutscene. Note that Shepard's line does have a dialogue wheel text, Move up, which would have never been visible as it would auto-play. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO10\pro10_trigger_03_b_river_ambush_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_PRO10_02_DSG_LOC_INT.pcc
+Character present:
+
+Commander Shepard
+
+Shepard: Jenkins. Take point.
+
+pro10_trig06_c_cresting_ridge[]
+Note:  the second and third lines should be functional in-game but never play. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO10\pro10_trig06_c_cresting_ridge_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_PRO10_05_DSG_LOC_INT.pcc
+Characters present:
+
+Kaidan Alenko
+Ashley Williams
+
+Ashley Williams: The beacon's at the far end of this trench.
+Kaidan Alenko: Looks like the geth beat us to it.
+Ashley Williams: Then I guess we better take it back!
+
+pro10_trigger_10_shed02[]
+Note:  the second line should be functional in-game but never plays. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO10\pro10_trigger_10_shed02_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_PRO10_07_DSG_LOC_INT.pcc
+Characters present:
+
+Kaidan Alenko
+Ashley Williams
+
+Ashley Williams: That door. It's closed. Security lock's engaged.
+Kaidan Alenko: Might be survivors hiding inside. I think I can hack into the system and override the lock.
+
+pro20_trigger_01_ridge_approach[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_trigger_01_ridge_approach_D.upk
+Characters present:
+
+Kaidan Alenko
+Ashley Williams
+
+Kaidan Alenko: What are those things?
+Ashley Williams: They're hexa-cows. Local herd species. High milk yields. Meat's a bit tough, though.
+Kaidan Alenko: They make steaks out of those things? I'm glad I'm a vegetarian.
+
+pro20_trigger_02_ridge_path_1[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_trigger_02_ridge_path_1_D.upk
+Characters present:
+
+Kaidan Alenko
+Commander Shepard
+Ashley Williams
+
+Ashley Williams: We're getting close. The spaceport's on a plateau at the top of this ridge, across the crop fields.
+Kaidan Alenko: There's a burned-out vehicle up ahead. Looks like one of ours.
+Ashley Williams: The whole place must be crawling with geth. What's the plan, Commander?
+
+(Par) Scout around. (Neu) Let's go. (Ren) We go in hard and fast. (Inv) Can we fix the vehicle?  Shepard: Maybe we can find some way to get a tactical advantage.Ashley Williams: We could probably climb up the side of the ridge here. Get to higher ground.Kaidan Alenko: Lead the way, Commander. We're right behind you.(End of conversation) Shepard: Time's a-wasting. Move out!Kaidan Alenko: Right behind you, [sir/ma'am].(End of conversation) Shepard: I want to hit the geth before they know we're coming. Let's move!Kaidan Alenko: Lead the way, Commander. We're right behind you.(End of conversation) Shepard: Can you get that Mako up and running again, Lieutenant?Kaidan Alenko: Ah, looks to be in rough shape. Could probably get the guns working, though.
+(Par) Scout around. (Neu) Let's go. (Ren) We go in hard and fast.  Shepard: Maybe we can find some way to get a tactical advantage.Ashley Williams: We could probably climb up the side of the ridge here. Get to higher ground.Kaidan Alenko: Lead the way, Commander. We're right behind you.(End of conversation) Shepard: Time's a-wasting. Move out!Kaidan Alenko: Right behind you, [sir/ma'am].(End of conversation) Shepard: I want to hit the geth before they know we're coming. Let's move!Kaidan Alenko: Lead the way, Commander. We're right behind you.(End of conversation)
+pro20_trigger_06_aeroculture[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_trigger_06_aeroculture_D.upk
+Characters present:
+
+Kaidan Alenko
+Ashley Williams
+
+Kaidan Alenko: What are those big floating things?
+Ashley Williams: Aerocultures. They limit the amount of sun so the crops don't bake. There's a control platform up on the hill. Looks out over the whole field.
+
+pro20_trigger_06_control_panel[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_trigger_06_control_panel_D.upk
+Characters present:
+
+Kaidan Alenko
+Ashley Williams
+
+Kaidan Alenko: Won't be easy getting through the fields. Not with the geth using the aerocultures for cover and tactical position.
+Ashley Williams: All the aerocultures on the grid are linked into the main control panel. Take the system off-line and they'll come crashing down.
+
+pro20_trigger_07_sniper_attack[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_trigger_07_sniper_attack_D.upk
+Characters present:
+
+Kaidan Alenko
+Ashley Williams
+
+Kaidan Alenko: Sniper! Take cover!
+Ashley Williams: He'll be on our ass until we take him out.
+
+pro20_trigger_08_thresher[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_trigger_08_thresher_D.upk
+Characters present:
+
+Kaidan Alenko
+Commander Shepard
+Ashley Williams
+
+Kaidan Alenko: This harvester's cooked. All the safety protocols are fried.
+Ashley Williams: Can you get it running again? Send it crashing through the fields to clear out the geth? Runaway farm equipment's not really my style.
+
+(Par) Sounds dangerous. (Neu) Let's do it. (Ren) It's my style.  Shepard: Leave it alone. We can handle the geth.Ashley Williams: Your call, Commander.(End of conversation) Shepard: I'll take any advantage we can get.Kaidan Alenko: Your call, Commander.(End of conversation) Shepard: Runaway farm equipment's right up my alley.Kaidan Alenko: Your call, Commander.(End of conversation)
+pro20_trigger_09_geth[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_trigger_09_geth_D.upk
+Characters present:
+
+Kaidan Alenko
+Ashley Williams
+
+Ashley Williams: Somebody took out these geth. Somebody with skill.
+Kaidan Alenko: I bet it was Nihlus.
+
+pro20_trigger_10_bodies[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_trigger_10_bodies_D.upk
+Characters always present:
+
+Kaidan Alenko
+Ashley Williams
+
+Ashley Williams: I guess Cole's friends never made it.
+Kaidan Alenko: Looks like the geth shot them in the back while they were running for the garage.
+
+pro20_sovereign[]
+Note:  this dialogue should be functional in-game but never plays. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\PRO20\pro20_sovereign_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_PRO10_11_DSG_LOC_INT.pcc
+Characters present:
+
+Kaidan Alenko
+Ashley Williams
+
+Ashley Williams: I've never seen a ship big enough to leave a landing imprint like that. Not in our fleet.
+Kaidan Alenko: Or anyone else's.
+
+
+
+

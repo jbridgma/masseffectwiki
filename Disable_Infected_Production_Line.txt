@@ -1,0 +1,203 @@
+
+
+
+
+A Hahne-Kedar facility on planet Capek is in a state of high alert. This facility is the source of the VI virus that has corrupted mechs and mech parts throughout the sector. Stopping the production line is key to ending the outbreak. 
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Outgoing Message Log
+3.2 Transcript Log: Security Report
+3.3 Enemies
+
+
+4 Mission Summary
+
+
+Acquisition[]
+Prerequisite: N7: Abandoned Research Station
+
+After completing the previous assignment, Shepard receives a message from EDI about the facility as the possible source of a VI virus that caused the MSV Corsica to crash and led Jarrahe Station's internal VI to kill the scientists aboard. A scan of Capek (Haskins System of the Titan Nebula) will produce the following broadcast:
+
+
+“Be warned: The experimental mechanics facility is under quarantine. For your safety, do not dock with or land in the vicinity of the facility, without the proper protocols and authorizations in place.”
+
+
+Launching a probe at the anomaly yields the following message:
+
+
+“ANOMALY DETECTED:
+
+Surface scan detects mech production facility matching the registration parameters of Hahne-Kedar Corporation. Facility reports emergency lockdown at this location. Personnel scans report no living beings detected. Hazard scans show a large number of virus-infected mechs quarantined within the facility. Deactivation of the primary production line controls should disrupt the creation of additional infected mechs.”
+
+
+Preparation[]
+You'll be fighting a long stream of mechs, mostly at fairly close quarters. On higher difficulties, you will want to bring flame and anti-armor powers in your squad to deal with their armor, along with anti-mech abilities such as Overload and Disruptor Ammo. Squad members who carry shotguns and assault rifles will also make a difference.
+
+Walkthrough[]
+When you land, run forward and get into cover because two FENRIS Mechs and two LOKI Mechs will come out of the facility’s main door. Taking them down isn’t a problem, but the rest of this mission may be. 
+Note:  Rushing towards the door, charging the first mech to exit the doors if Shepard is a Vanguard, or spawning a Combat Drone, be that an Engineer Shepard's, Tali's or Legion's, will prevent any more mechs beyond the first one appearing in the area. In fact, if you manage to spawn a Combat Drone inside the door when it first opens, the door will close and no mechs will come out at all—and when you later open the door the first room will be empty as usual.
+Enter the facility and once you are inside, head forward into the room. Inside you will see a med-kit, a wall safe with 3,750 credits, and a computer. Do not start cracking the safe yet, however, as a single LOKI Mech will come ambling down the hallway and explode, shattering the window and interrupting your bypass attempt. Grab the medi-gel and the credits from the wall safe before proceeding. 
+
+
+When you enter, examine Officer Gamble's pad, then move up to cover and face the last two FENRIS Mechs on this assignment. Be careful with the LOKI Mechs down on the mazelike factory floor (the lower area full of unbreakable crates to the left of the entrance), for they may flank you. Once they are dealt with, grab the 150 eezo on the wall to the right. 
+Warning: You will now face a seemingly endless series of LOKI Mechs, until you reach a certain point. Although YMIR Mechs are being conveyed ominously overhead, they fortunately do not activate.
+Now, your assignment is to get to the end of this maze alive, and that won’t be easy.
+When you first move down, take a left turn. You will have to deal with several LOKI Mechs, but at the end of the path, there will be a crate of power cells. Backtrack to the ramp where you came down to the maze, and take the other path. Get your squadmates into cover, and shoot the LOKI Mechs in the wave, then move up to the next cover position. Once you manage to move up past a mech spawn point, you will deactivate it and mechs will begin spawning from further back, but moving up can of course be tricky while a stream of mechs is coming after you.
+You will have to repeat this process through the factory. The first corner can be tricky, as the waves are very close together, so moving up will be a problem. However, once you are past the first and second corners, and into the small clear area, all you need to do is hold off about ten more LOKI mechs before they stop. 
+
+
+Alternative Tactics: There is a way to bypass these endless waves of LOKI Mechs: since only three of them spawn at a time, if you manage to get past a group you can run straight to the end without encountering any more. Even if you're not an Infiltrator, a few "stagger" effects on the LOKIs (e.g. from Concussive Shot or the explosion from a downed Tech Armor) can help you slip past unharmed even on high difficulty levels. 
+A lower-risk compromise is to fight the first few waves of mechs from the upper level without advancing until they temporarily stop spawning. Then, put your squad in cover at the bottom of the ramp (so that they won't kill any mechs) and take the left turn at the bottom of the ramp heading toward the power cells rather than the main path leading to the end of the level. Move carefully forward until a group of three mechs spawns to block you. Then you can about-face and run straight to the end, avoiding any further mechs.
+Alternatively, an Infiltrator can of course cloak and run through the mechs, ignoring them completely. Or, if you don't mind spending heavy weapon ammo, a few shots from the M-622 Avalanche will stagger and freeze the first wave but not kill them, both preventing them from harming you and preventing more mechs from spawning. Keep in mind that the three LOKI mechs you ran past (to stop the remaining waves of LOKI mechs from spawning) will follow after you and home in on Shepard. Make sure to find safe cover up the ramps at the end and take them out before you go back collect any items you missed.
+When the LOKIs finally stop coming, before heading up the ramps, there is a side passage near the ramp that has 175 eezo at the end of it. There are also some power cells near the entrance to the area (where Gamble's body is), though be aware that LOKI's can spawn in that area as well if you head there early. 
+When you have everything, backtrack to the ramps, go up and through the door. Inside are some more ramps, and on the lower level the final crate of 175 eezo, be sure to grab it before moving on. Head up the ramps and you arrive in the factory’s control center. Hack the terminal to shut down the production line, and you are then treated to a cutscene where the squad is running out as the LOKI Mechs' self-destruct procedures are activated. Then, as the squad leaves, they all explode as the Kodiak lifts off from the facility and is seen though the skylights. 
+
+Outgoing Message Log[]
+Logged by Giana Talarassan
+
+
+
+
+ATTENTION: Mx 7552-4A OPU Recall Notice
+Attention all personnel:
+
+Our new circuit board supplier has issued an immediate recall on the Mx7552-4A Obedience Processor, which has been found to cause systematic breakdown of associated components.
+
+We have begun the search for a new supplier. In the meantime, discontinue use of the Mx7552-4A until further notice.
+
+Dr. Rochelle, Director
+
+Hahne-Kedar Experimental Mechanics
+
+
+
+
+
+
+
+No Response
+Giana:
+
+Just FYI, we lost contact with the MSV Corsica. After you expressed concern, I checked the logs -- and indeed, the mechs and parts they picked up contained the recalled OPUs.
+
+We know the Corsica was headed for a Jarrahe Station in the Strabo system, but we can't seem to contact them. I hope they're all okay, but I think we've done all we can do at this point.
+
+
+--Tres
+
+
+
+
+
+
+
+ATTENTION: Emergency Situation in Progress
+Dr. Talarassan:
+
+I'm getting reports of mechs coming off our production lines and assaulting workers. Some of them seem to be self-destructing at random. Even units not initially installed with the faulty OPU are showing signs of viral infection. We're looking at a potential facility-wide catastrophe here.
+
+We are containing this as best we can, but we can't keep this suppressed much longer. When Dr. Rochelle learns about this, heads will roll. Mine will not be one of them.
+
+
+--Chief Saunders, Security
+
+
+
+
+
+
+
+Announcement: Facility Lockdown
+Dr. Talarassan:
+
+Dr. Rochelle has ordered a complete lockdown. You are hereby ordered to seal the production line access corridor from the rest of the facility.
+
+I realize that doing this will seal me and any workers who remain inside with the malfunctioning mechs. This does not affect your orders.
+
+It has been an honor to work with you.
+
+
+--Chief Saunders, Security
+
+
+Transcript Log: Security Report[]
+Officer Keith Gamble, Security
+
+
+
+
+Dr. Talarassan Located
+Chief:
+
+I've located the asari, Dr. Talarassan, in the production line access corridor. We've set up a barricade and disabled access to the rest of the corridor.
+
+
+--Officer Gamble
+
+
+
+
+
+
+
+Proceeding to Objective
+Chief:
+
+I secured Dr. Talarassan and am heading into the warehouse to access the production line control room. I'll update you once I'm in.
+
+
+--Gamble
+
+
+
+
+
+
+
+Warehouse Breached
+Chief:
+
+I'm in the warehouse. It seems pretty empty, Sir. I can see the control room just above the storage area. I might need a few minutes, but I'm pretty sure I can get that main production line shut down.
+
+
+--Gamble
+
+
+Enemies[]
+FENRIS Mech
+LOKI Mech
+Mission Summary[]
+Shut down the Hahne-Kedar Experimental Mechanics facility's production line on Capek.
+Deactivated all infected mechs.
+
+Experience Reward: 125 (156)
+Credits: 7,500
+Cerberus Funding: 3,750
+Credits Found: 3,750
+Resources:
+Element Zero: 500
+
+Rogue VI Virus Navigation
+
+
+← Previous Assignment
+
+Assignment Index
+
+
+
+
+N7: Abandoned Research Station
+
+Assignments
+
+
+
+
+
+

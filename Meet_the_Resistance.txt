@@ -1,0 +1,87 @@
+
+
+
+
+Priority Op Heleus Assignment   
+Having made contact with the angara, their trust must be gained in order to meet the Moshae and access the vault on Aya. Either Voeld or Havarl may be a good place to start.
+Alternatively, if Helping Havarl's Scientists is completed first:
+You have earned the angara's trust on Havarl, but more can be done to establish a relationship on Voeld.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Travel to Voeld
+2.2 Speak to Commander Do Xeel
+2.3 Speak to the lookouts
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Trail of Hope I
+
+This mission is acquired as part of the aforementioned mission on the Tempest.
+
+Walkthrough[]
+This mission is a Heleus Assignment if Helping Havarl's Scientists is completed before this mission. Alternatively, this is a Priority Op if Helping Havarl's Scientists is completed after this mission. As this is the formal start of a 6-mission chain, the next 2 missions will inherit its mission type while the last 3 missions are firmly optional Heleus Assignments.
+The objective labels for this mission also change depending on its mission type.
+
+
+
+
+Priority Op
+Travel to Voeld
+Speak to Commander Do Xeel
+Speak to the lookouts
+
+
+Heleus Assignment
+Aid the angarans on Voeld
+Locate the Resistance commander
+Speak to Resistance lookout
+
+The substance of the mission doesn't change. The only changes are whether or not you already know the personnel on Voeld. The walkthrough below is structured to you going to Voeld first (Ryder doesn't know the personnel).
+Of the two options that the mission text suggests - Voeld or Havarl - Havarl can be done much faster. The Resistance will generally act friendlier to you if you already helped on Havarl as your exploits have reached their ears, else this is your chance to prove your intentions.
+
+Travel to Voeld[]
+Voeld is in the Nol system on the Galaxy Map.
+
+Speak to Commander Do Xeel[]
+This article or section is a stub. You can help Mass Effect Wiki by  expanding it. 
+Land on Voeld - the intended Habitat 6. The temperature is below -52°C (-62°F). This is a Level 2 Cold Hazard so you will need to run to the Angaran Resistance Base to get to safe temperatures before your life support is depleted.
+
+Look out for an iridium node left of the path. After a while you'll reach a Solar Heater. Standing close to these heaters recharges life support. Heaters are placed all over Voeld.
+Inside the base, the temperature is -30°C (-22°F), and this temperature is considered as safe. Ryder's life support won't deplete. Forward Stations also provide safe zones.
+To make life support last longer, it is advised to use the consumable Backup Life Support.
+At the start of the base, there are several Resistance Cruisers that can be scanned for +10 . Between the two cruisers on the left, next to some angara, there is a small crate with two Isharay rifles. The rifles can be scanned for +10 .
+Talking to Commander Anjik Do Xeel is mandatory on your first visit to Voeld; you get an inescapable cutscene conversation upon arriving at her vicinity inside the base. Asking about the front lines will give you an option to find recruits for the Resistance, though this is not followed by the Journal and no option is given to actually follow up on this request.
+Note: It is difficult but not impossible to traverse Voeld on foot, bypassing the Resistance base by braving the level 2 hazard from the Tempest directly into the valley eastward, keeping a supply of Backup Life Support, and heading for the nearest solar heaters at any chance. However, activating the Forward Station sites for the rest of the map (and thus obtaining access to fast travel and the Nomad) requires activating the Resistance base forward station first, which requires meeting with Commander Anjik at the very least.
+Before leaving to find the lookouts, you can pick up three other missions: Intercepted, Medical Caches, and Task: Nomad Shield Crafting.
+
+Speak to the lookouts[]
+Outside the base, talk to Beniska and Tseek. After the conversation, this mission completes, and On the Frontlines/Eyes on the Ground is automatically received. The nearby Forward Station is also activated, if you haven't ventured off earlier.
+Rewards[]
++270 XP
+
+Voeld Trust-Building Missions Navigation
+
+
+
+
+Mission Index
+
+Next Mission →
+
+
+
+
+Missions (Mass Effect: Andromeda)
+
+On the Frontlines
+
+
+
+

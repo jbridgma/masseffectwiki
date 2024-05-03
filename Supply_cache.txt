@@ -1,0 +1,33 @@
+
+
+
+Supply caches in Mass Effect: Andromeda are the main method for replenishing ammo, health, and power cells depleted during exploration and combat. They are classified as materials identified by the omni-tool that can be converted into useful resources.
+Contents
+
+1 Overview
+2 Mechanics
+3 Trivia
+
+
+Overview[]
+Supply caches are found in many locations and are usually associated with combat. If there are some in the area, it usually means a fight is about to take place. All Firebases in Mass Effect: Andromeda Multiplayer have caches placed in strategic locations around the map.
+Supply caches are containers of different sizes and shapes but will always have conspicuous symbols above the container. They come in four different design aesthetics: Remnant, Initiative, kett, and angaran.
+
+Mechanics[]
+Pathfinder Ryder and multiplayer characters are the only people able to use the supply caches. Replenishing a resource is simply a matter of walking near a cache: a conspicuous message in the center of the screen will show that the resource has been restocked such as "HEALTH RESTORED" or "AMMO RESTORED", etc.
+Each symbol identifies a unique resource in the supply box:
+
+ Ammo - Resupplies thermal clips for weapons. Not usable for treating overloaded weapons with infinite ammo capacity like those modded with Vintage Heat Sinks or Remnant-based guns like the P.A.W.
+ Health - Restores depleted health. This resource is not available in multiplayer.
+ Power Cells - Resupplies power cells for any skills that use them (such as Omni Grenade).
+Health caches are always found by themselves. Ammo and power cell resources are almost always found together in the same cache.
+The amount of resources remaining in the cache are displayed on a meter  next to the supply symbol. As resources are used in a supply cache, the remaining bars change from blue to clear (empty) . The amount depleted from a cache is proportional to the amount taken. 4 bars next to a supply resource doesn't mean 4 restocks for that specific resource, unless it's a Power Cell cache. 
+Power Cell caches can only restock up to 4 charges for all skills that use them, regardless of the skill's actual capacity. If the character has multiple skills using power cells, for example the Human Soldier with Concussive Shot Rank 4 Repeat Concussion and Omni Grenade, if two charges each from both skills are used then the cache will be deducted two bars only. If both skills are depleted, running to a full cache restores up to 4 charges each. If Omni Grenade only has 1 grenade capacity, then only 1 charge will be restored. In conclusion, running to a Power Cell cache while touting multiple skills is most economical only if a) the skills' capacity is 4 or more and b) the skill charges are depleted or nearly so.
+Supply caches replenish over time. In multiplayer, they are refilled after every wave except if mission parameters explicitly calls for no resupplies - in such a case, the caches are empty to begin with.
+Forward Stations also act as supply caches with essentially unlimited restocks available. The Overdrive Pack consumable and multiplayer supplies First Aid Pack and Ammo Pack essentially function like portable supply caches.
+
+Trivia[]
+Despite being fully 3D objects, supply cache icons will always face toward the player unless the game is paused and the in-game camera is used to move about. This behavior is first observed on primitive 3D games where the icons are just 2D textures.
+
+
+

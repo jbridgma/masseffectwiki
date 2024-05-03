@@ -1,0 +1,90 @@
+
+
+
+
+
+Melile
+
+Region
+Milky Way / Ismar Frontier / Elysta
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+3.1 AU
+
+
+Orbital Period
+6.1 Earth Years
+
+
+Keplerian Ratio
+0.801
+
+
+Radius
+28,684 km
+
+
+Day Length
+8.6 Earth Hours
+
+
+Satellites
+23
+
+
+Location: Milky Way / Ismar Frontier / Elysta System /  Fifth planet
+
+Prerequisite: Firewalker Pack (Mass Effect 2)
+
+Description[]
+Melile is a common ammonia-methane ice giant with 23 moons. It has no particularly distinctive features.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+6,000
+
+
+Platinum
+
+Low
+
+4,500
+
+
+Iridium
+
+Medium
+
+5,000
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

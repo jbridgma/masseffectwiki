@@ -1,0 +1,42 @@
+
+
+
+Place beacons to mark any malfunctioned drones you find.
+Contents
+
+1 Aquisition
+2 Walkthrough
+
+2.1 Find all the drones
+
+
+3 Rewards
+
+
+
+Aquisition[]
+Interact with the outdoor terminal in Prodromos on Eos. The terminal is marked with awhen the task is available.
+
+
+
+
+Lost Drones
+
+
+We launched a bunch of early drones for recon and specimen recovery. Eos' hostile environment caused a lot of them to malfunction. My hands are full with fixing doors around the settlement. Can someone please search for them? Nav coordinates of launch locations are included. Mark them with a beacon and our team will recover them! - Technician Fessenden
+
+
+Walkthrough[]
+Find all the drones[]
+The locations of the drones are marked on the map with navpoints (in no particular order). Most of them lie outside the boundaries of labeled Eos territories.
+
+Northeast of Site 1: Promise, below a cliffNortheast of The Sheartop kett baseOutland Spire (southwest of Prodromos)Presson Dunes (near the Kett's Bane mission marker)Southwest of the map (west of Sawtooth Plateau)North of Blackrock Tande (in the very northwest of the map)1/6
+When you find a drone, scan the drone and then interact with the drone to mark the location with a beacon. The task auto-completes when all the drones are scanned.
+
+Rewards[]
++530 XP
++29 AVP 
++2% Eos viability
+
+
+

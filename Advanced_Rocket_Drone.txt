@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+
+
+
+Advanced Rocket Drone
+
+
+
+
+Type
+Synthetic
+
+
+Armament
+Mass Accelerator Machine Gun
+
+
+Abilities
+ Distortion Rocket
+
+
+Health
+Moderate
+
+
+Shields
+Very High
+
+
+Locations
+Luna
+
+
+Advanced Rocket Drones are drones that are employed by the Systems Alliance and other armed forces for support of their ground operations. Assault Drones are armed with a Mass Accelerator Machine Gun that has been modified to fire Distortion Rockets.
+
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+Advanced Rocket Drones are also used by the Systems Alliance to train its soldiers and marines. In 2183 a VI controlling the drones at an Alliance training center on Luna went rogue and killed the staff stationed there with drones and turrets under its command.
+
+Tactics[]
+Rocket Drones possess all six bars of shielding: as is the case with all Mass Effect enemies, it can regenerate over time. Their health is unable to regenerate, however.
+Similarly to Geth Juggernauts and Geth Rocket Troopers, Rocket Drones will begin the fight by launching their Distortion Rocket and following up with a machine-gun burst. The Distortion Rocket can kill Shepard or their squadmates with just a couple of hits, so they should be targeted ahead of the weaker Advanced Assault Drones. Also note that since modified machine gun is their only weapon, using Sabotage will leave them completely defenceless until it cools off.
+Drones are completely immune to all biotic talents besides Warp. However, they're unusually vulnerable to the tech talents instead, taking increased damage from tech proximity mines.
+Rocket Drones can be turned over to your side with Master AI Hacking. They make better allies than Assault Drones due to more powerful weapons. Keep in mind that if there are no other drones in its line-of-sight, it will continue to attack you.
+As against most enemies that can bypass shields to do a lot of damage, the Immunity talent is very useful against Geth Rocket Drones. If Shepard's class doesn't have access to the ability, use a squadmate who does to take point and draw fire.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

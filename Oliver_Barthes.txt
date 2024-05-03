@@ -1,0 +1,48 @@
+
+
+
+
+
+Oliver Barthes
+Tech Specialist Second Class
+
+Race
+Human
+
+
+Gender
+Male
+
+
+Appearances
+Mass Effect Andromeda: Annihilation
+
+
+Oliver Barthes is one of the many codeslingers working on the quarian ark Keelah Si'yah prior to its scheduled departure for the Andromeda galaxy in 2186. The only son in his family, Oliver has a particular talent for debugging spaceships.
+
+Background[]
+A native of Eden Prime, Oliver and his parents were among the thousands displaced during the galaxy-shaking upheavals of 2183. After the geth attack on their home planet, his family ended up sold into indentured servitude, where he was bought by an elcor named Lumm while his parents stayed under the auspices of Aria T'Loak.
+To keep Aria from sending his parents into hard labor, Oliver sent her as much of his earnings as he could in order to eventually buy their freedom. Lumm was a reasonable enough slavemaster who allowed his boys to buy their freedom, although most of Oliver's peers preferred to splurge on batarian shard wine, red sand, quasar, girls, or other vices. Oliver was sorely tempted, but he persevered and only spent the bare minimum on himself to survive. Eventually he saved enough credits to free himself and continue paying off for his parents. 
+His work detail took him to places across the Milky Way such as Sigurd's Cradle and Hephaestus Station in the Caleston Rift, where in the latter he managed to get employed by the Andromeda Initiative. In a very competitive age where people were practically born coding and coding billets were viciously short term, Oliver counted himself lucky that the Initiative paid better than the Systems Alliance, since he ended up somehow spending a year working on the Keelah Si'yah. He amassed enough knowledge about the quarians that he already knew what they looked like under their suits while most people around him still wondered.
+Sometimes Oliver fantasized about being given a slot in one of the ark's cryopods and waking up to a fresh new start like many others. He still had his parents to think about, however, and settled for someday building a VI-automated ship from scratch with none of the programmer issues peeving him like poring over and fixing someone else's kludge code.
+One day, Oliver received an anonymous job order, which was promising an exorbitant payout in exchange for a simple no-questions-asked task. He was to upload the quarian lullaby My Suit and Me into the cryopod maintenance matrix and erase any trace of the event. Having examined the lullaby code, Oliver found nothing suspicious and agreed to do the job, figuring it was mere sentimentality like with one of his dinner companions who was also hired to install perfume capsules scented with Rakhana-native usharet flowers on drell pods.
+
+
+
+
+
+
+
+“By the homeworld I hope to find one day.” — Spoilers for Mass Effect Andromeda: Annihilation follow.
+
+
+
+
+Mass Effect Andromeda: Annihilation[]
+At 3 in the morning, Oliver crawls along the outer hull of Keelah Si'yah and interfaces his VI Helen with the ship systems to furtively upload My Suit and Me.
+On the walkways of Hephaestus Station after performing the job, Oliver checks his datapad and confirms the influx of a massive amount of credits. With the money more than enough to buy his parents' freedom and get him started on his dream ship, Oliver is still thinking about his hopes and dreams when a cloaked figure steps out of the shadows and shoots him on the head twice.
+The code Oliver uploaded turns out to be a computer worm that masks its presence and fools monitoring systems to report clear status checks even while the ship malfunctions all over. About 600 years after his death, justice is somewhat served when drell detective Anax Therion, a witness to his murder, makes the connection between the cloaked figure who shot him and the ship's own Captain Qetsi'Olam vas Keelah Si'yah. Qetsi sacrifices herself to cure the cross-species Fortinbras Plague which originated from the perfume capsules Oliver's acquaintance installed.
+
+
+
+

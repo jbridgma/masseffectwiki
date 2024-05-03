@@ -1,0 +1,43 @@
+
+
+
+There are deadly "contaminants" in the decontamination chamber you must pass through to leave Peak 15.
+Acquisition[]
+Prerequisite: Noveria: Reactor Repair and Noveria: Reconnect Landlines
+
+There are two ways to obtain this mission. One is by simply taking the elevator to the trams after gaining access to the tram station. Mira blasts out her regular user alert notice, though this time it's about the "contaminants" in the tramway decontamination chamber. The tram station has been sealed to keep these contaminants from escaping the facility.
+The other is by talking to a Mira terminal after fixing the reactor and landlines. After inquiring about "loose contaminants", you must either instruct Mira to override the lockdown and get you access, or ask how to activate the 5000-Kelvin failsafe plasma jets that should take care of these contaminants. Note:  Instructing Mira to override the lockdown also finishes the mission as it's acquired.
+
+Walkthrough[]
+Note:  If you told Mira to override the lockdown before going to the decontamination and transit hub, she erroneously states "no hazardous or unauthorized materials detected" on the elevator ride up despite you having yet to deal with the issue.
+When you arrive outside the decontamination chamber, you may see that the tunnel ahead is filled with rachni, specifically two Rachni Soldiers. Your squadmates comment on the situation, pointing out that the door control can be unlocked (Average Decryption). Inside the decon chamber office, there's a dead salarian next to a computer console, a lootable crate and junk bin, a Mira terminal, and an interface to repair the plasma incinerator (Hard Electronics). The computer console tells the salarian's final garbled log before he killed himself, and your squadmates again may have some comments afterward.
+You have three options:
+
+Repair the plasma vents and watch the bugs burn
+Have Mira open the door and shoot them
+Bypass the door and then shoot them
+All of these options result in mission completion, if you haven't told Mira to override before going here. Ironically, the one that gives the most XP is the easiest for once: if your Electronics skill is sufficient (nine or above) repair the vents and watch the bugs burn. Dealing with the bugs manually as a result of bypassing the door or telling Mira to override has inferior per creature XP gains, though the credit payout is the same.
+After dealing with the Rachni Soldiers in whatever way, inspect the decon chamber office and be wary of the grate next to the dead salarian. Another Rachni Soldier may pop up from there. Take it down then head into the tunnel. There's a bunch of Rachni Workers waiting in the next door, though technically they aren't part of this mission.
+
+Enemies[]
+Rachni Soldier
+
+Noveria Mission Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Noveria: Peak 15
+
+Missions
+
+Noveria: Rift Station
+
+
+
+

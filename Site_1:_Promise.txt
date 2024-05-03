@@ -1,0 +1,217 @@
+
+
+
+Site 1: Promise is the first Andromeda Initiative outpost on Eos. The site was chosen due to its proximity to a water source, but it was soon discovered that the water required non-standard decontamination to become usable. The site was initially abandoned by the Initiative when the planet was found to be too difficult to survive on due to both natural and unnatural threats. 
+A second attempt to create an outpost by the Initiative was named Site 2: Resilience, just south of Promise.
+
+
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+Site 1 is the landing site of Pathfinder Ryder's first mission to gain a foothold on Eos for the Initiative. The Tempest berths here until Ryder resets the planetary vault for Eos and allows for the founding of a more successful colony, Prodromos, to the southwest of Promise and Resilience.
+Even after the radiation issue is dealt with, despite its buildings being largely intact, Promise remains virtually abandoned. Clancy Arquist is the sole person around, conducting illicit salvaging operations though occasionally he may have some things to sell to the Pathfinder.
+
+Contents
+
+1 Layout
+2 Former Personnel
+3 Missions
+4 Datapads
+5 Terminals
+
+
+Layout[]
+The site consists of a U-shaped cluster of small structures surrounding a small water pool and a power relay station to the southeast on a ridge. The buildings have alphanumeric designations on their exterior walls for identification. A forward station drops down from orbit in the middle of the site when called in by Ryder, in order to gain access codes to a storage crate containing the ND1 Nomad.
+The settlement is surrounded by shield masts that help to keep out the hostile environmental radiation until Ryder is able to reset the vault. To the far west is a large ringed structure designed to generate drinking water. Some of the doors are sealed shut until Ryder restores power to the site.
+A Research Center is located in the small northeastern building, beside the Nomad crate, where weapons and modifications can be developed or researched as onboard the Tempest.
+Scattered among the structures are various minerals, especially fluorite and some cadmium, containers of loot, and scannable objects.
+
+Former Personnel[]
+Anna Farthingale - Major, deceased
+Kay Farthingale - Technician
+Adriano Fonseca - Senior Foreman
+Kothari - Specialist
+Grace Lito - Chief Engineer
+Lockley - deceased
+Alison May - Botany Consultant
+Rawston
+Zed Wilcox - Security Officer, deceased
+Missions[]
+
+
+
+Priority Ops
+A Better Beginning
+
+
+Allies and Relationships
+Jaal Ama Darav: Friend or Foe?
+Ryder Family Secrets
+
+
+
+
+Heleus Assignments
+Doesn't Add Up
+Something Personnel
+The Secret Project
+
+
+Additional Tasks
+Task: Drone Recovery
+Task: Naming the Dead
+Task: Research Center Development
+
+Datapads[]
+On a desk inside the building labeled F5:
+
+
+
+
+Personal Log: Chief Lito
+Login: Chief Engineer Grace Lito
+
+New entry: Specialist Kothari needs to stop navel-gazing about the monoliths and whoever built them. We need that speculating mind of his. If it doesn't grow food, stop wind, or get Special Project Sigma done, it's not worth our time right now. His team is looking at the big structures, and they'll do good work, but I tagged his runner just in case.
+Vehicle tracking code: Grace-delta9
+
+
+END LOG
+
+
+
+On a desk in the S2 building (the research center), unlocked after power restoration:
+
+
+
+
+Log: New Designs, Departures
+Login: Senior Foreman Adriano Fonesca
+
+Tried out the new pin design on the shelters today. Only time will tell if they actually hold together when the next storm rolls over. At least it should be easier to find the pieces this time?
+
+
+Shorty's pitching for an evac back to the Nexus. "Too many kett, not enough water, no hope," he says. "I'd rather sell supplies and sleep on the deck than lie awake listening to the storms one more night." Can't say I disagree. Losing three of my guys to the kett made me wonder about leaving too. but I asked him what I asked myself: what's back on the Nexus for pioneers? Isn't Eos what we signed on for?
+
+
+Terminals[]
+On the building labeled L1, accompanied by an audio log:
+
+
+
+
+Log: Botany Analysis
+Login: Botany Consultant Alison May
+
+New entry: What are you hiding, Eos? The plants exhibit sporadic hyper-growth, despite an environment that can sandblast paint. I'm starting to suspect an electromagnetic trigger. I detected a signal of some kind, definitely alien, but that's not my field. Uncertain if deliberate. Vector noted.
+
+
+END LOG
+
+
+
+On Outpost Central Control:
+
+
+
+
+Message for Nick Thaniopoulis
+People are talking here. Saying that Eos isn't viable, that things aren't going like they expected. I think you should come back.
+
+I know what you're going to say. "I didn't sign up for the Initiative to stay trapped in a floating tin can." And I promise, you can have your adventure. Later, when they've had more time to plan for you safety. Mom told me to make sure you don't get in over your head, and that's what I'm doing.
+
+At least think about it, for me. And check in more often. I've started to adopt Mom's worry. Already chewed through the nail of my pinky finger. It's up to you whether I keep the rest of my nails intact.
+
+
+Love you.
+
+
+
+
+
+Hello?
+Sorry to bug you again. I requested an update on Leah Wells a few days ago, and I haven't heard anything back. On my end, it looks like the message wasn't even opened. is everything okay there?
+
+
+Get back to me as soon as you can. And tell Leah to message me back.
+
+
+
+On Outpost Central Control, in a room unlocked after power is restored:
+
+
+
+
+Log: Supply situation
+Login: Technician Kay Farthingale
+
+They divided the rations again. Tonight's menu: soup with a couple of crackers each. Hope we're not too hungry to prop up the south building tomorrow, but there's nothing else for it. Can't forage because the weather's deadly, can't grow crops in those winds, and the Nexus can't feed us and themselves...
+
+No. Don't think about it. There's talk going around of getting back to the Nexus, but if we can't find an answer, who can? We dared to put our bootprints here. We were first! Me and Theo promised to stick it out, even if we ended up being the last.
+
+
+END LOG
+
+
+
+Terminal on the forward station:
+
+
+
+
+Forward Station Protocol Initiated
+--Contact--
+Preset Viability Metrics: MISMATCH
+
+Habitat 1, named Eos, does not match Initiative preflight profiles. Advance predictives are no longer applicable. Parameters require 94% rework.
+
+--KNOWN--
+Habitat 1: Eos
+Discovered: Attr. Founder Jien Garson
+Orbital data onboard
+Spectorographic profiles: WORKING...
+Geo-Sounding: WORKING...
+Radiation Sv: LETHAL at deployment
+ALERT: Fallout from Scourge is exceptionally volatile on contact with equally aggressive decline.
+
+--More data needed--
+Additional forward station coordination required
+
+
+--ONGOING--
+
+
+
+
+
+
+
+Multiple-Deployment Coordination
+--Forward Station Network established--
+Initiating magnetospheric tomography
+
+--KNOWN--
+Climate: Season Arid
+Planetwide climate uniformity is unlikely to have occurred naturally.
+Tropospheric electron density has suffered manipulation.
+Geological limiters suspected.
+Scourge radiation and impact suspected.
+Artificial atmospheric alteration suspected.
+Whether climate uniformity was intentional or a product of Scourge impact: unknown.
+
+--More data needed--
+Additional forward station coordination required
+
+
+--ONGOING--
+
+
+
+
+

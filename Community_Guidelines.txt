@@ -1,0 +1,306 @@
+
+
+
+
+
+Quick Links
+
+
+General Guidelines
+
+
+Manual of Style Homepage
+
+
+General guidelines
+
+
+Comics (Comic Hubs)
+
+
+Templates
+
+
+Remakes
+
+
+Galaxy
+
+
+Clusters
+
+
+Systems
+
+
+Planets
+
+
+Game-play
+
+
+Missions
+
+
+Assignments
+
+
+Adversaries
+
+
+Classes
+
+
+Abilities / Powers
+
+
+Game-info
+
+
+Equipment
+
+
+Merchants / Stores
+
+
+Races
+
+
+Unique Dialogue
+
+
+See also
+
+
+Community Guidelines
+
+
+Chat Policies
+
+
+Collaboration
+
+
+Files Guideline
+
+
+Information Sourcing
+
+
+Administrators
+
+For editing guidelines, see Mass Effect Wiki: Manual of Style.
+For personal image guidelines, see Mass Effect Wiki: Personal Image Policy.
+
+This page contains basic community guidelines for Mass Effect Wiki.
+
+Contents
+
+1 General FAQ
+
+1.1 What is Mass Effect Wiki?
+1.2 I spotted a mistake! Can someone please change it?
+1.3 Who are the wiki's admins?
+1.4 I want to edit a page, but I'm not sure how.
+1.5 I made an edit, but it got reverted! :(
+1.6 Another user is harassing me. What do I do?
+1.7 Why are the alien races all written in lower case?
+1.8 Why can't I edit the Codex pages?
+1.9 Can I add a video?
+
+
+2 Code of Conduct
+
+2.1 Language
+2.2 Talk Pages
+
+2.2.1 User Pages and User Talk Pages
+
+
+2.3 Commenting on other users
+2.4 Chat
+2.5 Policy discussions
+2.6 Banning
+2.7 In Short...
+
+
+3 Editing Etiquette
+
+3.1 Speculation
+3.2 Leaked Information
+3.3 Vandalism
+3.4 Protected Pages
+3.5 Deleting, Moving, Merging, Splitting, and Redirecting Articles
+3.6 Making Major Changes in the Wiki
+3.7 Archiving of Article Talk Pages
+
+
+
+
+General FAQ[]
+
+What is Mass Effect Wiki?[]
+The Mass Effect Wiki (or MEWiki for short) is an encyclopaedia focusing on the Mass Effect games and associated media. We cover characters, planets, weapon and armour stats, assignments, storylines, technology and pretty much anything else that comes up.
+However, MEWiki is primarily an information resource, not a forum. For lengthy discussion of plot points, technology or characters, or to post speculation, please use the Blog space, the Discord group, or visit the Discussions module.
+
+I spotted a mistake! Can someone please change it?[]
+Anyone is welcome to edit an article--if you see mistakes, please correct them! :) The more editors we have, the stronger the wiki becomes.
+
+Who are the wiki's admins?[]
+MEWiki currently has these active or semi-active admins: Elseweyr, Cattlesquat, DeldiRe, and Trandra. If you need help, have a question, want to report a problem or leave a suggestion, please leave a message on our talk pages.
+
+I want to edit a page, but I'm not sure how.[]
+Check out the Mass Effect Wiki: Manual of Style. The Style Guide also contains references for technical information, like how to create links, insert pictures, and categorise your article. If you get stuck, ask an admin for help by posting on their Talk page.
+
+I made an edit, but it got reverted! :([]
+Check the article's page history for a summary of why your edit was changed. Edits may be reverted if they contain unsubstantiated speculation, poor spelling or grammar, or make changes such as converting alien races to upper case.
+Because people might not be around all the time to countercheck everything, the wiki assumes you are responsible for every edit you make. Thus it is all on you to do your own fact/spellchecking and catch any of your mistakes before committing any changes to an article, or for a short grace period afterward if you didn't spot some errors beforehand. Reverting edits simply restores the page to a previous pristine state, irrespective of how much useful information is actually added or good faith intentions, so it is of utmost importance to mind your grammar, race caps, and other style guide compliances before changing anything.
+Please do not immediately undo the revert because usually there's good cause for doing so. If the edit summary or page history doesn't say anything useful, seek a dialogue with the person who reverted your edit. Nothing is to be done to the disputed article/s unless some accord is reached. Continuously insisting on your edit is the definition of an edit war, and will lead to blocking.
+
+Another user is harassing me. What do I do?[]
+Report it to an admin. The action taken will depend on the circumstances involved, but the offender will usually get a warning and possibly a ban. See the Code of Conduct below.
+
+Why are the alien races all written in lower case?[]
+In the Mass Effect universe, alien races are common nouns (geth instead of Geth, asari instead of Asari, etc.) presumably to bring them in line with the real life grammar for "human". See the Style Guide for more.
+
+Why can't I edit the Codex pages?[]
+These reproduce the Codex from Mass Effect and are kept pristine (i.e. identical text to the game with only minor spelling / grammar fixes where necessary). If you have an edit for a Codex page, please don't edit the Codex article itself, but a related page. For example, if you have an edit for the asari Codex entry, put it on the asari page instead.
+
+Can I add a video?[]
+In almost all cases the answer will be "thank you, but no." Currently, MEWiki only accepts videos in very rare cases, normally only officially released videos, and definitely not leaked footage. 
+There are two reasons for this: one, it is a thorny copyright issue, and two, it falls under not depicting Commander Shepard and Pathfinder Ryder on the wiki to keep it universal (see Style Guide: Canon). If you want to link to a video to prove an edit is not speculation, add a link at the bottom of the article, but any video uploaded to the site will be deleted.
+
+Code of Conduct[]
+
+Language[]
+Epithets whether racial, gender, national, religious, or otherwise are not tolerated in community discussions on talk pages, forums, or blogs; though other casual profanities not directed toward other users are generally okay, unless it becomes excessive. Using more than five profane words in a single comment/post, or doing so more than three times a day, would be defined as excessive. Abusive language toward other users will also not be tolerated, particularly when it contains profanities or obscenities. When deciding how to respond to an editor's comments, consider how you would speak to a stranger face-to-face in public, as that is effectively what you are doing; if someone takes offense at your language it is best to stop. Violators will be warned, then banned for repeat violations (see below). The only time when otherwise forbidden language is permissible is when directly quoting a Mass Effect character in an article.
+
+Talk Pages[]
+Each article's Talk page exists to:
+
+ask questions about the article
+draw attention to a particular edit or explain why a particular edit was made
+communicate with another user (to answer their questions, query an edit etc.)
+suggest improvements to the article structure (i.e. posting a new table format)
+notify users of major changes to the article
+Talk pages are generally not edited by administrators unless the discussion gets wildly out of hand. Editing other users' comments is not acceptable (see below).
+Talk pages are not:
+
+a substitute forum
+a space to post theories without fear of deletion
+used to harass other users
+When creating a new section on a talk page, use the "Add Topic" button at the top of the page. This will create a new section at the bottom of the talk page. The reason we ask users to do this is because it will make the process of identifying new comments and archiving comments much easier. New Sections are not to be added to the top of talk pages or in the middle. If they are, the section will be moved to the bottom of the page. 
+
+User Pages and User Talk Pages[]
+A user's page and Talk page belong to that user, and they have control over what goes on it. As such, each editor's user page should be edited only by that user. Edits made to one user's page by another editor can be considered vandalism. Direct communication with a user should be done by leaving a message on their Talk page.
+
+Commenting on other users[]
+Commenting on another user’s edits should be done on that article's Talk page or on the user’s talk page. If you disagree with a user’s edits, particularly if they are major edits, discuss them with the user and use basic courtesy. “Editing wars” without any discussion between both parties should be discouraged. Even if you disagree with someone, there is no need to be impolite. Discuss it first; they may have misunderstood your point of view.
+Do not edit another user’s comments or their Talk page. A user’s Talk page is effectively their personal noticeboard and should not be edited. Editing another user’s comments to ridicule them, shut them up or make them agree with you is considered vandalism and may be a banning offence (see below) as it is technically impersonating another user.
+
+Chat[]
+Mass Effect Wiki has a Live! Chat feature for people who may want to discuss anything Mass Effect with other people. Please note that decorum there is still subject to the policies that are in place in this wiki, in addition to its own separate rules.
+See Mass Effect Wiki:Chat Policies for the rules concerning Chat.
+
+Policy discussions[]
+If you are an experienced Wikia user, please check before implementing policies from other wikis. For example, some wikis use user-written guides signed by that user, e.g. “Vanguard Guide by Tullis”, but MEWiki does not. As with any other new community, lurk and take some time to familiarise yourself with the community before making or proposing substantial changes.
+
+Banning[]
+Banning a user happens under two circumstances. A roaming user who commits a major act of vandalism but is not a contributor will have their IP address blocked for a short period of time to discourage a vandalism spree. However a regular contributor will be banned if circumstances demand it. Examples of behaviour leading to a ban include:
+
+Repeated vandalism of pages
+Crude or offensive language
+“Editing wars”
+Insulting other users
+Editing another user’s comments or user page
+Impersonating another user to vandalise pages or ridicule them
+“Sock Puppetry”
+First offences do not normally lead to a ban, but an offender will be warned. Repeat offenders who refuse to listen to warnings will be banned. This may be anywhere from two weeks to six months depending on the offence. If the offences continue after the ban expires, the user will be permanently banned.
+In some circumstances, a particularly severe first offence (e.g. racist or otherwise prejudiced language, deleting large swathes of the wiki, severe vandalism that takes a long time to correct or that damages the wiki) will lead to a permanent ban without a warning.
+
+In Short...[]
+...the code of conduct boils down to “courtesy toward other users, the community and the wiki itself”.
+
+Editing Etiquette[]
+Speculation[]
+
+MEWiki has a “low tolerance policy” on speculation in articles. This is due to an incident when an editor created a new race and star systems, and began incorporating them into articles as fact. As the PC version had recently been released, this confused several contributors as to whether a new race had been added in the PC version. Finding and rooting out these edits created problems, and so this policy was introduced.
+Speculation is permitted in articles under the following circumstances:
+
+There is evidence for this speculation. For example:
+Incorrect: “Quarians once had fur, but after wearing environmental suits for hundreds of years this trait has died out.”
+Correct: “Some speculate that if they join the Council, humans will have a major military role because they have a substantial fleet, well-trained army and adaptable military doctrine (see Systems Alliance).”
+If the speculation refers to an unreleased game or novel, put a link at the end of the sentence to an interview or article supporting that speculation. For example:
+Incorrect: "This decision is pivotal to the story."
+Correct: "This decision is pivotal to the story [link to supporting article].", or
+Correct: "This decision is pivotal to the story [link to supporting article|source]"
+If you see an unsourced piece of information that may be speculative, but do not want to delete it, the {{fact}} tag can be used to alert other users that this is unconfirmed and request supporting links.
+
+Example: "This decision is pivotal to the story. [citation needed] "
+If speculation is not substantiated or qualified, it will be removed.
+
+Leaked Information[]
+Because of the inherent nature of leaked information, which is usually accidental, unintentional, and almost always not the final product, the Mass Effect Wiki will not accept leaked information. Any information from a leak, with it being sourced to the leak, will be removed on sight from any mainspace article, with or without explanation. If the information continues to be added, then there may be need for further action.
+On the other hand, if information from a leak is confirmed by the developers to be the final product, then the information will be permitted in articles. To that end, that information must be sourced from a developer saying it is the final product. If the information from a leak is confirmed, but is unsourced when added, putting "developer confirmed this", or something along those lines in the article is not enough, then it will be still removed. All information must be sourced or it will be removed.
+
+Vandalism[]
+Vandalism is any unwanted or inappropriate editing to existing articles. Examples of vandalism include:
+
+Replacing entire articles with nonsense or offensive language
+Inserting nonsense or offensive language, spam or deliberately misleading information
+Inserting comments into the body of articles that belong on a Talk page
+Deleting sections of articles, or deleting entire legitimate articles
+Creating nonsense articles
+Most vandalism is committed by users outside the community or roaming Wikia users. It should be corrected as soon as it is committed or reported to an admin.
+
+Protected Pages[]
+Some pages are protected if they have suffered repeated editing wars or vandalism. These pages can only be edited by a registered user. If the vandalism continues, the page’s protection may be increased, meaning only administrators or sysops can edit the page. Over time a page’s protection may be removed to “test the waters" and ensure the vandalism is not repeated.
+
+Deleting, Moving, Merging, Splitting, and Redirecting Articles[]
+Because some articles will require deletion, moving, merging, splitting, or redirecting, when a action like this is proposed, add the appropriate template, {{Delete}}, {{Move}}, {{Merge}}, {{Split}}, or {{Redirect}} and start a new section on the article's talk page with the headline (action) Proposal. Do not just add the template and leave it, please open a discussion so the action can be addressed. 
+A few simple guidelines for the discussion about the action:
+
+Be sure to state clearly whether you are for the action or against it.
+If you want to add a reason then you are free to do so.
+Anyone can feel free to change their vote at any time during the voting period but please strike out your previous vote using the strike command. <s> at the start of your comment, </s> at the end.
+Please keep all comments in the (action) Proposal section relevant to the proposal. If another issue should be addressed then start another section.
+Please do not vote more than once, each user will only be tallied once.
+Please sign all comments with either the signature button, or by using ~~~~.
+Length of Voting Time:
+
+Voting will take place for 7 days after the template is added. Not from the time the discussion is started, from the time the template is added.
+If the vote is tied at the end of the 7 days, then an admin, provided they have not voted in the discussion, can break a tie vote.
+What Happens Next:
+
+Once the decision has been made, the article will be deleted, moved, merged, or split with a final vote tally being given by the person performing the action.
+If the decision was to keep the article or not perform the merge, move, or split, then a week "cooldown" period must be allowed before the issue can be brought up again.
+During the cooldown period, please do not edit in the section as the discussion is closed.
+After the cooldown period is over, if the issue needs to be brought up again, then open a new discussion, do not continue the old one, with a heading (action) Proposal Again.
+If the issue is brought up again, the previous discussion's votes are moot, and they do not count towards the new vote. The same rules apply as the first discussion.
+Making Major Changes in the Wiki[]
+At times there will be instances where some people don't like the way content is presented in articles and try to come up with ideas of their own. Editors are requested to make a mock-up of whatever it is they're trying to propose, preferably in sandboxes, and then present their proposal in the wiki's Projects Forum. This is to encourage healthy feedback from the community, ensure due process is carried out when committing the changes, and reduce the likelihood of mainspace squabbling over disputed styles.
+Please take care to consult the existing Manuals of Style first before doing so.
+Examples of major changes are not only limited to these:
+
+Template creation/redesign and deployment of said template to mainspace
+Category functions redefinition (what should or should not be under a certain category)
+Alternate ways of presenting data (e.g. table designs)
+The voting period and process is essentially the same as the section on merging/deleting/splitting/redirecting articles above.
+Note: Policy changes are a related but different matter, however. Editors should take their ideas to the Policy Forum if it concerns changing the wiki's rules.
+
+Archiving of Article Talk Pages[]
+Because talk pages will get long over time, archiving them will become necessary. There are a few guidelines when it comes to archiving talk pages and the archives themselves. 
+
+Only admins are permitted to archive talk pages.
+There will be no time limit on how long comments will be permitted on talk pages before archiving.
+Archiving will take place one week after the posting of a comment that meets one of two conditions
+The size of the talk page exceeds 75,000 bytes
+The amount of comments exceeds 50 headings including any comments in the top
+Max allotted: 80,000 bytes or 55 comments
+Archives will also not exceed the same limits as the above conditions for the talk page, 75,000 bytes, or 50 comments.
+Editing to archives will not be permitted. Any edits apart from maintenance will be reverted.
+Note: These terms will not apply to individual user’s talk pages. Users are free to archive their own pages as they please.
+
+
+
+

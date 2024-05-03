@@ -1,0 +1,43 @@
+
+
+
+Embattled Resistance fighters could use reinforcements in a firefight against kett forces. Help them drive off the enemy. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Help Resistance fighters defeat kett
+2.2 Speak with the Resistance team's leader
+
+
+3 Enemies
+4 Trivia
+
+
+Acquisition[]
+Prerequisite: A Trail of Hope II
+
+This mission is available once access to Voeld is granted as part of the given mission above. 
+The mission is automatically started when travelling in the easternmost reaches of the Voeld map.
+Head directly east of Techiix. Around north or northeast of the two Forward Stations southeast from Techiix, SAM alerts you about heavy weapons fire nearby and marks the location on the map. At the location where SAM tells Pathfinder Ryder that he detects heavy fire, a Kett Core Encryption Tech can be scanned for +100 . The location of the navpointis south of the kett device.
+Note:  This mission is not shown in the Journal.
+
+Walkthrough[]
+Help Resistance fighters defeat kett[]
+Eliminate the kett forces. Enemy composition is a couple of Anointed and Chosen.
+The battlefield is sparse and has no ammo or health refills nor solar heaters (the burning wreckage nearby isn't enough to stave off the cold), so best get it done quickly.
+As with other missions with friendly NPC helpers, the angaran fighters cannot die but deal negligible damage, so it's still up to you to finish the fight in a reasonable amount of time before you freeze from the cold hazard.
+
+Speak with the Resistance team's leader[]
+Juusov is the only guy to speak to. He's grumpy about the rescue, and advises Pathfinder Ryder to not join fights that aren't theirs. You can act modest, or tell him you were sent by Evfra, either way Juusov is dismissive of your efforts. He warns you not all angara can distinguish between the Milky Way visitors and the kett, and while you'll snark about it, he just grunts in response.
+After speaking with Juusov, the mission is marked complete. There are no rewards. 
+
+Enemies[]
+Anointed
+Chosen
+Trivia[]
+This mission is neither on the journal or in Mass Effect: Andromeda Official Prima Guide, and thus has no further "official" classification other than it's a mission. It does have markers on the map, hence where the initial mission text comes from.
+
+
+

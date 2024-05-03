@@ -1,0 +1,58 @@
+
+
+
+
+
+Pas-55
+
+Region
+Andromeda / Heleus Cluster / Nol
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+11.0 AU
+
+
+Orbital Period
+36.6 Earth Years
+
+
+Keplerian Ratio
+0.994
+
+
+Radius
+43,338 km
+
+
+Atm. Pressure
+0.52 atm
+
+
+Location: Andromeda / Heleus Cluster / Nol System /  First planet
+
+
+Description[]
+Hydrogen and methane comprise the bulk of Pas-55's atmosphere. Innumerable tiny satellites drift low in the gas giant's orbit, too dispersed to form a proper "ring." 
+
+Anomaly[]
+Starship Wreckage[]
+DATA:
+
+Ship ident: Yeonii-011
+Ship Name: Unknown
+Crew complement: 1
+Status: N/A
+ANALYSIS:
+This empty angaran escape pod appears to have been drifting over Pas-55 for nearly a decade. Markings suggest it came from a exploratory vessel; its data is now yours to carry forward.
+Awards random Salvage when scanned.
+
+
+
+

@@ -1,0 +1,80 @@
+
+
+
+A vital depot has gone silent, leaving allied fleets short on desperately needed fuel. Investigate the depot and get it operational again.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Radioactive Gas
+3.2 Barrier Engines
+3.3 Restart the Reactors
+
+
+4 Aftermath
+5 Enemies
+
+
+Acquisition[]
+Prerequisite: Priority: Geth Dreadnought
+
+The mission becomes available after the geth dreadnought's destruction.
+
+Preparation[]
+Travel to Cyone of the Silean Nebula. This mission takes place on the multiplayer map Firebase Reactor. Unlike most N7 missions, this one involves Reaper opponents instead of Cerberus. 
+Crowd control and anti-shield powers are advised for the bulk of the assault. Powers for breaking armor also come in handy for the final part. Keep an eye out for Reaper tech installed throughout the base; you'll need anti-barrier capabilities as well if you do not want to take preemptive action.
+
+Walkthrough[]
+As you enter the facility, you start near a turian member of Captain Lee Riley's team who introduces himself as Corporal Nyrek. You can speak to him a few times, and if you do you'll get a bit of background information. Walk to the left to pick up a Rosenkov Materials Chestplate. Then walk farther up to pick up a datapad containing a Medical Treatment Plan.
+
+Radioactive Gas[]
+
+After that, head towards the right side of the facility to speak to Captain Riley herself, and she will explain the situation. A container behind her will be moved to reveal a corridor. Do not attempt to go near the left edge as the area below is filled with deadly gas. On your right, you will come across a Crane Display terminal but before activating it, walk along the same corridor and salvage spare parts worth 4000 credits.
+Activate the crane and a display will appear. The display shows a live video feed which is recording from behind you. You will need to use the 3 buttons to move 2 containers, which are displayed on the left of the screen, to the right. Note - the crane begins already holding the first crate.
+Once the path is cleared, Riley will then get into position, sending you to go find a way to vent the area. From the Crane Display, follow the path all the way around to your right. There will be a control console to vent the glowing gas.  After activating it, head to the area that just opened up. You can find a PDA next to the Fuel Rod Control for 3000 credits, and a medkit in the same area far back by the yellow vehicle.
+
+Barrier Engines[]
+
+Tip: Before initiating the controls, you could walk around the area, look for 6 Reaper Barrier Engines and destroy them; this will tip the coming battles to your favor. Some are overhead, some are at eye level, and one is even cleverly hidden down in the lower area on the far side. They will not be directly targetable, but you can manually aim at them to attack them.
+Starting from the fuel rod control, look back towards the direction of the crane controls that you had used earlier. Attached to the top of the support column there is the first barrier engine. Now look towards the direction of the area where you initially started the mission, and you will see a second barrier engine nestled near the foot of the ramp leading back up to that initial starting area. Finally, head towards that same ramp, and you will see a third barrier engine attached to a horizontal beam directly above the top of the ramp.
+The next set of engines could be found by following the upper-level walkway from the control console that you used to vent the toxic gas. Eventually, on your right, you will see a barrier engine perched atop a black cylindrical machine. Now turn your head towards the reactor core, and between the two bright lights, you will see another barrier engine. Climb down the ladder to find, tucked away at the foot of the ramp, the final barrier engine.
+Return to the fuel rod control and unlock the fuel rods. Husks and Marauders will now attack. After you have cleared the area, you will need to seal the two moderator tanks.
+
+Restart the Reactors[]
+Near the reactor controls is another pad with 3000 credits. Next, restart the reactor. After you so do, more enemies will attack. Husks will come from the ground, but Marauders will drop in from above. If you couldn't find the Barrier Engines before, you'll be able to find them now, and you may need to destroy them to make your enemies less durable.
+Once the area is clear, Riley will talk to you over comm and say how they are not going to make it. You can choose to help or ask her to keep at it. You will be required to send a squad member if you choose to help.
+
+
+Now the chamber door in front of you will be opened, only to reveal Marauders and a Brute, along with two barrier engines inside the reactor chamber that you couldn't reach before. You'll want to draw the Brute out away from the barrier engines so that it doesn't get continual recharges. Once you dispatch the enemies, initiate the final startup on the console. Go straight down to the extraction point. 
+If you sent a squad member to assist Riley's team, she'll be waiting at the extraction point along with your squad member and one other survivor. If you didn't send backup, you will meet only a wounded Corporal Nyrek, who will inform you that Captain Riley gave her life to save him. Nyrek vows to honor his captain's memory by "kicking ass." Pick up any missed items before you hit the door to return to the Normandy. 
+
+Aftermath[]
+Completing this mission gives you +5 Reputation, 10,000 credits, and the Advanced Starship Fuel War Asset.
+If she survives, Captain Riley sends Commander Shepard an e-mail and a commendation becomes available at the Spectre Terminal. If Riley doesn't survive, Shepard informs Admiral Hackett that the Captain did her duty, which Hackett promises to put in the letter to her family. The commendation becomes a posthumous commendation instead.
+
+
+
+
+
+Reporting in
+
+
+From: Lee Riley
+
+Commander:
+
+My squad continues to defend the fuel reactor on Cyone. The Reapers seem intent on taking it down. Not on my watch. We will hold the line.
+
+
+Capt. Lee Riley
+
+
+Enemies[]
+Brute
+Husk
+Marauder
+
+
+

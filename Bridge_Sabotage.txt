@@ -1,0 +1,35 @@
+
+
+
+Find the bombs
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Find the bombs
+
+
+3 Rewards
+4 Enemies
+
+
+Acquisition[]
+There is a bridge southwest of Techiix on Voeld which, once close enough, a squadmember will point out kett. Defeat them and interact with the device on the bridge (marked with a), which turns out to be a detonator for explosives, to acquire this mission.
+
+Walkthrough[]
+The kett mentioned are Anointed and Chosen, who may be reinforced by a couple more units from a dropship. There are very few cover spots since this is supposed to be a road, so you may have to finish them off quickly or with using your Nomad as a shield or battering ram.
+
+Find the bombs[]
+There are four bombs to disable, and they're marked  on the bridge. Before dealing with the first one, you may scan it for some commentary from the squad.
+Two of the explosives are located on the road of the bridge itself, while the other two are located on supports underneath either end. The eastern one in particular is next to a platinum node.
+Once they are all disabled, the mission is marked complete.
+
+Rewards[]
++270 XP
+Enemies[]
+Anointed
+Chosen
+
+
+

@@ -1,0 +1,72 @@
+
+
+
+The following are transcriptions of the artists' comments for the design gallery "The Technology of Mass Effect: Normandy - 2nd Floor" found on the bonus content disc of Mass Effect released in 2008.
+
+Contents
+
+1 Image 1
+2 Image 2
+3 Image 3
+4 Image 4
+5 Image 5
+6 Image 6
+7 Image 7
+8 Image 8
+9 Image 9
+
+
+Image 1[]
+Derek Watts: So as we get designs from the designers about what they want, what kind of floor plan, what needs to happen on certain levels, we start to make these drawings. This is a drawing of the second level in the game. After you start out the game, you're mostly on the first level, then as you work your way through, you start to get on the second level. This is lower down. The doctor's quarters are down there, the captain's office, some of the sleeping pods, more of the kind of cafeteria type area, the regular crew area where they would meet discussing, the lockers and so on.
+
+Image 2[]
+Derek Watts: So this is a concept of maybe what that crew area would look like. The table down in the lower left, maybe some of the walls. How would you build those? How would the windows look? Some kind of structures that would be in a ceiling to add detail. A lot of this is very complicated to build, so we'd only pick and choose certain things for these, but it gave us a lot of ideas to work with.
+
+Image 3[]
+Derek Watts: This is another concept of that area. How the floors would look, maybe a nice neat hinge down there. Some texture ideas the texture artists can take from here, like those panels along the wall, and some of the other detail on the wall up to the far left.
+
+Image 4[]
+Derek Watts: This shows some wall detail, maybe some elements that we could build as detail meshes and put against the wall. We like that curved kind of feeling of it. It felt like you were right against the skin of the ship. It's hard to take on a structure from the outside. In video games, the interiors very rarely match up with the exteriors. I mean, the interior of the ship is massive. If we tried to build a ship around it, the Normandy would have been huge, it would have been unbelievably big. That's some of the stuff we have to work in with video games. It's part of the scale issues we have.
+
+Image 5[]
+Derek Watts: This shows just a quick lighting study of maybe how part of the hallway would look down towards the sleeping pods. You can see through that door, he's painted in what may be the sleeping corridor of these cells where they would go into deep sleep. I mean, this is a big part of science-fiction, you know, these sleep areas so you can do all the time travel you need.
+
+Image 6[]
+Derek Watts: This is another concept of what those sleeping pods might look like, how the doors would look. We changed these quite a bit into the final game.
+
+Image 7[]
+Derek Watts: This is another concept of how these pods would look. These look more like an A-shape. We ended up changing it quite a bit as the next drawing will show.
+
+Image 8[]
+Derek Watts: So this is the drawing done for the sleeping pods. You'll find these in the Normandy. We were also going to put these in multiple other areas; I think there were originally some in the Citadel. So this is kind of a-- you get on that pod, that little platform, get into it, and then that whole thing could hinge or move. It could move it out quite vertical, you could actually lay it down flat for horizontal or tuck it right up against the wall, to keep out of the way. So this we built as a detail mesh; it was a separate object and then we placed it in the Normandy.
+
+Image 9[]
+Derek Watts: This is another SketchUp model of how some of the hallways would look, some of the details on the walls. Some of these elements we did use, other ones we built kind of dioramas of what we wanted by texturing and lighting small areas and getting some of the texturing from that.
+
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

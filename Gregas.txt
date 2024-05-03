@@ -1,0 +1,100 @@
+
+
+
+
+
+Gregas
+
+Region
+Milky Way / Eagle Nebula / Imir
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+10.0 AU
+
+
+Orbital Period
+31.7 Earth Years
+
+
+Keplerian Ratio
+0.995
+
+
+Radius
+5,240 km
+
+
+Day Length
+69.9 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+−170 °C 
+
+
+Surface Gravity
+0.7 g
+
+
+Mass
+0.469 Earth Masses
+
+
+Location: Milky Way / Eagle Nebula / Imir System /  Fourth planet
+
+Description[]
+Cold and distant, Gregas is currently 65 percent rock by mass and 35 percent frozen methane and nitrogen ices. In the planet's "summer years" these percentages change as the sun heats its ice and it evaporates into a thin atmosphere. Its calcium-heavy crust has been scouted by countless Korlus surveying teams, most of whom came back empty-handed.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+7,100
+
+
+Platinum
+
+Medium
+
+6,400
+
+
+Iridium
+
+High
+
+17,200
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

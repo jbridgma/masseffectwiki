@@ -1,0 +1,75 @@
+
+
+
+
+
+H-065
+
+Region
+Andromeda / Heleus Cluster / Civki
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+1.4 AU
+
+
+Orbital Period
+1.3 Earth Years
+
+
+Keplerian Ratio
+1.624
+
+
+Radius
+5,678 km
+
+
+Atm. Pressure
+0.04 atm
+
+
+Surface Temp
+195 °C 
+
+
+Location: Andromeda / Heleus Cluster / Civki System /  First planet
+
+
+Contents
+
+1 Description
+2 Anomaly
+
+2.1 Satellite
+
+
+3 Trivia
+
+
+Description[]
+Although their surveys were inconclusive, Milky Way scientists believed H-065 was potentially inhabitable. Now it's a scorching desert; whatever it was before the Scourge is lost.
+
+Anomaly[]
+Satellite[]
+DATA:
+
+Satellite ID: Unknown
+Power readings: 98.2%
+System report: Scanners online
+Status: Operational
+ANALYSIS:
+This kett satellite is focused on H-065, taking detailed readings of seemingly empty expanses of desert.
+Awards +50  when scanned.
+
+Trivia[]
+Despite the orbiting satellite's description classifying it as kett, its top section is emblazoned with the Andromeda Initiative logo as well as the word Initiative, and awards Milky Way research points instead of Heleus.
+
+
+

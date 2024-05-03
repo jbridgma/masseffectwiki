@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+
+
+
+Robot
+
+Type
+Synthetic
+
+
+Armament
+Machine Gun
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+A Formula for Hope
+
+
+Robots are mobile synthetic units. They are deployed by the batarian army on the Ahn'Kedar Orbital Platform to support their assault.
+
+Tactics[]
+Robots have a relatively strong health and shields bar while they can also inflict a good amount of damage. You should deal carefully with those.
+Like others enemies in Mass Effect Galaxy, their shields will begin to regenerate 1.5 seconds after being disabled, but their health will not.
+These robots can quickly move and will often try to flank you.
+Trivia[]
+They are similar to the Drones encountered in Mass Effect and Mass Effect 2.
+
+
+Mass Effect Galaxy Enemies
+
+
+Pirates
+
+Pirate • Pirate Elite • Clint "Black Eye" Darragh
+
+
+Batarian Terrorists
+
+Jath'Amon • Robot • Terrorist • Terrorist Elite • Terrorist Leader • Turret
+
+
+Turians
+
+Turian • Turian Elite
+
+
+
+
+

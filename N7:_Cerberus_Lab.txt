@@ -1,0 +1,100 @@
+
+
+
+The Alliance has located a new Cerberus laboratory located on Sanctum. Investigate the lab and deal with any potential threat.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 First Artifact
+3.2 Second Artifact
+3.3 Exfiltration
+
+
+4 Enemies
+5 Logs
+6 Trivia
+
+
+Acquisition[]
+Prerequisite: Priority: The Citadel I
+
+Given by Specialist Traynor after also receiving Priority: Palaven.
+
+
+
+
+
+Special OpsFrom: Steven Hackett
+Shepard: 
+
+Alliance forces are stretched thin across the galaxy. We need your specific talents for a series of ops.
+
+These missions will open doors for the Alliance in places we can’t touch through conventional means. We’ll deploy operatives to hold point after you’ve completed your objectives.
+
+I need you to head to a Cerberus lab on the planet Sanctum. I’ll brief you when you’re inbound.
+
+Hackett
+
+
+
+
+Preparation[]
+This mission occurs on the multiplayer map Firebase Glacier. You will be fighting basic Cerberus enemies on this mission, on short to medium-range engagements in a small indoor environment.
+Warning:  Enemies will spontaneously spawn in waves at several points during this mission, and at least one point they may instantly appear out of thin air without any warning right on top of you or your squad.  Also near the end of the mission enemies can spawn endlessly if you continue to move around the area so it's a good idea to end the mission as soon as possible once you can do so safely.  
+Note:  You can only bring Javik on this mission if you've completed Priority: Palaven.
+
+Walkthrough[]
+First Artifact[]
+
+At the beginning of the mission, go left up the stairs and through the doors. Expect resistance at the top. To get to each artifact you will need to deactivate the containment. After locating the artifact, eliminate the Cerberus troops and collect the artifact, then return to the landing pad and place the artifact onto the shuttle for extraction, but look around for useful items first.
+From the initial landing pad and up the ramps, you'll find the Sniper Rifle Enhanced Scope just inside the first archway on the left on the floor. Directly to the right on the console are credits (3,000). Ahead in the room in the hall on the left is a medical station (150 experience). In the corner of the room is a journal entry (18 experience). In the hallway on the right there are more credits (4,000) to the left of the ammo pile. Down the hallway past the reaper artifact (not down the stairs on the left or the right) is a small room with a failed medi-gel experiment. Exit the room and go left down the stairs, pick up the credits (3,000) across from the open doorway. Go down the stairs and in the corner is a journal entry (18 experience).
+
+Second Artifact[]
+
+Go back into the base to locate the next artifact: there will now be more Cerberus troops, this time with turrets. You'll find the second artifact on the lowest level. Once you locate it, be careful as you deactivate its containment because two Cerberus troopers will drop in right near you during the process. Remember to pick up the artifact itself once you've dealt with the new arrivals. Shepard will now radio Cortez who turns out to have been driven away from the landing pad by Cerberus fire.
+
+Exfiltration[]
+You must now hold out against an unlimited stream of Cerberus troops until Cortez is able to return. Several radio conversations along the way will provide checkpoints to let you know you're making progress. When Shepard says to just "reload and keep firing", do exactly that. After you down more enemies, Shepard will suggest keeping the landing pad clear. You should now return to the room where the shuttle originally dropped out, as this will speed the activation of the next segment. In the third radio check-in, Cortez will say it will just be a bit longer - at this point you should continue to clear the landing pad, but if the firefight gets too hot and you need to pull back there is no penalty. 
+Finally, you'll see the shuttle pull up and Cortez will tell you to get on. From this point forward, successfully reaching and activating the shuttle will instantly end the mission with victory, regardless of the number of enemies remaining. You may find, however, that you need to clear more enemies away in order to reach the shuttle safely, and there is no pressure preventing you from doing so.
+Completion of this mission gives you +5 Reputation, 10,000 credits, and the Cerberus Research Data War Asset.
+
+Enemies[]
+Assault Trooper
+Centurion
+Combat Engineer
+Guardian
+Turret
+Logs[]
+Pre-"Integration" entry:
+
+
+
+
+
+Personal Log: C. Talavi
+
+
+Finally here. Wow, the troops here are really intense. No one smiles. Ever. And suicide on capture orders? Seriously? They call training "integration." I start being "integrated" tomorrow. Can't wait.
+
+
+Post-"Integration" entry:
+
+
+
+
+
+Personal Log: C. Talavi
+
+
+Integration successful. Suicide on capture orders confirmed. Cerberus is my friend. Obey. Protect humanity. At any cost.
+
+
+Trivia[]
+A Private Talavi is present in Normandy Dock: Bay D24 on the Citadel after Priority: The Citadel II, trying to get a transfer to fight Reapers instead of Cerberus because her brother recently joined the pro-human group. The two logs in this base are signed by someone named "C. Talavi".
+
+
+
+

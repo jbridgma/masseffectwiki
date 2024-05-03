@@ -1,0 +1,3838 @@
+
+
+
+See also: Mass Effect 3 Multiplayer/Weekend Challenges
+Challenges are a cooperative multiplayer gameplay mechanic introduced in Mass Effect 3: Retaliation. Completing certain goals will complete a Challenge, providing the player with Challenge Points, which serve as measure of their experience. There are two types of Challenges:  Silver Challenges involve meeting a certain statistical requirement in order to be considered completed;  Gold Challenges can be completed by fulfilling enough of the Silver Challenges they cover. Completing a Gold Challenge unlocks a banner and title card to display in the match lobby. All Challenges (except "Mass Effect," "Squad Elite," and the Silver Challenges they contain and temporary Challenges) can be completed multiple times.[1]
+Once a repeatable Gold Challenge is completed, all completed Silver Challenges they cover are reset, allowing them to be completed again. Progress in unfinished Silver Challenges in the set are retained.
+Note:  All three Silver Challenges for Biotic Explosions Detonated 1, 2, & 3 or Tech Explosions Detonated 1, 2, & 3 (for Biotic Mastery or Tech Mastery) must be completed in a single Gold Challenge completion or they stay marked as completed and do not reset correctly. 
+
+Each Silver Detonation Challenge will continue to show as % (percentage) complete on the Gold Challenge but will not show as complete on the (X) of (Y) complete challenge scoring. It is possible for the player to have over 100% complete showing and still not have enough Silver Challenges to complete the Gold Challenge.
+Both Biotic Mastery and Tech Mastery still have enough Silver Challenges (besides the Silver Challenges in question) to be able to complete the Gold Challenge. The player will need to complete up to two Silver Challenges above and beyond the normal amount required.
+If the player runs into this problem, the player must complete the remaining Silver Detonation Challenges and attain the remaining needed Silver Challenges to again acquire the Gold Challenge. Biotic Explosions Detonated 1, 2, & 3 or Tech Explosions Detonated 1, 2, & 3 will then reset back to normal.
+Any partially completed Silver Detonation Challenges will still be available for completion after acquiring the Gold Challenge for a subsequent Gold Challenge.
+The player should either complete all three Silver Challenges, keep Detonation 1 partially completed for the entire Gold Challenge, or plan to complete extra Silver Challenges for a subsequent Gold Challenge (if a portion of the Silver Detonation Challenges are completed but not all).
+Progress generally counts towards all relevant Challenges at the same time. For instance, promoting a character counts towards all of the N7 Mastery Challenges. When medals are concerned, each level of the medal counts separately (for example, a Silver First Aid Medal counts as two for the Squad Elite First Aid Medal Challenge since you also earned the Bronze level).
+BioWare chose alternate banners from entries in a community contest held February 15 - 22, 2013.[2][3] The alternate banners can be selected for in-lobby display via the online N7 HQ.
+
+Contents
+
+1 General
+
+1.1 Mass Effect
+1.2 Squad Elite
+1.3 Spectre Mastery
+1.4 Solo Mastery
+1.5 N7 Mastery
+1.6 Map Mastery
+1.7 Biotic Mastery
+1.8 Tech Mastery
+1.9 Halloween Challenge
+1.10 N7 Day Alliance Challenge
+1.11 Operation Privateer
+1.12 Operation Prophecy
+1.13 Operation Heartbreaker
+1.14 Operation Tribute
+1.15 Operation Lodestar
+
+
+2 Aliens
+
+2.1 Resurgence Mastery
+2.2 Rebellion Mastery
+2.3 Earth Mastery
+2.4 Retaliation Mastery
+2.5 Blood Pack Mastery
+2.6 Commando Mastery
+2.7 Machine Mastery
+2.8 Outsider Mastery
+2.9 Reckoning Mastery
+
+
+3 Weapons
+
+3.1 Shotgun Mastery
+3.2 Assault Rifle Mastery
+3.3 Sniper Rifle Mastery
+3.4 SMG Mastery
+3.5 Pistol Mastery
+3.6 Combat Mastery
+3.7 Cerberus Mastery
+3.8 Reaper Mastery
+3.9 Geth Mastery
+3.10 Collector Mastery
+
+
+4 BioWare Employee Banner
+5 References
+
+
+General[]
+Mass Effect[]
+Best of the Best BannerBest of the Best Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Mass Effect
+
+Complete 25 permanent Gold Challenges (excludes Reckoning Mastery)
+
+500
+
+Squad Elite[]
+Operator Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Squad Elite
+
+Complete 8 of the Squad Elite Silver Challenges
+
+200
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+N7 Weekend Challenge I
+
+Complete 3 N7 Weekend Challenges
+
+5
+
+
+N7 Weekend Challenge II
+
+Complete 6 N7 Weekend Challenges
+
+10
+
+
+N7 Weekend Challenge III
+
+Complete 9 N7 Weekend Challenges
+
+15
+
+
+Bronze Extractions
+
+Extract 25 times on Bronze difficulty
+
+10
+
+
+Silver Extractions
+
+Extract 25 times on Silver difficulty
+
+20
+
+
+Gold Extractions
+
+Extract 25 times on Gold difficulty
+
+30
+
+
+Platinum Extractions
+
+Extract 25 times on Platinum difficulty
+
+40
+
+
+First Aid Medals
+
+Earn 100 First Aid Medals
+
+10
+
+
+Cobra Missile Launcher Use
+
+Earn 450,000 points using the Cobra Missile Launcher
+
+30
+
+
+Survival Medals
+
+Earn 100 Survival Medals
+
+15
+
+
+Unknown Map Extractions
+
+Extract 25 times from Unknown Locations
+
+15
+
+
+Unknown Enemy Extractions
+
+Extract 25 times against an Unknown Enemy
+
+15
+
+Spectre Mastery[]
+Hardcore Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Spectre Mastery
+
+Complete 3 of the Spectre Mastery Silver Challenges
+
+500
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Points Earned
+
+Earn 25,000,000 points
+
+100
+
+
+Waves Completed
+
+Complete 2,500 waves
+
+100
+
+
+In-Game Medals Earned
+
+Earn 5,000 Medals
+
+100
+
+Solo Mastery[]
+Lone Wolf Banner
+Lone Wolf Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Solo Mastery
+
+Complete 3 of the Solo Mastery Silver Challenges
+
+100
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Solo Bronze
+
+Extract 10 times as a solo player on Bronze
+
+30
+
+
+Solo Silver
+
+Extract 5 times as a solo player on Silver
+
+30
+
+
+Solo Gold
+
+Extract 2 times as a solo player on Gold
+
+50
+
+
+Solo Platinum
+
+Extract 1 time as a solo player on Platinum
+
+100
+
+N7 Mastery[]
+N7 Banner
+N7 Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+N7 Mastery
+
+Complete 6 of the N7 Mastery Silver Challenges
+
+300
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Promotions
+
+Promote 6 classes
+
+10
+
+
+Promotions
+
+Promote 12 classes
+
+20
+
+
+Promotions
+
+Promote 24 classes
+
+30
+
+
+Promotions
+
+Promote 36 classes
+
+40
+
+
+Promotions
+
+Promote 48 classes
+
+50
+
+
+Promotions
+
+Promote 60 classes
+
+60
+
+Map Mastery[]
+Nomad Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Map Mastery
+
+Complete 40 of the Map Mastery Silver Challenges
+
+450
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Firebase Ghost: Bronze Waves
+
+Complete 100 waves on Firebase Ghost: Bronze
+
+10
+
+
+Firebase Ghost: Silver Waves
+
+Complete 100 waves on Firebase Ghost: Silver
+
+15
+
+
+Firebase Ghost: Gold Waves
+
+Complete 100 waves on Firebase Ghost: Gold
+
+20
+
+
+Firebase Ghost: Platinum Waves
+
+Complete 100 waves on Firebase Ghost: Platinum
+
+25
+
+
+Firebase White: Bronze Waves
+
+Complete 100 waves on Firebase White: Bronze
+
+10
+
+
+Firebase White: Silver Waves
+
+Complete 100 waves on Firebase White: Silver
+
+15
+
+
+Firebase White: Gold Waves
+
+Complete 100 waves on Firebase White: Gold
+
+20
+
+
+Firebase White: Platinum Waves
+
+Complete 100 waves on Firebase White: Platinum
+
+25
+
+
+Firebase Dagger: Bronze Waves
+
+Complete 100 waves on Firebase Dagger: Bronze
+
+10
+
+
+Firebase Dagger: Silver Waves
+
+Complete 100 waves on Firebase Dagger: Silver
+
+15
+
+
+Firebase Dagger: Gold Waves
+
+Complete 100 waves on Firebase Dagger: Gold
+
+20
+
+
+Firebase Dagger: Platinum Waves
+
+Complete 100 waves on Firebase Dagger: Platinum
+
+25
+
+
+Firebase Giant: Bronze Waves
+
+Complete 100 waves on Firebase Giant: Bronze
+
+10
+
+
+Firebase Giant: Silver Waves
+
+Complete 100 waves on Firebase Giant: Silver
+
+15
+
+
+Firebase Giant: Gold Waves
+
+Complete 100 waves on Firebase Giant: Gold
+
+20
+
+
+Firebase Giant: Platinum Waves
+
+Complete 100 waves on Firebase Giant: Platinum
+
+25
+
+
+Firebase Glacier: Bronze Waves
+
+Complete 100 waves on Firebase Glacier: Bronze
+
+10
+
+
+Firebase Glacier: Silver Waves
+
+Complete 100 waves on Firebase Glacier: Silver
+
+15
+
+
+Firebase Glacier: Gold Waves
+
+Complete 100 waves on Firebase Glaicer: Gold
+
+20
+
+
+Firebase Glacier: Platinum Waves
+
+Complete 100 waves on Firebase Glacier: Platinum
+
+25
+
+
+Firebase Reactor: Bronze Waves
+
+Complete 100 waves on Firebase Reactor: Bronze
+
+10
+
+
+Firebase Reactor: Silver Waves
+
+Complete 100 waves on Firebase Reactor: Silver
+
+15
+
+
+Firebase Reactor: Gold Waves
+
+Complete 100 waves on Firebase Reactor: Gold
+
+20
+
+
+Firebase Reactor: Platinum Waves
+
+Complete 100 waves on Firebase Reactor: Platinum
+
+25
+
+
+Firebase Condor: Bronze Waves
+
+Complete 100 waves on Firebase Condor: Bronze
+
+10
+
+
+Firebase Condor: Silver Waves
+
+Complete 100 waves on Firebase Condor: Silver
+
+15
+
+
+Firebase Condor: Gold Waves
+
+Complete 100 waves on Firebase Condor: Gold
+
+20
+
+
+Firebase Condor: Platinum Waves
+
+Complete 100 waves on Firebase Condor: Platinum
+
+25
+
+
+Firebase Hydra: Bronze Waves
+
+Complete 100 waves on Firebase Hydra: Bronze
+
+10
+
+
+Firebase Hydra: Silver Waves
+
+Complete 100 waves on Firebase Hydra: Silver
+
+15
+
+
+Firebase Hydra: Gold Waves
+
+Complete 100 waves on Firebase Hydra: Gold
+
+20
+
+
+Firebase Hydra: Platinum Waves
+
+Complete 100 waves on Firebase Hydra: Platinum
+
+25
+
+
+Firebase Jade: Bronze Waves
+
+Complete 100 waves on Firebase Jade: Bronze
+
+10
+
+
+Firebase Jade: Silver Waves
+
+Complete 100 waves on Firebase Jade: Silver
+
+15
+
+
+Firebase Jade: Gold Waves
+
+Complete 100 waves on Firebase Jade: Gold
+
+20
+
+
+Firebase Jade: Platinum Waves
+
+Complete 100 waves on Firebase Jade: Platinum
+
+25
+
+
+Firebase Goddess: Bronze Waves
+
+Complete 100 waves on Firebase Goddess: Bronze
+
+10
+
+
+Firebase Goddess: Silver Waves
+
+Complete 100 waves on Firebase Goddess: Silver
+
+15
+
+
+Firebase Goddess: Gold Waves
+
+Complete 100 waves on Firebase Goddess: Gold
+
+20
+
+
+Firebase Goddess: Platinum Waves
+
+Complete 100 waves on Firebase Goddess: Platinum
+
+25
+
+
+Firebase Rio: Bronze Waves
+
+Complete 100 waves on Firebase Rio: Bronze
+
+10
+
+
+Firebase Rio: Silver Waves
+
+Complete 100 waves on Firebase Rio: Silver
+
+15
+
+
+Firebase Rio: Gold Waves
+
+Complete 100 waves on Firebase Rio: Gold
+
+20
+
+
+Firebase Rio: Platinum Waves
+
+Complete 100 waves on Firebase Rio: Platinum
+
+25
+
+
+Firebase Vancouver: Bronze Waves
+
+Complete 100 waves on Firebase Vancouver: Bronze
+
+10
+
+
+Firebase Vancouver: Silver Waves
+
+Complete 100 waves on Firebase Vancouver: Silver
+
+15
+
+
+Firebase Vancouver: Gold Waves
+
+Complete 100 waves on Firebase Vancouver: Gold
+
+20
+
+
+Firebase Vancouver: Platinum Waves
+
+Complete 100 waves on Firebase Vancouver: Platinum
+
+25
+
+
+Firebase London: Bronze Waves
+
+Complete 100 waves on Firebase London: Bronze
+
+10
+
+
+Firebase London: Silver Waves
+
+Complete 100 waves on Firebase London: Silver
+
+15
+
+
+Firebase London: Gold Waves
+
+Complete 100 waves on Firebase London: Gold
+
+20
+
+
+Firebase London: Platinum Waves
+
+Complete 100 waves on Firebase London: Platinum
+
+25
+
+
+Hazard Bronze Waves
+
+Complete 200 waves on Hazard Maps
+
+10
+
+
+Hazard Silver Waves
+
+Complete 200 waves on Hazard Maps
+
+15
+
+
+Hazard Gold Waves
+
+Complete 200 waves on Hazard Maps
+
+20
+
+
+Hazard Platinum Waves
+
+Complete 200 waves on Hazard Maps
+
+25
+
+Biotic Mastery[]
+Biotic God Banner
+Biotic God Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Biotic Mastery
+
+Complete 14 of the Biotic Mastery Silver Challenges
+
+140
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Biotic Explosions Detonated 1
+
+Detonate 50 Biotic Explosions
+
+10
+
+
+Biotic Explosions Detonated 2
+
+Detonate 250 Biotic Explosions
+
+15
+
+
+Biotic Explosions Detonated 3
+
+Detonate 500 Biotic Explosions
+
+20
+
+
+Throw Use
+
+Earn 50,000 points using Throw
+
+20
+
+
+Pull Use
+
+Earn 50,000 points using Pull
+
+20
+
+
+Singularity Use
+
+Earn 50,000 points using Singularity
+
+20
+
+
+Shockwave Use
+
+Earn 50,000 points using Shockwave
+
+20
+
+
+Warp Use
+
+Earn 50,000 points using Warp
+
+20
+
+
+Biotic Charge Use
+
+Earn 50,000 points using Biotic Charge
+
+20
+
+
+Reave Use
+
+Earn 50,000 points using Reave
+
+20
+
+
+Stasis Use
+
+Earn 50,000 points using Stasis
+
+20
+
+
+Dark Channel Use
+
+Earn 50,000 points using Dark Channel
+
+20
+
+
+Annihilation Field Use
+
+Earn 50,000 points using Annihilation Field
+
+20
+
+
+Biotic Slash Use
+
+Earn 50,000 points using Biotic Slash
+
+20
+
+
+Lash Use
+
+Earn 50,000 points using Lash
+
+20
+
+
+Nova Use
+
+Earn 50,000 points using Nova
+
+20
+
+
+Smash Use
+
+Earn 50,000 points using Smash
+
+20
+
+
+Biotic Orbs Use
+
+Earn 50,000 points using Biotic Orbs
+
+20
+
+
+Barrier Use
+
+Earn 50,000 points using Barrier
+
+20
+
+
+Dark Sphere Use
+
+Earn 50,000 points using Dark Sphere
+
+20
+
+
+Seeker Swarm Use
+
+Earn 50,000 points using Seeker Swarm
+
+20
+
+
+Biotic Hammer Use
+
+Earn 50,000 points using Biotic Hammer
+
+20
+
+
+Poison Strike Use
+
+Earn 50,000 points using Poison Strike
+
+20
+
+Tech Mastery[]
+Mathemagician Banner
+Mathemagician Banner (Alternate Choice)
+
+Mathemagician Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Tech Mastery
+
+Complete 13 of the Tech Mastery Silver Challenges
+
+140
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Tech Explosions Detonated 1
+
+Detonate 50 Tech Explosions
+
+15
+
+
+Tech Explosions Detonated 2
+
+Detonate 250 Tech Explosions
+
+25
+
+
+Tech Explosions Detonated 3
+
+Detonate 500 Tech Explosions
+
+35
+
+
+Incinerate Use
+
+Earn 50,000 points using Incinerate
+
+20
+
+
+Overload Use
+
+Earn 50,000 points using Overload
+
+20
+
+
+Cryo Blast Use
+
+Earn 25,000 points using Cryo Blast
+
+20
+
+
+Combat Drone Use
+
+Earn 50,000 points using Combat Drones
+
+20
+
+
+Tech Armor Use
+
+Earn 25,000 points using Tech Armor
+
+20
+
+
+Energy Drain Use
+
+Earn 50,000 points using Energy Drain
+
+20
+
+
+Sentry Turret Use
+
+Earn 50,000 points using Sentry Turret
+
+20
+
+
+Submission Net Use
+
+Earn 50,000 points using Submission Net
+
+20
+
+
+Flamer Use
+
+Earn 50,000 points using Flamer
+
+20
+
+
+Shadow Strike Use
+
+Earn 50,000 points using Shadow Strike
+
+20
+
+
+Electric Slash Use
+
+Earn 50,000 points using Electric Slash
+
+20
+
+
+Snap Freeze Use
+
+Earn 50,000 points using Snap Freeze
+
+20
+
+
+Geth Turret Use
+
+Earn 50,000 points using Geth Turret
+
+20
+
+
+Siege Pulse Use
+
+Earn 50,000 points using Siege Pulse
+
+20
+
+
+Hex Shield Use
+
+Earn 25,000 points using Hex Shield
+
+20
+
+
+Electrical Hammer Use
+
+Earn 50,000 points using Electrical Hammer
+
+20
+
+Halloween Challenge[]
+Hallowed Hero Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Halloween Challenge
+
+Complete 3 of the Halloween Silver Challenges
+Note: Only available October 31, 2012 through November 5, 2012.[4]
+
+
+10
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Ghostbuster
+
+Extract 5 times on Firebase Ghost or Firebase Ghost Hazard
+
+5
+
+
+Zombie Hunter
+
+Earn 7500 points by killing Husks or Abominations
+
+5
+
+
+Monster Killer
+
+Earn 10000 points by killing Brutes, Scions, Praetorians, or Banshees
+
+5
+
+N7 Day Alliance Challenge[]
+Loyalist Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+N7 Day Alliance Challenge
+
+Extract 3 times with a human character
+Note: Only available November 7, 2012 through November 9, 2012.[5]
+
+
+10
+
+Operation Privateer[]
+Corsair Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Operation Privateer Challenge
+
+Score 50000 cumulative total points versus shielded enemies.
+Note: Only available November 23, 2012 through November 25, 2012.
+
+
+10
+
+Operation Prophecy[]
+Hero of the Last Days Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Operation Prophecy Challenge
+
+Complete 4 of the Prophecy Silver Challenges
+Note: Only available December 20, 2012 through December 23, 2012.
+
+
+10
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Firebase London
+
+Extract from Firebase London
+
+0
+
+
+Firebase Vancouver
+
+Extract from Firebase Vancouver
+
+0
+
+
+Firebase Rio
+
+Extract from Firebase Rio
+
+0
+
+
+Operation Prophecy
+
+Score 100,000 cumulative points against Reaper enemies.
+
+0
+
+Operation Heartbreaker[]
+Heartbreaker Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Operation Heartbreaker Challenge
+
+Score 20000 cumulative total points against Banshees.
+Note: Only available February 15, 2013 through February 17, 2013.
+
+
+10
+
+Operation Tribute[]
+Operation Tribute Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Operation Tribute Challenge
+
+Score 50000 points with the M-8 Avenger and 50000 points with Inferno Grenades.
+Note: Only available February 22, 2013 through February 24, 2013.
+
+
+10
+
+Operation Lodestar[]
+Stood Fast, Stood Strong, Stood Together Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Operation Lodestar Challenge
+
+Complete 4 of the Prophecy Silver Challenges
+Note: Only available March 5, 2013 through March 10, 2013.
+
+
+10
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Cerberus
+
+Extract against Cerberus on Silver or higher
+
+0
+
+
+Reapers
+
+Extract against Reapers on Silver or higher
+
+0
+
+
+Geth
+
+Extract against Geth on Silver or higher
+
+0
+
+
+Collectors
+
+Extract against Collectors on Silver or higher
+
+0
+
+Aliens[]
+Resurgence Mastery[]
+Insurgent Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Resurgence Mastery
+
+Complete 9 of the Resurgence Mastery Silver Challenges
+
+170
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Geth Plasma SMG Use
+
+Earn 200,000 Points using the Geth Plasma SMG
+
+20
+
+
+Striker Assault Rifle Use
+
+Earn 200,000 Points using the Striker Assault Rifle
+
+20
+
+
+Firebase Hydra Extractions
+
+Extract 15 times from Firebase Hydra
+
+20
+
+
+Firebase Condor Extractions
+
+Extract 15 times from Firebase Condor
+
+20
+
+
+Geth Infiltrator Extractions
+
+Extract 10 times using the Geth Infiltrator
+
+20
+
+
+Geth Engineer Extractions
+
+Extract 10 times using the Geth Engineer
+
+20
+
+
+Asari Justicar Extractions
+
+Extract 10 times using the Asari Justicar
+
+20
+
+
+Krogan Battlemaster Extractions
+
+Extract 10 times using the Krogan Battlemaster
+
+20
+
+
+Batarian Sentinel Extractions
+
+Extract 10 times using the Batarian Sentinel
+
+20
+
+
+Batarian Soldier Extractions
+
+Extract 10 times using the Batarian Soldier
+
+20
+
+
+Kishock Harpoon Gun Use
+
+Earn 200,000 Points using the Kishock Harpoon Gun
+
+20
+
+Rebellion Mastery[]
+Rebel Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Rebellion Mastery
+
+Complete 9 of the Rebellion Mastery Silver Challenges
+
+170
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Reegar Carbine Use
+
+Earn 200,000 Points using the Reegar Carbine
+
+20
+
+
+Krysae Sniper Rifle Use
+
+Earn 200,000 Points using the Krysae Sniper Rifle
+
+20
+
+
+Cerberus Harrier Use
+
+Earn 200,000 Points using the Cerberus Harrier
+
+20
+
+
+Firebase Jade Extractions
+
+Extract 15 times from Firebase Jade
+
+20
+
+
+Firebase Goddess Extractions
+
+Extract 15 times from Firebase Goddess
+
+20
+
+
+Vorcha Soldier Extractions
+
+Extract 10 times using the Vorcha Soldier
+
+20
+
+
+Vorcha Sentinel Extractions
+
+Extract 10 times using the Vorcha Sentinel
+
+20
+
+
+Quarian Engineer Extractions
+
+Extract 10 times using the Quarian Engineer
+
+20
+
+
+Quarian Infiltrator Extractions
+
+Extract 10 times using the Quarian Infiltrator
+
+20
+
+
+Phoenix Adept Extractions
+
+Extract 10 times using the Phoenix Adept
+
+20
+
+
+Phoenix Vanguard Extractions
+
+Extract 10 times using the Phoenix Vanguard
+
+20
+
+Earth Mastery[]
+Survivor Banner
+Survivor Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Earth Mastery
+
+Complete 9 of the Earth Mastery Silver Challenges
+
+170
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+N7 Typhoon Use
+
+Earn 200,000 Points using the N7 Typhoon
+
+20
+
+
+Acolyte Use
+
+Earn 200,000 Points using the Acolyte
+
+20
+
+
+N7 Piranha Use
+
+Earn 200,000 Points using the N7 Piranha
+
+20
+
+
+Firebase London Extractions
+
+Extract 15 times from Firebase London
+
+20
+
+
+Firebase Vancouver Extractions
+
+Extract 15 times from Firebase Vancouver
+
+20
+
+
+Firebase Rio Extractions
+
+Extract 15 times from Firebase Rio
+
+20
+
+
+N7 Slayer Extractions
+
+Extract 10 times using the N7 Slayer
+
+20
+
+
+N7 Fury Extractions
+
+Extract 10 times using the N7 Fury
+
+20
+
+
+N7 Paladin Extractions
+
+Extract 10 times using the N7 Paladin
+
+20
+
+
+N7 Destroyer Extractions
+
+Extract 10 times using the N7 Destroyer
+
+20
+
+
+N7 Demolisher Extractions
+
+Extract 10 times using the N7 Demolisher
+
+20
+
+
+N7 Shadow Extractions
+
+Extract 10 times using the N7 Shadow
+
+20
+
+Retaliation Mastery[]
+Defender Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Retaliation Mastery
+
+Complete 6 of the Retaliation Mastery Silver Challenges
+
+140
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Collector Sniper Rifle Use
+
+Earn 140,000 Points using the Collector Sniper Rifle
+
+20
+
+
+Collector SMG Use
+
+Earn 140,000 Points using the Collector SMG
+
+20
+
+
+Collector Assault Rifle Use
+
+Earn 200,000 Points using the Collector Assault Rifle
+
+20
+
+
+Hazard Extractions
+
+Extract 50 times from Hazard Maps
+
+30
+
+
+Volus Adept Extractions
+
+Extract 10 times using the Volus Adept
+
+20
+
+
+Volus Engineer Extractions
+
+Extract 10 times using the Volus Engineer
+
+20
+
+
+Turian Ghost Extractions
+
+Extract 10 times using the Turian Ghost
+
+20
+
+
+Turian Havoc Extractions
+
+Extract 10 times using the Turian Havoc
+
+20
+
+Blood Pack Mastery[]
+Monster Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Blood Pack Mastery
+
+Complete 9 of the Blood Pack Mastery Silver Challenges
+
+170
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Graal Spike Thrower Use
+
+Earn 200,000 Points using the Graal Spike Thrower
+
+20
+
+
+Krogan Sentinel Waves Completed
+
+Complete 200 waves as a Krogan Sentinel
+
+20
+
+
+Krogan Soldier Waves Completed
+
+Complete 200 waves as a Krogan Soldier
+
+20
+
+
+Krogan Battlemaster Waves Completed
+
+Complete 200 waves a Krogan Battlemaster
+
+20
+
+
+Vorcha Sentinel Waves Completed
+
+Complete 200 waves as a Vorcha Sentinel
+
+20
+
+
+Vorcha Soldier Waves Completed
+
+Complete 200 waves as a Vorcha Soldier
+
+20
+
+
+Batarian Sentinel Waves Completed
+
+Complete 200 waves as a Batarian Sentinel
+
+20
+
+
+Batarian Soldier Waves Completed
+
+Complete 200 waves as a Batarian Soldier
+
+20
+
+
+Ballistic Blade Use
+
+Earn 50,000 points using Ballistic Blades
+
+20
+
+
+Submission Net Use
+
+Earn 80,000 points using Submission Net
+
+20
+
+
+Carnage Use
+
+Earn 50,000 points using Carnage
+
+20
+
+
+Krogan Shaman Waves Completed
+
+Complete 200 waves as a Krogan Shaman
+
+20
+
+
+Batarian Slasher Waves Completed
+
+Complete 200 waves as a Batarian Slasher
+
+20
+
+
+Vorcha Hunter Waves Completed
+
+Complete 200 waves as a Vorcha Hunter
+
+20
+
+
+Batarian Brawler Waves Completed
+
+Complete 200 waves as a Batarian Brawler
+
+20
+
+
+Krogan Warlord Waves Completed
+
+Complete 200 waves as a Krogan Warlord
+
+20
+
+Commando Mastery[]
+Council Operative Banner
+Council Operative Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Commando Mastery
+
+Complete 12 of the Commando Mastery Silver Challenges
+
+200
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Disciple Use
+
+Earn 200,000 Points using the Disciple
+
+20
+
+
+Phaeston Use
+
+Earn 200,000 Points using the Phaeston
+
+20
+
+
+Scorpion Use
+
+Earn 200,000 Points using the Scorpion
+
+20
+
+
+Turian Sentinel Waves Completed
+
+Complete 200 waves as a Turian Sentinel
+
+20
+
+
+Turian Soldier Waves Completed
+
+Complete 200 waves as a Turian Soldier
+
+20
+
+
+Asari Justicar Waves Completed
+
+Complete 200 waves as an Asari Justicar
+
+20
+
+
+Asari Adept Waves Completed
+
+Complete 200 waves as an Asari Adept
+
+20
+
+
+Asari Vanguard Waves Completed
+
+Complete 200 waves as an Asari Vanguard
+
+20
+
+
+Salarian Engineer Waves Completed
+
+Complete 200 waves as a Salarian Engineer
+
+20
+
+
+Salarian Infiltrator Waves Completed
+
+Complete 200 waves as a Salarian Infiltrator
+
+20
+
+
+Squad Revives as Council Race
+
+Revive 50 Teammates as an Alien Council Race Character
+
+20
+
+
+Turian Proximity Mine Use
+
+Earn 50,000 points using the Turian Proximity Mine
+
+20
+
+
+Turian Havoc Waves Completed
+
+Complete 200 waves as a Turian Havoc
+
+20
+
+
+Turian Saboteur Waves Completed
+
+Complete 200 waves as a Turian Saboteur
+
+20
+
+
+Turian Ghost Waves Completed
+
+Complete 200 waves as a Turian Ghost
+
+20
+
+
+Asari Valkyrie Waves Completed
+
+Complete 200 waves as an Asari Valkyrie
+
+20
+
+
+Asari Huntress Waves Completed
+
+Complete 200 waves as an Asari Huntress
+
+20
+
+
+Cabal Vanguard Waves Completed
+
+Complete 200 waves as a Cabal Vanguard
+
+20
+
+Machine Mastery[]
+Machinist Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Machine Mastery
+
+Complete 8 of the Machine Mastery Silver Challenges
+
+170
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Geth Pulse Rifle Use
+
+Earn 200,000 Points using the Geth Pulse Rifle
+
+20
+
+
+Javelin Use
+
+Earn 200,000 Points using the Javelin
+
+20
+
+
+Arc Pistol Use
+
+Earn 200,000 Points using the Arc Pistol
+
+20
+
+
+Geth Engineer Waves Completed
+
+Complete 200 waves as a Geth Engineer
+
+20
+
+
+Female Quarian Infiltrator Waves Completed
+
+Complete 200 waves as a Female Quarian Infiltrator
+
+20
+
+
+Female Quarian Engineer Waves Completed
+
+Complete 200 waves a Female Quarian Engineer
+
+20
+
+
+Male Quarian Infiltrator Waves Completed
+
+Complete 200 waves as a Male Quarian Infiltrator
+
+20
+
+
+Male Quarian Engineer Waves Completed
+
+Complete 200 waves as a Male Quarian Engineer
+
+20
+
+
+Geth Proximity Mine Use
+
+Earn 50,000 points using the Geth Proximity Mine
+
+20
+
+
+Geth Infiltrator Waves Completed
+
+Complete 200 waves as a Geth Infiltrator
+
+20
+
+
+Geth Trooper Waves Completed
+
+Complete 200 waves as a Geth Trooper
+
+20
+
+
+Quarian Marksman Waves Completed
+
+Complete 200 waves as a Quarian Marksman
+
+20
+
+
+Geth Juggernaut Waves Completed
+
+Complete 200 waves as a Geth Juggernaut
+
+20
+
+Outsider Mastery[]
+Outsider Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Outsider Mastery
+
+Complete 7 of the Outsider Mastery Silver Challenges
+
+170
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+M-13 Raptor Use
+
+Earn 200,000 Points using the M-13 Raptor
+
+20
+
+
+M-358 Talon Use
+
+Earn 200,000 Points using the M-358 Talon
+
+20
+
+
+M-25 Hornet Use
+
+Earn 200,000 Points using the M-25 Hornet
+
+20
+
+
+Drell Vanguard Waves Completed
+
+Complete 200 waves as a Drell Vanguard
+
+20
+
+
+Drell Adept Waves Completed
+
+Complete 200 waves as a Drell Adept
+
+20
+
+
+Phoenix Adept Waves Completed
+
+Complete 200 waves a Phoenix Adept
+
+20
+
+
+Phoenix Vanguard Waves Completed
+
+Complete 200 waves as a Phoenix Vanguard
+
+20
+
+
+Volus Engineer Waves Completed
+
+Complete 200 waves as a Volus Engineer
+
+20
+
+
+Volus Adept Waves Completed
+
+Complete 200 waves as a Volus Adept
+
+20
+
+
+Volus Mercenary Waves Completed
+
+Complete 200 waves as a Volus Mercenary
+
+20
+
+
+Drell Assassin Waves Completed
+
+Complete 200 waves as a Drell Assassin
+
+20
+
+
+Volus Protector Waves Completed
+
+Complete 200 waves as a Volus Protector
+
+20
+
+
+Awakened Collector Waves Completed
+
+Complete 200 waves as an Awakened Collector
+
+20
+
+
+Talon Mercenary Waves Completed
+
+Complete 200 waves as a Talon Mercenary
+
+20
+
+Reckoning Mastery[]
+Punisher Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Reckoning Mastery
+
+Complete 10 of the Reckoning Mastery Silver Challenges
+
+200
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Awakened Collector Extractions
+
+Extract 10 times using the Awakened Collector
+
+20
+
+
+Krogan Warlord Extractions
+
+Extract 10 times using the Krogan Warlord
+
+20
+
+
+Cabal Vanguard Extractions
+
+Extract 10 times using the Cabal Vanguard
+
+20
+
+
+Geth Juggernaut Extractions
+
+Extract 10 times using the Geth Juggernaut
+
+20
+
+
+Talon Mercenary Extractions
+
+Extract 10 times using the Talon Mercenary
+
+20
+
+
+Alliance Infiltrator Extractions
+
+Extract 10 times using the Alliance Infiltrator
+
+20
+
+
+M-7 Lancer Use
+
+Earn 200,000 Points using the M-7 Lancer
+
+20
+
+
+Blood Pack Punisher Use
+
+Earn 200,000 Points using the Blood Pack Punisher
+
+20
+
+
+Venom Shotgun Use
+
+Earn 200,000 Points using the Venom Shotgun
+
+20
+
+
+Geth Spitfire Use
+
+Earn 200,000 Points using the Geth Spitfire
+
+20
+
+
+Adas Anti-Synthetic Rifle Use
+
+Earn 200,000 Points using the Adas Anti-Synthetic Rifle
+
+20
+
+
+Executioner Pistol Use
+
+Earn 200,000 Points using the Executioner Pistol
+
+20
+
+
+M-11 Suppressor Use
+
+Earn 200,000 Points using the M-11 Suppressor
+
+20
+
+Weapons[]
+Shotgun Mastery[]
+Street Sweeper Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Shotgun Mastery
+
+Complete 9 of the Shotgun Mastery Silver Challenges
+
+175
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+M-23 Katana Use
+
+Earn 140000 points with the M-23 Katana
+
+10
+
+
+M-27 Scimitar Use
+
+Earn 140000 points with the M-27 Scimitar
+
+10
+
+
+M-22 Eviscerator Use
+
+Earn 140000 points with the M-22 Eviscerator
+
+10
+
+
+Graal Spike Thrower Use
+
+Earn 140000 points with the Graal Spike Thrower
+
+10
+
+
+M-300 Claymore Use
+
+Earn 140000 points with the M-300 Claymore
+
+10
+
+
+Disciple Use
+
+Earn 140000 points with the Disciple
+
+10
+
+
+Geth Plasma Shotgun Use
+
+Earn 140000 points with the Geth Plasma Shotgun
+
+10
+
+
+M-11 Wraith Use
+
+Earn 140000 points with the M-11 Wraith
+
+10
+
+
+N7 Crusader Use
+
+Earn 140000 points with the N7 Crusader
+
+10
+
+
+Reegar Carbine Use
+
+Earn 140000 points with the Reegar Carbine
+
+10
+
+
+N7 Piranha Use
+
+Earn 140000 points with the N7 Piranha
+
+10
+
+
+Shotgun Medals
+
+Earn 100 Shotgun Medals
+
+20
+
+
+AT-12 Raider Shotgun Use
+
+Earn 140000 points using the AT-12 Raider Shotgun
+
+10
+
+
+Venom Shotgun Use
+
+Earn 140000 Points using the Venom Shotgun
+
+20
+
+Assault Rifle Mastery[]
+Marksman Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Assault Rifle Mastery
+
+Complete 9 of the Assault Rifle Mastery Silver Challenges
+
+175
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+M-8 Avenger Use
+
+Earn 140000 points with the M-8 Avenger
+
+10
+
+
+Phaeston Use
+
+Earn 140000 points with the Phaeston
+
+10
+
+
+M-15 Vindicator Use
+
+Earn 140000 points with the M-15 Vindicator
+
+10
+
+
+M-96 Mattock Use
+
+Earn 140000 points with the M-96 Mattock
+
+10
+
+
+M-37 Falcon Use
+
+Earn 140000 points with the M-37 Falcon
+
+10
+
+
+M-76 Revenant Use
+
+Earn 140000 points with the M-76 Revenant
+
+10
+
+
+Geth Pulse Rifle Use
+
+Earn 140000 points with the Geth Pulse Rifle
+
+10
+
+
+M-99 Saber Use
+
+Earn 140000 points with the M-99 Saber
+
+10
+
+
+Striker Assault Rifle Use
+
+Earn 140000 points with the Striker Assault Rifle
+
+10
+
+
+Collector Rifle Use
+
+Earn 140000 points with the Collector Rifle
+
+10
+
+
+Cerberus Harrier Use
+
+Earn 140000 points with the Cerberus Harrier
+
+10
+
+
+N7 Typhoon Use
+
+Earn 140000 points with the N7 Typhoon
+
+10
+
+
+Assault Rifle Medals
+
+Earn 100 Assault Rifle Medals
+
+20
+
+
+Particle Rifle Use
+
+Earn 200000 points using the Particle Rifle
+
+20
+
+
+M-55 Argus Assault Rifle Use
+
+Earn 140000 points using the M-55 Argus Assault Rifle
+
+10
+
+
+N7 Valkyrie Assault Rifle Use
+
+Earn 140000 points using the N7 Valkyrie Assault Rifle
+
+10
+
+
+Geth Spitfire Use
+
+Earn 140000 Points using the Geth Spitfire
+
+20
+
+
+Adas Anti-Synthetic Rifle Use
+
+Earn 140000 Points using the Adas Anti-Synthetic Rifle
+
+20
+
+
+M-7 Lancer Use
+
+Earn 140000 Points using the M-7 Lancer
+
+20
+
+Sniper Rifle Mastery[]
+Sniper Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Sniper Rifle Mastery
+
+Complete 9 of the Sniper Rifle Mastery Silver Challenges
+
+175
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+M-92 Mantis Use
+
+Earn 140000 points using the M-92 Mantis
+
+10
+
+
+M-97 Viper Use
+
+Earn 140000 points using the M-97 Viper
+
+10
+
+
+M-13 Raptor Use
+
+Earn 140000 points using the M-13 Raptor
+
+10
+
+
+M-29 Incisor Use
+
+Earn 140000 points using the M-29 Incisor
+
+10
+
+
+M-98 Widow Use
+
+Earn 140000 points using the M-98 Widow
+
+10
+
+
+Javelin Use
+
+Earn 140000 points using the Javelin
+
+10
+
+
+Black Widow Use
+
+Earn 140000 points using the Black Widow
+
+10
+
+
+Kishock Harpoon Gun Use
+
+Earn 140000 points using the Kishock Harpoon Gun
+
+10
+
+
+Krysae Sniper Rifle Use
+
+Earn 140000 points using the Krysae Sniper Rifle
+
+10
+
+
+M-90 Indra Use
+
+Earn 140000 points using the M-90 Indra
+
+10
+
+
+N7 Valiant Use
+
+Earn 140000 points using the N7 Valiant
+
+10
+
+
+Sniper Rifle Medals
+
+Earn 100 Sniper Rifle Medals
+
+20
+
+
+Collector Sniper Rifle Use
+
+Earn 140000 points using the Collector Sniper Rifle
+
+10
+
+SMG Mastery[]
+SMG Mastery Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+SMG Mastery
+
+Complete 5 of the SMG Mastery Silver Challenges
+
+100
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+M-4 Shuriken Use
+
+Earn 140000 points using the M-4 Shuriken
+
+10
+
+
+M-9 Tempest Use
+
+Earn 140000 points using the M-9 Tempest
+
+10
+
+
+M-12 Locust Use
+
+Earn 140000 points using the M-12 Locust
+
+10
+
+
+M-25 Hornet Use
+
+Earn 140000 points using the M-25 Hornet
+
+10
+
+
+Geth Plasma SMG Use
+
+Earn 140000 points using the Geth Plasma SMG
+
+10
+
+
+N7 Hurricane Use
+
+Earn 140000 points using the N7 Hurricane
+
+10
+
+
+SMG Medals
+
+Earn 100 SMG Medals
+
+20
+
+
+Collector SMG Use
+
+Earn 140000 points using the Collector SMG
+
+10
+
+
+Blood Pack Punisher Use
+
+Earn 140000 Points using the Blood Pack Punisher
+
+20
+
+Pistol Mastery[]
+Gun Slinger Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Pistol Mastery
+
+Complete 8 of the Pistol Mastery Silver Challenges
+
+155
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+M-3 Predator Use
+
+Earn 140000 points using the M-3 Predator
+
+10
+
+
+M-5 Phalanx Use
+
+Earn 140000 points using the M-5 Phalanx
+
+10
+
+
+Arc Pistol Use
+
+Earn 140000 points using the Arc Pistol
+
+10
+
+
+M-6 Carnifex Use
+
+Earn 140000 points using the M-6 Carnifex
+
+10
+
+
+Scorpion Use
+
+Earn 140000 points using the Scorpion
+
+10
+
+
+M-358 Talon Use
+
+Earn 140000 points using the M-358 Talon
+
+10
+
+
+M-77 Paladin Use
+
+Earn 140000 points using the M-77 Paladin
+
+10
+
+
+N7 Eagle Use
+
+Earn 140000 points using the N7 Eagle
+
+10
+
+
+Acolyte Use
+
+Earn 140000 points using the Acolyte
+
+10
+
+
+Pistol Medals
+
+Earn 100 Pistol Medals
+
+20
+
+
+Executioner Pistol Use
+
+Earn 140000 Points using the Executioner Pistol
+
+20
+
+
+M-11 Suppressor Use
+
+Earn 140000 Points using the M-11 Suppressor
+
+20
+
+Combat Mastery[]
+Dog of War Banner
+Dog of War Banner (Alternate Choice)
+
+Dog of War Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Combat Mastery
+
+Complete 12 of the Combat Mastery Silver Challenges
+
+255
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Melee Damage Use 1
+
+Earn 250000 points with Melee Attacks
+
+10
+
+
+Melee Damage Use 2
+
+Earn 500000 Points with Melee Attacks
+
+20
+
+
+Melee Damage Use 3
+
+Earn 1000000 Points with Melee Attacks
+
+30
+
+
+Over-Cover Grab 1
+
+Grab 50 Enemies While in Cover
+
+10
+
+
+Over-Cover Grab 2
+
+Grab 100 Enemies While in Cover
+
+20
+
+
+Over-Cover Grab 3
+
+Grab 250 Enemies While in Cover
+
+30
+
+
+Headshots 1
+
+Kill 250 Enemies with Headshots
+
+10
+
+
+Headshots 2
+
+Kill 500 Enemies with Headshots
+
+20
+
+
+Headshots 3
+
+Kill 1000 Enemies with Headshots
+
+30
+
+
+Grenade Damage Use 1
+
+Earn 100000 Points Using Grenades
+
+10
+
+
+Grenade Damage Use 2
+
+Earn 200000 Points Using Grenades
+
+20
+
+
+Grenade Damage Use 3
+
+Earn 300000 Points Using Grenades
+
+30
+
+Cerberus Mastery[]
+War Fighter Banner
+War Fighter Banner (Alternate Choice)
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Cerberus Mastery
+
+Complete 21 of the Cerberus Mastery Silver Challenges
+
+250
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Cerberus Trooper Points 1
+
+Earn 150000 points by killing Cerberus Troopers
+
+10
+
+
+Cerberus Trooper Points 2
+
+Earn 300000 points by killing Cerberus Troopers
+
+20
+
+
+Cerberus Trooper Points 3
+
+Earn 450000 points by killing Cerberus Troopers
+
+30
+
+
+Centurion Points 1
+
+Earn 150000 points by killing Centurions
+
+10
+
+
+Centurion Points 2
+
+Earn 300000 points by killing Centurions
+
+20
+
+
+Centurion Points 3
+
+Earn 450000 points by killing Centurions
+
+30
+
+
+Nemesis Points 1
+
+Earn 150000 points by killing Nemeses
+
+10
+
+
+Nemesis Points 2
+
+Earn 300000 points by killing Nemeses
+
+20
+
+
+Nemesis Points 3
+
+Earn 450000 points by killing Nemeses
+
+30
+
+
+Guardian Points 1
+
+Earn 150000 points by killing Guardians
+
+10
+
+
+Guardian Points 2
+
+Earn 300000 points by killing Guardians
+
+20
+
+
+Guardian Points 3
+
+Earn 450000 points by killing Guardians
+
+30
+
+
+Atlas Points 1
+
+Earn 150000 points by killing Atlases
+
+10
+
+
+Atlas Points 2
+
+Earn 300000 points by killing Atlases
+
+20
+
+
+Atlas Points 3
+
+Earn 450000 points by killing Atlases
+
+30
+
+
+Phantom Points 1
+
+Earn 150000 points by killing Phantoms
+
+10
+
+
+Phantom Points 2
+
+Earn 300000 points by killing Phantoms
+
+20
+
+
+Phantom Points 3
+
+Earn 450000 points by killing Phantoms
+
+30
+
+
+Dragoon Points 1
+
+Earn 150000 points by killing Dragoons
+
+10
+
+
+Dragoon Points 2
+
+Earn 300000 points by killing Dragoons
+
+20
+
+
+Dragoon Points 3
+
+Earn 450000 points by killing Dragoons
+
+30
+
+Reaper Mastery[]
+Death Guard Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Reaper Mastery
+
+Complete 18 of the Reaper Mastery Silver Challenges
+
+250
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Cannibal Points 1
+
+Earn 150000 points by killing Cannibals
+
+10
+
+
+Cannibal Points 2
+
+Earn 300000 points by killing Cannibals
+
+20
+
+
+Cannibal Points 3
+
+Earn 450000 points by killing Cannibals
+
+30
+
+
+Marauder Points 1
+
+Earn 150000 points by killing Marauders
+
+10
+
+
+Marauder Points 2
+
+Earn 300000 points by killing Marauders
+
+20
+
+
+Marauder Points 3
+
+Earn 450000 points by killing Marauders
+
+30
+
+
+Husk Points 1
+
+Earn 150000 points by killing Husks
+
+10
+
+
+Husk Points 2
+
+Earn 300000 points by killing Husks
+
+20
+
+
+Husk Points 3
+
+Earn 450000 points by killing Husks
+
+30
+
+
+Brute Points 1
+
+Earn 150000 points by killing Brutes
+
+10
+
+
+Brute Points 2
+
+Earn 300000 points by killing Brutes
+
+20
+
+
+Brute Points 3
+
+Earn 450000 points by killing Brutes
+
+30
+
+
+Ravager Points 1
+
+Earn 150000 points by killing Ravagers
+
+10
+
+
+Ravager Points 2
+
+Earn 300000 points by killing Ravagers
+
+20
+
+
+Ravager Points 3
+
+Earn 450000 points by killing Ravagers
+
+30
+
+
+Banshee Points 1
+
+Earn 150000 points by killing Banshees
+
+10
+
+
+Banshee Points 2
+
+Earn 300000 points by killing Banshees
+
+20
+
+
+Banshee Points 3
+
+Earn 450000 points by killing Banshees
+
+30
+
+Geth Mastery[]
+Cyber Warrior Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Geth Mastery
+
+Complete 18 of the Geth Mastery Silver Challenges
+
+250
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Geth Trooper Points 1
+
+Earn 150000 points by killing Geth Troopers
+
+10
+
+
+Geth Trooper Points 2
+
+Earn 300000 points by killing Geth Troopers
+
+20
+
+
+Geth Trooper Points 3
+
+Earn 450000 points by killing Geth Troopers
+
+30
+
+
+Geth Pyro Points 1
+
+Earn 150000 points by killing Geth Pyros
+
+10
+
+
+Geth Pyro Points 2
+
+Earn 300000 points by killing Geth Pyros
+
+20
+
+
+Geth Pyro Points 3
+
+Earn 450000 points by killing Geth Pyros
+
+30
+
+
+Geth Rocket Trooper Points 1
+
+Earn 150000 points by killing Geth Rocket Troopers
+
+10
+
+
+Geth Rocket Trooper Points 2
+
+Earn 300000 points by killing Geth Rocket Troopers
+
+20
+
+
+Geth Rocket Trooper Points 3
+
+Earn 450000 points by killing Geth Rocket Troopers
+
+30
+
+
+Geth Hunter Points 1
+
+Earn 150000 points by killing Geth Hunters
+
+10
+
+
+Geth Hunter Points 2
+
+Earn 300000 points by killing Geth Hunters
+
+20
+
+
+Geth Hunter Points 3
+
+Earn 450000 points by killing Geth Hunters
+
+30
+
+
+Geth Prime Points 1
+
+Earn 150000 points by killing Geth Primes
+
+10
+
+
+Geth Prime Points 2
+
+Earn 300000 points by killing Geth Primes
+
+20
+
+
+Geth Prime Points 3
+
+Earn 450000 points by killing Geth Primes
+
+30
+
+
+Geth Bomber Points 1
+
+Earn 150000 points by killing Geth Bombers
+
+10
+
+
+Geth Bomber Points 2
+
+Earn 300000 points by killing Geth Bombers
+
+20
+
+
+Geth Bomber Points 3
+
+Earn 450000 points by killing Geth Bombers
+
+30
+
+Collector Mastery[]
+Collector General Banner
+
+
+
+
+
+Gold Challenge
+
+Requirement
+
+Challenge Points
+
+
+Collector Mastery
+
+Complete 15 of the Collector Mastery Silver Challenges
+
+250
+
+
+
+Silver Challenge
+
+Requirement
+
+Challenge Points
+
+
+Collector Trooper Points 1
+
+Earn 150000 points by killing Collector Troopers
+
+10
+
+
+Collector Trooper Points 2
+
+Earn 300000 points by killing Collector Troopers
+
+20
+
+
+Collector Trooper Points 3
+
+Earn 450000 points by killing Collector Troopers
+
+30
+
+
+Collector Captain Points 1
+
+Earn 150000 points by killing Collector Captains
+
+10
+
+
+Collector Captain Points 2
+
+Earn 300000 points by killing Collector Captains
+
+20
+
+
+Collector Captain Points 3
+
+Earn 450000 points by killing Collector Captains
+
+30
+
+
+Abomination Points 1
+
+Earn 150000 points by killing Abominations
+
+10
+
+
+Abomination Points 2
+
+Earn 300000 points by killing Abominations
+
+20
+
+
+Abomination Points 3
+
+Earn 450000 points by killing Abominations
+
+30
+
+
+Scion Points 1
+
+Earn 150000 points by killing Scions
+
+10
+
+
+Scion Points 2
+
+Earn 300000 points by killing Scions
+
+20
+
+
+Scion Points 3
+
+Earn 450000 points by killing Scions
+
+30
+
+
+Praetorian Points 1
+
+Earn 150000 points by killing Praetorians
+
+10
+
+
+Praetorian Points 2
+
+Earn 300000 points by killing Praetorians
+
+20
+
+
+Praetorian Points 3
+
+Earn 450000 points by killing Praetorians
+
+30
+
+BioWare Employee Banner[]
+BioWare Employee Banner
+In addition to the various banners awarded by completing Gold Challenges, all BioWare employees were given access to an exclusive "BioWare employee" banner on November 14, 2012.[6]
+
+References[]
+
+↑ http://blog.bioware.com/2012/10/11/a-tour-of-the-new-n7-hq/
+
+↑ http://blog.bioware.com/2013/02/15/community-banner-contest/
+
+↑ http://blog.bioware.com/2013/02/27/mass-effect-3-mp-banner-contest-winners/
+
+↑ http://blog.bioware.com/2012/10/31/mass-effect-3-multiplayer-halloween-challenge/
+
+↑ http://blog.bioware.com/2012/11/07/mass-effect-3-n7-day-multiplayer-challenge/
+
+↑ http://forum.bioware.com/topic/423769-a-new-banner-bioware-employee/?p=13217782
+
+
+
+
+

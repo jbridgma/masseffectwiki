@@ -1,0 +1,185 @@
+
+
+
+
+
+Turian Ghost Infiltrator
+
+
+
+
+
+
+Class
+Infiltrator
+
+
+Race
+Turian
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Retaliation
+
+
+Abilities
+Dual Omni-BladesWeapon ExpertToughnessPropulsion Packs
+
+
+Turians adhere to a strict moral code: "The needs of the group outweigh that of the individual." Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.
+Ghost infiltrators belong to the turian's lethal 26th Armiger Legion, a respected and feared frontline assault squad. On the battlefield, a Ghost uses propulsion packs and advanced stealth technology to launch deastating airstrikes on unsuspecting foes.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Trivia
+5 References
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 500
+
+
+Class: Armiger Legion
+
+
+ Overload
+
+
+
+
+ Tactical Cloak
+
+
+
+
+ Stimulant Pack
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Turian Ghost Infiltrator executes a series of up to three punches.
+Heavy Melee (Dual Omni-Blades) – The Turian Ghost jets towards an enemy and slams the ground with dual omni-blades, dealing damage in a small area and knocking down unprotected foot soldiers.
+Grab (Omni-Blade Stab) – The Turian Ghost Infiltrator drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Propulsion Packs) – The Turian Ghost Infiltrator jets a short distance to evade incoming attacks.
+The Turian Ghost Infiltrator can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Your jump jets provide excellent mobility; unfortunately your forward jump has a strong tendency to stick you to cover. A technique to get around this is to use sideways or even rearward jumps to get where you want to go, though this is "blind" and requires good map knowledge and some practice to do effectively.
+The jets are excellent for evading attacks with a wide area of effect such as the energy beams of Praetorians; however, they are less effective at evading enemy sync kill attacks. It's advisable not to wait until enemies like Banshees get close to you before trying to jet away.
+The heavy melee leaps the character into the air and forward, covering a lot of ground, though it can still lock on to targets just like most other melee attacks. However, this attack provides less resistance to stuns than the heavy melees of most characters, making it risky to attempt against enemies that can easily stun the player such as Phantoms.
+The heavy melee can be used for quickly dashing across open ground when carrying an object during Retrieval missions.
+The heavy melee can be triggered while jump-jetting either forwards or backwards. This can be useful for quickly diving into melee against an enemy too far out of range of the heavy melee alone, or for performing a short evasive jump backwards to avoid an attack and quickly lunging forward again.
+Because of the Stimulant Pack power and Fitness upgrades that bolster a Turian's defenses, the Ghost has tremendous staying power in a regular firefight in addition to the "snipe and relocate" strategies available to all infiltrators. As such, the Ghost is a very versatile and tough combatant, able to switch roles easily between fire support and flanking maneuvers.
+The Ghost Infiltrator is the only Infiltrator with Overload. Given the significant damage Overload does, it is much more effective than the Salarian's Energy Drain for destroying shields, but lacks the obvious absorption and area of effect the drain has. This makes the Ghost much more effective against singular enemies with bigger shielding, but its lack of any area of effect leaves much to be desired against squads. While you can hit 3 enemies, it comes at the cost of the majority of Overloads strength, plus the chain hits do 60% less damage, thus it is recommended to stick to single foes.
+The Ghost Infiltrator's melee attacks and combat maneuvers involve jet propulsion effects on the armor. These generally propel the player faster and further than their normal counterparts, so it takes a bit of practice to get the timing and distance right.
+The Ghost can also be an effective (albeit unorthodox) melee character. By investing in the melee upgrades in Tactical Cloak, Stimulant Packs, and Fitness, the Ghost can become a highly mobile melee stealth assassin very similar to the N7 Shadow Infiltrator.
+The Stimulant Pack power exhibits the same behavior as a grenade power: it benefits from the same upgrades as a grenade power, is reloadable at ammo crates, and does not have a usage cooldown time. It can also be activated without breaking Cloak, providing an easy way to recover shields while cloaked.
+The Rank 6 evolution for the Ghost's Tactical Cloak differs from the typical Infiltrator's Cloak—instead of the option to deal extra damage with sniper rifles, it offers the option to increase damage for assault rifles by 20% for 10 seconds when activated (it starts counting when activated, not after de-cloak).
+With a short enough cooldown, or if the player makes a point to break cloak quickly, this bonus can be kept active indefinitely, even when using Overload; simply cloak any time you want to use Overload, this will usually result in a shorter cooldown than Overload alone, as well as extra damage on the Overload.
+A high-damage, high-accuracy assault rifle such as the M-99 Saber or the M-96 Mattock works well with this evolution by maximizing the amount of damage dealt within the damage bonus time-frame.  For a more rapid fire option, the Cerberus Harrier can strip down large targets in seconds even on Gold difficulty especially with Armor-Piercing Rounds. The Ghost's passive weapon stability bonus more than offsets the Harrier's kick.
+Activating Tactical Cloak after an extended magazine upgraded Striker Assault Rifle has already achieved its maximum fire rate will allow the remaining shots to be fired without breaking Cloak.
+With shields comparable to a geth character but regular health, the Ghost is the most resilient Infiltrator as of yet. Good use of Stimulant Packs combined with high health/shield bonuses from Fitness can allow the Ghost to tank the triple shots of enemies like Ravagers and Scions. This makes the Ghost a good candidate for solo missions.
+Stimulant Packs are so effective that a build with zero points in Fitness will remain viable, even on Platinum. This allows it to detonate Tech powers with a maxed Overload, while still capable of doing major damage from the passive (Armiger Legion) and Tactical Cloak.
+Cerberus[]
+Ghost's heavy melee attack can stun Phantoms and Dragoons, which gives them an edge to escape a fatal attack, or the dodge can help escape a dangerous position.
+Overload is devastating against Atlases and Phantoms, due to the fact that the power hits instantly, and said enemies can quickly have their shields or barriers stripped, leaving them exposed extra damage - or to a headshot from a sniper in the Phantoms case, often killing them. It also works very well on the Centurions or Nemeses.
+Dragoons will be the biggest problem, bearing no shields, but instead armor and a pair of whips. However, that is nothing a high-powered sniper rifle like the Widow, or Javelin can't handle at range.
+Collectors[]
+Overload is extremely useful against Collector Captains, possessed enemies, and Praetorians when their barriers are up. Once that is dealt with, a powerful anti-armor weapon will dispose of them in double-quick time. The anti-armor weapon will also prove effective against Scions since said foes can be dealt with very quickly if one knows where to aim. One shot will shred its armor, and a second will very likely kill a Scion.
+Keep away from Praetorians, since their claw attacks will deal with you very quickly. Should you come under fire, a stimulant pack may give you the time you need to escape.
+Geth[]
+You will be the Geth's biggest threat due to your ability to Overload not only their shields, but their core systems too. Those that are incapable of being overloaded or have had their shields destroyed, are very vulnerable to an anti-armor weapon such as a heavy pistol or sniper rifle.
+The only problem as always with any class, is the Geth Hunter which will stun you if you give it half a chance. They can be easily grabbed however, and any at range, if you have the skill can easily be dispatched with an automatic weapon, followed by an immediate Overload to strip their shields, and cloaking ability.
+Reapers[]
+Take note that you can be grabbed by Husks during the heavy melee animation, even while in the air.
+Overload isn't really needed here, as only two enemies have a barrier, Marauders and Banshees.
+The Dodge moves will prove invaluable against the Banshees since all other Turians cannot dodge back quickly.
+Equip two anti-armor weapons or one if your going for a lighter loadout so you can strip shields from Marauders or Banshees with Overload, then eliminate them with some well placed shots, and/or deal with armored enemies like Ravagers much quicker.
+Stimulant packs will be very helpful against the biotic attacks of the Banshees, or the barrage from the Ravagers.
+Trivia[]
+If the Turian Ghost Infiltrator kills more than one enemy with its heavy melee slam attack, only one kill is credited in the kill feed as a melee kill. Any additional kills are either uncredited, or the last thing to damage that enemy before the melee is given credit for the kill.
+References[]
+
+
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

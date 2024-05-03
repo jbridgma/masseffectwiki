@@ -1,0 +1,435 @@
+
+
+
+
+
+
+
+This article is about the Overload skill in Mass Effect: Andromeda. For the tech talent in the first Mass Effect game, see Electronics#Overload. For the tech power in Mass Effect 2 and Mass Effect 3, see Overload.
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Overload is a Tech skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Liam Kosta Skill Ranks
+4 Player Notes
+5 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Overload
+
+    
+
+      TAP BUTTON: Unleashes an electrostatic discharge upon a target. High damage to shields and synthetic enemies. Detonates combo primers.
+HOLD BUTTON: Charges Overload, causing it to "chain" to two additional targets.
+
+
+Initial Damage (Uncharged): 150
+Initial Damage (Charged): 200
+Chain Damage: 100
+Shield Damage Bonus: 200%
+Synthetic Damage Bonus: 30%
+Recharge Time (s): 15
+
+
+
+2
+
+Recharge Speed
+
+     
+
+-
+
++10% Recharge Speed
+
+
+3
+
+Damage
+
+     
+
+-
+
++15% All Damage
+
+
+4
+
+Damage
+
+     
+
+-
+
++25% All Damage
+
+
+4
+
+Recharge Speed
+
+     
+
+
+
++20% Recharge Speed
+
+
+5
+
+Charged Overload
+
+     
+
+Chains to one additional target when charged.
+
+-
+
+
+5
+
+Anti-Shield
+
+     
+
+-
+
++50% Damage vs. Shields
+
+
+6
+
+Maximum Charge
+
+     
+
+Chains to an additional target when charged and deals increased damage to chained enemies.
+
++30% Chain Damage
+
+
+6
+
+EMP
+
+     
+
+-
+
++50% Damage vs. Shields
++50% Damage vs. Synthetics
+
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Overload
+
+     
+
+      TAP BUTTON: Unleashes an electrostatic discharge upon a target. High damage to shields and synthetic enemies. Detonates combo primers.
+HOLD BUTTON: Charges Overload, causing it to "chain" to two additional targets.
+
+
+Initial Damage (Uncharged): 200
+Initial Damage (Charged): 300
+Chain Damage: 300
+Shield Damage Bonus: 125%
+Synthetic Damage Bonus: 30%
+Recharge Time (s): 12
+
+
+
+2
+
+Recharge Speed
+
+     
+
+-
+
++10% Recharge Speed
+
+
+3
+
+Damage
+
+     
+
+-
+
++25% All Damage
+
+
+4
+
+Damage
+
+     
+
+-
+
++35% All Damage
+
+
+4
+
+Recharge Speed
+
+     
+
+
+
++25% Recharge Speed
+
+
+5
+
+Charged Overload
+
+     
+
+Chains to one additional target when charged.
+
+-
+
+
+5
+
+Anti-Shield
+
+     
+
+-
+
++60% Damage vs. Shields
+
+
+6
+
+EMP
+
+     
+
+-
+
++60% Damage vs. Shields
++15% Damage vs. Synthetics
+
+
+
+6
+
+Maximum Charge
+
+     
+
+Chains to an additional target when charged and deals increased damage to chained enemies.
+
++30% Chain Damage
+
+
+Liam Kosta Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Overload
+
+     
+
+Liam unleashes an electrostatic discharge that chains between multiple targets and deals high damage to shields and synthetics.
+
+Initial Damage (Charged): 72
+Chain Damage: 36
+Shield Damage Bonus: 75%
+Synthetic Damage Bonus: 25%
+Recharge Time (s): 20
+
+
+
+2
+
+Recharge Speed
+
+     
+
+-
+
++25% Recharge Speed
+
+
+3
+
+Damage
+
+     
+
+-
+
++20% All Damage
+
+
+4
+
+Recharge Speed
+
+     
+
+
+
++40% Recharge Speed
+
+
+4
+
+Damage
+
+     
+
+-
+
++25% All Damage
+
+
+5
+
+Charged Overload
+
+     
+
+Chains to one additional target when charged.
+
+-
+
+
+5
+
+Anti-Shield
+
+     
+
+-
+
++50% Damage vs. Shields
+
+
+6
+
+Chain Overcharge†
+
+
+
+Overload chains to an additional target and deals more damage.
+
++15% All Damage
+
+
+6
+
+Neural Shock†
+
+
+
+      Overload is now a combo detonator, and targets are stunned for an additional second.
+
++15% All Damage
++100% Duration
++50% Tech Detonator Damage Bonus
+
+
+Note: †Rank 6 is unavailable to Liam until his loyalty mission Liam Kosta: All In is completed.
+
+Player Notes[]
+Mechanics
+Even though it isn't listed as an electrical combo primer , if an enemy is hit by a detonator skill while they're stunned by Overload it will trigger a Tech Combo.
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-Player:
+Pathfinder Ryder - Starting Tech Skill or Technician Training
+Liam Kosta - Unlocked With 18 Skill Points in any skills.
+Multiplayer: Angara Exemplar, Human Engineer, Krogan Engineer, Salarian Operator
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

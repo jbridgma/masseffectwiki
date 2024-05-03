@@ -1,0 +1,143 @@
+
+
+
+[Edit this tab]
+
+Basic - AR Receiver: Capacitor boosts kinetic coil generators, increasing shot penetration through solid objects.
+Enhanced - AR Calibrated Receiver: Allows shots to significantly penetrate solid objects, but reduces headshot/weak point damage.
+Enhanced - AR Quick Receiver: Allows shots to significantly penetrate solid objects, but reduces clip size.
+Note:  The M-37 Falcon and P.A.W. assault rifles are unable to equip a Receiver Mod.
+Note:  Assault rifle penetration damage is not reflected in the displayed weapon stats.
+Note:  Assault rifle headshot/weak point damage is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+AR Receiver
+
++38%0.94
+
++42%1.06
+
++44%1.11
+
++46%1.17
+
++48%1.22
+
++50%1.28
+
++52%1.33
+
++54%1.39
+
++56%1.44
+
++58%1.50
+
+Assault Rifle Penetration DamageAssault Rifle Penetration Distance (m)
+
+
+AR Calibrated Receiver
+
+N/A
+
++44%1.11-6%
+
++48%1.22-7%
+
++52%1.33-8%
+
++56%1.44-8%
+
++58%1.56-9%
+
++63%1.67-10%
+
++67%1.78-11%
+
++71%1.89-12%
+
++75%2.00-13%
+
+Assault Rifle Penetration DamageAssault Rifle Penetration Distance (m)Assault Rifle Headshot/Weak Point Bonus
+
+
+AR Quick Receiver
+
+N/A
+
++44%1.11-9%
+
++48%1.22-10%
+
++52%1.33-11%
+
++56%1.44-12%
+
++58%1.56-13%
+
++63%1.67-14%
+
++67%1.78-15%
+
++71%1.89-16%
+
++75%2.00-18%
+
+Assault Rifle Penetration DamageAssault Rifle Penetration Distance (m)Assault Rifle Clip Size
+
+
+Level Unlocked
+
+1
+
+6
+
+11
+
+21
+
+31
+
+41
+
+51
+
+61
+
+71
+
+81
+
+-
+
+Equipping an Assault Rifle Receiver Mod changes the color of parts of the weapon, lighter or darker, depending on the specific weapon.
+
+
+
+

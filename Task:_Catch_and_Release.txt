@@ -1,0 +1,46 @@
+
+
+
+The kett outfitted angaran slaves with tracking chips; each chip points to a central source. SAM may be able to track the source's location.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Scan Angaran Bodies
+2.2 Enter The Tracking Signal's Location
+2.3 Eliminate The Kett
+2.4 Cut Power To The Cage
+2.5 Talk To Maaravet
+
+
+3 Rewards
+
+
+
+Acquisition[]
+
+On Voeld, Pathfinder Ryder can find a dead angara in one of the kett camps or locations where kett scavenge. Scanning the body starts the mission. SAM needs data from more bodies to pinpoint where the tracking chip sends its signal.
+Walkthrough[]
+Scan Angaran Bodies[]
+Finding and scanning additional bodies will make it possible for SAM to get a navpoint. 
+Ryder has to find two additional bodies and scan them. The bodies are spread randomly among the crash sites, Remnant sites, and kett sites. Each body will be marked with . If a location doesn't have a body, the location might have one the next time Ryder visits. If a location has a body, SAM (or a squadmate) will comment on the presence of the canister. 
+When Ryder has scanned three bodies total, SAM calculates a navpoint for the origin of those angara.
+
+Enter The Tracking Signal's Location[]
+Follow the navpointto a cave southeast of Techiix.
+
+Eliminate The Kett[]
+Defeat the kett defenders and the reinforcements that arrive via dropship. 
+
+Cut Power To The Cage[]
+After the battle, in a cage, is an angaran prisoner named Maaravet who is still alive. Interact with the console to open the cage.
+
+Talk To Maaravet[]
+With the cage now opened, go and speak with Maaravet. Maaravet is grateful for the rescue and says that he is going to Havarl to get the chip removed.
+
+Rewards[]
++530 XP
+
+
+

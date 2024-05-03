@@ -1,0 +1,111 @@
+
+
+
+A datapad found in the Resistance base states that supply drops aren't arriving as scheduled. Investigating the matter could turn up clues.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak to Olisk
+2.2 Use the requisition terminal
+2.3 Reach the drop point
+2.4 Defeat the Roekaar
+2.5 Search the drop point
+
+
+3 Enemies
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: A Trail of Hope I
+
+Read any of the three datapads (marked with a) scattered in the Angaran Resistance Base on Voeld. All of them are addressed to the Requisitions Officer Olisk. Only one is required reading, but all three may make the circumstances a bit clearer.
+One is on a console in the infirmary:
+
+
+
+
+Report: Estraaja
+Translated from Shelesh: 
+
+Olisk,
+
+
+We sent a shuttle with enough medical supplies to last you through the cycle. Did you ever receive them? Our tracking signal went dark after we left the supplies at the drop point. Please respond and let us know they got to you safely.
+
+
+One is on the console near Intelligence Officer Davja Kaas:
+
+
+
+
+Report: Aya
+Translated from Shelesh: 
+
+
+I apologize, Olisk. My pilot says she made the supply drop at the navpoint. I can’t figure out why they never reached you. I’ll have Onya try again with a new shipment—free of charge. The Resistance won’t starve over a technical issue.
+
+
+One is on a console on an elevated ledge north of Olisk:
+
+
+
+
+Report: Scout Destranja
+Translated from Shelesh: 
+
+Olisk,
+
+
+I took a party to the supply drop point. When we got there, everything was gone. Our contact was missing. The snow showed signs of activity—multiple individuals. The kett, maybe? I’ll keep this quiet until you can get it sorted.
+
+
+Walkthrough[]
+Speak to Olisk[]
+Olisk denies there are any problems with the supplies. When Pathfinder Ryder confronts him with the information found on the datapads, he admits there are problems and explains he is keeping quiet to prevent a morale drop. Changing the drop points haven't stopped supplies from getting lost, but he can't send someone to investigate without raising suspicions. 
+You have two chances to steer the conversation, but inevitably you will take on the task of checking out the drop points for Olisk.
+
+Use the requisition terminal[]
+Interacting with Olisk's personal terminal just north of him gives the navpoint for the latest drop point.
+
+Reach the drop point[]
+Go to the navpoint location north-northeast of the Angaran Resistance Base. The place is on a mountain and the way getting there has a lot of bumps and inclines from many directions, so you may have to keep the Nomad in all-terrain mode for a while.
+
+When you get close enough to the location, the next objective will start.
+Defeat the Roekaar[]
+There are Roekaar forces at the drop point. Defeat them.
+Enemy composition is three Raiders and a Sharpshooter. They're nestled below a cliff such that there are multiple angles to exploit the element of surprise against them.
+
+Search the drop point[]
+After the fight, SAM detects a datapad in the area. Read the datapad.
+
+
+
+
+Urgent Message
+Translated from Shelesh:
+
+I've provided the location for the new drop point. Supply drop is scheduled for later today, so get there quickly. If the stars are with us, the drop will contain shield tech.
+
+I must remind you again about discretion—you are not to reveal your mission to anyone. If Evfra hears we're building a stockpile, he'll take action. We must keep this up for as long as possible.
+
+Skies guide you.
+
+
+-Akksul
+
+
+SAM sends Olisk a message that the drop point has been secured, which completes the mission. Some dialogue may change depending on whether Akksul is known by this point.
+
+Enemies[]
+Roekaar Raider
+Roekaar Sharpshooter
+Rewards[]
++270 XP
++29 AVP 
++2% Voeld viability
+
+
+

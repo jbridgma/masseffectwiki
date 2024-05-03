@@ -1,0 +1,38 @@
+
+
+
+
+The MSV Cornucopia was exploring a region of space bordering the Perseus Veil when the crew discovered a strange alien artifact somehow connected to the geth. They appear to have been brainwashed, then transformed into husks and sent back into human space, either as a trap or a grim warning.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+4 Enemies
+
+
+Acquisition[]
+Prerequisite: Feros: The Thorian
+
+Oddly enough, as with a few other assignments the journal entry for this one is marked complete upon receipt and obtained only after finishing it, which is by reaching the ship's cockpit and reading its logs.
+The MSV Cornucopia is drifting in the asteroid belt in the Caspian system of the Maroon Sea cluster. It is reachable after completion of the main plot on Feros.
+
+Preparation[]
+You'll be facing lots of husks in tight quarters in this mission, a nightmare scenario due the extremely high damage overload attacks Husks use at close range that are especially damaging versus shields. The overload explosions also penetrate cover, which given the architecture of this level, is doubly dangerous. Crowd control, high and/or splash damage output, ability denial, and survivability should be paramount in choosing squad configurations in this assignment. Be sure stock up on medi-gel before heading here. Given the large number of enemies and extremely close quarters , talents like Singularity, Lift, Throw, and/or Damping come in handy.
+The electrical discharge attacks of Husks are tech-based, so anything that boosts hardening or tech protection stats will greatly reduce damage from them (see the Husk enemy page for more info). Light armors and armor upgrades such as the Combat Exoskeleton reduce damage from the overloads, but damage protection stats and abilities such as Immunity do not. Consider equipping Hammerhead Rounds, High Explosive Rounds or Sledgehammer Rounds into weapons to help knock enemies down. Wrex is a good squadmate to have here due to his sheer tankiness and melee prowess; consider equipping him with Combat Exoskeleton(s) or similar upgrades and sending him in ahead to draw fire.
+
+Walkthrough[]
+Note: The layout of the ship's cargo hold is exactly the same as the layout of the space station Sigma-23 in the assignment UNC: Depot Sigma-23. If you've done the other assignment before this one, the way to the other side of the ship should feel familiar. 
+
+
+Soon after entering the main hold of the ship you will encounter numerous Husks. They will spawn in waves as you enter certain sections of the labyrinthine hold. A few of them may even spawn behind you depending on the speed and order you traverse the area. 
+As your vision and movement are limited by the ceiling-high closely-packed crate stacks, move ahead carefully and methodically, destroying all enemies from each wave before proceeding further. Remember that the electrical burst attacks the Husks like to use has quite the range and can hit you even through the stacks of crates and other cover, so it's vital that they be swept off their feet with the appropriate physics-based attacks as soon as the charge-up audio cue is heard—if counterattacking in this way isn't feasible, the sensible advice would be to fall back, or to send in a squadmate as bait to draw the Husks out. There are no lootable objects in the main hold, freeing you to focus on surviving the area.
+After clearing the hold, make your way to the cockpit and use the navigation computer to discover what happened to the crew and obtain the journal entry for this assignment. One of your squadmates reads the logs, and the other summarizes what happened to the crew in the end. The only thing left for you to do now is to loot everything in the place. 
+In the forward section of the ship you will find a Storage Locker (easy decryption) and a Malfunctioning Object in the room to the right (facing the cockpit) and a Malfunctioning Object in the room to the left. Both rooms also have a lot of dragon's teeth.
+
+Enemies[]
+Husk
+
+
+

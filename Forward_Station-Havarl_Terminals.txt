@@ -1,0 +1,137 @@
+
+
+
+The following are the messages relayed by Forward Stations on Havarl.
+
+Terminals[]
+
+
+
+Forward Station Protocol Established
+—Contact—
+Preset Viability Metrics: MATCH
+
+Habitat 3 matches Initiative preflight profiles within acceptable parameters of variance.
+
+—KNOWN—
+Habitat 3: Havarl
+Detected: Attr. Keir Thomas (AI Exo-geology)
+Orbital data onboard
+Spectrographic profiles: WORKING…
+Geo-Sounding: WORKING…
+ALERT: Biosphere abnormalities detected.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Multiple-Deployment Coordination
+—Forward Station Network established—
+Initiating geochemical analysis
+
+—KNOWN—
+Planet name: HAVARL (Origin: Angaran)
+Climate: Humid subtropical
+Rapid plant growth planet-wide.
+Biosphere manipulation suspected.
+Scourge radiation fallout: negligible.
+Generated shielding may be present in upper atmosphere.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Nexus Urgent Dispatch
+—Forward Station Network expanded—
+Nexus dispatch found.
+Presenting…
+
+—KNOWN—
+>> [Transmission successful.]
+>>
+>> ANALYSIS:
+>>The ancestral home of the angara is a lush jungle planet. However, scans detect plantlife on Havarl exhibiting maladaptive, unsustainable growth patterns. The abnormal mutation suggests something is terribly wrong with Havarl's ecology.
+>>
+>> [Attachments downloaded.]
+
+WHAT?! Unsustainable growth? Is this literally saying we either have no life on planets, or too much life? Are you kidding me? What's that weird human story about the bears and the porridge?
+
+Jarun Tann
+Initiative Director
+Nexus
+
+
+
+
+
+
+
+
+
+Ongoing Discussions Merged
+—Forward Station Network expanded—
+Additional data uploaded (user: sanwar@tempest)
+
+—KNOWN—
+From: Dr. Aridana, Nexus Research
+To: Suvi Anwar
+
+I expect that's not the normal life cycle of that plant you were looking at. And unpredictable patterns like that would wreak havoc on an ecosystem. My only guess is that it's caused by the Remnant technology present. If it can change the atmosphere of an entire planet, what's to say it couldn't somehow effect changes on a cellular level? The question is, is it working as intended (some twisted experiment), or malfunctioning? I'd prefer to say it's the latter, but I've learned not to make assumptions when it comes to Remnant.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Triangulation Achieved: Data Consolidation Ongoing
+ 
+—Forward Station Network expanded—
+Data uploaded (user: sanwar@tempest)
+
+—KNOWN—
+From: Suvi Anwar
+To: Dr. Aridana, Nexus Research
+
+My exploration was limited to a distance of ten feet from the Tempest bay doors, but initial findings are that Havarl's plant-life (and possibly all life) shows a marked tendency to mutate. Cells mutate and multiply in a way that results in the death of the organism. One might be able to compare it with cancer, I suppose.
+
+In the brief hour or so I was on the ground, I watched a vine emerge from the ground, grow to maturity and then twist in and around itself, literally choking itself to death. I've sent footage.
+
+ATTACHMENT: terriblygruesome_sorry.aiv
+
+—More data needed—
+Additional forward station coordination required.
+
+—ONGOING—
+
+
+
+
+
+
+

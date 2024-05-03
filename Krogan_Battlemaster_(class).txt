@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+This article is about Urdnot Wrex's class and class talent in the first game. For his class power in Mass Effect 3, see Krogan Battlemaster (power). For the elite krogan warrior generally, see Krogan Battlemaster. For other uses of the term Battlemaster, see Battlemaster (disambiguation).
+
+
+See also: Squad Members Guide#Urdnot Wrex
+Krogan Battlemaster is a non-playable class, similar to a Vanguard-Soldier hybrid.
+The Krogan Battlemaster class is similar to the Vanguard class, with weapons training in assault rifles instead of pistols, and with Stasis replacing Lift. This makes the class very deadly on the battlefield as both biotics and weapons can deal damage to enemies, making the class a valuable ally and a heavy hitter on any mission or assignment.
+
+Talents[]
+See also: Talents#Class Specific
+
+
+
+
+
+Class: Krogan Battlemaster
+
+
+ Assault Rifles
+
+
+
+
+ Shotguns
+
+Unlocked at Assault Rifles 5
+
+
+ Combat Armor
+
+
+
+
+ Fitness
+
+Unlocked at Combat Armor 4
+
+
+ Warp
+
+
+
+
+ Throw
+
+Unlocked at Warp 7
+
+
+ Barrier
+
+
+
+
+ Stasis
+
+Unlocked at Barrier 6
+
+
+
+
+
+
+
+
+Class Talent[]
+Wrex is one of the last true Krogan Battlemasters, as they are a dying breed... for which the rest of the galaxy is grateful.
+Improves health regeneration
+Increases physics resistance
+Increases melee damage
+
+
+Regenerates 3 health per sec. Increases melee damage by 50%. Increases resistance to physics forces by 25%.
+Regenerates 3.5 health per sec. Increases melee damage by 75%. Increases resistance to physics forces by 30%.
+Regenerates 4 health per sec. Increases melee damage by 100%. Increases resistance to physics forces by 35%.
+Regenerates 4.5 health per sec. Increases melee damage by 125%. Increases resistance to physics forces by 40%.
+Regenerates 5 health per sec. Increases melee damage by 150%. Increases resistance to physics forces by 45%.
+Regenerates 5.5 health per sec. Increases melee damage by 175%. Increases resistance to physics forces by 50%.
+Availability[]
+Urdnot Wrex
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

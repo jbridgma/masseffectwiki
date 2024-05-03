@@ -1,0 +1,72 @@
+
+
+
+Scans indicate a research station on planet [sic] Sinmara (Solveig system, Caleston Rift) is in danger of eradication by deadly radiation coming from the unstable local sun. If the station's protective magnetic shield were reactivated, it could survive the solar storms.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Puzzle description
+2.2 Puzzle solution
+
+
+3 Mission Summary
+4 Trivia
+
+
+Acquisition[]
+Prerequisite: Collector Ship (mission) or Project Firewalker: Rosalie Lost after Horizon (mission)
+
+The assignment can be acquired when Solveig becomes open for access after the mission on the seemingly empty Collector Cruiser. Note: If the Firewalker Pack is installed and the M-44 Hammerhead is already retrieved, Solveig becomes available as early as after the mission on Horizon.
+Scanning Surtur's moon Sinmara uncovers an anomaly. Surtur is the first planet from the star.
+A beacon broadcasts: 
+
+
+“Magnetic shielding failure detected. Catastrophic solar radiation exposure probable.”
+
+
+Pinpointing the anomaly reveals:
+
+
+“ANOMALY DETECTED
+
+Planetary scans indicate that the Sinmara colony is vulnerable to its sun's hazardous solar flares. Malfunction detected in colony's magnetic shield. Shield must be reactivated to avoid exposing colony to unstable solar activity and potential annihilation.”
+
+
+Walkthrough[]
+
+This mission involves no combat, and there is nothing hazardous except a few explosive crates at the landing zone. Shepard lands without any squad members at the magnetic shield generator.
+The only loot in the area is 2,000 units of palladium. It can be salvaged from a broken generator on the left side of the walkway to the controls for the shield.
+Bypassing the station central command terminal gives access to the necessary part of the station to do the repairs. To complete the repairs, you'll have to solve a sort of "puzzle".
+
+Puzzle description[]
+There's 4 components involved:
+
+A control switch (just in front of you, as you go up the stairs)
+A cooling unit (to your left, at the 9 o'clock position)
+A shield control unit (several paces in front of you, at the 12 o'clock position)
+A shield generator (to your right, at the 3 o'clock position)
+The control switch controls which of the other three Shepard can activate. The 3 main components are connected to the control switch via a pipe on the floor. The pipe that is illuminated yellow will tell you which device the control switch is currently active. Control switches happen in clockwise order, i.e. if you're currently connected to the cooling unit, and you use the control switch once, you'll be now controlling the shield control unit. You can only "use"/turn on the unit that the control switch is connected to. Switching the control unit to a different device will NOT disable that device.
+The puzzle is not timed at all, but you must complete the steps in the order they're described.
+
+Puzzle solution[]
+Use the control switch twice to switch power to the cooling unit, then turn the cooling unit on. 
+Next, use the control switch to switch power to shield generator and turn that on. 
+Finally, use the control switch to switch power to the shield control and bypass it. The "found credits" mentioned in the mission summary are automatically added at the end of the assignment.
+
+Mission Summary[]
+Restored magnetic shield, keeping Sinmara colony safe from catastrophic solar activity.
+Credits reward transferred from Sinmara colonists.
+
+Experience reward: 125 (156)
+Credits: 7,500
+Cerberus Funding: 3,750
+Credits Found: 3,750
+Minerals:
+Palladium: 2,000
+Trivia[]
+Sinmara is erroneously referred to as a planet in the assignment objective text when it is actually a moon. Although the moon has no atmosphere according to its info page, the assignment takes place in an environment with a hazy orange atmosphere and clouds. The atmosphere is not present in Mass Effect Legendary Edition.
+
+
+

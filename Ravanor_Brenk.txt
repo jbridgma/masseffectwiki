@@ -1,0 +1,71 @@
+
+
+
+
+Strux insists that Morda is planning a move against the Nexus. We need to visit the krogan colony and check it ourselves. We should look for Ravenor [sic] Brenk.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Go to krogan colony
+2.2 Go to the throne room
+2.3 Speak to Ravanor Brenk
+2.4 Find Brenk and speak to him privately
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Conflict in the Colony
+
+Starts automatically after meeting Strux in The Paradise on Elaaden.
+
+Walkthrough[]
+Go to krogan colony[]
+Head to New Tuchanka north of The Paradise. If this is your first time heading further north, a Forward Station can be brought down right next to the main entrance of the colony. 
+
+
+New Tuchanka has two entrances, one in front and one in back, both of which are locked until you speak to the guards. The one in front has the guards. Speak with one of the Krogan Lookouts. They are reluctant to let outsiders in, but Nakmor Drack is there to vouch for Pathfinder Ryder and the team, either as a squadmate or as an NPC along with the guards. If this is your first time in the area, New Tuchanka is now accessible from this point forward whenever you visit.
+Note:  Dialogue sequence breaks if Drack is in the party and you switch him out using the Loadout feature of the nearby forward station, as Drack will not spawn as an NPC in that instance yet the game still treats him as present in the scenario. A quick Fast Travel between forward stations fixes the issue.
+Before heading down into the tunnels, head north to the area with Barruk and his assistant. Proceed to the west through a large gated doorway to find two vehicles with four krogan standing in-between the vehicles. The right Krogan Vehicle can be scanned for +10 .
+
+Go to the throne room[]
+
+Travel down into the tunnels following the navpoint and you'll enter a cavernous chamber with a large stone throne. Ravanor Brenk is one of the guards in the throne room, and he only appears there after you've gained this mission from Strux.
+
+Speak to Ravanor Brenk[]
+At the navpoint, you can talk to Brenk. Ryder barely begins forming words before being interrupted by Nakmor Morda, the recently self-appointed Overlord of the krogan in the Heleus Cluster. Morda is hostile towards the Nexus and Ryder, and can't be reasoned with. After the conversation your squadmates note this seemingly confirms Strux's assertions, and it's a bad thing.
+
+Find Brenk and speak to him privately[]
+
+You can now finish the interrupted conversation with Brenk. He has gone deeper down in the tunnels and doesn't want Morda to know he's talking to Ryder. Go to the fighting pits and meet him behind a support column. Brenk reveals that Morda is trying to retrieve the drive core from the crashed Remnant ship to build a bomb and use it against the Initiative. Your squadmates react to this, and SAM confirms it's possible to turn the drive core into a bomb. However, most of the clans want peace with the Initiative - not war.
+When the conversation is over the mission completes and the mission Investigate Remnant Derelict starts automatically. If you were "rude" to Brenk by choosing the professional conversation tone at the start of your talk, after a short while Ryder expresses some hangups over being called "rude" by a krogan.
+Around the corner from where Brenk is located, there is an Adapted Initiative Core Tech that can be scanned for +100 . 
+
+Rewards[]
++270 XP
++29 AVP 
++2% Elaaden viability
+
+Elaaden Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Conflict in the Colony
+
+Missions (Mass Effect: Andromeda)
+
+Investigate Remnant Derelict
+
+
+
+

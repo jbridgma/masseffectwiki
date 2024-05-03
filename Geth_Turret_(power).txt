@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+This article is about is about the Mass Effect 3 Multiplayer power. For the enemy in Mass Effect 3, see Geth Turret (Mass Effect 3). For the enemy in Mass Effect, see Geth Turret (Mass Effect). For turrets in general, see Turret.
+
+Geth Turret is a tech power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Geth Turret[]
+Deploy a multifunctional turret that deals heavy damage and repairs the shields of allies within 8 meters every 8 seconds.
+
+Recharge Speed: 5 sec
+Turret Damage: 150
+Turret Shields: 1000 (500 Geth Juggernaut)
+Allied Shields Restored: 350
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 4 sec
+Turret Damage: 150
+Turret Shields: 1000 (500 Geth Juggernaut)
+Allied Shields Restored: 350
+
+
+Rank 3: Shields & Damage[]
+Increase turret's shields by 30%.
+Increase turret's damage by 30%.
+
+Recharge Speed: 4 sec
+Turret Damage: 195
+Turret Shields: 1300 (650 Geth Juggernaut)
+Allied Shields Restored: 350
+
+
+Rank 4: Shields & Damage/Shield Restore[]
+
+
+
+Shields & Damage
+Increase turret's shields by 40%. 
+Increase turret's damage by 40%.
+
+Recharge Speed: 4 sec
+Turret Damage: 255
+Turret Shields: 1700 (850 Geth Juggernaut)
+Allied Shields Restored: 350
+
+
+Shield Restore
+Increase the shields restored to allies by 50%.
+
+Recharge Speed: 4 sec
+Turret Damage: 195
+Turret Shields: 1300 (650 Geth Juggernaut)
+Allied Shields Restored: 525
+
+
+
+Rank 5: Armor Damage/Restore Range[]
+
+
+
+Armor Damage
+Increase the turret's damage by 30%. 
+Increase the damage done to armor by 50%.
+
+Recharge Speed: 4 sec
+Turret Damage: 300 (Shield & Damage), 240 (Shield Restore)
+Turret Shields: 1700 (850 Geth Juggernaut) [Shield & Damage], 1300 (650 Geth Juggernaut) [Shield Restore]
+Allied Shields Restored: 350 (Shield & Damage), 525 (Shield Restore)
+
+
+Restore Range
+Increase the shields restored to allies by 50%. 
+Increase the range of this ability by 40%.
+
+Recharge Speed: 4 sec
+Turret Damage: 255 (Shield & Damage), 195 (Shield Restore)
+Turret Shields: 1700 (850 Geth Juggernaut) [Shield & Damage], 1300 (650 Geth Juggernaut) [Shield Restore]
+Allied Shields Restored: 525 (Shield & Damage), 700 (Shield Restore)
+
+
+
+Rank 6: Flamethrower/Restore Frequency[]
+
+
+
+Flamethrower
+Upgrade with a close-range flamethrower that deals 71.50 points of damage per second. 
+
+
+
+Restore Frequency
+Increase the frequency of restoring shields by 60%.
+
+
+
+
+Player Notes[]
+Mechanics
+Unlike the Sentry Turret, the Geth Turret's default attack is a single powerful precision blast rather than a burst of weaker shots. The projectile travels slower than the Sentry Turret's bullets, but it has limited homing ability (roughly comparable to that of the Geth Plasma Shotgun).
+The Geth Turret's blast is fairly powerful and can stagger health based enemies for a brief second.
+For the Rank 6 Flamethrower evolution, if Rank 4 Shields & Damage is taken, then damage is increased to 93.5 damage per second (DPS). If Rank 5 Armor Damage is taken, then it is increased to 88 DPS. If both ranks are taken, then DPS is increased to 110 DPS (with no other powers or items increasing DPS).
+The following enemies totally ignore the turret: Husks, Abominations, Brutes, Scions, Praetorians, Seeker Swarms, Ravagers, Atlases, and Dragoons.
+Unlike the shield restoring effects of the Shield Boost power or an Ops Pack, the shield recharge of the Geth Turret provides no temporary invulnerability to damage.
+The Geth Turret can restore shields through terrain.
+Geth Turret, like the volus classes' Shield Boost power, can restore shields to an Infiltrator with its Tactical Cloak active.
+Strategies
+Like other powers that restore shields, the Geth Turret can be helpful to counteract damage-over-time effects such as from Banshee ranged attacks or Swarmers that prevent normal shield recharge.
+The Geth Turret will always restore shields roughly one second after it fully deploys. With a light weapon loadout a player can recover from cooldown and deploy a new turret in about 3-5 seconds, which will again restore shields. While this requires micromanagement, it enables a player to take the Rank 6 Flamethrower upgrade and still have a method to rapidly restore party shields in emergencies. Doing this repeatedly will of course reduce your offensive output, but it can be especially useful during objective waves or while holding out in the LZ when nearing extraction.
+If there are no friendly targets in range of the turret that require any shield replenishment, the turret will instantly restore any friendly shields the moment they take damage, assuming the shield restore ability is off cooldown. This can be especially useful against powerful ambush attackers like Geth Hunters, Phantoms, or Nemesis snipers.
+One of the interesting characteristics of the Geth Turret (like the Sentry Turret) is that it "knows" where enemies have spawned at the beginning of a wave (or if stragglers are left over that you can't seem to find). A few seconds after the wave spawns, the Geth Turret will turn to the direction of the spawned enemies and begin firing. This can be very useful on large maps or maps with lots of obstructions/cover to see where enemies are going to be approaching from and to be able to take appropriate actions. Firebase Reactor is a good example.
+The Geth Turret can either be an incredibly strong point-defense tool if all its upgrades are chosen towards increasing its shields/damage, or it can be an incredible party buff if all upgrades are chosen to increase the amount and frequency of its shield-restores.
+The shield restore can mitigate the weakened shields of Hunter Mode for the Geth Engineer. For the Geth Juggernaut Soldier, it helps mitigate the limited ability to take cover to recharge shields.
+The shield restore is particularly useful for geth for their lack of health, drell, and, to a lesser extent, vorcha for their lack of strong shielding. Any class with a skill that grants damage reduction (such as Tech Armor, Reave, Fortification, etc.) has good synergy with the shield restore, as each point restored is all the harder to be removed by enemy attacks.
+This skill pairs extremely well with a krogan ally. A krogan's ability to enter frenzy is usually limited by how often they need to stop to regain shields. Refilling ally krogan's shields can help them keep a rampage going as well as allow them to charge into a group that would otherwise be lethal, while the player follows behind to pick off stragglers.
+Rather than deploy the turret into the open, it may be better to deploy deep behind cover, but near enough to restore your and your allies' shields. Done correctly, the Geth Turret will be very difficult to destroy, allowing you and your team to withstand a much greater level of damage.
+While it's usually best to deploy the Geth Turret near allies so they can benefit from the shield restoration, since it is deployed by lobbing, it is also possible to toss it behind a Guardian to flank him, or throw it ahead near an objective so it will be set up and waiting when the player arrives.
+Alternatively, especially on lower difficulty levels where the shield boost isn't so important, it can be useful to set up the turret someplace with line of sight of much of the battlefield (such as one of the windows of Array Control on Firebase Dagger), and leave it there while the party goes off hunting enemies. The Geth Turret will take potshots at whatever happens to enter its line of sight, providing distraction and the occasional kill. This isn't as effective as deploying it at the current battle site, but if the fighting frequently shifts across the battlefield, it may be an attractive alternative to constantly redeploying the turret.
+It can be helpful to deploy the Geth Turret over a fallen ally before reviving them. This will help protect the player doing the reviving, and since revived players have no shields, the Geth Turret will also provide a welcome shield boost before the revived player's shields recharge on their own.
+The Geth Turret can also serve as a distraction, drawing fire that would otherwise be directed toward a player.
+As with all "pets," upgrading the damage of the turret gives somewhat diminishing returns on higher difficulties. It may be better off evolved for shield restoration for more defensive or team-supporting play.
+Availability[]
+Single-player: N/A
+Multiplayer: Geth Engineer, Geth Juggernaut Soldier
+Bugs[]
+Due to a small bug, kills made using the Geth Turret in multiplayer will be reported as [Sentry Turret] if the kill is made using the flamethrower, but correctly as [Geth Turret] if using the pulse gun.
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

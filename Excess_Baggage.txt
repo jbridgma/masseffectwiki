@@ -1,0 +1,49 @@
+
+
+
+Suvi's scans show the Tempest is carrying more mass than it should. Scan around the ship to find what—or who—is aboard.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Scan rooms on the Tempest for anomalies
+2.2 Speak to Kallo
+
+
+3 Rewards
+4 Trivia
+
+
+Acquisition[]
+Prerequisite: A Trail of Hope I
+
+Once all six squadmates have been gathered on the Tempest, talk to Suvi to obtain this mission.
+
+Walkthrough[]
+Scan rooms on the Tempest for anomalies[]
+Walk around the Tempest with the scanner to find various potential causes. It is not required to scan all of the items. Locations are not marked. Only the Armory Structural Scan is required and any remaining scan items will disappear. 
+
+Possible scans and locations include:
+Airlock Structural Scan - Located in the airlock near the loadout station.
+Armory Structural Scan - Located in the armory storage room.
+Bathroom Structural Scan - Located in a shower in the bathroom.
+Crew Quarters Structural Scan - Located behind the armory in the crew quarters.
+Engineering Structural Scan - Located in one of the walls in the engineering room near the drive core.
+Meeting Room Structural Scan - Located on the ceiling of the vidcon/meeting room.
+Tech Lab Structural Scan - Located in the tech lab.
+The culprit of the extra weight is found in the armory storage room. Once scanned, the anomaly appears to be something welded into the hull of the ship. SAM comments that scanning it has activated an audio log and Kallo Jath asks to talk to Ryder.
+
+Speak to Kallo[]
+Kallo recognizes the welded parts are from the ship's lead designer, Lucille Diawara, who broke her back working on the Tempest. Suvi comes over to Kallo and plays Lucille's audio log, which contains praise for the original Pathfinders as well as a reminder to take care of the ship and each other. Pathfinder Ryder can have some opinions on this, and dialogue may change depending on whether the fates of the other Pathfinders have been ascertained.
+After listening to the audio log, you can choose to either keep the rig on the Tempest, or send it to the Nexus as part of Initiative history. Kallo is fine with either decision; any decision taken completes the mission.
+
+Rewards[]
++530 XP
++29 AVP 
+Trivia[]
+Lucille's parting words – "We are such stuff as dreams are made on. And our little life is rounded with a sleep." – is a Shakespearean quote from The Tempest.
+The "construction gear" looks like a jet engine on closer inspection.
+
+
+

@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+M-55 Argus
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Assault Rifle
+
+
+Location
+Bonus itemDespoina: Leviathan
+
+
+Fire Mode
+Three-Round Burst
+
+
+
+Weight
+  80% 
+
+
+Capacity
+  50% 
+
+
+Fire Rate
+  27% 
+
+
+Damage
+  27% 
+
+
+Accuracy
+  12% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+21
+168
+
+
+
+
+
+
+
+Type
+Assault Rifle
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+Three-round burst
+
+
+
+Weight
+  80% 
+
+
+Capacity
+  50% 
+
+
+Fire Rate
+  27% 
+
+
+Damage
+  27% 
+
+
+Accuracy
+  12% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+21
+168
+
+
+
+
+
+
+
+The M-55 Argus is an assault rifle in Mass Effect 3. 
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 Trivia
+5 References
+
+
+Description[]
+The Argus is a high-powered rifle favored by senior C-Sec officers. An excellent close-range weapon, its bursts of fire ensure ammunition conservation during lengthy conflicts. Other law-enforcement agencies across the galaxy are adopting the Argus as their standard rifle, as much for its intimidation factor as its suppression power.
+
+Acquisition[]
+Singleplayer
+The M-55 Argus is available to all players who pre-ordered a copy of Mass Effect 3[1], except in Australia where the Argus was exclusive to EB Games[2] and Origin.[3] It is also available on the Wii U version of Mass Effect 3.[4] An e-mail from EDI can be received if the weapon was obtained in this fashion.
+
+
+
+
+The Argus Rifle
+
+
+From: EDI
+
+
+The Argus rifle received more positive ratings than any other assault rifle in polls of law-enforcement agencies. I have reviewed the statistical data collected by these agencies, and believe their recommendations to be sound. A shipment of Argus rifles have been delivered to the weapons lockers should you wish to test them for yourself. EDI
+
+
+
+It is also available in Mass Effect 3: Leviathan. It can be found in a shack on the abandoned ship during Despoina: Leviathan. However, it is not possible to acquire the Argus upgrade on Despoina for those that already have the Argus from a pre-order bonus. Subsequent upgrades have to be purchased.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The M-55 Argus is categorized as rare and requires no multiplayer expansion packs.
+
+Player Notes[]
+GeneralSingle-playerMultiplayer 
+General
+Burst Fire: The Argus is a semi-automatic burst-fire weapon; one three-round burst is fired per trigger pull, but the trigger can't be held to continuously fire. It is one of several similar such burst-fire rifle weapons, along with the M-15 Vindicator, the N7 Valkyrie, and the M-29 Incisor sniper rifle. The Argus is the most damaging of these weapons, but it is also the heaviest.
+As with most burst-fire weapons, the weakness of the Argus is recoil causing each shot in the burst to climb, making it difficult to concentrate damage on enemy heads or weak points. For this reason, it's recommended to compensate by pulling your aim down with each trigger pull. Equipping an Assault Rifle Stability Damper is also effective. Firing from cover will increase both stability and accuracy and is highly recommended to get the most out of this weapon.
+As with most burst-fire weapons, the Argus doesn't have the rate of fire to be effective either in emergency close-quarters situations or for taking down heavy armored targets like Brutes and Atlases compared to fully automatic weapons or weapons with very powerful individual shots like the M-99 Saber.
+Most burst weapons can be improved significantly with Marksman. Maximizing the rate of fire bonuses also works to increase accuracy as well, as the shots in the burst all fire before the muzzle has jumped as far.
+The Argus packs a decent punch, with each full burst doing slightly more damage than even the M-99 Saber, though with a slightly lower rate of fire. Unfortunately, it is both inaccurate and unstable, and if you want to equip the Assault Rifle Extended Barrel or the Assault Rifle High-Velocity Barrel for maximum damage, there is no way to compensate for both the inaccuracy and the recoil with a second mod alone. You will either have to accept that the weapon is not for long-range engagements, or equip a scope and accept the challenge of compensating for the muzzle climb manually.
+The Argus carries a large amount of spare thermal clips.
+Single-player
+The Argus is a very poor choice for squadmates, primarily due to them firing only a single round with every shot rather than the full three-round burst for some reason. They will also fire very slowly, ducking back into cover after firing a single bullet.
+Multiplayer
+The Barrage Upgrade Gear and Stabilization Modules are handy to reduce recoil, which also serves to make burst weapons like the Argus more accurate.
+The Argus's recoil can be drastically reduced by playing as a turian class or as the Geth Juggernaut Soldier and evolving the class power to increase stability. This makes it much easier to place every shot in the burst at the same location.
+When paired with a Turian Soldier with points spent in passive class powers to increase weapon damage and stability and paired with Marksman with points spent on rate of fire, the Argus becomes quite a respectable weapon, able to place all 3 shots from each burst precisely even at long range and with a rate of fire that makes it competitive even with high-end weapons like the Cerberus Harrier, and with a lot of spare thermal clips. This can be an excellent option for the class especially when some of the Ultra Rare assault rifles aren't available or are low level.
+Trivia[]
+According to Lead Combat Designer Corey Gaspur, the M-55 Argus is a modified M-96 Mattock.[5]
+References[]
+
+↑ http://www.masseffect.com/me3/game/preorderbonus/
+
+↑ http://www.ebgames.com.au/
+
+↑ http://store.origin.com/store/eaapac/en_AU/html/pbPage.mass-effect-3-AU
+
+↑ https://d3esbfg30x759i.cloudfront.net/ss/zlCfzRX-_mUyjpo2ZM
+
+↑ http://twitter.com/#!/CGaspur/status/154053848154116096
+
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect 3 Downloadable Content
+
+
+
+
+Promotional
+
+AT-12 Raider • Chakram Launcher • Collector Rifle • M-55 Argus  M-90 Indra • N7 Collector's Edition Pack • N7 Warfare Gear • Reckoner Knight Armor
+
+
+Single-Player
+
+From Ashes • Extended Cut • Firefight Pack • Leviathan • Groundside Resistance Pack  Alternate Appearance Pack 1 • Omega • Citadel • Genesis 2
+
+
+Multiplayer
+
+Online Pass • Resurgence Pack • Rebellion Pack • Earth • Retaliation • Reckoning
+
+
+
+

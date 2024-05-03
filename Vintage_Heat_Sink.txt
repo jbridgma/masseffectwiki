@@ -1,0 +1,102 @@
+
+
+
+
+
+Vintage Heat Sink
+
+
+
+
+General Info
+
+Rarity
+Ultra Rare
+
+
+Aug Type
+Gun Behavior
+
+
+RD Cost
+200
+
+
+Tech Type
+
+
+
+
+Vintage Heat Sink is an augmentation in Mass Effect: Andromeda.
+
+Contents
+
+1 Compatibilities
+2 Description
+3 Mechanics
+4 Strategies
+5 Restrictions
+
+
+Compatibilities[]
+Guns - This augmentation can be applied to gun-type weapons.
+Description[]
+Ammo refills automatically after a delay, -60% Clip Size
+
+Mechanics[]
+The Vintage Heat Sink automatically cools down the weapon rather than using disposable thermal clips. 
+
+The benefit of not using thermal clips is not having to reload the weapon.
+An excellent additional benefit of this augmentation is that it eliminates the reload animation. This greatly increases the rate of fire of low ammo capacity weapons, such as single-shot shotguns or sniper rifles. This benefit is most noticeable with the single-shot weapons but applies to any weapons in actuality.
+All weapons using the Vintage Heat Sink have a flat recharge time that is not effected by penalties or bonuses to weapon reload speed.
+Note:  Despite the Gun Behavior augmentation text stating that "You may apply one such augment to a gun during the development process", both of the Gun Behavior augmentations - the Vintage Heat Sink and the Plasma Charge System - can be applied to the same item. That is because the Vintage Heat Sink is actually  set up as special augmentation in the game, and such cannot be used together with other special augments, like Bio Converter or Aerial Lubricant,
+
+Strategies[]
+Restrictions[]
+The following weapons are unable to use this augmentation: 
+
+All Remnant weapons
+
+
+
+
+
+
+Mass Effect: Andromeda Augmentations
+
+
+
+
+General
+
+Anti-Armor Module • Biotic Damage Booster • Biotic Recharge Module • Combat Power Module • Combat Recharge Module • Duration Boost Module • Kinetic Coil • Medi-Gel Regulator • Newtonian Multiplier • Reaction Displacer • Reaction Optimizer • Shield Accelerator • Shield Booster • Shield Bypass Unit • Shield Generator • Support Power Module • Tech Damage Module • Tech Recharge Module
+
+
+Gun Behavior
+
+Plasma Charge System • Vintage Heat Sink
+
+
+Gun Fire Type
+
+Automatic Fire System • Burst Fire System • Single Fire System
+
+
+Gun Projectile
+
+Beam Emitter • Electrical Conduits • Grenade Launcher • Ricochet System • Seeking Plasma System • Sticky Grenade Launcher
+
+
+Mod Slots
+
+Double Mod Extension • Mod Slot Extension
+
+
+Special
+
+Aerial Lubricant • Aerial Performance Optimizer • Aerial Stabilizer • Battlefield Assist Module • Bio-Converter • Concentration Module • Coolant Unit • Cryo Condenser • Electrical Conduits • Equilibrium Regulator • Heat Inducer • Power Booster • Rebalanced Field Coils • Shield Disruptor • Shield Oscillator • Shield Sensors
+
+
+
+
+

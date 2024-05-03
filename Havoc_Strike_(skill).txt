@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For the power in Mass Effect 3 Multiplayer, see Havoc Strike.
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Havoc Strike is a Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Havoc Strike
+
+
+
+     Liam leaps forward and stabs down at enemies with his omni-blades, discharging their power to stun all nearby enemies and prime them for combo detonations.
+
+Damage: 144
+Force: 150
+Stun Duration (s): 3
+Effect Radius (m): 4
+Recharge Time (s): 20
+
+
+
+2
+
+Reckless
+
+
+
+Liam takes less damage for a short time after using Havoc Strike.
+
+Damage Resistance: 15
+Damage Resistance Duration (s): 5
+
+
+
+3
+
+Damage & Force
+
+
+
+Havoc Strike deals more damage and hits with greater force.
+
++20% Damage
++20% Force
+
+
+
+4
+
+Radius
+
+
+
+-
+
++30% Damage Radius
+
+
+4
+
+Unbalancing Strike
+
+
+
+Enemies hit by Havoc Strike takes 50% additional damage over 5 seconds.
+
+Damage per Second: 14
+Damage Duration (s): 5
+
+
+
+5
+
+Weapon & Melee Synergy
+
+
+
+Liam does more weapon and melee damage after using Havoc Strike.
+
+Gun Damage Bonus: 15%
+Melee Damage Bonus: 30% 
+
+
+
+5
+
+Power Synergy
+
+
+
+Liam does more power damage after using Havoc Strike.
+
+Power Damage Bonus: 25%
+Power Force Bonus: 25%
+
+
+
+6
+
+Wide Strike†
+
+
+
+-
+
++20% Damage
++30% Damage Radius
+
+
+
+6
+
+Stunning Strike†
+
+
+
+Increases the stun duration of the strike.
+
++100% Duration
+
+Note: †Rank 6 is unavailable to Liam until his loyalty mission Liam Kosta: All In is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: Liam Kosta - Starting Combat Skill
+Multiplayer: N/A
+
+
+

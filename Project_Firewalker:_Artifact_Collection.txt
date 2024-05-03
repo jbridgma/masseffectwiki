@@ -1,0 +1,132 @@
+
+
+
+
+Data shows that Dr. Cayce had stopped on planet Corang to run tests on artifacts found on the planet's surface. Recovering the data he collected could lead Cerberus to discover Dr. Cayce's last known location.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Site 1
+3.2 Site 2
+3.3 Site 3
+3.4 Site 4
+3.5 Site 5
+
+
+4 Enemies
+5 E-Mail
+6 Mission Summary
+7 Trivia
+
+
+Acquisition[]
+Prerequisite: Project Firewalker: Rosalie Lost
+
+This assignment is acquired after retrieving the Hammerhead from Zeona. A new entry in the journal indicates Shepard should head to Corang (Verr system, Hawking Eta cluster) to start the assignment. On the galaxy map, this is called Project Firewalker: Artifact Collection. Scanning the planet reveals an anomaly, returning no signal.
+These notes are displayed after scanning the planet:
+
+
+“Scans have found locations matching the descriptions of Dr. Cayce's survey sites. Exploring the sites could reveal valuable mission data. Warning: Geth presence detected on planet's surface. Use extreme caution.”
+
+
+Preparation[]
+You will be given the opportunity to choose squadmates, but this decision has no gameplay impact on the assignment. 100% of your time will be spent piloting the Hammerhead. 
+
+
+There are no save points anywhere on the assignment, and you may have to rely on the generated restart autosave if you die here. The only ways you can die here are environmental hazards or enemy fire.
+This is the most combat-heavy assignment involving the M-44 Hammerhead, which, if you're not already aware, is not the Mako from the first game and will quickly be destroyed by the gunfire of powerful enemies on higher difficulties. Avoid "fair" fights while in the Hammerhead and instead bombard opponents to death from far outside the reach of their weapons.
+
+Walkthrough[]
+When the Normandy drops the Hammerhead, a Geth Colossus is shown activating and standing up. There are five sites on this planet you must scan to acquire the information you need.
+
+Site 1[]
+Immediately after you land, there is a squad of 5 Geth Troopers up ahead. Use the Hammerhead's main gun to eliminate them. If you hear a warning siren, then the Hammerhead’s shields are down and eventually the vehicle will catch on fire just like the Mako when it takes heavy hull damage. Just move out of the firing area, just like when you are on foot, and wait until the siren stops. Then head back in.
+
+
+When you finally eliminate the troopers, move up to where the first location is. The site is initially unguarded, though a Geth Dropship drops off a Colossus and 3 Troopers when you approach. The Colossi in this assignment have no special abilities compared to the one in Tali's recruitment mission, and should go down eventually to repeated missile spam. Because this site is raised up from the ground, use the jets and keep moving to eliminate all the geth in the area. Remember to retreat if your shields fail. Once they are down, scan the site and move on.
+
+Site 2[]
+
+Head around the corner, and eventually, you will see two Geth Troopers in the distance; shorten their life expectancies and move up. Be careful as you approach the cliff, because that isn’t funny-colored water... it's acid that will destroy the Hammerhead almost instantly on higher levels. Get onto one of the rock islands and prepare for another gun duel. On one of the left islands is a site that holds 1,250 platinum, you may as well grab it now, because you are still out of range of the geth.
+If you stay near the site, you may accept the challenge of picking off the defenders without ever being shot at effectively. A Colossus, a Geth Destroyer, and two Geth Troopers defend this site, so the difficulty is about the same as the last one. Use any tactics, preferably stay at range to eliminate the geth. Once they are down, grab the research. By the way, it is not recommended you try to ram the geth, as the Hammerhead is more damage-prone than the Mako. If you go to the island to the right of the one with the ramp, the Colossus will not shoot at you and you can use the main gun to take it down.
+
+Site 3[]
+
+Once you have the research from the second site, use the jets to get over to the island and then up to the metal ship hulk. From here, you have two options to get to site three: left up the ramps and through the tunnels, or right using the jets to get up to the platform. Either way, you wind up at the same site.
+As you approach the site, another dropship flies overhead, dropping a Colossus, two Destroyers, and two Troopers. A good tactic here is to use the ship hulk on the right path as a ramp to cross over the battlefield. Once on the other side, you can shoot with ease because nothing will challenge you, because they can’t shoot at you. Once the geth are down, using any tactics you wish, head to the artifact, and collect it.
+
+Site 4[]
+
+To get to the next site, you can either use the ramp as described above, or you can use some debris in the middle of the battlefield you just cleared. Either way, you have to go up to continue.
+Once you are up, there is more acid and another ramp; guess what you have to avoid and how to do it. Once you make it across the acid pool, using the platforms as cover, the first platform on the left has a scan site for another 1,250 platinum.
+When you get to the second platform, you come across two paths, one left and one right. This will determine where you start for the coming fight. If you like range, then go left; if you like to get up close and personal (not recommended in this vehicle), then go right.
+Either way, once you get close, another dropship (curse them) drops another Colossus, a Destroyer, and a Geth Prime. Take them out any way you wish, then collect the fourth artifact.
+
+Site 5[]
+You have two possible paths forward: up the ship hulk that divided the previous battlefield, or hopscotching small rock islets in a "river" of acid. The first option is the safer and easier route. When you are about halfway up, some friends fly up to meet you, three Rocket Drones. They aren' accurate at range, but then neither is the Hammerhead. Stay back to avoid the rockets, and once they fall, use the jets and boost to get to the elevated platform. When you get up there, there is a scan site to the right that gives 1,250 platinum, so grab it. From here, you should see the fifth site. 
+
+
+A dropship should be coming any moment now when you start approaching the fifth site. Use the jets to get to the first platform, get close enough to the ledge sticking out to trigger the geth drops, then use the gun to take out the Colossus, two Primes, and two Destroyers from a distance. The Hammerhead is more accurate with large targets. You don’t have to move to take out the Primes and Colossus, though you may have to get up close and personal with the Destroyers. 
+
+
+Once the geth are down you can inspect a path to the right behind the site that leads to another site of platinum. When you collect the final data at the fifth site the Hammerhead VI declares the assignment complete and a prompt appears telling you to hold down the melee button to return to the Normandy. There are 4 optional collectible platinum sites aside from the mandatory 5 research sites, so if you got them all (or you're not interested in more platinum) end the assignment.
+
+Enemies[]
+Geth Trooper
+Geth Colossus
+Geth Destroyer
+Geth Prime
+Rocket Drone
+E-Mail[]
+You will receive the following e-mail after completing this assignment:
+
+
+
+
+Artifacts catalogued
+From: Project Firewalker
+
+The artifacts you gathered might give us a lead on a larger Prothean site. They have incredible value for historians and might be instrumental in building our understanding of the Prothean legacy.
+
+
+Excellent work in mitigating the geth presence, Commander. We will keep you apprised of further geth activity, should it threaten mission integrity.
+
+
+Mission Summary[]
+Data recovered from planet's surface.
+Historically significant artifacts recovered.
+Dr. Cayce's location not found among recovered data.
+Geth presence on the planet eradicated.
+
+Experience reward: 125 (156)
+Credits: 2,500
+Cerberus Funding: 1,250
+Credits Found: 1,250
+Minerals:
+Platinum: 5,000
+Trivia[]
+If you have done Legion's loyalty mission and chose to rewrite the geth, there will still be hostile geth on this mission. It is possible that these geth have not yet linked up to the geth network to receive the re-programmed virus.
+
+Firewalker Assignments Navigation
+
+
+← Previous Assignment
+
+Assignment Index
+
+Next Assignment →
+
+
+Project Firewalker: Rosalie Lost
+
+Assignments
+
+Project Firewalker: Geth Incursion
+
+
+
+

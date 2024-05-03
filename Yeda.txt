@@ -1,0 +1,47 @@
+
+
+
+The doctor at the Voeld Resistance base needs the emergency medical supply caches around Voeld to be restocked, so that injured fighters and civilians can tend to their wounds and improve their chances of survival in the harsh wasteland.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Collect the supplies
+2.2 Drop off the medical supplies
+2.3 Report back to the doctor
+
+
+3 Rewards
+
+
+Acquisition[]
+Speak with Dr. Harihn (marked with a) in the medical bay of the Angaran Resistance Base. His assistant Trae suggests that Ryder could help by resupplying the caches.
+
+Walkthrough[]
+Collect the supplies[]
+The Medical Supplies are in the crates near Dr. Harihn marked with a navpoint . Collect the Medical Supplies and navpoints will be added for the drop off points.
+Before leaving, right behind the Medical Supplies, you can scan a Barracks Supplies for +10 .
+
+Drop off the medical supplies[]
+There are 3 drop-off points for this section. Go to the navpoints and drop off the supplies.
+
+The easternmost navpoint (located east of Techiix) is relatively out in the open, made obvious with a burning flare amongst crates. After placing the supplies, a group of Chosen and Wraiths ambush the team.
+The westernmost navpoint is among the Eroesk ruins on the upper levels (same location as the mission Brought to Light). Next to the cache, there is an injured angara named Yeda, who can be talked to briefly.
+The southernmost navpoint is at the entrance to the Kett Base at the Kett Tactical Operations Center which Ryder will enter during the mission Remove the Heart. There is a dead angara next to it.
+You receive +1330 XP when all three medical supplies are dropped off. Dr. Harihn will call over the comm to have Ryder return to speak with him.
+
+Report back to the doctor[]
+Return to Dr. Harihn and speak with him. Naturally he is grateful and says you have saved many lives today. He's set aside some supplies for you from one of the shipments.
+
+Rewards[]
+Backup Life Support
+Cobra RPG
+Shield Capacitors
+AND Two Ammo Consumables (Randomly Selected)
+Cryo Ammo
+Disruptor Ammo
+Incendiary Ammo
+
+
+

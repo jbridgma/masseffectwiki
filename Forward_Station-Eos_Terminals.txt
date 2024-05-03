@@ -1,0 +1,313 @@
+
+
+
+The following are the messages relayed by Forward Stations on Eos.
+
+Terminals[]
+
+
+
+Forward Station Protocol Initiated
+—Contact—
+Preset Viability Metrics: MISMATCH
+
+Habitat 1, named Eos, does not match Initiative preflight profiles. Advance predictives are no longer applicable. Parameters require 94% rework.
+
+—KNOWN—
+Habitat 1: Eos
+Discovered: Attr. Founder Jien Garson
+Orbital data onboard
+Spectrographic profiles: WORKING...
+Geo-sounding: WORKING...
+Radiation Sv: LETHAL at deployment
+ALERT: Fallout from Scourge is exceptionally volatile on contact, with equally aggressive decline.
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING— 
+
+
+
+
+
+
+
+
+
+Live Records Coordination
+ —Forward Station/Nexus Live-Link—
+Conflict: ongoing geological mismatch
+Expanding data collation to live reports
+
+—KNOWN—
+Reporting: Spec. Karin Miura
+Live-link begins:
+-…and it's just a mess. Wait, going live. Let's have a look at Eos, hmm? The Pathfinder is really pushing exploration. The first two sites didn't get this… what in the world?
+
+-No, it's just still amazing to me. Eos is so different than we expected. Thought we were smart with that geth "relay-scope" method, but 600 years changed it all.
+
+-Well, of course that's short for a planet. But look at it. Oh, wait… it's recording. Ugh, block audio, it just needs manual input—
+Live-link ends:
+
+Receiving live Eos telemetry. Coordinating with known.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+MagRes Geo-sounding Report
+ —Magnetic Resonance Coordination—
+Conflict: ongoing geological mismatch
+Mapping tectonic parameters
+
+—KNOWN—
+Reporting: Spec. Karin Miura
+Live-link begins:
+-…still we venture, as the brave. Watch the rocks, they're falling daily, careless miners always fail, keep your hands upon your credits and your eyes upon the scale.
+
+-Well of course you don't like it, your dad didn't sing it until all you dreamt of was rocks. I swear, if you want ground-zero for accidental masters degrees, go to lullabies. Still, as a mnemonic device, it got me through Applied GeoTech. Always watch the… did you hit record? You son of a f—
+Live-link ends:
+
+Receiving Live Calibration: optical-scale adjustment for artificial tectonic wave patterns
+Note: Eyes upon the scale
+Large-scale geo-manipulators suspected
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Multiple-Deployment Coordination
+—Forward Station Network established—
+Initiating magnetospheric tomography
+
+—KNOWN—
+Climate: Seasonal Arid
+Planetwide climate uniformity is unlikely to have occurred naturally.
+Tropospheric electron density has suffered manipulation.
+Geological limiters suspected.
+Scourge radiation and impact suspected.
+Artificial atmospheric alteration suspected.
+Whether climate uniformity was intentional or a product of Scourge impact: unknown.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Octologic Override
+ —Relativistic mismatch—
+ERROR: 8 Station Link failed
+Source: Deep-core mass alteration
+Expanding data collation to live reports
+
+—KNOWN—
+Reporting: Spec. Karin Miura
+Live-link begins:
+-How did you get to Base-8 with six fingers?
+
+-Well, how would I know that's not how it works? I'm an exogeologist, not a mathematician.
+
+-A skew-octagon? Look, just work your twitchy salarian magic so I can "octologically" compensate for the relativistic drift.
+
+-The Pathfinder's stations don't need to know why it's happening, they just need to compensate for it.
+
+-Is that on again? Christ, HR will be all over my—
+
+Live-link ends:
+Receiving Firmware Override
+Forward station interlink, complete
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Personal Update: Karin Miura
+—Standard format: OVERRIDE—
+Reporting: Spec. Karin Miura
+
+—KNOWN—
+Live-link begins:
+-Hello out there. It's you, right? Who else?
+
+-Station number nine! No, you don't get a turn, I'm recording this for the Pathfinder. Don't tell me I had too much, it was your bottle. Look, it's late, we're all tired. But we're having a good time. It'll be fine. Shhh. Shhhh, it's a secret. But Pathfinder. Team. We think you're Sexy. As. Fuck. Everyone in exogee… exogo… Everyone up here agrees! Your data is soooo good! Anyway, we were having a party because you're not dead. So many people were dead. But not you. That's fuuh… that's ffu… um. We're having a good time.
+
+-Yeah, I should sign off.
+
+-Is that… can I send the… I'm just hitting send.
+Live-link ends
+
+Receiving Coordinative Upgrade and Real-Time Kinematic support
+Forward Station efficiency improved 16.9%
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Shielding Protocol Update Applied
+—Adaptive Suppression Protocol—
+Record UNLOCKED. authority: Spec. Karin Miura
+Reason: Get your wounded ego out of the Pathfinder's way!
+Expanding data collation to Initiative Archive.
+
+—KNOWN—
+Archived Site 1 log begins:
+-SITE 1: Come on, we need your nav! Say again!
+-FIELD: Headed for the Golden Wastes, but shielding failed in minutes. Then the tires started to cook. Tell the folks in R&D they have to go back to the drawing board for the Nomad.
+-SITE 1: We'll come get you.
+-FIELD: Not in time. Just make sure they get the data. Wow, the polymer on the windshield is boiling. Don't see that every—
+-SITE 1: God fucking damn it this planet! Cut the feed!
+Archived log ends
+Integrating data. Extrapolating new shielding parameters. Forward Station efficiency improved 23.4%. Additional sensors deployed.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Shielding Protocol Update Request
+—Adaptive Suppression Protocol—
+Further geological arrays prevented by extent radiation coverage.
+Expanding data collation to Initiative Archive.
+
+—KNOWN—
+Atmosphere irradiated by Scourge impact fallout.
+Significant data logged by Site 1 and 2 science teams.
+Requesting…
+Requesting…
+Requesting…
+Rejected
+Record LOCKED, authority: executive order
+Reason: Morale. Don't open until we're certain of success. I'm not reminding people of the dead.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Synergy Achieved
+—Eos Sensor Coverage Complete—
+Geological and atmospheric profile sync
+Recording…
+Recording…
+Expanding data collation to live reports
+
+—KNOWN—
+Reporting: Spec. Karin Miura
+Live-link begins:
+-Hoooo-leee shit. Do you see that? The tomography of the core… and the extant saturation of the radiological fallout… is that a manufactured ripple in the magnetosphere?
+
+-Oh, I don't know either. But with all this new data, we're about to have a whole new branch of science, not just some new goddamn words. Take that, Professor Karr, and your "I discovered a new brown rock" or whatever. We're in Andromeda and the Pathfinder just hiked up a planet's kilt!
+
+-It is too a phrase.
+
+-Well, what's the salarian equivalent?
+
+-That is physically improbable.
+
+-What do you mean "not since that party"?
+
+-You give me that recording! So help me, I will gut the Live-link feature for all further—
+Live-link ends
+
+Synchronicity achieved
+Eos sensor coverage complete
+Viability index updated
+
+—MONITORING—
+
+
+
+
+
+
+
+
+
+Triangulation Achieved
+ —Forward Station Network expanded—
+Conflict: ongoing geological mismatch
+Expanding data collation to Initiative Archive
+
+—KNOWN—
+From: Initiative Department of Recruitment
+-Play archive:
+MUSIC: Inspirational
+We predict Habitat 1 is a lush and vibrant world. The Green Band rush is over. The Citadel is a world away. And there's more to freedom than the Terminus. This golden world offers a true pioneer thousands of kilometers of untamed potential. And with advanced genetic storage, in mere months we'll be deploying the literal creature comforts that will enable you to thrive.
+IMAGE: Pastoral plain
+IMAGE: Sunset
+IMAGE: Rugged stoicism
+IMAGE: Cow
+-Archive ends
+Updating planetary profile
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+

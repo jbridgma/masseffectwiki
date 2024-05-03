@@ -1,0 +1,161 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Aerial Assault is a passive Combat skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+Turian 26th Armiger Legion training, specializing in jetpack maneuvers for defense.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Aerial Assault
+
+
+
+-
+
++10% Max Health
++10% Max Shields
+
+
+
+2
+
+Aerial Combat
+
+
+
+Reduces damage taken while hovering.
+
++50 Damage Resistance While Airborne
++30% Melee Damage
+
+
+
+3
+
+Resilience
+
+
+
+-
+
++15% Max Health
++15% Max Shields
+
+
+
+4
+
+Hover
+
+
+
+Improves jump-hover duration and shooting accuracy while hovering.
+
++100% Hover Duration
++30% Weapon Accuracy While Airborne
+
+
+
+4
+
+Health & Shields
+
+
+
+-
+
++25% Max Health
++25% Max Shields
+
+
+
+5
+
+Aerial Evasion
+
+
+
+Reduces damage taken while hovering and evading.
+
++50 Damage Resistance While Airborne
++100 Damage Resistance While Evading
+
+
+
+5
+
+Dive Bomb
+
+
+
+Increases melee damage and jump-melee radius.
+
++60% Melee Damage
++40% Jump Melee Area of Effect Radius
+
+
+
+6
+
+Aerial Engagement
+
+
+
+Extends hover duration for every enemy killed while hovering.
+
+Hover Extension per Kill (s): 4
++50 Damage Resistance While Airborne
++25% Weapon Accuracy While Airborne
+
+
+
+6
+
+Close-Quarters Momentum
+
+
+
+Increased melee damage bonus with each melee hit or melee kill. Ends after 20 seconds have passed without a melee kill.
+
+Melee Bonus per Hit: 5%
+Melee Bonus per Kill: 20%
+Max Melee Bonus: 65%
++25% Max Health
++25% Max Shields
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Turian Havoc Trooper
+
+
+

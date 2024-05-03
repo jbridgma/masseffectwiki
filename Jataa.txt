@@ -1,0 +1,39 @@
+
+
+
+You agreed to help an angara named Jataa look for her sister, Morga, who has been missing for three days. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Scan for signs of Morga
+2.2 Return to Jataa
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Hunting the Archon
+
+This task is available after Vehn Terev has been interrogated. Speak to Jataa (marked with a) near the Outcast Headquarters entrance in Kadara Port to acquire it.
+
+Walkthrough[]
+This is a short no-combat mission and can be completed within a minute or two after talking to Jataa.
+Jataa and her sister Morga are the last two survivors of their family, as the rest were murdered when the kett invaded Kadara. Morga is the foremost specialist in Kadara Port's water filtration systems according to her sister, and her job is dangerous as fixing busted pipes can cause chemical burns. She hasn't checked in with her sister, which is unlike her behavior. 
+Jataa is distraught but unwilling to accept help from outsiders since she has learned everything has a price when talking to exiles. She reconsiders and tells Pathfinder Ryder her situation on seeing they look cleaner than the others.
+In the small alley next to Jataa you can scan two things: A large Water Tank (+10 ) and an Adapted Initiative Core Tech (+100 ).
+
+Scan for signs of Morga[]
+SAM suggests scanning the port's pipes below the grates, which can be seen near the entrance to Kralla's Song. Pull up Ryder's scanner to locate Morga's body underneath the grates. She has been dead at least three days due to severe chemical burns, and nobody above notices or cares.
+Return to Jataa[]
+Inform Jataa of your findings. She is naturally upset, but is grateful for the news. Bad news is preferable to no news, and she'll find a way to survive as she always does in the aftermath.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Kadara viability
+
+
+

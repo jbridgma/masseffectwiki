@@ -1,0 +1,61 @@
+
+
+
+
+
+Phostaan
+
+Region
+Andromeda / Heleus Cluster / Valay
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+1.3 AU
+
+
+Orbital Period
+1.2 Earth Years
+
+
+Keplerian Ratio
+1.526
+
+
+Radius
+6,046 km
+
+
+Atm. Pressure
+0.47 atm
+
+
+Surface Temp
+18 °C 
+
+
+Location: Andromeda / Heleus Cluster / Valay System /  Second planet
+
+
+Description[]
+Phostaan is largely barren, but its atmosphere is theoretically capable of producing rainfall. Powerful localized storms could appear as often as three or four times a year.
+
+Anomaly[]
+River[]
+DATA:
+
+Source: Rainfall
+Composition: Liquid water
+Length: 2285 km
+ANALYSIS:
+A violent and recent rainstorm must have occurred to create this river. The water will be absorbed or evaporated soon.
+Awards +270 XP when scanned.
+
+
+
+

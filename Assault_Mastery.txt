@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+This article is about the passive class power in Mass Effect 2 and Mass Effect 3. For the talent in Mass Effect, see Assault Training.
+
+Assault Mastery is a passive class power for the Vanguard in Mass Effect 2 and Mass Effect 3's single-player mode. 
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Destroyer
+1.1.2 Champion
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Assault Mastery
+2.1.2 Rank 2: Influence & Capacity
+2.1.3 Rank 3: Influence & Damage
+2.1.4 Rank 4: Damage/Influence & Force
+2.1.5 Rank 5: Squad Bonus/Weight Capacity
+2.1.6 Rank 6: Shotgun Damage/Power Intensity
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+
+
+Mass Effect 2[]
+ Be faster, fiercer, and more powerful on the battlefield.
+
+Power Ranks[]
+Rank 1  - Your relentless fighting style increases your weapon damage, reduces power recharge times, and increases your Paragon and Renegade scores.
+Health: +5.00%
+Weapon Damage: +3.00%
+Power Recharge Time: -3.00%
+Paragon/Renegade: +20.00%
+Rank 2 - Your relentless fighting style increases your weapon damage, reduces power recharge times, and increases your Paragon and Renegade scores.
+Health: +10.00%
+Weapon Damage: +6.00%
+Power Recharge Time: -6.00%
+Paragon/Renegade: +40.00%
+Rank 3 - Your relentless fighting style increases your weapon damage, reduces power recharge times, and increases your Paragon and Renegade scores.
+Health: +15.00%
+Weapon Damage: +9.00%
+Power Recharge Time: -9.00%
+Paragon/Renegade: +70.00%
+Rank 4
+Evolves Assault Mastery into one of the following options:
+
+Destroyer[]
+Your weapon inflicts even more damage, and you receive a damage bonus to biotic powers.
+Health: +15.00%
+Weapon Damage: +15.00%
+Power Recharge: -9.00%
+Paragon/Renegade: +70.00%
+Power Damage: +15.00%
+Champion[]
+Your staying power lets you survive marathons of combat. Power-recharging time and Paragon and Renegade scores are improved still further, and you receive a bonus to biotic power duration.
+Health: +20.00%
+Weapon Damage: +9.00%
+Power Recharge: -15.00%
+Paragon/Renegade: +100.00%
+Power Duration: +15.00%
+Player Notes[]
+
+Availability[]
+Vanguard
+Mass Effect 3[]
+
+
+Power Ranks[]
+Rank 1: Assault Mastery[]
+Be an expert tactician on and off the battlefield. 
+Faster and stronger powers.More weapon damage.More dexterity.More charisma.
+
+Reputation Bonus: 4%
+Weapon Damage Bonus: 2.50%
+Power Damage Bonus: 5%
+Weight Capacity Bonus: 15
+
+
+Rank 2: Influence & Capacity[]
+Increase reputation bonus by 4%.Increase weight capacity by 20 points.
+
+Reputation Bonus: 8%
+Weapon Damage Bonus: 2.50%
+Power Damage Bonus: 5%
+Weight Capacity Bonus: 35
+
+
+Rank 3: Influence & Damage[]
+Increase power damage bonus by 5%.Increase weapon damage bonus by 2.50%.Increase reputation bonus by 4%. 
+
+Reputation Bonus: 12%
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 10%
+Weight Capacity Bonus: 35
+
+
+Rank 4: Damage/Influence & Force[]
+
+
+
+Damage
+Increase power damage by 10%.Increase weapon damage by 5%. 
+
+Reputation Bonus: 12%
+Weapon Damage Bonus: 10%
+Power Damage Bonus: 20%
+Weight Capacity Bonus: 35
+
+
+Influence & Force
+Increase force bonus by 30%.Increase reputation bonus by 8%.
+
+Reputation Bonus: 20%
+Weapon Damage Bonus: 5%
+Power Damage Bonus: 10%
+Weight Capacity Bonus: 35
+
+
+
+Rank 5: Squad Bonus/Weight Capacity[]
+
+
+
+Squad Bonus
+Increase squadmate power damage by 15%.Increase squadmate weapon damage by 10%.
+
+
+
+Weight Capacity
+Increase weight capacity  by 35 points.
+
+Reputation Bonus: 12% (Damage), 20% (Influence & Force)
+Weapon Damage Bonus: 10% (Damage), 5% (Influence & Force)
+Power Damage Bonus: 20% (Damage), 10% (Influence & Force)
+Weight Capacity Bonus: 70
+
+
+
+Rank 6: Shotgun Damage/Power Intensity[]
+
+
+
+Shotgun Damage
+Increase shotgun damage by 15%.
+
+
+
+Power Intensity
+Increase power damage bonus by 25% Increase power duration and force by 25%.
+
+Reputation Bonus: 12% (Damage), 20% (Influence & Force)
+Weapon Damage Bonus: 10% (Damage), 5% (Influence & Force)
+Power Damage Bonus: 45% (Damage), 35% (Influence & Force)
+Weight Capacity Bonus: 35 (Squad Bonus), 70 (Weight Capacity)
+
+
+
+Player Notes[]
+The Rank 4 Damage bonus boosts both weapon and power damage and is generally the better choice.  The Force upgrade boosts the knockback effects of Charge, Nova, and Shockwave which is handy if you use those powers more for crowd control than damage, but they perform that function more than adequately against the vast majority of enemies even without picking this evolution.
+Rank 5 presents a dilemma, as a squad-wide boost to both weapons and powers is by no means weak.  However a weight capacity increase of 100% is something can't be obtained in any other way and is usually necessary if you want to carry the heavier shotguns or other weapons without crippling your ability to use Charge whenever you need it. If you don't plan on taking anything heavier than an SMG or pistol, then the Squad Bonus becomes much more appealing.  On higher difficulties however, it becomes increasingly difficult for Shepard to take out the toughest enemy types with only light weapons and powers.
+The Rank 5 Squad Bonus evolution applies only to NPC squad members and not to Shepard. There is possibility for confusion, as the similarly named "Squad Bonus" evolutions of squadmates' class powers apply to the entire party including Shepard and also the owner of the power.
+Rank 6 is dependent on what your core strategy is.  If you rely on Charge and Nova as your main sources of damage, then Power Intensity is the clear choice.  If you rely on a shotgun as your primary damage, then a 15% bonus is a dramatic improvement.  In general, especially on higher difficulties, taking out hard targets such as Brutes and Banshees with Charge isn't very practical (or safe), and shotgun damage is therefore the better choice, especially since weapons like the Venom are some of the best guns in the game for taking such targets out.  In addition, on higher difficulties power combos deal increasing damage, so as long as you're adept at setting up and detonating biotic explosions and other types of combos with your powers the raw damage and force of Charge and Nova is less important (note that combo damage is not increased by power evolutions unless specifically stated).  Finally, remember to consider what your Rank 5 evolution of Charge is as well so you're synergizing your weapon and power bonuses efficiently.
+Availability[]
+Single-player: Vanguard
+Multiplayer: N/A
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

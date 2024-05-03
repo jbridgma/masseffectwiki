@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+This article is about the playable class in Mass Effect 3 Multiplayer. For the weapon in Mass Effect: Andromeda, see Shadow.
+
+
+
+N7 Shadow Infiltrator
+
+
+
+
+
+
+Class
+Infiltrator
+
+
+Race
+Human
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Earth
+
+
+Abilities
+AcrobaticsMartial ArtsIncreased MobilityMonomolecular Blades
+
+
+These soldiers are the go-anywhere, fight-anything special forces of the Alliance that were trained at the Interplanetary Combatives Academy in Rio de Janeiro, Brazil. They had to survive combat situations "in an admirable and effective fashion" to receive the N7 rank. Many N7s now train other species in anti-Reaper asymmetric warfare.
+Shadow infiltrators use implants to dramatically improve agility, making them slippery combatants on the battlefield. Their monomolecular blades are a menace from cover and close range.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 500
+
+
+Class: N7 Shadow
+
+
+ Tactical Cloak
+
+
+
+
+ Shadow Strike
+
+
+
+
+ Electric Slash
+
+
+
+
+ Sword Mastery
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Monomolecular Blades
+Melee Sequence: The N7 Shadow executes a series of slashes with her sword. This combo hits three times but only requires two button presses to execute.
+Heavy Melee (Monomolecular Blades) – The N7 Shadow Infiltrator slashes at an enemy with her sword, resulting in a decapitation if the attack is fatal.
+Grab (Omni-Blade Stab) – The N7 Shadow Infiltrator drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Acrobatics) – The N7 Shadow Infiltrator flips to evade incoming attacks and cross obstacles.
+The N7 Shadow Infiltrator can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Primarily, a Shadow's specialty is to quickly eliminate dangerous or hard to reach enemies while the rest of the team deals with the main force. Key targets include Geth Rocket Troopers, Nemeses, Phantoms, Ravagers and Turrets.
+When using Shadow Strike, you will cloak and move behind the opponent, even if they are at range. This essentially turns Shadow Strike into an Infiltrator's version of Charge, allowing unsurpassed mobility around the battlefield.
+Shadow Strike can also be evolved to provide either damage reduction or shield drain effects.
+Unlike Charge, however, Shadow Strike provides virtually no invulnerability to the user, the Shadow relying primarily on stealth and surprise to avoid damage.
+Because the N7 Shadow Infiltrator can cloak and the player can select targets while shielded from enemy sight, it's possible to Shadow Strike an enemy and return to cover before the target (if still standing) is even aware of the player.
+Shadow Strike is a melee attack but also a power, and as such it can benefit from Tactical Cloak's damage bonuses and dual power use evolutions at Rank 6.
+The Rank 6 Shield Drain evolution of Shadow Strike will make the N7 Shadow significantly more durable in combat. It functions in a similar manner to Energy Drain: when performing Shadow Strike on a shielded opponent, you will absorb their shields, restoring your own. Unlike Energy Drain, it will not restore shields when used on unshielded synthetics such as geth.
+The Shadow ranks a conditional 3rd in heavy melee damage potential, behind the batarian classes. While the Shadow's sword strikes are slower than the N7 Slayer Vanguard's, they can potentially be more damaging depending on how Sword Mastery is built and what enemies are being engaged. If Sword Mastery is built for extra Armour/Shield damage, the Shadow will do more melee damage to respectively protected enemies than the N7 Slayer. Adding Tactical Cloak bonuses further improves this advantage.
+With Sword Mastery maxed out in favor of heavy melee damage, and Shadow Strike maxed out in favor of damage, it is possible to kill many enemy types in one hit if used with Tactical Cloak. This is true even without the Rank 4 Tactical Damage evolution. Even Phantoms can be instantly killed in this manner. This makes duration a much more appealing option at Rank 4, since the Shadow is far better at close range than any other Infiltrator class.
+The Shadow's heavy melee doesn't take much longer to execute than its regular light melee, so in most cases regular melees aren't as useful.
+Both the Shadow's heavy and light melee sword swings can hit multiple enemies clustered together, and like almost all melee attacks they can stagger most light infantry enemies.
+The Bonus Power evolution of Tactical Cloak is extremely useful for the Shadow, as it allows two Shadow Strikes to be performed before uncloaking. This allows the cloaked Shadow to dance around the battlefield, taking out two enemies with each use of cloak. Alternatively, she can cloak, take out a target with Shadow Strike, then return to safety while still cloaked. This gives her some great mobility options for getting out of tough situations.
+The Shadow performs best when geared around melee damage and power use. For these reasons, a light loadout is recommended. With the massive damage of their melee attacks, the sheer lethality of Shadow Strike, and the decent crowd control from Electric Slash, she is well-suited to complete a match without firing a single shot.
+If the Rank 5 Electrical Damage evolution of Shadow Strike is taken, players can detonate it with Electric Slash to create a Tech Burst single-handedly. This is useful when engaging large enemies who will still be alive a Shadow Strike. Execute Strike, quickly dodge behind cover, then activate Slash. The brief vulnerable period is largely irrelevant since Electric Slash can hit enemies behind solid objects.
+As always, caution should be exercised when engaging Banshees, Brutes, Atlases, Phantoms, Scions, and Praetorians at close range, in order to avoid their insta-kill moves.
+The Rank 4 Damage reduction evolution of Shadow Strike can greatly increase your survivability after uncloaking, allowing you to shrug off 40% of all damage for five seconds after performing Shadow Strike. This lets you survive in heated combat until cloak is off cooldown.
+As with Kasumi's power in Mass Effect 2, Shadow Strike can be a useful distraction. Using it on a powerful enemy will get its attention, causing it to turn around and redirect its fire from the player's teammates. A nimble player can dodge any retaliatory strike and escape into cloak, though this is a risky maneuver. Enemy attacks that can stagger you are an extreme threat as they can prevent you from making your escape.
+While shotguns combine well with Shadow Strike for a close quarters specialized character, equipping a lightweight sniper rifle is also an excellent choice. The resulting character is strong at all ranges, with melee attacks and Shadow Strike (with a short cooldown) covering short-range combat, and the rifle covering long range. A sniper rifle's scope also allows the player to lock onto enemies for Shadow Strike from farther away.
+For a completely Shadow Strike-oriented Shadow, a heavy pistol is an excellent choice to retain a cooldown reduction of 200%. With this playstyle, you are unlikely to fire your weapon, so damage is irrelevant. What is important, however, are the melee damage and scope mods. This gives you even more damage output and a longer range for Shadow Strike at little to no cost to your power recharge times. The Power Magnifier mod is also a great option to increase the damage of both Shadow Strike and Electric Slash. Alternatively, you could equip a light shotgun such as the M-11 Wraith or the Disciple with an omni-blade attachment for a close quarters edge, though this will likely cause you to have less than a 150% cooldown bonus.
+The Armor Damage evolution of Sword Mastery is an excellent choice, as it allows the Shadow to mitigate what is otherwise a weakness: dealing with heavily armored targets. Both shields and barriers are devastated by Electric Slash and Shadow Strike but armour remains stubborn without this evolution or using powerful, but heavy, weapons.
+The Shadow is capable of using Shadow Strike twice, at 200% CDR, if the Bonus Power evolution of Cloak is taken, but the window of time available requires extreme precision and an instant jump to a second target. The Rank 4 Duration evolution of Tactical Cloak is an ideal choice, increasing the window of time available for double Shadow Strike, giving you time to choose your second target or escape if you must. The extra cloak time also makes a Shadow Strike followed by Electric Slash possible, for highly damaging Tech Bursts.
+It's possible to replace Tactical Cloaks' cooldown timer with Electric Slash by cancelling Tactical Cloak manually right before using Electric Slash itself. This essentially swaps the two powers' respective cooldown timers, as Electric Slash is done last. Due to Electric Slash' extremely low cooldown, this is extremely useful as it allows the Shadow to get Tactical Cloak back up extremely fast, or even allow a player to simply reset it if the duration is running low. This can also make it so rapid use of Electric Slash, or the Shadow Strike to Electric Slash combo as noted above, can always be done in stealth or minimize exposure respectively.
+An Avenger X goes extremely well with the N7 Shadow if your better weapons are still at level 1 or if you've yet to unlock better weapons and mods. Without any ranks in the "N7 Shadow" class, your power recharge rate will be 180%, with Rank 1 increasing that to 190% and Rank 4 increasing it 200%. The Avenger X has better accuracy and stability than even the Locust SMG (which has high accuracy for an SMG) while retaining solid firepower. It will also be lighter than most SMG's without the Ultralight Materials mod.
+Cerberus[]
+Shadow Strike is usually effective against Guardians—since the Shadow appears behind the target, the Guardian's shield is useless. However, sometimes the Guardian will be aware of the Shadow, and will turn to interpose his shield in time.
+Properly specialized, a double Shadow Strike from cloak (bonus power allows two to be used before cloak is removed) with melee damage bonuses will kill a phantom full health and barriers even on gold.
+Even without the highest-damage Shadow Strike specialization, Shadow Strike is extremely effective at killing Phantoms. With the electrical damage evolution, the Phantom will continue to take damage over time, allowing her to still be targeted when she cloaks, and Shadow Strike has essentially perfect accuracy, allowing it to connect even if the Phantom is running or dodging. Make sure to dodge away after performing Shadow Strike, though, as the Phantom will perform a retaliatory strike even if the player is cloaked.
+It is very important to ensure that the Phantom is not aware of the Shadow when executing Shadow Strike or the Phantom will immediately counterattack, leaving the Shadow highly vulnerable and in critical condition. If the Phantom is aware of the Shadow prior to performing Shadow Strike, the Phantom may, on occasion, interrupt the Shadow Strike with her instant-kill attack, killing the Shadow before the blow even lands.
+Collectors[]
+Using Shadow Strike on an Abomination (and thus killing it) will cause it to immediately explode, inflicting a lot of damage. For this reason, using Shadow Strike on Abominations is not recommended, especially if it is Possessed. However, if you decapitate an Abomination, it will not explode, so having sufficient melee damage to do so reliably makes this not a concern.
+Shadow Strike is more effective against Collector Troopers and Collector Captains. If you evolve Shadow Strike and the Sword Mastery classes to do max damage, you can get rid of these enemies in one strike. If they are Possessed, you'll still do plenty of damage.
+Electric Slash can be used to get rid of Seeker Swarms or Seeker Plagues without getting close.
+Because Scions are very slow to react, Shadow Strike can be very useful on them, especially when evolved to do max damage to armor.
+Geth[]
+With geth, using Shadow Strike on enemies might not seem as risky as it is with the other factions since no geth enemy type can instantly kill you. However, since all geth possess some ability to stagger a player, getting caught in the middle of a crossfire after using Shadow Strike can be a grave mistake.
+Reapers[]
+When using Shadow Strike on a Ravager, be sure that you will kill it and be ready to dodge backwards as soon as you are able, otherwise you are going to be assaulted by Swarmers or be quickly damaged by the acidic blood, something you cannot afford. It is recommended to wait until the Ravager is preoccupied with shooting before using Shadow Strike or it will rupture its sacs and cause massive damage. Alternatively, one could deliberately shoot all of the Ravager's sacs before performing a Shadow Strike.
+Brutes are an excellent way to test your capability to Shadow Strike. Always wait for a Brute to charge before you initiate your combo and Shadow Strike just before it reaches you. That way, you will teleport behind the beast and strike from behind where Brutes take maximum damage.
+Shadow Strike may be safely used against Banshees if they are in the early stages of a teleport chain and they are chasing another player. Shadow Strike will often position the Shadow a few jumps before the current location of the Banshee to slash at nothing. Despite the apparent miss, the Banshee will still take full damage.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

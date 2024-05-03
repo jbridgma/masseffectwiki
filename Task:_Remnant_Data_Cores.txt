@@ -1,0 +1,87 @@
+
+
+
+Peebee calls these items "Remnant data cores". She believes they are data storage devices. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Remnant Data Cores Found (0/9)
+
+
+3 Rewards
+4 Puzzle Solution
+
+
+Acquisition[]
+This mission is started when the Pathfinder retrieves their first data core during the mission A Better Beginning.
+
+Walkthrough[]
+Warning:  It is possible for this task to remain incomplete if you fail to collect enough data cores from the "secret puzzle areas" in the vaults. vaults will become inaccessible once the purification console is activated.
+There are a total of 11 data cores but only 9 are required to complete the task.
+
+Remnant Data Cores Found (0/9)[]
+The data core locations:
+
+Eos
+1. Eos Vault (automatically acquired) - See A Better Beginning.
+2. Eos Architect - See Making An Impression - Only possible after giving the radiation time to clear to safer levels in order to access the area.
+
+Voeld
+3. Voeld Vault - See Restoring a World.
+4. Voeld Architect - Defeat the Architect during the Missing Science Crew mission. Note: Requires setting up an outpost  first during Settling Voeld.
+5. Voeld - See Subjugation.
+
+Kadara
+6. Kadara Vault - See Healing Kadara's Heart.
+7. Kadara Architect - Defeat the Architect during Old Skinner.
+
+Elaaden
+8. Elaaden Vault - See Taming a Desert.
+9. Elaaden Architect - Defeat the Architect during Architect on Elaaden. Note: Requires setting up an outpost  first during Settling Elaaden.
+10. Elaaden - Unmarked Remnant Vault located in Paradise Sands.
+The unmarked vault has a number of items that can be collected besides the data core. Head to the unmarked Remnant ruins located directly west of the Southern Monolithon the eastern edge of the huge sinkhole.
+
+Open the door to the vault and take the gravity well down into the vault.
+In the first room (Entry Room) is an elevated platform to the south with a lootable container atop it, and to the north is a door guarded by two Assemblers. Defeat them before opening the door.
+As Ryder enters the second room (Crossroads Room), up ahead will be several Nullifiers and two hostile Remnant Turrets. If Ryder wants to hack the turrets to fight for the team, run forward and interact with one of two Remnant consoles hidden behind cover. Either way, defeat the enemies.
+The second room has doorways to the Northern Room, the Western Room, and the Eastern Room. Ryder will be going back and forth to several of these areas.
+Head to the Western Room door and open the door. Turn around and go to the Eastern Room door and open the door.
+Enter the Eastern Room and activate the Remnant console to send a beam of light into the Western Room. Ryder can turn around to see a Destroyer activate in the Western Room but the Destroyer will not leave the Western Room.
+In the square pit in the Eastern Room, Ryder can look down and there is an Adaptive Remnant Core Device that can be scanned (without going down into the pit) for +100 .
+Ryder can also find a second Adaptive Remnant Core Device in the Eastern Room on the wall that can be scanned for an additional +100 .
+There are two glyphs that can be scanned in the Eastern Room to open a puzzle box. The Nihility Glyph is on the wall of the room and the Hydrodynamic Glyph is found on the doorway edge into the Eastern Room. Scan both.
+There is a puzzle locked container containing random loot in the Eastern Room that requires two scanned glyphs before the container can be opened. Solve the puzzle (needed for the Cryptographer Achievement). For the puzzle solution, see here.
+There is a platform on the Eastern Room wall that Ryder can jump up to and then jump from that platform to a higher platform that has a lootable container.
+Head back into the Crossroads Room towards to Western Room with the Destroyer. Stay far back and Ryder can kill the Destroyer with ease. The Destroyer will not leave the Western Room or even shoot at Ryder
+Head into the Western Room.
+There is a lootable container on the ground in the Western Room.
+Jump down into the pit and to find the Remnant Data Core. Collect the data core and then jump back out of the pit.
+Head to the Northern Room.
+When Ryder enters the Northern Room, there will be a pillar sticking out of the pit and three Remnant Consoles that can be interacted with. With the door to Ryder's back, there is a left console, a middle console, and a right console.
+Ryder has to interact with the consoles in the correct order so that additional pillars are raised to the correct heights to access platforms high up in the Northern Room.
+Use the right console and this makes the central column even with the floor.
+Use the left console and three columns come up from the floor to the needed heights.
+Jump up to the short column, then jump up to the medium column, then jump up to the tall column, then face to the north where a platform is located higher up, and then finally jump up to the platform with a Remnant console. Interacting with this console will spawn 6 Assemblers in the hallway to the Eastern room.
+Face to the east and Ryder will see another platform. Jump up to the platform.
+Face to the west and there is another platform at the same height a distance away. Jump over to the platform and there is a lootable container on the platform. Jump down once the container is looted.
+The door to the Northern Room has closed, and if the higher up console in the Northern Room was used then 6 Assemblers will be waiting in the hallway to the Eastern Room. Open the doorway to the Crossroads Room and then head towards the Eastern Room to defeat the Assemblers.
+Once the enemies are defeated, Ryder can return to the Entry Room and take the Gravity Well out of the unnamed vault.
+Meridian
+11. Meridian - See The Journey to Meridian.
+
+Rewards[]
++1330 XP
+Puzzle Solution[]
+Main article: Remnant Decryption Puzzle Guide
+
+
+
+
+
+Puzzle ContainerReward: Valuable Loot
+
+
+
+

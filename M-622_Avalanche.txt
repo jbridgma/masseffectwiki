@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+M-622 Avalanche
+
+General Stats
+
+Type
+Heavy Weapon
+
+
+Location
+Normandy SR-2
+
+
+Accuracy
+High
+
+
+Recoil
+Low
+
+
+Fire Mode
+Semi-Automatic
+
+
+Fire Rate
+300 RPM
+
+
+Reload Time
+N/A
+
+
+Ammo Per Clip
+N/A
+
+
+
+Damage & Bonus Multipliers
+
+Base
+50
+
+
+Armor
+×8.0
+
+
+Shields
+×8.0
+
+
+Barrier
+×8.0
+
+
+
+Spare Ammo Capacity
+
+Default
+20
+
+
+Armor Pack
+22
+
+
+Upgraded
+23 - 38
+
+
+Both
+25 - 40
+
+
+Pickup Amount (Min - Max)
+10
+
+
+
+The M-622 Avalanche is a heavy weapon in Mass Effect 2.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 Trivia
+5 See Also
+
+
+Description[]
+Cryo Round technology is used to modify standard weapon slugs. A cooling laser collapses the ammunition into Bose-Einstein condensate, a mass of super-cooled subatomic particles capable of snap-freezing impacted objects.
+Normandy's scientists have found a way to apply this technology on a large scale: by generating a mass effect containment "bubble," this proof-of-concept large weapon technology is effective against armor, shields, and biotic barriers. It is nicknamed the "Cryo-Blaster."
+
+Acquisition[]
+Unlocked at the Normandy research station after two Heavy Weapon Ammo upgrades have been researched. Costs 15,000 iridium.
+Player Notes[]
+Mechanics
+Repeated hits will strip off shields, barriers, and armor. Once unprotected, most enemies, even heavy enemies like YMIR Mechs and Geth Primes, can be frozen.
+Freeze Effects: Cryo Blast and Cryo Ammo can also freeze enemies. The freezing effect in Mass Effect 2 has several universal properties and mechanics; for a full list, see the notes section of the Cryo Blast page. The rest of the notes on this page cover only features of the Avalanche that are unique to it.
+The freeze effect of the Avalanche is uniquely long, lasting about 30 seconds, making it the longest full disabling effect in the game by a large margin. This duration appears unaffected by any upgrades or research.
+The Avalanche can hold twice as many rounds as the M-100 Grenade Launcher and has a faster rate of fire, allowing many rounds to be fired in quick succession. Once its multipliers against barriers, shields, and armor are taken into account, its damage per shot is also comparable especially on higher difficulties where most opponents have protection on top of health.
+Shots from the Avalanche will briefly stagger most enemies that can be staggered, even if they still have protection such as shields or armor.
+The Avalanche produces a large blast radius of 5 meters, making it easy to hit enemies without direct line of sight.
+The Avalanche fires projectiles that arc slightly with gravity so aiming can take a bit of practice, but this actually can be advantageous against opponents on different elevations or behind cover.
+The Avalanche can be fired rapidly or charged up, although a charged blast is no different from a non-charged blast. It isn't possible to "hold" a charging shot and activate Tactical Cloak as an Infiltrator either, the shot will be fired immediately upon cloaking.
+The Avalanche does not cause any type of friendly fire to Shepard or Shepard's team regardless of difficulty setting, allowing it to be fired at point-blank range safely.
+The projectile fired by the Avalanche can sometimes ricochet off of squad members.
+Strategies
+The Avalanche is particularly effective in many harder fights on the higher difficulty levels as it can take entire groups of enemies out of the fight for an extended period of time. In many difficult fights new enemies will immediately respawn to replace any that were killed. Freezing enemies instead of killing them outright prevents this and reduces incoming fire, letting you focus on a hard target or reach an objective safely.
+The weapon's relatively weak damage to red health bars means that using it to kill opponents outright is not ammo-efficient. The exception is against Husks, who will instantly shatter upon freezing, making the Avalanche easily the best Husk-killing weapon in the game.
+Freezing opponents can cause them to drop out of sight behind cover rendering them difficult to hit.
+Trivia[]
+Although holding the fire button charges up the weapon, it does not have any effect on the weapon. This could possibly have been an early feature that was removed.
+The Avalanche, like many other Heavy Weapons from Mass Effect 2, was originally intended to appear in Mass Effect 3, as a screenshot shows Shepard using it on an Atlas during the Sur'Kesh mission, but it was cut late into development. The heavy weapons that were cut still remain in the game's coding.
+See Also[]
+Upgrade Guide
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+

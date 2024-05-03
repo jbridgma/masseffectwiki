@@ -1,0 +1,198 @@
+
+
+
+The following are transcriptions of the artists' comments for the design gallery "The Environments of Mass Effect: Feros" found on the bonus content disc of Mass Effect released in 2007.
+
+Contents
+
+1 Image 1
+2 Image 2
+3 Image 3
+4 Image 4
+5 Image 5
+6 Image 6
+7 Image 7
+8 Image 8
+9 Image 9
+10 Image 10
+11 Image 11
+12 Image 12
+13 Image 13
+14 Image 14
+15 Image 15
+16 Image 16
+17 Image 17
+18 Image 18
+19 Image 19
+20 Image 20
+21 Image 21
+22 Image 22
+23 Image 23
+24 Image 24
+25 Image 25
+26 Image 26
+27 Image 27
+
+
+Image 1[]
+
+Derek Watts: So when we were concepting up this planet, it was called "war world" at this time; "world at war", completely demolished... War that had raged here for hundreds of years; not much left of the structures. We were thinking of large towers. We didn't want to do ground at this point; we wanted to have all the fighting done up on the floors of the buildings, maybe connected by some kind of trains or highway system. So this is the concept done up. The guy is just standing here on one of these blown-out floors. There's not much left in here, everything has been burnt away. It's mostly concrete and steel, that's the only thing that has survived this long. There would be all these firefights between the towers, and you would have to work your way across to those different areas.
+
+
+Image 2[]
+
+Derek Watts: This is another concept done up with that. Again the towers; bottomless pit below. These things are 4- or 5- or 600 stories high. Maybe some of the walls have fallen over to the next structure, that's how they get across. Just this endless war going on in here, like Stalingrad but very vertical.
+
+
+Image 3[]
+
+Derek Watts: After we do the production painting, we'll do some quick drawings of how to build a block level. We'll spend a few days on a block level; talk to the designers, make some changes, then spend another week just detailing up that block level a bit more. Then we'll do a big phase 3, we call it. We'll texture it up, do some rough lighting... Then phase 4 is the final phase where we just put all the polish in. We get the detail meshes in, we do final character lighting, make sure all the textures are correct, just keep polishing as much as we can. This is an area done up for the vehicle level where you're driving around on the highways, and then you go into the inside of the buildings. It was going to be like subway stations. You would drive in, there would be staircases going around, you'd be driving in on the loading platforms for those.
+
+
+Image 4[]
+
+Derek Watts: This is a SketchUp version with a bit of the production painting in the background of what the towers would look like. We weren't too sure what the actual structures were going to look like, so we got a concept artist to give us a rough idea; how some of the large beams would look, maybe how some of the floors would kind of fit in... That structure in the middle, you can kind of see that hole; that's where the hangar was going to be. The Normandy flew into this. It had some shielding that had been put up by the colonists there, the mercenaries, whoever was in these bases at the time. So they would build these structures, they'd probably get demolished. They'd have to keep rebuilding them all the time.
+
+
+Image 5[]
+
+Derek Watts: This is the camp that was done on Feros when you're coming in the level and then you go to the main camp after the hangar. This is an early concept done up for that. At this time, we were thinking the designers wanted another building where the geth would always snipe at them. So you'd have to go up these platforms, shoot the sniper and carry on through the level. That got modified a bit, but that's what those shields were for. At this stage, we were thinking of having a large freighter with a cockpit, and it was stationary there. It would power the whole area of this hub, this camp, so there would be cables going up into the cockpit. You can kind of see where that turquoise light is, that's where the cables actually went up into the cockpit of this freighter that would power it. We ended up modifying that a bit and just using some of the sections from the freighter modules that we used on some of the uncharted worlds.
+
+
+Image 6[]
+
+Derek Watts: This is another view of that trench. You can see the freighter there and then across that bridge was going to be where all the geth were actually shooting at you and you'd have to get across that bridge, maybe take your rover through there... And you can see how all the floors crumble away beneath you. It would be a large crane that was going to lift up that section of the freighter so you could actually go down and find the Thorian. So this is kind of like the last hold for the humans that were in this base.
+
+
+Image 7[]
+
+Derek Watts: This is a SketchUp version of how the floors worked in here. This would be how each level of the buildings would look, trying to figure out how the staircases would fit in. We wanted to use the same staircase throughout the game so it's one instance of that piece, keep it cheap. You can see some of the other elements that were used in this model. Maybe how some of the curved sections were, how the floor was done, some ideas for the beams. Then the level artist would look at this and figure out what to try and build, what components he could build the whole level with, and so on.
+
+
+Image 8[]
+
+Derek Watts: This is a concept done up of the hangar. You would fly in through that hole in the top left, go underneath all these tarps, pull up and this platform would connect up to the ship. This was going to be a lot of work, so we ended up actually reusing one of the hangars. We ended up using the same hangar I think from "ice", used it in Feros here--"ice" being Noveria--then used it in Feros, so it would just save us time. We just damaged it a bit and it was good enough to use.
+
+
+Image 9[]
+
+Derek Watts: This was some early concepts done up for the Thorian lair; when you get in there and you see the Thorian and you had to work your way up and around. This is some SketchUp models done up of what that interior would look like, the way the beams would look. Maybe those are some of the structures that the Thorian would attach onto. So, again, these are done early on, and the level artist would see what he could build and how we would have to modify it to make it work with gameplay.
+
+
+Image 10[]
+
+Derek Watts: This is a painting done up with the Thorian in there. So you can actually see him just hanging in there, glowing turquoise. Some of the rubble around... Just giving us an idea of what we were trying to tackle with this area, and what we have in store for us. It was a lot of work. I mean, "war world" was tough. It was not an easy area to build by any means.
+
+
+Image 11[]
+
+Derek Watts: Again, this is some concepts maybe exploring how some of the doorways looked. We ended up simplifying a lot of this; putting less rubble, more just kind of doing it with a texture... Just kind of a dirty floor, just some cables... Some fires around it to kind of guide you through these areas. If you got lost or couldn't find the door, we would always put a fire or some kind of a light maybe in the ceiling, punch a hole through the wall, just bring it in. Some light to help out the artist. It's hard to light some of these areas so the more kind of natural light you can bring in or artificial light just to make it easier so you can actually see the source can really help out.
+
+
+Image 12[]
+
+Derek Watts: So we did a few versions of "war world" in SketchUp. Eventually what we did was we gave this to an artist, he built this little area of the level, he textured it up, lit it, and we decided to go with this kind of look for the whole area. You can see some of the textures that are in the final game, some of the punched out walls... At this point, we were actually going to go with this kind of mustard lighting, which we modified a bit to be more blue because it worked better with the orange fires, but this actually helped us out quite a bit.
+
+
+Image 13[]
+
+Derek Watts: Again this is another section of the building that he detailed up, showing some of the floors, some of the structures... We were going to take those and take them throughout the whole level.
+
+
+Image 14[]
+
+Derek Watts: This is a rough version of where the Thorian is. He's that guy in the middle. He's just placed in by the level artist now, just a quick block. And this shows how the level was going to work, how you worked your way up around. This would help us out to where the arms actually attached. The designers were happy with this place because we'd actually have to build everything around those arms. We didn't want to have to move them that much because it was going to be a pain.
+
+
+Image 15[]
+
+Derek Watts: This is an early block model done up of the vehicle level. You can actually see that I had a concept done up of the area where the vehicle drove in; almost like the loading area for a subway. That's in the center there, you can actually see some of those sections, and then some of the walkways up on the right with some of the staircases, and then the bridges were off on the right going off to the next skyscraper. That kind of area in the bottom is where the water was going to be; that's actually in the final game.
+
+
+Image 16[]
+
+Derek Watts: This is fairly early on. When you get out of the hangar, you go up to the mercenary camp. You can actually see the checkered area of some of the freighter sections that we placed in there. We didn't use the actual freighter model that we were originally going to use. And then we ended up... You see how we had a lot of the top of the area kind of covered up, we ended up pushing that back so we were bringing more of the sky in this area. It was going to be a lot of platforms above rubble ground and really going to be a lot of work, so we ended up having to modify this quite a bit.
+
+
+Image 17[]
+
+Derek Watts: This is just an outside view of that area. You can actually see between some of those beams. Those are some of the curved structures that were supposed to protect you from the snipers. We removed some of those, well, just modified them a bit, we actually didn't remove them; modified some of the beams, moved back some of the ceiling and so on.
+
+
+Image 18[]
+
+Derek Watts: This is another quick view in Max. This is the level artist building it. He's starting to detail up areas, figuring out how streaming load works. A lot of issues to consider. This is the vehicle level; you can see to the bottom right, that's the tunnels you come in on. And then as you drive around, you're coming up to the middle left; it's one of the hallways you'll drive the vehicle up.
+
+
+Image 19[]
+
+Derek Watts: This is a model of what we were going to make a detail mesh we went through in the early phase 3. So fairly early on, we would just build these quick block models. This is one of the support beams in the under part of the bridge. We ended up using it in the beginning of Feros also. At this point, this is just a quick Max model, and then we were going to make this a detail mesh. So we'd get its own material, its own normal map... So this is just a version of what these things would look like that we would call "detail mesh." Other people call them "hero pieces." So this is just a rough outlay of what that is.
+
+
+Image 20[]
+
+Derek Watts: This is some textures we did up for the road, some of the cracked pavement, because we actually didn't want to try and build all these small pieces of rubble. So this is just a textured version of that. There's probably one texture with a couple of other textures over top of it. Those are kind of put on as a mass, overlaid on top of it, just to kind of break up the actual texture itself. So instead of taking one large concrete texture, then you take this other texture, lay it on top to put these blast marks or damaged floors. That way you have more control over where you put them, it breaks up the tiling of the texture.
+
+
+Image 21[]
+
+Derek Watts: This is a view of the vehicle level. You can see the bridge kind of moving up. We needed a way to actually get height up because the one level was quite a bit higher than the next. We couldn't have a flat bridge, we needed to get up a few stories. So what we decided to do was have the bridge look like it would collapse down onto the lower one. You would drive your vehicle up on this, then you'd look out over the clouds, you'd see all these skyscrapers on fire. So it was going to be a pretty cool area. We were still keeping that kind of mustard color, almost like a sunset feeling to this area, which we modified later.
+
+
+Image 22[]
+
+Derek Watts: This is a close up of one of the areas. When you get near the end of Feros, you'll see the geth transport stuck on the outside of the building. This is the ship that powers the force fields, which you have to knock down.
+
+
+Image 23[]
+
+Derek Watts: This is a view of the towers. The level artist kind of placed a few around, put some fires in there just to kind of get a feel for what the look was going to be like. This is parts of the detail mesh. The guy would build these buildings separately, give them to the level artist, and we would modify them and make them work in the area.
+
+
+Image 24[]
+
+Derek Watts: This is one of the rooms that you would walk through. We have some broken up computers, just a concrete floor. We ended up having to flatten that floor out a bit, because you would fall through, I don't know how much. You get to this area where there's a krogan talking, and then we have some dust effects coming through the ceiling, like rubble falling in above you and so on.
+
+
+Image 25[]
+
+Derek Watts: So one thing we did part way through this is we decided to just change the lighting a bit; trying to add some more blues, get some more fires in there, add some oranges... So what we did was just did some quick paint-overs in Photoshop, actually took the block level, painted these up. These only took about half an hour. This time we were thinking of using some lighting, those two beams are on the far left and in the center, some kind of lighting that we could place around the level and then have fires in the background. We ended up not using the lights, but we ended up using the fires.
+
+
+Image 26[]
+
+Derek Watts: This is the actual level in the game. Some of the elements we talked about, the blue lighting, have the fires to light up some of the dark areas, punched some holes in the ceiling to even get some light beams, and this is probably pretty well the final look for the game. The floor is all flat, just one texture and then some rubble piles, so it's easy to run around in the area, you don't get stuck on a lot of stuff. And then the geth claw is that structure in the middle that holds the ship on it; we have to knock it off to get the force field down.
+
+
+Image 27[]
+
+Derek Watts: This is a look down one of the hallways. One thing we added on this one that helped out more was we added this tinfoil texture on here. This area was actually built as a component which we reused in multiple areas. We actually took some of the walls out that we had earlier in the level, added these sections in; they almost look like open areas of the game where you could look over the side and it would drop down a few stories and go up a few stories just to help open up the area. Because before, you really felt like you were running around through these closed areas, like just hallways. Now it feels like it's more open to air, it feels like it's a grander look; you can see around, see things, you get skylights to the ceiling and through the sky and so on.
+
+
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

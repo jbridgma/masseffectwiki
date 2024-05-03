@@ -1,0 +1,1150 @@
+
+
+
+Initiative Armor is a four-piece set of armor in Mass Effect: Andromeda.
+
+
+
+      
+
+      
+
+      
+
+
+InitiativeArmor Set
+
+ReconArmor Set
+
+SpearpointArmor Set
+
+Contents
+
+1 Description
+2 Types
+3 Arms / Helmets
+
+3.1 Stats
+3.2 Development
+
+
+4 Chests
+
+4.1 Stats
+4.2 Development
+
+
+5 Legs
+
+5.1 Stats
+5.2 Development
+
+
+6 Player Notes
+
+6.1 Features
+6.2 Strategies
+
+
+7 Trivia
+
+
+Description[]
+Standard-issue Andromeda Initiative hardsuits are designed for exploration as much as combat, combining jump-jets, high-grade external and internal sensors, and a variety of atmospheric filters with the usual kinetic barrier generators and ceramic armor plating. Personnel equipped in these suits can enter and leave alien biomes without fear of contamination-or hostile wildlife.
+
+At Ranks III & IV, the existing description changes to remove the last sentence and replaces it with the following text: "Upgraded hardsuits record vast amounts of environmental data and have increased damage absorption capacity."
+At Ranks V - X, the existing description changes to remove the last sentence and replaces it with the following text: "This particular suit has been customized according to specific hazard data gathered from the Heleus Cluster."
+Types[]
+Ranks I - X are named Initiative when the four armor pieces are crafted.
+When the four armor pieces are found in-game:
+
+Ranks I-II are named Initiative.
+Ranks III-IV are named Initiative Recon.
+Ranks V-X are named Initiative Spearpoint.
+Note:  There are no differences between the found versions compared to the crafted versions (other than visual).
+
+Arms / Helmets[]
+
+
+
+
+Initiative Arms
+
+
+
+
+
+							Initiative
+							
+						
+
+
+
+							Recon
+							
+						
+
+
+
+							Spearpoint
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Bonuses
+Max Shields
+
+
+Category
+Arms
+
+
+Rarity
+Common
+
+
+Tech Type
+
+
+
+Fusion Mod
+0
+
+
+
+
+
+
+
+
+
+Initiative Helmet
+
+
+
+
+
+							Initiative
+							
+						
+
+
+
+							Recon
+							
+						
+
+
+
+							Spearpoint
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Bonuses
+Max Shields
+
+
+Category
+Helmets
+
+
+Rarity
+Common
+
+
+Tech Type
+
+
+
+Fusion Mod
+0
+
+
+
+
+
+
+Stats[]
+
+
+Rank
+
+Max Shields
+
+
+I
+
+N/A
+
+
+II
+
++2%
+
+
+III
+
++4%
+
+
+IV
+
++5%
+
+
+V
+
++7%
+
+
+VI
+
++8%
+
+
+VII
+
++9%
+
+
+VIII
+
++10%
+
+
+IX
+
++11%
+
+
+X
+
++12%
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Beryllium
+
+ Fluorite
+
+ Titanium
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+10
+
+50
+
+20
+
+10
+
+2
+
+
+II
+
+Level 6
+
+10
+
+60
+
+30
+
+10
+
+2
+
+
+III
+
+Level 11
+
+10
+
+65
+
+30
+
+10
+
+2
+
+
+IV
+
+Level 21
+
+20
+
+70
+
+30
+
+10
+
+2
+
+
+V
+
+Level 31
+
+20
+
+80
+
+40
+
+10
+
+2
+
+
+VI
+
+Level 41
+
+20
+
+90
+
+40
+
+10
+
+2
+
+
+VII
+
+Level 51
+
+20
+
+90
+
+50
+
+10
+
+2
+
+
+VIII
+
+Level 61
+
+20
+
+90
+
+50
+
+10
+
+2
+
+
+IX
+
+Level 71
+
+20
+
+100
+
+50
+
+10
+
+2
+
+
+X
+
+Level 81
+
+20
+
+105
+
+50
+
+10
+
+2
+
+
+Total
+
+N/A
+
+170
+
+800
+
+390
+
+100
+
+N/A
+
+Chests[]
+
+
+Initiative Chest
+
+
+
+
+
+							Initiative
+							
+						
+
+
+
+							Recon
+							
+						
+
+
+
+							Spearpoint
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Bonuses
+Encounter XP IncreaseMax Shields
+
+
+Category
+Chests
+
+
+Rarity
+Common
+
+
+Tech Type
+
+
+
+Fusion Mod
+1
+
+
+
+
+
+
+Stats[]
+
+
+Rank
+
+Encounter XP Increase
+
+Max Shields
+
+
+I
+
++2%
+
+N/A
+
+
+II
+
++3%
+
++3%
+
+
+III
+
++3%
+
++5%
+
+
+IV
+
++4%
+
++8%
+
+
+V
+
++4%
+
++10%
+
+
+VI
+
++4%
+
++11%
+
+
+VII
+
++5%
+
++12%
+
+
+VIII
+
++5%
+
++13%
+
+
+IX
+
++6%
+
++14%
+
+
+X
+
++6%
+
++15%
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Beryllium
+
+ Fluorite
+
+ Titanium
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+30
+
+140
+
+70
+
+20
+
+4
+
+
+II
+
+Level 6
+
+40
+
+170
+
+80
+
+20
+
+4
+
+
+III
+
+Level 11
+
+40
+
+190
+
+90
+
+20
+
+4
+
+
+IV
+
+Level 21
+
+50
+
+210
+
+100
+
+30
+
+4
+
+
+V
+
+Level 31
+
+60
+
+240
+
+120
+
+30
+
+4
+
+
+VI
+
+Level 41
+
+60
+
+260
+
+120
+
+30
+
+4
+
+
+VII
+
+Level 51
+
+60
+
+260
+
+130
+
+30
+
+4
+
+
+VIII
+
+Level 61
+
+70
+
+280
+
+140
+
+40
+
+4
+
+
+IX
+
+Level 71
+
+70
+
+290
+
+140
+
+40
+
+4
+
+
+X
+
+Level 81
+
+70
+
+300
+
+140
+
+40
+
+4
+
+
+Total
+
+N/A
+
+550
+
+2340
+
+1130
+
+300
+
+N/A
+
+Legs[]
+
+
+Initiative Legs
+
+
+
+
+
+							Initiative
+							
+						
+
+
+
+							Recon
+							
+						
+
+
+
+							Spearpoint
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Bonuses
+Encounter XP Increase
+
+
+Category
+Legs
+
+
+Rarity
+Common
+
+
+Tech Type
+
+
+
+Fusion Mod
+0
+
+
+
+
+
+
+Stats[]
+
+
+Rank
+
+Encounter XP Increase
+
+
+I
+
+N/A
+
+
+II
+
++2%
+
+
+III
+
++4%
+
+
+IV
+
++5%
+
+
+V
+
++7%
+
+
+VI
+
++8%
+
+
+VII
+
++9%
+
+
+VIII
+
++10%
+
+
+IX
+
++11%
+
+
+X
+
++12%
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel
+
+ Beryllium
+
+ Fluorite
+
+ Titanium
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+10
+
+50
+
+20
+
+10
+
+2
+
+
+II
+
+Level 6
+
+10
+
+60
+
+30
+
+10
+
+2
+
+
+III
+
+Level 11
+
+10
+
+65
+
+30
+
+10
+
+2
+
+
+IV
+
+Level 21
+
+20
+
+70
+
+30
+
+10
+
+2
+
+
+V
+
+Level 31
+
+20
+
+80
+
+40
+
+10
+
+2
+
+
+VI
+
+Level 41
+
+20
+
+90
+
+40
+
+10
+
+2
+
+
+VII
+
+Level 51
+
+20
+
+90
+
+50
+
+10
+
+2
+
+
+VIII
+
+Level 61
+
+20
+
+90
+
+50
+
+10
+
+2
+
+
+IX
+
+Level 71
+
+20
+
+100
+
+50
+
+10
+
+2
+
+
+X
+
+Level 81
+
+20
+
+105
+
+50
+
+10
+
+2
+
+
+Total
+
+N/A
+
+170
+
+800
+
+390
+
+100
+
+N/A
+
+Player Notes[]
+Ryder starts the game with a set of Rank I Initiative Armor.
+Features[]
+The Encounter XP Increase is only applied to experience (XP) awarded for killing enemies. All other XP sources are unaffected by this stat bonus.
+Strategies[]
+Trivia[]
+
+
+
+
+Mass Effect: Andromeda Armor
+
+
+
+
+Augmentations • Fusion Mods
+
+
+Milky Way
+
+HyperGuardian Armor • Initiative Armor • N7 Armor • Pathfinder Armor
+
+
+Heleus
+
+Angaran Armor • Heleus Armor • Kett Armor • Maverick Armor
+
+
+Remnant
+
+Remnant Armor
+
+
+DLC
+
+Andromeda Elite Helmet • Deep Space Explorer Armor • Scavenger Armor
+
+
+
+

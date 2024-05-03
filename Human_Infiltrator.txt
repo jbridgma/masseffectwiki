@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect 3. For the multiplayer class in Mass Effect: Andromeda, see Human Infiltrator (Mass Effect: Andromeda).
+
+
+
+Human Infiltrator
+
+
+
+
+
+							Male
+							
+						
+
+
+
+							Female
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class
+Infiltrator
+
+
+Race
+Human
+
+
+Rarity
+Common
+
+
+Availability
+Starting character
+
+
+Abilities
+Combat RollDisruptor Omni-Blade
+
+
+Humans joined the galactic community after discovering a Prothean data cache on Mars in 2148. Their devotion to understanding and adapting to modern warfare left the staid Council races stunned. Humanity's persistence and unflappable spirit has taken them further than anyone in the galaxy could have imagined.
+Human infiltrators focus on taking out enemies from afar without detection, but they also specialize in flanking and misdirection, allowing their allies to make short work of disorientated opponents on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 500
+
+
+Class: Alliance Training
+
+
+ Sticky Grenade
+
+
+
+
+ Tactical Cloak
+
+
+
+
+ Cryo Blast
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Human Infiltrator executes a series of up to three punches.
+Heavy Melee (Disruptor Omni-Blade) – The Human Infiltrator slashes with a forked omni-blade discharging electrical energy.
+Grab (Omni-Blade Stab) – The Human Infiltrator drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Roll) – The Human Infiltrator rolls to quickly evade incoming attacks.
+The Human Infiltrator can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Cryo Blast can freeze unshielded and unarmored enemies, making them much easier to headshot. Cryo Blast can also debuff armor targets by 50% and increase damage to frozen and chilled targets by 25% as well.
+As Human Infiltrators have no really damaging offensive powers with a cool down, it is worth foregoing the Power & Capacity/Power Damage/Weapon Weight ranks of Alliance Training in order to maximize weapon and headshot damage.
+Sticky Grenades are devastating against armored targets, whose damage can be further boosted by Cryo Blast's debuff function. They can also detonate tech explosion when related weapons are equipped with Disruptor/Incendiary/Cryo Rounds. Since throwing grenades will not force players to de-cloak, one can simply throw a grenade onto an enemy while cloaking, following by Cryo Blast and a weapon shot, which can cause massive damage on a single target. A single M-300 Claymore shot following such a procedure can instantly kill Brutes and Scions even on Gold.
+A duration maxed Tactical Cloak is very useful on Gold, when it allows a player to be invisible for the time it takes to activate an objective (such as Signal Boosters etc).
+Cerberus[]
+Cryo Blast is more useful here due to the number of enemies that can be frozen, since, barring Atlases and Dragoons, all Cerberus units have health. If combined with a player who has a shield stripping power, such as Arc Grenade, Cryo Blast can be used in tandem to snap freeze groups of enemies if the increased radius evolution is chosen.
+Cryo Blast can also be useful if a Phantom gets too close to your squad - it will slow her down significantly, allowing for retreat/headshots.
+A Sticky Grenade can be used to eliminate whole groups of Guardians and Assault Troopers by, if the increased radius evolution is chosen, sticking it to a low ceiling above them. They will rarely ever dodge it, and it ignores the Guardians shields as it damages them from the top down. Alternatively, a  grenade can be stuck directly to a Guardians shield, which can kill them.
+Tactical Cloak can allow the player to sneak out of close quarters situations, and to sneak past Guardians and attack them from behind if it is too tricky to shoot them through the slit in their shields.
+On bronze, it is advisable to have maximised Sticky Grenade damage and to equip Grenade Capacity gear - this way, you can take down Atlases with ease by sticking up to 8 grenades to them, and this can be accomplished without breaking cloak.
+Collectors[]
+The Human Infiltrator is useful for taking out hardened enemies and sniping from afar.
+Cryo Blast is good at weakening armored targets like the Praetorian and the Scion, and using the power on unarmored targets, along with sticky grenade, will pull off powerful cryo explosions to decimate the target.
+Generally speaking, it's much easier to headshot Collectors given their large heads. It's best to use something powerful like the M-99 Saber or M-92 Mantis, though the specifics are up to the player.
+Geth[]
+Headshots can be performed on all geth units, allowing for heavy damage to be inflicted easily with just a sniper rifle.
+Reapers[]
+Cryo Blast can help against Reapers due to its armor debuff, making Brutes, Ravagers and Banshees die much faster. It will also freeze any unprotected infantry I.E Cannibals, or Marauders or Husks.
+Sticky Grenades, when leveled up to do max damage to armor, can be used to instantly eliminate Brutes and Ravagers. They have the additional bonus that they will kill any Swarmers that appear with their area of effect damage. However, it is inadvisable to use them against Banshees unless they have had their barrier already removed - they are likely to biotic jump out of the way, wasting the grenade.
+Sticky Grenades are very effective against Reaper enemies, given their propensity to stick together in groups. This allows a player to take down multiple enemies with only one grenade, as the area of effect damage will be utilized to the max.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

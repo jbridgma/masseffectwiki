@@ -1,0 +1,323 @@
+
+
+
+
+
+Name
+
+Region
+Milky Way / Cluster / System
+
+
+
+
+
+Planet View
+
+
+Radius
+00 km
+
+
+Day Length
+00 Earth Hours
+
+
+Atm. Pressure
+00 atm
+
+
+Surface Temp
+00 °C 
+
+
+Surface Gravity
+00 g
+
+
+Mass
+00 Earth Masses
+
+
+Satellites
+00
+
+
+Location: Milky Way / Cluster / System System /  Orbit-th planet
+
+
+Prerequisite: assignments
+
+Prerequisite: missions
+
+If the planet doesn't have in-game statistics (e.g. Rakhana), 
+omit the PlanetDetails template and put a short article introduction here instead.
+
+Contents
+
+1 Description
+2 Codex Entry
+3 Additional Information
+4 Survey Text
+5 Missions
+6 Assignments
+7 Points of Interest
+8 Mineral Deposits
+9 Lifeforms
+10 Search and Rescue
+11 Properties
+12 Trivia
+
+
+Description[]
+Text from the in-game description only. 
+If the planet doesn't have in-game descriptions (e.g. Rakhana), 
+this serves as the main body of text for the article.
+
+
+Codex Entry[]
+The object's codex entry (only), using DynamicPageList2. Omit if empty.
+Use {{clr}} above the codex entry section if necessary to avoid squeezing elements together.
+
+{{ #dpl:
+| title = Codex/Planets and Locations
+| include = #Aeia
+| includematch = {0}
+| includetrim = true
+}}
+
+
+
+
+
+
+
+Audio: Aeiahttps://masseffect.fandom.com/wiki/File:Aeia_Codex.ogg
+
+Humans detected Aeia as an Earth-type world via telemetry in 2165. After probe surveys indicated life -- lush vegetation, ample fresh water and breathable air -- the Alliance upgraded the planet to a garden-world colonization priority. Commanded by Captain Ronald Taylor, the crew of Alliance survey vessel Hugo Gernsback made planetfall on the jungle world in 2173. Soon after, ship transmissions inexplicably stopped. While the precise fate of the Hugo Gernsback command and crew is unknown, they are presumed killed in action and their vessel destroyed.
+
+
+Additional Information[]
+Extra information about the planet that can be written in an in-universe point of view. Omit if empty.
+
+Survey Text[]
+Text obtained from performing a survey of a body which cannot be visited (only).  Omit if empty.
+
+Missions[]
+Use {{Mission|<article>}} for the primary mission.
+Omit if empty.
+
+Assignments[]
+Use {{Assignment|<article>}} for the primary assignment.
+Use {{Discs}}, {{Insignias}}, {{IDTags}}, {{Medallions}}, and {{Writings}} for collections.
+Use {{Minerals}} for mineral surveys.
+Omit if empty.
+
+Points of Interest[]
+Construct the table from the PointsOfInterest templates.  Explanatory text (or sub-sections), if any, should follow the table.
+* {{PointsOfInterest:Locations}}
+* {{PointsOfInterest:Row:Location}} (ideally with {{blockquote}} of any applicable discovery text).
+* {{PointsOfInterest:End}}
+Omit if empty.
+
+[[File:Agebinium tmap.png|Terrain Map|270px]]{{PointsOfInterest:Locations}}
+{{PointsOfInterest:Row:Location|1|Initial|Mine entrance ([[UNC: Espionage Probe]])}}
+{{PointsOfInterest:Row:Location|2|Discovery|Mine exit to mercenary camp and Mako}}
+{{PointsOfInterest:Row:Location|3|Initial|Crashed probe}}
+{{PointsOfInterest:Row:Location|4|Initial|Turian wreckage ([[UNC: Turian Insignias]])}}
+{{PointsOfInterest:Row:Location|5|Unmarked|Charred corpse {{blockquote|Brushing away the carbonization on the door of the contragravity speeder, you see the [[Nezo]] brand name.  Judging by the charring, the wreckage has been here since the star's last variable peak.  The corpse is wearing the remains of an expensive suit, and what appear to be melted antique aviator goggles.}}}}
+{{PointsOfInterest:End}}
+
+
+
+
+Location
+
+Appearance
+
+Description
+
+
+1
+
+Initial
+
+Mine entrance (UNC: Espionage Probe)
+
+
+2
+
+Discovery
+
+Mine exit to mercenary camp and Mako
+
+
+3
+
+Initial
+
+Crashed probe
+
+
+4
+
+Initial
+
+Turian wreckage (UNC: Turian Insignias)
+
+
+5
+
+Unmarked
+
+Charred corpse 
+“Brushing away the carbonization on the door of the contragravity speeder, you see the Nezo brand name.  Judging by the charring, the wreckage has been here since the star's last variable peak.  The corpse is wearing the remains of an expensive suit, and what appear to be melted antique aviator goggles.”
+
+
+
+
+Mineral Deposits[]
+Use {{Main}} to link Mass Effect locations to UNC: Valuable Minerals
+Use {{PointsOfInterest:Minerals}} for Mass Effect locations.
+Use {{MineralScanning}} for Mass Effect 2 locations.
+Omit if empty.
+
+{{main|UNC: Valuable Minerals}}
+{{PointsOfInterest:Minerals|Beryllium|Magnesium|Samarium}}
+
+Main article: UNC: Valuable Minerals
+
+
+Location
+
+Element
+
+Class
+
+
+1
+
+Beryllium
+
+Light
+
+
+2
+
+Magnesium
+
+Light
+
+
+3
+
+Samarium
+
+Rare
+
+
+{{MineralScanning|Poor|pal=1234|iri=567}}
+
+Initial Scanner Result: Poor
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+1,234
+
+
+Platinum
+
+
+
+
+
+
+Iridium
+
+Low
+
+567
+
+
+Element Zero
+
+
+
+
+
+Lifeforms[]
+Bulleted list of lifeform links in Mass Effect.  Omit if empty.
+
+Pirates
+Pirate Snipers
+Elanos Haliat
+Search and Rescue[]
+Discoverable objects in Mass Effect 3. Omit if empty.
+
+Main article: Search and Rescue
+Artifact: Prothean Obelisk
+Salvage - 10,000 credits
+Intel: Armor Modkit
+Special Ops Team Zeta
+Properties[]
+Orbital and other astrophysical properties (and discussion thereof).  Omit if empty.
+
+Trivia[]
+Any extra information or discussion about the planet that cannot be written from an in-universe point of view (e.g. the origin of its name in the real world or production tidbits).  Bulletpoint form should be used, even if there is only one item. Omit if empty.
+
+Planet pages should be added to all appropriate categories, e.g.
+* Category:Planets
+* Category:Locations
+* Category:Assignment Locations
+* Category:Mission Locations
+* Category:Background
+
+
+
+
+
+Quick Links
+
+Mass Effect WikiManual of Style
+
+
+General Guidelines
+
+Manual of Style Homepage • General guidelines • Comics (Comic Hubs) • Templates • Remakes
+
+
+Galaxy
+
+Clusters • Systems • Planets
+
+
+Gameplay
+
+Missions • Assignments • Adversaries • Classes • Abilities / Powers
+
+
+Game-info
+
+Equipment • Merchants / Stores • Races • Unique Dialogue
+
+
+See also
+
+Community Guidelines • Chat Policies • Collaboration • Files Guideline • Information Sourcing • Administrators
+
+
+
+
+
+

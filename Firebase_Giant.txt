@@ -1,0 +1,164 @@
+
+
+
+
+Firebase Giant is a multiplayer map in Mass Effect 3. It is located on Tuchanka.[1] In single-player, the Galaxy at War mission N7: Cerberus Attack takes place on this map.
+
+Contents
+
+1 Description
+2 Hazard Version
+3 Locations
+
+3.1 Exterior
+3.2 Bunker
+3.3 Cargo Transfer
+3.4 Terminal
+3.5 Control Room
+3.6 Connection
+
+
+4 Player Notes
+5 References
+
+
+Description[]
+Reaper presence on Tuchanka is surprisingly light considering the krogan's fearsome reputation and the undeniable support they bring to the fight against the Reapers. While Reaper advance units have had some success converting captured krogan into their "brute" shock troops, they have thus far avoided antagonizing the bulk of the clans with an all-out invasion attempt.
+
+Hazard Version[]
+Mass Effect 3: Retaliation adds a version of Firebase Giant set at night. 
+
+
+The krogan cannons fire more frequently and create bright flashes when doing so. Enemies become harder to see in the dark and the flashes of the cannons against the darkness can disorient you.
+
+Locations[]
+Exterior[]
+The vast majority of the map. Players begin and extract from the match in a corner where the Exterior meets the Bunker.
+
+Connects to the Bunker (via a large corridor).
+Connects to the Bunker (through a large doorway).
+Connects to the Cargo Transfer (through a large doorway).
+Connects to the Terminal (down two different ramps).
+Connects to the Control Room (through a doorway at the top of a ramp platform).
+Connects to the Connection (via a large corridor).
+There is an ammo dump in the corner right next to the landing zone where the players begin and extract.
+There is a second ammo dump in the corner next to the ladder up to the ramp platform into the Control Room. 
+
+Bunker[]
+A wrecked bunker in the corner of the map.
+
+Connects to the Exterior (via a large corridor).
+Connects to the Exterior (through a large doorway).
+Connects to the Cargo Transfer (through two large doorways).
+Cargo Transfer[]
+The rear area behind the Bunker.
+
+Connects to the Exterior (through a large doorway).
+Connects to the Bunker (through two large doorways).
+Connects to the Terminal (down a ladder).
+Terminal[]
+The lower rear area of the map. 
+
+Connects to the Exterior (up two different ramps).
+Connects to the Connection (up a ramp).
+Connects to the Connection (up a ladder).
+Connects to the Cargo Transfer (up a ladder).
+There is an ammo dump on the wall directly opposite from the ladder up to the Cargo Transfer.
+
+Control Room[]
+The krogan surface-to-space cannon's control room.
+
+Connects to the Exterior (through a doorway).
+Connects to the Connection (down two different ramps).
+Connects to the Connection (down a ladder).
+Connection[]
+A small interior area below and behind the Control Room.
+
+Connects to the Terminal (down a ramp).
+Connects to the Control Room (up two different ramps).
+Connects to the Control Room (up a ladder).
+Connects to the Exterior (via a large corridor).
+There is an ammo dump on the wall directly opposite from the ramps up to the Control Room.
+
+Player Notes[]
+General
+
+Grenade resupply for the ammo dump locations is twice the amount for the Hazard Map as it is for the General Map.
+
+
+Grenade Resupply Location
+Bronze
+Silver
+Gold
+Platinum
+
+
+Connection
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+Exterior (Ladder)
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+Exterior (Landing Zone)
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+Terminal
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+A popular and effective strategy is to post a sniper atop the ramp outside the Control Room with another squadmate using mid- to long-range weapons, while the other two squad members protect the sniper's flank by waiting inside the Control Room. This not only covers both enemy approaches but also prevents enemies from spawning next to the ammo box in the Control Room area, provided there is always one squad member nearby.
+Jetpack-equipped enemies such as Phantoms are capable of spawning on or jumping up to the top of the support beam at the center of the Exterior. Players can take out those enemies from the top of the ramp leading to the Control Room.
+This map can be particularly challenging for grenade-based classes as ammo boxes are widely spread (in the four corners of the map), and provide only 1 grenade per box (on Silver or higher difficulties). The Hazard version remedies this by providing double the grenades.
+Extraction is relatively easy on this map, since enemies can only approach from one direction. Note that the Bunker is a spawn point: positioning one person there is a vital, as it prevents enemies spawning or flanking very close to the extraction zone, with multiple protected pathways there. Enemies approaching from the Exterior will be forced into a tight bottleneck when approaching the LZ, making it a veritable shooting gallery. This area can be easily held throughout the match if your team favors a bunker-down strategy.
+Hazard
+
+When the cannons fire, the screen shakes and aim can be affected for the short duration of the shooting sequence of the cannons.
+The player's aiming reticle is rock solid and doesn't move during the shaking sequence. Everything in the level moves instead. At short range this doesn't mean much as the player's shots will still hit the target easily. Longer ranges can prove difficult as that amount of shaking can throw aim off much more.
+References[]
+
+↑ http://www.masseffect.com/about/multiplayer/
+
+
+
+
+Mass Effect 3 Multiplayer Maps
+
+
+Original Maps
+
+Firebase Dagger • Firebase Ghost • Firebase Giant • Firebase Reactor • Firebase Glacier •  Firebase White
+
+
+Resurgence Maps
+
+Firebase Hydra • Firebase Condor
+
+
+Rebellion Maps
+
+Firebase Jade • Firebase Goddess
+
+
+Earth Maps
+
+Firebase Rio • Firebase Vancouver • Firebase London
+
+
+
+
+

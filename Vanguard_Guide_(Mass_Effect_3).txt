@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+
+This article or section needs to be cleaned up to conform to a higher standard of quality.
+See this article's talk page or the editspace comment following the tag for details.
+
+
+See also: Vanguard Guide, Vanguard Guide (Mass Effect 2)
+
+Vanguards are feared for their high-risk, high-reward combat style, closing quickly on enemies and destroying them at short range with weapons and biotic abilities. They are outfitted with L5n implants, enabling them to perform a biotic charge that strikes the opponent with incredible force while bringing the Vanguard in for close-range combat.
+
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Biotic Charge
+2.1.2 Cryo Ammo
+2.1.3 Incendiary Ammo
+2.1.4 Nova
+2.1.5 Pull
+2.1.6 Shockwave
+2.1.7 Fitness
+2.1.8 Assault Mastery
+
+
+2.2 Bonus Power
+
+2.2.1 Reave
+2.2.2 Dark Channel
+2.2.3 Energy Drain
+2.2.4 Defense Drone
+2.2.5 Defense Matrix
+2.2.6 Fortification
+2.2.7 Barrier
+2.2.8 Carnage
+2.2.9 Inferno Grenade
+2.2.10 Lash
+2.2.11 Warp Ammo
+2.2.12 Flare
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Assault Rifles
+3.2 Heavy Pistols
+3.3 Shotguns
+3.4 Sniper Rifles
+3.5 Submachine Guns
+
+
+4 Combat Guide
+
+4.1 Reapers
+4.2 Cerberus
+4.3 Geth
+
+
+5 Squad Members
+
+
+
+Overview[]
+Many of the Vanguard's powers are offensively-oriented, utilizing a high-risk, high-reward system. Vanguards can specialize in close ranged weapons or faster, forceful biotic powers.
+While a solid weapon helps, one of the better ideas for a Vanguard is to keep recharge times low. Much of a Vanguard's success is contingent upon the ability to use powers in rapid succession, stringing various moves together to produce devastating effects.
+It should be kept in mind that the Vanguard has no easy way to reduce shields aside from shooting them down or using a specific Nova evolution. An enemy protected by shields will mitigate most of the Vanguard's powers. As such, the Vanguard should coordinate with squad mates in order to deal with shields, with Overload being one of the easier ways of counteracting it.
+Additionally, while the Vanguard is based on close-ranged ferocity and rapid usage of powers, charging into a disadvantageous position will often leave the Vanguard vulnerable to enemy fire. As such, the Vanguard must be cognizant of where a charge will leave them positioned in terms of their enemy's location.
+However, despite the aforementioned shortcomings, a Vanguard with sufficient awareness and ability can become a devastating damage dealer on the battlefield, capable of annihilating large groups of enemies instantaneously in a ferocious, fantastic flurry of power combos and close ranged weapon blasts.
+
+Powers[]
+Class Powers[]
+Biotic Charge[]
+Main article: Biotic Charge
+As the Vanguard's signature attack, Biotic Charge acts as a core ability, managing a great portion of both the Vanguard's offense and defense. The Charge itself inflicts a great deal of damage, capable of knocking enemies several meters back. Biotic Charge will detonate every type of power combo, increasing its ability to damage multiple enemies. More importantly, the Vanguard becomes completely immune to all forms of damage while charging, and upon a successful hit, barriers are restored, the amount contingent upon specialization.
+Considering the aforementioned reasons, minimal power recharge times are highly recommended. On lower difficulties, standard ground troops simply lack the damage to destroy the Vanguard's barriers and health in time for the next Charge to be off cooldown.
+Even on insanity, if Biotic Charge is used every time it is off cooldown, the Vanguard will be more than capable of going toe-to-toe with Brutes and Atlases, provided the auto-executes are dodged.
+Behind the curtains Charge also gives you a 50% damage reduction buff for 4 seconds, which can also be combined with some bonus powers for really strong damage protection after a Charge.
+
+Cryo Ammo[]
+Main article: Cryo Ammo
+Cryo Ammo is an excellent ammo power to use if applied to a fast-firing SMG or assault rifle. Firing the weapon's frozen payload onto enemies will apply a snare effect, slowing their movements and making it much harder for the afflicted to target you. This makes charging marginally safer. The main attraction however, is the ammo's ability to freeze an enemy entirely. If an enemy is completely frozen, a Biotic Charge used in follow up will shatter the enemy, instantly killing them, regardless of health. If you so desire, you can take Squad Cryo Ammo and equip it on your team, giving you great crowd control and lots of frozen targets to charge. Even on Insanity, your squad will freeze enemies, slightly increasing your survivability. Even if Cryo Ammo is not taken past rank 4, it makes an excellent squad ammo for squadmates without ammo powers of their own.
+
+Incendiary Ammo[]
+Main article: Incendiary Ammo
+Incendiary ammo burns away armor, inflicts a fiery damage-over-time time effect, and has a chance to cause organic enemies to panic. The damage itself is capable of finishing off wounded targets, and ignited enemies are safer to Charge into the midst of. For Vanguards reliant on SMGs or not specialized in Pierce-Nova, Incendiary Ammo is one of the better ways to deal with enemies protected by armor. Incendiary Ammo can also prime a target for a Fire Explosion, which can then be detonated by most of the Vanguard's other powers. 
+Since Vanguards typically use shotguns, the Explosive Burst evolution is particularly useful, as a single shot will produce four explosions on average with the potential for as many as eight. Though this highly depends on the weapon you wield and sometimes extra damage might be used to finish the enemies with the weapon itself.
+
+Nova[]
+Main article: Nova
+Nova acts as the Vanguard's replacement for traditional grenades. Nova utilizes the Vanguard's high-risk, high-reward combat system, briefly turning the player into a living bomb. The Nova itself is a close range shock wave power. Activating Nova will detonate and expend the Vanguard's remaining biotic barrier, causing damage and knocking enemies within its radius back. It is important to note that the damage and force-intensity of Nova is derived from the amount of the Vanguard's remaining barrier. When used at full-barrier strength, Nova becomes a devastating attack capable of killing most enemies outright, and grievously wounding them on higher difficulties. Its widespread damage is further augmented by being able to detonate all types of power combos.
+Considering that Biotic Charge restores barriers, and Nova expends barriers, both moves when used in tandem with each other synergize amazingly. As such, Nova is a brilliant way to finish a Biotic Charge, if it is not being used such for defensive purposes, or escape. The Charge will stun or kill the first enemy hit, and the following Nova annihilates other enemies not caught in the original blast.
+The reverse is also highly effective. When in close proximity, Nova can be used to stun opponents and followed up by a biotic charge, which replenishes your shields, takes out some of the risk out of using the Nova. In addition, it also opens up the option for unleashing a second Nova, which can have a devastating effect on remaining enemies.
+In keeping with the Vanguard's high-risk style, Nova can leave a player vulnerable after use, since it expends all of the Vanguard's barriers. Protected enemies will only be stunned by a Nova, and without proper recharge-boosting evolutions and armor, a player can be attacked before he has the opportunity to charge again and restore his barriers.
+Ideal upgrades for Nova include Pierce, which allows the power to ignore most of an enemy's protections, increasing the chances that enemies will be killed outright by the blast. Vanguards wishing to minimize their risk might consider the Half Blast upgrade, which allows them to use Nova twice in a row, only depleting 50% of their Barrier instead of the entire thing, at the cost of reduced damage. This can give them more time to roll out of danger following a Nova, or use it a second time should the enemies not be killed in the first strike. For Vanguards that wish to maximize damage, the Power Recharge evolution will increase the likelihood of the recharge period for other powers finishing during Nova's animation and is especially valuable with heavier weapon loadouts. 
+It is important to note that during Nova's animation, the player is invulnerable to non-execute attacks. If Charge is not off cooldown yet, and you have enough barriers to cast another nova, you can cancel it (by using normal melee attack or dodge during the Nova animation) and cast it again to buy time for charge to come up. This is best utilized under heavy fire with the Half Blast upgrade - cast first nova to kill an enemy, cast second nova and cancel it as many times as needed until you have a clear target and Biotic Charge is ready for use.
+Do note that some enemies can stagger you, like a charge from a Brute, if you can't avoid the enemy's attack you can use Nova to guarantee your survival with invulnerability.
+It should also be observed that two uses of Nova in a row (via the Half Blast upgrade) may provide enough time to recharge the Vanguard's Charge ability without having to rely on recharge-boosting gear, meaning that a Vanguard with a light-enough weapon loadout can Charge, use the Nova twice, and then Charge again almost indefinitely while remaining invulnerable. This tactics works quite well even on the Insanity level of difficulty.  
+On Insanity however you must be aware of a "weak spot" in your skills. Right after a Charge you are briefly, for a fraction of a second, vulnerable to damage and unable to do anything. Sometimes its enough for the enemy to kill you. So make use of the invulnerability of Nova, and the ability to cancel it, to buy enough time to choose your targets so you won't Charge into heavy fire or into a enemy that will stagger you.  
+
+Pull[]
+Main article: Pull
+Through the use of mass-lowering fields, Pull renders enemy helpless as they float through the air. Using Biotic Charge on an enemy that has been pulled will cause a Biotic Explosion, dealing massive damage to the charged enemy and any other enemy within close proximity.
+It is important to note that Pull has an extremely short recharge time, as does Biotic Charge when factoring in time dilation. This makes Pull and Biotic Charge an extremely popular combo, as the massive amounts of damage the explosion incurs will finish off any unprotected enemy on any difficulty.
+Do also note that enemies that wield hand-held shields can be stripped off their shields with Pull. Its recommended to take 1 point into pull just for that. 
+
+Shockwave[]
+Main article: Shockwave
+Shockwave throws enemies, knocking them back, and travels through cover. This effectively makes Shockwave a cover breaker, capable of displacing entrenched enemies. If enemies are protected by shielding or armor, Shockwave is still capable of stunning them, allowing squad mates to shoot them while exposed.
+Shockwave is also an excellent way of dealing with groups of swarming husks, as it knocks them off their feet, effectively disabling them. This makes it much easier to finish off large groups and can give the player time to reorient themselves in cover.
+Shockwave is the Vanguard's only power that can detonate all types of power combos from a distance and can be evolved for more powerful biotic detonations. However, if you prefer other types of combos, you may prefer the Rank 5 Range evolution over the Detonate evolution.
+
+Fitness[]
+Main article: Fitness (Vanguard)
+Fitness is a passive talent which increases the Vanguard's health, barriers, and melee damage. The increased survivability is especially important for Vanguards, as the extra barriers and health will often be the few fractions of a second that will be needed to survive until the next Biotic Charge is off cooldown, should the player find themselves in a disadvantageous position. The Shields/Health bonuses also help to minimize power loss on Nova, as Nova's damage is determined by the remaining percentage of the player's barriers.
+
+Assault Mastery[]
+Main article: Assault Mastery
+Assault Mastery is the Vanguard's passive stat bonus talent. It increases weapon damage, power damage, force, reputation, and carrying capacity. In short, it provides massive buffs to the core components of the Vanguard, and should be maxed out to the player's personal preference as soon as possible.
+
+Bonus Power[]
+Reave[]
+Main article: Reave
+Reave makes an excellent addition to Vanguards who rely on powers rather than weapons or Vanguards who seek a balance between the two. If specialized for damage protection, a Vanguard who relies on the charge-nova combo will be able to mitigate a lot of incoming damage from this close-quarters style. On the other hand, when it is specialized for increased damage to armor and barriers it gives Vanguards a better control over combat engagement distance as it can be used to quickly remove barriers and kill armored foes, even on Insanity, without having to get too close to the enemy. Reave is also a primer and a detonator of biotic explosions. Reave both detonates the Vanguard native Pull and a specific evolution of Shockwave on unshielded targets, and can be detonated on all targets by the other Vanguard base biotic abilities, namely Shockwave, Biotic Charge, and Nova. With area Reave, nova can set off multiple detonations, making area Reave, Charge, and Nova a very powerful combination for clusters of strong enemies. Since Reave can be detonated on shielded enemies, this makes Reave combos a better alternative to pull combos for those enemy types. You aren't quite the Adept because you don't have the raw speed of the Pull/Throw combo, but with proper squadmate choice and weight management, you can be proficient enough with biotic explosions to quickly take down even banshees, even on Insanity. A side note is that the damage protection stacks with Biotic Charge's buff additively for up to 90% damage protection for short duration.
+
+Dark Channel[]
+Main article: Dark Channel
+Similar to Reave, if you have the Mass Effect 3: From Ashes, Dark Channel is an excellent power for Vanguards who rely on ample use of their powers. Its long duration, coupled with its ability to transfer to another target when the first is killed, will allow you to set up numerous biotic detonations with just one use of this power. Dark Channel can be detonated by most of the Vanguards abilities, like Biotic Charge, Shockwave and Nova. A Power reliant Vanguard can quickly use this power on a durable target (like a Cerberus Atlas Mech) and then abuse the short cooldown of charge to get in close, set off a biotic explosion and restore shields, without the effect leaving the target. Finally, this power's cooldown is short comparatively, and can be shortened further when adjusting the Vanguard's weight and power recharge bonuses. Even if the effect does not transfer due to a lack of other targets around, you can still re-apply it with relative ease
+
+Energy Drain[]
+Main article: Energy Drain
+Energy Drain is all about minimising your weaknesses. Vanguards have no direct way of dealing with shielded foes like Centurions, Atlas Mechs, or Geth Primes, besides the Charge/shoot combo or the Pierce evolution of Nova. Energy Drain simply eliminates this hole in the Vanguard's abilities. Since a lot of enemies have shielding, Energy Drain can be extremely useful in weakening said enemies, even in groups if one gets their timing right. The small stun against humanoid enemies can also be used to line up longer range shots.
+Energy Drain can also make any Vanguard into a tech bursting machine. Either prime an enemy and Charge at them, or use incendiary ammo to prime enemies for fire combos and detonate them with energy drain. 
+Energy drain's upgrade for damage reduction stacks additively with Biotic Charge's buff for a total of 90% damage reduction for small duration.
+
+Defense Drone[]
+Main article: Defense Drone (power)
+Defense Drone gives you effectively free damage against any target stupid enough to get into close range while it is running. Of course, most classes don't often find themselves in melee combat, so this power isn't that useful to them. You, on the other hand, charge. And keep charging to restore your barrier.
+However its main use is to stun enemies, and most of your abilities already do that.
+
+Defense Matrix[]
+Main article: Defense Matrix
+Defense Matrix directly improves your survivability by providing damage reduction at the cost of a 50-60% cooldown penalty at low levels (which you can mitigate by a light weapons loadout and reduce by 30% with a rank 6 evolution and one of Nova's rank 5 evolutions). Defense Matrix instantly restores shield in the heat of the battle without needing charge to recharge, providing precious protection or allowing another unleashing of Nova. The damage protection stacks additively with the biotic charge's damage reduction buff(up to 80% total protection).
+
+Fortification[]
+Main article: Fortification
+Fortification directly improves your survivability by providing damage reduction at the cost of a 50-60% cooldown penalty at low levels (which you can mitigate by a light weapons loadout and reduce by 30% with a rank 6 evolution and one of Nova's rank 5 evolutions). Fortification synergizes effectively with the Vanguard's close-range nature, giving you a potential force and damage bonus at rank five, and a melee damage bonus when purged. The damage protection stacks additively with the biotic charge's damage reduction buff(up to 90% total protection) - making Fortification vastly superior than Barrier or Defense Matrix if one desires maximum damage protection, as the difference between 80% and 90% damage protection is two times less damage taken. 
+
+Barrier[]
+Main article: Barrier
+Barrier directly improves your survivability by providing damage reduction at the cost of a 50-60% cooldown penalty at low levels (which you can mitigate by a light weapons loadout and reduce by 30% with a rank 6 evolution and one of Nova's rank 5 evolutions). Barrier is the middle ground between Defense Matrix and Fortification - if you've charged into the middle of a pack of enemies it can be purged to lift them, and it can grant a force and damage boost at rank five. The damage protection stacks additively with the biotic charge's damage reduction buff(up to 75% total protection).
+
+Carnage[]
+Main article: Carnage
+For a Vanguard who forgoes longer-range weapons in order to keep their cooldowns low and close-range firepower high, their powers lack an effective means of dealing damage to distant enemies when it is too dangerous to get in close. Carnage deals heavy damage at a range and its cooldown can be reduced to only a few seconds with low weight.
+
+Inferno Grenade[]
+Main article: Inferno Grenade
+As one of the two classes without a grenade power, the Vanguard can benefit greatly from choosing Inferno Grenade as a bonus power. This gives them a ranged power that can inflict heavy damage without conflicting with usage of their other powers. Inferno Grenade makes for a powerful 1-2-3 punch with the Vanguard's signature powers: throw an Inferno Grenade at a group of enemies to soften them up, Charge into the midst of them, and unleash a Nova. Both Charge and Nova are capable of detonating Fire Explosions, likely making the combo even more deadly.
+
+Lash[]
+Main article: Lash
+As with the Adept, Lash can be a little redundant with Pull in the line-up, but it can actually replace Pull very easily. It fulfills almost all of the same things that Pull does, with the added bonus of a high amount of force behind it if enemies impact with obstacles, as well as the chance of throwing enemies off the map altogether. With the Rank 6 evolution that allows it to grab hold of shielded enemies as well, this can be a powerful ability against almost every enemy to hit the field, allowing a more primal style of combat that can use enemy troops as weapons themselves.
+
+Warp Ammo[]
+Main article: Warp Ammo
+Though the Vanguard already has Incendiary and Cryo ammo, this ammo power can be very useful. When combined with squadmates who have persistent biotic powers like Dark Channel and Reave, a quick Biotic Charge and weapon salvo can detonate it and then tear through the enemy. This is especially effective against groups of small enemies affected by Dark Channel and/or big enemies like Brutes and Banshees, provided you can dodge the sync-kills. In addition, the armor damage/weakening bonus from Warp Ammo trumps Cryo Ammo, letting you forgo Cryo Ammo entirely. Pick the squad evolution for Incendiary Ammo, and let your squadmates light 'em up!
+
+Flare[]
+Main article: Flare
+This power is by far the most powerful biotic projectile in the game. While the cooldown is somewhat long, it can be negated by a light loadout, proper level specs, and armor pieces that boost recharge speed or armor sets that emphasize powers, like the Inferno or Spirit armors. It only detonates Biotic Explosions, but the sheer damage output and large radius offsets this. On that note, using Pull, which recharges quickly, on an unprotected enemy and following with Flare gives you a one-two punch similar to the Charge-Nova attack string, without putting yourself at risk. This gives you a viable, long-range power combo for encounters where charging would be tantamount to suicide.
+
+Weapons and Equipment[]
+Mass Effect 3 opens up additional weapon possibilities beyond the Shotgun/SMG/pistol combination available for most of Mass Effect 2, but since the Vanguard class is built around close combat and use of powers, a good Shotgun and a lightweight overall loadout are both important.
+
+Assault Rifles[]
+Main article: Assault Rifles
+Though most Assault Rifles are generally quite heavy and thus make a difficult choice for a Vanguard committed to packing a Shotgun while staying light and retaining a rapid recharge rate, an Assault Rifle can cover for both an SMG and a Heavy Pistol, giving Vanguards the ability to fight at range when closing in using Biotic Charge is too risky a tactic, all the while retaining a fairly high stopping power and rate of fire. For a powers-based vanguard though, assault rifles is one of the strongest weapon choices since they lack the tools for dealing with enemies at range.
+The trick is in choosing the right model and upgrades to complement the Vanguard's fighting style, filling in for the deficiencies of a Shotgun. In this case a rifle with a high rate of fire and large ammo capacity is best. The M-8 Avenger, Phaeston, and Geth Pulse Rifle all fit these criteria, with the former two available very early on in the game. Though lacking in pure stopping power, all three guns can put out long bursts with minimal recoil and a short time between reloads, enabling the Vanguard to "hose down" a target with fire before charging in with a Shotgun to finish the job. This is useful for taking down enemy shields and barriers when complementary squadmates are unavailable. The M-15 Vindicator is another strong choice for its excellent weight and damage balance, and is also available very early in the game.
+When combined with Cryo/Incendiary ammo powers, a high rate of fire also maximizes the chances of freezing or panicking an enemy and allowing for the Vanguard to set up a shattering charge or fire detonation.
+Best of all, the Avenger, Vindicator, Phaeston and Geth Pulse Rifle are among the lightest assault rifles in the game, and make only a small impact on power recharge time. With the right mods, armor, upgrades and power evolutions, Vanguards can increase their flexibility and charge as often as they want, all the while minimizing the need to carry too many extra weapons.
+Some assault rifles can make for a close-range alternative for shotguns while retaining medium-range effectiveness. The Cerberus Harrier, M-76 Revenant, M-55 Argus, and N7 Typhoon are viable close-range assault rifles.
+Citadel adds the M-7 Lancer, which has an excellent damage to weight ratio, good long-range accuracy when properly modded, and removes ammo concerns.
+
+Heavy Pistols[]
+Main article: Heavy Pistols
+The Heavy Pistol is the Vanguard's classic answer to enemies at long range. There are a variety of effective Heavy Pistols in the game, but some of the more exotic ones such as the Scorpion are also quite heavy. The starting M-3 Predator is fairly effective and very lightweight; notable later weapons include the M-5 Phalanx, which is essentially a more powerful version of the Predator, and the M-6 Carnifex, which is extremely powerful but has only six shots per clip; the M-77 Paladin has higher damage than any of the conventional Heavy Pistols, and is limited only by its low magazine capacity of 3 rounds. The M-358 Talon is a notable choice for the Vanguard, as the shotgun-pistol can serve as a lightweight substitute for a shotgun and has a damage bonus against shields and barriers, defenses which the Vanguard normally has no counter against. With the Citadel DLC comes the Pistol Power Magnifier, adding to your powers damage and making the pistol a much better potential choice for a primary weapon for a power-using Vanguard. The Arc Pistol can be a great primary weapon for a power-based Vanguard due to its versatility in any situation.
+With the Firefight Pack DLC, the Vanguard gains access to the Acolyte. Its massive power against shields and barriers makes up for the Vanguard's weakness against those protections and negates the need to take an anti-barrier/anti-shield bonus power.
+Since a Vanguard will mostly be using Heavy Pistols at long ranges, a very useful upgrade is the Pistol Scope, which turns the pistol into a sort of jury-rigged Sniper Rifle. The magnification and accuracy improvement are very useful at long range, especially with powerful pistols with small magazines, such as the Carnifex.
+For a weapons-based Vanguard, Heavy Pistols are somewhat cumbersome, but this can be mitigated by equipping an Pistol Ultralight Materials mod (requires Mass Effect 3: Leviathan for single-player, Mass Effect 3: Earth for multiplayer). Upgrading their level should be a second-tier priority, after heavier weapons such as Shotguns.
+
+Shotguns[]
+Main article: Shotguns
+Up close, personal, brutal and deadly, the Shotgun is the signature weapon of a weapons-based Vanguard. Though each player's style will be different, it's useful to have a gun that is quick to fire, able to take advantage of split-second opportunities available after Charge, and lightweight, in order to keep power recharge times quick, all of which are provided by most Shotguns.
+The Venom Shotgun is more a grenade launcher than a shotgun, but its extreme damage per charged shot at any range, and even behind corners or cover due to the cluster grenades, makes it an excellent choice.It synergies extremely well with Vanguard's abilities - Biotic Charge causes a charged shot to be released, if aimed right that not only damages enemies, but also primes them with Incendiary Ammo for fire combo, with no time wasted for shooting the weapon; Nova also has quite a long duration which can be used to charge a shot for extra damage after the nova. At max level(especially at new game+ at level 10) it grossly out-damages any other shotgun for single shot, which allows it to strip even the strongest enemies off their shields/barrier and allow incendiary ammo to do is full damage against armor. And as it covers both close and long ranges it can be used as a sole wepon due to its high weight.
+The M-22 Eviscerator is an excellent choice because of its balance in terms of decent damage output, shot capacity per clip, and manageable weight. It is available early in the game on the mission Grissom Academy: Emergency Evacuation, which makes it an excellent choice for any Vanguard to pick up.
+The M-27 Scimitar is a good choice for starters and veterans alike because it has the largest clip size, fastest rate of fire, fast reload speed, and decent reserve ammo in addition to frequently staggering enemies. The downside is that it deals lower damage per shot in comparison.
+The M-11 Wraith is also a potent choice. The Wraith is based on the design of the Eviscerator, but handles differently. The Wraith is one of the lightest shotguns in the game , has a faster reload time, and deals higher damage. These attributes come at the trade of holding only two shots per clip instead of three and slightly more weight. 
+The Disciple a great shotgun for Vanguards that wish to use their powers as often as possible without sacrificing their damage output at close range. It is the lightest Shotgun with high damage and good accuracy. It can also give a Vanguard more breathing room due to its high innate stagger weight.
+For Vanguards who are willing to trade power recharge speed for firepower and range, the Graal Spike Thrower and Geth Plasma Shotgun are excellent choices. Both have very high damage and can be charged for even more power, ignore damage reduction on armored enemies, and can be used at greater distances than the average shotgun.
+The Reegar Carbine works well for stripping enemies of their shields, one of the class's major weaknesses, and its extremely short range is less of a liability to the class because of the availability of Biotic Charge.
+It is important to note that when the Eviscerator, the Wraith, and Disciple are fully upgraded, all become extremely lightweight, allowing for additional weapons to be used without compromising a 200% cooldown reduction, though they vary in how much room they allow for additional weapons. The only major differences between a fully upgraded Wraith and Disciple are that the Wraith has higher end damage, quicker reload times, and fewer shots per clip, while the Disciple has more shots per clip and a longer reload time. The Eviscerator is the middle ground between the other two. 
+For weapon upgrades, a Shotgun-reliant Vanguard particularly benefits from the Shotgun Spare Thermal Clip upgrade, to avoid having to worry about ammunition.
+The Shotgun High Caliber Barrel upgrade is also useful if you rely on weapon damage, or the Shotgun Blade Attachment if you melee frequently.
+The Shotgun High-Velocity Barrel is a tremendously powerful mod. When fully upgraded, it provides the benefits of the Shotgun High Caliber Barrel AND the Shotgun Shredder Mod at the same level, basically granting you the boosts of two mods in one slot. The only downside is the increase in weapon weight. Fortunately, it's still possible to keep recharge rate at 200% with the High-Velocity Barrel and carry an additional weapon alongside the shotgun, as long as you don't mind fewer weapon choices. This works especially well with the Scimitar or Eviscerator, since both are among the lightest shotguns available. Having this mod equipped gives them comparable damage to that of heavy shotguns like the M-300 Claymore while still remaining lighter than such.
+When combining the High-Velocity Barrel with the Shotgun Smart Choke mods, your shotgun becomes an excellent crowd control weapon, able to be effective at surprisingly long ranges, pierce cover, and stagger even the toughest enemies due to sheer damage output, even from far away. This in particular shines through with the Scimitar, given it's high rate of fire, quick reload speed, and innate staggering potential.
+It's a good idea to prioritize upgrading your Shotgun to level 5 over upgrades to other weapons, as most Shotguns are heavy, making weight reduction important. Moreover, upgrading provides extra damage and greater ammunition capacity, both of which are highly desirable traits. 
+A wide pellet spread can be useful if you have trouble with fast-moving enemies at close range, so for Vanguards who mainly use shotguns at extremely close range, a Smart Choke upgrade may be counterproductive. It can, however, be useful for play styles that use the shotgun for mid-range combat, or for players who are feeling like particularly good shots. The Smart Choke is particularly effective with the Eviscerator, since it loses far less damage at longer ranges than other shotguns, so this mod enables the Eviscerator to become virtually unbeatable at medium ranges and quite decent at long ranges.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Sniper Rifles are an unconventional choice for Vanguards, given they are the close quarter combat specialists; however, sporting a lightweight, rapid-firing, and fully-upgraded Sniper Rifle like a Level X M-90 Indra or M-13 Raptor can make a very versatile Vanguard. These snipers enable the Vanguard to safely pick off enemies from afar when charging at them would be suicidal, especially on higher difficulties. Just by carrying a Level X M-90 Indra and Level X Disciple, one could have a versatile Vanguard who can adapt to any situation even on higher difficulties, while also making sure the power recharge cooldown delay stays to a minimum.
+
+Submachine Guns[]
+Main article: Submachine Guns
+Compact and lightweight, the SMG is unparalleled in its ability to send fusillades of fire down the battlefield.
+A Submachine Gun is typically used at medium ranges weapon where a Shotgun cannot reach. However, while not as directly useful for following up a charge in terms of the raw damage output and power of a Shotgun, the SMG, when used properly, provides a wider spectrum of tactics the Vanguard may employ.
+The main attraction to using an SMG over a Shotgun is its ability to stagger multiple enemies and apply the effects of ammo powers at an alarming rate, along with the nearly universal feature of incredibly fast reload times. Following a charge, if the player finds themselves in a precarious position, a few short bursts of fire from an SMG will cause nearly any opponent hit to recoil in response. Any enemy left unscathed by a Charge or Nova can easily be crowd-controlled by brief bursts, and this effect only increases with ammo powers.
+Applying Incendiary Ammo will set any enemy caught within the SMG's fire ablaze, panicking them. This renders the enemies once a threat completely harmless, allowing the Vanguard to reorient themselves for another charge and recover while multiple enemies are busy with putting out the ammo-induced fire. Applying Cryo Ammo to an SMG will allow the Vanguard to freeze nearly any enemy after a few, controlled bursts. This causes enemies to be unable to react quickly, and gives the Vanguard ample time to shatter frozen targets.
+The M-4 Shuriken is a surprisingly capable SMG for the early game, with decent accuracy and damage. Later on, the M-9 Tempest improves on the Shuriken's damage output, at the cost of long-range accuracy. Additionally, the M-25 Hornet has a relatively long range for a Submachine Gun, but comes at the cost of lower accuracy. Finally the M-12 Locust has the longest range, with the steadiest aim, but sacrifices damage.
+Any Vanguard carrying an SMG will benefit greatly from the SMG Ultralight Materials upgrade, which can reduce the weight of the gun by up to 90%, allowing faster power cooldown. Other upgrades are very dependent on the particular gun and play style, though most SMGs have too much recoil to benefit from the SMG Scope. With the SMG Power Magnifier introduced in Mass Effect 3: Citadel, power damage can be enhanced significantly, a very useful option. And with the Mass Effect 3: Leviathan the SMG High-Velocity Barrel combos well with Ultralight Materials (the weight modifiers multiply rather than add) or can comb with the Power Modifier to make for an interesting primary weapon in its own right.
+If an SMG is used exclusively at short ranges, opting for increased clip size and Thermal Heat Sinks will allow weapons like the N7 Hurricane to fire for unprecedented lengths of time. If used with some level of control, an SMG will be unrivaled in its ability to inflict severe damage in marathons of close-ranged combat, keeping in mind the extremely quick reload times of most SMGs.
+
+Combat Guide[]
+See also: Combat (Mass Effect 3)
+Because of the changes to the biotic explosion mechanics in Mass Effect 3, the Vanguard can benefit greatly from using two biotic squadmates with the "set-up" powers Reave, Warp, or Dark Channel. Because these powers can adhere to targets through armor, shields, and barriers, you can produce serial biotic detonations on many targets. The tactic benefits if cooldown times are kept low on all powers involved, as well as from upgrades to powers' detonation potency. You should use the first squadmate's set-up power, followed by charging the target to detonate. Then, use the second squadmate's set-up power, followed by Nova, to produce a second detonation. By this time, the cooldowns for the first set-up power and biotic charge should be over, or almost over, and the process can be repeated. Because detonations stagger nearby enemies, you are somewhat protected from retaliation. Charge is a "universal detonator" for all power combos.
+The addition of Nova makes the Vanguard a much more effective force than before, both in close combat and in general engagements at medium range. With Nova, a Vanguard can quickly disperse groups of enemies that, in Mass Effect 2, would simply kill him as he recovered from a Charge. This can still happen, of course (especially on high difficulties), so a Vanguard with long cooldown times should make sure that any groups to be attacked are stripped of shields or barriers before charging. 
+With a lightweight weapon loadout, the cooldown on Charge may be extremely short, allowing an extremely aggressive play style. Especially with cooldown speed bonuses of +100% or greater, a Vanguard can charge one enemy in a group (optionally detonating another squadmate's power), kill a few enemies with Nova or their shotgun, then charge again to replenish their barrier, then either evading or holding their own long enough to charge yet again and repeat. However, if you're able to obtain a very high cooldown speed bonus, such as 200% along with additional bonuses from squadmates, research upgrades, or armor pieces, charge will be back up by the time nova is finished, allowing you to endlessly refresh and expend your barriers. If you use power gear, or in general cooldowns are not fast enough to allow for charge and nova to be used back to back, you can opt for nova half blast. Since you're immune to non-execution damage during nova animation, you can use the second nova for added damage and invulnerability, or simply dodge cancel out of the second nova in preparation for another charge. Be careful with this strategy though, as the key to survival is finding another target to quickly charge. If you fail to quickly find a target to charge, either because they're behind cover or you can't find them in time, your death is likely to follow.
+This sort of tactic is extremely effective, even on insanity (however you may need to focus more on faster cooldowns than what would be enough on Normal difficulty), and can allow a Vanguard to destroy an enemy force with great speed; the only time it becomes problematic is when facing tough opponents with powerful close-range attacks, such as Banshees or Brutes, although it can still be feasible if you make sure to dive away from the enemy immediately after coming out of Charge. Alternatively, you can chain biotic explosions at range with your squadmates if you took Reave. With your high cooldown bonus and two biotic squadmates, you should be able to Reave combo with each of your squadmates back to back, quickly taking care of any foe, on any difficulty.
+Do make use of your ability to cancel your Nova.
+Depending on the difficulty, the Vanguard's combat approach in multiplayer can be different from single-player. On silver and bronze, a human nova-based vanguard is still played the same way. However, because you can not obtain as high of a cooldown bonus as you can in single player, mastery of either dodging as a filler between novas and charges, or cancelling a second half blast nova becomes crucial. Even the slightest mistake can result in death. However,  It would be wise to have your teammates deal with the enemies you can't face while you deal with the grunts. However, on higher difficulties or stronger waves, only charge groups that are within line of sight of your teammates. Alternatively, you can treat your vanguard as rear-guard class, charging enemies that try to flank your team. That way, they can focus on the bulk of the enemy army without having to look over their shoulder. This style is also applicable to the other vanguards. If not playing a nova-based vanguard, it is important to resist the urge to charge every enemy in sight and to instead plan out your attack and (more importantly) escape route if things go sour. As funny as it sounds, the Vanguard is a thinking man's (or woman's) class for those that want to use it the most effectively. If done properly, a nova-vanguard can solo entire waves or even maps on any difficulties, including Platinum.
+
+Reapers[]
+Reapers are straightforward, high damage enemies. The Vanguard is a fast and very high damage class - and in almost all cases the insane speed with which the Vanguard does damage trumps the high damage of the Reapers. Your big weakness (an inability to handle shields) doesn't come into play against most Reapers (only the Marauder using shields), so as long as you take care and don't charge right into the middle of a reaper pack you can kill them faster than they will you - and recharge your barrier on the charge. Great care should be taken with Banshees and Brutes due to their instant death attacks. Incendiary Ammo works superbly against Reapers; organic reapers panic and armoured ones get burned, and fire explosions will be primed for even more damage on the next Charge.
+
+Cerberus[]
+Cerberus are a problem enemy for you - they use a lot of dirty tricks and you have no immediate answers. Pick your squadmates with care. The first real problem from Cerberus is that your charge bounces off the shield of a Cerberus Guardian, although your native Pull can easily fix that problem. Your second is that you have no good answer to a Cerberus Turret, it firing very fast and being protected by shields. Charging near a Phantom can prove to be a mistake as staying more than a second near one can be lethal due to their instant death attacks. And the Atlas Mech is protected by shields making it really annoying to take out. Pick your squadmates with care - none of this is impossible to overcome but it all makes Cerberus a very tricky foe, especially when you can't see through their smoke clouds.
+
+Geth[]
+Geth are lightweight and fragile under their shields, but this presents a problem for Vanguards. Vanguards have no good native way of dealing with shields (other than the piercing Nova) and geth have a lot of shields. Fix them, and the geth aren't much of a problem - even the Geth Hunter and the Geth Pyro go down fast, and biotic explosions do very nasty things to a Geth Prime.
+
+Squad Members[]
+Main article: Squad Members Guide (Mass Effect 3)
+Biotic squadmates, such as Kaidan Alenko, Liara T'Soni, or Javik synergize well with Vanguards, because of their ability to set up biotic detonations.
+Liara's Singularity is unparalleled at setting up large numbers of unprotected enemies close to each other, and her warp can adhere to targets through protections. These powers allow vanguards to maximize the potential of their signature charge. Alternatively, if you upgrade Stasis to Bubble, it can be used the same way. In exchange for the longer cooldown of stasis, you're able to set up on shielded un-armored enemies. If you have your squadmates set to auto-power usage, you will have to unlearn singularity if you favor stasis, as Liara's AI will always default to singularity.
+Similarly to Liara's Warp, Reave, possessed by Kaidan, will adhere to a target through protections and soften them up for a charge. In addition, Reave can be upgraded with a radius upgrade to affect multiple targets, allowing for multiple simultaneous detonations when coupled with Nova. Kaidan also possesses the incredibly useful Overload power, allowing him to strip shields from enemies and set up tech bursts or detonate tech explosions when he isn't helping you with biotic explosions, single-handedly filling all of the Vanguard's weak points.
+If you have downloaded the Mass Effect 3: From Ashes DLC, Javik is a great squadmate because of his unique Dark Channel power. Because the channel will leap to the closest enemy when its current target dies, the Vanguard can use it for serial detonations on low-level enemies.
+Vanguards notably lack methods of dealing effectively with shields. For this reason, squadmates such as Garrus Vakarian, EDI, and Kaidan are useful for their access to Overload. Ashley Williams and Tali'Zorah are effective too, contributing Disruptor Ammo and Energy Drain respectively.
+
+
+
+
+
+Mass Effect 3 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Search and Rescue • Equipment and Items
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • Power Combos • PC Tweaks • Interrupts • Merchants • The One and Only
+
+
+
+

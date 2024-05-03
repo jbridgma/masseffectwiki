@@ -1,0 +1,100 @@
+
+
+
+Voeld has many battle sites where kett invaders fought Angaran Resistance forces. Some sites contain datapads left by an elite team of Resistance fighters hunting kett that exterminated a small angaran outpost. The Resistance may need help bringing the kett to justice.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Find other battle sites on Voeld
+2.2 Investigate the location provided by SAM
+
+
+3 Rewards
+
+
+Acquisition[]
+This mission is acquired by finding any one of the battle sites and reading the datapad there.
+
+Walkthrough[]
+Find other battle sites on Voeld[]
+There are three battle sites scattered around Voeld; once you discover any one of them, the other two sites will be marked by navpoints . The battle sites are located:
+
+On the ice flats northwest of Hjara Station, near some ice pillars next to a Remnant site. A trail of bodies lead away from a kett vehicle.
+
+
+
+The end is coming
+Translated from Shelesh:
+
+We chased the butchers to this place, and knew they'd be waiting for us. The kett ambush was no surprise--but our fury was more than they were ready to face. We killed over half their remaining forces before the kett leader and bodyguards escaped. The enemy won't get far. We'll make sure of it. We owe them for the families of Daar Helast, for my friend Maaja, and the loyal soldiers that fell here.
+
+Maybe no one will find this message. But if our cell doesn't survive the final reckoning, someone needs to understand what happened and why. Remember the Resistance heroes that gave their lives to win this fight: Laar Tavro, Noag av Ovess, and Stigan Jaader.
+
+We'll carry their names on our lips and make sure it's the last thing our enemy hears.
+
+
+--Graj de Voorisc
+
+
+North-northeast of Techiix, with a kett vehicle surrounded by a few kett bodies.
+
+
+
+To those who follow us
+Translated from Shelesh:
+
+The people of Daar Helast were allies. They gave us shelter and support without any expectation of reward. Eight good families welcomed us as kin, and now we'll avenge their deaths like they were our flesh and blood.
+
+The kett discovered what Daar Helast did for the Resistance. They exterminated everyone. We found mothers lying atop their children. Husbands and wives cut down next to their elderly parents. These are visions that will haunt us all forever. This is a pain we'll revisit on the kett a thousand times over.
+
+Our cell will have vengeance on these butchers and leave enough corpses on the ice they'll be seen from orbit. The Resistance will not be denied.
+
+
+--Graj de Voorisc
+
+
+South-southwest of Techiix, at the southern end of the narrow canyon. It is marked by a flare surrounded by kett bodies and a dead angara.
+
+
+
+For the fallen
+Translated from Shelesh:
+
+Maaja Naes honored the Resistance. We fought beside each other through more battles than I can remember. I never saw my comrade's courage or determination waver. To those that find this message, know that Maaja Naes remained a champion of the Resistance to the end. Half the kett bodies you find at this site were delivered to oblivion by my friend's heroism.
+
+It should be my body lying here. I let the kett get behind me. Maaja protected me from my mistake and took the blows meant for me. There's no time to honor that sacrifice. The kett that slaughtered our people at Daar Helast are on the run, and we can't let them escape. Maaja would want them to pay for what they did.
+
+
+--Graj de Voorisc
+
+
+After finding all three datapads, SAM is able to estimate a location that the surviving Resistance members are headed to.
+
+Investigate the location provided by SAM[]
+The last location is northwest of Eroesk. There is a nearby Forward Station that can be fast travelled to and then head northwest to the navpoint. Nearing the navpoint location, there is a kett vehicle surrounded by bodies. It seems that the Pathfinder team is too late. A kett ship drops in more kett to fight off; once they are defeated, go up the hill to find the last datapad.
+
+
+
+
+Justice
+Translated from Shelesh:
+
+In the end, the kett learned to fear us. They fled like a pack of cowardly adhi, and we fell on them like hungry eirochs. The battle was short. I'm alone now, staring at the sky as my life drains away.
+
+If Maaja had been at our side--if we hadn't lost so many others getting here--we might have survived. I can't speak for my fallen comrades, but I regret nothing. The innocent people of Daar Helast are avenged. The kett will never forget the price they paid for invading our homes and killing our loved ones.
+
+I have to go. I hope whoever finds this message will take up my cause.
+
+
+--Graj de Voorisc
+
+
+SAM transmits the data of what happened to these Resistance members to the base, and the mission is complete.
+
+Rewards[]
++530 XP
+
+
+

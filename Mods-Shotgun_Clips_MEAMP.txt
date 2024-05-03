@@ -1,0 +1,121 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - Shotgun Spare Clip: Adds sockets to increase thermal clip capacity, increasing number of spare shots.
+Enhanced - Shotgun Asymmetric Spare Clip: Substantially increases spare ammo, but at the cost of reduced melee damage.
+Enhanced - Shotgun Heavy Spare Clip: Substantially increases spare ammo, but at the cost of accuracy.
+Note:  The Scattershot shotgun is unable to equip a Clip Mod.
+Note:  Shotgun melee damage is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Shotgun Spare Clip
+
++47%
+
++52%
+
++55%
+
++58%
+
++61%
+
++63%
+
++66%
+
++69%
+
++71%
+
++74%
+
+Shotgun Spare Ammo
+
+
+Shotgun Asymmetric Spare Clip
+
++55%-3%
+
++59%-3%
+
++64%-4%
+
++68%-5%
+
++73%-6%
+
++77%-7%
+
++82%-8%
+
++86%-8%
+
++91%-9%
+
++95%-10%
+
+Shotgun Spare AmmoShotgun Melee Damage
+
+
+Shotgun Heavy Spare Clip
+
++55%-6%
+
++59%-7%
+
++64%-8%
+
++68%-9%
+
++73%-10%
+
++77%-11%
+
++82%-12%
+
++86%-13%
+
++91%-13%
+
++95%-14%
+
+Shotgun Spare AmmoShotgun Accuracy
+
+
+Equipping a Shotgun Clip Mod changes the color of parts of the weapon to a dull red depending upon the specific weapon.
+
+
+
+

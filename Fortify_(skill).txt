@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For the power in Mass Effect 2 and Mass Effect 3, see Fortification.
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Fortify is a Combat skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Fortify
+
+
+
+Improves Damage Resistance at the cost of restricted mobility.
+Damage Resistance reduces all incoming damage via a scaling formula. For instance, 100 Damage Resistance cuts your incoming damage in half.
+
+
+Damage Resistance: 40
+Movement Speed Penalty: 35%
+Sprint Speed Penalty: 18%
+Recharge Time (s): 5
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++30% Recharge Speed
+
+
+3
+
+Protection
+
+
+
+-
+
++10 Damage Resistance
+
+
+4
+
+Protection
+
+
+
+-
+
++20 Damage Resistance
+
+
+4
+
+Mobility
+
+
+
+-
+
+Movement Speed Penalty Reduced to: 25%
+Sprint Speed Penalty Reduced to: 0%
+
+
+
+5
+
+Shield Feedback
+
+
+
+-
+
+Shield Regen Bonus: 25%
+Health & Shield Regeneration Delay Reduction: 40%
+
+
+
+5
+
+Power Armor
+
+
+
+-
+
+Melee Damage Bonus: 30%
+Gun Accuracy Bonus: 20%
+Gun Stability Bonus: 20%
+
+
+
+6
+
+Unmoving Defense
+
+
+
+Accumulate Damage Resistance as long you remain motionless with active Fortify.
+
+Damage Resistance Accumulated per Second: 10
+Max Accumulated Damage resistance: 50
+
+
+
+6
+
+Explosive Purge
+
+
+
+     Manually deactivating Fortify triggers an electric explosion, stunning nearby enemies and priming them for combo detonations.
+
+Explosion Damage: 400
+Explosion Radius: 4
+Additional Explosion Damage vs. Shields: 60%
+-50% Recharge Speed
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Human Juggernaut, Krogan Mercenary, Krogan Vanguard, Turian Soldier
+
+
+

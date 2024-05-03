@@ -1,0 +1,30 @@
+
+
+
+You need to research an augmentation and apply it to your gear at a research center.
+Contents
+
+1  Acquisition
+2 Walkthrough
+
+2.1 Research and apply an augmentation to gear
+
+
+3 Rewards
+
+
+ Acquisition[]
+Speak to the Krogan Engineer outside The Paradise on Elaaden. 
+Note: If you have developed ANY item with augmentations before finding and speaking to the Krogan engineer, he won't be at The Paradise, the mission Task: Augmentation Crafting will not be available, and the mission will not show up as autocompleted in the Journal. 
+
+Walkthrough[]
+Research and apply an augmentation to gear[]
+Research any augmentation at a Research Center.
+Take the researched augmentation and apply that augmentation to any weapon or armor piece and craft the item.
+The mission will then complete once the item is crafted with the new augmentation.
+
+Rewards[]
++270 XP
+
+
+

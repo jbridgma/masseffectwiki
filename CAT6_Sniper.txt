@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+CAT6 Sniper
+
+
+
+
+Faction
+CAT6
+
+
+Type
+Organic
+
+
+Armament
+M-29 Incisor
+
+
+Abilities
+ Tactical Cloak Assassination Smoke Grenade
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Citadel
+
+
+The CAT6 Sniper (also known as the Merc Sniper) is a CAT6 unit encountered in Mass Effect 3 Citadel DLC.
+
+Capabilities[]
+Offensive
+CAT6 Snipers are armed with M-29 Incisor sniper rifles with added laser sights.
+Defensive
+CAT6 Snipers have a moderate amount of health and possess a layer of shields, which will regenerate over time. They will often take cover during combat, coming out only to take a shot. They can utilize Tactical Cloak and smoke grenades in order to conceal their movement or to escape should Shepard close the distance. Like other Mass effect 3 enemies, they can be staggered by powers or gunfire if unshielded, and take 40% additional damage from headshots. They can perform combat rolls to dodge gunfire or projectile powers.
+
+Tactics[]
+CAT6 snipers use Incisors that fire in three-round bursts, capable of downing players by passing through both health and shield gates. The time interval between the individual shots in the burst is long enough to bypass temporary gate invulnerability on Insanity difficulty (.1 seconds), though not on Hardcore (.25 seconds) or below.
+The above makes these enemies particularly deadly on Insanity difficulty. If you neglect having enough shield strength bonuses and your shields are weak enough to be downed by the first round alone and all three rounds land, the second and third rounds will both do full damage to your health. Having enough shield strength/damage resistance to take the first round's damage without shields breaking is definitely a good plan.
+This also makes these enemies particularly deadly to squadmates on any difficulty as they lack shield gate protections altogether.
+Like Nemeses, CAT6 Snipers possess no close-range weapons or abilities and will flee if approached.
+CAT6 Snipers can throw smoke grenades, though they prefer to use them at their own feet for misdirection or to facilitate quick escapes, rather than to obscure the locations of allies like Cerberus Centurions.
+CAT6 Snipers possess Tactical Cloak, allowing them to move undetected into an offensive position or to escape from Shepard. Though difficult, it's possible to see a faint distorted silhouette of a Sniper while cloaked.
+The invisibility of CAT6 Snipers is not broken by taking damage or losing their shields (as with Geth Hunters), and it actually lasts indefinitely while in proximity to an enemy; its cooldown is also very short. They will only come out of the invisibility on their own to attack once they put enough distance between themselves and opponents. Being disabled by a power such as being lifted or ragdolled by biotics will also knock out their invisibility.
+Damage-over-time effects such as from Incinerate, Inferno Grenade, Reave, Dark Channel, or Warp are useful for keeping track of an invisible target's movement.
+Thermal scope weapon mods can enable the player to see through the invisibility of Tactical Cloak as well as smoke and cover. The Javelin possesses a built-in thermal scope by default. Squadmates do not benefit from scopes in any way and will struggle to locate invisible foes on their own.
+Combat Drone and Sentry Turret can detect and continue to attack invisible enemies.
+If a CAT6 Sniper has locked on to you, going into cover, performing a combat roll, or strafing allows you to evade or at least partially evade the shot.
+Because the CAT6 Sniper's attack pattern is so similar to the Cerberus Nemesis, deal with them in similar ways:
+Use the interval between lock-on and fire to squeeze off a shot at them, throwing off their aim; the M-37 Falcon, particularly enhanced with Disruptor Ammo, is ideal for this, stunning them while simultaneously dealing heavy damage to their shields and priming them for a Tech Burst.
+Use weapons such as sniper rifles fitted with penetration mods to hit them through cover.
+Use charged Venom Shotgun rounds, airbursts from the Falcon, or proximity detonations from the Scorpion to hit snipers behind cover or hiding in smoke. Powers that strike through terrain such as Inferno Grenade, Shockwave, Nova, Proximity Mine, or Flare can also be effective. Other types of grenades, Sentry Turret, or Combat Drone can be thrown behind obstructions.
+Use powers such as Overload to stun them the moment they peek out to shoot, preventing them from shooting you and from moving while you line up another attack to finish them off. Squadmate powers can be especially useful for this as it requires no exposure to enemy fire from anyone.
+Decoy is a fairly effective way to draw fire from CAT6 Snipers, who have a tendency to miss Decoys when firing at them. However, it's important that the Decoy is deployed so as to be closer to the snipers than any other friendly target.
+Stasis with the Bubble evolution can be particularly effective as the effect can penetrate thin cover to disable a CAT6 Sniper even while she is hiding; while this may not provide line of sight to finish her off, this can still create the opportunity to pop out from cover to relocate or deal with other threats without fear of being nailed.
+Lash with the Shield Penetration evolution can be used to hit and yank a CAT6 Sniper from out behind cover if it is angled high enough that it arcs straight downwards.
+
+
+Mass Effect 3 Enemies
+
+
+CAT6
+
+Brooks • CAT6 Heavy • CAT6 Sniper • CAT6 Specialist • Clone • Disruption Drone
+
+
+Cerberus
+
+Adjutant • Assault Trooper • Atlas • Centurion • Combat Engineer • Dragoon • Dr. Eva • Guardian • Kai Leng • Legion Assassin • Nemesis • Phantom • Rampart Mech • Turret
+
+
+Collectors
+
+Abomination (Possessed) • Collector Captain (Possessed) • Collector Trooper (Possessed) • Collector Web • Praetorian (Possessed) • Scion (Possessed) • Seeker Swarm (Plague)
+
+
+Geth
+
+Combat Drone • Geth Bomber • Geth Hunter • Geth Prime • Geth Pyro • Geth Rocket Trooper • Geth Trooper • Geth Turret
+
+
+Reapers
+
+Banshee • Brute • Cannibal • Harvester • Husk • Marauder • Ravager • Swarmer
+
+
+
+

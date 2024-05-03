@@ -1,0 +1,61 @@
+
+
+
+
+
+H-599
+
+Region
+Andromeda / Heleus Cluster / Zheng He
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+3.2 AU
+
+
+Orbital Period
+3.2 Earth Years
+
+
+Keplerian Ratio
+3.2
+
+
+Radius
+8,920 km
+
+
+Atm. Pressure
+0.12 atm
+
+
+Surface Temp
+426 °C 
+
+
+Location: Andromeda / Heleus Cluster / Zheng He System /  Second planet
+
+
+Description[]
+With its distinctive ring, H-599 was used as a rendezvous point during the Nexus' early attempts at exploration. Pilots still use the term "a 99 run" for a short journey with numerous hazards.
+
+Anomaly[]
+Starship Wreckage[]
+DATA:
+Ship ident: Nexus 46-23
+Ship name: "Caryatid"
+Crew complement: 5
+Status: Reported missing, presumed lost
+ANALYSIS:
+The Caryatid is heavily damaged and adrift, but salvageable.
+Awards random Salvage when scanned.
+
+
+
+

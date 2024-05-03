@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+This article is about Liara T'Soni's class in Mass Effect and her class power in Mass Effect 2. For her class power in Mass Effect 3, see Pure Biotic. For the asari enemy called Scientist in Mass Effect, see Scientist (asari).
+
+
+Contents
+
+1 Mass Effect
+
+1.1 Talents
+1.2 Class Talent
+1.3 Availability
+
+
+2 Mass Effect 2
+
+2.1 Power Ranks
+
+2.1.1 Asari Controller
+2.1.2 Asari Operative
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+
+
+Mass Effect[]
+See also: Squad Members Guide#Liara T'Soni
+Asari Scientist is a non-playable class in Mass Effect.
+The Asari Scientist is primarily focused on biotic power, though the Electronics talent, unlocked from First Aid, can increase shield strength as well as provide some ability to overload enemy shields and access secure objects and systems. Both an omni-tool and a bio-amp may be equipped. The class lacks any special weapon training.
+Legendary Edition:  The bonus to First Aid recharge times has been significantly improved, with an increasing rate of return from talent points invested.
+Warning: If all of Liara's abilities that are actively usable in combat are unlocked, the Overload ability icon becomes hidden in the HUD. This occurs in all versions of the game, despite changes in the HUD design. The player will only be able to benefit from Liara's Overload if the Squad Power Usage option is set to "Active" allowing her to use it without being explicitly ordered.
+
+Talents[]
+See also: Talents#Class Specific
+
+
+
+
+
+Class: Asari Scientist
+
+
+ Throw
+
+
+
+
+ Lift
+
+Unlocked at Throw 6
+
+
+ Warp
+
+
+
+
+ Singularity
+
+Unlocked at Warp 7
+
+
+ Barrier
+
+
+
+
+ Stasis
+
+Unlocked at Barrier 5
+
+
+ First Aid
+
+
+
+
+ Electronics
+
+Unlocked at First Aid 4
+
+
+
+
+
+
+
+
+Class Talent[]
+Liara's background allows her to maximize her biotic abilities.
+Reduces recharge time of biotics
+Improves health restored and recharge time on squad healing
+
+
+Reduces recharge time on all biotics by 4%. First Aid heals an additional 20 points of damage. Reduces recharge time on First Aid by 1% (LE: 5%).
+Reduces recharge time on all biotics by 6%. First Aid heals an additional 30 points of damage. Reduces recharge time on First Aid by 2% (LE: 10%).
+Reduces recharge time on all biotics by 8%. First Aid heals an additional 40 points of damage. Reduces recharge time on First Aid by 3% (LE: 16%).
+Reduces recharge time on all biotics by 10%. First Aid heals an additional 50 points of damage. Reduces recharge time on First Aid by 4% (LE: 23%).
+Reduces recharge time on all biotics by 12%. First Aid heals an additional 60 points of damage. Reduces recharge time on First Aid by 5% (LE: 31%).
+Reduces recharge time on all biotics by 14%. First Aid heals an additional 70 points of damage. Reduces recharge time on First Aid by 6% (LE: 40%).
+Availability[]
+Liara T'Soni
+Mass Effect 2[]
+See also: Squad Members Guide (Mass Effect 2)#Liara T'Soni
+Asari Scientist is passive class power in Mass Effect 2.
+
+
+Increases Liara's combat skills, weapon damage, and health; improves her power recharge time
+
+Power Ranks[]
+Rank 1 - Liara's combat experience improves her health, weapon damage, and the recharge time of her powers.
+Health: +5.00%
+Weapon Damage: +6.00%
+Power Recharge Time: -6.00%
+Rank 2 - Liara's combat experience improves her health, weapon damage, and the recharge time of her powers.
+Health: +10.00%
+Weapon Damage: +12.00%
+Power Recharge Time: -12.00%
+Rank 3 - Liara's combat experience improves her health, weapon damage, and the recharge time of her powers.
+Health: +15.00%
+Weapon Damage: +18.00%
+Power Recharge Time: -18.00%
+Rank 4
+Evolves Asari Scientist into one of the following options:
+
+Asari Controller[]
+Liara spends time developing her biotic abilities, further reducing the recharge time of her powers.
+Health: +20.00%
+Weapon Damage: +18.00%
+Power Recharge Time: -25.00%
+Asari Operative[]
+Liara's combat experience improves her targeting skills, increasing weapon damage.
+Health: +20.00%
+Weapon Damage: +25.00%
+Power Recharge Time: -18.00%
+Player Notes[]
+Availability[]
+Liara T'Soni
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+

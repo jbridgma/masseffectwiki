@@ -1,0 +1,50 @@
+
+
+
+
+Someone is making trouble in Eternity, the popular bar on Illium.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Mass Effect 3 Consequences
+4 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Horizon (mission)
+
+Prerequisite: Citadel: The Fan
+
+Outside the bar, its asari owner loudly complains that a human male is causing trouble inside. Simply arriving at her proximity gives you the assignment, initially labeled Illium: A Troublemaker in the journal.
+Note:  This assignment is only available if you completed Citadel: The Fan in Mass Effect, through the use of either Charm or Intimidate, and imported that save file.
+
+Walkthrough[]
+If you want morality points, talk to the asari first for details. She disappears once you talk to the troublemaker. Most subsequent interactions in the assignment are rife with points, so mind your dialogue choices.
+
+
+Enter Eternity and speak to the troublemaker at the bar. He turns out to be none other than Conrad Verner, an obsessed Commander Shepard fan trying to prove himself by harassing the bartender. Any of the first three responses you can make has morality points. Afterward, more options appear, wherein you can investigate Conrad's activities up to this point, go back to the main topic at hand and ask what he's doing at the bar, or tell him to get lost. This is the only opportunity to ask about his backstory (and see the bartender facepalming on some parts), so if you haven't heard it yet do so before returning to the main topic.
+When you ask about what he's doing, Conrad says that an asari weapons merchant claiming to be an undercover cop told him that the bar was a front for red sand dealers and convinced him that she needed the deed to the bar in order to shut down their operation. This erroneous information was given by the Gateway Personal Defense dealer. The bartender insists that her bar does not sell red sand-- nor does it matter, because red sand is legal on Illium as long as the seller has a license. You decide to take over Conrad's "investigation" or again have the opportunity to tell him to get lost. If you plan to resolve the matter, Conrad ceases pestering the bartender and moves to the side, bidding you good luck. Either way the assignment is then renamed Illium: Conrad Verner.
+Note:  Telling Conrad to leave concludes the assignment but still lists talking to the asari merchant as a "completed" objective in the journal. Sometime later there will be a news report stating that Conrad Verner died in a somewhat comical way attempting to stop a pair of teenage bus surfers.
+
+
+The next phase of the assignment should you take it over would be going to the carport and talking to the Gateway Personal Defense merchant. The dealer initially assumes you're as gullible as Conrad and tries to convince you with the same spiel. 
+You can use the Paragon or Renegade persuasion options immediately or call her out. If you tell the merchant you know she's just scamming Conrad without using the initial Paragon/Renegade options, you get another opportunity to use the Paragon/Renegade options, stay firm and tell her to leave, or investigate why she's doing this. Using the persuasion options at any stage will give you a store discount. However the talk concludes you still need to speak to Conrad to finish the assignment.
+If you ask about her motivations, the dealer reveals that she wanted the deed to the bar in order to advance her business (she describes the bar as "prime real estate"). Everything she did is also legal, claiming Conrad misunderstood her intent and her security cameras "malfunctioned" when she was roping him in on her scheme. 
+
+
+If you choose the Paragon option, you play along with the dealer and persuade her to demand the deed herself. When you return to Eternity a scene plays out of her arrest, as the owner had surveillance and security present at the bar following Conrad's botched attempt. When you talk to him he will be confused by this and ask Shepard what is going on, and at this point the you have several options: Lie to him and say that the dealer was actually a deep cover operative belonging to a terrorist cell and Conrad helped a great deal by bringing this to Shepard's attention (Charm), tell him that he botched it (Intimidate), or do neither. Using the persuasion options results in Conrad leaving while still believing the delusion, but if you didn't use the persuasion options he realizes he screwed this up on his own. At this point you have one final chance for a Paragon/Renegade pep talk, walk away, or double down on keeping his spirits down. If you didn't lift his morale, he hurriedly sets out to prove he can do what you're doing, and later dies the same way as if you just told him to get lost.
+On the other hand, if you choose the Renegade option, you threaten the dealer and make her lie to Conrad, telling him that he helped take care of the red sand dealers. When you return to Conrad you either tell him he did well and should stop, or lie and say the operation was dangerous and Conrad could have been killed, in which case he apologizes for worrying Shepard. He also walks away believing the delusion.
+If you choose to help Conrad with persuasion options, there is Galactic News report on the founding of Conrad's charity, "Shepards", which aims to help orphans, POWs and refugees. If you didn't use the persuasion options and just told the merchant to leave, she complies but you get no discount. When you return to Conrad he realizes he screwed this up on his own, and same as with the Paragon path with the merchant you need to lift his spirits via persuasion options or he will die attempting to prove he can make a difference.
+
+Mass Effect 3 Consequences[]
+Conrad will show up again in a mission provided that he didn't die following this assignment.
+
+Mission Summary[]
+The situation with Conrad Verner and the lying weapons merchant has been resolved, and Conrad seems happy with the outcome.
+
+Experience reward: 40 (50)
+
+
+

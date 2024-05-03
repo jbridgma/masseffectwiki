@@ -1,0 +1,33 @@
+
+
+
+The Scanner is an Omni-tool function in Mass Effect: Andromeda. 
+
+Overview[]
+Pathfinder Ryder can interact with and investigate all manner of materials, minerals, life forms, technologies, and other items during the exploration of the Heleus Cluster. Detailed examination and investigation is possible with the use of the scanner. The scanner also functions as a diagnostic and/or forensic tool to aid in field repairs and investigations.
+
+Codex[]
+Planetary surveying, especially for potential settlement involves meticulous scanning. However, there has been little pressure to improve planetary scanners. In its search for a better solution for its Pathfinders, the Andromeda Initiative began with hardware salvaged from geth platforms and software developed by the salarian STG.
+With artificial intelligence support, Initiative scientists developed a fast, accurate sampling system codenamed Panoptes. Linking it to the quantum computing power of an AI, which can produce multiple analyses and predictive models in seconds, they created an omni-tool mounted scanner that completes accurate surveys in moments instead of weeks. 
+For typical scanning, the Panoptes system uses a transmitted accelerator mass spectrometer (TRAMS). This creates a "snapshot" of an object's components, atomic weight, and radioactivity, and allows SAM to produce a more in-depth analysis. For biological materials, the Panoptes system switches to an electrospray ionization system, so plants or animals can be scanned without causing radiation damage.
+
+Mechanics[]
+Ryder should scan everything in a new environment to explore the area to find Research Data, mission related objects, and many other items.
+
+Items that can be scanned will turn a dark orange color when initially scanned. Scan the item until the scan registers.
+Once an item is successfully scanned that item will be a light transparent yellow color when scanned again and a text box with description will be displayed.
+Scanning is line-of-site only! Scanning the outside of building WILL NOT scan the inside of the building. Ryder will have to go inside the building and scan line-of-sight to make sure everything is scanned.
+Scans can penetrate items to a certain very shallow depth to light up items to follow (wires, conduits, piping, etc.) but this does not penetrate through what is being scanned. Again, scanning is line-of-sight only.
+Scanning is somewhat distance limited. Items that can be scanned but are out of the range of the scanner will turn a solid yellow color. Ryder isn't able to stand at the top of a cliff and scan an entire outpost with a quick scan. Usually a only few meters at most will register on the scanner. Ryder can easily scan the inside of a large room but a very large room may require Ryder walking to different portions to have the scan register correctly. Most times very large areas are broken up by items that negate line-of-sight so moving around would be required anyways.
+If an item awards RD, the applicable RD icon will flash and light up gold colored, expand in size for a quick moment, and then the total RD amount will increase. Large amounts of RD (50 or 100) will show on screen as a displayed reward. Lower amounts will not show on screen.
+Not everything that turns orange when initially scanned will award RD. Most of the time RD is awarded but not always.
+Scan everything! Lots of innocuous looking items that blend into the surrounding will award RD. Don't just assume that items are benign background and not worth scanning.
+Don't just scan in front of Ryder. Scan floors below and ceilings above. Lots of items can be found in non-standard locations.
+Make sure to jump up on top of buildings (or other high places). Lots of items are hidden on the top of buildings which are out of line-of-sight that can be scanned for RD.
+Look under and around items for scanning opportunities as well. There are lots of places that items have been hidden that are just out of line-of-sight but yield large RD when scanned.
+Don't assume that scanning one item means that the item is forever known to Ryder from now on. Sometimes multiple items of the same type can be scanned in the same location and each one will give RD. The same item to be scanned in a different location or on another planet may also be able to be scanned again for additional RD.
+Unless Ryder is being attacked, it's worth trying to scan as much as possible. Ryder might be able to get a quick scan of enemies if the squad has engaged the enemy first to draw attention away from Ryder.
+If Ryder is attacked while scanning, scanning function will stop and need to be reactivated (or the threat eliminated) to continue scanning.
+
+
+

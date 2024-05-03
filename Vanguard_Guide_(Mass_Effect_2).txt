@@ -1,0 +1,247 @@
+
+
+
+See also: Vanguard Guide, Vanguard Guide (Mass Effect 3)
+
+Vanguards are outfitted with L5n implants, enabling them to perform a biotic charge that strikes the opponent with incredible force while bringing the Vanguard in close for short-range combat.
+Power Training: Biotic Charge, Pull, Shockwave
+Weapon Training: Shotgun, Heavy Pistol, Submachine Gun
+Ammo Training: Incendiary, Cryo
+Vanguards are feared for their high-risk high-reward combat style, closing quickly on enemies and destroying them at close range with weapons and biotic abilities.
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Incendiary Ammo
+2.1.2 Cryo Ammo
+2.1.3 Charge
+2.1.4 Shockwave
+2.1.5 Pull
+2.1.6 Assault Mastery
+
+
+2.2 Notable Bonus Powers
+
+2.2.1 Reave
+2.2.2 Slam
+2.2.3 Barrier
+2.2.4 Warp Ammo
+2.2.5 Armor Piercing Ammo
+2.2.6 Energy Drain
+2.2.7 Stasis
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Weapons
+
+3.1.1 Heavy Pistols
+3.1.2 Submachine Guns
+3.1.3 Shotguns
+
+
+3.2 Heavy Weapons
+
+3.2.1 M-100 Grenade Launcher
+3.2.2 ML-77 Missile Launcher
+3.2.3 M-622 Avalanche
+3.2.4 M-920 Cain
+3.2.5 Collector Particle Beam
+3.2.6 M-490 Blackstorm Projector
+3.2.7 M-451 Firestorm
+3.2.8 Arc Projector
+
+
+3.3 Advanced Weapons Training
+
+3.3.1 Assault Rifles
+3.3.2 M-300 Claymore
+3.3.3 Sniper Rifles
+
+
+
+
+4 Combat Guide
+5 Squad Members
+
+
+
+Overview[]
+The main difference between Mass Effect and Mass Effect 2 is that the Vanguard is now more focused on close combat. This is supplemented with a defensive mechanic provided by Charge which instantly restores player's shields and, for a short time, boosts their maximum power. However, due to fast paced Mass Effect 2 combat system, the Vanguard is often put in a dangerous position and can feel fragile under fire as compared to Mass Effect. Vanguards are able to use the following weapons: heavy pistols, submachine guns, shotguns, and heavy weapons. Shotguns mix well with the Vanguard's Charge and aggressive play style.
+While other classes tend to hide behind cover and shoot at foes from afar, a Vanguard's main strategy is to charge in (preferably picking off the isolated enemies first), headshot with the strongest shotgun available and finish off with melee hits. Given Charge's 6 second cooldown, this can be done rather often. On lower difficulties where enemies are largely unprotected, or with the right strategy (using powers to strip the defenses of enemies first), powers like Shockwave or Cryo Ammo can obliterate large groups of enemies with ease.
+When it comes to armor and defensive upgrades, the Vanguard benefits the most from shield-enhancing armor parts and upgrades compared to the health upgrades, since Charge's bonus to shields depends on how much shield you have. Offensively, weapon damage is far more important than power damage when it comes to armors. For this purpose, the Kestrel Armor is very useful, as it boosts shields, melee and weapon damage and adds some other bonuses as well. It is also useful to take the first 3 biotic damage upgrades early to unlock the duration and cooldown upgrade for biotics, but they don't benefit Charge.
+
+Powers[]
+Class Powers[]
+Incendiary Ammo[]
+Main article: Incendiary Ammo
+This power adds extra fire damage over the next few seconds, which stops enemies from regenerating, and works effectively against armor. It also causes unprotected organic enemies to instantly panic for a couple of seconds. Incendiary Ammo is a solid power choice when dealing with armored and/or organic enemies and remains more so on Hardcore and Insanity, where armor is the most common protection found. However, it loses to Armor Piercing Ammo in damage boost and to Warp Ammo in general versatility.
+
+Cryo Ammo[]
+Main article: Cryo Ammo
+Cryo Ammo freezes targets after a few seconds from hitting them, keeping them immobile, harmless, and more vulnerable to damage. Freezing also instantly kills husks. Cryo Ammo seems to have a 100% chance of freezing when using the M-6 Carnifex Hand Cannon, the M-5 Phalanx, or the non-automatic shotguns as long as the hit damages the enemy's health. Cryo Ammo is a very solid power choice on Veteran or lower difficulties, but loses a large part of its edge on Hardcore and Insanity difficulties since all foes come with protection (armor, shields or barriers). Overall, it is still a useful power and remains a good 1 point investment, especially when dealing with husks and synthetic enemies that are not susceptible to Incendiary Ammo.
+
+Charge[]
+Main article: Charge
+Charge is the Vanguard-exclusive ability, which moves you through cover across the battlefield and into the targeted enemy's face. The enemy is sent flying if it had no protection; otherwise, it is only knocked back for a couple seconds. Not even the krogan and Geth Primes are immune to the knockback effect. While ammo powers and shotguns are what the Vanguard will likely use the most to dish out large amounts of damage, Charge is the ability that lets a Vanguard use them to the fullest potential while remaining alive. As such, it is a vital power and one that is very useful to maximize early.
+Charge combines well with the shotgun because, at short range, not only does Charge take you to point-blank range allowing you to hit with all the pellets, you also get the double damage bonus shotguns receive at close range in Mass Effect 2. This tactic is extremely deadly with the heavy-hitting shotguns such as the M-300 Claymore Heavy Shotgun, Geth Plasma Shotgun, or the M-22 Eviscerator Shotgun. With the Heavy Charge and/or quick reflexes, it is possible to land headshots for even higher damage.
+Charge also provides a 4 second bonus to your maximum shield value as well as recharging them. The larger, restored shield increases the Vanguard's survivability following a Charge and makes it a viable tactical option even when Shepard is wounded and shieldless, especially if using Charge gets Shepard out of harm's way and/or knocks down an attacker at the same time.  The boost to maximum shields also stacks with similar bonuses provided by Energy Drain or shield boosting bonus powers such as Barrier, Geth Shield Boost, and Fortification.
+Charge has significant utility, providing unsurpassed mobility to a skilled user. This is most useful in scenarios where the player just has to "tag" something to complete mission objectives, such as during the ventilation shaft run on the Collector Base. A player with good situational awareness can use Charge to continuously outflank a large group of enemies by "dancing" around them, continuously charging from one more isolated enemy to another. Fully maxed out Champion-spec Assault Mastery reduces cooldowns enough to make this tactic viable even on higher difficulties. Using Charge can still stagger otherwise protected enemies briefly, preserving the usefulness of Charge into Hardcore and Insanity modes. Finally, a player trapped in a large group of enemies can locate an enemy outside of the group and use Charge to escape.
+Charging does have a few disadvantages: the enemy must be on a 'reachable' part of the map, which rules out charging into snipers on a platform, the shield bonus is short-lived (only 4 seconds) meaning the Vanguard may need to run for cover right after charging (and shooting). Vanguards have to know when to use Charge, and more importantly when not to. An impulsive Charge can lead to a short victory but can also lead to an instant death. Vanguards should plan their next move after charging (and after a possible kill). Considerations include the next safe position, if enemies can outflank you post-Charge, and what weapons your enemies are using (enemies also deal extra damage at point blank range). In situations where a player is forced into ranged combat (such as the biotic bubble run on the Collector Base), Charge is rendered completely useless. Unless a player received assault rifle or sniper training, a Vanguard will be at a serious disadvantage. When charging, make sure whichever weapon you want to use when you hit the enemy is equipped, as having to switch weapons post-charge is VERY time consuming, and every second counts after a charge.
+On Hardcore and Insanity, more emphasis must be placed on softening up enemies before using Charge, the reason being that a squad of enemies will shred you once you engage at point blank. It might be a better idea to thin the herd before Charging in, eliminating elites or bosses before attacking any grunts up close. Charge often, as it will be the only way to keep refilling barriers in the thick of battle.
+In summary, Vanguards must still utilize squadmates' abilities to disable foes and must plan ahead when charging into an enemy formation; the Vanguard may be powerful and able to take a good deal of damage, but they are not invincible. Situational awareness is the key to success.
+
+Shockwave[]
+Main article: Shockwave
+Shockwave creates a line of explosions in front of the Vanguard that ignores cover and height. The explosions deal damage and knock away unprotected enemies. As with other biotic powers, it instantly kills unprotected husks. It is an extremely powerful ability on Veteran or lower difficulties where enemies are largely unprotected, wreaking havoc through the enemy formation.
+Unfortunately, like other area biotic powers and most disabling powers, Shockwave loses its usefulness on Hardcore or Insanity difficulty, where all foes bring some sort of protection. It can still be used if one takes the time to destroy such protections from several foes first but this is not practical with a class that has no direct protection-removing powers.
+However, protected targets hit with Shockwave will temporarily stand up and recoil slightly. This can be useful on higher difficulties as hitting a group of foes with it will allow the Vanguard a brief moment of respite to either return fire or reposition, as well as allow squadmates to utilize their abilities free from retaliation. This tactic must be used strategically, as enemies are only off-balance a short while.
+If another biotic that possesses Shockwave (such as Jack) is in the squad, the two biotics should time Shockwaves properly. Against unprotected targets, sending both Shockwaves together can devastate even the largest groups of enemies (the player will have an extra cooldown to use in the time it takes for the other squad member to cooldown). If targets are protected, however, Shockwaves should be staggered apart to maximize the amount of enemy recoil time per cooldown.
+
+Pull[]
+Main article: Pull
+Pull makes the affected enemy float helplessly towards the direction it was hit from. A strategically arced Pull can drag foes out of cover or even towards pitfalls. Floating foes receive extra damage from Warp Ammo, Warp, and other biotic powers. They also fly further when hit by a Throw or Charge. Floating enemies are also easy targets for squadmates, which saves you ammo. With a 3 second cooldown, Pull is a Vanguard's quickest recharging biotic power, making it extremely useful against numerous weak, unprotected enemies. As an example, it is viable to destroy the Husk's armor on Hardcore or Insanity difficulty with one or two pistol shots at mid-range, and then Pull each one in quick succession, which automatically kills them. This conserves shotgun ammunition in situations when they begin to overwhelm you or when you run into Scions.
+
+Assault Mastery[]
+Main article: Assault Mastery
+This is the passive ability which increases your health, weapon damage, and decreases power recharge time. It also provides a bonus to Paragon/Renegade scores and is definitely worthwhile to maximise. Champion grants additional Paragon/Renegade bonuses, health boost, further reduces power recharge times and also maximizes power duration. Destroyer, on the other hand, yields further increases to weapons and power damage.
+
+Notable Bonus Powers[]
+Reave[]
+Main article: Reave
+Reave is a great skill that has good synergy with the champion or destroyer specialization, as both specializations provide an equivalent damage increase. It offers the Vanguard the ability to strip 2 of the 3 protections at range as well as dealing damage. The only disadvantage is that Reave is an active power and all active powers share the same cooldown, if the Vanguard uses Reave, then it is impossible to Charge for the next 6 seconds. Still, Reave can be useful against enemies that are unreachable by Charge, and in situations where using Charge is likely to result in death. Reave can also be used to soften up enemies prior to a Charge, or to bolster Shepard's health with a temporary boost before entering the fray. When using Reave on an organic enemy stripped to health they are sometimes unable to attack with powers or weapons, and are locked into a position for valuable seconds. This makes it useful for use on high damage output enemies such as Heavy Weapon Mercenaries, Vanguards, and Engineers.
+
+Slam[]
+Main article: Slam
+Slam can in many cases be used in place of Pull (e.g. setting up Warp explosions, instantly killing Husks). Unlike Pull, Slam travels instantly (direct line of sight), which makes it more reliable in some situations. In the early game, the Vanguard can save 4 skill points that don't need to be invested in Shockwave/Pull, so that Charge/Class Passive can be maximized earlier. The single point that the bonus power receives by default is sufficient.
+
+Barrier[]
+Main article: Barrier
+Vanguards have a very aggressive fighting style and tend to stay very close to their foes. Having Barrier at the start of the fight complements the Charge strategy by adding a safety net that should last at least one or two Charges into the fray. The maximum shield bonus also stacks with the maximum shield boost provided by Charge, creating an extra powerful shield/barrier for Shepard following a Charge. Just like Charge, Barrier immediately recharges the user's shield when used, so even a Rank 1 Barrier can be used as a "panic button" of sorts to buy you time to run for cover if your standard barrier is breached, there is no easy way to escape a situation, or you are unable to use a Charge for that purpose. Additionally, unlike Charge (or any other defensive ability), Barrier has no animation, meaning it can be used even when Shepard is staggered from something like a missile or a flamethrower. However, as its cooldown is almost twice that of Charge and it offers no offensive ability or time dilation. Any defensive talent, and especially Barrier, benefits greatly from the Champion specialization's increased duration and reduced cooldown.
+
+Warp Ammo[]
+Main article: Warp Ammo
+Warp Ammo is a recommended ammo power due to its versatility, but it is also a mixed bonus power. While it does help  against barriers, there are better alternatives, and if you do need Warp Ammo, then evolving Jack's is probably a better option than selecting a bonus power for a Vanguard. However, it provides immediate bonus damage against all types of hitpoints except shields, making it very useful against most enemies in the game. It also synergizes well with Pull. While the damage bonus is slightly lower than other ammo powers, it's free of their drawbacks, and the immediate damage bonus plays well with Vanguard's aggressive playstyle. On the other hand, Warp Ammo can free up points that would be spent on Incendiary and Cryo Ammo, allowing them to be allocated elsewhere.
+
+Armor Piercing Ammo[]
+Main article: Armor Piercing Ammo
+Armor Piercing Ammo is a somewhat redundant power due to the availability of Incendiary Ammo. Both powers deal extra damage to armor and health. AP Ammo's advantages over Incendiary Ammo are slightly higher bonus damage (additional 10% for the same level of evolution), immediate bonus damage to health as opposed to Incendiary Ammo's Damage over time against health, and no loss of damage against synthetics' health (synthetic are resistant to Incendiary Ammo's fire-based bonus damage). This is offset by Incendiary Ammo's negation of krogan and vorcha health regeneration and panicking of sapient targets being set on fire. The fire's crowd control effects can be life-saving on higher difficulties. Additionally, that 10% extra damage is only applied to the base weapon damage, not upgraded weapon damage. So once you're at 3/6 weapon upgrades or higher, the overall damage increase is relatively small.
+AP Ammo might be worth considering as a temporary bonus power for missions involving combat with mostly synthetics or animal-intelligence organics (who do not exhibit panic behaviour). For players looking to stay with a single power throughout a playthrough, Incendiary Ammo is generally superior (considering the vast majority of combat in Mass Effect 2 is against sapient organics vulnerable to panicking) and taking AP Ammo will likely be a waste of the Bonus Power slot.
+
+Energy Drain[]
+Main article: Energy Drain
+Vanguards have no natural powers to help them with shields, a protection which numerous enemies possess. Energy Drain not only inflicts heavy damage on shields, it restores Shepard's barrier and also increases its maximum value for a limited time (30 seconds). The drawback is that the cooldown time can interfere with using Charge, but a smart Vanguard can use Energy Drain prior to charging into a battle. That way, Shepard can still take advantage of the bolstered shields and have them fully recharged, increasing survivability. In addition, the bonus to maximum shield/barrier granted by Level 2 Charge and higher stacks with the bonus provided by drain, creating an extra large shield for a brief period following a charge.  Energy Drain also helps combat synthetics, which Vanguards are not optimally equipped to fight because they have no natural powers useful against them such as Overload or AI Hacking.
+
+Stasis[]
+Main article: Stasis
+Stasis offers a unique opportunity for a Vanguard; it can stun an enemy for a long duration, making them unable to move or attack, albeit invincible. Stasis can take a particularly dangerous enemy out of a fight, making it safe for a Vanguard to bum-rush the enemy. Useful even against boss characters and enemies with protection layers, this power is flexible enough to be used for offense (to disable troublesome enemies) or defense (to stop pursuing enemies cold). Its only flaw is its cooldown period, which interferes with Charge.
+
+Weapons and Equipment[]
+Weapons[]
+Heavy Pistols[]
+Main article: Heavy Pistols
+As with every class you have two options: the M-3 Predator, and the M-6 Carnifex Hand Cannon. The M-3 Predator has the more  ammo of the two, but  the Carnifex is arguably the  better choice. Although it has low ammo capacity, the  damage, range, tight  shot grouping and fact that you obtain the weapon early on more than compensate. On another note, a fully upgraded M-3 Predator does well enough to be considered worth the while. Regardless of one's preference, it is important to keep in mind that the Heavy Pistol is the Vanguard's only weapon class (not including advanced training or Heavy Weapons) that deals increased damage against Armor. Since many of the most dangerous enemies have Armor instead of health, and since many previously unprotected foes will gain Armor on Hardcore and Insanity difficulties, it is important to ensure that your pistols are kept upgraded and their shots chosen carefully. 
+For Vanguards, heavy pistols are probably the best option for mid-range combat. The M-6 Carnifex can cut down weak enemies in 1-2 shots on normal. Shot placement is a must, so aim  for the head whenever you can, because the M-6 has limited ammunition, and Vanguards generally lack alternative weaponry. Fortunately, the M-6 Carnifex shoots exactly where you point it when stationary and aiming. However, you'll find very quickly that you cannot rely on your heavy pistol alone.
+The Firepower Pack DLC adds a third choice in heavy pistols, the M-5 Phalanx. Possessing even greater stopping power and accuracy than the Carnifex, it is an excellent option for Vanguards looking to add a long range weapon to their arsenal. Unfortunately, the Phalanx suffers from extreme recoil and a relatively slow refire rate, making it less effective at shorter distances, the Vanguard's preferred range. The player must decide which pistol best suits their particular play style.
+
+Submachine Guns[]
+Main article: Submachine Guns
+Submachine guns have a very high ammo capacity and can strip down barriers and shields swiftly, the latter of which is an area the Vanguard lacks both biotic powers and specialized ammunition against. However, they fall short when dealing with armored foes. The M-9 Tempest is the better of the two choices, as the Vanguard's point-blank combat style negates its accuracy issues and capitalizes on its rapid damage output. With addition of the Kasumi - Stolen Memory DLC, players can find a third SMG, the M-12 Locust. It fulfills a role closer to an assault rifle, boasting high accuracy at long ranges and having the same 1.25 damage bonus against all protections as most ARs, rather than the standard 1.5 vs shields/1.0 vs armor of other SMGs, while also having a lot of spare ammunition. SMGs can quickly become a Vanguard's best friend and primary weapon alongside the shotgun.
+
+Shotguns[]
+Main article: Shotguns
+Shotguns are the primary weapon of the Vanguard and are the dominating weapon at close range. However, shotguns have too large a spread to be anything more than a waste of ammo at mid or long-range. There are a total of five shotguns in the Vanguard's arsenal, with one obtained through the Cerberus Network DLC, another obtained only through advanced weapon training, and the most recent obtained in the Firepower Pack DLC. Shotguns are the staple weapon for the Vanguard and shouldn't be taken lightly. They are effective at close range and along with the other weapons, rounds out the Vanguard nicely in mid to close-range combat. The Geth Plasma Shotgun is better at slightly longer ranges and, when overcharged, deals the most base damage. While it doesn't have the spread pattern that the other shotguns do, its ability to inflict critical damage against one or a small group of opponents, makes it a notable choice for picking up. It is worth noting that the Claymore (accessible through Advanced Training) and the Eviscerator are the only two shotguns that deal increased damage against Armor, which is a common protection found on more difficult enemies. The Eviscerator also extends your effective range significantly. For sheer DPS, the Scimitar remains the best choice. On higher difficulties, the Eviscerator can still "one-shot" enemies with all possible damage upgrades, and works well with the Charge strategy, and doesn't possess the same targeting problems the Plasma Shotgun may possess at close range.
+
+Heavy Weapons[]
+M-100 Grenade Launcher[]
+Main article: M-100 Grenade Launcher
+The grenade launcher is useful in taking out a lot of enemies really quickly. The best thing about it is you have it from the start. Good for use in the early game, but once the Vanguard's capabilities improves in the later stages, other weapons may be of better use. Conversely, a Vanguard may choose to rely on the M-100 for the entire game, as it can knock down enemies even if their protections are still intact, allowing the Vanguard to advance to devastating effect. Shots must be very well-placed, however, since ammo is limited and the projectile travels relatively slowly.
+
+ML-77 Missile Launcher[]
+Main article: ML-77 Missile Launcher
+The missile launcher is essentially a dumbed down version of the M-100 that comes with a decent ammo capacity. For Vanguards it is situationally effective in missions against gunships or other highly mobile tough enemies, where the Vanguard lacks alternative weaponry, but is also useful for taking down smaller targets. As a rule, the Vanguard benefits more from the M-100's knockdown capabilities.
+
+M-622 Avalanche[]
+Main article: M-622 Avalanche
+The M-622 takes chunks out of enemy protections, although it does not do much damage compared to the other weapons of a Vanguard. The M-622 freezes any enemies within the vicinity of the projectile's impact making them vulnerable to attack. However, this can also be achieved through the usage of the Vanguard's Cryo Ammo power. The Avalanche is a decent choice for Vanguards who forsake Reave or ammo powers for a more defensive ability, as its protection stripping abilities are quite substantial. Note that though the Avalanche can be charged, doing so has no effect; the weapon can be fired quickly and safely from cover.
+
+M-920 Cain[]
+Main article: M-920 Cain
+For Vanguards who have chosen the barrier bonus power, raising a biotic barrier in advance can help with negating the Cain's charge-up time. It is very effective for bosses (e.g. Thresher Maw) and certain parts of the suicide mission where Vanguards lack long-range weaponry. This is the most powerful heavy weapon available, which will destroy anything in its blast radius instantly. Vanguards lacking a defensive power will be hard pressed to wield the Cain effectively, especially on higher difficulties where the Cain is more useful.
+
+Collector Particle Beam[]
+Main article: Collector Particle Beam
+Found during the mission on Horizon. The Collector Particle Beam is one of the better heavy weapon choices for a Vanguard to fulfill the class deficit in long range weaponry. The Particle Beam unleashes a sustained particle beam which deals continuous damage at a high rate to a single target. It works well at any range, especially medium and long ranges, against shields, barriers, and armor, easily making up for what Vanguards lack in the weapons department. It is not very difficult to aim at all, and very useful for taking down larger enemies quickly.
+
+M-490 Blackstorm Projector[]
+Main article: M-490 Blackstorm Projector
+For Vanguards, the M-490 finds its main use as a weapon to augment the control of enemy movement. It is particularly useful against weaker unshielded enemies. The long cooldown period and abundant enemy protection layers prevent the Blackstorm from being an effective weapon for Vanguard on higher difficulties.
+
+M-451 Firestorm[]
+Main article: M-451 Firestorm
+The Firestorm is a short-range flamethrower, and fills a similar role to the Vanguard's primary weapon, the shotgun. However the M-451 has a much higher damage output and has no need to reload. It burns through armor and health very quickly. It is also effective at controlling smaller enemies through the burning animation and even taking out larger enemies (e.g. Scions). Fire also has the added ability of blocking the health regeneration of krogan and vorcha, although this can also be achieved through the use of Incendiary Ammo. The Firestorm is only useful at close range, which can be exceedingly dangerous on higher difficulties against tougher opponents such as YMIR Mechs or krogan. If forced into close quarters combat, the Firestorm is a fine response.
+
+Arc Projector[]
+Main article: Arc Projector
+The Arc has a power-up time of 2 seconds before firing. It is effective at removing protections from a squad of enemies, regular enemies in particular, as the weapon fires a chain-lightning attack which travels from the initial targeted enemy to nearby enemies. This can be a very useful weapon for competent Vanguards as it will remove protections on tight groups of enemies, making it an excellent prelude to devastating charge assaults. In addition, the Arc Projector will temporarily immobilize enemies, allowing the Vanguard to attack unhindered. It is also quite effective against synthetic foes and shields, two obstacles the Vanguard has no inherent solution to.
+
+Advanced Weapons Training[]
+During the mission aboard the Collector Cruiser, there will be the option of training in the usage of assault rifles, M-300 Claymore, or sniper rifles.
+
+Assault Rifles[]
+Main article: Assault Rifles
+Assault rifles may be a good addition because they bolster an area where Vanguards were previously weak, mid- to long-range attack. Assault rifles provide a much greater range of options than do other weapon categories (most recently, the Firepower Pack adds the M-96 Mattock semi-automatic assault rifle, which can help offset the Vanguard's limited options against armored enemies). As the sniper rifle is also a viable alternative to patching the Vanguard's weakness at long distances (with the sniper rifle having even greater range), this comes down to personal choice. Either can be wielded by more cautious Vanguards who prefer to stay back and whittle down enemies from afar before closing in on foot or using Charge. However, whereas sniper rifles are primarily designed to kill before an enemy can engage in close-quarters combat, assault rifles can also be used in tandem with Biotic Charge to simply remove Shields and Armor before closing in to finish an enemy at point-blank range without having to switch weapons.
+
+M-300 Claymore[]
+Main article: M-300 Claymore
+The M-300 Claymore is the quintessential Vanguard shotgun. It is extremely deadly, able to take down all but the strongest foes when used at point-blank range, thus allowing the Vanguard to put out the highest damage in the smallest amount of time before heading for cover, reloading, charging, and repeating the strategy. However because of its low ammo capacity, and lack of crowd control, this weapon does have its limitations. With the addition of the Firepower Pack and its Geth Plasma Shotgun, the Claymore has been outpaced in both DPS and crowd control abilities, but still boasts a higher damage multiplier against armor. It may be worth noting that on higher difficulties (i.e. where enemies cannot be killed with a single shot), the Claymore may prove to be worse than shotguns that can fire more often, since other shotguns will allow you to continually stagger an enemy with repeated blasts whereas the Claymore requires you to reload after each shot.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Sniper rifles are probably not the first weapon choice for Vanguards, however they can be effective, especially when coupled with Reave. Vanguards trained in these weapons can pick off enemies at a distance, then literally charge in to finish the job with their staple shotguns. Because they function well at long distances, they effectively counter a Vanguard's main weakness. The addition of the Aegis Pack and its M-29 Incisor sniper rifle, which is effective against barriers and shields, adds another reason one might choose sniper rifles. Overall this weapon choice is more dependent on personal play style. Unlike Infiltrators and Soldiers, Vanguards have no way of slowing down time or otherwise reducing the fire you take while lining up a precision shot during combat, making the M-97 Viper or M-29 Incisor better choices than the bolt-action M-92 Mantis.  Sniping with a "one-shot, one-kill" approach requires time to line up a good shot, during which time enemies will move around and shoot at you too much to make this an easy task for a Vanguard.
+
+Combat Guide[]
+Combat with the Vanguard is mostly about getting up close and personal with opponents. To this end, the Vanguard has only two ammo powers and physics-based biotic powers designed for knockdown. Powers like Shockwave and Pull are extremely effective at keeping enemies away or holding them up in the air to make them easy targets. Charge is an extremely effective finishing move that can also be used for zooming across the battlefield. Charge also doubles as a means of replenishing shields and may be used as an escape mechanism. The Vanguard's ammo powers help deal with protected enemies; Incendiary Ammo takes care of armor and Cryo ammo freezes enemies, making them vulnerable to shattering. The Vanguard does not natively have powers effective against shields or barriers. While some might pick a bonus power or a squadmate to deal with those, it is worth keeping in mind that the class' favored weapon, the shotgun, deals extra damage to both. For the most part, Vanguards have powers that help them deal with enemies close up or at mid-range, rather than at a distance.
+The Vanguard's weapon set consisting of pistols, SMGs, and the all-important shotgun is also tailored for combat at close to mid-range. As the Charge-shotgun combo works very well, using shotguns is also advised when enemies get too close. While shotguns don't have access to the Carnage ability from the first Mass Effect, they are still effective at dealing massive damage in a short amount of time. SMGs are a huge boost to the Vanguard's arsenal because they allow the class to effectively engage at mid-range, rather than purely relying on pistols for this task. That doesn't mean that pistols should be neglected, as they can still be better than SMGs or shotguns in certain situations, especially considering their damage bonus against armor. Overall the Vanguard is most effective at close to mid-range combat. At medium to long range, the Locust and Phalanx can be used to whittle enemies down while Pull can be used to isolate unprotected enemies, allowing the Vanguard to close in for the kill. The high-risk 'dancing' strategy is still viable, but requires more thought and better reflexes. It may be a better idea to take assault rifle training to patch up the Vanguard's middle-range game for a more reliable, all-around game that increases survivability.
+As Vanguards often fight at point-blank range, the melee attack is more crucial to them than it is to the other classes. Because shotguns have a relatively low ammunition capacity (especially before being upgraded) and the Vanguard's standard biotic powers deal very low damage against protection, melee attacks prove to be a surprisingly consistent source of damage. Furthermore, like shotgun blasts and Charge, a well-timed melee attack can stagger most enemies, which gives a moment of reprieve while waiting for the shotgun to fire again or waiting for the cooldown before yet another Biotic Charge.
+
+Squad Members[]
+Picking the right squad members for each mission and correctly using their abilities is a big step towards making fights easier.
+Vanguards lack active powers to deal with protections, which is bad because unprotected enemies fly beautifully when you Charge them. When dealing with high-tech shield-using enemies it is good to bring allies with shield-destroying abilities such as Energy Drain or Overload; when dealing with barrier-using biotics, Warp, Concussive Shot and Reave are key; when dealing with tough armored opponents, Incinerate and Warp are very good to have. This is particularly important on Hardcore and Insanity where, starting at Freedom's Progress, ALL enemies possess protection.
+Vanguards also lack long-range capabilities. Biotic powers such as Throw or Warp and high damaging powers such as Incinerate can be used to eliminate unprotected foes on vantage un-chargeable positions.
+Concussive Shot, Neural Shock, and biotic abilities such as Throw, Pull, Reave, or Shockwave can be used on unprotected opponents to prevent them from damaging your Vanguard, and they can still be used on protected opponents to stun them for a couple of seconds. This allows the Vanguard to charge larger groups of enemies and emerge victorious.
+When all else fails, allies with sniper or assault rifles can deal decent damage from safe distances. Switching your team's weapons between rapid firing and slow but powerful guns depending on the most common protection you're dealing with is also a good idea.
+On higher difficulties, it becomes increasingly useful to take along allies whose abilities can stagger protected enemies even if they don't deal much damage. This is because the Vanguard is often the class least able to take cover in battle, since Charge automatically takes you right into an enemy's field of fire; where other classes can take potshots and simply focus on damage output while relying on taking cover for defense, a Vanguard's best friend is an ability that prevents an enemy from firing at him when they're face to face. Good examples include Zaeed (for his Disruptor Ammo against synthetics, sniper rifle for long range, and Inferno Grenade, which is an excellent way to cover the Vanguard after charging) and Garrus (for Overload, sniper and assault rifles for medium-long range fire support and Armor-Piercing Ammo for extra damage), or Miranda simply for her ability to strip protection layers and buff the squad. Mordin can use Incinerate to help deal with armored enemies, and enemies frozen with Cryo Blast shatter instantly when Charged into, allowing the Vanguard to immediately eliminate an enemy upon plunging into the fray. Samara is also a good choice since a squad of enemies being targeted by Reave are all sitting ducks that can't fire back, and her Pull and Throw can be used to eliminate un-Chargeable enemies. Thane's long range capabilities and biotics also synergize well with the Vanguard's skills, as both Warp and Throw can be utilized in very effective combos with the Vanguard's Pull and Charge. Kasumi is also a very good choice, as her Shadow Strike is able to distract, disable and deal heavy damage to enemies, leaving them vulnerable. Her Flashbang Grenade power instantly renders even protected enemies completely unable to attack, providing perfect opportunity to Charge in and finish the job.
+
+
+
+
+
+Mass Effect 2 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Upgrades • Planet Scanning
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • No One Left Behind • Data Hound • Merchants  Research Guide • Interrupts
+
+
+
+

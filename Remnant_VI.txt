@@ -1,0 +1,323 @@
+
+
+
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+    Zap, brother to Poc.  
+Remnant VI is a Tech skill that allows deployment of a retrofitted Remnant Observer.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Player Notes
+4 Availability
+5 Trivia
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Remnant VI
+
+     
+
+Deploys a retrofitted Remnant Observer that repairs itself over time, cloaks when critically damaged, and counts as tech construct.
+TAP BUTTON: Directs the VI to attack a particular target.
+HOLD BUTTON: Deactivates the VI.
+
+
+VI Base Health: 500
+Beam Damage per Second: 66
+Recharge Time (s): 24
+
+
+
+2
+
+Durability
+
+     
+
+-
+
++15% VI Health
+
+
+3
+
+Beam Damage
+
+     
+
+-
+
++15% Beam Damage
+
+
+4
+
+Expedited Repairs
+
+     
+
+-
+
++40% VI Health Regen
++30% VI Health Regen Delay Reduction
+
+
+
+4
+
+Recharge Speed
+
+     
+
+-
+
++40% Recharge Speed
+
+
+5
+
+Focus Module
+
+     
+
+Increases the VI's beam damage.
+
++35% VI Beam Damage
+
+
+5
+
+Close Combat Module
+
+     
+
+The VI engages enemies at a closer range, demanding foes' attention. Also improves VI health.
+
++100% VI Health
+
+
+6
+
+Detonating Missiles
+
+     
+
+      Adds explosive missiles to the VI's arsenal (in addition to its beam weapon). Missiles trigger combo detonations.
+
+Missile Damage: 90
+Missile Damage Radius (m): 2.5
+Missile Frequency (s): 10
+
+
+
+6
+
+Electric Beam
+
+     
+
+      The VI's beam attack has a chance to electrically prime enemies for combo detonations and stun them. Increases damage to shields and synthetic enemies.
+
+Shield Damage Bonus: 25%
+Synthetic Damage Bonus: 15%
+Stun Duration (s): 1
+
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Remnant VI
+
+     
+
+Deploys a retrofitted Remnant Observer that repairs itself over time, cloaks when critically damaged, and counts as tech construct.
+TAP BUTTON: Directs the VI to attack a particular target.
+HOLD BUTTON: Deactivates the VI.
+
+
+VI Base Health: 800
+Beam Damage per Second: 100
+Recharge Time (s): 18
+
+
+
+2
+
+Durability
+
+     
+
+-
+
++50% VI Health
+
+
+3
+
+Beam Damage
+
+     
+
+-
+
++40% Beam Damage
+
+
+4
+
+Expedited Repairs
+
+     
+
+-
+
++50% VI Health Regen
++80% VI Health Regen Delay Reduction
+
+
+
+4
+
+Recharge Speed
+
+     
+
+-
+
++40% Recharge Speed
+
+
+5
+
+Focus Module
+
+     
+
+Increases the VI's beam damage.
+
++80% VI Beam Damage
+
+
+5
+
+Close Combat Module
+
+     
+
+The VI engages enemies at a closer range, demanding foes' attention. Also improves VI health.
+
++200% VI Health
+
+
+6
+
+Detonating Missiles
+
+     
+
+      Adds explosive missiles to the VI's arsenal (in addition to its beam weapon). Missiles trigger combo detonations.
+
+Missile Damage: 450
+Missile Damage Radius (m): 2.5
+Missile Frequency (s): 6
+
+
+
+6
+
+Electric Beam
+
+     
+
+      The VI's beam attack has a chance to electrically prime enemies for combo detonations and stun them. Increases damage to shields and synthetic enemies.
+
+Shield Damage Bonus: 75%
+Synthetic Damage Bonus: 15%
+Stun Duration (s): 1
+
+
+Player Notes[]
+On singleplayer, the Remnant VI power displays as Unknown on the Skills screen until its unlocking via mission completion.
+
+Mechanics
+The Remnant VI skill deploys one of the two tech constructs in the game along with the Assault Turret. The Remnant VI trades utility for health and/or damage.
+The VI follows its master around unless engaging multiple hostiles. If its creator moves away, the VI will stay and try to destroy the targets first before rejoining its master. If its master moves too far away, the VI will "teleport" to their side like with regular squadmates.
+The VI terminates when Ryder enters the ND1 Nomad. Ryder can redeploy the VI, after its cooldown period, when Ryder has exited.
+The Remnant VI terminates if an attack exceeds its maximum health. As with other powers, Ryder can redeploy the VI, after its cooldown period, during combat.
+The Remnant VI will follow Ryder into the buildings/structures all companions can enter. It will also remain with Ryder during travel through a gravity well.
+Strategies
+The Remnant VI's health can be maxed at even higher than Ryder's squadmates, especially using the Engineer Profile.
+At Rank 6 Detonating Missiles, the VI is a good way to detonate combos as it has a high rate of fire.
+As with the Assault Turret, the VI is a good decoy for drawing enemy fire while its creator can reposition and strike back from relative safety - only it's more mobile and less vulnerable to grenades. On multiplayer, it is almost a passable substitute for a human teammate especially during Upload and Hack waves given that it can pay attention to flanking units outside visual range.
+Availability[]
+Single-player: Pathfinder Ryder - Unlocked via the Peebee: Secret Project mission.
+Multiplayer: Human Artificer, Salarian Architect
+Trivia[]
+While the Observer Peebee keeps in her quarters a noncombatant model she calls "Poc" (acronym for 'proof of concept'), for the field, she constructed a second, weapons-grade model that she called "Zap", for Pathfinder Ryder to use and deploy as a tech construct in combat.
+Others models are also developed and used by a Salarian Architect during APEX Missions.
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

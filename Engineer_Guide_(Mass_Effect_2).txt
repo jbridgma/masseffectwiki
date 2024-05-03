@@ -1,0 +1,242 @@
+
+
+
+See also: Engineer Guide, Engineer Guide (Mass Effect 3)
+
+Engineers can spawn combat drones to harass enemies or force them out of entrenched cover positions.
+Power Training: Combat Drone, Overload, Incinerate, AI Hacking, Cryo Blast
+Weapon Training: Heavy Pistol, Submachine Gun
+Engineers are tech specialists, the only class able to employ combat drones on the battlefield. Engineers are the most effective class at blasting through defenses and disabling opponents.
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class powers
+
+2.1.1 Overload
+2.1.2 Incinerate
+2.1.3 Combat Drone
+2.1.4 Cryo Blast
+2.1.5 AI Hacking
+2.1.6 Tech Mastery
+
+
+2.2 Notable Bonus Powers
+
+2.2.1 Warp Ammo
+2.2.2 Armor Piercing Ammo
+2.2.3 Shield Boosting Power
+2.2.4 Energy Drain
+2.2.5 Reave
+2.2.6 Dominate
+2.2.7 Flashbang Grenade
+2.2.8 Stasis
+
+
+
+
+3 Weapons and equipment
+
+3.1 Weapons
+
+3.1.1 Heavy pistols
+3.1.2 Submachine guns
+
+
+3.2 Heavy weapons
+
+3.2.1 M-100 Grenade Launcher
+3.2.2 ML-77 Missile Launcher
+3.2.3 M-622 Avalanche
+3.2.4 M-920 Cain
+3.2.5 Collector Particle Beam
+3.2.6 M-490 Blackstorm
+3.2.7 M-451 Firestorm
+3.2.8 Arc Projector
+
+
+3.3 Advanced Weapon Training
+
+3.3.1 Assault rifles
+3.3.2 Sniper rifles
+3.3.3 Shotguns
+
+
+
+
+4 Combat guide
+5 Squad members
+
+
+
+Overview[]
+The main differences from Mass Effect to Mass Effect 2 for the Engineer is that the Engineer has access to more weapons, different powers, and can easily tie up enemies in battle. The Engineer has access to submachine guns, heavy pistols, and heavy weapons. This greatly upgrades the Engineer's ability to dish out damage, even if it is at closer ranges. The Engineer's strengths are stripping away defenses, dealing direct damage with powers, and distracting or disabling enemies. The Engineer's Combat Drone power allows them to "lock up" at least one enemy continuously, wearing away its defenses and drawing its attacks to the expendable drone rather than allies or the player. Engineers also have Overload and Incinerate to deal with shielded, armored, and regenerating enemies, leaving only barriers to require squadmate or bonus power help. The most valuable upgrades are the tech upgrades that become available over the course of the game. The various cybernetic upgrades that become available are also a good investment because of the Engineer's low health. In short, while an Engineer cannot expect to charge headlong into a room full of enemies and win, a bit of tactical planning allows this class to be one of the most capable in the game. The Engineer is comparable to the battlefield controller of most other types of RPGs.
+
+Powers[]
+Class powers[]
+Overload[]
+Main article: Overload
+The Engineer's primary counter to shields and unprotected synthetics. This power hits its target instantly and cannot be arced around cover, which makes it effective only against enemies who are in the open. Overload is also capable of detonating explosive crates and will make unprotected enemies with flamethrowers explode instantly. Overload is one of the most useful powers against synthetic enemies and against flamethrower-wielding enemies, since the Engineer can prevent them from getting too close.
+
+Incinerate[]
+Main article: Incinerate
+Unlocks with Overload at level 2
+One of the Engineer's most useful powers, Incinerate is effective against armor and unprotected organic enemies, and also permanently stops regeneration when it hits an unprotected organic. Note that even if an enemy has a single point of armour left, Incinerate will damage the enemy's health but not stop their regeneration. It also makes unprotected organics panic for a few seconds, which causes them to stop shooting and stand up out of cover or knock them to the ground. In this way it can be used (quite literally) as an effective "panic button", stunning enemies for a few seconds and allowing Shepard to retreat to cover if under heavy fire. Incinerate can also be a useful close-quarters attack due to its ability to stun enemies and leave them vulnerable to further attacks. It will also explode unprotected flamethrower-wielding enemies the same way as Overload, though with the added benefit of being able to arc round cover. However, it is ineffective against unprotected synthetics, doing much less damage to their health. Incinerate can be arced around some types of cover, sometimes making it possible to finish off an enemy that retreated behind cover with a well-aimed shot. Note that a well upgraded Incinerate will be able to destroy the weak shields or barriers of certain organic enemies and also do extra damage to their health. Even a weaker Incinerate can be used to the same effect if an enemy has little shields or barriers remaining. In this way, Incinerate may be a great alternative to Overload.
+
+Combat Drone[]
+Main article: Combat Drone
+The Engineer's signature power and arguably its most useful one. The short cooldown means that an Engineer can have a drone present on the battlefield at all times. Targeting the power on an enemy causes the drone to spawn next to that enemy—behind it if possible—and attack immediately. If a target is not selected, the drone spawns next to the player, automatically chooses and engages a target. Drones can be used against any targetable enemies, including ones behind cover. The drone is a great tool for forcing enemies out of cover and preventing them from hiding.
+Once the drone attacks an enemy, the enemy will ignore all other targets and focus exclusively on the drone until it is destroyed. Because of the short cooldown of this power, an Engineer can use it to "lock up" almost any single enemy by keeping a drone attacking it continuously. The only exception is the Praetorian which mostly ignores the drone. 
+The drone proves particularly deadly against enemy rocket-launching troops: since it constantly approaches to the closest possible range, the rocket troops end up damaging themselves and sometimes even their allies when they fire rockets at the drone to try to destroy it. Another great use of Combat Drone is to target it on the most powerful enemy in a group, keeping that enemy busy fighting drones while dispatching weaker enemies using other powers and weapons. 
+This skill is particularly effective against Harbinger: distract it with the drone, then focus on eliminating its minions so it can't come back again and again during the same battle. It works even better against Scions who seem to have great trouble taking out drones. While it dies very quickly against krogan and YMIR mechs, with the short cooldown it can be constantly recast and still keep them almost completely distracted. If you wait for a krogan to turn toward you before recasting it, it will appear behind the krogan, meaning that you can gradually lead the krogan away from you if it charges the drone. Both krogan and YMIR mechs will reserve their missile attacks for Shepard and squad, so be ready to dodge, but a drone will completely distract all of their regular gunfire.
+
+Cryo Blast[]
+Main article: Cryo Blast
+Unlocks with combat drone at level 2.
+While very useful against unprotected enemies, Cryo Blast is ineffective against protected ones. It can be very useful below Hardcore difficulty, but on Hardcore or Insanity, almost all enemies are protected, making it much more situational. Like Incinerate, Cryo Blast can be arced around cover. However, this property is less useful with Cryo Blast, since the frozen enemy will usually remain behind cover, unable to be targeted by you (unless it falls over into plain sight). On the other hand, a frozen enemy, wherever it may be, does not fight. On Hardcore or Insanity difficulties, since there are many fewer opportunities to use this power, it is probably best to take only a single rank, or two to unlock AI Hacking. It is a good idea to take a single rank in it early though, since freezing a charging enemy can be a life saver. It is also worth noting that even a rank 1 Cryo Blast is a one-hit-kill against husks on lower difficulties, which is very useful especially on the derelict Reaper, abandoned mine, and Horizon missions.
+
+AI Hacking[]
+Main article: AI Hacking
+Unlocked with Cryo Blast at level 2.
+AI Hacking is a highly situational skill, useful only against synthetic enemies. It can be used in two distinct ways: at rank 1 it is primarily useful to stop an enemy from attacking you and cause its former allies to turn on it, dealing it heavy damage. On the other hand, with the power at the highest ranks, the hacked enemy becomes a useful ally in its own right. Since the Engineer has several other useful powers contending for squad points, plus a possible bonus power, AI Hacking is best used in the first role, with only a single point invested.
+If the player is willing to re-spec, high AI Hacking ranks can make missions against Geth much easier. Geth Destroyers
+in particular are outstanding temporary allies, capable of decimating all other Geth around them. AI Hacking can be invaluable in stopping advancing Geth.
+
+Tech Mastery[]
+Main article: Tech Mastery
+The Engineer's passive class power provides not only the usual bonuses to health, powers cooldown, and Paragon/Renegade, but also a reduction in the amount of resources needed for research projects of up to 25%. If you find planet scanning tedious, you should maximize this as quickly as possible. For an Engineer specializing in Incinerate and Overload, Operative is the better evolution of this power because of its damage boost. For a Cryo Blast/AI Hacking specialist, Mechanic may be better since both of these powers will benefit from the duration boost but cannot benefit from Operative's damage boost.
+
+Notable Bonus Powers[]
+Warp Ammo[]
+Main article: Warp Ammo
+Warp Ammo has the added benefit of doing extra damage against Barriers, compensating for the lack of class powers useful against Barriers as well as improving the Engineer's weapon damage output against all types of target except shields. The only drawback of Warp Ammo is that its damage bonus is quite low (although doubled against enemies affected by biotics) until it is evolved to Heavy Warp Ammo, making it a huge drain on squad points. Despite this, it is highly recommended. 
+
+Armor Piercing Ammo[]
+Main article: Armor Piercing Ammo
+Armor Piercing Ammo lacks Warp Ammo's damage bonus against barriers, but delivers a higher damage bonus at all ranks. If you are willing to rely on squadmates' powers to take down barriers, this power can be a good way to either boost damage output against armor and health even higher than with Warp Ammo, or reduce the number of squad points spent for the same damage bonus, allowing more to be spent on the base class powers.
+
+Shield Boosting Power[]
+Main article: Barrier
+Main article: Fortification
+Main article: Geth Shield Boost
+A shield boosting power is not sufficiently useful for most Engineers to spend precious talent points. The cooldown is quite large and interferes with using the Engineers class powers. For occasional emergency use, Medigel works just as well and has a very short cooldown.
+For close quarter combat Engineers frequently getting into trouble, Barrier is best. In contrast to Fortification and Geth Shield Boost it does not have an activation animation and can be used when staggered. Barrier benefits from the Bio-Amp cooldown reduction upgrade as well as the Engineers class passive cooldown reduction.
+
+Energy Drain[]
+Main article: Energy Drain
+While Energy Drain obviously overlaps with Overload, it allows the Engineer to recharge shields with a very low cool down, competing less than Geth Shield Boost with the cool down of other abilities.
+
+Reave[]
+Main article: Reave
+Reave is an option for dealing with biotic barriers. Being an active power it is stylistically more in line with the Engineer, but it competes with the Engineer's other powers for cooldown time. Its life-draining effect can improve survivability in combat, but this requires an unprotected organic enemy to work, limiting its usability. However, it is one of the few options, apart from squadmates, to deal with Barriers.
+
+Dominate[]
+Main article: Dominate
+Dominate is also an interesting choice as a bonus power. With the combination of AI Hacking and Dominate, an Engineer can mind-control almost any enemy in the game, with potentially amusing results. It is also useful even at low ranks, freeing up squad points for other powers. This power would make the Engineer a force in combat because of the ability to manipulate both organic and synthetic enemies; however, distributing sufficient talent points to each, as needed, might require one to use Retrain Powers often, since Synthetics and Organics are not commonly on the same mission.
+
+Flashbang Grenade[]
+Main article: Flashbang Grenade
+Note: Only available with the Kasumi - Stolen Memory DLC pack.
+This power, though only dealing minor damage, is effective against all kinds of protection. It is capable of incapacitating enemies within a huge radius, and when fully upgraded, this power gives you the widest radius of all powers (excepting the Sentinel's Tech Armor). This power also jams enemies' omni-tools, hinders biotic power usage, and overheats their weapons. These benefits make this power one of the most effective battlefield controls available to any class.
+
+Stasis[]
+Main article: Stasis
+Note: Only available with the Lair of the Shadow Broker DLC pack.
+Stasis is an incredibly useful control tool, giving the Engineer a quick escape option at lower ranks and able to completely take an enemy out of a fight for prolonged amounts of time at higher ranks. Its ability to work over any defenses and the fact that it's usable on almost every enemy in the game (Scions, YMIR Mechs included) makes it a very viable choice for the Engineer.
+
+Weapons and equipment[]
+Weapons[]
+Heavy pistols[]
+Main article: Heavy Pistols
+Heavy pistols are the bread and butter of the Engineer's weapons. In Mass Effect, the Engineer only had access to pistols, so the heavy pistols should be second nature by now. For damage, you should go with the M-6 Carnifex, however if you need range, then the M-3 Predator is the weapon of choice. Pistols are always a good fall back weapon for Engineers, especially if your SMG runs out of ammo, or you need a ranged weapon. The Firepower Pack adds the powerful M-5 Phalanx, which is a good weapon to augment the Engineer's arsenal.
+
+Submachine guns[]
+Main article: Submachine Guns
+The SMG is a huge boost to the Engineer's ability to dish out damage, cover allies, and take down enemies at range. Because of the limited ability of the M-4 Shuriken, your priority should be either to get to Tali's recruitment mission, or if you have Kasumi's DLC pack, to embark on Kasumi's loyalty mission and obtain the M-12 Locust. Either way, you should try to upgrade the Shuriken as quickly as possible. The SMG is probably the weapon that you will be relying on for most of the game until you reach the Collector Ship.
+
+Heavy weapons[]
+Main article: Heavy Weapons
+M-100 Grenade Launcher[]
+Main article: M-100 Grenade Launcher
+The M-100 is the first heavy weapon available to the Engineer, obtained during Prologue: Awakening. While the damage isn't as great as some of the heavy weapons, it is a great asset in combat. Because the Engineer lacks any real crowd control abilities, the M-100's knockdown ability can help offset that and provide some breathing room if needed. However, its low ammo capacity is the only real drawback. Overall, the M-100 is always a great fallback weapon if you find yourself unable to decide on which heavy weapon to choose. 
+
+ML-77 Missile Launcher[]
+Main article: ML-77 Missile Launcher
+The ML-77 is a good all-around weapon for the Engineer because of its multi-use functionality. Its lock-on ability helps offset the accuracy issues and because of that, it is also one of those weapons that will work in just about any situation. Because it has a high ammo capacity, it makes it a little better for longer missions, but it can still only target one enemy, and sometimes not the one you want.
+
+M-622 Avalanche[]
+Main article: M-622 Avalanche
+The Avalanche causes significant damage to all forms of protection—comparable to that of the ML-77 and the Arc Projector—while boasting more ammo in total and per pickup. The greatest advantage of the Avalanche comes from its long lasting, area-freeze effect.  But this freeze effect can only affect unprotected enemies; accordingly, the Avalanche is especially useful on lower difficulties by compensating for the Engineer's lack of crowd-control abilities. It can freeze groups of enemies and can help deal with waves of husks that are encountered, without risk of harming Shepard or squadmates. On higher difficulties, however, unless other powers or weapons are used to bring down enemies' protective layers, extra heavy ammo will be spent stripping these before the Avalanche can turn your opponents into vulnerable ice statues.  Though this weapon is superior to the Engineer's Cryo Blast, there is some redundancy between them.
+
+M-920 Cain[]
+Main article: M-920 Cain
+The Cain is a great heavy weapon, if you only have one objective and only plan to use it once. Because the weapon can really only be used once, maybe twice on a mission, it is effective only if you have a specific use for it. The Cain is nevertheless extremely powerful; however, its lack of ammo makes it a weapon of limited use.
+
+Collector Particle Beam[]
+Main article: Collector Particle Beam
+The Collector Particle Beam is a good heavy weapon for the Engineer because of its accuracy at all ranges. The weapon is good against Collectors and most of the enemies you will run across. Since each pull of the trigger yields only a small amount of damage, the Engineer will either have to remain exposed in order to do a lot of damage, or use the Particle Beam as one would an assault rifle. If you wish to pack a hefty punch per shot, the Particle Beam wouldn't be your best option. Nevertheless, although it drains ammo quickly, it does have a high capacity for ammo and can be used for a whole mission. Just watch how you use it. 
+
+M-490 Blackstorm[]
+Main article: M-490 Blackstorm
+If you have access to the Blackstorm, you might want to consider bringing it along often. Its ability to tie up multiple enemies, and instantly kill Husks, makes it great at crowd control, something which the Engineer really lacks. The Blackstorm will be a great asset, especially in missions with a lot of Husks, and indeed any mission. The M-490 is a good weapon for the Engineer and its benefits more than offset its lack of ammo, which is its main drawback.
+
+M-451 Firestorm[]
+Main article: M-451 Firestorm
+Because the Engineer isn't very good in close combat, the Firestorm is probably not your first choice. It does have its advantages in certain missions where close combat is unavoidable. Otherwise it shouldn't be your first choice heavy weapon. The Firestorm's short range is the main limitation of the weapon; however if you like close combat, the Firestorm is for you.  Just be careful how you use it, especially early in the game, because of the Engineer's lack of health and shielding.
+
+Arc Projector[]
+Main article: Arc Projector
+The Arc Projector is a good weapon overall.  It does significant damage to health and protection, and the blast "arcs" between the target and nearby enemies, damaging them as well; any unprotected organics will be temporarily stunned by the shock.  Note, however, that because the Arc Projector requires a charge time of 2 seconds, an Engineer must be careful when using it; if exposed for a short time, particularly in the early game, the Engineer can be easily killed. Other downsides to this weapon are low ammo capacity and pickup.  Overall, the Arc Projector is a decent weapon for an Engineer who is willing to risk the charge time, or has a penchant for electricity.
+
+Advanced Weapon Training[]
+During the mission aboard the Collector Cruiser, there will be the option of training in the usage of assault rifles, shotguns, or sniper rifles. 
+
+Assault rifles[]
+Main article: Assault Rifles
+Assault rifles are a good choice, in which case the M-15 Vindicator is probably the best choice due to its high accuracy and damage output. The other assault rifles are functionally very similar to submachine guns, to which the Engineer already has access. However with the addition of the Kasumi DLC pack, the M-12 Locust is a good substitute for an assault rifle. Nevertheless, an assault rifle would still be a good choice, since they tend to pack a heavier punch or boast a higher rate of fire. The Firepower pack also adds the M-96 Mattock semi-auto rifle which, with the Engineer's mid-range weapons, provides a good balance and more firepower. Assault rifles are (as with the other options) to some extent a personal choice.
+
+Sniper rifles[]
+Main article: Sniper Rifles
+Sniper rifles are probably the best choice, since the Engineer's powers already favor keeping a distance from the enemy. As Engineers do not have a time-dilation ability like Infiltrators or Soldiers, they will miss more often, but keeping the Engineer at a distance, supporting with powers and sniper fire, is still a good tactic. With the Kasumi pack's Locust SMG, sniper-rifle training is probably the best you can get. The Aegis Pack adds the M-29 Incisor sniper rifle, which is very good against shields, but with the Engineer's already good shield-reducing abilities, it may seem redundant. While less effective against shields, the M-97 Viper is also a good choice for the Engineer, since its high ammunition capacity and high rate of fire can help to compensate for any accuracy issues.
+
+Shotguns[]
+Main article: Shotguns
+Shotguns can be a very interesting choice. Given that the Engineer has Combat Drone and Cryo Blast to keep the enemy distracted, shotguns can be very rewarding if used prudently, though this requires a very tactical play style. Since an Engineer (like all other Classes) lacks the higher health of the Soldier, one might be averse to close combat, thus making the shotgun an undesirable weapon. On the other hand, with the Firepower Pack comes the mid-range Geth Plasma Shotgun which is good for close or mid-range, and is very powerful.  Moreover, shotguns cause moderate to high damage to enemy barriers, which can provide the daring Engineer with an anti-barrier ability that is otherwise lacking.
+
+Combat guide[]
+Combat from Mass Effect and Mass Effect 2 differs mainly in the fact the Engineer has different powers and weapons. In combat, the Engineer is best when one is behind cover providing support with powers and weapons fire. The Engineer's powers are great at taking down shields, keeping enemies tied up, and dealing with synthetic enemies. Using powers to keep enemies at a distance is the best way to stay alive and help your squadmates deal with enemies. Use every power you can see to support your squadmates as best you can.
+Using weapons with the Engineer boils down to, especially early on, sticking your head out whenever the enemy stops firing, and getting back into cover once they start again. As you research more health upgrades, you can stay out longer and move closer to the front, but still stay behind your squadmates to provide support. Your main weapon will probably be the SMG of your choice, but don't forget about your pistol and heavy weapons when appropriate.
+
+Squad members[]
+Due to the Engineer's difficulty in dealing with barriers, companions with maximized Warp like Miranda or Thane will be very valuable assets in any mission. Once Samara is loyal, her Reave power can serve the same purpose. Jack can also be a useful choice with her Warp Ammo, especially if evolved to Squad Warp Ammo. In general, a biotic specialist, or any squad member with biotic abilities, is a good asset to the team.
+Choosing a combat specialist would also be a good choice on any mission. Zaeed, Grunt, and Garrus are good choices for their Concussive Shots and Ammo Powers, Grunt's impressive health and Berserker charge, Zaeed's weapon damage, and Garrus' power-damage bonus. Any of them would make a great asset to any team, especially on heavy-combat missions. Samara can also fill this role because she is a heavy-combat squadmate but also has biotic abilities; so once she is recruited, she would make an ideal squadmate.
+Tech-specialist squadmates are generally redundant and should not be picked outside of specific tech-oriented missions where synthetics will be the main opponent. However, the ability to swarm enemies with three combat drones at once can be amusing, even if it is not necessarily an effective tactic. Legion can also be very useful in combat after its loyalty mission, with its Geth Shield Boost and its M-98 Widow sniper rifle. Garrus is an excellent choice for providing both firepower and an extra source of Overload on missions with many shielded opponents. The damage his Concussive Shot does to barriers is nothing to sneeze at, either.
+
+
+
+
+
+Mass Effect 2 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Upgrades • Planet Scanning
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • No One Left Behind • Data Hound • Merchants  Research Guide • Interrupts
+
+
+
+

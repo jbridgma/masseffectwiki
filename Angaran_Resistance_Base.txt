@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+The Angaran Resistance Base is the headquarters of the Angaran Resistance on Voeld. This base is one of the largest settlements on the planet and its outskirts are a landing zone for the Tempest.
+Contents
+
+1 Layout
+2 Personnel
+3 Missions
+4 Datapads
+5 Terminals
+
+
+Layout[]
+The base is built inside and on the side of a mountain near-constantly shrouded by blizzards, ensuring its concealment from the nearby Kett Base only a valley away. The Tempest landing zone and much of the exterior is a level 2 cold hazard, with poor visibility, and the only things that can stave off frostbite are the numerous solar heaters installed in most places.
+The base has three main areas: the hangar, the operations center, and the medical wing. Its architecture appears to take advantage of the natural cave system within the mountain, with artificial supports installed at certain points and the walls and floor untouched wherever possible.
+
+The hangar houses both ground and air vehicles of the Resistance, populated by numerous mechanics and engineers attending to them, and is the first area available coming in from the Tempest LZ. Further in, the path splits into two: to the south is the medical wing, and northeast leads to the operations center and the other exit of the base into the valley beyond.
+In the medical wing, numerous injured angara are tended to by the resident medics, as well as a priestess for their spiritual well-being.
+The operations center houses the majority of the tech needed by the Resistance to coordinate an insurgency planetwide and beyond. From there they can keep track of soldiers in the field. A prominent feature of the chamber is its giant holo-map of Voeld (and its moon), updated in realtime as information is received from scouts and contacts. Aside from the commanding officers of the base, Jaal Ama Darav can be found here when he's not with Pathfinder Ryder's squad. 
+Base chatter includes reactions to Ryder's decision to destroy or spare the exaltation facility on the other side of the planet.
+Several mineral nodes can be found in obscure corners ot the base, as well as numerous containers that can be looted for equipment.
+
+Personnel[]
+
+Anjik Do Xeel
+Assistant Trae
+Beniska
+Commander Heckt†
+Dr. Harihn
+Eskaal
+Haana
+Intelligence Officer Davja Kaas
+Kalja††
+Maisi
+Olisk
+Owwin†
+Raabal
+Raelis
+Roshev
+Roshwar Linn
+Sjaan‡
+Tseek
+† only until the joint rescue mission for Moshae Sjefa
+†† if convinced to move from Kadara
+‡ if convinced to move from Elaaden
+
+Missions[]
+
+
+
+Priority Ops
+A Trail of Hope II
+Meet the Resistance†
+On the Frontlines††
+
+
+Allies and Relationships
+Cora Harper: Asari Ark
+Know Your Enemy
+
+
+
+
+Heleus Assignments
+Brought to Light
+Eyes on the Ground††
+Intercepted
+Medical Caches
+Meet the Resistance†
+Reformation
+The Lost Scout
+Trading Favors
+
+
+Additional Tasks
+Task: Gone Dark
+Task: Nomad Shield Crafting
+
+† One or the other depending on completion of Helping Havarl's Scientists
+†† Same mission; name dependent on mission type
+
+Datapads[]
+
+
+
+Reply to Message: "Low Supplies?"
+Translated from Shelesh:
+
+Solaan,
+
+Yes, I am aware of the dwindling supply situation. The supplies meant for the Resistance had to be diverted at the last moment, so we never received them. We'll get the next drop. I'm taking care of it myself.
+
+
+Olisk
+
+
+
+
+
+
+
+Logs of Kett TOC Surveillance
+Translated from Shelesh:
+
+To: Commander Do Xeel
+From: Intelligence Officer Kaas
+
+Transcripts, as requested.
+
+START LOG
+[1103] Beniska: Stars, Tseek! Look!
+[1103] Tseek: I told you, I'm not interested in your collect—
+[1103] Beniska: (loudly) No, the kett base!
+[1104] Tseek: Skkut, that's a big ship.
+[1104] Beniska: Are those—
+[1104] Tseek: Looks like fighter aircraft. They're bringing in more troops, bigger guns.
+[1104] Beniska: That's not… good.
+[1104] Tseek: I'm going to Kaas. Keep watching. Log everything.
+
+END LOG
+
+
+
+
+
+
+
+Come home, please.
+Translated from Shelesh:
+
+Dear Tarva,
+
+Please come back to Aya. I know you want to fight for us, but we need you here too. Your children miss you. You want to build a world where they don't have to fear the kett, but is that really better than not knowing their mother? I know you've made your decision, but I beg you to reconsider. Please.
+
+Remember what it was like with your own father. And how it felt.
+
+
+With love, your mother.
+
+
+
+
+
+
+
+Report: Aya
+Translated from Shelesh:
+
+
+I apologize, Olisk. My pilot says she made the supply drop at the navpoint. I can't figure out why they never reached you. I'll have Onya try again with a new shipment—free of charge. The Resistance won't starve over a technical issue.
+
+
+
+
+
+
+
+Report: Estraaja
+Translated from Shelesh:
+
+Olisk,
+
+
+We sent a shuttle with enough medical supplies to last you through the cycle. Did you ever receive them? Our tracking signal went dark after we left the supplies at the drop point. Please respond and let us know they got to you safely.
+
+
+
+
+
+
+
+Report: Scout Destranja
+Translated from Shelesh:
+
+Olisk,
+
+
+I took a party to the supply drop point. When we got there, everything was gone. Our contact was missing. The snow showed signs of activity—multiple individuals. The kett, maybe? I'll keep this quiet until you can get it sorted.
+
+
+
+
+
+
+
+Scout Reports
+Translated from Shelesh:
+
+To: Intelligence Officer Kaas
+
+We're seeing an increase in activity around Ja Niihk. The kett have erected a barrier of some kind around the dig. Scouts have spotted abducted angara moving around behind the shield. Looks like the kett have them working on something. We can't tell what it is.
+
+
+Also, more reports of abductions. The kett appear to have stopped trying to attack the daara. Too well-defended. That's good. However, looks like they've focused their attacks on people traveling across the planet. Ambushes have increased. We should make sure the warning gets out.
+
+
+
+
+Terminals[]
+
+
+
+Concerning the new visitors
+Translated from Shelesh:
+
+I heard about the new visitors to Aya. Do I have to remind you what happened the last time their kind contacted one of our worlds? Kadara is a cesspool because of them.
+
+
+I'm sure you and Evfra are receiving plenty of opinions from both sides. I trust you'll make the right call, Anjik. Aya and Voeld can't be overrun by those things—and I don't trust that so-called Pathfinder any more than the rest of them.
+
+
+
+
+
+Report: Fighter Pilot Vesh Naraan
+Translated from Shelesh:
+
+Vesh Naraan, reporting in.
+
+Received some surprising news this week. Apparently, the human Pathfinder activated the vault on Eos. The newcomers are now settling on the surface.
+
+I don't know how to feel about this, Commander. It troubles me—a visitor from across dark space can access technology closed to us for centuries? What does this mean? History tells us what happens when outsiders have more power than us.
+
+
+I apologize if I'm stepping out of line with my comments. Simply thinking out loud. I trust your judgment in all things, Commander.
+
+
+
+
+
+
+
+For the Commander
+Translated from Shelesh:
+
+Commander,
+
+I'm so sorry. We managed to push the kett back from Techiix, but they knew we were coming. Had traps laid out before we even crested the peak.
+
+Arjaan didn't make it. He went down covering our saboteur—took out nearly a dozen kett before he fell. You'd have been so proud of him. I wanted to let you know before word got back in a less delicate way.
+
+
+I'll tell Eskaal to hold off on sending the notice. You should be able to break the news to your parents yourself. Commander, I truly am sorry. I know this must be difficult to read. But I know that Arjaan Do Xeel was a hero today.
+
+
+
+
+
+UNSENT DRAFT: I'm sorry
+Translated from Shelesh:
+
+Paavoa, mother,
+
+I hope you and Lavaala are well. Little Falet must be a handful by now.
+
+Mother, something happened. I sent Arjaan on a mission and he didn't come back. He's not coming back. His officer tells me he fell protecting his squad.
+
+This is my fault. He should've had more training. I'm so
+
+
+[Text ended.]
+
+
+
+
+
+Urgent—need recruits ASAP
+Translated from Shelesh:
+
+Commander Do Xeel,
+
+We need more recruits for Havarl. The kett haven't reached the ruins, but their attempts on the capital have been bolder. I'm not sure how much longer we can hold out.
+
+I know you're stretched thin right now. And I heard about Arjaan, so I'm sure it's a difficult time for you. I wouldn't contact you if it weren't urgent.
+
+I'll be in the field. Reach me by comm at your earliest convenience.
+
+
+-Captain Roeh
+
+
+
+
+
+
+
+Kett Surveillance: Week 0042, Novoa Bav
+Surveillance Records
+
+0600: Group of five kett leave base to deal with roving wild wraith herd.
+0710: Kett leader makes daily report to unknown superior.
+0920: Glitch in feed. Unsure what's causing it.
+1050: Kett leader checks weapon for fifth time today.
+1530: Feed cuts out for two minutes. Reported.
+
+1623: Kett leader delivers hour-long speech to underlings. 1700: Kett leave in the direction of Hjara. Reported. Possibly incoming attack.
+
+
+
+
+
+Kett Surveillance: Week 0042, Novoa Sabay
+Surveillance Records
+
+0300: Kett leader reports in. Immediately checks weapon.
+0641: Static on feed. Cuts out for seven minutes.
+0839: Kett leader dispatches patrol in rover. Unsure of destination.
+0910: Feed gone dark. Reported.
+
+1200: Feed still down. Possible issue with network.
+
+
+
+
+
+Kett Surveillance: Week 0042, Novoa Fev
+Surveillance Records
+
+0500: Shift change.
+0700: Kett leader goes to console, speaks with unknown.
+0820: Kett patrol returns. Reports nothing unusual.
+0910: Kaerkyn enters camp. Quickly dispatched.
+1059: Kett comes close to bug location.
+1100: Kett leader checks weapon.
+
+1549: Kett leader checks weapon again.
+
+
+
+
+

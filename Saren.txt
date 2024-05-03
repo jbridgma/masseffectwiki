@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+This article is about information and tactics for fighting Saren Arterius. For the page about him in general, see Saren Arterius.
+
+The former Spectre Saren Arterius searches for clues across the galaxy in order to find the Conduit, a means of bringing back the Reapers. Commander Shepard follows up on Saren's trail, eventually confronting him face to face on two different occasions.
+
+Contents
+
+1 Saren on Hovercraft
+
+1.1 Tactics
+
+
+2 Saren Husk
+
+2.1 Tactics
+
+
+
+
+Saren on Hovercraft[]
+
+
+
+
+
+
+
+Saren
+
+
+
+
+Race
+Turian
+
+
+Type
+Organic/Synthetic
+
+
+Armament
+Geth Pulse Rifle
+
+
+Abilities
+ Throw Warp Carnage Sabotage Damping Shield Boost
+
+
+Health
+High
+
+
+Shields
+Very High
+
+
+Locations
+Virmire, Council Chambers
+
+
+The first fight with Saren Arterius takes place on Virmire. In this encounter Saren fights while standing on a special hovercraft. He uses powerful biotic attacks in addition to his weapons. 
+Shepard encounters Saren for the last time on the Citadel during the final battle for control of the station. Initially Saren rides his hovercraft once again, but Shepard has the option to convince him he's indoctrinated. If Saren is not convinced, he fights Shepard once more in his hovercraft.
+
+Tactics[]
+Order your squadmates to attack Saren aggressively because Saren usually focuses on Shepard and leaves the remaining squad members alone.
+On Virmire, Saren will often choose to hover over one of the many fuel tanks in the battle area. Shoot the fuel tanks (or better yet, Sabotage or Overload them) to take him out quickly.
+Saren will continuously use his Biotics to damage Shepard from a distance.
+Saren is immune to biotic attacks except for Warp and Stasis.
+Saren can use his platform to distance himself from Shepard.
+Use Sabotage to quiet Saren's weapons and Damping to prevent his ability-use as often as possible.
+In the first battle on Virmire, Saren only uses an occasional Carnage blast and is seen using Throw in the first confrontation cut-scene. In the Council chambers, however, he uses Damping and Sabotage quite a bit, especially at the beginning of the fight.
+
+Saren Husk[]
+
+
+
+
+
+
+
+Saren
+
+
+
+
+Race
+Turian
+
+
+Type
+Synthetic
+
+
+Armament
+none
+
+
+Abilities
+ Carnage Damping Sabotage Overload
+
+
+Health
+Very High
+
+
+Shields
+Very High
+
+
+Locations
+Council Chambers
+
+
+After Saren's death in the Council Chambers either through suicide or conventional fight, Sovereign reanimates his body into a Husk-like state. By controlling Saren's corpse and speaking in his voice, Sovereign has the turian fight one last battle. This second avatar of Saren/Sovereign uses tech powers rather than biotics and turns out to be quite a bit more powerful and dangerous than the original.
+
+Tactics[]
+Stay as mobile as possible because this battle is more about mobility than cover. Keeping moving is your best defense -- you will take very little damage if you keep moving. There is cover available behind the big rocks at the front if needed, but if you depend heavily on it the battle will take quite a while. Generally speaking, chasing him around while firing as much as possible tends to work.
+Almost immediately after the battle begins, Saren always hits Shepard with a Sabotage attack. Switch to a different weapon, or use your talents while waiting for the heat from your weapon to disperse.
+This reincarnation of Saren is much like a Geth Hopper and jumps around frequently, with similar disabling abilities and battlefield role to the Geth Stalker. However, he is highly resistant against low-level biotic attacks. He can still flop and be ragdolled about, but only with maxed point investments in the relevant talents like Lift and Throw.
+Because he has no other weapons to speak of, Saren relies a lot on his disabler abilities and will unleash them often. Damping will neuter him for a short while, but only if he doesn't do it to your team first.
+Saren's version of Carnage involves him firing numerous highly-damaging energy balls in quick succession. Again, Damping will stop it mid-process.
+Saren is immune to Neural Shock and Singularity.
+Stasis will lock him in place once his shields are down for an extremely easy, if cheesy, kill. Having Stasis Specialization courtesy of being a Bastion ensures a shorter fight since you won't have to wait for the stasis effect to wear off before you start shooting.
+Once Saren's shields are down, Warp can increase the damage your weapons do. Sledgehammer Rounds and Polonium Rounds will have similar effects, which will make it easier to bring him down.
+After you reduce his shields to 25%, the cutscene in the middle of the battle activates. Saren then regains his shields.
+Assault Rifles and Pistols with Master Marksman will be of great use here due to the sheer amount of fire they put out, Shotguns will be useful since they can hit hard and accuracy won't be as big a problem, but Sniper Rifles should be avoided in this final fight against Saren, they fire too slowly and it's extremely hard to hit him while he's flying around shooting energy balls at Shepard.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

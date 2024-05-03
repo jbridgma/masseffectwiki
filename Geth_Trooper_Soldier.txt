@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect 3. For the enemy type, see Geth Trooper.
+
+
+
+Geth Trooper Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Geth
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Retaliation
+
+
+Abilities
+Geth HopDecreased StaminaShield Pulse
+
+
+The geth are a humanoid race of networked AIs that were created by the quarians 300 years ago as tools of labor and war. Having since won their freedom from their creators, the geth have proven they are able to reason, analyze situations, and deploy tactics as well as any organic race so long as they remain networked with other geth.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 References
+
+
+Powers[]
+
+
+
+
+
+Shield: 1000 / Health: 250
+
+
+Class: Networked AI
+
+
+ Hunter Mode
+
+
+
+
+ Flamer
+
+
+
+
+ Fortification
+
+
+
+
+ Advanced Hardware
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Backhand slam
+Heavy Melee (Shield Pulse) – The Geth Trooper Soldier generates pulses of damaging energy at the expense of a fixed percentage of total shield strength. The initial activation pulse drains more shields than subsequent pulses if the attack is maintained.
+Grab (Electrified Punch) – The Geth Trooper Soldier drags an enemy over cover and then executes them with an electrified punch.
+
+
+
+
+
+Dodge (Geth Hop) – The Geth Trooper Soldier jumps out of the way of incoming attacks.
+The Geth Trooper Soldier can take cover, but cannot roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Networked AI gives the Geth Trooper the ability to deal 5-10% more damage with geth weapons like the Javelin, Geth Plasma Shotgun, Geth Pulse Rifle, Geth Spitfire and Geth Plasma SMG. Also, Hunter Mode can boost weapon damage by an additional 17.5%. At maximum, players can deal up to 27.5% more damage with geth weapons than with other weapons.
+Be wary of attacks that stop shield regeneration, such as a Banshee's Warp projectile, or a Geth Pyro's Flamethrower. The Geth Trooper has a large amount of shields but very little health, just like other geth. On higher difficulties this can mean if your shields go down, you do, too.
+The heavy melee shield pulse is extremely strong and activates across an area, while Fortification increases Melee Damage when purged by as much as 100%. The effect is set to last as long as 20 seconds, so with a low enough recharge speed, you could feasibly deactivate it every 20 seconds to reestablish the bonus, then reactivate it as soon as possible to regain the Damage Reduction quickly, while retaining the damage bonus. With how the Geth Melee drains shields, and the Geth Trooper's low health, this reactivation of Fortification's Damage Reduction is very helpful.
+With Fortification maxed out in favor of damage reduction and shield regeneration, and Advanced Hardware maxed out for durability, the Geth Trooper can have 1650 shields, with 40% damage reduction, and take more than 2350 damage before its shields break.
+Add in a Cyclonic Modulator, and that becomes even more extreme. A Cyclonic Modulator III will add 100% more shields, for 2650 shields, allowing the Geth Trooper to take more than 3750 damage.
+A Cyclonic Modulator IV will add 150% more shields, for 3150 shields, allowing the Geth Trooper to take 4500 or more before its shields break.
+This is not even considering the 40% shield regen bonus, which allows shields to start regenerating 40% earlier.
+Shield regeneration can be further increased with an Omnicapacitor and Shield Power Cells for a maximum 85% shield regen bonus. With such a high bonus, shields begin to regenerate almost instantly after you stop taking damage. This does not make you invincible, however, so care is still required. With the Shield Gate cooldown mechanic[1], even if your shields start regenerating quickly, it may not regenerate enough by the time enemies start damaging you again to save your life.
+When inside of a defensively-specialized Biotic Sphere, shield recharge delay will hit 110% and will regenerate constantly with no delay. This also includes up to 80% damage reduction. When in cover, the Geth Trooper Soldier becomes even tougher.
+Keep in mind, however, that the heavy melee depletes shields at a fixed percentage of the total shield. The initial activation pulse costs a third of the total shield, and each subsequent pulse after that costs 1/9 of the total shield, so after a total of 7 pulses at most shields are totally depleted unless restored from an outside source.
+Unlike most other kits with a strong ability to take massive amounts of damage in stride, the Geth Trooper retains his ability to dodge while maintaining massive levels of shields. So on top of being able to take 3750 or 4500 damage or more before your shields break, if one is in danger of dying as a Geth Trooper, one can also utilize dodges and evades to get away quicker and more effectively, being far more erratic and difficult to track.
+One could forego Hunter Mode because of the cost of half of your base shields. While the 17.5% maximum damage bonus can be useful, losing 500 shields whenever active can drastically decrease your endurance.
+Comparing Hunter Mode's 500 shield penalty to the above tactic of maxing out Fortification Durability, Advanced Hardware Health & Shields bonuses, and using Cyclonic Modulator consumables and Gear, Hunter Mode's 500 shield penalty can be overridden by 50% of a Cyclonic Modulator IV, with a 100% shield bonus further in the positive direction on top of that. Additionally, with Advanced Hardware maxed for Health & Shields, you can have Hunter Mode active while still retaining a 150% bonus to shields. Fortification's damage reduction effects aren't strong enough to cancel the 500 shield penalty by itself, it would take 50% damage reduction to do that, but it can make it less noticeable.
+With the above technique of maxing out health, shields, and durability, while Hunter Mode is active, a Geth Trooper can reach 2650 shields with 40% damage reduction, allowing one to take more than 3750 damage before its shields break. Combined with the ability to see through walls for tactical awareness, faster movement speed up to 20%, and a damage bonus up to 17.5%, and the Geth Trooper becomes an extremely versatile character, and an extremely tank-like one, at that.
+Overall, Flamer is an extremely damaging and potent power, but it is most effective against health and armor. If available, it should be used to deal with armored targets.
+There is a DoT effect after you stop using Flamer on an enemy, so when using it on an enemy who is nearly dead, unless they pose an immediate threat to your survival, deactivate or redirect Flamer and let the DoT finish them off.
+With Fortification's 30% power damage bonus at Rank 5, Hunter Mode's 15% power damage bonus and 17.5% damage bonus, and 45% passive power damage bonus, the Flamer on the Geth Trooper is much more lethal than those on Vorchas. A fully damage spec-ed Flamer can reach 600+ DPS with all those bonus (200 is the base DPS), compared to 400+ on a Vorcha, and if armor damage is chosen, you'll be dealing 1200+ per second on armor. That's without including any bonuses from gear and equip.
+Since you do not have a power which is specifically effective against shields or barriers, it may be wise to bring along the Acolyte or Reegar, or any other weapon specifically effective against those defense types. This will help provide a more balanced build which can combat a wider variety of enemies.
+The Reegar Carbine can fill this role effectively. If used as the only weapon it can be combined with the Shotgun High-Velocity Barrel and Shotgun Spare Thermal Clip to great effect and still retain a fast cool down on Flamer.
+Because Fortification and Hunter Mode are both passive abilities that do not need to be turned on and off frequently, the Geth Trooper can be built without Flamer so it can carry a heavy weapon loadout with no penalty, so long as neither power are deactivated. Considering that the unique cooldown system of Flamer is shorter or longer depending on how long it is held, the Geth Trooper does not suffer as much from a heavier loadout, even while using it.
+Considering the Geth Trooper's excellent Heavy Melee, Fortification melee damage boost, high shields and durability when combined properly with Fortification, Advanced Hardware, and Consumables, and low repercussion from heavier weight loadouts, one could easily equip a lighter-weight shotgun with the Omni-Blade attachment, and even the High-Velocity Barrel, spec Fortification for maximum Damage Reduction, Shield Regen Delay, and Melee Damage bonuses, Hunter Mode for Damage Bonuses or Movement Speed & Vision Range, and Advanced Hardware for fitness, and utilize this stacked list of abilities to tank for allies at enemies' feet with Heavy Melees and shotgun usage. Combined with the fast movement speeds and unique ability to dodge effectively while built this way, if a Geth Trooper is in danger or is getting close to being in danger of dying at the feet of enemies while tanking, the Trooper could utilize dodged and maneuvers to evade away more effectively than other tank-types.
+With the bonuses to geth weapon damage from Networked AI, coupled with its high headshot damage multiplier and steady aim, the Geth Pulse Rifle becomes an excellent choice of weapon for the Geth Trooper.  It is more effective in the hands of a geth than any other race, and the Trooper's Fortification ability allows it to take more fire than other geth before having to recover shields, letting the Trooper take greater advantage of the Pulse Rifle's enormous magazine capacity.
+Cerberus[]
+Flamer can help weaken Dragoons and Atlases. Flamer can also be used against Phantoms, either to do DoT, or to disrupt their cloak making them targetable by auto-target powers for allies.
+Hunter Mode is useful in detecting cloaked Phantoms.
+Collectors[]
+Flamer can help deal with armored targets, such as the Scion and Praetorian. It also helps with Abominations and Seeker Swarms due to their fast moving and low health, but be careful with abominations due to geth trooper soldier's low health.
+Take an anti-barrier weapon or work with a team of anti-barrier specialists so your Flamer can then get to work on the Collectors' flesh and armor.
+Because Seeker Swarms have the ability to disable powers, one can skip Flamer and invest the points into become tougher and dealing 27.5% more damage with heavy weapons like the Geth Spitfire, making the biggest advantage of the Collectors useless.
+Killing Collector Troopers and Captains with headshots is easier due to their big heads.
+Geth[]
+You will struggle against the Geth unless the shields and barrier damage rank 6 evolution is picked for Flamer, or you carry an anti-shield weapon, since every enemy except one has at least some form of shielding and/or armor. Hunters, Rocket Troopers and Primes will also give you no end of trouble if you don't pay attention, as they can stop you from using powers. However if you are already using Flamer, they CANNOT interrupt you. This makes you less susceptible to stuns if used correctly.
+Flamer can be used to deal with the Geth Pyro and Geth Prime as well as the Geth Bomber, especially if upgraded for more range.
+Reapers[]
+Flamer can be used to deal with any foe effectively, even Brutes and Banshees. You will have the most trouble with Marauders and Banshees due to their Shields and Barriers, but an Acolyte, or team with weapons or powers effective against those defense types can help balance the odds against such enemies.
+Be wary of Banshees and Ravagers, since they possess attacks that can halt your shield regeneration, leaving you an easy target for other enemies.
+References[]
+
+↑ https://web.archive.org/web/20160318000954/forum.bioware.com/topic/277136-gameplay-data-and-mechanics/
+
+
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

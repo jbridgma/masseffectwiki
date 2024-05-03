@@ -1,0 +1,61 @@
+
+
+
+
+
+Pas-09
+
+Region
+Andromeda / Heleus Cluster / Saajor
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+238.2 AU
+
+
+Orbital Period
+870.7 Earth Years
+
+
+Keplerian Ratio
+17.827
+
+
+Radius
+8,248 km
+
+
+Atm. Pressure
+0.33 atm
+
+
+Surface Temp
+825 °C 
+
+
+Location: Andromeda / Heleus Cluster / Saajor System /  Fifth planet
+
+
+Description[]
+Pas-09's orbital path is poised to take it on a centuries-long journey deep into the Scourge. Observing the results should provide invaluable scientific insight.
+
+Anomaly[]
+Crevasse[]
+DATA:
+
+Length: 401 km
+Average width: 14 km
+Maximum height: 9 km
+ANALYSIS:
+A small number of Remnant bots patrol the base of this vast canyon. Our sensors cannot locate anything else of value, however; whatever the bots are guarding may be long gone.
+Awards +270 XP when scanned.
+
+
+
+

@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect: Andromeda. For Garrus Vakarian's class and class talent in Mass Effect, see Turian Agent.
+
+
+
+Turian Agent
+
+
+
+
+
+
+Race
+Turian
+
+
+Rarity
+Rare
+
+
+Availability
+Unlockable
+
+
+
+Special agent that can sneak behind enemy lines using a versatile power set.
+The Turian Agent left a dull corporate security job in the Milky Way to find adventure with the Andromeda Initiative. His professionalism and confidence can make him seem snobbish, but he genuinely cares about the team.
+The Turian Agent joins the Nexus militia forces during the Remnant descent APEX missions in Heleus Cluster.
+
+Skills and stats[]
+
+
+
+
+
+ Health: 500     Shields: 250
+
+
+Powers
+
+Recon Visor
+
+
+Tactical Cloak
+
+
+Flamethrower
+
+
+Passives
+
+APEX Training
+
+
+Support Systems
+
+
+Veteran Bonus
+
+
+Melee
+
+Omni-Blade
+
+
+Bonus Stat
+
+Max Shields
+
+
+Player Notes[]
+General Notes[]
+Recon Visor is the Agent's best (and unique) party trick, allowing him to see enemies through cover and cloaks, and allowing him to shoot through thin cover. Combined with a piercing mod, he can engage enemies who are otherwise dug-in or even in another part of the map entirely.
+Restricting weapons loadout to projectile weapons is required to make the most of the skill. However, P.A.W. wielders and other energy weapon users can still use it for positioning data.
+The Agent has no innate or acquirable detonator skills, requiring synergy with other players or other outside forces for combo damage.
+The Agent has no innate shield-stripping capabilities. Disruptor Ammo is recommended when facing shielded enemies.
+The Cyclone is a good option for the Agent, as it usually takes a moment to get a bead on enemies through walls anyways, mitigating the warm-up time the Cyclone has before firing. Solid accuracy, damage, clip size and fire rate combined with light weight make the Cyclone an excellent companion for the Agent.
+In the shotgun category, the N7 Crusader can kill most lower level enemies in a single shot, even though cover with Recon Visor active. At medium range, it is more versatile than a sniper rifle, with a larger clip size, while still maintaining high damage per shot.
+The Agent rewards precise aiming. Flamethrower is an excellent skill to get you out of trouble if an armored enemy, or a swarm of troops gets too close.
+Kett[]
+Recon Visor is particularly effective when facing against Destined and whoever else might be hiding behind their smoke clouds.
+Even while Anointed and Destined are shielded, they can be taken down with little effort even without Disruptor Ammo. They don't float, and so are vulnerable to surprise close quarters combat.
+Outlaw[]
+Outlaw infantry besides Berserkers and Adhi have a tendency to hang behind cover, and Recon Visor plus piercing mods can easily pick them off from a distance.
+Alternatively, cloak/melee build Agents can take advantage of this by sneaking behind them.
+Saboteurs should be taken down before they steal shields. Berserkers too, before they regenerate their tough armor bar. The Agent has the means to dish out the hurt to these units in the battlefield, particularly in mid to short range, and can easily cloak away if losing against the krogan.
+Remnant[]
+While Recon Visor is active, siege mode Nullifiers can be shot at with minimal damage reduction.
+Cloak/melee Agents can have an irritating time trying to get close to the Remnant's multitude of floating units. It is advisable to bring at least one mid- to long-range weapon as backup.
+
+
+
+
+Mass Effect: Andromeda Multiplayer and APEX HQ
+
+
+
+
+
+
+
+Common
+
+Human Adept • Human Engineer • Human Infiltrator • Human Sentinel • Human Soldier • Human Vanguard
+
+
+Uncommon
+
+Asari Adept • Asari Sentinel • Krogan Engineer • Krogan Vanguard • Salarian Infiltrator • Turian Soldier
+
+
+Rare
+
+Angara Insurgent • Asari Huntress • Batarian Scrapper • Human Artificer • Human Commando • Human Guardian • Human Juggernaut • Krogan Mercenary • Salarian Architect • Turian Agent • Turian Havoc Trooper
+
+
+Ultra Rare
+
+Angara Avenger • Angara Exemplar • Asari Duelist • Batarian Vanguard • Human Kineticist • Krogan Gladiator • Salarian Operator
+
+
+
+
+
+

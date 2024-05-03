@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+This article is about the Proximity Mine power in Mass Effect 3. For other similarly-named abilities in this and other games, and other uses of the term "mine" generally, see Mine (disambiguation).
+
+Proximity Mine is a power in Mass Effect 3's single-player and multiplayer modes.
+
+Power Ranks[]
+Rank 1: Proximity Mine[]
+Fire this sticky mine into traffic. It will detonate when an enemy steps within range. 
+
+Recharge Speed: 10 sec
+Damage: 400
+Radius: 3 m
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 8 sec
+Damage: 400
+Radius: 3 m
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Recharge Speed: 8 sec
+Damage: 480
+Radius: 3 m
+
+
+Rank 4: Damage/Radius[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Recharge Speed: 8 sec
+Damage: 600
+Radius: 3 m
+
+
+Radius
+Increase impact radius by 50%.
+
+Recharge Speed: 8 sec
+Damage: 480
+Radius: 4.50 m
+
+
+
+Rank 5: Damage Taken/Slow[]
+
+
+
+Damage Taken
+Increase damage dealt to target from all sources by 20% for 8 seconds.
+
+
+
+Slow
+Slow target's movement speed by 30% for 8 seconds.
+
+
+
+
+Rank 6: Damage/Recharge Speed[]
+
+
+
+Damage
+Increase damage by 50%.
+
+Recharge Speed: 8 sec
+Damage: 800 (Damage), 680 (Radius)
+Radius: 3 m (Damage), 4.50 m (Radius)
+
+
+Recharge Speed
+Increase recharge speed by 40%.
+
+Recharge Speed: 6.06 sec
+Damage: 600 (Damage), 480 (Radius)
+Radius: 3 m (Damage), 4.50 m (Radius)
+
+
+
+Player Notes[]
+A mine that is not triggered will self-destruct in approximately 10 seconds and can be stacked in exactly the same location.
+When fired, the Proximity Mine travels in a straight line towards your crosshair. However, it is not fired directly down it; rather, depending on the cover the player is in, it will be fired slightly to the left, the right, or below the crosshair, making it easy to hit intervening obstacles and miss your target.
+When looked at through a weapon scope, a planted mine may vanish from view.
+Proximity Mines are an explosive attack that triggers once an enemy walks near the mine. While this attack is much weaker than standard grenades and triggers a long cooldown, using this attack does not deplete your grenade stock.
+The mines are probably best used between rounds or to guard an area such as a hacking or landing zone.
+Proximity Mines are great for protecting your favorite sniper spots and your six along with it.
+With careful aiming, you can also use them as makeshift grenades, by aiming at the feet of an incoming target just a foot or two ahead of them.
+A Geth Hunter Infiltrator with maxed out power damage can do 3340 damage if the Proximity Mine detonates whilst the player is in Tactical Cloak.
+Mines have an effectively unlimited range and can be shot accurately using a Scope on weapons with one equipped.
+Proximity Mines are very effective against groups of Cannibals. Set up a trap by killing an enemy first (preferably another Cannibal since they are easy to kill) near other Cannibals and launch a mine onto its corpse. The Cannibals that are attracted by the corpse will walk straight into your mine. Similarly, if Cannibals are in the process of devouring a corpse, you can launch one at the corpse, instantly killing any surrounding Cannibals.
+Proximity Mines, when evolved for 25% (20% in multiplayer) damage vulnerability debuff, can make the mines an excellent choice to make tougher (and dangerous) enemies such as Brutes, Ravagers, Banshees, Atlases, and Geth Primes more vulnerable to damage and more quickly killed with concentrated fire.
+Proximity Mine can be used to great effect in tandem with weapons that have an area of effect such as the Scorpion. If the Rank 5 Damage Taken evolution is taken, all the enemies caught in the blast will take increased damage. Since many weapons that fire explosive projectiles also stagger most enemies, this tactic can suppress as well as wear down enemy attack groups.
+To make this tactic even more effective, utilize Incendiary/Disruptor/Cryo ammo or rounds. Proximity Mine can detonate fire, cryo, and tech Power Combos.
+Unlike most powers, Proximity Mine can hit an unlimited number of enemies, similar to grenades. This makes it an excellent power to kill groups of Swarmers in one go. This also makes its Rank 5 debuffs and ability to stagger lighter enemies uniquely powerful.
+Proximity Mine can hit enemies through cover, up to the limit of its radius. It's quite handy for knocking enemies out of cover or hitting them through walls.
+Availability[]
+Single Player: Garrus Vakarian, Commander Shepard (Bonus Power)
+Multiplayer: Geth Hunter Infiltrator, Salarian Infiltrator, Turian Soldier, Volus Engineer
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

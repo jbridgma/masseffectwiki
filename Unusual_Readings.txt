@@ -1,0 +1,47 @@
+
+
+
+While on the Citadel you uncovered an Alliance patrol report. One of the patrols mentioned some strange activity in the Hydra System of the Argos Rho cluster.
+Alternative journal entry:
+You've received a distress call from a downed med ship located in the Hydra System of the Argos Rho cluster.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+4 Enemies
+5 Trivia
+
+
+Acquisition[]
+This assignment can be gained in two ways:
+
+By hacking the computer console (easy decryption) in Ambassador Udina's office. The Journal is updated with the Unusual Readings mission and the console then reads as follows:
+
+“ALLIANCE PATROL REPORT
+
+"Captain Hendrickson reported some unusual energy readings during a patrol of the Argos Rho cluster. She had particular concerns about the Hydra System but was recalled before her team could investigate further. No patrols are scheduled for that sector. Do we want to send in a recon team?"”
+
+
+By orbiting Metgos in the Hydra system of the Argos Rho cluster. Joker picks up a transmission from the medical transport Sacred Angel and relays it.
+Preparation[]
+Metgos has a Level 2 Heat Hazard. If you are playing Mass Effect Legendary Edition, there is no need to exit the Mako for the fight, but if you are determined to obtain full XP in the original Mass Effect, bring plenty of tech abilities to deal with the enemy on foot. If you intend to exit the Mako, wear Devlon Industries armor for some hazard protection.
+
+Walkthrough[]
+This assignment is fairly straightforward. The distress call emanates from an object in a shallow depression south of the landing zone. With the depression in sight, one of the squad warns that they have a bad feeling about it. Once you are within the depression, two Geth Armatures, three Geth Rocket Troopers, and two Geth Rocket Drones appear out of nowhere and ambush your team. 
+
+If the Mako gets close to the object, it explodes, but does not damage the vehicle. 
+To avoid the experience reduction in the original game, you can damage the geth with the Mako then step out to deliver the killing blow. The Mako's cannon kills infantry easily, so you should use the machine gun on them. It can also be difficult to hit the drones with the Mako's machine gun, but striking the ground beneath them with the cannon will damage them considerably—although possibly kill them.
+If the Mako's shields go down, get some distance quickly, as the attacks are relentless and the drones and rocket troopers will chase you. You can also use this to lure the infantry away from the armatures, making them easier to deal with.
+The assignment is complete once all the geth are destroyed.
+
+Enemies[]
+Geth Armature
+Geth Rocket Drone
+Geth Rocket Trooper
+Trivia[]
+The squad warning saying "I have a bad feeling about this.", followed by "It's a trap!", are both nods to the Star Wars franchise. The phrase "I have a bad feeling about this..." is used in multiple movies, and "It's a trap!" is a famous quote by the character Admiral Ackbar.
+
+
+

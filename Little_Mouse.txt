@@ -1,0 +1,97 @@
+
+
+
+You've discovered a datapad that recounted a scavenger's run-in with a gang run by "Little Mouse". Find more datapads to learn more about this gang and its activities.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Locate More Datapads
+2.2 Track Down The Stash
+
+
+3 Rewards
+4 Trivia
+
+
+
+Acquisition[]
+Pathfinder Ryder receives this task after stumbling upon a datapad in a scavenger camp on Elaaden that details a gang leader named "Little Mouse". 
+Note: If the container at the ridge in Languish is opened before the assignment is initiated, its rewards (AVP, EXP and viability points) will be given, and the task won't show up on the journal until you find the first datapad.  
+In this case, once all datapads are found, the assignment will then be marked as complete without additional rewards being provided. 
+
+
+
+
+
+Little Mouse
+Stumbled on a small roaming gang today. Mentioned they were headed to watch "Little Mouse" work his magic. Said he's the chosen one to lead us all to glory, that if you give him a gift, he protects you from the heat. You can bet I took note of that—this Little Mouse has a tidy pile of goodies in his camp. Think I'll follow this bunch of idiots and see how this plays out.
+
+
+Walkthrough[]
+Locate More Datapads[]
+Ryder has to find five more datapads. The datapads are spread randomly among the camps and crashed shuttles. Each datapad will be marked with . If a camp doesn't have a datapad, the camp might have one the next time Ryder visits. 
+
+
+
+
+
+Little Mouse
+Followed the gang to a small camp. Only a couple dozen people. There was a guy standing on a crate, barely more than a kid. They called him Little Mouse. He talked about freedom and safety, and the group hung onto his every word. Sounded like garbage to me. But I was right—this kid's camp is a jackpot. I'm sending word to the boys. We'll be set for months.
+
+
+
+
+
+
+
+Little Mouse
+Been in Little Mouse's camp for three days now. It's the same pattern every day: a stream of rubes give him gifts—tech, food, even water—and he bestows them with his "wisdom". I got to hand it to this kid. He has a solid scam running. It's almost a shame to ruin it, but the plan goes on. We act tonight.
+
+
+
+
+
+
+
+Little Mouse
+I waited 'til the kid's followers were asleep, then rounded up whatever loot I thought was useful. I was halfway out of the camp when I saw Little Mouse staring at me. He didn't try to stop me. Didn't even move. He just said, "He who steals from the chosen one carries a curse." Then he let me run out of his camp with half his stock. Idiot. Meeting up with my gang tonight—they'll lose their minds when they see what I brought them.
+
+
+
+
+
+
+
+Little Mouse
+I reached the meeting point where I was supposed to link up with my gang. They were dead—every one of them. I ran when I heard a shot fired in the distance. Was it Little Mouse? Did his cronies come for their loot? Or did that kid do something to me after all?
+
+
+
+
+
+
+
+Little Mouse
+Been on the run for two weeks. Every time I stop somewhere to rest, tragedy finds me. First my crawler died. Then the worm nearly tore me apart. Last night, I was almost skinned alive by Ataxia's gang. I can't stay anywhere more than a few hours. Is it true? Did Little Mouse really curse me? I feel like I'm losing my mind. I'm escaping to the only place I know he and his people can't find me. Wish me luck.
+
+
+
+Once Ryder has found the remaining five datapads, an additional navpointin the Languish region is added. This is very close to the Memory Trigger for Ryder Family Secrets which is north-northwest of New Tuchanka.
+Note: As mentioned above, if the container at the ridge in Languish was opened before the assignment was initiated, the assignment will be completed once all datapads are found. No additional rewards will be provided, however, as opening said container prior to the assignment's start triggered the provision of the task's rewards.
+
+Track Down The Stash[]
+Head to the navpoint. At the navpoint, Ryder will come under fire from Outlaws. Defeat them. After the battle, Ryder finds the corpse of the scavenger who wrote the datapads and a container with the stash. 
+Open the container to finish the mission.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Elaaden viability
+Random Items including one leveled weapon.
+Trivia[]
+Little Mouse may be a reference to the novel Dune. Paul Atreides, the teenage protagonist, becomes a messianic figure to the people of a desert planet. Part of his public name comes from the muad'dib, a diminutive mouse known to desert dwellers as an "instructor of men" because of its ability to survive the severe environment.
+
+
+

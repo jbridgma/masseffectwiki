@@ -1,0 +1,48 @@
+
+
+
+Dr. Cohen told you that several of the scientists at Rift Station were sickened by an experiment gone awry. Captain Ventralis won't allow anyone to go into the labs to manufacture a cure for them. He might make an exception in your case.
+Acquisition[]
+Prerequisite: Noveria: Matriarch Benezia
+
+This mission is acquired during your pursuit of Matriarch Benezia within Peak 15. Speak with Dr. Cohen at Rift Station's Medical Bay regarding the sick scientists. He's reluctant to say anything because he has a non-disclosure agreement, so you must persuade him. If you tell him it's his call, you won't get the mission, though you can try to persuade him again afterward.
+Warning:  If at any time you decide to turn the guards hostile, Dr. Cohen will either disappear or refuse to talk to you, rendering the mission impossible to acquire. If the mission is already underway, it becomes unable to be completed and will remain open in the journal even after completion of the main Noveria mission.
+
+Walkthrough[]
+Ventralis has sealed off a lab where they were researching a bio-weapon; however, Ventralis mistakenly believes that it is still viable. Cohen assures Shepard that it is neutralized because of a brief exposure period, and he needs the cure they were researching to heal the other members of his team. If you charmed or intimidated Cohen for specifics, you'll learn about the toxin Thoros-B and its origins.
+
+If you require it, the Mira terminal in the medical bay can completely heal you and your squad. If you haven't obtained the primary Codex entry for medi-gel yet, the medical station right next to the terminal can be bypassed for some Phoenix Armors, XP, and medi-gel if you're below maximum (easy decryption). Note:  unlike most bypass jobs, if you cancel or fail the minigame, you won't get anything other than the Codex entry.
+Go back and see Ventralis and after some persuasion he will give you access to the lab; head toward Quarantine and Barracks to get access to it. When you exit on the lower level you see Han Olar, talk to the volus to get information about the rachni and what happened at the station. Once you have all the information you want, before heading into the lab loot the storage locker (easy decryption) and if necessary access the Medical Station. Then talk to the guard and head inside the lab.
+
+Note:  Once you're in the lab, the guard won't let you out until you have completed the cure.
+At the other end of the room is what you need to make the cure. Before you make the cure however head into the second door on the right and grab the med kit. The third room has a secure storage locker (average decryption), and there is a locked crate (easy decryption) next to the table. Finally, if you haven't acquired the codex entry for Thresher Maws yet it's just by the equipment near the terminal, labeled Xenobiological Database.
+Access the research notes to figure out how to make the cure and then use the next station to make the cure. For that just push the Change Vial button each time the progress bar reaches proper concentration (is between two sliders). When you make the cure however you have some company.
+
+Alestia Iallis enters with 2 Geth Troopers and an Asari Commando. Talk to her but there is no way out of this without fighting. So when the conversation ends use whatever cover you have to take out your attackers. It is a cramped space and offers little cover. If you have Lift or Singularity then use them to offset the cramped quarters. Focus on Alestia first however, because she is the greatest threat. Once she is down focus on the Commando if present, then the geth. 
+Once they are all down head out of the lab and Han Olar will tell you that they came from the maintenance areas. With that information then head back up the elevator and head to Dr. Cohen to hand over the cure. The conversation can go a couple of ways, so you need to specifically talk to Cohen about the maintenance areas to get his pass. With some persuasion you can also weasel some medi-gel (4 Charm or 8 Intimidate) out of him. 
+The mission concludes after the dialogue with Cohen, yielding XP and 24 Paragon points. If you want to, talk to Ventralis again to tell him about Alestia. Before leaving visit Petozi for any last trading because it will be your last chance.
+
+Enemies[]
+Alestia Iallis
+Asari Commando
+Geth Trooper
+
+Noveria Mission Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Noveria: Matriarch Benezia
+
+Missions
+
+Noveria: Rift Station
+
+
+
+

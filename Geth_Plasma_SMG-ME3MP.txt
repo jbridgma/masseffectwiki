@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+Geth Plasma SMG
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Submachine Gun
+
+
+Location
+Firefight Pack
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  26% 
+
+
+Capacity
+  80% 
+
+
+Fire Rate
+  80% 
+
+
+Damage
+  10% 
+
+
+Accuracy
+  60% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+100
+600
+
+
+
+
+
+
+
+Type
+Submachine Gun
+
+
+Location
+Multiplayer Store with Resurgence Pack
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  26% 
+
+
+Capacity
+  80% 
+
+
+Fire Rate
+  80% 
+
+
+Damage
+  10% 
+
+
+Accuracy
+  60% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+100
+600
+
+
+
+
+
+
+
+The Geth Plasma SMG is a submachine gun in Mass Effect 3.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 References
+
+
+Description[]
+This submachine gun works on the same principles as the Spitfire: it shoots superconducting toroids that break apart on impact, retaining an electrical charge that flash-converts the shrapnel into plasma. Unlike the Spitfire, however, this smaller geth weapon has been modified to take thermal clips. Holding down the trigger speeds up its rate of fire, rapidly depleting the gun’s heat sink in exchange for nearly continuous fire.
+
+Acquisition[]
+Single-player
+The Geth Plasma SMG is available after downloading the Mass Effect 3: Firefight Pack.
+In Legendary Edition it is available from the Elkoss Combine Arsenal Supplies terminal in the Presidium Commons for a base amount of 10,000 credits.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The Geth Plasma SMG is categorized as rare and requires the Mass Effect 3: Resurgence Pack.
+
+Player Notes[]
+GeneralSingle-playerMultiplayer
+General
+The Geth Plasma SMG deals the least damage per shot of any weapon, compensated by having the highest potential rate of fire. Continuously firing it causes the weapon to "spin-up", firing more and more rapidly, eventually reaching a maximum speed that can burn through the hundred round magazine in seconds.
+Like the N7 Typhoon and Particle Rifle, the Geth Plasma SMG benefits from a damage bonus that kicks in after a short period of continuous fire, on top of the increasing rate of fire. After .75 seconds of firing, damage per round is increased by 2.5x; this is also the same amount of time needed for the gun to reach maximum firing rate, at which point ammo consumption also doubles. The rate of fire and damage peak earlier than the audiovisual effects of maximized firing indicate.[1]
+Equipping either the SMG Magazine Upgrade or SMG Heat Sink is practically required to truly benefit from the weapon's maximum firing rate; both can be used for the longest potential continuous firing time without having to reload.
+The Geth Plasma SMG has very low muzzle climb and good accuracy when aimed down sights (zoomed) and/or fired from cover.
+To really see benefits from this weapon's high capacity and rate of fire, it needs to be fired often and for sustained periods, which isn't always practical in every combat situation. Any interruption in fire will force the shooter to go through another spin-up period, making the gun drastically less efficient.
+Classes or builds that rely on regular power use should generally avoid the weapon.
+Effective use of cover to avoid enemy attacks, especially those that can stun or deal very heavy damage, is vital for being able to sustain fire.
+The Geth Plasma SMG's very low damage per shot makes it highly ineffective against armored targets like Brutes or Atlases unless enemy armor is weakened by close to 100%.
+Single-player
+The Geth Plasma SMG has a niche use in single-player as potentially the most effective weapon to combine with the Explosive Burst evolution of Incendiary Ammo thanks to its extreme maximum rate of fire. As the damage of Explosive Burst is technically power damage and not weapon damage, maintaining the maximum rate of fire can devastate even heavy armored targets without the need to weaken their armor with powers or use the SMG High-Velocity Barrel.
+The Geth Plasma SMG is a very poor choice for squadmates as they do not take advantage of its full rate of fire.
+Multiplayer
+This weapon's low damage can be boosted by the Networked AI passive power that is available to geth characters, such as the Geth Juggernaut Soldier. This bonus will also improve the damage of ammo equipment on geth weapons. Other geth weapon options such as the Javelin or the Geth Plasma Shotgun still have higher damage potential in general, however.
+The spare ammo bonus provided by the passive class Batarian Enforcer power or Geth Juggernaut (power) can make running out of ammo slightly less of an issue.
+Armor-Piercing Rounds enable effective damage against armored enemies.
+The stun resistance and magazine capacity boosts afforded by Devastator Mode makes the N7 Destroyer Soldier more effective with the Geth Plasma SMG.
+References[]
+
+↑ Talk:Geth Plasma SMG#Windup mechanics
+
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect 3 Downloadable Content
+
+
+
+
+Promotional
+
+AT-12 Raider • Chakram Launcher • Collector Rifle • M-55 Argus  M-90 Indra • N7 Collector's Edition Pack • N7 Warfare Gear • Reckoner Knight Armor
+
+
+Single-Player
+
+From Ashes • Extended Cut • Firefight Pack • Leviathan • Groundside Resistance Pack  Alternate Appearance Pack 1 • Omega • Citadel • Genesis 2
+
+
+Multiplayer
+
+Online Pass • Resurgence Pack • Rebellion Pack • Earth • Retaliation • Reckoning
+
+
+
+

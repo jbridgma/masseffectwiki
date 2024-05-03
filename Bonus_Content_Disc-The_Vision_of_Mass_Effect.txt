@@ -1,0 +1,46 @@
+
+
+
+This is a transcription of the documentary "The Vision of Mass Effect" found on the bonus content disc of the 2007 Limited Collector's Edition of Mass Effect as well as on the bonus content disc released in 2008.
+
+Menu Description[]
+Provides an in-depth look into the various creative inspirations for Mass Effect, ranging from the visual style to the music, story, and game play.
+
+Content[]
+Greg Zeschuk: We really still remember the time when we started talking about Mass Effect. It was after we'd done Knights of the Old Republic and after Star Wars was such a tremendous success. There was a lot of passion that went into that game, a lot of really great ideas. We were sitting, Ray and I were actually chatting a lot with Casey in those days, and we were thinking about: "okay, what's next? What's the next thing to tackle?" And I think we really wanted to do was to blow it out, to really make it big and broad. And that's kinda where this whole concept of exploring the galaxy and having a really giant story, and we wanted to do something of our own. I think that was the thing that really came out of it... It's funny, we were at this-- I think the first meeting was at this Greek restaurant by our old office, I still remember. Just talking, just throwing ideas around. You know, it's always exciting when a game's starting, because it's pretty general but there's usually some really neat ideas that have lived through all that time in the game itself.
+Casey Hudson: A lot of the inspiration for Mass Effect came from the idea that... I think in a lot of science-fiction that we're seeing today in movies or games, is a lot of it is really dark and gritty and you have lots of rusted metal, and dark shadows, and things like that. That stuff is really cool. But we also wanted to do something different. And we thought about what's different from those things that are being done. One of the things that came to mind is, for myself and the art director Derek Watts, there is kind of an entire genre of art, a kind of futurist art, that was especially done in the early eighties and late seventies, where things were just extra-sleek; they kinda have a graphic design sense, or even like an aerospace design sense to them. They look like they're drawn with a compass and a ruler. And you get these very functional but very sleek-looking designs. So that was something we wanted to impart to Mass Effect.
+Derek Watts: In the beginning, Casey and I used to sit down and talk a lot about what kind of movies we like, what kind of artists we like. Syd Mead popped up. Some of the other movies we liked were Solaris, the neat, clean style in that... Red Planet, lot of the other Hollywood things like that. We had just come off a Star Wars game, so we had to get our minds off that kind of look, like the Imperial look, the Republic look. And we had to go into a totally new direction for that. That was a bit difficult, so we looked at a lot of the old NASA paintings of what the future might look like, some of the old ships, of what might it look like to go into outer space, some of the ring worlds they'd done, and so on. Structures; we looked a lot of modern architecture magazines, maybe just taken to an extreme scale. But we definitely had the same vision that we wanted on this, and that was a clean look, nice and sleek, something that wasn't too clunky, something that could actually work. And people would feel comfortable with, driving around in, walking through, or being a part of.
+Preston Watamaniuk: So there was a year of nothing but "What is our IP? What are we trying to make here?", going back and saying "What kind of a science-fiction game do we wanna make?" We decided right away that we were gonna go to a real-time combat system, but really focus on making sure that the RPG aspects of that combat were still there, meaning: "as I progress through the game, I'm getting better. I'm able to upgrade my character. My gameplay is evolving as I move through the game." But it's all done in real time. One of the big problems on KotOR is melee and the sort of blaster weapons were always fighting, we couldn't resolve the balance on those issues very well. So we made a decision, we're gonna use ranged weapons for this game. And actually that decision has made it much easier designing and it's made it more fun. Because everything going into it, with the tech powers, the biotic powers, to the mass accelerator weapons, all those things are ranged so then everything sort of builds up. The interactive conversation system was the biggest thing we were trying to go for in this game.  Basically, you do have like a real-time conversation. And that's really the key, that's a real-time conversation that you're inputting into. And in certain circumstances, the end result of that is digital acting like you saw at E3 where you grab someone or you pull a gun. So you'll see that pay off when you do the traditional BioWare "Intimidate" and "Charm." But when you intimidate somebody in this game, the pay-off will be something physical as well as something verbal. Just like KOTOR, we wanted to say we want science-fiction moments that you'll recognize, but they're redone in such a way that they're new. That was sort of the challenge for the first year; making sure that the framework is in place. We didn't worry about the story so much, we worried about "what is the framework where we can tell a good science-fiction story?" And after we're done telling this story, we'll have a lot more stories we can tell.
+Steve Sim: The big thing that we wanted to try to do is give the feeling of an epic eighties sci-fi. So, the music really has to reflect that. And what we found in the eighties-- The soundtracks we liked best were things like Tangerine Dream, Vangelis' Blade Runner, the Jerry Goldsmith on Alien, so what we're trying to do was make a combination of that stuff. The Goldsmith orchestral, the mild stuff, mixed with the eclectic electronica, but very serene and with a lot of ambience in the music. Right now, we're blurring the lines between what's a sound effect and what's music, because the music itself is quite the sound effect. If you listen to a movie like Blade Runner, the music in it is all part of the world too and it all just blends together, and it just makes the whole audio package complete.
+Drew Karpyshyn: I was lucky enough to have played a lot of Dungeons & Dragons when I was a kid. I was the stereotypical geek in his basement with his friends, which gave me a real understanding of role-playing games, and how the experience of role-playing takes place; how to tell a story while you are allowing people to make choices and go along the way, changing things. It's not a linear style of story-telling. That's very much what we do here at BioWare, so that kinda gave me the grounding and the understanding of our story structure. 
+Ray Muzyka: So in terms of inspiration, I think, as Greg described, we've had a desire for a long time to make a new IP at BioWare that's gonna really excite the fans in a science-fiction environment. This is that IP; Mass Effect is what we've been striving for. And I think what we're trying to do, in terms of the emotion in the player we're trying to convey, is we're trying to make the players feel inspired. The new generation of video game players; the new generation of people who enjoy role-playing games or story-based games; we're trying to inspire them. The same way we were inspired back in the late seventies, early eighties, mid nineties, when we played RPG's. Just as ourselves. We're big fans of these games ourselves. So I think it's our dream ultimately to create that kind of same feeling, instill that emotion and inspire a new generation of video game players.
+Greg Zeschuk: I think you just revealed how old we actually are.
+Ray Muzyka: [laughs]
+
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

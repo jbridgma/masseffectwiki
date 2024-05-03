@@ -1,0 +1,211 @@
+
+
+
+Use your scanner on uncharted worlds to test out Chief Lucan's new geophysics survey VI. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Access the Terminal
+2.2 Scan minerals
+2.3 Speak to Chief Lucan
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Task: Getting to Know the Nexus
+
+Speak with Chief Lucan on the Nexus (after speaking to Professor Herik in the aforementioned mission) and accept his request for help hitting rocks for science.
+Warning: Declining to participate will lock this task out even after unlocking the scientists' Tech Lab on the Nexus, after the Eos vault's activation. It is highly advisable to accept the task when it is given.
+
+Walkthrough[]
+Access the Terminal[]
+After agreeing to help Chief Lucan, access the nearby terminal to review the patch notes on the Geophysics VI that he's been building.
+
+
+
+
+Geophysics VI: Beta Build
+
+Patch Notes (Chief R. Lucan)
+
+-GSV 2031: Streamlined interface with omni-tool (minimal lag)
+-GSV 2093: Tuned voice recognition to recognize both "aluminum" and "aluminium"
+-GSV 2105: Haptic interface no longer defaults to transparent
+-Also resolves GSV 2027: Haptic interface not found
+
+-GSV 2135: Customized SAM handshake protocols
+
+
+Scan minerals[]
+Upon nearing a mineral to be scanned, SAM will prompt Ryder that "an undocumented mineral has been detected". Many are located in regions of extreme conditions that are difficult or impossible to access before the planet's Remnant vault has been activated.
+
+
+
+World
+
+Region
+
+Mineral
+
+Details
+
+
+Elaaden
+
+Hell's Promise
+
+Cadmium Sample
+
+This mineral can be found north of the Forward Station.
+
+
+Elaaden
+
+Sea of Ataraxia
+
+Element Zero Sample
+
+This mineral can be found south of the forward station in the western region.
+
+
+Elaaden
+
+Sea of Ataraxia
+
+Fluorite Sample
+
+This mineral can be found east of the forward station in the northeastern region.
+
+
+Eos
+
+Presson Dunes
+
+Vanadium Sample
+
+This mineral can be found northeast of the Blackrock Tande region.
+
+
+Eos
+
+Sawtooth Plateau
+
+Element Zero Sample
+
+This mineral can be found northwest of the forward station.
+
+
+Eos
+
+The Golden Wastes
+
+Cadmium Sample
+
+This mineral can be found in a sinkhole next to Remnant ruins on the far east of the map.
+
+
+H-047c
+
+Cocytus Plateau
+
+Titanium Sample
+
+This mineral can be found inside the dome during From the Dust.
+
+
+H-047c
+
+Crater: Peregrine
+
+Element Zero Sample
+
+This mineral can be found inside the dome during From the Dust.
+
+
+Havarl
+
+-
+
+Element Zero Sample
+
+This mineral can be found in a small cave south of the Remnant Abyss region.
+
+
+Kadara
+
+Haarfel
+
+Titanium Sample
+
+This mineral can be found southeast of the forward station.
+
+
+Kadara
+
+Kurinth's Valley
+
+Iridium Sample
+
+This mineral can be found just northeast of Bishop during Old Skinner.
+
+
+Kadara
+
+Sulfur Springs
+
+Element Zero Sample
+
+This mineral can be found just to the east of the building during Nakmor Drack: Krogan Betrayal.
+
+
+Voeld
+
+-
+
+Iridium Sample
+
+This mineral can be found east of the Angaran Resistance Base.
+
+
+Voeld
+
+-
+
+Lithium Sample
+
+This mineral can be found inside the cave of the Southwestern Monolithduring Restoring a World.
+
+
+Voeld
+
+Kett Base
+
+Element Zero Sample
+
+This mineral can be found in the Kett Tactical Operations Center during Remove the Heart.
+
+
+Voeld
+
+Techiix
+
+Platinum Sample
+
+This mineral can be found on the mountain above Techiix.
+
+
+Note:  Research Data (RD) is not awarded for scanning the minerals.
+
+Speak to Chief Lucan[]
+Return to Chief Lucan on the Nexus to complete the mission.
+
+Rewards[]
++1330 XP
++200 
+
+
+

@@ -1,0 +1,223 @@
+
+
+
+See also: Engineer Guide, Engineer Guide (Mass Effect 2)
+
+Engineers are tech specialists, the most effective class at disabling the defenses of the toughest enemies or incapacitating them to render them harmless. In combination with their weapons training, Engineers have the unique ability to spawn combat drones that can harass enemies or force them out of entrenched cover positions.
+
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Incinerate
+2.1.2 Overload
+2.1.3 Cryo Blast
+2.1.4 Combat Drone
+2.1.5 Sentry Turret
+2.1.6 Sabotage
+2.1.7 Fitness
+2.1.8 Tech Mastery
+
+
+2.2 Bonus Powers
+
+2.2.1 Armor-Piercing Ammo
+2.2.2 Carnage
+2.2.3 Dark Channel
+2.2.4 Defense Matrix
+2.2.5 Dominate
+2.2.6 Fortification
+2.2.7 Inferno Grenade
+2.2.8 Marksman
+2.2.9 Reave
+2.2.10 Warp Ammo
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Assault Rifles
+3.2 Heavy Pistols
+3.3 Shotguns
+3.4 Sniper Rifles
+3.5 Submachine Guns
+
+
+4 Combat Guide
+
+4.1 Reapers
+4.2 Cerberus
+4.3 Geth
+
+
+5 Squad Members
+
+
+
+Overview[]
+Engineers have been very well fleshed out in Mass Effect 3. While continuing to excel in the trade-mark supporting and de-buffing roles, they have improved ability to deal damage. The addition of Power Combos — Tech Bursts, Fire Explosions, and Cryo Explosions — greatly magnifies the Engineer's capabilities in both capacities. 
+Their combination of powers means that they are suited to handle any foe effectively; Overload brings down barriers and shields fast, and with the Chain and Neural Shock enhancements it's very useful against unshielded enemies.  Incinerate  is an excellent power for destroying armor, and Sabotage enables the Engineer to overheat enemies' weapons and turn mechanized enemies into temporary allies.
+Additionally, Engineers can use both the Combat Drone and Sentry Turret behind enemy cover to force enemies into the open and make them easy targets while also distracting them from targeting the player and squadmates. This enables Engineers to control the battlefield and turn the odds in their favor.
+
+Powers[]
+Class Powers[]
+Incinerate[]
+Main article: Incinerate
+This power is one of the most useful in the Engineer's arsenal, capable of eliminating an enemy's regeneration due to its damage over time while also making them "panic", delivering a high damage output, damaging armor effectively, and arcing over cover. When combined with Cryo Blast, with or without Incinerate's rank 6 "Freeze Combo" evolution, the Engineer can destroy armored enemies.
+Incinerate is usually evolved towards single target damage increase rather than radius increase since most enemies with armor are usually big and/or spawn less frequently. Though the chance to panic multiple unarmored targets isn't bad, Overload is arguably more effective because of its low recharge time, large chain radius, and ability to stop both organic and synthetic enemies. On the other hand, evolving to have an impact radius helps Incinerate to hit enemies who may try to circumvent the projectile by dodging.
+Incinerate can cause a powerful Fire Explosion if an appropriate detonating power kills an ignited enemy. Patch 1.04 removed the requirement that the detonator kill the target, allowing for chain Tech Bursts and Fire Explosions by alternating Incinerate and Overload. It can also serve as a detonator for Tech Bursts and Cryo Explosions.
+
+Overload[]
+Main article: Overload
+Overload is the Engineer's counter to targets with shields or barriers and can also be used to momentarily stun enemies.  Unlike Incinerate and Cryo Blast, Overload does not use a projectile; the power strikes its target immediately but is unable to arc around cover.
+Overload can prove an effective weapon even against unshielded enemies, as it has a relatively short cooldown, hits numerous foes with the rank 4 and 6 "Chain Overload" evolutions, and does reasonable damage (though it is halved against organic health, unless the Neural Shock evolution is taken). The rank 5 "Neural Shock" makes Overload one of the best crowd control powers available, as the incapacitation effect lasts a significant amount of time longer than the normal stun effect.
+Overload can cause or detonate power combos. Tech Bursts started by Overload are much easier to create than Cryo Explosions because the enemy does not have to be killed by the detonating power (though Cryo Explosions do not require a dead enemy in multiplayer and patch 1.05 removed that requirement from singleplayer).
+
+Cryo Blast[]
+Main article: Cryo Blast
+Often considered a one-point wonder, this power is arguably one of the most underappreciated powers in Mass Effect 3. While one point was often enough in Mass Effect 2, in Mass Effect 3 Cryo Blast can be built to have one of the lowest cooldowns of the Engineer's powers. Since unarmored targets are still common late in the game, spamming Cryo Blast can be very effective. The power can snap-freeze un-shielded, unarmored targets, immobilizing them while also amplifying whatever damage they receive. Partially frozen or "chilled" targets are slowed instead of immobilized, but still receive extra damage from attacks. The ability also weakens armor to subsequent damage.
+Cryo Blast can start Cryo Explosions, though the target must be killed by the detonating power prior to patch 1.05.
+
+Combat Drone[]
+Main article: Combat Drone
+The Engineer's signature skill comes back doing what it does best even better: distraction with an added bonus of target elimination. This power spawns a mobile, significantly shielded sphere-like machine that shoots light projectiles at opponents. Its range is decent, its damage effective against most shields, but the most effective feature is how it staggers opponents it attacks. It spawns on your crosshair or behind a target enemy. Use it to stagger an opponent behind cover for a chance to shoot at the now revealed target or to draw opponents' attention to the more immediate threat behind them. If left alone, it will seek out and harass opponents. The evolution of the Combat Drone is dependent on player preference. One route is to focus on enemy group distraction by choosing durability with the rank 4 and 5 "Shield & Damage" evolutions combined with the chance to hit multiple targets using the "Chain Lightning" rank 6 evolution. Evolving it around either close range stun ("Shock" on rank 5) or long range burst damage ("Rockets" on rank 6) is also effective.
+
+Sentry Turret[]
+Main article: Sentry Turret
+The Sentry Turret is the other of the Engineer's two best friends, and its fundamental difference from the Combat Drone is that the Sentry Turret will not move whereas the Combat Drone seeks out targets. This means you have more control over the sentry turret but it can use more active management. The other difference is that the sentry turret can be evolved to use a powerful short range flamethrower, which does significant damage/second (not far short of the damage done by spamming a rank 4 Incinerate).
+Defensively, you can pair the turret with a sniper rifle, upgrade it with rockets for long range covering fire, and leave it to guard a choke point or your flank, especially for when your peripheral vision is limited thanks to the sniper scope.  Offensively, you can move the turret around by re-using the power so that the flamethrower is both severely harming enemies and forcing them out of cover and into clear lines of sight.
+
+Sabotage[]
+Main article: Sabotage
+This power is a mixture between Mass Effect's Sabotage and Mass Effect 2's AI Hacking. The result is a power that either deals damage (albeit with a ~1.5 second delay) or hacks synthetics to fight by your side for a time, providing damage and distraction. Unlike AI Hacking, Sabotage works on shielded synthetics, including elite geth such as Geth Primes. 
+Due to there being relatively few geth missions in single player and the high damage rate of Cerberus turrets even without the rank 6 Berserk upgrade, Engineers might wish to consider taking the Tech Vulnerability upgrade instead, greatly increasing the damage potential of tech powers for the entire team.
+
+Fitness[]
+Main article: Fitness (Engineer)
+Fitness isn't that useful a power for the engineer - they should be taking less direct damage than most other classes as they have good crowd control and provide effectively two bonus squadmates. Three points might be worthwhile for a 25% health and shield boost, but more than that is almost certainly a bad idea until Tech Mastery, Overload, Incinerate, Sentry Turret, and Combat Drone, and maybe even your bonus power are all fully evolved.
+
+Tech Mastery[]
+Main article: Tech Mastery
+Tech Mastery is your passive power - and adding to your reputation helps. As does adding significantly to the damage output of the powers you use regularly - or allowing yourself a bigger gun and to keep spamming powers. It's not your first priority power, but it is extremely useful.
+
+Bonus Powers[]
+Armor-Piercing Ammo[]
+Main article: Armor-Piercing Ammo
+You have a nearly comprehensive power set, so you want to add something passive to the mix. An ammo power such as Armor-Piercing Ammo is a good choice for any power-heavy class because any power enhancing upgrades also stack for greater weapon damage output.
+
+Carnage[]
+Main article: Carnage
+Engineers can strip enemy shields with Overload and then follow with Carnage for high damage to both armor and health from long range cover. It is also useful as a way of briefly incapacitating enemies who manage to flank the Engineer.
+
+Dark Channel[]
+Main article: Dark Channel
+Sometimes to deal with the big enemies you want a Biotic Explosion - and Dark Channel allows you to prime Biotic Explosions and then set them off with your squadmates.
+
+Defense Matrix[]
+Main article: Defense Matrix
+Defense Matrix is the primary defensive option for the Engineer (with Barrier and Fortification also being possibilities).  From ranks 1-4, Defense Matrix provides a defensive boost, at the cost of a 60% recharge reduction - a steep price for a powers-using class unless the only major active powers you have are Combat Drone and Sentry Turret, both of which should take long enough to kill that you can mix a defence and a big gun as an unusual strategy.  Purging your Defense Matrix will restore 50-100% of your shields depending on your rank and how you developed it which leads to the "double tap" tactic of when in trouble activating and then immediately purging your defence matrix to restore your shields, keeping you alive long enough to find cover.
+At ranks 5 and 6 these powers come into their own - rank 5 offers a 25% damage boost, offsetting the damage lost from the recharge penalty, and rank 6 lowers your recharge penalty to 30%.  Due to the diminishing returns from very high recharge bonuses, a 30% penalty to recharge times will increase your cooldowns by very little; more than justifying the damage reduction and increased outgoing damage if you keep your weight bonus high and seek out other power recharge bonuses.
+
+Dominate[]
+Main article: Dominate
+While Sabotage is good for controlling geth, Turrets and Shielded Atlas units, it cannot control organic enemies. With Dominate an engineer can control almost every enemy in the game, allowing an extra ally in almost every situation.
+
+Fortification[]
+Main article: Fortification
+If you want an armor power for the power damage bonus, you may want to consider this one, its bonus gives a 30% bonus to power damage and force, increases power recharge speed by 50%, and provides a damage reduction bonus of 25% at rank one, 5% more, 10% less, and 10% more respectively than the other two, So keep that in mind next time.
+
+Inferno Grenade[]
+Main article: Inferno Grenade
+While it's true that the Engineer is a well rounded class, with few offensive holes, it is one of only two classes without a grenade power (The other being a Vanguard, which doesn't need one due to its use of Nova). Being the only grenade power available as a bonus power, Inferno Grenade will close that hole, and give you a great clutch power to throw out when you need some breathing room between power cooldowns. If this power is chosen, and you want to invest your talent points into it, it is best to choose the options that benefit its radius, which provide a strong secondary crowd control option. Its burning damage will stun any enemies caught in its blast, and will still do decent damage, which gives you plenty of opportunities to find cover, or create distance, as well as build your shields back up, and get back on the offensive.
+Inferno Grenade also synergies with the Engineer since it can prime a Fire Explosion without using a cooldown, which can then be detonated by Cryo Blast, Overload, Incinerate, or a detonating Combat Drone.
+
+Marksman[]
+Main article: Marksman
+Marksman is the "Pocket Soldier" power - if you want to mostly shoot the enemy to death, but you want to be an engineer for the two "bonus squadmates" that the sentry turret and the combat drone are then Marksman is a good choice - but the Engineer has a superb set of powers so it isn't playing to the strengths of the class.
+
+Reave[]
+Main article: Reave
+Reave is useful as a prime or trigger power for Biotic Explosions. It also provides a defensive boost when used against the many organic enemies the player faces.
+
+Warp Ammo[]
+Main article: Warp Ammo
+Warp Ammo does significantly more damage and hurts barriers, although it lacks some benefits of Armour Piercing ammo, such as penetrating enemy cover. This is a good choice for any power-heavy class because any power enhancing upgrades stack for greater weapon damage output. The base health and armor damage for Warp Ammo is +40%, but upgrading the Engineer's class skill to +60% power damage could push the ammo's bonus damage up to +64%. This can allow an Engineer to rival any combat class in terms of weapon damage.
+
+Weapons and Equipment[]
+The Engineer's flexibility in taking down all types of defense and being able to flush enemies out of cover makes it so that most weapons can be viable candidates. The main concern is keeping recharge speed high to keep throwing out powers.
+
+Assault Rifles[]
+Main article: Assault Rifles
+The Cerberus Harrier (available through the Firefight DLC) can be exceptionally useful for the Engineer. When fully upgraded, its impact on power recharge speeds is negligible. This allows the Engineer to pack some heavy firepower in addition to their tech attacks. The only downside to the Harrier is its limited ammunition, but for a power oriented class like the Engineer, this is less of a problem than for a Soldier. An M-8 Avenger, an M-15 Vindicator, a Phaeston, or a M-96 Mattock are all reliable fallbacks due to their relatively light weights. The M-7 Lancer provides an excellent damage/weight ratio and removes ammo concerns entirely.
+
+Heavy Pistols[]
+Main article: Heavy Pistols
+Heavy Pistols are a time-honored friend among Engineers who have played Mass Effect and 2. Even better, there are now more of them. All are fairly light to begin with, especially when upgraded, and two DLC modules add notable options.  Mass Effect 3: Leviathan adds Ultralight Materials, cutting the weight of a heavy pistol by up to 50% to allow even the biggest pistols a 200% recharge reduction, and adds the Pistol Cranial Trauma System for headshot fans. Mass Effect 3: Citadel adds the extremely useful Power Magnifier for bonus powers damage. There are options for both close and long range engagements. For close quarters combat, equipping the M-358 Talon will serve you well, and if you prefer combat from a distance, the Executioner Pistol is a good choice. When upgraded, its damage potential can rival the M-92 Mantis sniper rifle, while weighing considerably less. The M-77 Paladin offers high damage and accuracy, while its small magazine can be overlooked by those only looking to supplement the damage done by power combos. Finally the Scorpion with its explosive bullets is fun and effective although not the best gun overall.
+
+Shotguns[]
+Main article: Shotguns
+Since Engineers aren't exactly designed to be effective short range combatants, having a shotgun might not be a bad idea if you're someone with a knack for short range combat and get involved in it regularly enough to make a submachine gun (possibly with ultralight materials) as a backup weapon too much of a risk. Since Engineers are more power-oriented, heading more towards the lighter shotguns like the Disciple, Katana, or Scimitar should be one of the shotguns to consider if you plan on bringing one with. The Eviscerator will work as well.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+The Raptor or Indra are ideal for an Engineer. When upgraded, their impact on power recharge speeds is minimal. Both weapons have very fast rates of fire, and are perfect as a Assault Rifle/Sniper Rifle hybrid.
+
+Submachine Guns[]
+Main article: Submachine Guns
+SMGs are the weakest weapon class in Mass Effect 3, but they have some very good mods. The Ultralight Materials mod provides up to a 90% reduction in weight, so a rank 5 (or 10) SMG with this mod weighs almost nothing and therefore makes a perfect backup weapon (normally to go with Sniper Rifles). However even an Engineer or Adept can afford to carry Heavy Pistols or even light Assault Rifles and still keep their 200% recharge boost - and as they rely on powers they are unlikely to run out of ammo.  But the SMG gains two other notable mods with DLC. Mass Effect 3: Citadel adds the Power Amplifier for the SMG and Heavy Pistol, meaning these are the primary two weapon types for powers users, while Mass Effect 3: Leviathan adds the High Velocity Barrel. As armour piercing mods combine extremely well with fast firing weapons a power-amplified SMG with a High Velocity Barrel can be an effective primary weapon for a power-using class, specialising in anti-armour combat.
+
+Combat Guide[]
+See also: Combat (Mass Effect 3)
+Most Engineers fight by relying mostly on their tech powers as a main form of attack and defense, with lightweight weapons as backup. Light weapons are preferred not only to reduce cooldown, but also to compensate for the Engineer's lack of close-quarters defenses. Engineers can find themselves in hot water should they be rushed by a swarm of close-combat enemies like husks.
+Crowd-control Engineers should focus more on quickly maxing out their Turrets and Cryo Blasts. This allows you to stop or at least slow potential rushes. Offensive Engineers should instead focus on powers such as Overload and Incinerate, which can rapidly wear down protected enemies. Combat Drone is essential in any major firefight, stunning enemies out of cover and drawing enemy fire.
+One of the most underrated (or rather, under-described) aspects of an Engineer's play style is the Tech Combo. With the Cryo blast Recharge time and Vulnerability set to the max, and Incinerate geared towards frozen damage, every alternate power attack becomes a combo Cryo-Explosion freezing further enemies. A lightweight loadout and a low recharge time build would ensure that you are effectively attacking every 2 seconds. Such an application in for example, a narrow passageway, could cause a continuous freeze choke-point similar to an Adept's Singularity. This translates to an average of an enemy every 2 seconds.
+Because the Engineer is a largely supportive role, players should be constantly aware of their surroundings to any potential ambush; short-range backup weapons are recommended especially when up against Reaper ground forces; most Reaper enemies will not slowly advance or wait long enough for Engineers to effectively counter at long distances.
+Another way to play the engineer is as a weapon/drone specialist. For this, level up combat drone for shields, damage, and rockets, and turret for shields, damage, and flamethrower. Also take drone mastery as rank 6 of tech mastery. Then, give your weapons (one fast and one slow) warp ammo, piercing mods, and extended barrels. Bringing biotic squadmates allows you to get huge damage boosts by lifting targets, and using warp allows you to easily finish armored ones. As for the drones, spawn them right in the middle of enemies so the flamethrower and shock can wreak havoc, while the combat drone then moves away and launches incinerates from across the field.
+
+Reapers[]
+Reapers as a rule are big, strong and about as subtle as a hammer. Which makes them the worst enemy group for the Engineer to face. You don't want to be in melee since you aren't very tough, and as a result Husk rushes can become quite annoying - although a chain neural shock Overload can normally knock them down long enough to kill. Cannibals are full of meat and only take half damage from Overload, although like all enemies that use cover throwing a turret or drone behind them is effective (you take out a Marauder by taking its shield in a single overload and then its head is an easy target). For the elite enemies, although the Ravager and the Harvester are nasty you should be behind cover whenever they are firing. The Ravager will also ignore your sentry turret and drone - and so take a lot of damage from them. Even the Banshee has a barrier you can overload and then moves relatively slowly so you can pump a lot of fire into it, and hide whenever it shoots back - and stay too far back to be grabbed. Your worst enemy, however, is the Brute. They run at you fast without stopping, so they can almost ignore your turret and drone. They are pure armour so Overload is worthless against them. Your only answer other than running is to kill them as fast as possible, and get your squadmates to help. Incinerate is the best anti-armour tool in your arsenal, possibly in combination with Cryo Blast, and a fast-firing armour piercing weapon helps if you don't have the ice water in your veins needed to headshot charging Brutes. However using the evolved rank 6 Sabotage option for Tech Vulnerability will work on a Brute (even though the power is red for armoured opponents), allowing you to tear it apart with Cryo Blast, Incinerate, and Carnage.
+
+Cerberus[]
+Cerberus are, for many classes, tricky opponents and they rely on dirty tricks.  But the only trick Cerberus has for which you don't have a ready made counter is smoke. There are two annoying early enemies Cerberus has. When facing a Guardian, it keeps its shield in front of it. So deploy your Sentry Turret or Combat Drone behind it and it really isn't a problem. The Cerberus Turret can kill you fast. But with Sabotage it works for you (and can often be used to kill the Cerberus Engineer that set it up and then the rest of the squad) - alternate Sabotage and Overload to kill them safely. Later on the Phantom is small and flits from cover to cover to get to and then stab you, making it hard to shoot. As well as being able to hang back to make it hard for it to reach you, because it pauses behind cover you can easily throw a Drone behind it to draw it out, and both Drones and Turrets shoot invisible enemies. The Atlas Mech is a mech and therefore vulnerable to tech powers.
+
+Geth[]
+Geth die to tech and you're the tech specialist. It's as simple as that. They are vulnerable to Sabotage and they take full damage from Overload against comparatively little health. Also a lot of geth toughness comes from shields, and Overload is almost certainly the best shield-stripper in the game. In particular Overload can be aimed at an invisible Geth Hunter to turn it visible again. This isn't to say all the geth missions are easy for an engineer; the three Geth Primes at the same time in Priority: Rannoch are no joke, though the Primes' Geth Turrets and Combat Drones are easy to deal with using Overload, and you can use its chain evolutions to hit both them and the Prime that summoned them.
+
+Squad Members[]
+Main article: Squad Members Guide (Mass Effect 3)
+Engineers synergize well when combining powers to create tech bursts, flame explosions or cryo explosions, and as such, partner well with those who can use them. None of these explosions can be created with two of the same technique, and so must be detonated by a different power. EDI and Kaidan both possess a variety of skills to do this, and as such, make excellent choices. 
+Because of the Engineer's ability to destroy shields almost immediately, Singularity and Stasis, both possessed by Liara, grants the Engineer more crowd control, and allow the Engineer to forego radius upgrades for more damage to techs, making her an effective squad member to bring along. The Rank 6 Bubble upgrade for Stasis can be used to hold enemies in close proximity for area upgraded powers, such as Cryo Blast or Incinerate, and also helps neutralize Phantoms, which, unlike other organic units, are immune to Overload's stun, cannot be frozen by Cryo Blast, and resist tech bursts. 
+Cryo Blast, possessed by Kaidan, helps to keep most enemies in check, as any of the Engineer's techs can create a cryo explosion to freeze, slow, and do increased damage to other foes. 
+Other useful characters include Ashley (for quick tech bursts with Disruptor Ammo) and Tali (for quick tech bursts with Energy Drain coupled with her fast recharge times).
+
+
+
+
+
+Mass Effect 3 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Search and Rescue • Equipment and Items
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • Power Combos • PC Tweaks • Interrupts • Merchants • The One and Only
+
+
+
+

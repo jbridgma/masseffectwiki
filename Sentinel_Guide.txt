@@ -1,0 +1,200 @@
+
+
+
+See also: Sentinel Guide (Mass Effect 2), Sentinel Guide (Mass Effect 3)
+
+Sentinels combine biotic and tech abilities. Typically they use biotic abilities and advanced healing skills to defend allies, though they can also disrupt opponents with biotic or tech attacks. They are more efficient at tech and biotics than other classes, but at the expense of combat. Sentinels can only use light armor, and receive no advanced weapon training.
+Changes to weapon use in Legendary Edition have possibly had the strongest impact on the Sentinel, opening up all weapons (while making them much more varied).
+
+Contents
+
+1 Overview
+2 Talents
+
+2.1 Class Talents
+
+2.1.1 Throw
+2.1.2 Lift
+2.1.3 Barrier
+2.1.4 Stasis
+2.1.5 Decryption
+2.1.6 Electronics
+2.1.7 First Aid
+2.1.8 Medicine
+2.1.9 Charm
+2.1.10 Intimidate
+2.1.11 Spectre Training
+
+
+2.2 Notable Bonus Talents
+
+2.2.1 Singularity
+2.2.2 AI Hacking
+2.2.3 Damping
+2.2.4 Warp
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Pistols
+3.2 Shotguns
+3.3 Sniper Rifles
+3.4 Assault Rifles
+
+
+4 Combat Guide (Legendary Edition)
+5 Combat Guide (Original Edition)
+6 Squad Members
+7 Specialization Classes
+
+7.1 Medic
+7.2 Bastion
+
+
+
+
+
+Overview[]
+Sentinels are suited to manipulating the battlefield, and provide support to allies by disabling enemies and their abilities, as well as debuffing them. The Sentinel has both biotic and tech abilities, which makes them versatile in engagements with both synthetics and organics. In addition having tech abilities (notably Decryption and Electronics) lets you open everything in the game, meaning that you can be completely flexible with your party selection.
+Because Sentinels lack weaponry talents, you should stay in cover where possible, providing support and avoiding weapons fire. You can get a huge shield boost through Electronics and since you have access to the Barrier talent, you can stay closer to the front than other support classes, provided that the enemy doesn't use melee or physical attacks, and that you keep in cover.
+As a Sentinel, you may want to level up your First Aid and Medicine skills, because the Medic specialization unlocks a way for you to revive your squadmates without Unity, but as you already have access to Unity you shouldn't need to resurrect party members that much. Alternatively the Bastion specialisation turns your barrier into something incredibly tough and the ability to hurt enemies in Stasis is a boss-killer. Overall, the Sentinel is a "jack of all trades" and is good in just about any situation, though slightly front-loaded, reaching their power early.
+
+Talents[]
+Class Talents[]
+Throw[]
+Main article: Throw
+One of the more useful talents available to Sentinels and a great crowd control ability when upgraded, Throw is effective against any enemy and can provide necessary breathing room against multiple enemies. Throw is one of those skills that you should put a few points into, even if you have another squadmate that can use it.
+
+Lift[]
+Main article: Lift
+Unlocked with 7 points in Throw
+Lift is another useful talent available to the Sentinel, suspending enemies in the air and rendering them utterly helpless for the power's entire duration. When done right, enemies can be lifted even above cover, making them easy targets. As a bonus, when they fall back down, they take damage depending on how high they were suspended. Lift can be especially useful in zero-gravity environments: if the enemies go too far up, they won't be coming back down. Lift can also be used on objects and is very effective against Husks and krogan enemies: Husks die instantly when they are lifted off the ground, and if a krogan is in the air when they are killed, their health won't regenerate.
+
+Barrier[]
+Main article: Barrier
+Barrier is a defensive power that creates a biotic barrier over your shields. This talent can, even on lower difficulty settings, provide the necessary shielding to survive a fight. Barrier is especially useful if you find yourself backed into a corner, and your shields are down. However, the usefulness of this talent is somewhat limited, given the large shield boost Electronics alone can provide. All in all, it is not a waste to spend a few points in this ability.
+
+Stasis[]
+Main article: Stasis
+Unlocked with 6 points in Barrier
+Stasis is a useful talent if you need to keep an enemy, especially a powerful one, on the sidelines for a few seconds. However, the power does have one limitation: any enemy in Stasis can't be damaged by anything. Unlocking this talent and putting only a few points here would provide sufficient breathing room in most situations. Unless you're aiming for the Bastion specialization, which goes up to 12 rank points and grants you the ability to damage enemies in Stasis, putting more than a few points here is not necessarily worthwile.
+
+Decryption[]
+Main article: Decryption
+Decryption is a useful skill mainly for two reasons: it grants the Sabotage ability, and can be used to unlock containers and salvage equipment. The Sabotage talent alone provides enough justification to invest in Decryption: Sabotage damages enemy weapons, making them unable to fire for a few seconds. This, if targeted right, can disable the weapons of multiple attackers, so aim carefully. Sabotage can also be used to blow up fuel tanks and containment cells for environmental damage. Unlocking containers is a side bonus, but the experience you receive from it is more than worth investing a few points here. Additionally, even if one or both of your squad members can use this talent, it is worth putting points here to unlock Electronics.
+
+Electronics[]
+Main article: Electronics
+Unlocks with 4 points in Decryption. 
+Electronics is a very useful skill as it does four things: it unlocks the Overload ability, allows you to unlock containers and salvage equipment, improves the amount of damage repaired on the Mako, and provides a boost to your shields. The Overload ability is extremely useful against shields and synthetic enemies: Once a synthetic enemy's shields are down, using Overload is a great way to disrupt it further. It is also very effective against Geth Armatures if you are on foot, or any geth in general. Similarly to Sabotage, Overload can be used to blow up fuel tanks and containment cells for environmental damage. Upping Electronics is a good idea also because it grants you access to higher level loot. If you are fond of the Mako, spending points here allows you to repair higher amounts of damage, which is useful on longer missions since you won't have to waste as much Omni-gel on repairs. Finally, a great effect of this talent is the boost to your shields: each level of Electronics adds 30 points to your shield capacity. This is of course relatively more useful both at low levels both because 30 extra shields means more when you have basic armour providing 50 than when you get 250 from your armour and because the proportional increase is much lower. 
+
+First Aid[]
+Main article: First Aid
+First Aid is a skill that allows you to heal more of the squad's health every time you use medi-gel. This is one of those skills that is better suited to a squadmate but you can still put some points here as well. Any point put here won't go to waste as it will help your squad, but consider only putting just enough points here to unlock Medicine, or even just a single point before the late game as preventing enemies from hurting you is more effective than healing your squad. The Medic specialization class benefits more from any point investment in First Aid.
+
+Medicine[]
+Main article: Medicine
+Unlocked with 5 points in First Aid
+Medicine grants the Neural Shock ability, which paralyzes and damages organic enemies. The talent also improves the cooldown time for medi-gel, so you will be able to use it more often. Furthermore, if you are planning to specialize as a Medic, points invested in this skill will not go to waste.
+
+Charm[]
+Main article: Charm
+Opens conversational options that are likely to increase Paragon points. This talent is tied to Paragon, and will allow additional conversation options that will often lead to additional information, avoiding combat, bonus items, etc. This talent will also reduce the cost of items purchased in stores.
+
+Intimidate[]
+Main article: Intimidate
+Opens conversational options that are likely to increase Renegade points. Renegade points primarily add bonuses to damage and damage dealing abilities which will prove very useful to the offensively-minded Sentinel player. Similar to Charm above, though linked with Renegade and offers an increase in the credits gained from selling items.  
+
+Spectre Training[]
+Main article: Spectre Training
+Spectre Training is one the most useful skills for a Sentinel, because it grants so many abilities, mainly the increase of health. The most useful ability unlocked is the Unity power, which revives squadmates. Even if you have the Medic specialization, which also uses medi-gel to revive squadmates, this skill is still worth investing in.
+
+Notable Bonus Talents[]
+Singularity[]
+Main article: Singularity
+Singularity would be a good crowd control power for the Sentinel and it would be complemented by the bio-amp that you can equip. Because the Sentinel is best when fighting from behind the rest of the squad and in cover, this power can give you the ability to do that and still put up a lot of enemies for target practice.
+
+AI Hacking[]
+Main article: Hacking
+Hacking is a very useful ability for Sentinels. This power gives Sentinels the ability to control tech enemies like drones and the geth, and turning them against your enemies. Hacking is more of a situational bonus power as it can be very useful during certain missions and assignments, but overall has less to offer than an additional weapon.
+
+Damping[]
+Main article: Damping
+As you already have access to Sabotage to take care of enemy weapons, picking Damping to deal with enemy tech and biotic powers would increase the Sentinel's ability to control the battlefield. Damping also increases the radius of all tech powers, so it may be worth picking up as a bonus power. Unlike other bonus powers, this one can be used in just about any situation.
+
+Warp[]
+Main article: Warp
+Warp is a great debuffing power that is invaluable on higher difficulties. It can nearly completely negate an enemy's use of Immunity. When used on enemies without Immunity, Warp compensates for the Sentinel's lack of weapon talents.
+
+Weapons and Equipment[]
+Pistols[]
+Main article: Pistols
+Pistols are the bread and butter of the Sentinel as it is the only weapon class available to the Sentinel in the original game, and even in Legendary Edition you can't improve your skill with other weapons, while investing six points into the Sentinel class effectively gives you four ranks in Pistol for free. The weapon is good at mid to close-range combat and at providing support for squadmates. The pistol works very well with the Sentinels natural debuff and support abilities.
+
+Shotguns[]
+Main article: Shotguns
+Shotguns do not play to the strengths of Sentinels, as they are generally better at mid-range combat, using their talents to provide support for squadmates from behind cover. Shotguns, however, may not be bad as a secondary weapon because of the Sentinel's Barrier and the shield boost from the Electronics skill. If you are the type of Sentinel that likes to get up close and personal with your enemies, shotguns might be a good choice especially with the Sentinel's ability to boost its defenses.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+If you are the kind of person who likes to reach out and touch someone, then sniper rifles might be a good weapon choice. The Sentinel is at home in supporting squadmates and debuffing enemies, and the sniper rifle accentuates this, allowing you to keep your distance from enemies while at the same time providing a way to cover your squadmates with talents and powers. Overall, the sniper rifle fits very well in the Sentinel's general style of keeping at a distance.
+
+Assault Rifles[]
+Main article: Assault Rifles
+Assault rifles are a good all-round weapon choice for a Sentinel if you are the kind of player that likes to stay in the mid-range. Assault rifles are powerful and capable of rapid fire, so they make an excellent mid-to-long-range weapon to complement pistols, which already cover close-to-mid-range.
+
+Combat Guide (Legendary Edition)[]
+The Sentinel can access all the weapons, but the only weapon they can improve (other than through a bonus talent) is the Pistol, and even that only up to the equivalent of rank 4 (including the Marksman ability) - but they get this thrown in with six ranks in the class skill they'd want anyway so they're pretty good, with the same uptime of Marksman and only slightly lower damage buffs than everyone else after they've invested 12 ranks in Pistols as well as their class talent. They are also as good as everyone except the Soldier with Assault Rifles while the Sniper Rifle is useful when it's useful. The choice between slightly buffed pistols and unbuffed assault rifles is largely a question of whether you're aiming for the center of mass or using the precision of pistols and of Marksman to shoot for the head.
+You will want to combine the Sentinel's tech and biotic powers in order to hit the foe the hardest. Lift and Throw are of course an excellent combination to send enemies flying, and Overload and Sabotage hurt shut enemies (especially Geth) down in an area while Stasis and Neural Shock are both great for single target shutdowns. While Sentinels only have access to light armor they get extra shields from Electronics and can use Barrier in order to absorb any additional firepower that you encounter. Sentinels are good at protecting and keeping the party safe by disabling enemies with Stasis and Sabotage, and use Overload to aid your party in destroying enemies by knocking out their shields. 
+Sentinels reach their power spikes relatively early; they don't have the classic talent point sinks of weapon or armour skills and both Overload and Sabotage are at their most effective in the early game while Barrier is both a one-point wonder and makes you almost indestructible when maxed out. That said a fully invested Stasis with Bastion is arguably the best end game skill.
+
+Combat Guide (Original Edition)[]
+The Sentinel only has access to one weapon, the pistol, so you have to know how to use it effectively. The pistol is a good mid to close-range weapon, so unless you have another weapon, make sure to stay within that range. If you have the Marksman ability, use it as often as you can to get some high powered and accurate shots from a bit further back. The pistol is good for providing cover as it is accurate, but slow firing, so keep that in mind.
+You will want to combine the Sentinel's tech and biotic powers in order to hit the foe the hardest. Combining Neural Shock, Lift, and Throw can lead to an effective play style. While Sentinels only have access to light armor, use Barrier in order to absorb any additional firepower that you encounter. Sentinels are good at protecting and keeping the party safe by disabling enemies with Stasis and Sabotage, and use Overload to aid your party in destroying enemies by knocking out their shields. Overload and Sabotage are very effective talents against geth, as they tend to be relatively heavily shielded and dependent on ranged attacks. In short, using the Sentinel's powers to cover your squad is the best way to go.
+
+Squad Members[]
+The Sentinel should have at least one squad member to make up for the lack of combat ability. The most obvious squad members for supporting Sentinels are Wrex and Ashley for the heavy support and protection. Wrex and Ashley will also be more effective after the Sentinel debuffs the enemies. Garrus adds some combat ability but doesn't have any skills apart from what the Sentinel already has. However, his Adrenaline Burst allows him to use talents more frequently than the Sentinel, allowing more tech proximity mines and control over the enemy. Using Garrus combined with Wrex can be a good team for the Sentinel if they are leveled carefully to ensure the team isn't weakened by too much talent overlap. Tali is not recommended for the Sentinel's team because she shares a lot of talents with the Sentinel. While she is the only squadmate with the Hacking talent, she has few combat abilities and lacks the fighting proficiency which is ideal in the Sentinel's team. Liara is the only squad member with Singularity but she has no combat abilities and all her other talents are already available to either the Sentinel or Wrex, hence she makes a poor choice for the Sentinel's party.
+Another effective team member is fellow Sentinel Kaidan. If you are a Sentinel and you have the Medicine talent maxed out and Kaidan has the Medicine talent maxed out, the effects stack up to a 60% reduction in Medicine recharge time. This means that you can heal the party every few seconds. This strategy will leave only one party member for the heavy combat and cause excessive redundancy in the talents available, making it less viable at higher difficulties.
+
+Specialization Classes[]
+Medic[]
+Main article: Medic
+A longer range Sentinel will find the Medic class more useful for supporting the party with Neural Shock while resurrecting the party members who are fighting at the front line instead of being in combat. Because the Medic specialization also allows you to use medi-gel to revive squadmates in addition to Unity, if you are a support Sentinel, then this might be the class to pick.
+
+Bastion[]
+Main article: Bastion
+A close range Sentinel will find the Bastion class more useful for protecting the party up close with Stasis and Barrier. The Bastion is more suited for combat Sentinels who prefer getting up close and personal with their targets. The Bastion allows specialization in Stasis and Barrier, so if you like combat, then the Bastion is a better choice.
+
+
+
+
+
+Mass Effect Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Experience • Systems • Mako • Codex
+
+
+Achievements
+
+Completionist • Rich Achievement •  Party Member Achievements  Scholar Achievement • Weapon and Ability Achievements
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • Merchants
+
+
+
+

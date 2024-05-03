@@ -1,0 +1,145 @@
+
+
+
+Prometheus Station has an override control that must be activated to end the lockdown at Atlas Station.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Getting to the Station
+3.2 Station Exterior
+3.3 Ship Interior
+3.4 Fight Your Way Out
+3.5 Logs
+3.6 Enemies
+
+
+4 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Overlord (assignment)
+
+This assignment is acquired after clearing out Hermes Station, and deals with Project Overlord's source of geth subjects: a downed geth ship. Dr. Gavin Archer directs Shepard to three other stations on the planet containing the VI and the overrides necessary to gain access to the VI.
+
+Preparation[]
+You will have the opportunity to switch your squad again if you choose. You'll be fighting shielded geth, so powers like Overload, Disruptor Ammo, AI Hacking, Energy Drain and the like will come in handy. Fast shield stripping is key to surviving the bulk of this assignment, though you'll need fast reflexes at its beginning.
+
+Walkthrough[]
+Getting to the Station[]
+You start from Vulcan Station and follow the arrows to the station. When you leave the station there is a data packet to your right as you exit the tunnel. If you missed it earlier, then be sure to grab it now. Below the rock bridges you crossed in order to get to Vulcan Station is another data pack, this one is guarded by two YMIR Mechs so be prepared. Once they are down, head back up and out.
+Immediately after you cross the rock bridges, there is a path up to the left, following it will lead you to another packet, guarded by two turrets. Take out the turrets and grab the package, then turn around and head left. When you approach a fork, take the left route and head up. Another outpost is here and has two more turrets as well. Take them out and grab the package, then head back the way you came from. 
+When you get to a clearing of sorts, find a waterfall on the left with a metal ramp behind it. Head up the ramp, and grab the package. No turrets near this one so no need to worry about combat.
+Directly across the ramp from the last package, head across the clearing, and out to a raised rocky plateau, there are again two turrets and the sixth and last data package. 
+Once you have all six packets, follow the arrows to Prometheus Station.
+
+Station Exterior[]
+When you regain control after the loading screen, continue following the path. Archer will come over the comm explaining that the station is a crashed geth ship that they used for their subjects in their experiments. He goes on to say that the VI has probably raised the ship’s shields to prevent entry, and he wishes you luck before getting cut off.
+Once you are close enough, you see a shield similar to the one on Kopis erected at the exterior of the ship. However, this time the generators are also shielded, so there are some complications. The biggest complication is that the VI has gained control of one of the ship’s main cannons and will be using it. You can trick the Geth Cannon into taking down the shields of the generators and destroying them, or the Hammerhead's missiles (though the missiles will take much longer) and then shoot the generators to finish them off. Watch the red lines on the ground, this is the cannon's targeting, so keep moving and dodging to stay alive.
+Tips:
+
+If you hover close enough to the generators and their shields and the cannon targets the area around the generator it can destroy the field (as mentioned above) in a single shot which will make this section go MUCH faster. However, be careful as flying close to the generators will somewhat limit your options to get out of the targeting area in time. Also avoid coming into close contact with the shields as they can damage the Hammerhead.
+The Hammerhead cannot survive a direct hit from the cannon, so keep on the move, stopping just long enough to get the cannon to lock on to a generator or its shield.
+The riverbed that flows over the cliff might seem like it could shield you from the cannon as it's basically out of direct view of it. Spoiler alert: it doesn't, you'll still get blown up if you try to hide there.
+There is a watery spot right near generator Gamma (the one nearest to you as you approach this section), directly toward the Cannon from the generator but very close to the generator, where the Cannon will not target you. If you happen to find this spot you can sit and peacefully take out all the generators at range.
+You can also simply go back the way you came. The cannon takes a moment to activate initially, giving time to use the jump jets to reach the top of the lowest rock outcrop. From there it is easy to ascend the rest of the cliff. The cannon will target you and the Hammerhead VI will continuously warn you, but you can't be hit. The two closest shields are harder to hit from here but it can be done.
+Once the Shield around the cannon is down; you can get under the cannon and shoot it. The cannon can't target you when you are that close.
+Once all four shield generators are down, let that annoying cannon have it, but keep on the move to avoid its shots. 
+There is a rocky outcropping near the first shield generator to the right of the cannon.  Be very careful not to get stuck there. Even if that was the last generator and you bring the shield guarding the cannon down, getting stuck there will allow the cannon to hit you. Try to avoid it completely. If you get stuck try thrusting in reverse and if you get free move as quickly as you can.  Once stuck you may not have enough time, even if you free the Hammerhead, to evade the radius of the cannon's blast.
+When you are done near one of the former generator sites is a vein of platinum (+1200 platinum), so be sure to grab it before you head inside. Exit the Hammerhead and you are on the platform. Before heading in, grab the platinum crate (+800 platinum) that is near the door. Then head inside.
+
+Ship Interior[]
+When you enter the computer tells you that the facility houses dangerous AI technology. It also informs you that you assume all liability for any injuries or deaths that may occur. Such a nice greeting; move across the entryway and open the door.
+The next room you enter resembles a cargo hold, and a Geth Prime is housed inside a shield in the center - take that as a subtle hint of what will happen later. Access the research log in the room then proceed up the ramps. As you are making your way around, access another log, then salvage some lab equipment (+375 credits). As you are walking down the hall, the VI appears on the windows and the ship shakes. At the other end of the hallway is another log, and a med-kit. Grab them and head through the door and down the ramp.
+As you emerge, the door in front of you closes and locks, so head left first to salvage some equipment (+525 credits), then head to the right. As you walk down the hall, the VI appears again and shuts another door, so keep going and a door on the right is your only way out. Head down a second ramp and open the door at the bottom to yet another hallway. Jump over the barricades to your right to salvage some equipment (+375 credits) then head left and down the hall. About halfway down is another log, access it to get some more information. Head through the door at the end of the passage, as you get close, the ship shakes again.
+The next room contains yet another log, this one especially gives some knowledge about what happened after the VI went rogue. Continue on to the door at the other end of the room. When you enter the next hallway, it is partially flooded with water. The computer says that to reduce workplace stress, music has been approved for station-wide broadcast. The music is, however, badly distorted.
+The next room is very large and is the command center of the station. The Hammerhead's VI comes over the comm saying that the objective is on the other side of the impasse. To reach it, you need to solve a puzzle. Head up the upper level and begin to solve the puzzle. Before heading to the control station there is a platform to the upper right that you have to move the platforms to reach that has a med kit, a laptop (+600 credits), and some power cells that you may want to get before going to the control station. Tip: Or leave them there for now and come back later when you're low on your favorite flavor of ammo.
+The key aspect of solving this puzzle is that it is not really a puzzle where you have to meet some requirement like moving out something, but that you are moving real platforms on the floor, thus creating and deleting pathways - just try to create a pathway that connects your current location to the end of the room.
+
+
+Here is the most efficient solution to reach the control station followed by the optional cache:
+
+The middle piece begins selected - move it up two spaces.
+Now select the small left piece, and move it right one, and up one.
+Go activate the control station etc, then come back.
+Select the long right piece, move it right one.
+Select the other small piece that's still movable, move it right, up, then right.
+Go get the stuff in the cache
+Here is an example of a solution shown on the panel controller.
+Head across the new bridge and into the station's command center. Before accessing the override sequence, grab the second med-kit located in this section and hack the laptop (+1875 credits). Activate the override, Shepard pulls it out, unlocking another key to Atlas Station, but the VI fights back and activates the geth.
+Collect any remaining items using the platform puzzle if you haven't collected them yet before you continue on.
+
+Fight Your Way Out[]
+
+Run down the flooded hallway and into the first room. Get in the cover by the door, and start shooting anything that shoots back. You can head left and use the cover there to take out the attackers on the left side of the room; a Geth Hunter will be among them so watch out. Make sure to keep out of sight of the Geth Rocket Troopers on the second floor. Head up the ramp and onto the second floor. Then across the bridge and find cover. A few Geth Troopers and another Geth Hunter will attack so sending your squadmates first isn’t a bad idea.
+As you cross the bridge, you encounter a Geth Destroyer, so focus on that one before it gets too close. When the geth are destroyed, move. Head down the ramp and back into the hallway. Take cover as more geth will attack, but since the hallway is narrow you can corral them pretty easily, just watch for the two Hunters and take them down first since they're the most dangerous. Head through the door and up the ramp. The next hallway is similar to the first, just stay in cover and shoot any geth that pops its head out. Head though the door, up the ramp, and into the final hallway. Save your game before you open the door - the station voice will mention that "geth nodes twenty through thirty-five are now online" which gives you a pretty good idea of how many geth you will be facing in the next room.
+The geth in the entrance room are all over and the Geth Prime that was in the bubble has also woken up. The second you step foot into the room, they all begin to attack, so find cover, and stay near the entrance door. The first diagonal cover you reach as you head right along the balcony is often sufficient to fight the whole battle, as when the coast is clear you can pivot to the "end" of the cover to draw a bead on the Prime below. A good tactic here is to eliminate the smaller geth one by one, then focus on the Prime. Once all the geth are down, waste no time and get out of there.
+Combat Strategy: This battle can be completed by stationing your squadmates in cover in the hallway before you open the door. Shepard can stay close the door and go back through the door at any time to recharge shields. When you open the door, the majority of the geth will stick to cover on the lower level or the level Shepard is on. The geth prime will stay on the lower level walking back and forth trying to get to Shepard but will stay stuck below. Watch out for the geth hunter that shows up mid fight as the hunter will come up the stairs and through the door after Shepard if it is open. Watch out for rocket troopers across the way and on the lower level. Chip away at all of the normal geth until they fall. The geth prime can then be attacked safely by peeking over the floor in front of Shepard once and carefully using weapons / powers to chip away slowly until it falls. Take care during this fight as the radar is jammed until the geth prime falls and geth spawn throughout this fight on the lower level as geth are killed. You may not see the geth in cover until they pop up and shred your shields.
+Note:  Keep in mind that you will not be able to manually save after the final fight and will have to wait until either you exit the Hammerhead at Vulcan station or Atlas station to save. The autosave after the mission is completed is the only way to start again after the final fight without redoing this final fight again.
+Once outside, reboard the Hammerhead to complete the assignment.
+
+Logs[]
+
+“Now we just got word that Atlas Station wants a dozen more geth for the experiment. I hope a breakthrough is close.”
+
+
+
+“Hanging around all these dormant machines is creepy. Like death staring at us from the shadows. I’d rather work at Vulcan Station.”
+
+
+
+“Lanigan just ran a simulation - - if these geth wake up, there’s a 98% chance that we will be dead within two minutes. I’m starting to hate Lanigan.”
+
+
+
+“Halloween was yesterday. Lanigan ran around wearing spare geth parts. Spooked the shit out of everyone. Now I definitely hate him.”
+
+
+
+“Everything’s off line.  Archer declared a lockdown, but our station’s already infected. What does the VI want? It keeps screaming at us - - nobody understands!”
+
+
+
+“The VI’s closing some passages and leaving others open. It’s like it’s herding us. At least the geth are still dormant.”
+
+
+Enemies[]
+Cerberus Turret
+Combat Drone
+Geth Cannon
+Geth Trooper
+Geth Rocket Trooper
+Geth Hunter
+Geth Destroyer
+Geth Prime
+Mission Summary[]
+Successfully issued override command from Prometheus Station.
+
+Experience: 250 (312)
+Credits: 7500
+Cerberus Funding: 3750
+Credits Found: 3750
+Resources
+Platinum: 2000
+
+Overlord Assignments Navigation
+
+
+← Previous Assignment
+
+Assignment Index
+
+Next Assignment →
+
+
+Overlord: Vulcan Station
+
+Assignments
+
+Overlord: Atlas Station
+
+
+
+

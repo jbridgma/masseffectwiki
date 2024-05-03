@@ -1,0 +1,210 @@
+
+
+
+See also: Soldier Guide, Soldier Guide (Mass Effect 2)
+
+Soldiers are pure combat specialists: no one is tougher or more suited to taking down enemies with barrages of gunfire. Soldiers have thorough weapons training and can use all special ammo types as well as grenades. High-level operatives are outfitted with ocular synaptic processors that allow them to focus on targets with lethal accuracy.
+
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Adrenaline Rush
+2.1.2 Concussive Shot
+2.1.3 Frag Grenade
+2.1.4 Fitness
+2.1.5 Combat Mastery
+2.1.6 Cryo Ammo
+2.1.7 Disruptor Ammo
+2.1.8 Incendiary Ammo
+
+
+2.2 Bonus Powers
+
+2.2.1 Fortification
+2.2.2 Defense Matrix
+2.2.3 Barrier
+2.2.4 Energy Drain
+2.2.5 Marksman
+2.2.6 Proximity Mine
+2.2.7 Flare
+2.2.8 Warp Ammo
+2.2.9 Armor-Piercing Ammo
+2.2.10 Defense Drone
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Assault Rifles
+3.2 Heavy Pistols
+3.3 Shotguns
+3.4 Sniper Rifles
+3.5 Submachine Guns
+
+
+4 Combat Guide
+5 Squad Members
+
+
+
+Overview[]
+The Soldier is the class for players who more or less ignore powers and simply play Mass Effect 3 as a shooter - the Soldier can carry the best weapons and only needs to use one power in combat - Adrenaline Rush (though using its Rank 6 Bonus Power evolution provides some flexibility). Other than that it's guns all the way for the Soldier - and they can carry the heaviest guns without the trouble other classes have - Combat Mastery gives an incredible amount of extra weight capacity. The time dilation from Adrenaline Rush is useful in just about all directions, and the high capacity allows them take the best weapons in several categories whether they want to use the time dilation for headshots, for setting up flanks, or both. Soldiers are also more durable than any other class, which is important to note for players who prefer to run and gun rather than stick to cover.
+
+Powers[]
+Class Powers[]
+Adrenaline Rush[]
+Main article: Adrenaline Rush
+Adrenaline Rush is the Soldier's unique power which, when activated, slows down time, increases damage dealt to enemies, and in some circumstances, reduces damage taken, or even gives a small boost to shields. If you find yourself taking a beating from all the enemies, then it would be recommended to take the Rank 4 Hardened evolution and the Rank 6 Shield Boost evolution power. Otherwise the Damage and Dilation Rank 4 evolution can bump up damage further and make you highly effective against almost any opponent.
+It should also be noted that when you use Adrenaline Rush, any ammunition spent in the current weapon's clip will automatically be replenished, provided spare ammunition is available. This can potentially double your ammunition output before a reload is needed and is useful when using powerful, single-shot weapons.
+
+Concussive Shot[]
+Main article: Concussive Shot
+Concussive Shot functions as the Soldier's crowd control power. While it isn't a particularly damaging attack it can knock unprotected enemies off their feet and briefly stun smaller enemies with protection. It can also be curved around cover to flush out enemies. Concussive Shot can also be used to stagger Cerberus Guardians opening them up for follow-up shots while their shield is lowered, although the blast will not cause the Guardian to drop their shield permanently. Concussive Shot is surprisingly effective against Cerberus Phantoms, allowing the player to keep them at bay by staggering them if their barriers are up or completely leveling them if their barriers are down. Concussive Shot can also be used to interrupt the firing animation of Cerberus Nemeses or Reaper Ravagers, temporarily preventing them from firing on the player and presenting an opportunity to get a few shots in. Concussive Shot is largely ineffective against larger enemies such as Atlases, Geth Primes, Brutes, and Banshees who can simply shrug off the damage it inflicts.
+Concussive Shot can detonate all three types of tech combos, giving it excellent synergy with the Soldier's ammo powers which can prime enemies for tech combos. Additionally, with the Rank 6 Amplification evolution, Concussive Shot can also prime Cryo and Fire Explosions.
+
+Frag Grenade[]
+Main article: Frag Grenade
+Having grenades is always nice, and the extra grenade certainly isn't a waste. Frag Grenades also specialise in what the Soldier is normally worst at: crowd control. For Soldiers that carry a very heavy loadout, Frag Grenade's cooldown-independent nature makes it a potent power. Frag Grenades can detonate every combo that the Soldier's ammo powers can set up.
+
+Fitness[]
+Main article: Fitness (Soldier)
+Fitness is a passive talent that both boosts your melee damage and your shields and health. On the other hand it doesn't open significant doors (unlike most of your other talents) - a 15% boost to shield strength at rank 1 or a 25% at rank 2 (costing 3 points) may be good value, but any higher should be left until the late game. Your primary means of surviving damage is killing enemies. That being said, Fitness provides additional bonuses to shields, health and shield recharge speed at higher levels, so filling out the higher ranks is a good idea as more dangerous enemies appear on the battlefield.
+
+Combat Mastery[]
+Main article: Combat Mastery
+Being a passive power, it focuses mainly on increasing weight capacity and weapon damage. It also gives a bonus to Reputation. Higher ranks provide a variety of bonuses, such as increased squadmate damage, power duration and ammo power damage, which can be helpful to any Soldier. 
+
+Cryo Ammo[]
+Main article: Cryo Ammo
+Cryo Ammo functions as an ammo power which aids in crowd control by freezing unprotected enemies and slowing movement speed. It also provides a debuff against hardened armored targets, reducing the damage protection they have. The downside of Cryo Ammo is that, unlike other ammo powers, it has no bonus to weapon damage. As in Mass Effect 2, Cryo Ammo is an excellent candidate for the Squad Bonus evolution to buff your squad with Cryo Ammo while evolving the ammo powers which provide damage boosts against health and enemy defenses for yourself. Having your squad lay down cover fire with Cryo Ammo can help incapacitate large swarms of unprotected enemies, which is particularly useful against husks.
+
+Disruptor Ammo[]
+Main article: Disruptor Ammo
+Disruptor Ammo is best used against geth and to quickly strip away shields and barriers. Since it is all but useless against armour, it isn't something that you need to invest in straight away, with Incendiary Ammo being far more versatile and with a larger damage bonus, Disruptor Ammo isn't needed up until you face the geth and Cerberus.
+Disruptor Ammo can be a very useful power for Tech Bursts, if you shoot then throw a Frag Grenade or launch a Concussive Shot. It has a chance to make organic enemies stunned or panicked. 
+
+Incendiary Ammo[]
+Main article: Incendiary Ammo
+Incendiary Ammo is best used to quickly burn off enemy armor. Because it lacks the ability to quickly strip shields, it is not as effective against the geth, nor does it induce a panic reaction in them, as it does against organic enemies. Incendiary Ammo can prime the target for a Fire Explosion that the Soldier can detonate with a Frag Grenade or Concussive Shot, making it even more valuable against armor. Soldiers using rapid-fire weapons and/or shotguns should consider the Explosive Burst evolution at rank 6.
+
+Bonus Powers[]
+Fortification[]
+Main article: Fortification
+Fortification can provide you with significant damage reduction and staying power in combat. When purged, it provides a substantial boost to melee damage, a helpful benefit to a Soldier with weapons less-suited for close-range combat. While it will dramatically increase power cooldown times, this should not substantially hinder your combat ability, given that you only have two cooldown-based powers. The Rank 5 Power Synergy evolution will improve damage output by improving the damage bonus from ammo powers.
+
+Defense Matrix[]
+Main article: Defense Matrix
+Defense Matrix can provide you with significant damage reduction and staying power in combat. When purged, it restores a portion of your shields (and can be evolved to fully restore shields), making it the best choice of the protection powers for Soldiers focused on tanking. While it will dramatically increase power cooldown times, this should not substantially hinder your combat ability, given that you only have two cooldown-based powers.
+
+Barrier[]
+Main article: Barrier
+Barrier can provide you with significant damage reduction and staying power in combat. When purged, it damages and lifts nearby enemies, providing close-range crowd control to the Soldier. While it will dramatically increase power cooldown times, this should not substantially hinder your combat ability, given that you only have two cooldown-based powers. Like Fortification, the Rank 5 Power Synergy evolution will improve the damage bonus from ammo powers to increase the Soldier's damage output.
+
+Energy Drain[]
+Main article: Energy Drain
+Energy Drain's shield restoring properties provides an effective means of stripping barriers and shields; a niche power that all Soldiers lack. The shield restoration ability makes it very useful for rapidly bringing shields back up in the event they go down, which can be a lifesaver when facing powerful opponents, such as an Atlas.
+
+Marksman[]
+Main article: Marksman
+Marksman provides an alternative to Adrenaline Rush, and its rate of fire and accuracy buffs pair quite nicely with automatic fast-firing sub-machine guns (like the M-9 Tempest or N7 Hurricane) and assault rifles (like the Phaeston or M-76 Revenant); burst-fire or semi-auto rifles (like the M-15 Vindicator or the M-96 Mattock) don't benefit as much. Switching between Marksman and Adrenaline Rush depending on whether you are using an automatic weapon or a slower one that needs to be lined up properly can be a dangerous combo.
+
+Proximity Mine[]
+Main article: Proximity Mine
+Proximity Mine provides an effective area of effect damage and debuff. Using a Proximity Mine that has been evolved to lower an enemy's damage resistance, then unloading a clip and grenade into it, makes killing large enemies like Atlases and Banshees much easier. Proximity Mine can also detonate all power combos primed by the Soldier's innate ammo powers.
+
+Flare[]
+Main article: Flare
+Flare's large blast radius is highly effective in environments with large amounts of cover. Even if the projectile strikes cover instead of an enemy, the size of the explosion produced means that it will nearly always damage them anyway. Likewise, enemies that try to dodge the attack, like most Cerberus troops, may still be struck by it.
+Note:  Soldiers must choose the rank 6 power use evolution of Adrenaline Rush to be able to bypass Flare's cooldown.
+
+Warp Ammo[]
+Main article: Warp Ammo
+Warp Ammo can serve the function of substantially damaging armor and barriers, and also has a bonus in doing damage to health, making it a useful default ammo power. In addition, when used in conjunction with powers that lift, it can do even more damage. However, it may be somewhat redundant with the variety of ammo powers the Soldier has access to.
+
+Armor-Piercing Ammo[]
+Main article: Armor-Piercing Ammo
+Armor-Piercing Ammo does extra damage to armor and health. The most interesting facet, however, is it will penetrate solid objects--that is, cover. It will even shoot through enemies to hit their squadmates behind them. High-level Armor-Piercing ammo will ensure very few enemies are truly out of your reach--and free up a mod slot on your weapons.
+
+Defense Drone[]
+Main article: Defense Drone
+Defense Drone can be a powerful tool for Soldiers using sniper rifles, protecting them from enemies trying to flank them, and the additional firepower is always useful. The main disadvantage is that it requires enemies to be within a certain range before opening fire, which can be dangerous against powerful opponents, who can shrug the attack off with little difficulty. Conversely, it works well against melee attackers such as Husks, who must close to melee range to be effective, putting them well within the firing radius of the drone.
+
+Weapons and Equipment[]
+As the Soldier is equally deadly with all weapons, choices can be made for just about any playstyle. In most cases it is best to equip at least one long-range and one short-range weapon, but if you are not bothered by long cooldowns you can equip more. A decent loadout is an assault rifle for mid-range combat, a sniper rifle for long range, and a shotgun for short range. Depending on your choice of weapons, this loadout will usually set Adrenaline Rush's cooldown between 20 and 30 seconds. For those that wish to use the power liberally this loadout may not be the most attractive, but it makes up for the increased cooldown period in versatility. Soldiers that wish to use powers more often but still wish for multiple weapons should consider substituting a submachine gun for the assault rifle or shotgun, depending on the SMG choice and personal preference.
+
+Assault Rifles[]
+Main article: Assault Rifles
+An accurate assault rifle such as the Mattock, Vindicator, or N7 Valkyrie, pairs very nicely with a shotgun to compensate for the assault rifle's ineffectiveness at close range. A suppressive assault rifle such as the Phaeston, M-8 Avenger, or Revenant pair very nicely with a sniper rifle to compensate for a suppressive assault rifle's ineffectiveness at long range and its inability to drop an enemy quickly. The new Adas Anti-Synthetic Rifle added with the Firefight Pack is also a good choice, especially for certain missions involving geth or other shielded enemies, due to its shield and barrier stripping abilities. The Geth Pulse Rifle, once unlocked, is also a good choice of weapon for Soldiers looking to wield light, accurate weapons with plenty of ammo in the magazine and in reserve.
+
+Heavy Pistols[]
+Main article: Heavy Pistols
+Heavy pistols vary in effectiveness for a Soldier.
+Those who prefer to dispatch enemies quickly at range would be best equipped with the M-6 Carnifex or, for similar reasons, the M-77 Paladin with a Pistol Scope thus creating a sniper analogue. The Scorpion also generates desirable results as the subsequent explosion after each shot can help in weakening enemy crowds in a tight radius.
+In contrast, Soldiers who prefer heavy pistols as short range sidearms should consider the M-358 Talon. The N7 Eagle is also a good alternative, but mind the recoil produced otherwise.
+The Arc Pistol and M-5 Phalanx are versatile and can be suitable for either situation.
+
+Shotguns[]
+Main article: Shotguns
+Shotguns differ mostly in their effective range.
+Long-range combatants should consider choosing the Geth Plasma Shotgun, N7 Crusader or Graal Spike Thrower. The Geth Plasma Shotgun requires it to be charged for it to reach the fullest potential but it is deadly for both long and short range combat, especially since it will stagger enemies. The Graal Spike Thrower is deadly for its accuracy and damage, but the small reserve demands each shot to hit the intended target, which may take some practice. The Crusader is unique in that it can pierce light cover but is harder to aim as the shell is shot in the middle of the shown reticule--think of it as a "sniping" shotgun.
+The Disciple is the most versatile shotgun as it will stagger enemies at longer ranges with adequate damage and is deadly at short range.
+Other shotguns are traditional short-range weapons. The M-300 Claymore, AT-12 Raider and M-11 Wraith are recommended for the sheer damage output.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Given the nature of the Soldier being more of a front line holder, it is advisable for them to carry a semi-auto rifle such as the N7 Valiant, M-29 Incisor, M-13 Raptor, or M-97 Viper. Said weapons carry adequate damage output while retaining necessary combat tempo.
+The M-90 Indra, if available, is quite versatile despite the low damage output. The sheer firing rate of the weapon compensates the low damage per hit. This can be exploited with the use of either Marksman or Adrenaline Rush to further increase fire rate or instantly reload the weapon.
+This is not to say that Soldiers cannot use single-shot snipers such as the M-98 Widow or the like. Soldiers can exploit Adrenaline Rush's time dilation or knock down enemies with Concussive Shot to allow time for precise aim before pulling the trigger.
+
+Submachine Guns[]
+Main article: Submachine Guns
+While perhaps not the most damaging options for a Soldier, SMGs have their uses, especially with Adrenaline Rush or Marksman to help shots connect. The other side is using an ammo power on a high rate-of-fire weapon like the Tempest or Geth Plasma SMG. The many, many shots that will hit a target will give a better chance of quickly inflicting status effects on enemies.
+Most SMGs have some degree of recoil. Experiment with the various kinds and find one you can control.
+
+Combat Guide[]
+See also: Combat (Mass Effect 3)
+A lightly equipped Soldier can rapidly utilize Concussive Shot to slow incoming enemies or knock them out from behind cover. A particularly effective combination is shooting an enemy with Incendiary Ammo and then following up with Concussive Shot, which causes unarmored, unshielded enemies to explode. Grenades are also handy given the damage they do. However, the small explosion radius does not make it an effective crowd control in particular--this is somewhat ameliorated by throwing multiple grenades in succession, since there is no power recharge speed to consider.
+Soldiers are blessed with a variety of ammo powers. Don't ever go around without them loaded onto your guns. Use Cryo Ammo to slow down or halt the advance of unshielded enemies; use an assault rifle or an SMG to spray the rounds and hit as many enemies as possible. Use incendiary ammo on tougher enemies, to let the burning effect continue to eat at their health while you're reloading or moving for other cover. Disruptor rounds will eat through shields and barriers, making it worthwhile to have equipped when Banshees are attacking; it also can inflict a stun effect on organic enemies, making it a decent choice for general use against Cerberus.
+In terms of armor, health, shielding, weapon damage and ammo capacity are the stats Soldiers should focus on. Defensively minded Soldiers should look to Kassa Fabrication's line of armor parts, which provide considerable boosts to shields and increase the speed at which they regenerate. Offensively minded Soldiers should take a look at Hahne-Kedar's armor line, which grant weapon damage bonuses. Preset suits of armor and their relevant mixed stats are always an option, with a wide range of options to choose from.
+Weapon mods vary from weapon class to weapon class, but in general, mods that increase damage should always be attached to one's weapons. Piercing Mods can be helpful to minimize the amount of damage lost when attacking heavily defended enemies, and ammo mods can be helpful in increasing both magazine and reserve capacity, making weapons with small ammo counts more viable in protracted fights.
+Bonuses from recovered Intel are always helpful, in general, ones that increase shields and health should always be taken, while weapon and ammo choices depend on personal preferences. Power Recharge speed bonuses can be useful for Soldiers looking to spam Concussive Shot or Adrenaline Rush.
+
+Squad Members[]
+Main article: Squad Members Guide (Mass Effect 3)
+A Soldier can deal unparalleled weapon damage, but notably lacks effective crowd control, having only Cryo Ammo to slow and freeze enemies. As such, Liara's Singularity or Kaidan's Cryo Blast can be used to immobilize or slow down enemies, the latter of which can help cause a Cryo Explosion with Concussive Shot or weapon fire using any of a Soldier's ammo powers. Tali's drone powers make her worth considering, particularly when they have been fully leveled. EDI's Decoy is quite helpful in this regard, particularly if it's specialized to explode and shock enemies.
+Shielded enemies are very common, and Concussive Shot doesn't deal a high amount of damage, even to barriers. As such, a character with Overload makes a great compliment to a Soldier, espeically since the Neural Shock evolution will incapacitate basic enemies, enabling small groups of enemies to be brought down every five to ten seconds. EDI, Garrus, and Kaidan all possess this skill. Tali can also fill this role with her Energy Drain, which has the additional effect of restoring her own shields. 
+Despite the fact that his power set and capabilities are very similar, James is a viable option for Soldiers looking to counter armor on missions where it is plentiful. Carnage and Frag Grenade can be built to shatter hostile defenses, and his Incendiary Ammo can free up points for other areas. When properly built, James is noticeably more durable than a Soldier specializing in defensive class and armor bonuses, which makes him an attractive option on the field during higher difficulties.  
+Attachments for squadmate weapons can be chosen freely, although as they do not have to worry about weapon weight, recoil or ammo capacity, attaching damage and piercing mods to their weapons is a good idea for Soldiers looking to maximize the effectiveness of the squad's firearms. As piercing mods are not available to Liara and EDI's submachine guns, using a scope in place of said attachment is a good idea.  
+
+
+
+
+
+Mass Effect 3 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Search and Rescue • Equipment and Items
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • Power Combos • PC Tweaks • Interrupts • Merchants • The One and Only
+
+
+
+

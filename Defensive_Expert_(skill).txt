@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Defensive Expert is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Vetra's gear and training improves her ability to survive hostile encounters. 
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Health
+
+
+
+-
+
++25% Max Health
+
+
+2
+
+Shields
+
+
+
+-
+
++25% Max Shields
+
+
+3
+
+Regeneration
+
+
+
+-
+
++25% Shield Regeneration
++25% Health & Shield Regeneration Delay Reduction
+
+
+
+4
+
+Defensive Systems
+
+
+
+-
+
++25% Max Shields
++30% Health Regeneration
+
+
+
+4
+
+Physical Training
+
+
+
+-
+
++25% Max Health
++30% Melee Damage
+
+
+
+5
+
+Open-Field Training
+
+
+
+Vetra takes less damage when not in cover.
+
+Damage Resistance Bonus: 20
+
+
+5
+
+Defensive Positioning
+
+
+
+Vetra takes less damage when in cover.
+
+Damage Resistance Bonus: 20
+
+
+6
+
+Emergency Power†
+
+
+
+When Vetra is near death, Power Armor immediately recharges. Requires Power Armor. Also increases Vetra's maximum health and shields.
+
+Health Threshold: 10%
+Recharge Time (s): 60
++25% Max Shields
++25% Max Health
+
+
+
+6
+
+Adaptive Shielding†
+
+
+
+Vetra and her nearby allies regain some shields whenever Vetra takes down an enemy.
+
+Shields Restored: 10%
+
+Note: †Rank 6 is unavailable to Vetra until her loyalty mission Vetra Nyx: Means and Ends is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: Vetra Nyx - Starting Combat Skill
+Multiplayer: N/A
+
+
+

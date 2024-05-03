@@ -1,0 +1,148 @@
+
+
+
+
+Sniper rifles are arguably both the strongest and hardest weapons to use. Using them requires a bit more skill and strategy than other weapons, but it may be the most rewarding. The Sniper Rifle talent is inherent only to Soldiers and Infiltrators, but can be added as a bonus talent giving any class a potent long-range punch.
+
+Contents
+
+1 Talent Levels
+2 Assassination
+
+2.1 Assassination
+
+2.1.1 Advanced Assassination
+2.1.2 Master Assassination
+
+
+2.2 Assassination (Legendary Edition)
+
+2.2.1 Assassination
+2.2.2 Advanced Assassination
+2.2.3 Master Assassination
+
+
+2.3 Specialization
+2.4 Classes
+
+
+3 General Tips
+
+3.1 Heat
+3.2 Strategy
+
+
+
+
+
+Talent Levels[]
+Level 1: Increases damage by 5%. Increases accuracy by 10%
+Level 2: Increases damage by 8%. Increases accuracy by 14%
+Level 3: Assassination
+Level 4: Increases damage by 10%. Increases accuracy by 17%
+Level 5: Increases damage by 12%. Increases accuracy by 20%
+Level 6: Increases damage by 14%. Increases accuracy by 22%
+Level 7: Increases damage by 16%. Increases accuracy by 24%
+Level 8: Advanced Assassination
+Level 9: Increases damage by 18%. Increases accuracy by 26%
+Level 10: Increases damage by 19%. Increases accuracy by 28%
+Level 11: Increases damage by 20%. Increases accuracy by 30%
+Level 12: Master Assassination
+Assassination[]
+
+Assassination is a powerful damage boost to the next shot from the sniper rifle. This can quickly dispatch enemies which would normally take two or three shots with a single round. While this skill is active your sniper rifle scope will have no sway, allowing you to accurately place a shot. Though slow, this attack is deadly when combined with the right Ammunition Upgrades. Both Soldiers and Infiltrators can choose to augment Assassination's recharge time by choosing Commando specialization.
+Some enemies, such as mercenaries, Geth Hoppers or Geth Snipers, also use Assassination. This is characterised by a distinct red beam just before they fire. On higher difficulty settings, or if your shields are already damaged, one shot can kill you instantly. Once you see the red beam, either get behind cover, put up a Barrier, activate Immunity, use Shield Boost, or disable or kill the attacker before they have time to fire.
+Note: Switching weapons, changing the equipped sniper rifle to a different model, or modifying any upgrades currently installed on the rifle, will immediately cancel Assassination if it was active but not yet fired. This applies to all similar weapon talents in Mass Effect, for both Shepard and squadmates.
+
+Assassination[]
+Only available when using sniper rifles.
+
+Next shot will inflict weapon damage +50%
+Duration: 20s
+Recharge time: 45s.
+Advanced Assassination[]
+Only available when using sniper rifles.
+
+Next shot will inflict weapon damage +125%
+Duration 20s
+Recharge time: 45s.
+Master Assassination[]
+Only available when using sniper rifles
+
+Next shot will inflict weapon damage +225%
+Duration 20s
+Recharge time: 45s.
+
+
+Assassination (Legendary Edition)[]
+Assassination in Legendary Edition works much as it did in the original game except that it purges all residual weapon heat on use, has a much shorter 6 second duration during which the enhanced shot can be fired, and deals greatly increased damage by comparison especially at base level.
+Assassination[]
+Only available when using sniper rifles. Purges heat on use.
+
+Next shot will inflict weapon damage equal to 200% of weapon DPS
+Duration: 6s
+Recharge time: 45s.
+Advanced Assassination[]
+Only available when using sniper rifles. Purges heat on use.
+
+Next shot will inflict weapon damage equal to 250% of weapon DPS
+Duration 6s
+Recharge time: 45s.
+Master Assassination[]
+Only available when using sniper rifles. Purges heat on use.
+
+Next shot will inflict weapon damage equal to 300% of weapon DPS.
+Duration 6s
+Recharge time: 45s.
+Specialization[]
+Commandos gain Assassin Specialization at level 12.
+
+Level 12: Assassin Specialization: Reduces the recharge time on Assassination and Marksman by 25%.
+Classes[]
+These classes have access to the Sniper Rifles talent:
+
+Infiltrator Unlockable
+Soldier Unlockable
+Turian Agent Unlockable
+General Tips[]
+Heat[]
+Most rifles are designed only to fire one shot at a time, or two in quick succession before needing to cool, with ratings typically between 1.1 and 1.5 shots before overheating. However, this can be taken advantage of by using High Explosive Rounds. The major drawback with this ammo type is the +500% heat generation, but given that sniper rifles almost invariably need to cool after every shot, this drawback is of little consequence. Otherwise, use Combat Optics to increase accuracy, if you plan to use the sniper rifle at all ranges, or use a Heat Sink.
+Another method of dealing with overheating is to add Frictionless Materials upgrades. When players use Frictionless Materials of higher levels, such as VIII-X, overheating is no longer a factor. Players who add two level X Frictionless Materials upgrades have the ability to use level X Sledgehammer Rounds without having to worry about overheating.
+Although the heat emission is much higher than for other weapons, the damage for each shot can easily make up for it in the right hands. Most of the time, a single shot can eliminate a typical threat, but tougher enemies such as krogan, Geth Primes / Geth Armatures, or turrets will likely take more shots depending on the difficulty setting.
+
+Strategy[]
+Sniper Rifles are excellent in situations where the target(s) are further away than other weapons can accurately hit their marks. Most missions involving the Mako, for example, will often give you plenty of distance from the enemies so that their shots will rarely hit you at all, and give you time to leisurely dodge projectile attacks like rockets and Geth Armatures' Siege Pulse attacks.
+Sniper Rifles have a unique weakness, in that when zoomed in, the crosshairs sway in an unpredictable, but generally circular pattern. This swaying is reduced with every point spent into the Sniper Rifle talent, by staying crouched, by staying still, and by using cover. It can also be temporarily nullified with the Assassination ability.
+
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

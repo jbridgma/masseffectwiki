@@ -1,0 +1,25 @@
+
+
+
+You've been warned about the presence of underground explosives surrounding one of the torches. You'll need to exit the Mako and proceed on foot.
+Acquisition[]
+Prerequisite: X57: Bring Down the Sky
+
+After disabling the first fusion torch visible from the initial Mako drop zone, Simon Atwell mentions the blasting caps when he talks to you before you exit the facility.
+Alternatively, skipping the first fusion torch and proceeding further northeast will also give this assignment as the Normandy VI warns about anti-vehicle demolitions detected by ground-penetrating radar.
+
+Walkthrough[]
+This assignment is quite straightforward: get through the blasting caps to the fusion torch station without getting blown up. Deactivating the blasting caps via the terminal next to the facility entrance completes the assignment.
+The station is surrounded by batarian guards and Heavy Turrets, as well as the aforementioned blasting caps. These improvised landmines have a detection range of a few meters, wide enough to render vehicle use impossible and dangerous enough to warrant proximity warning sounds and gauges while on foot. They're only alerted to your presence; your squadmates won't trip the blasting caps when they follow you in. Triggering the blasting caps WILL result in an automatic game over, regardless of protections through normal means or by console commands. Entering the boundary denoted by the yellow beacons while in the Mako also leads to instant death.
+
+Get rid of the turrets, leave the Mako safely outside the range of the blasting caps (the circle marked with the beacons), and approach on foot. Walk very slowly and keep an eye on the proximity alarm. When you start to get close, Batarian Troopers - including two Batarian Rocket Soldiers - will attack you. Bear in mind that it's possible to throw the batarians toward the blasting caps for an instant kill, or race straight to the torch station's door, shut the blasting caps off, and then deal with them. 
+You can zoom in on your map to see blasting cap placements, and how many there are between you and cover.
+If you approach from the front of the building, there are more blasting caps between you and some crates for cover. If you approach from the rear, there are fewer blasting caps and more cover for your squadmates (if you decide to bring them), but your position will be rushed by two batarians.
+
+Enemies[]
+Batarian Trooper
+Batarian Rocket Soldier
+Heavy Turret
+
+
+

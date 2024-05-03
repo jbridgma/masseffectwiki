@@ -1,0 +1,173 @@
+
+
+
+Tactical Scan is a power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Tactical Scan[]
+Reveal weaknesses in defenses, increasing all damage done to the target and slowing its movement speed.
+Provide the entire squad with a tactical readout. Only one scan can be active on a target.
+
+Recharge Speed: 4 Sec
+Duration: 20 sec
+Damage Taken Bonus: 15%
+Movement Speed Penalty: 15%
+
+
+Rank 2: Recharge Speed[]
+Increase Recharge speed by 50%.
+
+Recharge Speed: 2.67 Sec
+Duration: 20 sec
+Damage Taken Bonus: 15%
+Movement Speed Penalty: 15%
+
+
+Rank 3: Duration[]
+Increase Duration by 30%.
+
+Recharge Speed: 2.67 Sec
+Duration: 26 Sec
+Damage Taken Bonus: 15%
+Movement Speed Penalty: 15%
+
+
+Rank 4: Weapon Damage/Power Damage[]
+
+
+
+Weapon Damage
+Increase all weapon damage done to the target by 7.50%.
+
+
+
+Power Damage
+Increase all power damage done to the target by 7.50%.
+
+
+
+
+Rank 5: Headshots/Movement Speed[]
+
+
+
+Headshots
+Increase all headshot damage by 25%.
+
+
+
+Movement Speed
+Increase the target's movement speed penalty by 15%.
+
+Recharge Speed: 2.28 Sec
+Duration: 26 Sec
+Damage Taken Bonus: 15%
+Movement Speed Penalty: 30%
+
+
+
+Rank 6: Damage/Area Scan[]
+
+
+
+Damage
+Increase all damage done to the target by 10%.
+
+Recharge Speed: 2.67 sec (Headshots), 2.28 Sec (Movement Speed)
+Duration: 26 Sec
+Damage Taken Bonus: 25%
+Movement Speed Penalty: 15% (Headshots), 30% (Movement Speed)
+
+
+Area Scan
+Increase scan duration by 100%.Momentarily reveal enemies within 20 meters of the target with an initial scanning pulse.
+
+Recharge Speed: 2.67 sec (Headshots), 2.28 Sec (Movement Speed)
+Duration:: 46 sec
+Damage Taken Bonus: 15%
+Movement Speed Penalty: 15% (Headshots), 30% (Movement Speed)
+
+
+
+Player Notes[]
+Mechanics
+Tactical Scan increases the damage taken by targets from all sources, included weapons, powers, Power Combos, and melee attacks. It also highlights and grants vision of the scanned target(s) to all allied players, even through anything that would normally obscure vision.
+A hologram of the scanned target will appear on the player's omni-tool, allowing the player to see what the target is doing even if they don't have a visual, along with the distance to the scanned target measured in meters.
+The colored semi-circles around the target and the hologram represent health/armor (left side) and shield/barriers (right side). This allows everyone to see the hit points remaining on the target even when outside lock-on range or invisible.
+Tactical Scan has a lengthy activation time, but does not need line of sight and can be done without breaking cover. However, the player does need to continue to look in the general direction of the intended target; looking away before the activation completes can cancel it.
+While the activation animation is long and can't be circumvented by most actions, it is possible to start charging a weapon such as the Kishock Harpoon Gun or Acolyte before casting Tactical Scan and release the held shot during the cast animation. The effects of Tactical Scan also go into effect instantly, not when the actual cast animation completes and the holographic targeting effect appears. This enables a fairly quick charge --> scan --> shoot combo.
+The Area Scan evolution does not need a target lock. When not locked on a target, it will reveal enemies around the casting player instead. It can be used to reveal enemies while behind cover or smoke screens that would otherwise obscure a player's vision. It does not confer any effects of the power to enemies revealed, nor will it continue to track specific enemies. This can be done in rapid succession to continually track enemies as Tactical Scan wears off.
+It can be used to reload cancel like any normal power use, and it doesn't require a valid target to be cast.
+You cannot use this power against an enemy that cannot be targeted, like a Geth Hunter that's currently cloaked. To counter this, fire a shot at the enemy, and then use Tactical Scan as soon as the orange targeting reticle appears.
+It can be applied to a target through terrain or smoke as long as vision of the target is granted somehow, such as by specialized weapon scopes, allied powers, or the Geth Scanner gear.
+If used against Swarmers, Geth Turrets, or enemy Drones, Tactical Scan will kill them instead of causing its normal effects.
+The Rank 5 Movement Speed evolution appears to increase the recharge speed by 25%, but in actuality it is simply applying the Rank 5A Headshots bonus to the stat bar. There is no change in your actual cooldown.
+Tactical Scan 5A Headshots evolution is not applied to headshot damage, effectively making this upgrade do nothing.[1]
+Strategies
+Tactical Scan has certain advantages over other "debuff" powers like Warp and Cryo Blast in that it will always go into effect, even against enemies like Phantoms, Banshees, and Praetorians with active power immunity abilities. It also can't be dodged.
+It will increase damage to a target regardless of protection status (Warp and Cryo Blast need specific evolutions to do this, and Warp's armor-weakening effect only applies if it lands on unshielded armor).
+It can stack with other debuffing powers to make takedowns of tough enemies extremely rapid, and the visual effect is a very good way of signaling teammates to coordinate their damage on the marked target.
+The Rank 6 Area Scan combined with an Arc Grenade is an effective way to spot and reveal group of stealthed enemies.
+The "X-ray" effect of Rank 6 Area Scan makes it very easy to get headshots on enemies whose heads are not normally visible, such as Guardians.
+Availability[]
+Single Player: N/A
+Multiplayer: Quarian Male Engineer, Quarian Male Infiltrator, Quarian Marksman Soldier
+Trivia[]
+Tactical Scan can be credited for kills if it is the last power used on an enemy that dies to damage means unregistrable to the kill feed, such as self-destruction, destruction of enemies upon extraction at the end of a game, or certain sources of damage over time.
+References[]
+
+↑ http://forum.bioware.com/topic/494210-headshots-mechanics-details-assembled/
+
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

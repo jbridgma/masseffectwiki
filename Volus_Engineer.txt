@@ -1,0 +1,181 @@
+
+
+
+
+
+Volus Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Volus
+
+
+Rarity
+Ultra-Rare
+
+
+Availability
+Mass Effect 3: Retaliation
+
+
+Abilities
+Combat RollDefensive Stance
+
+
+The volus homeworld, Irune, has a high-pressure atmosphere that supports an ammonia-based biochemistry. To survive on other planets, the volus must wear pressure suits and breathers or, when facing combat, specially sealed armor.
+Volus are cagey support specialists that use the most technologically advanced power armor credits can buy. Not to be underestimated, the diminutive volus engineer more than makes up for its size with cutting-edge gadgetry.
+
+Contents
+
+1 Powers
+2 Melee and movement
+
+2.1 Notable mechanics
+
+
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 150
+
+
+Class: Volus Training
+
+
+ Proximity Mine
+
+
+
+
+ Shield Boost
+
+
+
+
+ Recon Mine
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – The Volus Engineer cloaks to avoid enemy detection.
+Heavy Melee (Defensive Stance) – The Volus Engineer becomes stationary and generates a protective shield sphere that damages nearby enemies. Each activation pulse confers brief invulnerability to damage and restores a small amount of shields.
+Grab – The Volus Engineer is unable to perform a grab.
+
+
+
+
+
+Dodge (Combat Roll) – The Volus Engineer rolls to quickly evade incoming attacks.
+
+Notable mechanics[]
+Volus are unable to take cover in the formal sense and are thus unable to perform over-cover grabs as well as vault over or climb up cover.
+Due to the volus' relatively short height, visibility is somewhat reduced.
+Volus can't be grabbed by Husks or Abominations.
+Player Notes[]
+General Notes[]
+A key part of Volus strategy is that the Volus cannot utilize cover and vault at all, relying instead on his diminutive stature to keep him protected. This works acceptably, except that explosives tend to be fired just high enough to him, and he cannot snap to cover to get out of enemy fire. On the plus side, because he cannot interact with cover, the Volus does not experience issues with context sensitivity for running and dodging versus cover. This proves to be extremely useful when resurrecting fallen squadmates.
+All Volus classes have the Shield Boost ability, which is vital for their defense, as they are incredibly fragile, and it functions as a massive defense boost on a several-seconds cooldown.
+It's advisable for Volus characters to put all fitness upgrades into shields and health, as the volus heavy melee is the only means of dealing melee damage; This form of damage is relatively weak even with bonuses.
+The Volus' standard melee is a low level version of Tactical Cloak that isn't broken by firing your weapons or using powers, allowing them to use hit and run tactics. Keep in mind that this cloak has a cooldown of a few seconds (though it is independent of your power cooldown) and lasts for about 5 seconds. While the Cloak is in effect, you cannot use your heavy melee.
+The Volus' heavy melee puts up a small white sphere around the Volus which will damage enemies who touch it, as well as restore shields over time. This will noticeably slow a Praetorian's progress on slaying the Volus on Silver difficulty, and severely reduces the ability of smaller enemies to kill the player, but has a severe lag when the player is coming out of it, leaving them rather vulnerable.
+Using this to overcome situations where Shield Boost can't be used is recommended. For example, if one is hit by a Seeker Swarms or if the player has recently fired a different ability, using the shield to defend yourself until the cooldown comes off may be wise. The shield can also stagger and inflict damage to enemies trying to use their melee (and even kill attacking Husks), most notably Dragoons. The shield cannot be used together with the tactical cloak.
+The shield barrier can be cancelled by pressing the melee button again, cancelling part of the ending lag. This allows the Volus to quickly shield himself but still run/roll when needed without compromising his movement too much.
+Utilizing a weapon that is precise and light is recommended, such as a single Heavy Pistol or SMG. The majority of a Volus engineer's combat ability comes from his abilities, so adversely affecting your cooldown times is not recommended, as their weight capacity is lower than other classes, even with the proper evolutions.
+Far and away the more powerful move for the Volus is the Recon Mine. Launching it into a high traffic area (such as choke points or enemy spawning areas) or setting it in advance of a point you must defend is wise. Attempting to use it actively against enemies who are any faster than an Atlas or Brute is difficult and ill advised. Fast enemies are better served by using the Proximity Mine, which does respectable damage, stuns, and allows the Volus to press his attack.
+The effects of Recon Mine's Rank 6 "Invasive Scan" evolution and Proximity Mine's Rank 5 "Damage Taken" or "Slow" evolutions stack. One can lure enemies through Proximity Mines and into the Recon Mine's scan area to combine the effects of the debuffs, allowing for a maximum +45% enemy damage taken.
+Launching a Proximity Mine at a target as it enters the scan radius of the Recon Mine will apply the Invasive Scan's damage increase, then Recon Mine can be detonated while the Proximity Mine's Damage Taken debuff is active.
+The Scorpion is a good choice for a Volus Engineer, as it can be used to compliment their mine powers.  For maximum effect if you've evolved your mine powers to increase the damage enemies take, position your mines so that enemies will be under the effect of both debuffs when they trigger the Scorpion rounds.
+The Volus is an invaluable team member on Gold.  With a 200% cooldown, their Shield Boost can be spammed effectively every few seconds, granting a massive buff to all nearby team members.  Because of their fragile nature, the Volus should try to stay close to a more durable team member.  This arrangement works well for both parties:  the Volus can buff the teammates, allowing them to shrug off damage; and the teammates can prevent the diminutive Volus from being overwhelmed by enemies.  Furthermore, the Volus is an absolute lifesaver on Gold for completing Hacking or Escort objectives, since the whole team will be close enough to benefit from the Shield Boost.
+If you know the map you are playing on well enough, you probably have an approximate idea of where enemies can spawn.  When a round ends, it can be highly effective to place a Recon Mine in a potential spawn spot, then move away and wait to see if enemies spawn there.  If they don't, simply detonate the mine and plant another one somewhere else.  Hitting an entire group of spawning enemies can significantly weaken the stronger foes, and kill the weaker ones outright.
+The Volus has significant techniques to start fire explosions and tech bursts. Starting with a placed Recon Mine and throwing a Proximity Mine exactly at spot. Luring enemies to area of the mine, be very quick and accurate at exploding the Recon Mine at exact time enemies step on the Proximity Mine.
+Cerberus[]
+Recon Mine is particularly useful for killing Guardians; you can place the mine in front of them, and when they walk past it you can detonate it to avoid their shields completely.
+Both the Recon Mine and Proximity Mine are useful for stopping the advances of groups of Phantoms and Dragoons. With the Rank 6 "Armor Damage" evolution, a single Recon Mine can drastically weaken Dragoons.
+Collectors[]
+Avoid Seeker Swarms at all costs, as the loss of ability to use Shield Boost can quickly spell death.
+The Volus is remarkably effective for tanking Scions and Praetorians if you see their attacks coming. Tagging your teammates with the Shield Boost and then covering yourself with Volus' melee shield will allow your team to make remarkable progress.
+The Volus is adept at clearing weaker enemies like Abominations, Seeker Swarms, Collector Troopers , and Collector Captains, as non-possessed variants will die in one blast of the Recon Mine on Silver, and many of the possessed ones as well. Further, the stun and knockback of Proximity Mine and the Shield Boost will help the Volus deal with possessed Abominations and straggling Troopers respectively.
+Using combos to deal with Scions and Praetorians is recommended for choice. Applying Recon and Proximity Mine at the same time could deal high damage. But, be careful at range of the instant kill attacks.
+Geth[]
+If timed right, the Recon Mine combined with the Proximity Mine can effectively dispose of Geth Bombers when they're in low height.
+Reapers[]
+The Volus Engineer proves invaluable against the Reaper forces. With Proximity Mine, the Volus can slow down enemies, and Shield Boost will recharge allies' shields in a tight situation.
+Banshees are a Volus' biggest problem here.  Their unpredictable biotic jumps can quickly overtake the relatively slow Volus.  If a Banshee is coming toward you, it is highly advised to cloak and sprint in the opposite direction.
+Recon Mine is ideal for dealing with advancing Brutes and Ravagers.  Unless the Brute is charging, it is usually slow enough that the Volus can set up a Mine in front of it, and detonate it when the Brute gets close.  Ravagers are a cinch:  simply place the Mine and wait for the slow-moving Ravager to move near it.  Furthermore, Recon Mine will clear out tightly knit swarms of husks in no time.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

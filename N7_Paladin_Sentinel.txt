@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect 3. For the heavy pistol, see M-77 Paladin.
+
+
+
+N7 Paladin Sentinel
+
+
+
+
+
+
+Class
+Sentinel
+
+
+Race
+Human
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Earth
+
+
+Abilities
+Combat RollOmni-Shield
+
+
+These soldiers are the go-anywhere, fight-anything special forces of the Alliance that were trained at the Interplanetary Combatives Academy in Rio de Janeiro, Brazil. They had to survive combat situations "in an admirable and effective fashion" to receive the N7 rank. Many N7s now train other species in anti-Reaper asymmetric warfare.
+The Paladin carries a powerful omni-shield onto the battlefield to block enemy fire. The Paladin also uses the shield as a heavy-melee weapon that, when modified with incendiary or cryo upgrades, creates a devastating combination attack.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 500
+
+
+Class: N7 Paladin
+
+
+ Snap Freeze
+
+
+
+
+ Incinerate
+
+
+
+
+ Energy Drain
+
+
+
+
+ Shield Mastery
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee (Omni-Shield) – The N7 Paladin swipes the omni-shield in a wide frontal arc, damaging multiple enemies. Most foot soldiers are staggered, with up to one being knocked flying if unprotected.
+Heavy Melee (Omni-Shield) – The N7 Paladin deploys an omni-shield that can block enemy fire, which lasts until it is retracted, destroyed, or the N7 Paladin is downed. Nearby enemies take light damage and foot soldiers may be staggered when the shield is deployed. Foot soldiers that melee the deployed shield take damage and may be staggered. If the shield is retracted, the N7 Paladin follows through with a shield swipe.
+Grab (Omni-Blade Stab) – The N7 Paladin Sentinel drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Roll) – The N7 Paladin Sentinel rolls to quickly evade incoming attacks.
+The N7 Paladin Sentinel can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+When in the right hands the Paladin is one of the most effective classes in the game; he can excel in crowd control, cause every type of tech combo (fire, cryo, and tech) on his own, tank a considerable amount of damage, and fend off enemies in melee combat.
+Omni-shield: The Paladin's unique omni-shield functions as both a powerful offensive and defensive tool:
+The Paladin's heavy melee plants the omni-shield to the ground, absorbing hostile fire. This can be used to protect wounded team members or objectives. Note that the Paladin cannot move (though they can turn in place) or fire weapons while the shield is deployed, and it will not protect against attacks from the Paladin's side or rear, but only from about a 45 degree arc centered on where the player is facing.
+As the shield takes damage, its color changes from bright orange to red, eventually blinking red when it is about to break.
+While the omni-shield is deployed, the Paladin gains damage resistance the way all classes do in heavy melee, except for the Paladin this resistance lasts as long as the shield is out.
+Pressing the melee button while blocking with the omni-shield will result in a powerful melee attack. The shield can also be cancelled by using a tech ability, pressing the melee button, or by rolling while the shield is active.
+The Paladin's "light" or normal melee attack (delivered by tapping melee) deals the same amount of damage as its heavy melee described above. At rank 3 Shield Mastery with no other melee damage bonuses, this attack is powerful enough to one-shot Husks on Gold difficulty.
+Using the deployed-melee, it is possible to unleash two melee attacks in a row where the first has absolutely no ending lag, by pressing the melee button again as soon the first melee is used while deploying the shield.
+Unlike most melee attacks, the omni-shield's attacks apply significant physics forces to most humanoid enemies, especially if it kills them. On certain maps, non-fatal strikes can even potentially knock foes off the map or into bottomless pits, often resulting in an instant kill.
+A Paladin's omni-shield will break due to blocking excessive damage or forceful attacks, such as a Geth Prime's melee or the rockets fired by an Atlas. In this situation, the Paladin will be staggered momentarily. However, the shield can be immediately redeployed at full durability.
+The omni-shield offers moderate protection against the grabs of Husks and Abominations; it will block a handful of their melee swipes (about 3) and then after that the omni-shield breaks and the Husk/Abomination is able to grab the Paladin as it can most other classes.
+The omni-shield can withstand a few hits from Dragoon lashes but will soon break. Phantom sword hits instantly break the shield.
+The omni-shield offers zero protection against enemy sync kill attacks.
+The Paladin's omni-shield melees also have a small area of effect. If specialized to do melee damage, the Paladin is capable of killing tight groups of lesser enemies in a single shield swipe.
+As long as the omni-shield is absorbing all incoming fire, the Paladin can recharge its shields while hiding behind it.
+The Paladin can switch between regular weapons with the shield out; this can be used as a technique to shorten the switching animation or be protected during the switch.
+Using any supply items such as Ops Survival packs, Thermal Clip packs, or switching to the Cobra Missile Launcher retracts the shield.
+The omni-shield is very unreliable at blocking the ranged attacks of Ravagers, Geth Hunters, and Banshees (differences in elevation appear to exacerbate this). It also does not block the suicide attacks of Abominations, Swarmers, or Seeker Swarms.
+It can block enemy grenades, but only if the shield is facing in the direction of the detonation. Possessed Scion and Geth Bomber grenade volleys usually cannot be blocked as the grenades scatter around you in every direction.
+If Shield Mastery is evolved for maximum shield durability, the omni-shield can absorb more damage before breaking than the Geth Juggernaut Soldier's Hex Shield, and unlike Hex Shield, the omni-shield's "cooldown" is basically instant regardless of weapon loadout.
+The Fire Shield and Cryo Shield evolutions of Shield Mastery can grant the Paladin the unique ability to prime enemies for Fire Explosions or Cryo Explosions with its melee attacks. These evolutions also have several other effects, including extra damage and the ability to stun enemies or debuff their armor.
+With Energy Drain, Incinerate, and Snap Freeze, the Paladin has powers that are useful against almost every type of enemy. Equipped with a piercing weapon to shoot through a Cerberus Guardian's shield, the Paladin has an effective response to any enemy in the game.
+With the most recent multiplayer update, the Paladin can now easily chain a series of continuous explosions.
+While theoretically any combination of Energy Drain+Incinerate+Snap Freeze can be used in sequence, as all powers act as sources and detonators for each other, it is inadvisable under most conditions to cast Incinerate first then Snap Freeze. Not only is Snap Freeze bugged so that the Fire Explosion detonates incorrectly (see below), and the perks for Incinerate can give damage bonuses against frozen or chilled enemies, but Tech Bursts (primed by Energy Drain) are the only tech combo that Snap Freeze can detonate on the enemy.
+It is also advisable to choose the rank 4 Radius evolutions for Incinerate and Energy Drain, as well as the rank 4 Range evolution for Snap Freeze. This allows you to prime multiple targets, and thus creating cascading tech combos on clustered weaker enemies.
+Finally, while the damage of the combos is unaffected by the damage of the powers themselves, the overall damage dealt to enemies can be increased by choosing the rank 6 Freeze Combo evolution for Incinerate.
+The Snap Freeze ability is bugged. When tech combos are detonated with Snap Freeze, they originate from the Paladin, not from the target. They still have the same effect as a normal tech combo explosion, but only if they are nearby the Paladin. This can be useful for knocking back multiple enemies surrounding the Paladin.
+The Paladin's signature ability, Snap Freeze, should not be overlooked. It can debuff, freeze, has good range (even better with the reach evolution), and does decent damage. As an added effect, it can be used through walls and corners. This should be used to the player's advantage because it can soften up and even kill or disable large groups of enemies before they are a potential threat to the Paladin or his team.
+The Geth Scanner gear can be used to allow you to hit enemies from safety before popping out for a further power or weapon attack. This combo is particularly useful on Phantoms and Hunters, making them easier to spot and target; they also have shields you can drain for a follow-up Cryo Explosion.
+The Shield Mastery power has its final evolution for shield strength at rank 4 (rather than rank 6 for the Fitness power most classes possess), allowing the Paladin to have maximum health and shields while spending 11 fewer points than most other classes. This leaves more points for either the tech powers or the class passive power.
+The Paladin functions well as a support class, using the omni-shield to draw mass enemy fire giving more fragile teammates plenty of opportunity to attack freely. Snap Freeze is also an excellent supporting ability, slowing enemy approaches and making them more vulnerable. The Paladin in this role also relies on his team to protect his flanks while taking point.
+If you want to make effective and frequent use of the omni-shield as a defensive tool, it's advisable to equip weapons geared towards short bursts of high damage like shotguns over weapons that deal continuous damage over time like most SMGs and assault rifles.
+Weapons that require charging up to fire such as the Acolyte or the Arc Pistol also don't dovetail that well with heavy omni-shield use.
+Weapons that possess a recharging ammunition mechanic such as the Collector SMG work very well with the omni-shield.
+Equipment choices can be important to play the Paladin effectively. Cyclonic Modulators don't boost your durability with the omni-shield out; while they are far from useless, don't overlook options such as Adrenaline Modules or Shield Power Cells. Faster movement speed helps compensate the Paladin for the immobility of using the omni-shield, letting you get into prime point positions faster or retreat faster when said positions become untenable. Faster shield recharge means you need less time to hide behind the omni-shield to recover shields in an emergency while under fire.
+Cerberus[]
+If a turret is placed a Paladin can activate his shield right in front of it allowing teammates to destroy it or move across its field of view without being shot.
+The shield allows for deflection of Phantom sword strikes, and damages them as well as causing them to stagger. Once the Paladin blocks the sword attack, it is recommended he move or roll away, lest the Phantom impale him with its sync kill stab.
+Additionally, shield bashing Phantoms with no barriers will cause a forceful knockdown. This works even when they use their cloak.
+The shield light melee can be used to interrupt a Dragoon's Smash and melee whip attack. The Paladin can continue to light melee until the Dragoon is dead. This tactic can be used to shelter teammates from the massive damage of these attacks.
+Energy Drain and Snap Freeze are both useful against Phantoms: Energy Drain to strip their barriers, and Snap Freeze to kill them after they cloak and take cover.
+Alternatively, one can 'paint' a Phantom with Snap Freeze and then detonate with Energy Drain for massive damage, either killing it outright, or leaving it with a sliver of health while also staggering it for a few moments. Note that because Snap Freeze does not target enemies, Phantoms will not activate their protection bubble to block the power. This allows the follow-up Energy Drain to work immediately, triggering the cryo explosion.
+Collectors[]
+Your powers will come into play a lot more than your weapons or shield will. Energy Drain will play the biggest role since some of the enemies are protected by barriers and will also serve as your sustenance since many enemies will avoid getting up close and personal.
+The omni-shield can successfully block melee attacks from Captains and Troopers.
+While it is possible to block the melee attack of Praetorians with the omni-shield, it's extremely dangerous, as they attack in succession and can easily insta-kill the N7 Paladin.
+Snap Freeze may serve the role of debuffing more than disabling since only 3 foes can be successfully frozen: Captains, Troopers and Abominations. However, it can also set up tech combos: follow up with Energy Drain on targets with barriers, or Incinerate on targets without. Watch out for Praetorians: when surrounded by their spherical barrier they cannot be affected by powers, making it a lot harder to trigger tech bursts.
+Geth[]
+The Paladin is exceptionally resilient when fighting against the geth, being arguably the most effective class in the game to deal with them. With his ability to restore shields with Energy Drain and block with his shield during power cooldowns, he can easily hold down a flank against ridiculous levels of incoming fire.
+Snap Freeze + Energy Drain excels against the geth, as, being synthetics, they are affected by Energy Drain more than the organics. This means the N7 Paladin can successfully cause tech combos mainly with Energy Drain and still restore his shields even if his enemies have no shields. That combined with Energy Drain Rank 6 Armor Boost allows the N7 Paladin to have 40% damage reduction all the time.
+As Snap Freeze has a great range and goes through walls, the N7 Paladin can quickly dispose of sneaking enemies such as Geth Hunters and Geth Bombers, setting them up for tech combos before they reach the squad.
+Paladins must be cautious when deploying their shield against the geth, as a known glitch with Geth Hunters and, occasionally, Geth Rocket Troopers, allows their projectiles to pass right through the shield, doing damage to your shields and health.
+Note that Snap Freeze (evolved for tech combo damage) followed by Energy Drain (with power evolutions chosen in N7 Paladin) will severely damage Geth Bombers and Geth Hunters, and will kill Geth Rocket Troopers and Geth Troopers on Gold, without also equipping gear to improve power damage.
+Reapers[]
+Be extra cautious as Brutes' melee attacks and Banshees' biotic powers can all instantly break your omni-shield.
+However, with the right timing, the N7 Paladin can block the Banshee's blast without breaking the omni-shield. This is particularly useful to protect allies.
+If the Paladin deploys the omni-shield right when a Brute is charging, the shield will break, but the Paladin will only take a low portion of damage or no damage at all. This is a useful way to avoid harm yet remain mobile.
+Snap Freeze will weaken armored enemies, or freeze unarmored/unshielded ones. Basically every enemy can be affected one way or another, although remember that 'charged' Banshees without shields are immune to powers.
+Husks are particularly vulnerable to Snap Freeze, and with good timing this can flash-freeze multiple husks, leaving them all vulnerable to a follow-up detonation.
+Energy Drain can strip light barriers from targets, enabling Snap Freeze and Energy Drain to work better with each other. While not as powerful as Overload, it will certainly do the trick against Marauders, and as a bonus your shields will be recovered, especially handy when their normal recharge is delayed due to Banshee ranged attacks or Swarmer acid.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

@@ -1,0 +1,100 @@
+
+
+
+
+
+Lattesh
+
+Region
+Milky Way / The Phoenix Massing / Chomos
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+2.2 AU
+
+
+Orbital Period
+5.2 Earth Years
+
+
+Keplerian Ratio
+0.394
+
+
+Radius
+5,500 km
+
+
+Day Length
+35.7 Earth Hours
+
+
+Atm. Pressure
+1.3 atm
+
+
+Surface Gravity
+0.7 g
+
+
+Mass
+0.517 Earth Masses
+
+
+Location: Milky Way / The Phoenix Massing / Chomos System /  Second planet
+
+Prerequisite: Project Firewalker: Rosalie Lost (Mass Effect 2)
+
+Description[]
+Lattesh, translated from a salarian dialect as "it's still winter," has an almost-habitable temperature and abundant water but shows no signs of life. Regular supervolcanic eruptions in the southern hemisphere have shrouded the sun and led to a climate even more bone-chilling than usual.
+
+Assignments[]
+Assignment: Project Firewalker: Geth Incursion
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+4,000
+
+
+Platinum
+
+Medium
+
+5,400
+
+
+Iridium
+
+Low
+
+4,500
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

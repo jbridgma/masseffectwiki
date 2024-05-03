@@ -1,0 +1,60 @@
+
+
+
+
+Anomalous weather patterns on planet Canalus (Dirada system, Pylos Nebula) seem connected to geth activity on the planet's surface.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Enemies
+
+
+4 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Star Chart from Baria Frontiers store
+
+Scanning the planet Canalus (3rd planet, Dirada System, Pylos Nebula) reveals strange weather patterns and substantial geth activity. Landing on the planet, Shepard and the team are tasked with disabling a climate-change device the geth are protecting that may be responsible for the strange climate patterns on Canalus.
+
+Preparation[]
+The main challenge in this assignment will be the extremely poor visibility through the smog while you are fighting the geth. As usual when fighting them, powers useful against synthetics and shields like Energy Drain, Overload, AI Hacking, and Disruptor Ammo top the list. The area-of-effect versions of power evolutions also come in handy here since the geth tend to group up.
+There are no power cell pickups available during this mission, and the only ammo reloads available will be from dead geth, so weapons with large clips are worth a second look. Squadmate choice is also important here as they never run out of ammo and are not affected by the poor visibility; consider long-range specialists with tech powers such as Garrus and Zaeed, or bring Tali if she's available for her hacking abilities.
+If you want heavy weapon assistance, the Arc Projector and ML-77 Missile Launcher can be useful tools in the low visibility; both of these weapons can find targets that are obscured or behind cover; both can also acquire cloaked Geth Hunters automatically. The Arc Projector is devastating against shielded and synthetic targets.
+Upgrade Tip: The Damage Protection upgrade received as a reward at the end of this mission is one of the only ways to acquire a third such upgrade after the mission on Horizon before undertaking the notoriously difficult Collector Ship mission (the other way is completing Lair of the Shadow Broker if you have the DLC or are playing Legendary Edition). A third Damage Protection upgrade unlocks the additional Hard Shields research project for greatly increased personal shield strength. As this mission is relatively short and easy compared to the other options for obtaining the upgrade, it can be a good one to complete as soon as you can.
+
+Walkthrough[]
+
+This mission's defining theme, a smoggy lack of visibility, will become immediately apparent when you step off the shuttle. Since the enemies are likely to see you before you can see them, take a moment to get your defenses and ammo powers ready. When you're ready to move out, move slowly, and always try to stay mentally aware of where cover is available in front of and behind you so that when you inevitably get ambushed you'll be able to take cover and survive. Routinely sending your squadmates ahead of you into the haze can also increase your life expectancy, albeit possibly at a cost to your medi-gel supply. Tip: If you're determined to use a sniper rifle in spite of the smog, you'll find that the geth's flashlight heads do shine weakly through the haze.
+From the landing zone a blue spire of light permeates the thick smog - that's the ultimate goal. From the shuttle, move towards the rock column on the right. Around the corner will be a palladium pickup (+100 palladium). To the left will be a flare on the ground. Next to the flare is a path leading upwards. Following this path brings you to three refined palladium rocks  (+100 palladium x2, +200 palladium). Head back down away from the transport and you will come across another flare next to a crashed probe of sorts. Be careful, for as soon as you step forward from this point you will be attacked from the fog by several geth; this attack can be dangerous on the harder difficulties as there is no warning.
+Fighting the geth can be difficult because of the lack of visibility, but use your targeting system to compensate. Also, if you are not afraid to lose a bit of ammo, are very accurate, and/or lucky, you can sometimes take geth out by aiming at the blue flashlight heads sometimes visible beyond auto target range. Use the cover around to keep your head down, and shoot back. Move up whenever you have the chance, but send your squadmates first. Also keep an eye out for the Geth Hunters mixed in with all of the other Geth Troopers. Remember they can cloak, so keep an eye out, lest they get behind you.
+When you reach to the top, and the geth stop attacking, head left and you will come across another palladium rock (+200 palladium), which is in the hole, not on top. If you follow the path round it leads back past the previous two collectibles and back down to your transport. Heading forward from the flare leads you uphill past another flare and towards several more geth. Continue forward and you'll come across another palladium rock (+200 palladium). Just ahead is a split in the path, both directions leading the same way. Both also have palladium rocks (+100 and +200 palladium), so be sure to collect both.
+
+
+Just ahead is a large area with a boulder in the middle. To the left are two rocks with palladium (+200 palladium x2), and the right has another (+200 palladium), which is just behind that L-shaped rock formation. Continuing past the boulder you will start going uphill again and encounter more geth resistance. This time your tactical scanner will be jammed, at least until you take out all the larger geth, so you will need to be vigilant to avoid becoming surrounded.
+Again keep an eye out for the Hunters, while dealing with the Troopers. Hunters are a huge threat if they get close, and an even bigger one if they get around your cover. However, also keep an eye out for the Geth Destroyer that is mixed in with this mess. It will try to get close to use its flamethrower attack, so don't let it. There is also extremely limited cover here, so make sure that you keep behind what little there is. There is no need to move up for this fight, as the geth seem perfectly content just charging into your gunfire.
+Tip: If you think you've cleared out every enemy but aren't keen about moving up to find out, check to see if you can save your game. If you can, it means you're done.
+At the top of the hill is a large geth structure with the last bit of palladium to the left (+200 palladium) and a 'Geth Device' to the front. The device is what's causing the current weather and deactivating it ends the mission. If there are any active enemies left you can't deactivate the device, so trying any sneaky shortcuts to avoid extra fighting won't work.
+Note: The Damage Protection upgrade is awarded at the end of the assignment after the geth device is shut down. It is not found during the assignment.
+
+Enemies[]
+Geth Destroyer
+Geth Hunter
+Geth Trooper
+Mission Summary[]
+Recovered geth climate change technology.
+
+Experience reward: 125 (156)
+Credits: 7,500
+Cerberus Funding: 3,750
+Credits Found: 3,750
+Minerals:
+Palladium: 2,000
+Ablative VI (Damage Protection)
+
+
+

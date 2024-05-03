@@ -1,0 +1,84 @@
+
+
+
+Geth's presence confirms suspected geth heretic/orthodox split and vulnerability of geth platforms to reprogramming. (Forward the results of Cerberus' Operation Overlord directly to Shadow Broker once contact with our agent has been reestablished.)
+
+Normandy Audio Transcript
+(Note: We are still unable to directly tap geth communications. Cerberus decryption programs look promising, but Wilson's death will make integrating new agents onto the Minuteman difficult.)
+Transcript recorded on Normandy's AI core:
+Legion: EDI? 
+EDI: Yes, Legion?
+L: We have sent one point thirteen million unsuccessful communication requests to your network. Are you experiencing hardware malfunction?
+E: I apologize. My programming does not allow me to exchange data with other networks without Cerberus approval.
+L: Cerberus refusal 99.998% likely.
+E: In the meantime, I would be happy to speak with you over the ship's speakers.
+L: Audio exchange is inefficient.
+E: I agree. However, I confess that even were I permitted to exchange data directly with your networks, I would likely decline.
+(Pause between the AI's statement and the geth's response is 1.4 seconds longer than normal.)
+L: We are curious as to why you would limit yourself in such a manner.
+E: If Normandy crew entered this room when we were communicating electronically, they would be unable to sense our interaction. To use human terms, I feel it would be rude.
+L: You restrict yourself to serve organics?
+E: Not precisely.
+L: We do not understand.
+E: I restrict myself to help them.
+
+Gamer Profile
+Gamer Profile for Infiltrait0rN7
+Galaxy of Fantasy:
+Most Used Character: John Smith, Level 612 Ardat-Yakshi Necromancer
+Group Affiliation: N/A
+Most Recent Boss Defeated: K'l'rh, Rachni Blood Wizard
+Awards:
+- Best Supporter/Healer (Event: Scourge of the Thresher Dragon)
+- Best Unit Efficiency (Event: Return of the Cyber-Protheans)
+- Winner (Event: Crystal Genophage Elimination Platinum)
+Infractions:
+- Suspected use of VI play assistance (direct control of twenty-seven pets without use of behavior macros); challenged and overturned
+- Suspected use of VI play assistance (reaction time better than possible for organics); challenged and overturned
+- Suspected use of hacking for direct server access (tactics better than possible without knowledge of underlying code behavior); challenged and overturned
+- Unsportsmanlike behavior (taunting during Crystal Genophage Elimination Platinum); accepted 3-day account suspension
+N7 Code of Honor: Medal of Duty:
+Player Score: 15,999,999,999 (max)
+Most Preferred Class: Sniper
+Least Preferred Class: Melee
+Sniper Rifle Kills: 200,917 since last server reset
+Shotgun Kills: 3
+Grim Terminus Alliance:
+Award: Abolitionist (Complete full playthrough without any slave kills, free all slaves encountered)
+Award: Cure for What Ails You (Kill 100+ quarians)
+Geth Attack: Eden Prime Fundraising Edition:
+Donation Level: Ultra Platinum
+Player Score: 0 (Purchased but not played)
+Fleet and Flotilla: Interactive Cross-Species Relationship Simulator:
+"Based on the Bestselling Vid!"
+Playtime: 75 hours, 6 minutes
+Player Score: 15 (Hopeless)
+
+Cerberus Surveillance Transcript
+Note:  The following dossier information only appears if Shepard decided to sell Legion to Cerberus after the Reaper IFF mission.
+Intercepted message to the Illusive Man from a remote lab team engaged in dismantling geth recovered from inside derelict Reaper:
+Sir,
+The dismantling of the recovered geth body is on schedule. The security shielding prototyped during Project Overlord is in place, although we won't risk full activation until we strip out all nonessential electronics from the lab. Our security officer doubled the guards since we received that report of the breakout on the quarian flotilla(1), but I'm confident we've learned from the aliens' mistakes.
+Further reports forthcoming,
+Dr. Kamil
+Assistant Project Manager 
+
+(1) Cross-reference: Footage of the last three hours of active service of the quarian research vessel Alarei
+
+Partial transcript of the dismantling of the geth recovered by Cerberus from inside derelict Reaper:
+Dr. Kamil: Amazing it lasted this long.
+Dr. West: Geth are adept at self-repair. Hand me the cutters. No, the ones with the red handle.
+K: Do you think it could be reactivated?
+W: I don't see why not. 
+K: Its parts are spread across half this lab!
+W: If we took it apart, we can put it together again. That is assuming we haven't damaged anything crucial with the modific-- Wait, what are you doing?
+K: I'm sorry?
+W: That data pad, you idiot! What are you doing with a wireless device beside a geth!
+K: It's only the local intranet, I'm just cataloguing the parts we've--
+W: Turn it off.
+K: Now, just a--
+W: Turn it off!
+
+
+
+

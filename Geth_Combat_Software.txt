@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+Geth Combat Software
+
+
+
+
+
+								Single-player
+							
+
+
+
+
+
+Type
+Heavy Weapon
+
+
+Location
+Rannoch: Geth Fighter Squadrons
+
+
+Fire Mode
+Automatic
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+200
+∞
+
+
+
+
+
+
+
+The Geth Combat Software is a heavy weapon that appears in Mass Effect 3. 
+During Commander Shepard's experience inside the geth consensus, Legion/Geth VI provides "combat software" capable of removing the Reaper code. The software is represented as a handheld energy weapon, so as to make it more "familiar" and easy to use for Shepard. The ammunition replenishes while the weapon is not in use.
+
+Acquisition[]
+Singleplayer
+The weapon is only available during the mission Rannoch: Geth Fighter Squadrons. It cannot be taken outside of the geth consensus.
+
+Multiplayer
+The "weapon" is exclusive to singleplayer.
+
+Player Notes[]
+Holding down the "Fire" button unleashes a rapid stream of shots, rather than charging.
+There are no enemies encountered during the mission. The combat software is only used to clear enough of the infected orange blocks to create a path or move on to the next area.
+After a certain distance, the gun is so inaccurate as to be useless, requiring being rather close to the target code. However, given that the only reason to use the gun is to clear away obstacles, this is not as bad of a problem as a combat-oriented weapon, but it does make it more difficult to destroy farther-off sections of code.
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

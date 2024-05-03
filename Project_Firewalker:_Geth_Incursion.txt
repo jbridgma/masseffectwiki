@@ -1,0 +1,82 @@
+
+
+
+Data reveals that Dr. Cayce was interested in the anomalous weather patterns on the planet Lattesh. He had scattered probes on the planet's surface in the hope that the unnatural atmospheric conditions might be related to the Prothean technology. If Cerberus could recover the data from those probes, it could shed some light on Dr. Cayce's research.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Completion
+
+
+4 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Project Firewalker: Rosalie Lost
+
+This assignment is acquired after the Hammerhead's retrieval from Zeona. A new entry in the journal indicates Shepard should head to Lattesh (Chomos system, The Phoenix Massing cluster) to start the assignment. Scanning the planet reveals an anomaly, returning no signal.
+These notes are displayed after scanning the planet:
+
+
+“Planetary scans detect signals from sensor pods left on the planet's surface. These pods may contain valuable data. Warning: Surface temperatures are extremely low. Advise keeping Hammerhead exposure to the cold at an absolute minimum.”
+
+
+Preparation[]
+Shepard will be given a chance to choose squadmates, however, aside from a mission complete comment, the choice does not make any difference as the mission is completed entirely within the Hammerhead.
+
+Walkthrough[]
+In spite of its name, no combat takes place during this assignment. What you are in for, instead, is a race against time. 
+The cold of the landing site is enough to freeze the Hammerhead’s engine. You must scan all 10 sites before the engine freezes and results in a premature end to the mission; this is made more difficult by the Hammerhead's speed decreasing as the engine cools. Recommend use of boosters during the mission. Also be careful to avoid running into objects, as it will reduce the engine temperature further.
+The mission begins with the squad in the Hammerhead. Shepard must pilot the Hammerhead to ten different nodes, each of which must be scanned. Remember, speed is of the essence in order to scan all of them before the engine freezes. To find the sites look for the red pillars of light. Scanning each node restores some heat to the engine (approximately 20-25%, more if the engine is nearly frozen), allowing the Hammerhead to reach every node. The sixth and seventh nodes are on the right and can be missed if you don’t look carefully enough; there is also a tunnel to the right of the eighth node that is easy to miss. The final node requires you to use the jets to reach. It is on an outcropping above the canyon and requires a U-turn before you can get to it.
+Note:  If the engine freezes before all nodes are retrieved, the mission still concludes (no critical mission failure), and the Hammerhead returns to the Normandy. Full mission experience is still awarded; only the Cerberus Funding portion of the reward is lost.
+
+Completion[]
+After the completion of the mission, Shepard will receive this e-mail:
+Atmospheric data received
+
+
+
+
+From: Project Firewalker
+
+Commander,
+
+A very capable team is analyzing the data you gathered from the geth's research into atmospheric change. We hope it may open up new avenues for terraforming procedures for future colonies.
+
+The tech used in the beacons also contains communication innovations that should help us develop better systems to reduce atmospheric noise.
+
+
+There is no evidence of Prothean activity on this planet.
+
+
+Mission Summary[]
+Atmospheric data recovered from all 10 nodes.
+
+Experience reward: 125 (156)
+Credits: 2,500
+Cerberus Funding: 2,500
+Minerals:
+Palladium: 5,000
+
+Firewalker Assignments Navigation
+
+
+← Previous Assignment
+
+Assignment Index
+
+Next Assignment →
+
+
+Project Firewalker: Survey Sites Located
+
+Assignments
+
+Project Firewalker: Volcano Station
+
+
+
+

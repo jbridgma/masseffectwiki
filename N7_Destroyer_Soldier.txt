@@ -1,0 +1,177 @@
+
+
+
+
+
+N7 Destroyer Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Human
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Earth
+
+
+Abilities
+T5-V BattlesuitToughness/MeleeDecreased Mobility
+
+
+These soldiers are the go-anywhere, fight-anything special forces of the Alliance that were trained at the Interplanetary Combatives Academy in Rio de Janeiro, Brazil. They had to survive combat situations "in an admirable and effective fashion" to receive the N7 rank. Many N7s now train other species in anti-Reaper asymmetric warfare.
+The Destroyer's T5-V Battlesuit gives these strong-but-slow soldiers mech-like protection. Driven by eezo-assisted actuators, these frontline troopers carry heavy weapons onto the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+
+2.1 Notable mechanics
+
+
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 1000 / Health: 500
+
+
+Class: T5-V Battlesuit
+
+
+ Multi-Frag Grenade
+
+
+
+
+ Hawk Missile Launcher
+
+
+
+
+ Devastator Mode
+
+
+
+
+ T5-V Internal Systems
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – The N7 Destroyer slashes at a small area in front of him with an omni-blade.
+Heavy Melee – The N7 Destroyer stomps the ground, sending nearby weaker enemies flying.
+Grab (Omni-Blade Stab) – The N7 Destroyer Soldier drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge – When Devastator Mode is inactive, the N7 Destroyer Soldier leaps (left) or shuffles (right) to evade incoming attacks.
+The N7 Destroyer Soldier can take cover, but cannot roll from cover to cover.
+
+Notable mechanics[]
+The Destroyer cannot perform an evasion move either forwards or backwards. When Devastator Mode is active, no evasion move can be performed.
+The Destroyer's regular melee attack is effectively a Human Soldier's heavy melee attack and takes about as long to execute, but it is performed in place, neither automatically tracking enemy movement or lunging at the target to close distance, meaning it will often miss evasive opponents. It can hit additional secondary targets in front of the Destroyer with reduced damage.
+The heavy melee is a ground stomp that causes a forceful shockwave in a decent-sized area around the Destroyer which staggers most infantry enemies and can knock unshielded ones to the ground.
+The Destroyer has a very high level of stun resistance to any enemy attack that hits him in the front. When Devastator Mode is active, this stun resistance becomes omni-directional.
+The Destroyer Soldier is always exempt from the movement penalty caused by firing certain weapons such as the Reegar Carbine, Striker Assault Rifle, and the M-76 Revenant.
+Player Notes[]
+General Notes[]
+The N7 Destroyer is one of the most weapon-centric classes. Its only power that operates on a cooldown is Devastator Mode. This allows the Destroyer to ignore recharge speed bonuses with respect to weapon loadout or any mod that increase the weight of the weapon.
+Devastator Mode's increases to the player's stun resistance and magazine size make the Destroyer extremely effective with any weapon with a damage ramp-up mechanic from continuous fire, such as the Particle Rifle, Geth Plasma SMG, N7 Typhoon, and Striker Assault Rifle.
+The Hawk Missile Launcher ability, while named so, acts more like Concussive Shot. It is unaffected by weight, which can be an advantage or disadvantage depending on if you have heavy or light weapons. It has  damage comparable to Concussive Shot, and an equal or greater ability to stagger-stun enemies, making it quite effective at suppressing enemy attacks and movement. Despite the description saying it will take half of your shields, the Missile Launcher will only drain 500 shielding or 100 if evolved. This is because the Missile Launcher will calculate its shield drain off the class' base shield of 1000, not after it has been modified with upgrades from Fitness, Devastator Mode, gear, and equipment.
+It is wise to be selective about when to activate the launcher as its primary use is for "crowd control"; it may not be needed in engagements with powerful enemies that can't be staggered by the missiles, and it can be detrimental as it can trigger the power-blocking abilities of Praetorians, Banshees, and Phantoms, hindering teammates from doing damage with their abilities.
+Because the Destroyer is one of the slowest characters when Devastator Mode is active, cover should be used wisely. Even though the Destroyer has relatively high shields, on Gold and Platinum enemies can still shred you quickly as the Destroyer lacks damage reduction passive abilities such as Tech Armor. Also, if you've invested points in it, using the Hawk Missile Launcher power will cut your shields by up to 500 points, making you that much more fragile.
+When used properly, Multi-Frag Grenade can be a very devastating tool. If properly upgraded and combined with the war fighter package (assault rifle damage and 1-2 extra grenades) the grenade attack will devastate multiple enemies and is an effective tool for wearing down armor on Brutes, Banshees, Atlas, Scions, Praetorians, and Ravagers.
+If upgraded, the grenade attack can launch up to 3-5 grenades every time the corresponding key is pressed (3-6 grenade capacity if properly equipped and upgraded) at the cost of one, allowing the Destroyer to rain down death from above.
+It is also an excellent tool when attempting to reach a fallen squad mate. The multiple explosions often stagger enemy combatants and prevent them from executing fallen squad mates. This can also disrupt super elite enemies such as Banshees attempting sync kills on teammates, saving them from instant death.
+Finally, the grenades make for a good countermeasure if you're cornered. Aiming at the ground will mow down the enemies around you; if you're being pressured by a larger enemy—such as an Atlas or Brute—unloading the grenades at point-blank range will detonate every grenade on that enemy, for massive amounts of swift damage. An upside to this tactic is that it will often stagger enemies, preventing them from using their instant-death attacks.
+Cerberus[]
+The Destroyer is very effective against Cerberus. The only problem you will encounter is with Phantoms when they close in on you. If you can keep them at a distance you shouldn't have much of a problem. Devastator Mode's upgrades to magazine size allows you to have more shots with the Reegar Carbine or the Acolyte without having to reload, and those weapons are excellent for stripping Phantoms' barriers while keeping them at bay; once their barriers are stripped, a heavy melee stomp can knock them off their feet if they get too close.
+The Hawk Missile Launcher will help you counter Phantoms by forcing them to dodge, trigger their protection bubble, or stagger them during the fight. As long as you can give yourself enough time until the next shot goes off, they will have a hard time reaching you. If they do reach you or are about to, it is advisable to blast the ground with a Multi-Frag Grenade, as it deals a tremendous amount of damage and the force can stagger multiple enemies in an area.
+Collectors[]
+Multi-Frag Grenade is very useful against Praetorians and Scions.
+The Hawk Missile System and your heavy melee shockwave are both very useful for keeping Abominations and Seeker Swarms at bay, though be very careful about accidentally killing Possessed Abominations with the missiles at the wrong time.
+Geth[]
+The Destroyer can fight the geth just as well as the other three factions, since his chances of success depend heavily upon the weapons he's using. It is recommended that you stick with the Reegar Carbine and also use some type of hard hitting assault rifle like the N7 Typhoon or the Cerberus Harrier. The geth for the most part will fall before your hail of bullets and only the Geth Prime will end up becoming a problem. Should you keep your distance and stay behind cover, Primes shouldn't be a problem either. This is especially true since the Geth's main strength is being able to stagger/stun you, when Devastator Mode is activated, you become immune to all forms of stun and stagger. This eliminates the Geth's only real means of taking you and (if done correctly) your squad down. When the others are unable to act, you will be dishing out the damage right back at the Geth, and since the Geth have no instant-kill moves, they can be rendered helpless.
+On Bronze, three or four blasts of Multi-Frag Grenade at point-blank range will easily kill a Geth Prime from full statistics.
+Reapers[]
+As with Cerberus, if you have the right loadout of weapons and equipment you will do well against the Reapers. The Destroyer actually excels against Brutes as long as you aim for the Brute's unarmored parts.
+Watch out for Banshees, as their one hit kill moves are hard to dodge with the Destroyer and are generally hard to take down no matter what class you're using.
+When a Banshee is chasing you down, it would be a great idea to turn the Devastator Mode off so that you can backpedal from a banshee faster. This helps greatly in avoiding their one hit kill move. If the Banshee is far away from the player or going after someone other than the Destroyer, Devastator Mode should be turned on to benefit from weapon bonuses.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

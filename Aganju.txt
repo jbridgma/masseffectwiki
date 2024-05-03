@@ -1,0 +1,102 @@
+
+
+
+
+
+Aganju
+
+Region
+Milky Way / Hourglass Nebula / Osun
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+3.2 AU
+
+
+Orbital Period
+5.7 Earth Years
+
+
+Keplerian Ratio
+1.009
+
+
+Radius
+10,008 km
+
+
+Day Length
+23.3 Earth Hours
+
+
+Atm. Pressure
+0.02 atm
+
+
+Surface Temp
+−93 °C 
+
+
+Surface Gravity
+5.3 g
+
+
+Mass
+12.953 Earth Masses
+
+
+Location: Milky Way / Hourglass Nebula / Osun System /  Third planet
+
+Prerequisite: Priority: Thessia (Mass Effect 3)
+
+Description[]
+Aganju is an extremely large rock planet with a thin atmosphere of hydrogen and carbon monoxide. Abundant in both copper and platinum, the crust has been scanned by mining bots from Erinle, but the specialized equipment to work in Aganju's heavy gravity (more than 5 G's) has created prohibitive costs, and so Aganju is largely unexploited.
+
+Mineral Deposits[]
+Initial Scanner Result: Good
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+High
+
+14,600
+
+
+Platinum
+
+Medium
+
+7,100
+
+
+Iridium
+
+Medium
+
+7,500
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+This article is about loyalty in Mass Effect 2. For loyalty missions in Mass Effect: Andromeda, see Loyalty Missions (Mass Effect: Andromeda).
+
+Mass Effect 2 features a Loyalty system, whereby completing a unique mission of personal importance for each member of the squad unlocks that character's fourth power as well as their alternate outfit. Loyalty additionally has an effect on the end game mission. Abilities unlocked through loyalty can also be learned by Commander Shepard using the Advanced Training research upgrade, though only one may be learned at any given time, and can also be accessed when creating a new Shepard or importing a Shepard from the original Mass Effect. 
+Note: The loyalty system does not carry over to Mass Effect 3, but some aspects of it remain in that game's unique Reputation system. Also, gaining the loyalty of certain characters in Mass Effect 2 can have significant story impact for those characters if they appear in the next game.
+
+
+
+
+
+
+
+“The chances of surviving are… slim.” — Spoilers for Mass Effect 2 follow.
+
+
+
+
+Contents
+
+1 Acquiring Loyalty
+
+1.1 Failing to Earn Loyalty
+1.2 Loyalty Mission Order
+
+
+2 Confrontations
+3 Loyalty Powers
+4 Trivia
+5 References
+
+
+Acquiring Loyalty[]
+See also: Missions#Loyalty missions
+At any time after completing the mission on Horizon, you will be informed by Kelly Chambers that members would like to talk with you. The trigger for all loyalty missions is largely the same: every next  loyalty mission is triggered simply by completing a mission and/or an assignment with a "Mission Complete" screen. The 'small' assignments from the Normandy, Omega, Illium, Tuchanka and the Citadel do not count; also, Overlord, although made up of four assignments, counts as one. However, Grunt's, Samara's, Tali's, Thane's and Legion's missions have an additional trigger: if by that point all but one character has been recruited, and all other squad members'  loyalty missions have been completed, then the  loyalty mission for the aforementioned characters (whoever is recruited last) will become available directly after them joining the crew (completing a relevant Dossier mission, or, in case of Grunt and Legion, waking the character).
+Completing a  loyalty mission will cause the relevant squad member to become loyal to you, enabling an alternate outfit, a bonus power, and improving their chances of survival during the suicide mission (provided you make the correct decisions during the mission). To engage a loyalty mission, the relevant character must be brought in your squad, with the exception of Samara, who shows up at the appropriate times (though it is, however, a good idea to bring her along).
+
+Failing to Earn Loyalty[]
+For some squad members, it is possible to make choices during their personal mission that will prevent their becoming loyal, even though the mission is considered complete. These missions are Tali's, Zaeed's, Thane's, and Samara's loyalty missions. 
+
+Tali: During Tali's loyalty mission, providing the evidence that Tali's father was guilty of treason will prevent her from becoming loyal.
+Zaeed: Choosing to save the workers during Zaeed's loyalty mission will prevent him from becoming loyal (unless a high-level Charm is used at the end of the mission). Leaving Zaeed pinned under the beam will kill him at the end of his loyalty mission (this option is only available if you have already gone through the Omega 4 Relay, you choose to save the workers, and you have at least 2 other squadmates left).
+Thane: Not updating Thane during his loyalty mission while following  Joram Talid on the catwalks, resulting in Kolyat killing Talid.
+Samara: Not attracting or losing Morinth's attention during Samara's loyalty mission will cause Morinth to leave and prevent Shepard and Samara from being able to trap her, resulting in Samara not becoming loyal.
+Loyalty Mission Order[]
+You will acquire the 10 loyalty missions in the following order: Jacob, Miranda, Jack, Mordin, Grunt, Garrus, Samara, Tali, Thane, Legion.
+If you do not recruit/awaken a squad member, their  loyalty mission will be skipped and the next loyalty mission from the sequence will be available for acquisition instead. You will acquire the skipped loyalty mission after completing an assignment or mission upon recruiting the squad member (see above for exceptions). For example, if you have Samara's and you haven't recruited Tali, then you will get Thane's instead.
+Zaeed's and Kasumi's loyalty missions are automatically available upon recruitment (their respective Dossier missions are just short dialogue sequences without any combat), and can be completed before the mission on Horizon.
+
+Confrontations[]
+After completing their respective loyalty missions (without using the evidence, in Tali's case), two pairs of team members will end up in an argument:
+
+Legion and Tali argue because Legion scanned Tali's omni-tool for information on the Flotilla and wants to transmit it back to the geth fleet
+Jack and Miranda argue about Cerberus' and the Illusive Man's responsibility for the experimentation on Jack
+This will happen as soon as the Commander returns to the Normandy after finishing the loyalty missions of both clashing parties, and Shepard will automatically be brought in to settle the dispute. Shepard can choose to support one squad member during the disagreement, but the other's loyalty will be lost as a result.
+In order to placate both squad members, it is necessary to choose a Charm or Intimidate conversation option.  If Shepard does not have enough Paragon or Renegade points, the options will be grayed out, forcing a choice between the two squad members. Note that because of the way morality works in Mass Effect 2 the option could be grayed out even if the Paragon or Renegade bar appears "full" - meaning Shepard has not achieved a high enough percentage of the possible morality points that have become available to that point in the game. 
+It is possible to regain the lost loyalty of a squad member with another Charm or Intimidate conversation option later. However, the team member whom Shepard does not support will no longer respond to romantic overtures, even if their loyalty is later regained. Losing the loyalty of one of the team members will not result in the loss of their alternate outfit or special power, nor the Commander's access to it through the "Advanced Training" research project.
+
+Loyalty Powers[]
+Summary list of bonus powers unlocked after each loyalty mission is completed successfully.
+
+Armor Piercing Ammo (Garrus)
+Barrier (Jacob)
+Dominate (Morinth)
+Energy Drain (Tali)
+Flashbang Grenade (Kasumi)
+Fortification (Grunt)
+Geth Shield Boost (Legion)
+Inferno Grenade (Zaeed)
+Neural Shock (Mordin)
+Reave (Samara)
+Shredder Ammo (Thane)
+Slam (Miranda)
+Stasis (Liara) - Requires completion of Lair of the Shadow Broker DLC (LE: included with Legendary Edition)
+Warp Ammo (Jack)
+Trivia[]
+In development was a confrontation between Mordin and Grunt similar to confrontations mentioned in the article. However, this was cut[1].
+
+References[]
+
+↑ http://masseffect.wikia.com/wiki/Mass_Effect_2_Cut_Content#Mordin_and_Grunt_Loyalty_Confrontation
+
+
+
+
+

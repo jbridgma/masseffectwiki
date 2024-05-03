@@ -1,0 +1,99 @@
+
+
+
+
+
+Plasma Charge System
+
+
+
+
+General Info
+
+Rarity
+Ultra Rare
+
+
+Aug Type
+Gun Behavior
+
+
+RD Cost
+200
+
+
+Tech Type
+
+
+
+
+Plasma Charge System is an augmentation in Mass Effect: Andromeda.
+
+Contents
+
+1 Compatibilities
+2 Description
+3 Mechanics
+4 Strategies
+5 Restrictions
+
+
+Compatibilities[]
+Guns - This augmentation can be applied to gun-type weapons.
+Description[]
+Non-shotgun weapons: Fires direct-line explosive plasma bolts; charges weapon to fire a devastating blast
+Shotgun: Fires direct-line explosive plasma bolts (each less damage than normal rounds), charges weapon for a more devastating blast
+Mechanics[]
+The Plasma Charge System augmentation interferes with the functionality of the Seeking Plasma System and the Sticky Grenade Launcher augmentations. The Plasma Charge System SHOULD NOT be combined with either of the two augmentations previously mentioned. 
+Note:  Despite the Gun Behavior augmentation text stating that "You may apply one such augment to a gun during the development process", both of the Gun Behavior augmentations - Plasma Charge System and the Vintage Heat Sink - can be applied to the same item.
+
+Strategies[]
+Restrictions[]
+The following weapons are unable to use this augmentation: 
+
+Lanat
+Zalkin
+
+
+
+
+
+
+Mass Effect: Andromeda Augmentations
+
+
+
+
+General
+
+Anti-Armor Module • Biotic Damage Booster • Biotic Recharge Module • Combat Power Module • Combat Recharge Module • Duration Boost Module • Kinetic Coil • Medi-Gel Regulator • Newtonian Multiplier • Reaction Displacer • Reaction Optimizer • Shield Accelerator • Shield Booster • Shield Bypass Unit • Shield Generator • Support Power Module • Tech Damage Module • Tech Recharge Module
+
+
+Gun Behavior
+
+Plasma Charge System • Vintage Heat Sink
+
+
+Gun Fire Type
+
+Automatic Fire System • Burst Fire System • Single Fire System
+
+
+Gun Projectile
+
+Beam Emitter • Electrical Conduits • Grenade Launcher • Ricochet System • Seeking Plasma System • Sticky Grenade Launcher
+
+
+Mod Slots
+
+Double Mod Extension • Mod Slot Extension
+
+
+Special
+
+Aerial Lubricant • Aerial Performance Optimizer • Aerial Stabilizer • Battlefield Assist Module • Bio-Converter • Concentration Module • Coolant Unit • Cryo Condenser • Electrical Conduits • Equilibrium Regulator • Heat Inducer • Power Booster • Rebalanced Field Coils • Shield Disruptor • Shield Oscillator • Shield Sensors
+
+
+
+
+

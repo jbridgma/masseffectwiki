@@ -1,0 +1,66 @@
+
+
+
+
+
+H-202
+
+Region
+Andromeda / Heleus Cluster / Kindrax
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+2.8 AU
+
+
+Orbital Period
+4.6 Earth Years
+
+
+Keplerian Ratio
+1.037
+
+
+Radius
+9,828 km
+
+
+Atm. Pressure
+0.00 atm
+
+
+Surface Temp
+−82 °C 
+
+
+Satellites
+1
+
+
+Location: Andromeda / Heleus Cluster / Kindrax System /  Fourth planet
+
+
+Description[]
+Nicknamed "Gorgeous" by the science team, H-202 has a surface composed mainly of tin and boron. Traces of organic life are present in its rings; they may have been formed from a destroyed satellite.
+
+Anomaly[]
+Starship Wreckage[]
+DATA:
+
+Ship ident: Unknown
+Ship name: Unknown
+Crew complement: Unknown
+Status: N/A
+ANALYSIS:
+This debris appears to be from an Initiative shuttle. Pieces of powerful scanning equipment drift among shards of hull.
+Awards random Salvage when scanned.
+
+
+
+

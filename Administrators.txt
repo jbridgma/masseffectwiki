@@ -1,0 +1,73 @@
+
+
+
+
+Contents
+
+1 Introduction
+2 Who are this wiki's administrators?
+
+2.1 Other roles with special permissions
+
+
+3 How do I use administrator powers?
+4 Becoming an administrator
+5 What can administrators not do?
+6 Fandom staff
+
+
+Introduction[]
+Different user groups have access to different functions of the site. While anyone can do most things on the wiki, including reading and editing, administrators (or sysops) can access a few additional functions:
+
+Deleting and undeleting pages, page histories, and uploaded files.
+Locking (protecting) a page so it cannot be edited or renamed by users without admin rights.
+Blocking IP addresses or user names from editing.
+Quick "rollback" (reverting) of undesirable edits.
+Editing the interface by changing system messages and skins.
+A bureaucrat has the ability to grant other users bureaucrat or administrator rights. On the Mass Effect Wiki, bureaucrats also have administrator access.
+
+Who are this wiki's administrators?[]
+Recently active bureaucrats
+Elseweyr (talk)
+Recently active administrators
+Cattlesquat (talk)
+DeldiRe (talk)
+Trandra (talk)
+For a complete list of users with administrator access, see Special:Listusers/sysop.
+
+Inactive bureaucrats
+SpartHawg948 (talk)
+Inactive administrators
+Commdor(talk)
+DRY (talk)
+JakePT (talk)
+Lancer1289 (talk)
+Teugene (talk)
+Tullis (talk)
+Other roles with special permissions[]
+Senior editors are trusted and accomplished editors that have been granted rollback rights.
+Thread moderators can receive user reports on posts or comments made on the Community Forums and take appropriate actions including locking or deletion. All admins have thread moderator status.
+Chat moderators have moderation privileges on the Mass Effect Wiki's Discord server. All admins have chat moderator status.
+BioWare staff are either current or former employees of BioWare that have been known to contribute or comment on the Mass Effect Wiki. They have no special privileges per se, though they almost always have "canon" authority on any issue relating to the lore or gameplay of the Mass Effect series.
+Recently active Senior Editors
+Neo89515 (talk)
+Recently active Thread Moderators
+Neo89515 (talk)
+Joupena (talk)
+How do I use administrator powers?[]
+See the administrators' how-to guide for a guide on using admin functions.
+
+Becoming an administrator[]
+For you to become an administrator, someone with bureaucrat access must make you one. For information about what we look for in administrator candidates and submitting a request, refer to Mass Effect Wiki:Requests for Adminship.
+
+What can administrators not do?[]
+Administrators should not use their administrator powers to settle editing disputes; for example, to lock a page on a version he or she prefers in an editing dispute that isn't vandalism. Administrator powers should be used to help keep the wiki clear of vandalism, spam, and users who make malicious edits, but not for simple disagreements between users acting in good faith. Ideally an admin shouldn't be considered "in charge". The ideal admin is just someone who is trusted to have a few extra buttons and to use them for the benefit of the wiki community.
+
+Fandom staff[]
+Fandom staff members generally have full access to all Fandom. A Wiki Manager is a staff member assigned to a wiki as a first point of contact for Fandom staff. If you need to contact staff directly, see the Community Central contact page.
+
+Mass Effect Wiki Manager
+ReverieCode (talk)
+
+
+

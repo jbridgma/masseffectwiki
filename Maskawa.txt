@@ -1,0 +1,124 @@
+
+
+
+
+
+Maskawa
+
+Region
+Milky Way / Caleston Rift / Yakawa
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+2.0 AU
+
+
+Orbital Period
+2.8 Earth Years
+
+
+Keplerian Ratio
+1.02
+
+
+Radius
+7,105 km
+
+
+Day Length
+37.6 Earth Hours
+
+
+Atm. Pressure
+3.35 atm
+
+
+Surface Temp
+52 °C 
+
+
+Surface Gravity
+1.4 g
+
+
+Mass
+1.724 Earth Masses
+
+
+Location: Milky Way / Caleston Rift / Yakawa System /  Third planet
+
+
+Colony
+
+Species
+Volus
+
+
+Capital
+Sahime
+
+
+Colony Founded
+2098
+
+
+Population
+40250
+
+
+
+Prerequisite: Project Firewalker: Rosalie Lost (Mass Effect 2)
+
+Description[]
+A dense rock planet, Maskawa has a thick methane-ammonia atmosphere. Because of its similar conditions to the volus homeworld Irune billions of years ago when it first formed life, a large volus university, the Ten-Clan Academy, hosts symposia on the planet's surface. Unfortunately, despite their security precautions, pirates, organ-leggers, and slavers throughout the Terminus Systems have learned that kidnapped students and professors are a source of easy money. This only adds to the university's reputation as a visit or tenure at the Academy is a clear mark of commitment on any scientific resume.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+9,000
+
+
+Platinum
+
+Medium
+
+7,100
+
+
+Iridium
+
+High
+
+14,400
+
+
+Element Zero
+
+None
+
+0
+
+Trivia[]
+The planet could be named after Toshihide Maskawa, 1/4th recipient of the Nobel Physics Prize 2008. He and Makoto Kobayashi were jointly awarded for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature.
+
+
+

@@ -1,0 +1,245 @@
+
+
+
+Avitus Rix believes that Macen Barro, the turian Pathfinder, is still alive. He has recruited you to help find him.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Check your email
+2.2 Investigate anomaly on Elaaden
+2.3 Scan stasis pods for turian Pathfinder
+2.4 Investigate the powered stasis pod
+2.5 Contact Avitus via Tempest comm
+2.6 Meet Avitus at navpoint
+2.7 Speak to Avitus on Ark Natanus
+2.8 Explore the Natanus
+2.9 Investigate the console
+2.10 Investigate the console
+2.11 Find the SAM Node
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Turian Ark: Not Dead Yet
+
+Automatically started after Pathfinder Ryder has landed on Kadara Port, which completes the ON HOLD objective for the previous mission.
+
+Walkthrough[]
+Check your email[]
+Read the email from Avitus talking about a trail leading to the world Elaaden. Acknowledging it will provide the navpoint  for the next objective.
+
+
+
+
+
+Got a Lead on Ark Natanus
+To: Ryder
+From: Avitus Rix
+
+Ryder,
+
+I'm hearing rumors that scavengers found pieces of an ark on a planet called Elaaden. Might be nothing, but worth checking out.
+
+
+Avitus
+
+
+Investigate anomaly on Elaaden[]
+The navpoint is located in the northeast of the map in the Sea of Ataraxia. Head northeast of New Tuchanka Forward Station. 
+When you approach the navpoint, a short distance away a new objective and navpoint is added. 
+
+Scan stasis pods for turian Pathfinder[]
+Go to the small hill with debris and vehicles and the navpoint. You'll come under attack from Outlaws. Defeat them.
+Scan the 8 Cryogenic Stasis Pods for +10  each (+80 ). There are no life signs. However, one of the pods is still powered.
+
+Investigate the powered stasis pod[]
+Reading the logs on the Powered Stasis Pod reveals that it was ejected from Natanus long after the ark hit the Scourge. 
+Ryder says that the squad should finish scanning the pods for Macen and then report back to Avitus. Afterward, you receive +29 AVP  and +2% Elaaden viability.
+
+Contact Avitus via Tempest comm[]
+Head back to the Tempest to speak to Avitus. He has been receiving coordinates and numbers he believes from Macen via his implant and wants to investigate the location.
+
+Meet Avitus at navpoint[]
+The navpoint is in the Remav system - same as H-047c. H-047c was meant to be the turians' homeworld, but the world and the ark are both severely damaged by the Scourge. Avitus contacts you and requests to meet on the ark.
+
+Speak to Avitus on Ark Natanus[]
+There is no gravity on the ark and SAM says the hull is barely holding together. Avitus says it looks like whoever piloted that ark wanted to get to H-047c no matter what. Rather than speculating, the team should investigate the ark.
+
+Explore the Natanus[]
+When you're able to move around on the ark, there is a lootable container and a terminal in the first room. Note: There is no combat on the ark.
+
+
+
+
+
+H-047c
+To: Captain Dea Praeton
+From: Macen Barro, Pathfinder
+
+[Attachment: Habitat 5 Profile]
+
+Full report attached, but our new home's going to put Palaven to shame! 
+
+
+Macen
+
+
+
+
+
+
+
+RE: H-047c
+To: Macen Barro, Pathfinder
+From: Captain Dea Praeton
+
+Macen:
+
+What did I tell you about sending me science crap? Unless it's got charts and pictures, it's all gibberish to me. 
+
+Dea 
+
+
+P.S. You and Rix up for drinks after the goodbye party? I've got a special bottle of horosk I don't want just anyone sampling
+
+
+
+
+
+
+
+RE: H-047c
+To: Captain Dea Praeton
+From: Macen Barro, Pathfinder
+
+[Attachment: Habit 5 Profile V2]
+
+Now with more charts and pictures.
+
+As for drinks, we'll be there. You know how much Avi loves his horosk.
+
+
+Macen
+
+
+Scanning the Locked Door awards +10  and leads to an Ark Natanus Console to divert power to another door.
+Heading into the second room (Foyer), there is another lootable container and another terminal.
+
+
+
+
+
+Cryogenic Stability: Update
+To: Natanus Leadership
+From: Avitus Rix
+
+Just received confirmation: with the exception of the leadership and life support teams, all passengers have entered cryostasis and are sleeping soundly. Jacana is on her way up to you now to oversee the closure of your pods. If you haven't changed into your uniforms, do so now so that we hit our departure time.
+
+Once everyone is asleep, I will do one final round, then join you in the abyss.
+
+
+Rix
+
+
+
+
+
+
+
+Re: Cryogenic Stability: Update
+To: Avitus Rix
+From: Captain Dea Praeton
+
+No one tried to jump ship? Don't know if I'm impressed or nervous everyone's that confident in the mission.
+
+Don't stay up too late, Rix, or you'll be an old man by the time we reach Heleus.
+
+
+Dea
+
+
+
+
+
+
+
+Re: Cryogenic Stability: Update
+To: Avitus Rix
+From: Macen Barro, Pathfinder
+
+Avi,
+
+Jacana said it was fine if you oversaw my pod closure. I know I said I wouldn't go against procedure, but I want your face to be the last thing I see in the Milky Way. You can scold me while I enter cryo.
+
+See you soon,
+
+Macen
+
+
+Investigate the console[]
+On a console in the second room, you'll find an audio log from the ark's captain. The ark is taking serious damage from something (Ryder knows this must have been the Scourge) and she ordered evacuation of the ark.
+Head into the third room and open the left door. Scan the Debris for +10 .
+Interacting with the right door in the third room reveals that opening this door also requires a power diversion. Go back to the second room and interact with the Ark Natanus Console to power the door.
+Return back to the third door and open it to enter the fourth room (Atrium).
+
+Investigate the console[]
+Interact with the Ark Natanus Console. A cutscene starts and Macen is heard struggling to get to Avitus' pod.
+
+Find the SAM Node[]
+A new navpoint is added in the fifth room. Open the door and head into the room.
+You will have to interact with another Ark Natanus Console to divert power to the door. Opening the door starts a cutscene.
+The ark's SAM node is damaged. However, Ryder's SAM is able patch it up enough to learn that it was ordered by Macen to send the ark's coordinates to Avitus to make him come to the ark so the Natanus SAM could complete the transfer to make Avitus the new turian Pathfinder as Macen was dying.
+Ryder concludes that it's safest to move the ark's SAM to the Nexus before the transfer is made.
+You now have to decide to either convince Avitus to become the new pathfinder or not.
+
+Aftermath[]
+If you don't want to convince Avitus, Captain Nozomi Dunn will die during the crash-landing in Meridian: The Way Home. Four pathfinders are required to keep Nozomi alive and Avitus as a pathfinder makes the total four.
+One of two emails will arrive from Director Jarun Tann.
+If Avitus is the new pathfinder:
+
+
+
+
+Stasis pods aboard the turian ark
+To: Ryder
+From: Director Jarun Tann
+
+Ryder,
+
+Avitus Rix is leading a team to recover the stasis pods from Ark Natanus. For someone who wasn't keen to take the job, he's certainly enthusiastic now.
+
+If all goes well, we'll have saved the lives of 15,000 turians. No small achievement.
+
+
+Director Tann
+
+
+If Avitus refuses to be the new pathfinder:
+
+
+
+
+Stasis pods aboard the turian ark
+To: Ryder
+From: Director Jarun Tann
+
+Ryder,
+
+We've sent a team to recover the stasis pods from Ark Natanus. Unfortunately, we don't have a Pathfinder to oversee the endeavor. But without a suitable replacement for Macen Barro, we'll have to make do.
+
+If all goes well, we'll have saved the lives of 15,000 turians. No small achievement.
+
+
+Director Tann
+
+
+Rewards[]
++1330 XP
+
+
+

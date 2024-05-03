@@ -1,0 +1,336 @@
+
+
+
+The Pathfinder Ranger is a pistol in Mass Effect: Andromeda.
+
+
+Pathfinder Ranger
+
+
+
+
+
+
+General Info
+
+Category
+Pistols
+
+
+Rarity
+Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+25-32
+
+
+Rate of Fire
+700
+
+
+Max Clip Size
+75
+
+
+Max Ammo
+225-250
+
+
+Accuracy
+45-53
+
+
+Weight
+20-16
+
+
+
+
+
+
+Contents
+
+1 Description
+
+1.1 Features
+1.2 Strategies
+
+
+2 Stats
+3 Development
+4 Bugs
+
+
+Description[]
+This sub-machine gun feeds data directly to a Pathfinder's SAM, allowing adjustments to the weapon's balance, recoil, and heat buildup. The Ranger was subjected to intense weather conditions in an effort to damage its mechanisms. In dangerous environments, Pathfinders must have reliable tools.
+
+Features[]
+Like all weapons in the Pathfinder Elite Weapons Set, the Ranger is not available above Rank V.
+Despite being classified as a Rare weapon, the Ranger only has 2 augmentation slots.
+Strategies[]
+Stats[]
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+25
+
+700
+
+75
+
+225
+
+45
+
+20
+
+
+II
+
+27
+
+700
+
+75
+
+231
+
+48
+
+19
+
+
+III
+
+28
+
+700
+
+75
+
+237
+
+50
+
+18
+
+
+IV
+
+30
+
+700
+
+75
+
+244
+
+52
+
+17
+
+
+V
+
+32
+
+700
+
+75
+
+250
+
+53
+
+16
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Iron
+
+ Lithium
+
+ Element Zero
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+20
+
+80
+
+40
+
+10
+
+0
+
+
+II
+
+Level 6
+
+20
+
+90
+
+40
+
+10
+
+2
+
+
+III
+
+Level 11
+
+20
+
+100
+
+50
+
+10
+
+2
+
+
+IV
+
+Level 21
+
+30
+
+110
+
+50
+
+10
+
+2
+
+
+V
+
+Level 31
+
+30
+
+130
+
+60
+
+20
+
+2
+
+
+Total
+
+N/A
+
+120
+
+510
+
+240
+
+60
+
+N/A
+
+Bugs[]
+In the development menu, all iterations of the Ranger will be found grouped together in the Rank I area.
+Despite being fully automatic already, the Ranger can have the Automatic Fire System augmentation applied to it. Using this augmentation wastes an augmentation slot and there is no benefit to using this augmentation with this weapon.
+
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

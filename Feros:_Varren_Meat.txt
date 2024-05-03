@@ -1,0 +1,47 @@
+
+
+
+Davin Reynolds wants to solve the colony's food shortage by supplementing rations with varren meat. However, he cannot hunt safely until you remove the dangerous alpha varren.
+Alternative journal entry:
+You've killed what looks like the alpha varren. It's likely that someone back in Zhu's Hope will want to hear about this.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Enemies
+4 Bugs
+5 See Also
+
+
+Acquisition[]
+Prerequisite: Feros: Geth Attack
+
+Speak to Davin Reynolds inside the Borealis at Zhu's Hope. This also gives the Codex entry for varren if you haven't acquired it yet. This can be done at any time after eliminating the geth from the nearby tower. Reynolds complains the geth will be back, and if they don't kill the colonists hunger will. Inquiring if they need food gives the assignment, and he'll settle for nothing less than varren meat as flying in food supplies from offworld is nonviable: he wants Shepard's team to concentrate on the geth, and food is useless if the colonists are dead.
+Alternatively, this assignment can be acquired during or even after completing the main Feros mission by eliminating the alpha varren before talking to Davin. 
+
+Walkthrough[]
+As with most assignments in Zhu's Hope, the objectives are found in the tunnels below the settlement. Head towards the elevator to the Prothean skyway, and continue down the stairs beyond it. Several geth will need to be fought on the way, though they're immaterial to this assigmnent.
+
+Consulting your map in the tunnels, the varren are on a collapsed portion of the skyway, accessible thru a crossroads in the complex. Access the door to the western side of this crossroads. Upon going through the door, a short cutscene of some varren is shown. Kill all the regular varren and the alpha varren. 
+As the critters move fast and will charge you and your team, crowd control talents and Hammerhead Rounds in your shotguns will help keep them at bay. Additionally, none of the varren will move into the doorway area, so you can retreat there and safely pick them off.
+Feros: Power Cells can also be accomplished/acquired by examining the fuel compartment of the crashed M29 Grizzly in the same room. When all of the varren are dead and you have nothing else to do in the room, leave the tunnels and report back to Davin Reynolds for the reward: morality points plus credits. 
+Warnings: If Davin is killed during Feros: The Thorian you can still acquire, but not complete, this assignment. If Davin is alive but Greta Reynolds died, he refuses to speak with you, making it impossible to complete the assignment.
+
+Enemies[]
+Varren
+Varren Alpha
+Bugs[]
+Occasionally, after entering the varren's lair as part of this assignment, Shepard's squad-mates will cease to recognise the 'follow' command, standing stock still when not given orders to stand in a particular spot, and rush to engage enemies at point-blank / melee range instead of taking cover. This appears to be triggered by the cut scene which shows the varren waiting inside the lair, and often persists into the rest of Feros, making later enemies much more frustrating to fight. 
+One solution is to order your squad-mates to remain outside the varren lair (beyond the door) and fight the varren alone. This can be risky for Sentinel and Engineer classes, unless they have crowd-control bonus talents but you can avoid the risk by standing in the doorway yourself: the varren will not pass beyond the threshold.
+It is also possible to restore normal squad-mate behavior by saving and exiting the game to the dashboard (Xbox) or desktop (PC), then re-entering and reloading.  Another option is to head back to the Normandy and enter the ship and return.
+This bug still occurs in Mass Effect Legendary Edition. Working around it no longer requires exiting "to the dashboard", however--it is sufficient to save your game and then immediately reload it.
+
+See Also[]
+The following assignments can also be completed while in the tunnels:
+
+Feros: Geth in the Tunnels
+Feros: Water Restoration
+
+
+

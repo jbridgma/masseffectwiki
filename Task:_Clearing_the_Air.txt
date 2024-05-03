@@ -1,0 +1,84 @@
+
+
+
+You've discovered a kett shuttle control center on Voeld. Hacking its message terminals will help SAM assemble its entry code.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Hack The Kett Terminals
+2.2 Approach The Control Center
+2.3 Use The Passcode On The Door
+2.4 Defeat The Kett Ambush
+2.5 Unlock The Door
+2.6 Shut Down The Control Console
+
+
+3 Rewards
+
+
+Acquisition[]
+When in a kett camp, SAM will alert Pathfinder Ryder that there is a message console that is hackable. After hacking the console, the mission starts.
+Note:  Device naming for the items to be hacked is inconsistent. The mission objectives say these items are Terminals but the actual names of the items that are hacked are Consoles.
+
+Walkthrough[]
+Hack The Kett Terminals[]
+Three Consoles have to be hacked to give SAM enough data to crack the passcode.
+You have to find two additional Consoles and hack them. The Consoles are spread randomly among the kett camps and sites where kett scavenge. Each Console will be marked with . If a camp doesn't have a Console, the camp might have one the next time Ryder visits. If a camp has a Console, SAM (or a squadmate) will comment on the presence of the Console.
+Note:  It's possible to force a spawn of a Console. Get out of the ND1 Nomad (or risk a corrupt save), make a manual save, and patiently continue to load that save until there is a Console.
+The message order and the message itself on each hackable console are always the same. It doesn't matter where Ryder finds each console.
+
+First Message Console
+
+
+
+Message to Anointed
+Control is sending a fleet of shuttles to Havarl tomorrow. We anticipate breaking the planet's defenses soon. We'll have plenty of new stock for the facility.
+
+
+
+
+Second Message Console
+
+
+
+Message to Anointed
+Control sends word of 20 new shuttles ready for deployment. This servant humbly recommends sending them to Eos, where they will crush the newcomers before they can grow too quickly.
+
+
+
+
+Third Message Console
+
+
+
+Message to Anointed
+The shuttle fleet returned to the control center. We received a capture of 13 stock and encrypted information on their cell locations. This servant anticipates breaking the code within the week.
+
+
+
+After the third Console is hacked, SAM is able to crack the passcode and calculate a navpoint .
+
+Approach The Control Center[]
+Go to the navpoint at the Northern Holding Site. Note:  If you haven't completed Stage a Rescue yet, this mission will be added as Ryder approaches. Opening the cages will allow the angara to help with the upcoming kett ambush.
+
+Use The Passcode On The Door[]
+Head inside the building and use console next to the locked door. Using the passcode starts the ambush.
+
+Defeat The Kett Ambush[]
+Several dropships will fly in and drop off the kett ambush. Anointed, Destined, and Chosen will arrive. Defeat the kett.
+
+Unlock The Door[]
+After the ambush is defeated, head back into the building and use the console next to the locked door again. This will open the door.
+
+Shut Down The Control Console[]
+Head into the newly opened room and use the console. Several kett airships are grounded, and the Resistance has less kett forces in the air to deal with (says SAM). However, there is no noticeable difference in the frequency of kett air drops.
+
+Rewards[]
++530 XP
++29 AVP 
++2% Voeld viability
+
+
+

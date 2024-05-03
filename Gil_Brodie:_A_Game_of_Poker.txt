@@ -1,0 +1,49 @@
+
+
+
+A new email is waiting for you from Gil.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Read email from Gil
+2.2 Meet Gil at the Vortex
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Helping Havarl's Scientists
+
+Prerequisite: Stage a Rescue
+
+After finishing either prerequisite and returning to the Tempest, speak to Gil Brodie. Once the subject of poker has been raised, Gil sends an email inviting Pathfinder Ryder to a game.
+
+Walkthrough[]
+Read email from Gil[]
+
+
+
+Poker awaits!
+To: Ryder
+From: Gil
+Ryder, the bell tolls for thee. Meet me in the Vortex on the Nexus. I'll be the one shuffling the deck of doom.
+
+Cheers,
+
+Gil
+
+
+Meet Gil at the Vortex[]
+Gil will be waiting in The Vortex on the Nexus. Talk with him to play a game of poker. SAM privately informs Ryder that he can give an advantage during the game.
+If you accept, Ryder will end Gil's winning streak. If you decline, Gil thrashes Ryder handily. Either way, Gil tells you more about his friend Jill. 
+If you win by cheating and then confess to the deed, Gil just laughs it off.
+The mission is complete once the conversation is over.
+
+Rewards[]
+None
+
+
+

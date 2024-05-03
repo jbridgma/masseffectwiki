@@ -1,0 +1,39 @@
+
+
+
+
+Aria T'Loak has requested assistance uniting mercenary bands under her control. Speak to Commander Bailey's assistant at the Presidium Commons C-Sec station and gain the allegiance of the Eclipse band.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Bugs
+4 References
+
+
+Acquisition[]
+Prerequisite: Priority: Palaven
+
+Speak to Aria at Purgatory on the Citadel after retrieving the primarch from Palaven.
+
+Walkthrough[]
+
+Aria will send you to release jailed Eclipse leader and founder Jona Sederis. Talk to Commander Bailey at the Citadel Embassies, who will insist that you talk to her before he will release her. (Note: The journal entry actually says to speak to the assistant, but he is unable to initiate conversation until you've talked to Bailey.) Head down to the commons and over to the C-Sec outpost to experience her charming personality via vidcomm conversation.
+Afterwards, you speak to Bailey on the screen where Sederis was only moments before. You can either pressure Bailey to secure her release, or you can track down the salarian Sayn, Jona's second-in-command who leads the group in her absence, to take over in her place. If you decide to release Sederis there and then after speaking with her, the mission ends with her resuming command of Eclipse.
+If you decide that she's a menace, Sayn is on the Docks: Holding Area level of the Citadel, in the processing area near the Shepard VI. Sayn is apparently plotting to bust his boss out of prison, but you will "remind" him that he's currently running things. You can convince him to let Sederis rot in jail, or to kill her upon her "release". Either way, Sayn will take over.
+Walk toward the elevator to trigger a conversation with Commander Bailey. The mission is now complete.
+Whatever the outcome, the Eclipse boss will submit to Aria's authority and the Terminus Fleet War Asset will be updated upon completion. The player will be rewarded 210 experience, 5,000 credits and appropriate morality points when the mission is complete.
+
+Bugs[]
+If you decided not to free Sederis and convinced her second-in-command to assume leadership of the Eclipse, there is a bug. After talking to Sayn, if you immediately save and exit the game, upon returning to the game the necessary conversation with C-Sec will not trigger and renders this mission and Aria's tri-mission arc unable to complete. A suggested workaround is that after talking to Sayn, head to the elevator immediately. The conversation with Bailey triggers once you pass through the scanner. When that happens, the bug is averted.[1]
+If the method above fails, save editors can also be used to bypass the softlock by editing the boolean values relevant to the mission.
+
+References[]
+
+↑ https://web.archive.org/web/20160318000919/forum.bioware.com/topic/271528-aria-eclipse-bugged/
+
+
+
+
+

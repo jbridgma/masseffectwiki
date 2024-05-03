@@ -1,0 +1,431 @@
+
+
+
+
+Contents
+
+1 Checklist
+
+1.1 Prologue
+1.2 Exposing Saren
+1.3 Finding Liara T'Soni
+1.4 The Citadel
+1.5 Noveria
+1.6 Feros
+1.7 Uncharted Space
+1.8 The Citadel Redux
+1.9 Uncharted Space Redux
+1.10 Virmire
+1.11 Citadel Detainee
+1.12 Ilos
+
+
+2 Multiple Characters and Replays
+
+2.1 Character Creation
+2.2 Morality
+2.3 Difficulty Achievements
+2.4 Ally Achievements
+
+
+3 Possible Career Paths
+4 See Also
+
+4.1 General Guides
+4.2 Achievement Guides
+
+
+
+
+
+This is a brief guide intended to outline a reasonable order to complete 100% of all missions and assignments. It covers experiencing virtually all of the content of Mass Effect.
+There are a number of other excellent achievement specific guides listed below. These should also be consulted for specifics concerning those achievements.
+Note that this is not intended to be a walk-through in the usual sense: it is more of a checklist. It is not necessary to complete the game more than once to gain the "Completionist" achievement.
+
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+
+
+
+Checklist
+This checklist will provide one possible order for accomplishing all of the missions and assignments.
+
+In order to ensure that it is possible to gain the various ally achievements it is extremely important not to trigger any assignments until after Liara T'Soni has been rescued.
+It also ensures that it is possible to acquire all:
+Codex entries;
+armory licenses;
+medi-gel and grenade capacity upgrades.
+It is assumed that the player will interact with every object and character possible at each step. For the most part, no explicit instructions are given concerning dialog choices. It is assumed that players using characters with a Paragon agenda will favor those choices (and Charm choices in particular); likewise for Renegade and Intimidate. Over the course of several games the player should be able to see the basic, Paragon, and Renegade outcomes of each situation.
+On system maps, it is assumed that the player will survey every world and asteroid belt in order to complete all of the collection assignments:
+UNC: Prothean Data Discs → UNC: Collection Complete
+UNC: Turian Insignias → UNC: Collection Complete
+UNC: Valuable Minerals → UNC: Survey is Complete
+UNC: Locate Signs of Battle → UNC: Entire Collection is Found
+UNC: Asari Writings → UNC: Collection Complete
+Following each system mission or assignment it is assumed that the player will speak to each crew member, exhausting all available dialog trees, and advancing any romance. (In practice, this is more often than is really necessary.)
+Prologue
+
+Advance the missions:
+Prologue: On the Normandy
+Talk to Nihlus about the Protheans. This is critical for the Scholar achievement.
+Prologue: Find the Beacon
+Talk to either Ashley Williams or Captain Anderson about the geth. This is critical for the Scholar achievement.
+If investment in Decryption is high enough, hack the security locks for the shed holding Dr. Warren and Manuel and the one holding Cole.
+Upon meeting Cole, talk to him about the attack, the Prothean Beacon, and the ship before getting ready to leave, and then use Charm/Intimidate to gain a weapon upgrade and the name of his contact for the smuggling ring in addition to the pistol that Cole found.
+Confront Powell about the ring, take the grenades that he smuggled, and use Charm/Intimidate to gain a grenade upgrade.
+Head straight to the Citadel, avoiding all assignments.
+Exposing Saren
+
+Note: Avoid triggering any assignments!
+
+Advance these missions:
+Citadel: Expose Saren
+Talk to the Citadel Council in the Citadel Tower.
+Citadel: Garrus
+Find Harkin at Chora's Den.
+Find Garrus Vakarian at the Med Clinic.
+Talk to Emily Wong (near stairs leading to Flux) and pick up Citadel: Reporter's Request (before you kill Fist in order to get the Charm/Intimidate option).
+Citadel: Shadow Broker → Citadel: Wrex
+Speak to Urdnot Wrex at C-Sec.
+Citadel: Expose Saren
+Go back to Chora's Den and take care of Fist. Leave Fist's OSD alone until after you've rescued Liara T'Soni.
+Go to the alleyway and rescue Tali'Zorah nar Rayya.
+Go back to the Citadel Council and receive your status as a Spectre.
+Purchase licenses and upgrades:
+Purchase medi-gel capacity upgrades I and II. (Required before upgrade III becomes available from Opold or Commander Rentola.)
+Purchase all entry level armory licenses.
+Purchase all available armory licenses as level/funds allow.
+Purchase all available grenade capacity upgrades as funds/level allow.
+Finding Liara T'Soni
+
+Note: If you are already at least level 20, it will be impossible to avoid triggering the UNC: Rogue VI assignment at this point. This will not adversely affect the ally achievements, as only 75% of the assignments are necessary.
+
+Advance the missions:
+Find Liara T'Soni
+Go to the Knossos system in the Artemis Tau cluster and rescue Liara from the planet Therum.
+Begin the collection assignments:
+Survey the Knossos system.
+Survey the Athens system.
+The Citadel
+Return to the Citadel and complete all the assignments which can be found there:
+Citadel: Asari Consort
+Be sure to complete Citadel: Xeltan Convinced first in order to receive a trinket from Sha'ira which will be used on the planet Eletania.
+Citadel: Doctor Michel → Citadel: Doctor Michel is Safe
+Talk to Dr. Chloe Michel about Armistan Banes
+Once the assignment is complete, talk to Captain Anderson about Armistan Banes
+Citadel: Family Matter
+Citadel: The Fourth Estate
+Citadel: Homecoming
+Citadel: Jahleed's Fears → Citadel: Jahleed's Secret → Citadel: Jahleed and Chorban | Citadel: Jahleed Returns Materials | Citadel: Jahleed Arrested
+Citadel: Planting a Bug
+Prerequisite: Citadel: Reporter's Request.
+Citadel: Presidium Prophet
+Citadel: Reporter's Request
+Prerequisite: Emily Wong will be absent until you pick up Fist's OSD.
+Citadel: Rita's Sister → Citadel: Rita's Sister and Chellick → Citadel: Rita's Sister is Safe
+Citadel: Scan the Keepers
+Citadel: Schells the Gambler → Citadel: Schells' Scanner Given Away | Citadel: Schells has his Data | Citadel: Schells' Scanner is Taken
+Citadel: Signal Tracking
+Citadel: Xeltan's Complaint → Citadel: Xeltan Convinced
+Complete the background specific assignment:
+Citadel: I Remember Me
+Prerequisite: Colonist background.
+Citadel: Old Friends
+Prerequisite: Earthborn background.
+Citadel: Old, Unhappy, Far-Off Things
+Prerequisite: Spacer background.
+Start assignments which cannot be completed until later:
+Citadel: The Fan
+Meet with Conrad Verner for the first time.
+Missing Person → UNC: Privateers
+Meet with Garoth.
+A Person of Interest → UNC: Hostile Takeover
+Hack terminal (if possible; if not wait until The Citadel Redux).
+Meet with Helena Blake.
+Strange Transmission → UNC: Major Kyle
+Hack terminal.
+UNC: Missing Marines
+Meet with Admiral Kahoku
+After Citadel: Doctor Michel is Safe, having talked to Dr. Michel and Captain Anderson, talk to the admiral about Armistan Banes
+Unusual Readings → UNC: Distress Call
+Hack terminal.
+Noveria
+
+Go to Noveria and complete all assignments at Port Hanshan before leaving in the Mako.
+Noveria: Espionage
+Noveria: Smuggling
+Start assignments which cannot be completed until later:
+Doctor at Risk → UNC: Dead Scientists
+Hack terminal
+Purchase licenses and upgrades:
+Purchase medi-gel capacity upgrade III. (Opold and Commander Rentola are the sole sources.)
+Purchase all available grenade capacity upgrades as level/funds allow.
+Purchase all available armory licenses as level/funds allow.
+Advance the missions and perform all mission-specific assignments:
+Noveria: Geth Interest → Noveria: Matriarch Benezia → Noveria: Death of a Matriarch
+Noveria: Leave Port Hanshan
+Noveria: Lorik Qui'in
+Noveria: Peak 15
+Noveria: Reactor Repair
+Noveria: Reconnect Landlines
+Noveria: Contamination
+Noveria: Rift Station
+Noveria: Quarantine
+Noveria: The Hot Labs
+Mercenaries → Asari Diplomacy
+Hack terminal
+Feros
+
+Go to Feros and complete all assignments at Zhu's Hope before leaving in the Mako.
+Feros: Geth in the Tunnels
+Feros: Power Cells
+Feros: Varren Meat
+Feros: Water Restoration
+Purchase licenses and upgrades:
+Purchase the Haliat Armory license. (Ledra is the sole source.)
+Purchase all available armory licenses as level/funds allow.
+Purchase all available medi-gel and grenade capacity upgrades as level/funds allow.
+Advance the missions and perform all mission-specific assignments:
+Feros: Geth Attack → Feros: The Thorian → Feros: Colony Saved
+Feros: Data Recovery
+Investigate Shipments → UNC: Espionage Probe
+Hack terminal inside freighter
+Investigate Facility → UNC: ExoGeni Facility
+Hack terminal
+Investigate Samples → UNC: Colony of the Dead
+Hack terminal
+Geth Activities → UNC: Geth Incursions
+Hack terminal
+Uncharted Space
+Complete all available assignments:
+Bring Down the Sky
+Pinnacle Station 
+UNC: Colony of the Dead
+Prerequisite: Feros
+UNC: Dead Scientists
+Note: This assignment is affected by Psychological Profile (Sole Survivor).
+UNC: Depot Sigma-23
+Prerequisite: UNC: Listening Post Alpha
+Prerequisite: UNC: Listening Post Theta
+UNC: Derelict Freighter
+Prerequisite: Feros
+UNC: Distress Call
+UNC: Espionage Probe
+Note: This assignment is affected by Psychological Profile (War Hero).
+UNC: ExoGeni Facility
+Prerequisite: Feros
+UNC: Geth Incursions
+UNC: Hostage
+UNC: Listening Post Alpha
+Prerequisite: Noveria
+UNC: Listening Post Theta
+Prerequisite: Noveria
+UNC: Lost Freighter
+UNC: Lost Module
+UNC: Major Kyle
+Note: This assignment is affected by Psychological Profile (Ruthless).
+UNC: Missing Survey Team
+Complete the crew member assignments:
+Garrus: Find Dr. Saleon → Garrus: Dr. Saleon is Dead
+Tali and the Geth → Tali's pilgrimage
+Prerequisite: UNC: Geth Incursions
+Wrex: Family Armor
+Continue assignments which cannot be completed until later:
+UNC: Asari Diplomacy
+UNC: Missing Marines
+UNC: Privateers
+The Citadel Redux
+Return to the Citadel and complete all the assignments which can be found there:
+UNC: Asari Diplomacy
+Use Charm/Intimidate to get access to the 'prototype asari mods'.
+UNC: Missing Marines
+UNC: Privateers
+Continue assignments which cannot be completed until later:
+Citadel: The Fan
+Meet with Conrad Verner for the second time.
+A Person of Interest → UNC: Hostile Takeover
+Meet with Helena Blake (if you haven't already).
+Purchase licenses and upgrades:
+Purchase all available armory licenses as level/funds allow.
+Purchase all available medi-gel and grenade capacity upgrades as level/funds allow.
+Uncharted Space Redux
+Note: This is the final opportunity to complete assignments outside of the Citadel.
+
+Complete all available assignments:
+UNC: Cerberus
+Prerequisite: UNC: Missing Marines
+UNC: Hades' Dogs
+Prerequisite: UNC: Cerberus
+UNC: Hostile Takeover
+UNC: Rogue VI
+Prerequisite: Level 20
+Complete the morality specific mission:
+UNC: Besieged Base
+Prerequisite: 80% Paragon.
+UNC: The Negotiation
+Prerequisite: 80% Renegade.
+Virmire
+
+Go to Virmire and complete all the assignments there:
+Virmire: Wrex and the Genophage → Virmire: Wrex is Convinced
+Do not kill Wrex if you are trying to acquire the Krogan Ally achievement.
+Convincing Wrex is one of two ways to gain the Charismatic achievement.
+Purchase licenses and upgrades:
+Purchase the Armali Council license. (Commander Rentola is the sole source.)
+Purchase medi-gel capacity upgrade III. (Opold and Commander Rentola are the sole sources.)
+Purchase all available armory licenses as level/funds allow.
+Purchase all available medi-gel and grenade capacity upgrades as level/funds allow.
+Advance the missions and complete mission-specific assignments:
+Virmire → Virmire: Saren's Plan → Virmire: Assault
+Virmire: Assisting Kirrahe's Team → Virmire: Kirrahe's team
+Citadel Detainee
+Return to the Citadel and complete all the assignments which can be found there:
+Citadel: The Fan
+Meet with Conrad Verner for the third and final time.
+Citadel: Negotiator's Request
+Citadel: Our Own Worst Enemy
+Purchase licenses and upgrades:
+Purchase all available armory licenses as level/funds allow.
+Purchase all available medi-gel and grenade capacity upgrades as level/funds allow.
+Ilos
+
+Advance the missions:
+Ilos: Find the Conduit
+Race Against Time → Race Against Time: Sovereign → Race Against Time: Conduit → Race Against Time: Final Battle
+Convincing Saren to commit suicide is the other way to acquire the Charismatic achievement.
+
+Multiple Characters and Replays
+In order to experience every possible assignment and to gather all possible achievements, it is necessary to play through Mass Effect at least four times. If one follows the possible career paths:
+
+the first game will yield all but three of the assignments and the majority of the achievements;
+the second will yield a few further achievements;
+the third will provide two further assignments and several more achievements;
+the fourth will see the final assignment and finish up the last possible romance combination.
+Further replays may be required to gain the Extreme Power Gamer achievement and/or the various talent achievements.
+
+Character Creation
+When creating a custom Commander Shepard, several immutable characteristics must be chosen which will affect all future play using that character, even if a new game is started.
+
+Gender affects which romances are available.
+Pre-Service History affects which background specific assignment is available.
+Psychological Profile slightly affects how certain assignments play out.
+Class affects which talents are available and therefore which talent achievements can be gained using that character.
+The default "quick start" Commander Shepard is a male Soldier, Earthborn, and a Sole Survivor.
+
+Morality
+Morality affects certain dialog choices available during each game (and therefore the outcome of certain assignments) as well as a morality-specific mission. A character's morality is represented by running tallies of Paragon and Renegade points (to a maximum of 330 each). Accumulating Paragon points unlocks higher levels of the Charm talent; Renegade points unlock Intimidate levels.
+When starting a new game, Paragon and Renegade points are reset, but any Charm or Intimidate levels already earned are not. Thus, with enough play, it is possible to have both maximum Charm and Intimidate at the same time. (It is even possible to do so without spending a single talent point in the process, if you have the patience. See Morality.)
+Certain dialog options will only be open to characters possessing high enough Charm or Intimidate talents. As a result it is typically not possible to see all of the possible assignment outcomes until about the fourth game.
+
+Difficulty Achievements
+
+The two difficulty level achievements need at least three games to acquire:
+
+the first at Casual, Normal, or Veteran difficulty to unlock Hardcore;
+a second at Hardcore difficulty to gain the Distinguished Combat Medal and unlock Insanity; and
+a third at Insanity to gain the Medal of Valor.
+Both of these achievements will be gained by following the possible career paths.
+
+
+Ally Achievements
+Main article: Ally Achievement Guide
+The six ally achievements are linked to the Completionist achievement in that they require a given squad member to be present for 75% of the assignments. Therefore at least three games are needed to acquire these achievements:
+
+the first game using the same two squad members at all times;
+a second using a different two squad members at all times; and
+a third using the final two squad members at all times.
+Following the possible career paths will result in gaining all six of these achievements.
+
+Possible Career Paths
+Although Mass Effect features six primary classes and six specializations, the twelve possible combinations do not themselves materially affect the content of the game. (For example there are no class specific missions.) As such, this guide will forebear from suggesting the fourteen or so replays that would be necessary to cover them all along with all of the achievements.
+In fact, the only major distinction that matters from the perspective of this guide are the talents available which fall into three broad categories: combat, biotic, and tech. Therefore the possible career path outlined here is just that: one possible path that can potentially yield all of the various talent achievements. There are plenty of other possible variations with respect to class and team members: let your play style and role-playing be your guide.
+Here is one possible set of careers along with a list of the achievements which can be expected at each step.
+
+Male Soldier, Earthborn, Sole Survivor, level 1, Paragon agenda, team Liara/Tali, loves Liara, Normal difficulty.
+Asari Ally
+Charismatic
+Colonial Saviour
+Completionist
+Council Legion of Merit
+Distinguished Service Medal
+Dog of War
+Geth Hunter
+Honorarium of Corporate Service
+Medal of Exploration
+Medal of Heroism
+Medal of Honor
+Paragon
+Paramour
+Power Gamer
+Quarian Ally
+Rich
+Search and Rescue
+Scholar
+Spectre Inductee
+Tactician
+Male Soldier, Earthborn, Sole Survivor, level 50, Paragon agenda, team Ashley/Wrex, loves Ashley, Hardcore difficulty.
+Distinguished Combat Medal
+Extreme Power Gamer
+Krogan Ally
+Long Service Medal
+Soldier Ally
+Female Adept, Colonist, Ruthless, level 1, Renegade agenda, team Garrus/Kaidan, loves Kaidan, Insanity difficulty.
+Medal of Valor
+Renegade
+Sentinel Ally
+Turian Ally
+Female Engineer, Spacer, War Hero, level 1, any agenda, any team, loves Liara, any difficulty.
+(None but provides the final background specific assignment and romance.)
+See Also
+General Guides
+Main article: Mass Effect Guide
+Mass Effect System Guide
+Missions
+Assignments
+Achievement Guides
+Main article: Achievements
+Ally Achievement Guide
+Rich Achievement Guide
+Weapon and Ability Achievements Guide
+Morality for Paragon / Renegade achievement
+Romance
+
+
+
+
+Mass Effect Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Experience • Systems • Mako • Codex
+
+
+Achievements
+
+Completionist • Rich Achievement •  Party Member Achievements  Scholar Achievement • Weapon and Ability Achievements
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • Merchants
+
+
+
+

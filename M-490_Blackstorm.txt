@@ -1,0 +1,188 @@
+
+
+
+
+
+
+
+
+
+
+M-490 Blackstorm Singularity Projector
+
+General Stats
+
+Type
+Heavy Weapon
+
+
+Location
+Terminus Weapon and ArmorLE: Omega
+
+
+Accuracy
+Unknown
+
+
+Recoil
+Unknown
+
+
+Fire Mode
+Single-Shot
+
+
+Fire Rate
+Low (Charge-Time: 3 s)
+
+
+Ammo Per Clip
+N/A
+
+
+
+Damage & Bonus Multipliers
+
+Base
+500
+
+
+Armor
+×3.0
+
+
+Shields
+×3.0
+
+
+Barrier
+×3.0
+
+
+
+Spare Ammo Capacity
+
+Default
+5
+
+
+Armor Pack
+5
+
+
+Upgraded
+9
+
+
+Both
+6-10
+
+
+Pickup Amount (Min - Max)
+1
+
+
+
+The M-490 Blackstorm Singularity Projector is a heavy weapon in  Mass Effect 2.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 See Also
+
+
+Description[]
+The Blackstorm, colloquially called the "black hole gun," encases particles of matter within a high-powered mass-increasing field, elevating them to near-infinite mass. This creates a gravitational singularity that draws nearby enemies and objects inward for a short time. The rapidly-increasing gravity near the singularity's event horizon rips the objects apart. The mass effect field soon destabilizes and returns to normal mass, with explosive results.
+
+Acquisition[]
+The M-490 Blackstorm is included in the Terminus Weapon and Armor downloadable content pack.
+In the Legendary Edition, it can be purchased on Omega at Harrot's Emporium.
+
+Player Notes[]
+Mechanics
+True to its name, the M-490 Blackstorm shoots out an orange Singularity-like projectile that travels in the direction it was aimed while disrupting enemies it contacts until it implodes dealing massive damage and sending targets within a large area flying. If the projectile encounters terrain or directly collides with an enemy it will persist there until detonation which always occurs a set amount of time after firing (about 5 seconds). The size of the vortex slightly increases leading up to detonation.
+Just as with the biotic power Singularity, only unprotected enemies with no shields, barriers, or armor will be pulled into the air by the Blackstorm's projectile, but the vortex will cause slight damage over time to all types of protection and health as well as staggering most enemy types repeatedly.
+Unlike the true Singularity, however, enemies pulled into the air and suspended by the Blackstorm's projectile can't be detonated with Warp.
+Unlike the Singularity power, the Blackstorm's vortex duration is fixed and is not reduced by hitting multiple enemies or holding even powerful enemies repeatedly. This makes it fairly useful for tying up foes like Scions for a long time, especially if multiple shots are fired.
+Enemies killed by the Blackstorm disintegrate leaving no corpse.
+The trigger must be held to charge a shot for 3 seconds before firing, however, Shepard can continue to move at normal speed while charging a shot.
+The Blackstorm is technically fully automatic—if the trigger is held, it will fire repeatedly, albeit slowly.
+The detonation of the Blackstorm projectile causes a brief time dilation effect similar to the one caused by the detonation of the M-920 Cain or the Soldier's Adrenaline Rush.
+While the Blackstorm's projectiles do not pass through terrain, both the gravitational effects of the vortex and the damage of the detonation pass through intervening cover such as walls. This makes the Blackstorm one of only two weapons in Mass Effect 2 capable of directly damaging enemies through cover, the other being the Cain.
+The Blackstorm does not cause any type of friendly fire to Shepard or Shepard's team regardless of difficulty setting, allowing it to be fired at point-blank range safely.
+Strategies
+The Blackstorm's relatively high ammo usage, slow moving shot, and delayed damage means it should generally be used only in situations where lots of enemies are packed into a restricted area where they can't escape from the blast such as a corridor or small room. Tougher than average enemies will be severely hurt or crippled by a single shot, even on higher difficulties.
+The Blackstorm's mechanics lend itself to being used as a "fire and forget" weapon; fire off a shot to drop a crowd-controlling vortex that will suppress a large area for several seconds and immediately switch back to a conventional gun to finish off whatever is left following the detonation.
+The M-490 is effective against groups of Husks. The projectile of the weapon simply pulls the Husks within itself, killing them quickly without any hard work. Even on Insanity difficulty, Husks and Abominations with full health and armor will die from a single shot.
+While the M-100 Grenade Launcher and the M-622 Avalanche are also highly effective at destroying clustered husks while using less ammo in general, the long-lasting vortex from the Blackstorm can be more useful in situations where husks are continuously spawning one after the other, notably during the final battle of Collector Base: The Long Walk.
+On Tali's recruitment mission, there is a possibly beneficial glitch associated with this weapon. If you fire it at the Geth Prime and Geth Colossus and it will cause a large amount of damage on impact, and when the shot explodes it has a chance of making the Prime glitch into the air and stay there making it easier to kill.
+See Also[]
+Upgrade Guide
+Terminus Assault Armor
+
+
+
+
+Mass Effect 2 Downloadable Content
+
+
+
+
+Promotional
+
+Blood Dragon Armor • Collectors' Weapon and Armor • Inferno Armor  M-29 Incisor Sniper Rifle • Terminus Weapon and Armor
+
+
+Cerberus Network
+
+Zaeed - The Price of Revenge • Normandy Crash Site  Cerberus Weapon and Armor • Arc Projector • Firewalker Pack
+
+
+Missions
+
+Kasumi - Stolen Memory • Overlord • Lair of the Shadow Broker • Arrival
+
+
+Additional Content
+
+Alternate Appearance Packs •  Equalizer Pack • Aegis Pack • Firepower Pack  Mass Effect: Genesis • Recon Operations Pack • N7 Complete Arsenal Bundle
+
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+

@@ -1,0 +1,140 @@
+
+
+
+
+Before he was hired by Cerberus, Zaeed had taken a mission to go to Zorya and liberate an Eldfell-Ashland refinery from the Blue Suns. Once his work there is done, he can dedicate his full attention to the mission.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Arrival On Zorya
+3.2 Zaeed’s Story
+3.3 Southern Gatehouse
+3.4 Paragon: Saving The Facility
+3.5 Renegade: Going After Vido
+3.6 Moving in on Vido
+3.7 Refinery Core
+3.8 Refinery Landing Pad
+
+3.8.1 Paragon Route
+3.8.2 Renegade Route
+
+
+3.9 Mass Effect 3 Consequences
+3.10 Enemies
+
+
+4 Mission Summary
+5 Trivia
+6 References
+
+
+Acquisition[]
+Prerequisite: Dossier: The Veteran
+
+The mission will be unlocked upon acquiring Zaeed into your party. You need to travel to the planet Zorya (Faia System, Ismar Frontier) to start the mission. Unlike the rest of the loyalty missions, this one and Kasumi's do not require you to do the mission on Horizon first.
+
+Preparation[]
+You will be encountering primarily shielded enemies, so consider bringing a squadmate with Overload. Also, most groups of enemy larger than two will be encountered at medium-to-long range, so once the mission begins telling Zaeed to equip his sniper rifle is a good idea. Zaeed excels at dealing weapon damage at range, but he is a little weaker when it comes to dealing damage or disabling enemies with powers, so consider bringing a squadmate who compensates for this, especially if your Shepard can't.
+
+Walkthrough[]
+Arrival On Zorya[]
+
+Zorya itself is a pleasant enough place. When the shuttle drops off Shepard and the squad, they all turn to see a smokestack in the distance. Zaeed then taps into the Blue Suns communications and warns about ambushes. Keep heading down the path as you will not encounter any enemies for some time. When you progress a little bit, it becomes apparent your landing didn’t go unnoticed and now you have enemies heading to your location. Eventually you will come across some dead bodies and Zaeed will say that their deaths were definitely Vido’s work.
+Another radio communication down a little ways will say for the Suns to take positions because you are apparently not a runaway. After that when you round a corner to the right, get into cover because now you are approaching the southern entrance and you finally run into the Blue Suns.
+
+
+Staying behind the cover near the entrance to the clearing keeps the enemies from flanking you, and you can get a good line of sight on them. Once you can’t engage the enemies from the entrance, move to the right avoiding the potential of getting flanked if you go left, and to a massive tree root which will provide some excellent cover. Just be careful because there is a Heavy in the mix with a Missile Launcher on the elevated platform. 
+When all the initial enemies fall, move up and find some more cover as there will be more reinforcements coming in. They include a Blue Suns Pyro, a FENRIS Mech, Blue Suns Troopers, and a Blue Suns Heavy. Note that the final Heavy is the tougher helmetless variant that possesses Tech Armor, which she can use to fully replenish her shields once they get depleted. Once they are all down, you will hear a fall back order on the radio. Check the area for a PDA (6,000 credits) and a med kit. Grab them then move up and access the nearby bridge controls to continue.
+
+Zaeed’s Story[]
+
+When you access the controls, Santiago comes over the radio and tells the Suns that he will kill anyone who retreats while you are still alive. Zaeed and Santiago apparently started the Blue Suns about 20 years ago. If you select the “twenty years?” dialogue option, you will hear the story about how Santiago betrayed Zaeed, paid six men to hold him down, and then shot him in the head. Once you have all the information you need, move on. Santiago will come over the radio, your position is compromised and he orders all squads to amass at the southern entrance to the facility.
+Move up the path and on your left, overlooking some waterfalls is a crate containing some refined palladium. Once you have it move to the gatehouse, where two more squads have just been sent.
+
+Southern Gatehouse[]
+
+Open the door to start a cutscene where Vido and some of his mercs are on an upper platform. Vido eventually goads Zaeed into firing as he goes for cover. His rounds hit a metal pipe near Vido, prompting Vido to ask if he is going nearsighted. It turns out that the pipe was full of explosive gas; the pipe explodes, injuring Vido and killing some of his men. Zaeed then breaks a valve setting off a chain reaction that starts to destroy the whole refinery. Choose your response to Zaeed's actions—which can include a Paragon interrupt to sock him for his recklessness—then proceed into the burning facility.
+There will be two Troopers advancing on the squad; take them down (there a small easy-to-miss cover location on the right side of the room if you need it), and before leaving the area, find a crate of refined palladium near where Zaeed bashed the pipe. Head across the catwalks to the next area, but keep an eye to the right for some more refined palladium. Once you access the door a cutscene will play giving you two options with significant moral implications.
+Choose Your Path: You have to decide whether to save the facility workers and the facility itself, or go after Vido regardless of collateral damage. Do not look for a Charm or Intimidate option—at this point, neither exists. Note that if the option to save the workers is taken, the player will need sufficient Paragon points to Charm Zaeed in order to secure his loyalty at the mission's climax; this can be done easily after recruiting him, as long as you have concentrated on accumulating mainly Paragon points up to that point. The mission always concludes in the same location, but how you get there varies depending on your choice. There will also be two unique upgrade rewards depending on your choice: a Heavy Weapon Ammo upgrade with the Paragon path, and an Assault Rifle Damage Upgrade along the Renegade route. Also, the Paragon path rewards more credits (see below for details). Make your choice.
+
+Paragon: Saving The Facility[]
+
+If you choose to save the facility then Shepard intimidates Zaeed, who agrees to help despite his rage at your refusal to aid in his revenge. Shepard jumps down onto a lower platform and the worker looks relieved, or as best as you can tell from a distance. Move down the platform and head to a door which you have to bypass to enter. Once inside head up the stairs and open the next door.
+This room is on fire, literally. Move around and find the three fuel control stations to redirect the fuel. The first is right next to the first set of stairs in the room. The second is found once you walk over the large pipe on the left, easy to miss. There is a generator pipe after the second one in the corner, salvage it for 6,000 credits. The third is next to a catwalk. Some workers behind a glass wall tell you that the extinguishing system is upstairs and that the doors won’t open until the fires are out. When you get to the upper level, an explosion will drop a flaming pipe on the floor in front of you, so head to the right and go across the catwalk to get around this obstacle. When you reach the other side, grab the refined palladium in the corner across from where the catwalk comes down, and go into the room. Grab the Heavy Weapon Ammo upgrade, then access the fire control systems to extinguish the fires. Head out the other door and down the catwalks.
+
+Renegade: Going After Vido[]
+
+If you chose to go after Vido, then you will proceed through the door while an explosion is heard behind you. You enter another room with a door; open it and take cover on the other side. There are three Blue Suns Troopers in this area. Use any methods to take them out, then move up. Another Trooper is coming down a ramp bridge, but before he can get across, an explosion sends him and the bridge down into the depths of the refinery. Turn right and head up to cover because more enemies will come out, two Troopers and a Pyro. Once they fall, head in the door they came out of to access a servo for credits and a terminal for assault rifle damage.
+The next area, which was across the now destroyed bridge, holds three more Troopers and a Pyro that just loves to get in your face. Take them down before they can and move up, but only a little. More Troopers will come out, five of them to be exact, and a heavy on an upper platform to the left. Take these ones down fast, especially the heavy. Once they fall, head into the door.
+
+Moving in on Vido[]
+The next room contains another refined palladium crate on the left on top of a pipe. In the second room is the M-451 Firestorm and the adjacent room contains two Blue Suns Troopers. Make sure they don’t interfere with your mission further. Once they are down, grab the credits from the datapad (Paragon only), and before you take the power cells if you want to switch Heavy Weapons, do so first at the Weapons Locker. Then take the power cells and move into the next room.
+The next room is the largest in the refinery and the hardest fight.
+
+Refinery Core[]
+
+Vido’s radio transmission when you enter this room will differ a little bit depending on which path you chose. It is much longer if you went Paragon and mentions Shepard as well.
+This room is the largest in the facility and contains a lot of cover but a lot of enemies as well. Move to cover, best to put both squad members on the left and cover the right from the cover just down the stairs from the entrance. Just watch for Suns that flank on the right, because they can kill you quickly if not dealt with before they get behind the tanks. Doing this means you don’t have to watch your squadmates as much, but still keep an eye on them. In general, kill quickly. If the above strategy falls apart, it is best to focus all the squad on the same enemy and thin their numbers fast. On Hardcore and Insanity settings, you can very quickly get overwhelmed, as the enemies will most likely either catch you in a crossfire, or force you into the path of the flaming tanks. 
+Blue Suns Troopers and Pyros come out from two side rooms just ahead of you and will rush you and the squad. Take them out before they have a chance to. Eventually the two large tanks at either end of the far side of the room will start spraying fire and moving. Shoot them and try to bring them down on top of attacking Blue Suns. 
+It is imperative to shoot down the tanks once they start spraying flame. The flames can hurt you, flush you from cover, and inflict panic on you similar to how enemies panic, which you obviously don't want. Once a tank catches fire, destroy it quickly by shooting it down to explode below, causing damage to any nearby units (which can include your squad). The YMIR Mech in the back doesn't activate until the last Blue Suns merc dies (or if shot, or if you get too close), so once you hear its footsteps it's usually safe to engage it.
+If Shepard, a squad member, or a Combat Drone have reached the line of the first pair of doors at a point when more enemies are due to spawn, they will spawn from the second pair of doors instead. In this case, the enemies can include Blue Suns Heavies in addition to the usual troopers and pyros. Thus if you wish to avoid encountering Heavies, avoid moving too far into the room until enemies stop spawning.
+When the Blue Suns stop coming, a YMIR Mech begins to advance on you and the squad. Take it down fast. The ML-77 Missile Launcher works well here, as you can fire and move back into cover quickly, and the rockets should find their target. The YMIR here likes to focus on Shepard more than your squadmates, so use that for an advantage and take it down. Once it is down, move up (there are no more enemies) and grab the Medi-gel and any needed clips. Then head into the two doors that the Blue Suns came out of as there will be some salvage in there, each worth 6,000 credits. You can ignore the other two doors because they contain nothing, no matter which path you chose. Once you are done head to the large door at the opposite end of the room, which leads to the landing pad.
+It is possible (though understandably difficult) to bypass the battle by running for the door at the back of the room. Since the way is usually barred by the YMIR mech, this isn't always feasible, but remains a possibility if the mech is lured away from the door. Vanguards can Charge at the YMIR Mech before the bridge extends, allowing them to run straight for the door. This can be done even before the YMIR activates, with the possibility of leaving the area without killing any enemies.
+Combat Strategy: There is an alternate way to make this entire fight much more manageable by simply staying outside where the Power Cells and Weapons Locker are. Put your squadmates into cover on either side of the door and edge carefully into the room until you hear or see enemies approaching. As long as you don't go too far into the room the door won't shut behind you and you can retreat and take the fight from a much safer place where enemies won't pursue you. On the higher difficulty levels this strategy works wonders, as you can whittle the enemies down with powers and careful shots without exposing yourself to much fire. This works best if Shepard is a class with powers that can arc over cover like Incinerate as many of the opponents are reluctant to leave cover, but any class can eventually beat this fight from outside the room with enough patience. Having Kasumi can definitely help here, as her Shadow Strike ability can be used to do huge damage to the Blue Sun troops as long as you can get a good lock on them, and she safely returns back to her cover spot behind the door after each strike. Additionally, her Overload can help thin out enemy shields. You can save the Power Cells for when you get low on ammo, or access the Weapons Locker to refill. You can leave Zaeed with his sniping abilities with some line of sight at the enemies that will be coming at you, but move him back to safety if he starts to take too much damage.
+
+Refinery Landing Pad[]
+Paragon Route[]
+
+Vido limps onto a gunship and curses Zaeed over the radio. Zaeed will fire whatever assault rifle he has at the gunship until it overheats. He does kill the guard next to Vido and Vido seems to be shocked. Zaeed then ejects the heat sink and turns on Shepard with his gun pointed, saying that Shepard cost him 20 years of his life. However, the overheated heat sink ignites some fuel which then explodes, collapsing a metal beam that pins Zaeed beneath it. Choose your responses to the next dialogue options.
+Eventually you arrive at a dialogue tree with a Charm option. If you cannot use the persuade option then you save Zaeed but do not gain his loyalty.
+If you use the persuasion option then Shepard will put a pistol to Zaeed’s head (only to turn the grip toward him), reminding him that the mission always comes first and scolding him for letting his grudge with Vido get the better of him. Zaeed will get the point and agree to put Vido behind him until the mission is over. The squad then boards the shuttle to head back to the Normandy. Zaeed looks out the shuttle window then at Shepard. The shuttle then takes off and heads back.
+Additionally, if you do this mission after the suicide mission, choose the Paragon path, and have at least two more squadmembers left, then there will be an option to leave Zaeed to die when a metal beam collapses on him.
+
+Renegade Route[]
+
+Vido is caught limping towards the shuttle, when Zaeed fires a shot and gets his attention. Vido will turn and respond, but then Zaeed fires a round, but doesn't kill him. Zaeed ejects a thermal clip from his pistol into a pool of fuel that Vido is lying in. As the fuel ignites and burns Vido alive, Zaeed turns and walks away. See below for your rewards.
+
+Mass Effect 3 Consequences[]
+If Zaeed survives this mission and the suicide mission, he will return during Citadel: Volus Ambassador. If his loyalty was not secured during this mission, he will be killed by mercenaries present. If his loyalty was secured, he will survive and it will be possible to persuade Din Korlack to give both the location of the colony and the volus Bombing Fleet war asset. In addition, Zaeed himself can become a war asset.
+
+Enemies[]
+Blue Suns Heavy
+Blue Suns Pyro
+Blue Suns Trooper
+FENRIS Mech
+YMIR Mech
+Mission Summary[]
+Paragon Route, Zaeed loyal: Eldfell-Ashland refinery on Zorya has been liberated, though the company will have to spend millions to rebuild. Although Vido Santiago escaped, Zaeed has accepted Shepard’s command and appears focused on the mission. 
+Paragon route, Zaeed not loyal: Eldfell-Ashland refinery on Zorya has been liberated, though the company will have to spend millions to rebuild. Vido Santiago's escape has left Zaeed angry and frustrated. This could affect his performance on the mission. 
+Paragon route, Zaeed left behind: Eldfell-Ashland refinery on Zorya has been liberated, though the company will have to spend millions to rebuild. Vido Santiago's escape drove Zaeed mad. Believed to be a danger to the mission, Zaeed was left behind and is presumed dead.
+Renegade Route: Eldfell-Ashland refinery on Zorya is destroyed, all personnel lost. With Vido Santiago dead, Zaeed can focus his full attention on the mission. 
+
+Experience: 750 (937)
+Credits: 60,000 (Paragon) / 39,000 (Renegade)
+Eldfell-Ashland Corp Bonus: 30,000 (Paragon)
+Zaeed Bonus: 15,000 (Renegade)
+Credits Found: 30,000 (Paragon) / 24,000 (Renegade)
+Upgrades
+Heavy Weapon Ammo (Paragon)
+Assault Rifle Damage (Renegade)
+Powers
+Zaeed: Inferno Grenade
+Resources
+Palladium: 2,000 (Paragon) / 1,600 (Renegade)
+Weapons
+M-451 Firestorm
+Trivia[]
+When Zaeed breaks the valve and sets off the chain of explosions, a Wilhelm scream can be heard from one of the Blue Suns mercenaries as he falls off the platform.
+According to level/tech designer Jos Hendriks, the option to kill Zaeed at the end of the loyalty mission before finishing the Suicide Mission was once considered. It was then deemed too harsh to be put in.[1]
+References[]
+
+↑ https://twitter.com/Sjosz/status/398530000363610112
+
+
+
+
+

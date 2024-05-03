@@ -1,0 +1,135 @@
+
+
+
+
+Pistols are your average, basic weapon. They are slightly more versatile than any other weapon, but they lack the speed of an assault rifle, the range of the sniper rifle, and the stopping power of a shotgun. 
+The benefit of pistols is that they can be used at virtually any range, but are best at mid-distance, and can be an interesting alternative to assault rifles if you plan to gain shotgun proficiency for the end game. Using the Marksman ability will aid in your survival, as does using pistols in their intended manner - for quick targeting and shooting on the move. 
+
+Contents
+
+1 Talent Ranks
+2 Marksman
+
+2.1 Marksman
+2.2 Advanced Marksman
+2.3 Master Marksman
+
+
+3 Marksman (Legendary Edition)
+
+3.1 Marksman
+3.2 Advanced Marksman
+3.3 Master Marksman
+
+
+4 Specialization
+5 Classes
+6 Commando and Pistol
+
+
+Talent Ranks[]
+Level 1: Increases damage by 5%. Increases accuracy by 10%.
+Level 2: Increases damage by 8%. Increases accuracy by 14%.
+Level 3: Marksman
+Level 4: Increases damage by 10%. Increases accuracy by 17%. Unlocks Shotguns (Soldier).
+Level 5: Increases damage by 12%. Increases accuracy by 20%. Unlocks Sniper Rifles (Infiltrator).
+Level 6: Increases damage by 14%. Increases accuracy by 22%. Unlocks Shotguns (Vanguard, Quarian Machinist), Basic Armor (Engineer).
+Level 7: Increases damage by 16%. Increases accuracy by 24%.
+Level 8: Advanced Marksman
+Level 9: Increases damage by 18%. Increases accuracy by 26%.
+Level 10: Increases damage by 19%. Increases accuracy by 28%.
+Level 11: Increases damage by 20%. Increases accuracy by 30%.
+Level 12: Master Marksman
+Marksman[]
+For the power in Mass Effect 3, see Marksman.
+
+Marksman is unlocked by increasing levels in the Pistols talent. It improves the weapon's fire rate and accuracy, as well as reducing overheating. A Sentinel Shepard can unlock Marksman through the class talent, but this is only the basic rank of the ability and can't be improved to either Advanced or Master Marksman.
+Note: Switching weapons, changing the equipped pistol to a different model, or modifying any upgrades currently installed on the pistol, will immediately cancel Marksman if it was active.  This applies to all similar weapon talents in Mass Effect, for both Shepard and squadmates.
+
+
+Marksman[]
+Boosts accuracy by 60%, increases rate of fire 1 round/sec, reduces heat 30% to compensate.
+
+Duration: 10s.
+Recharge Time: 45s.
+Advanced Marksman[]
+Boosts accuracy by 60%, increases rate of fire 1.5 rounds/sec, reduces heat 40% to compensate.
+
+Duration: 13s.
+Recharge Time: 45s.
+Master Marksman[]
+Boosts accuracy by 60%, increases rate of fire 2 rounds/sec, reduces heat 50% to compensate.
+
+Duration: 16s.
+Recharge Time: 45s.
+
+
+Marksman (Legendary Edition)[]
+For the Marksman power in Mass Effect 3, see Marksman.
+Marksman in Legendary Edition works somewhat differently from the original game. It purges all residual weapon heat on activation, has a fixed 6 second duration, and instead of boosting firing rate it increases both base damage and headshot damage (headshots are not possible in the original Mass Effect).
+
+Marksman[]
+Boosts accuracy by 60%, increases damage 25%, increases headshot damage 50%, purges heat on use
+
+Duration: 6s.
+Recharge Time: 45s.
+Advanced Marksman[]
+Boosts accuracy by 60%, increases damage 50%, increases headshot damage 75%, purges heat on use
+
+Duration: 6s.
+Recharge Time: 45s.
+Master Marksman[]
+Boosts accuracy by 60%, increases damage 75%, increases headshot damage 100%, purges heat on use
+
+Duration: 6s.
+Recharge Time: 45s.
+Specialization[]
+Commandos gain Assassin Specialization at level 12.
+
+Level 12: Assassin Specialization: Reduces the recharge time on Assassination and Marksman by 25%.
+Classes[]
+These classes have access to the Pistols talent:
+
+Adept Unlockable
+Engineer
+Infiltrator
+Soldier
+Vanguard
+Quarian Machinist
+The Sentinel, Asari Scientist and Turian Agent classes can also use pistols, but do not have access to the specific Pistols talent. The Sentinel class talent provides smaller bonuses to pistol accuracy and damage, and at level 6 provides the first level of Marksman (for Shepard, though not for Kaidan).
+
+Commando and Pistol[]
+For either the Soldier or the Infiltrator who chooses the Commando path, pistols can become extremely deadly. With the combination of the Pistol Expert achievement, the Assassination Specialization ability, and at least one Medical Exoskeleton X, it is possible to keep Master Marksman ability running indefinitely. When the reduced heat and increased rate of fire of Marksman are added to the damage of an HMWP X, and coupled with Snowblind X / 2x Scram Rail X, you achieve a "heatless" weapon with the highest overall damage (Carnage and Assassination burst damage tapers off due to overheating) in the game as well as the best boosted accuracy rating in the game. While this pistol configuration is by itself "heatless" and can be used by any class, the reduced rate of fire makes the weapon slow, cumbersome, and difficult to use in fast paced situations when it is not offset by rank 3 Marksman. Without the cooldown bonus of Assassination Specialization, the gap in the usage of Marksman becomes an issue.
+
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

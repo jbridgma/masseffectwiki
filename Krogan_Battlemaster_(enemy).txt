@@ -1,0 +1,123 @@
+
+
+
+
+
+
+
+This article is about the enemy type in the first Mass Effect game. For the elite krogan warriors generally, see Krogan Battlemaster. For other uses of the term Battlemaster, see Battlemaster (disambiguation).
+
+
+
+
+
+
+
+
+Krogan Battlemaster
+
+
+
+
+Race
+Krogan
+
+
+Type
+Organic
+
+
+Armament
+Shotgun, Assault Rifle
+
+
+Abilities
+ Carnage Immunity Warp Throw Regeneration Berseker Charge
+
+
+Health
+Very High
+
+
+Shields
+Very High
+
+
+Locations
+Therum, Citadel
+
+
+Krogan Battlemasters are a unique class of krogan, notable for their possession of biotic talent. Being few in number, they are seldom encountered in the galaxy.
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+Commander Shepard encounters a Warlord Armor-clad Battlemaster on Therum, whom Saren Arterius has sent to retrieve and capture Liara T'Soni. After finding Liara, Shepard and the crew accompany her to the elevator going topside but stumble right into the Battlemaster and a small squad of geth.
+Later, on the Citadel, another Battlemaster (this time wearing a fully-sealed Battlemaster Armor) can be fought in the elevator maintenance shaft parallel to the exterior defense grid.
+
+Tactics[]
+The Krogan Battlemaster is one of the toughest organic enemies in Mass Effect. As a krogan, he is physically robust and resilient, placing emphasis on the use of manipulative and support abilities. Especially to new players, at first glance he may appear rather typical (especially if Feros was completed first), but he has some key differences to typical krogan that make this fight much harder.
+As with all krogan, not only does he wear heavy armor, but the Battlemaster supplements this Immunity and a regeneration ability which can completely fill his health bar once depleted. Krogan are fond of charging their enemies, making use of of deadly melee attacks, and also possess biotics as well as some immunity to some biotic attacks.
+Against the charge, incapacitation tactics are advisable to stop him and to temporarily disable him. If biotic tactics are unavailable when the Battlemaster begins to charge, sprinting around a column to break line-of-sight will instantly stop the charge. The use of abilities such as Lift, Singularity, Neural Shock, and Stasis are recommended, though the use of grenades with the high explosive upgrade may also halt the imminent melee attack. Above all, do not stay within melee range, as his lethal attack is an instant-kill in almost all situations.
+Having your own Immunity active can provide enough damage resistance to prevent fatal damage from a krogan's melee attack, however, krogan melees are so forceful that they can still knock you to the ground which may ensure your death anyway, as you can't act and Immunity may wear off, which is especially likely in Legendary Edition were Immunity has a much shorter duration.
+Additionally, it is imperative to continually assault the Battlemaster, not allowing the regeneration of health or shields. Using ammunition that destroy an enemy's body (such as the toxic or incendiary variants) will prevent the Battlemaster from regenerating, as will killing him while he is under the effect of Lift. Also, Damping can be used to prevent him from using biotics.
+Weakening and debuffing, such as Overload is also recommended to quickly lower his shields and damage health; Warp's armour debuff may also be used to weaken his resilience to attack.
+The Krogan Battlemaster on Therum tends to become more aggressive should you eliminate his geth allies. Expect the Battlemaster to close in if few or no geth are left standing. Leaving at least one geth alive is advisable to avoid provoking the Battlemaster into charging.
+It may be advisable to eliminate the Battlemaster first, while in other cases he is best left until last. As an example, characters with good biotics could hit the Battlemaster first to immobilise him and take him down first, while combat-heavy groups and soldiers might prefer to eliminate his teammates first and engage him solo using line-of-sight to break his charge instead.
+Trivia[]
+In Mass Effect Legendary Edition, the krogan on the Citadel is labeled "Krogan BattleMaster", with a PascalCase "M".
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

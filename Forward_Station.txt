@@ -1,0 +1,73 @@
+
+
+
+
+Along with Outposts, Automated Forward Stations are part of the initial wave of exploration and colonization efforts of the Andromeda Initiative. Forward stations contain valuable resource caches for explorers to resupply, repair stations for vehicles, and ground-penetrating sensors to identify mineral deposits. Their presence improves the chances of a planet being considered viable. 
+Forward stations are seeded into orbit via automated barges. Once summoned to a designated zone, forward stations descend and anchor themselves on the ground, becoming valuable landmarks and checkpoints for exploration missions. Most scout rovers have forward station connectivity, allowing them to be summoned to the stations. Forward station terminal entries also provide information on the exploration of the planet.
+
+
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+Due to initial Scourge damage to the Initiative, resources constraints require that only Pathfinders have, in theory, official sanction to call down forward stations in the field. In reality, reports show that enterprising colonists or unscrupulous scavengers have been known to hack the signals to raid the stations for supplies.
+
+Contents
+
+1 Mechanics
+
+1.1 Checkpoint
+1.2 Resupply
+1.3 Mining
+1.4 AVP & Viability
+
+
+2 Loadout, Nomad & R&D Access Points
+3 Terminals
+4 See Also
+
+
+Mechanics[]
+When Pathfinder Ryder explores a planet with the ND1 Nomad or on foot, forward stations are automatically deployed upon approaching a previously designated area on a planet marked with . Forward stations serve as a checkpoint and resupply safe zone for the Pathfinder Team. In addition, each forward station on a planet provides a terminal entry that gives information on the exploration of the planet.
+Checkpoint[]
+As a checkpoint, each forward station acts as a fast travel point where the Nomad can be called down from orbit.
+On Havarl, direct extraction to the Tempest takes place instead of calling down the Nomad.
+
+Resupply[]
+Each forward station acts as a safe zone that protects the squad and Nomad from any environmental hazards. The forward station also repairs any damage to the Nomad. The forward station acts a large supply caches to replenish shields, health, ammo.
+On H-047c, leaving the Nomad in the field is impossible due to ambient radiation, so forward stations there cannot act as resupply points except for replenishing the Nomad's shields. To compensate for partial functionality loss, shielded habitats in the area have loadout terminals for changing squad configurations.
+
+Mining[]
+When a Forward Station is deployed, its ground-penetrating sensors can track mineral deposits. Each forward station adds basic mining zones to the map indicated as . These additional nodes allow additional mining drones to be deployed by the Nomad. 
+The cryo pod perks Expanded Field Analysis I and Expanded Field Analysis II improve forward station sensors so that additional enhancedand rare  mining zones will be revealed.
+On Havarl, the mining nodes feature is replaced by containers that can't be tracked by forward stations.
+
+AVP & Viability[]
+Each forward station adds +2 AVP  and increases planetary viability by +2%.
+The first landing on Eos grants the above mentioned bonuses instead of the Forward Station at Site 1. The Forward Station on the vault island on Eos doesn't grant the AVP or viability bonuses.
+Forward Stations on H-047c only award AVP as what remains of the world can't be made viable.
+
+Loadout, Nomad & R&D Access Points[]
+Most forward stations provide access points to change loadout and to summon the Nomad. A notable except to the latter are forward stations on Havarl, where the Nomad is not permitted. Forward stations established in an Initiative outpost are equipped with a Research & Development Research Center access point. 
+
+Terminals[]
+Forward stations have an access point displaying various planetary telemetries and related messages. As more stations are deployed, more messages become available. These messages can be read only through the forward stations of the relevant world, and they will not necessarily be shown in order. The following pages list the messages in alphabetical order by title.
+
+Elaaden
+Eos
+Havarl
+Kadara
+Voeld
+See Also[]
+Codex
+Outpost
+Andromeda Viability Points
+
+
+

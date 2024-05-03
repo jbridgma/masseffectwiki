@@ -1,0 +1,293 @@
+
+
+
+
+Quasar is a game that can be played in the casino at Flux and the Silver Coast Casino on the Citadel. The player must add random numbers (between certain values) to the score. The object of Quasar is to get the total to twenty or as close as possible without going over. There are two types of Quasar machines: low stakes and high stakes, with low stakes machines requiring fewer credits to play but paying out smaller rewards for winning than high stakes, which requires more credits to play and thus entails greater risk.
+
+Contents
+
+1 Playing Quasar
+
+1.1 Optimal Strategy
+1.2 Expected Returns
+
+
+2 Mass Effect
+3 Mass Effect 3
+4 Trivia
+
+
+Playing Quasar[]
+Optimal Strategy[]
+If Quasar is played correctly, the player actually has the edge over "the house", which is atypical for most casino games. The expected return is quite easy to calculate, since there are only three options to choose from every step.
+
+
+
+Optimal PlayThe first column is the current number in play; the second column is the button to press; the third column is the approximate expected high stakes profit, and is an indication of how excited you should currently be.
+
+
+N
+Press
+LikelyProfit
+N
+Press
+LikelyProfit
+N
+Press
+LikelyProfit
+N
+Press
+LikelyProfit
+
+
+1
+4-7
+45
+
+6
+4-7
+47
+
+11
+1-8
+30
+
+16
+1-8
+-56
+
+
+2
+4-7
+38
+
+7
+4-7
+51
+
+12
+1-8
+49
+
+17
+Pay Out
+0
+
+
+3
+1-8
+36
+
+8
+4-7
+37
+
+13
+4-7
+88
+
+18
+Pay Out
+50
+
+
+4
+1-8
+37
+
+9
+1-8
+18
+
+14
+4-7
+38
+
+19
+Pay Out
+100
+
+
+5
+1-8
+43
+
+10
+1-8
+22
+
+15
+4-7
+-25
+
+20
+Pay Out
+200
+
+
+Expected Returns[]
+Assuming the automatic first roll when starting a new game of High Stakes Quasar is from the 1-8 button, the average profit per game if you play optimally is 41.81 credits. The following table illustrates the expected return of each action. As you can see, you win about 15-20% of your bet on average.
+
+
+
+Expected Return
+
+
+N
+Stop
+1-8
+4-7
+N
+Stop
+1-8
+4-7
+
+
+1
+0.00
+238.50
+244.61
+
+11
+0.00
+230.37
+192.19
+
+
+2
+0.00
+236.40
+238.44
+
+12
+0.00
+249.22
+223.44
+
+
+3
+0.00
+235.73
+232.06
+
+13
+0.00
+213.28
+287.50
+
+
+4
+0.00
+237.23
+226.87
+
+14
+0.00
+183.59
+237.50
+
+
+5
+0.00
+242.82
+229.85
+
+15
+50.00
+161.72
+175.00
+
+
+6
+0.00
+241.60
+247.19
+
+16
+100.00
+143.75
+100.00
+
+
+7
+0.00
+232.09
+251.15
+
+17
+200.00
+118.75
+0.00
+
+
+8
+0.00
+220.39
+237.30
+
+18
+250.00
+87.50
+0.00
+
+
+9
+0.00
+218.13
+210.94
+
+19
+300.00
+50.00
+0.00
+
+
+10
+0.00
+221.67
+189.06
+
+20
+400.00
+0.00
+0.00
+
+
+
+
+
+
+
+
+
+“This mission just got a lot more complicated.” — Spoilers for Mass Effect follow.
+
+
+
+
+Mass Effect[]
+
+Schells has developed a system to cheat on Quasar by using a device to record wins and losses. His device slightly increases the chance of winning, but gets him thrown out for cheating. Commander Shepard has the opportunity to help Schells in perfecting his device by winning several games of Quasar.
+Shepard discovers that someone has been using a Quasar machine to funnel credits through the system. After Shepard and the squad trace the signal from relay to relay through the Citadel, they find the 'person' responsible is a rogue AI in the back of the Emporium.
+
+
+
+
+
+
+
+“There won't be an Earth left to save...” — Spoilers for Mass Effect 3 follow.
+
+
+
+
+Mass Effect 3[]
+Quasar is available to play in the Silver Coast Casino, located on the Citadel's Silversun Strip.
+
+Trivia[]
+As stated by the quarian Golo in Mass Effect: Ascension, Quasar machines are easy to hack and expensive to repair.
+Quasar resembles Pazaak from Star Wars: Knights of the Old Republic, another game created by BioWare. Unlike Pazaak, however, Quasar is not played against an opponent.
+Quasar also resembles the real-world card game Blackjack, though Quasar lacks the competition against a dealer seen in Blackjack. Also, the ideal number in Quasar is 20, whereas in Blackjack, it is 21.
+
+
+

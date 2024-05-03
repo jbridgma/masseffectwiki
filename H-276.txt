@@ -1,0 +1,64 @@
+
+
+
+
+
+H-276
+
+Region
+Andromeda / Heleus Cluster / Pytheas
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+27.8 AU
+
+
+Orbital Period
+164.6 Earth Years
+
+
+Keplerian Ratio
+0.793
+
+
+Radius
+7,185 km
+
+
+Atm. Pressure
+11.13 atm
+
+
+Surface Temp
+−77 °C 
+
+
+Satellites
+1
+
+
+Location: Andromeda / Heleus Cluster / Pytheas System /  Fourth planet
+
+Description[]
+Remote and cold, H-276 is nevertheless of interest due to phosgene gas in its thick chlorine atmosphere. This could indicate primitive chlorine-based life. However, no detailed study has been completed.
+
+Anomaly[]
+Satellite[]
+DATA:
+Satellite ID: Nexus 0900-G
+Power readings: 84%
+System report: Databanks prepped for download
+Status: Operational
+ANALYSIS:
+A scientific monitoring satellite launched by early explorers to Eos. Its mission was abandoned when the original settlement of Eos failed, but it has gathered valuable data from H-276.
+Awards +50  when scanned.
+
+
+
+

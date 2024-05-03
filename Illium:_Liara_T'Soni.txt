@@ -1,0 +1,49 @@
+
+
+
+
+Liara has requested help hacking systems on Illium to get her valuable data. After hacking a system, a vulnerable server node can be linked to Liara's machine.
+
+Acquisition[]
+Prerequisite: Horizon (mission)
+
+This mission is acquired upon first landing on Illium. After conversation with Careena, you will receive a journal entry named Illium: Liara T'Soni. Visit Liara in her office, on the administration level directly above the trading floor, and talk to her. Ask her to come with you whether here or by speaking to her again after concluding the conversation, though she will decline because she has other things to do first. Find out about these prior commitments and offer to help. This changes the mission's name to Illium: Liara: System Hacking.
+Asking about her problem then declining to help will make Liara briefly strike her table in anger, but nevertheless she apologizes for the outburst and you get the System Hacking mission all the same.
+
+Walkthrough[]
+
+Note:  Similar to Omega: Aria T'Loak, you need to speak with Liara to advance both Dossier: The Assassin and Dossier: The Justicar, the recruitment missions for both Thane and Samara. Liara points you to the relevant people to talk to in those missions, and Illium: Liara T'Soni provides an avenue for it.
+Note: If the Lair of the Shadow Broker conversation option is selected after starting this mission, the hacking mission instantly completes without awarding credits or experience. Therefore, complete this mission before beginning the Shadow Broker DLC.
+Liara needs you to disable security at key points around Nos Astra. It has to be you, because she needs someone she can trust (apparently her assistant Nyxeris doesn't count). She's unwilling to divulge more, because she knows everything she says is probably being recorded.
+
+
+Three terminals need to be hacked. They are all located on the southern portion of the map, where the Taxi Stand, Memories of Illium, Gateway Personal Defense, Tracking Office, and Baria Frontiers are located. After a terminal is hacked, Shepard has 60 seconds to find the corresponding vulnerable system to upload the data to Liara. 
+Once a terminal is hacked, a number in the lower-right corner will indicate the distance from the vulnerable system. Once all three terminals are hacked, you will receive an experience reward plus 5 Renegade points, and Liara calls to tell Shepard to return to her office. Talking to Liara again completes the mission, awards 2000 credits, and unlocks the follow-up mission: Illium: Liara: The Observer.
+The first terminal can be found near the Tracking Office, its corresponding system is located on the left of Baria Frontiers.
+The second terminal is located near Gateway Personal Defense (close to Charr) and its corresponding system  is just on the right of the Tracking Office.
+The third terminal is between the area door and Gateway Personal Defense (next to two asari) and its corresponding system is located behind Memories of Illium.
+
+Mission Summary[]
+Experience reward: 40 (50)
+Credits: 2000
+Renegade points: +5
+
+Liara and the Shadow Broker Navigation
+
+
+
+
+Mission Index
+
+Next Mission →
+
+
+
+
+Missions
+
+Illium: Liara: The Observer
+
+
+
+

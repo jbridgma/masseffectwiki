@@ -1,0 +1,66 @@
+
+
+
+
+
+Patashi
+
+Region
+Milky Way / Argos Rho / Phoenix
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.5 AU
+
+
+Orbital Period
+0.3 Earth Years
+
+
+Keplerian Ratio
+1.389
+
+
+Radius
+7,082 km
+
+
+Day Length
+0.3 Earth Years
+
+
+Atm. Pressure
+0.00 atm
+
+
+Surface Temp
+546 °C 
+
+
+Surface Gravity
+0.75 g
+
+
+Mass
+0.918 Earth Masses
+
+
+Location: Milky Way / Argos Rho / Phoenix System /  First planet
+
+Prerequisite: Priority: Geth Dreadnought (Mass Effect 3)
+
+Description[]
+Patashi is a sun-blasted terrestrial world whose atmosphere was blasted away millennia ago by the star Phoenix. The surface is scorching hot, and mainly composed of iron with deposits of tin.
+Due to its relatively low density, Patashi is tidally locked to Phoenix. Seas of molten light metals cover much of the sunward side.
+
+Assignment[]
+Survey: UNC: Valuable Minerals:   Rare Element ×1 (Samarium)
+
+
+

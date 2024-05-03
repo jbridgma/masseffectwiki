@@ -1,0 +1,63 @@
+
+
+
+You have received a generic distress call coming from a small research facility founded by ExoGeni in the Maroon Sea Cluster.
+Alternative journal entry:
+You found a confidential transmission while on Feros. It's unclear exactly what's going on, but it appears ExoGeni sent some kind of sample to a research facility on Nodacrux.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+4 Enemies
+5 Trivia
+6 References
+
+
+Acquisition[]
+Prerequisite: Feros: The Thorian
+
+If you missed this assignment after completing Feros, selecting Nodacrux on the Galaxy Map for the first time prompts Joker to alert you to a silent distress call coming from there.
+
+To obtain this assignment on Feros, decrypt a console labeled ExoGeni Terminal in the cargo bay of the ExoGeni facility (average decryption). This gives the Investigate Facility assignment, which then updates to UNC: ExoGeni Facility upon traveling to Nodacrux. The terminal reads as follows:
+
+“CONFIDENTIAL
+"The test samples were due to arrive three days ago, but we haven't heard anything from the colony or the cargo vessel. We suspect the samples became volatile and recommend cutting off all further contact with the Nodacrux colony. Even if the colony is discovered, no one should be able to trace the events there back to us."”
+
+
+Preparation[]
+Expect a standard fight against organics in an interior environment. Equip the Anti-Thorian Gas acquired on Feros back into your grenades: ExoGeni has been doing some less than savory research here.
+
+Walkthrough[]
+Go to Nodacrux, which is located in the Vostok system of the Maroon Sea cluster. Upon landing, you'll notice some enemy signals on your radar: Thorian Creepers near some artificial structures. You don't have to do anything about them, but they're easy enough and there are lockers nearby for you to loot (one hard decryption and two easy decryption lockers). Whether you ignore them or kill them, head to the exclamation point on the map. Be advised, the base is quite hard to get into, given the steep mountains surrounding the entrance. If you approach from the south, there is a road with switchbacks providing easier access to the facility.
+The facility has four creepers around the exterior as well as several pieces of destructible concrete barricades. Go nuts on ragdolling them with your Mako's guns or your own weapons and talents.
+
+Inside the facility there's an Upgrade Kit in the antechamber. In the main chamber, there are around 9 creepers and a bunch of floor to ceiling crates, reducing visibility into the far sides of the room. Keeping near the door and letting them come to you is a good idea. You can also let them come and then backpedal into the entrance room, funneling the creepers into a bottleneck, making them easy prey.
+There are no lootables in the main area, so proceed to the far end of the facility after dealing with the creepers. The western room (on your right, from the tunnel junction) has two Storage Lockers (easy decryption), a Sludge Canister in front of those two, and a Locked Crate (also easy decryption). The eastern room (on your left, from the tunnel junction) has the facility's survivors holed up and opening the door leads to a conversation.
+
+You begin listening to Doctor Ross, who is in charge of this facility, and she's initially relieved at the sight of rescuers as they've been stuck in the room for days. However, since you already dealt with the Thorian on Feros you ask her why the facility's overrun with creepers. Realizing it's pointless to lie, Dr. Ross explains they created the local creepers from altered samples that resulted in supposedly docile and obedient creatures. However, they went berserk a few days ago, and only Ross and her three companions made it to the safety of the room. Ross theorizes there was still some residual link between the altered creepers and the Thorian itself, and the plant's death somehow set off the creepers around the facility. Out of concerns on corporate espionage and because their work was illegal to begin with, the scientists activated a distress beacon with no specifics hoping their employer would answer, but ExoGeni's busy dealing with the fallout on Feros.
+Dr. Ross attempts to convince Shepard that they've learned their lesson and there's no need to report them to the authorities. Normally ExoGeni would have her back but since they have their hands full Ross has an "emergency fund" that she wants to bribe Shepard with in exchange for their freedom. Accepting the money yields credits and you will be sent back outside the facility with the way inside disabled (Note:  If you are going to accept the bribe, search the other room for equipment before even initiating this conversation). Rejecting the bribe leads to morality points in either direction depending on your response, as well as a fight.
+It's two Mercenaries and two Scientists versus an N7 graduate and two companions in a cramped room with a bunch of obstacles. There's also a containment cell near the survivors if you need to soften them up.
+Before leaving the room, loot the Technician Kit, the Wetware Kit, the Malfunctioning Object, and the Medi-gel from the Aid Station.
+
+Enemies[]
+Thorian Creeper
+Scientist (optional)
+Mercenary (optional)
+Trivia[]
+A single empty Thorian 'pod', similar to the one Shiala was released from, can be found in a corner of the ExoGeni facility.
+Dr. Ross is voiced by Marianne Copithorne.
+There are a number of unused squad voicelines which would have been heard during this assignment.[1][2][3]
+References[]
+
+↑ Mass Effect Cut Content/Normandy and UNC Voicelines#sp103_triggers (1)
+
+↑ Mass Effect Cut Content/Normandy and UNC Voicelines#sp103_triggers (2)
+
+↑ Mass Effect Cut Content/Normandy and UNC Voicelines#sp103_triggers (3)
+
+
+
+
+

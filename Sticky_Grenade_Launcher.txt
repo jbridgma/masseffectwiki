@@ -1,0 +1,96 @@
+
+
+
+
+
+Sticky Grenade Launcher
+
+
+
+
+General Info
+
+Rarity
+Ultra Rare
+
+
+Aug Type
+Gun Projectile
+
+
+RD Cost
+200
+
+
+Tech Type
+
+
+
+
+Sticky Grenade Launcher is an augmentation in Mass Effect: Andromeda.
+
+Contents
+
+1 Compatibilities
+2 Description
+3 Mechanics
+4 Strategies
+5 Restrictions
+
+
+Compatibilities[]
+Guns - This augmentation can be applied to gun-type weapons.
+Description[]
+Non-shotgun weapons: Each projectile is now a sticky grenade
+Shotgun: Each pellet is now a sticky grenade, with lower damage per pellet 
+
+Mechanics[]
+The Sticky Grenade Launcher augmentation SHOULD NOT be combined with the Plasma Charge System. The Plasma Charge system interferes with the functionality of the Sticky Grenade Launcher. 
+
+Strategies[]
+Restrictions[]
+The following weapons are unable to use this augmentation: 
+
+Scorpion
+
+
+
+
+Mass Effect: Andromeda Augmentations
+
+
+
+
+General
+
+Anti-Armor Module • Biotic Damage Booster • Biotic Recharge Module • Combat Power Module • Combat Recharge Module • Duration Boost Module • Kinetic Coil • Medi-Gel Regulator • Newtonian Multiplier • Reaction Displacer • Reaction Optimizer • Shield Accelerator • Shield Booster • Shield Bypass Unit • Shield Generator • Support Power Module • Tech Damage Module • Tech Recharge Module
+
+
+Gun Behavior
+
+Plasma Charge System • Vintage Heat Sink
+
+
+Gun Fire Type
+
+Automatic Fire System • Burst Fire System • Single Fire System
+
+
+Gun Projectile
+
+Beam Emitter • Electrical Conduits • Grenade Launcher • Ricochet System • Seeking Plasma System • Sticky Grenade Launcher
+
+
+Mod Slots
+
+Double Mod Extension • Mod Slot Extension
+
+
+Special
+
+Aerial Lubricant • Aerial Performance Optimizer • Aerial Stabilizer • Battlefield Assist Module • Bio-Converter • Concentration Module • Coolant Unit • Cryo Condenser • Electrical Conduits • Equilibrium Regulator • Heat Inducer • Power Booster • Rebalanced Field Coils • Shield Disruptor • Shield Oscillator • Shield Sensors
+
+
+
+
+

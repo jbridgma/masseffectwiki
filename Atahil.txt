@@ -1,0 +1,102 @@
+
+
+
+
+
+Atahil
+
+Region
+Milky Way / Hawking Eta / Schwarzschild
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.9 AU
+
+
+Orbital Period
+1 Earth Year
+
+
+Keplerian Ratio
+0.729
+
+
+Radius
+5,230 km
+
+
+Day Length
+28.8 Earth Hours
+
+
+Atm. Pressure
+62 atm
+
+
+Surface Temp
+348 °C 
+
+
+Surface Gravity
+0.79 g
+
+
+Mass
+0.527 Earth Masses
+
+
+Location: Milky Way / Hawking Eta / Schwarzschild System /  First planet
+
+Prerequisite: Collector Ship (mission) or Project Firewalker: Rosalie Lost (Mass Effect 2)
+
+Description[]
+A typical Venusian "greenhouse" world, Atahil is only of note for a few scattered craters. Though flattened by millions of years of high pressure, the marks of orbital bombardment strikes are unmistakable. It is generally accepted among academics that whoever hailed from or settled Schwarzschild's second planet, Etamis, must have had outposts on Atahil as well.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+6,100
+
+
+Platinum
+
+Medium
+
+7,000
+
+
+Iridium
+
+High
+
+16,500
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

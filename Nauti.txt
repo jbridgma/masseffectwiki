@@ -1,0 +1,63 @@
+
+
+
+
+
+Nauti
+
+Region
+Milky Way / Athena Nebula / Vernio
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.7 AU
+
+
+Orbital Period
+0.5 Earth Years
+
+
+Keplerian Ratio
+1.372
+
+
+Radius
+10,081 km
+
+
+Day Length
+54.4 Earth Hours
+
+
+Atm. Pressure
+78.03 atm
+
+
+Surface Temp
+1,300 °C 
+
+
+Surface Gravity
+1.42 g
+
+
+Mass
+3.521 Earth Masses
+
+
+Location: Milky Way / Athena Nebula / Vernio System /  First planet
+
+Prerequisite: Priority: The Citadel II (Mass Effect 3)
+
+Description[]
+Nauti is a rocky planet with a crushing atmosphere. Thick clouds have created a runaway greenhouse effect, locking in the brutal heat from its yellow-white star, Vernio. Much of Nauti's surface is brittle rock with deposits of molten metal.
+
+
+
+

@@ -1,0 +1,71 @@
+
+
+
+
+
+Pas-10
+
+Region
+Andromeda / Heleus Cluster / Inalaara
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.9 AU
+
+
+Orbital Period
+0.9 Earth Years
+
+
+Keplerian Ratio
+0.9
+
+
+Radius
+3,637 km
+
+
+Atm. Pressure
+0.89 atm
+
+
+Surface Temp
+49 °C 
+
+
+Location: Andromeda / Heleus Cluster / Inalaara System /  First planet
+
+
+Contents
+
+1 Description
+
+1.1 Pre-Mission
+1.2 Post-Mission
+
+
+2 Missions
+3 Trivia
+
+
+Description[]
+Pre-Mission[]
+An inhospitable, unstable volcanic planet. There is evidence of a large-scale Remnant complex, mostly buried beneath the surface. The mysterious signal that Peebee discovered emanates from a section of this complex.
+
+Post-Mission[]
+An inhospitable, unstable volcanic planet. The recent volcanic eruption has made landing and access to the buried Remnant complex impossible. Peebee's mysterious signal is now too faint to hone in on.
+
+Missions[]
+Peebee: Secret Project
+
+Trivia[]
+Pas-10's surface temperature changes after completing Peebee's loyalty mission due to the volcanic eruption. It is 32°C before the mission, and 49°C after.
+
+
+

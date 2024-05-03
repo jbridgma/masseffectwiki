@@ -1,0 +1,53 @@
+
+
+
+
+
+Tunshagon
+
+Region
+Milky Way / Hades Gamma / Farinata
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+5.65 AU
+
+
+Orbital Period
+3.2 Earth Years
+
+
+Keplerian Ratio
+17.613
+
+
+Radius
+42,418 km
+
+
+Day Length
+9.1 Earth Hours
+
+
+Satellites
+7
+
+
+Location: Milky Way / Hades Gamma / Farinata System /  First planet
+
+
+Description[]
+Tunshagon is a hydrogen-helium gas giant with traces of chlorine and nitrogen in its atmosphere. It has an unusually small number of moons for a gas giant; a mere seven. This is likely due to the star Farinata capturing the majority of the mass during the nebular collapse that created the system.
+
+Properties[]
+Tunshagon is too small and hot to be a "standard hydrogen-helium gas giant" (William Hubbard, The New Solar System 4th ed, 1999; p. 194). In addition its near 18 sol-mass star means that even "ice giants" of this radius are impossible (due to Farinata's young age and heat). Tunshagon is more likely a superterrestrial protoplanet.
+
+
+
+

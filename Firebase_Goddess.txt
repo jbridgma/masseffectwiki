@@ -1,0 +1,157 @@
+
+
+
+Firebase Goddess is a multiplayer map included in the Mass Effect 3: Rebellion Pack. It is set on Thessia.
+Contents
+
+1 Description
+2 Locations
+
+2.1 Exterior
+2.2 Elevator Access
+2.3 Entry Hallway
+2.4 Great Hall
+2.5 Main Corridor
+2.6 Lab
+2.7 Balcony
+
+
+3 Player Notes
+4 References
+
+
+Description[]
+Nestled in the epicenter of a Thessian metropolis, Firebase Goddess is one of the last strongholds of asari resistance against the Reapers. With its circular layout, Firebase Goddess is a tough location to control. This arena combines heavy cover and elevated firing positions, so stay light on your feet.[1]
+
+Locations[]
+Exterior[]
+Overlook of the city. Players begin and extract near the statue in this area.
+
+Connects to the Elevator Access (through a large corridor).
+Connects to the Entry Hallway (through a large doorway).
+Connects to the Balcony (up a ladder).
+Connects to the Balcony (though a doorway).
+There is an ammo dump located next to a crate on the wall underneath one of the drop offs from the Balcony.
+
+Elevator Access[]
+Room containing an elevator shaft.
+
+Connects to the Great Hall (through a large doorway).
+Connects to the Exterior (through a large doorway).
+Connects to the Entry hallway (through two large doorways).
+Entry Hallway[]
+Interior hallway.
+
+Connects to the Great Hall (through a large doorway).
+Connects to the Exterior (through a large doorway).
+Connects to the Elevator Access (through two large doorways).
+Connects to the Main Corridor (up a ladder).
+Great Hall[]
+Central plaza with a large statue in the center.
+
+Connects to the Entry Hallway (through a large doorway).
+Connects to the Elevator Access (through a large doorway).
+Connects to the Main Corridor (through a large doorway).
+There is an ammo dump located on the wall between the large doorways into the Elevator Access and the Entry Hallway.
+
+Main Corridor[]
+Multi-level area that overlooks the Great Hall.
+
+Connects to the Great Hall (down a drop off).
+Connects to the Great Hall (through a large doorway).
+Connects to the Entry Hallway (down a ladder).
+Connects to the Main Corridor (through a large doorway).
+Connects to the Lab (through a hallway).
+Connects to the Balcony (through two large doorways).
+There is an ammo dump located on a small pile of containers in the center of the room before the doorway into the Great Hall.
+Note: The player is unable to drop off the sides of the ladder leading down to the Entry Hall. Even though the platform height is the same as the drop off into the Great Hall, the player can only take the ladder to get directly to the Entry Hall from the Main Corridor.
+
+Lab[]
+Medical room.
+
+Connects to the Balcony (through a large doorway).
+Connects to the Main Corridor (through a hallway).
+There is an ammo dump located on the wall next to a stack of three barrels.
+
+Balcony[]
+Damaged area overlooking the Exterior.
+
+Connects to the Exterior (through a large doorway).
+Connects to the Exterior (down two drop offs).
+Connects to the Exterior (down a ladder).
+Connects to the Lab (through a doorway).
+Connects to the Main Corridor (through two large doorways).
+Player Notes[]
+
+
+Grenade Resupply Location
+Bronze
+Silver
+Gold
+Platinum
+
+
+Exterior
+4
+2
+2
+2
+
+
+Great Hall
+2
+1
+1
+1
+
+
+Lab
+4
+2
+2
+2
+
+
+Main Corridor
+4
+2
+2
+2
+
+
+This map is littered with cover, though due to the small size of the map, squads can easily find themselves overrun. A "shoot and scoot" policy is effective and probably the wisest choice on this map.
+The narrow and tight corridors are apt for AoE attacks and shotgun/submachine gun play. Sniping, on the other hand, can be challenging on this map, and it is recommended to carry  lighter and faster-firing sniper rifles like the Viper or Indra.
+Extraction on this map can be very difficult: the extraction area is small with little room to maneuver, which makes the players vulnerable to area effect weapons. Enemies can approach the extraction point from several angles, one of which, the balcony, allows them to shoot over cover from close range.
+References[]
+
+↑ http://blog.bioware.com/2012/05/24/mass-effect-3-rebellion-pack/
+
+
+
+
+Mass Effect 3 Multiplayer Maps
+
+
+Original Maps
+
+Firebase Dagger • Firebase Ghost • Firebase Giant • Firebase Reactor • Firebase Glacier •  Firebase White
+
+
+Resurgence Maps
+
+Firebase Hydra • Firebase Condor
+
+
+Rebellion Maps
+
+Firebase Jade • Firebase Goddess
+
+
+Earth Maps
+
+Firebase Rio • Firebase Vancouver • Firebase London
+
+
+
+
+

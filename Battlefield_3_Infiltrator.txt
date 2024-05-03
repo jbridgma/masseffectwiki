@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+
+
+Battlefield 3 Infiltrator
+
+
+
+
+
+
+Class
+Infiltrator
+
+
+Race
+Human
+
+
+Rarity
+Inaccessible
+
+
+Availability
+Not available
+
+
+Abilities
+Combat RollDisruptor Omni-Blade
+
+
+Humans joined the galactic community after discovering a Prothean data cache on Mars in 2148. Their devotion to understanding and adapting to modern warfare left the staid Council races stunned. Humanity's persistence and unflappable spirit has taken them further than anyone in the galaxy could have imagined.
+Human infiltrators focus on taking out enemies from afar without detection, but they also specialize in flanking and misdirection, allowing their allies to make short work of disorientated opponents on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Access
+4 Player Notes
+
+4.1 General Notes
+4.2 Cerberus
+4.3 Geth
+4.4 Reapers
+4.5 Collectors
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 500
+
+
+Class: Alliance Training
+
+
+ Tactical Cloak
+
+
+
+
+ Incinerate
+
+
+
+
+ Sticky Grenade
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Battlefield 3 Infiltrator executes a series of up to three punches.
+Heavy Melee (Disruptor Omni-Blade) – The Battlefield 3 Infiltrator slashes with a forked omni-blade discharging electrical energy.
+Grab (Omni-Blade Stab) – The Battlefield 3 Infiltrator drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Roll) – The Battlefield 3 Infiltrator rolls to quickly evade incoming attacks.
+The Battlefield 3 Infiltrator can take cover, and can roll from cover to cover.
+
+Access[]
+The Battlefield 3 Infiltrator is a complete class with powers, animations and voice lines, which cannot be selected under normal circumstances. A modification of game files is required to unlock this character to be selected. Once unlocked, it will appear as the right-most infiltrator on the character selection screen.
+Attempting to play this class as an off-host client will default the character to the male Human Adept.
+Player Notes[]
+General Notes[]
+Due to its proportion-based recharge time, Tactical Cloak can "hide" the recharge of Incinerate, allowing to cast Incinerate every 4 seconds regardless of the weapon weight.
+Sticky Grenade is a detonator of fire, tech and cryo combos. Throwing a grenade and immediately casting Incinerate can produce very strong Fire Explosions, obliterating armored targets when paired up with the anti-armor evolution of the grenades.
+With Disruptor Rounds, two combos can be detonated every cloak cycle: cloaking, throwing a grenade, shooting to prime and casting Incinerate can produce a Tech Burst quickly followed by a fire explosion.
+As the last two ranks of Tactical Cloak offer little advantage to non-snipers, they can be skipped on non-sniper builds, saving evolution points for other purposes.
+Grenade Capacity Gear and the anti-armor evolution of Sticky Grenades should be used on a grenade-heavy build.
+A non-grenade-heavy build can use other kinds of gear and still have a grenade carrying capacity of 4 thanks to the grenade count evolution.
+The passive power should generally be focused on weapon damage.
+Cerberus[]
+Atlas is the perfect target for the two-combo attack cycle with Disruptor Rounds. Using the N7 Crusader, and Atlas on Platinum can be taken down in two cloak cycles.
+Incinerate is a very effective tool to deal with Dragoons. Causing a Dragoon to panic makes them a very good target for a Sticky Grenade.
+Phantoms can be dealt in a few ways using Sticky Grenades: either by throwing a grenade in their path as a trap or by looking away to trigger the throwing animation followed by immediately aiming in the correct direction.
+Geth[]
+Due to their tendency to stick together, those enemies are very susceptible to Tech Bursts and large Fire Explosions. Use Geth Primes as the center of those explosions.
+Reapers[]
+The armor damage potential of the cloaked Incinerate + Sticky Grenade combo comes into play very well against Ravagers, Brutes and Banshees.
+When throwing a grenade on a walking-mode Banshee, remember to look away before triggering the cast.
+Incinerate is very useful at throwing Husks and Cannibals into panic mode.
+Collectors[]
+Similarly as with Reapers, the armor damage potential of this class can be fully utilized by targeting Scions and Praetorians.
+Collector foot soldiers become very dangerous in the berserk mode at the end of waves. Throwing a couple Sticky Grenades in their path will surely slow them down.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

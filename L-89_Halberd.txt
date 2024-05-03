@@ -1,0 +1,451 @@
+
+
+
+
+
+L-89 Halberd
+
+
+
+
+
+							Default
+							
+						
+
+
+
+							Bulwark
+							
+						
+
+
+
+							Concussive
+							
+						
+
+
+
+							Siphon
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Category
+Assault Rifles
+
+
+Rarity
+Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+103
+
+
+Rate of Fire
+300
+
+
+Max Clip Size
+17
+
+
+Max Ammo
+97
+
+
+Accuracy
+111
+
+
+Weight
+25
+
+
+
+
+
+Base Stats
+
+Damage
+117-147
+
+
+Rate of Fire
+405
+
+
+Max Clip Size
+25-32
+
+
+Max Ammo
+84-105
+
+
+Accuracy
+65-81
+
+
+Weight
+25-13
+
+
+
+Bulwark
+
+Damage Resistance (1 Ally): 15-25Damage Resistance (2 Allies): 22-37Damage Resistance (3 Allies): 30-50
+
+
+
+Concussive
+
+Area Damage: 800-1500Radius (m): 7.50
+
+
+
+Siphon
+
+% Damage Returned as Health: 3-3.75% Heal Bonus per kill: 4.5Kill Streak Duration (s): 7Max. Kill Bonus: 3
+
+
+
+
+
+The L-89 Halberd is an assault rifle in Mass Effect: Andromeda.
+
+Contents
+
+1 Description
+2 Features
+3 Strategies
+4 Stats
+5 Development
+6 Trivia
+7 References
+
+
+Description[]
+The sleek L-89 Halberd favors power and precision. The semi-automatic rifle was the Andromeda Initiative's attempt to make a weapon on par with the reliable M-96 Mattock that also used Initiative breakthroughs in materials science. Only a few were made but their effectiveness in the field is unquestioned. 
+
+Features[]
+The single-player Halberd can't be acquired beyond Rank I. The multiplayer Halberd has no such restrictions and can be leveled to Rank X with sufficient packs.
+The multiplayer Halberd saw numerous balance changes to its damage and clip size until it settled on 117-147 and 25-32, respectively, as of the very last update. Its rate of fire changed once from 300 to 405.
+
+Strategies[]
+
+Stats[]
+SingleplayerMultiplayer
+Singleplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+103
+
+300
+
+17
+
+97
+
+111
+
+25
+
+
+Multiplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+117
+
+405
+
+25
+
+84
+
+65
+
+25
+
+
+II
+
+120
+
+405
+
+26
+
+86
+
+70
+
+24
+
+
+III
+
+123
+
+405
+
+26
+
+89
+
+73
+
+22
+
+
+IV
+
+126
+
+405
+
+27
+
+91
+
+75
+
+21
+
+
+V
+
+129
+
+405
+
+27
+
+93
+
+76
+
+19
+
+
+VI
+
+132
+
+405
+
+28
+
+96
+
+78
+
+18
+
+
+VII
+
+135
+
+405
+
+29
+
+98
+
+79
+
+17
+
+
+VIII
+
+138
+
+405
+
+30
+
+100
+
+80
+
+15
+
+
+IX
+
+143
+
+405
+
+31
+
+103
+
+81
+
+14
+
+
+X
+
+147
+
+405
+
+18
+
+105
+
+81
+
+13
+
+
+Development[]
+The L-89 Halberd can't be developed as its blueprint is unavailable.
+
+Trivia[]
+A halberd is a pole weapon consisting of an axe topped with a spike on one end.
+Codes to unlock the L-89 Halberd in multiplayer were given out via a Logitech promotion over Twitter.[1]
+References[]
+
+↑ https://twitter.com/LogitechG/status/860947291225690112
+
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

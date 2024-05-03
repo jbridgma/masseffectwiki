@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+Caleston: Last Man Standing is a mission in Mass Effect which was cut during development. It was a major plot on the cut planet Caleston which Commander Shepard would take part in before departing towards the Ring of Fire in search of Liara T'Soni, though it had ramifications that extended past her recovery.
+Note:  the following plotline is based on a version of this mission for which the soundbanks and plot checks were most extensively made. It may be incomplete. For additional dropped plot points related to this mission which may be related to different versions of this mission, see Additional Plotlines.
+
+Contents
+
+1 Acquisition
+2 Plotline
+
+2.1 Introductions
+2.2 Gangland
+2.3 The Bore Mission
+2.4 Helping Fred
+2.5 Assassination
+2.6 Arresting a Boss
+2.7 Aftermath
+
+
+3 Additional Plotlines
+4 References
+
+
+Acquisition[]
+This mission would be automatically acquired upon landing in Throw Down on Caleston.
+
+Plotline[]
+Introductions[]
+Right after exiting the SSV Normandy, Shepard goes to talk to the harbormaster, Charlie Booker. He tells you that the station's administrator, Nonya Tombiri, wishes to speak to Shepard. If asked, Booker shows he knows of Dr. T'Soni, but has no idea where she is currently.
+
+Crossing the Throw Down Plaza and into the administrative building, Shepard meets the administrator who explains the gravity of the situation. Since the Cartel, a drug-dealing organization led by two salarian brothers, arrived in Throw Down and took control of a part of the eezo refinery, the station has plunged into a gang war between the Cartel and the local human Miners' Union. Tombiri claims Dr. T'Soni is here on Throw Down, prisoner inside Cartel leader Sannul "Smiley" Amnoss's mansion. Tombiri thus suggests that Shepard eliminates Smiley to free T'Soni, which would also solve Caleston's gang problem. She gives Shepard a pass to unlock the elevator to the refinery, to meet with a "Union representative" called Sessa Tarrent who will help getting to Smiley.
+Gangland[]
+After taking the elevator down to the refinery, Shepard witnesses a strange scene: Smiley's brother Raciloma beats up a few refinery workers who were harrassing a scientist, right in front of an uncaring Sessa Tarrent, who is accompanied by Fred Mazzei. As Shepard talks with Sessa, it's obvious that she's not a simple Union representative; she's a cold, no-nonsense mercenary. To draw Smiley out, Sessa suggests going after Raciloma. To that end, she's planned to hit a Cartel red sand cache which was found in a nearby mine, and invites Shepard to join her team of mercenaries for this mission, along with Fred. Shepard can travel to the site by going to the garage airlock in Throw Down.
+
+The Bore Mission[]
+
+On the way to the tunnels, Shepard's squadmates express their reservations about working for a criminal syndicate like the Union. Shepard can either respond with understanding, or dismiss the concern and move on. In the tunnels, Shepard can also take a moment to talk with Fred who voices his frustration at being a Union lackey. Shepard can motivate him to keep trying harder to impress Sessa, suggest leaving Caleston, or offer to collect Oronath's dues in his stead, a task Sessa gave him which he struggles to complete. Whatever the case, a few Cartel turians appear suddenly and menacingly ask everyone to leave. With the use of Charm or Intimidate, Shepard can convince the Cartel men to leave peacefully. Otherwise, the situation devolves into a firefight, and depending on what Shepard told him to do, Fred may either flee, or try to fight to "impress" Sessa.
+If a firefight occurred, Shepard has to rig the bore since Fred is unable to do it (either from being gone or needing to vomit). If no shootout took place, then Fred will rig the bore himself and return to Throw Down. With the drug cache destroyed in the explosion, Shepard returns to the Throw Down refinery to meet with Sessa again. She says that thanks to Shepard's efforts, she has managed to set up a meeting between her and Raciloma, which will be the perfect opportunity for Shepard to ambush and kill him. She pays 500 credits for the bore job, and with Charm or Intimidate, this can be increased to 750. If Fred didn't desert, Shepard may also convince Sessa to promote him to refinery supervisor, which can also be rewarded with an additional 250 credits. If Fred did desert, Shepard can haggle to get half of Fred's pay for the job (another 250 credits).
+
+Helping Fred[]
+Fred can be found in the refinery if he didn't desert during the bore mission. Assuming Shepard offered to help him with collecting credits from Oronath, helping him becomes an optional sub-plot to complete. Found on the Plaza, Oronath claims he really doesn't have any credits, and Shepard can either force him to give some medigel to be sold to the volus merchant Kar Kath to cover the debt, or Shepard can offer to pay the debt directly. Fred is overjoyed to have the job taken care of, but Sessa will reveal she had never expected Fred to get those credits, and she had just given him that task to annoy him.
+If Fred deserted earlier, then he may be found again on the Plaza. He's laying low to avoid Sessa finding him, and asks Shepard to give him 1,000 credits to leave the planet. If Shepard gives him the money immediately, he is never seen again (until Mass Effect 2, at least). If Fred is told to wait a little longer for the money or if Shepard outright tells him no, he will appear by the Normandy dock later on to beg Shepard again. Outright refusing to give any credits again will make him give up, and he says he'll find a way somehow.
+
+Assassination[]
+
+During the talks on the site of the meeting, it becomes obvious that Raciloma and Sessa are romantically involved, but Raciloma also figures out the ambush quickly. During the ensuing shoot-out, Raciloma is hit and eventually dies by Sessa's side. She tells Shepard to take Raciloma's keycard to Smiley's mansion. Afterwards, Shepard's squadmates take another moment to ask what they intend to do about the Union once T'Soni is found. Shepard can either reply that taking down the Union is part of the plan, that only finding T'Soni matters, or reply with uncertainty.
+
+Arresting a Boss[]
+Inside the mansion, Shepard confronts Smiley but finds no sign of Liara T'Soni. Smiley reveals that he never had her; that was all a lie made up by Tombiri to get rid of him, since Tombiri is actually the head of the Union. With Charm or Intimidate, Shepard can persuade Smiley to reveal Liara's real location at Knossos, but he will otherwise fight Shepard for having killed his brother. In the end, it's up to Shepard to let Smiley go on freely, to take him to jail, or to kill him. Leaving the mansion, Shepard comes across Sessa Tarrent again with her band of mercenaries out on the plaza. She says Tombiri has tasked her to kill Shepard. The situation can be defused with Charm, Intimidate, or if Jason Harrah's help was secured during the assignment Caleston: Redemption and assuming he's still alive, in which case Harrah talks Sessa down and her band disperses.
+Shepard finds Tombiri again in her office, unfazed by the unexpected appearance. She proposes to make a deal: if Shepard leaves her alone, she provides Liara T'Soni's real location. If Shepard already has the location thanks to Smiley, then all that's left to decide to whether to take her in or leave her be. If Shepard doesn't have Liara's location but refuses to take the deal, it's possible to let Ashley or Wrex coerce Tombiri into revealing it, let Shepard handle the coercing, or use Charm or Intimidate. Whichever the case, you would eventually get the location if you didn't have it already, and Tombiri's fate is again left to Shepard.
+
+Aftermath[]
+
+Now with T'Soni's true location, Shepard can choose to go down to the garage and take the M35 Mako to the Ring of Fire where Knossos is located. If Smiley was jailed or killed, Oronath can be informed that he may go back to his former medical bay in the "mansion." If Tombiri was jailed or killed, then Wren Carson becomes the new temporary administrator of Throw Down and can be found in Tombiri's office. Smiley and/or Tombiri can be found in Harrah's jail if they were arrested. Most characters around Throw Down and the refinery would have different comments on the state of the station depending on the outcome of this mission.
+On the Citadel, Shepard may have heard a report about Caleston which differs depending on Tombiri's fate.
+
+Additional Plotlines[]
+Alternative versions of this mission made it possible to actively side with the Cartel and perform missions for them, notably by disabling the bore during the "bore mission" instead of blowing it up, in order to keep the red sand cache safe.[1]
+While the above plotline only shows Raciloma dying in the confrontation with Sessa, there are traces of Sessa dying and Raciloma surviving. Hieraxun, which is an alternative name for Sebastian Van Heerden, may have also taken part in the ambush somehow.
+A sub-plot in which Aramus and Ternos took part is also mentioned, and involved learning of "assassinations" and "moles" within a gang.
+References[]
+Mass Effect Cut Content/Caleston: Last Man Standing: Infiltrate Gangs Voicelines
+Mass Effect Cut Content/Caleston: Last Man Standing: Help Fred Voicelines
+Mass Effect Cut Content/Miscellaneous Texts#Caleston
+Plot Database: LE1.DLC_Caleston.Last_Man_Standing
+
+↑ Plot Database: LE1.DLC_Caleston.Last_Man_Standing.Infiltrate_Gangs.Cartel_Missions.Working_4_Cartel, LE1.DLC_Caleston.Last_Man_Standing.Infiltrate_Gangs.Cartel_Missions.Check_M1_Accepted_Cartel_True
+
+
+
+
+

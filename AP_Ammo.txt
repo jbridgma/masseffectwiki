@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+This article is about the Power. For the Ammo Upgrade in Mass Effect, see Ammo Upgrades. For the Ammo Bonus in Mass Effect 3 Multiplayer, see Mass Effect 3 Multiplayer/Character Customization/Equipment.
+
+Armor-Piercing Ammo is a power in Mass Effect 2 and Mass Effect 3's single-player mode. 
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Tungsten Ammo
+1.1.2 Squad Armor Piercing Ammo
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Armor-Piercing Ammo
+2.1.2 Rank 2: Pierce
+2.1.3 Rank 3: Damage
+2.1.4 Rank 4: Damage/Squad Bonus
+2.1.5 Rank 5: Ammo Capacity/Headshots
+2.1.6 Rank 6: Damage/Pierce
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+3 References
+
+
+Mass Effect 2[]
+ 
+Increases damage to armor and health.
+
+Power Ranks[]
+Rank 1 - Your ammo is shaped and hardened to pierce targets, inflicting extra damage to armor and health.
+Recharge Time: 1.50 seconds
+Duration: lasts until overridden by another ammo power.
+Armor and Health Damage: +30.00% weapon damage
+Rank 2 - Your ammo is shaped and hardened to pierce targets, inflicting extra damage to armor and health.
+Recharge Time: 1.50 seconds
+Duration: lasts until overridden by another ammo power.
+Armor and Health Damage: +40.00% weapon damage
+Rank 3 - Your ammo is shaped and hardened to pierce targets, inflicting extra damage to armor and health.
+Recharge Time: 1.50 seconds
+Duration: lasts until overridden by another ammo power.
+Armor and Health Damage: +50.00% weapon damage
+
+Rank 4
+Evolves Armor-Piercing Ammo into one of the following options:
+
+Tungsten Ammo[]
+Advanced tungsten carbide rounds in discarding sabots increase the damage done by Armor-Piercing Ammo.
+Recharge Time: 1.50 seconds
+Duration: lasts until overridden by another ammo power.
+Armor and Health Damage: +70.00% weapon damage
+Squad Armor Piercing Ammo[]
+Time spent custom gunsmithing allows the entire squad to gain the effects of Armor-Piercing Ammo.
+Recharge Time: 1.50 seconds
+Duration: lasts until overridden by another ammo power.
+Armor and Health Damage: +50.00% weapon damage
+Player Notes[]
+Armor-piercing Ammo is one of only three ammo powers available as a Bonus Power, along with Warp Ammo and Shredder Ammo. It can provide the highest raw damage bonus against enemy armor (yellow bar) of any ammo power, and the second highest possible damage bonus against health (red bar) aside from Shredder Ammo. This makes it an excellent choice for any player class that lacks Incendiary Ammo, especially if Tungsten Ammo is chosen at rank 4.
+Due to how damage is applied in Mass Effect 2, Armor-Piercing Ammo is the best ammo power to have active on weapons when going for one-shot kills against any armored foe, followed by Incendiary Ammo and Warp Ammo.
+Availability[]
+Shepard via Advanced Training
+Garrus Vakarian (Loyalty Power)
+Mass Effect 3[]
+
+
+Power Ranks[]
+Rank 1: Armor-Piercing Ammo[]
+Bring down heavy-armor units. Shoot through light cover to hit enemies. 
+More weapon damage.More damage to armor.
+
+Health Damage Bonus: +10%
+Armor Damage Bonus: +10%
+Armor Effectiveness: -50%
+Penetration: 0.50 m
+
+
+Rank 2: Pierce[]
+Increase ammo's cover penetration by 40%.
+
+Health Damage Bonus: +10%
+Armor Damage Bonus: +10%
+Armor Effectiveness: -50%
+Penetration: 0.70 m
+
+
+Rank 3: Damage[]
+Increase health and armor damage by 4%.
+
+Health Damage Bonus: +14%
+Armor Damage Bonus: +14%
+Armor Effectiveness: -50%
+Penetration: 0.70 m
+
+
+Rank 4: Damage/Squad Bonus[]
+
+
+
+Damage
+Increase health and armor damage by 6%.
+
+Health Damage Bonus: +20%
+Armor Damage Bonus: +20%
+Armor Effectiveness: -50%
+Penetration: 0.70 m
+
+
+Squad Bonus
+Squadmates gain your ammo power at 50% effectiveness.
+
+
+
+
+Rank 5: Ammo Capacity/Headshots[]
+
+
+
+Ammo Capacity
+Increase ammo capacity by 30%.
+
+
+
+Headshots
+Increase headshot damage by 25%.
+
+
+
+
+Rank 6: Damage/Pierce[]
+
+
+
+Damage
+Increase health and armor damage by 10%.
+
+Health Damage Bonus: +30% (Damage), +24% (Squad Bonus)
+Armor Damage Bonus: +30% (Damage), +24% (Squad Bonus)
+Armor Effectiveness: -50%
+Penetration: 0.70 m
+
+
+Pierce
+Increase ammo's cover-penetration by 60%.Decrease the effectiveness of armored targets by 25%.
+
+Health Damage Bonus: +20% (Damage), +14% (Squad Bonus)
+Armor Damage Bonus: +20% (Damage), +14% (Squad Bonus)
+Armor Effectiveness: -75%
+Penetration: 1 m
+
+
+
+Player Notes[]
+Mechanics
+Though not listed in the in-game description text, there is a 50% damage penalty for piercing any object, including terrain, enemy armor plating, other enemies, or even your own squadmates (which normally obstruct your shots). In multiplayer, Armor-Piercing Rounds and Drill Rounds do not carry this penalty.
+Care should be used when choosing the rank 4 Squad Bonus if other squad members are using ammo powers as then activating an ammo power with the Squad Bonus will override other squad members' ammo powers. You can tell which ammo power is actually active based on the icon appearing over your gun.
+The ammunition capacity boost, if chosen, only applies on the active ammo power. Switching to another ammo power will remove the extra ammunition even if both have the capacity boost.
+Armor-Piercing Ammo reduces the damage reduction provided by armor of targets such as Atlases, Ravagers or Geth Pyros by the percentage listed. It also penetrates through the armor plates protecting enemies such as Brutes, Cannibals after they devour a corpse, or Cannibals and Husks after they are given plating by a Marauder. It even pierces the Guardian's shield. These effects are not given by other armor-weakening ammunition types, such as Cryo Ammo and Warp Ammo.
+The armor-weakening effect is party-friendly; it creates a short-duration debuff (about two seconds or so) that other players or squadmates can benefit from.[1]
+The armor-weakening effect is not party-friendly for either Armor-Piercing Rounds or Drill Rounds in multiplayer; only the user will benefit.
+Some weapons' effects synergize (or stack) cumulatively with Armor-Piercing Ammo:[2]
+The following weapons deal 50% more damage vs. armored foes: Krysae Sniper Rifle, N7 Typhoon, and Collector SMG.
+The following weapons have innate penetration that is increased by Armor-Piercing Ammo: Black Widow, Executioner Pistol, Javelin, M-98 Widow, N7 Crusader, N7 Typhoon. However, it is important to be aware these weapons suffer no damage penalty by default for penetrating objects, but a damage penalty will apply if they are augmented with Armor-Piercing Ammo.
+The Particle Rifle and the Reegar Carbine will benefit from the cover penetration conferred by Armor-Piercing Ammo.
+By contrast, Armor-Piercing Ammo does not confer cover penetration to weapons that are unable to pierce cover: Acolyte, Adas Anti-Synthetic Rifle, Chakram Launcher, Geth Plasma Shotgun, Graal Spike Thrower, Kishock Harpoon Gun, Krysae Sniper Rifle, M-37 Falcon, Scorpion, Striker Assault Rifle, Venom Shotgun.
+Upgrades to power damage will increase Armor-Piercing Ammo's listed damage bonus against health and armor. Cover penetration and armor effectiveness are only dependent upon the evolutions taken in Armor-Piercing Ammo.
+Strategies
+Piercing is an excellent attribute to give to NPC squadmates as they have a tendency to try and shoot directly at enemies even when they are in cover or obscured by terrain.
+Availability[]
+Single Player: Garrus Vakarian, Kasumi, Commander Shepard (Bonus Power)
+Multiplayer: N/A
+References[]
+
+↑ https://web.archive.org/web/20150910043756/forum.bioware.com/topic/322264-do-armor-weakening-effects-stack/
+
+↑ https://web.archive.org/web/20160318000954/forum.bioware.com/topic/277136-gameplay-data-and-mechanics/
+
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

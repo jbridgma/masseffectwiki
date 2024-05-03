@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+This article is about the power in Mass Effect 3 Multiplayer. For the skill in Mass Effect: Andromeda, see Havoc Strike (skill).
+
+Havoc Strike is a tech power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Havoc Strike[]
+Use the propulsion pack to launch a devastating strike on multiple targets.
+
+Recharge Speed: 8 sec
+Damage: 600
+Force: 650 N
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 6.40 sec
+Damage: 600
+Force: 650 N
+
+
+Rank 3: Force & Damage[]
+Increase damage and force by 25%.
+
+Recharge Speed: 6.40 sec
+Damage: 750
+Force: 812.50 N
+
+
+Rank 4: Force & Damage/Cooldown[]
+
+
+
+Force & Damage
+Increase damage and force by 35%.
+
+Recharge Speed: 6.40 sec
+Damage: 960
+Force: 1040 N
+
+
+Cooldown
+Increase recharge speed by 30%.
+
+Recharge Speed: 5.16 sec
+Damage: 750
+Force: 812.50 N
+
+
+
+Rank 5: Weapon Synergy/Melee Damage[]
+
+
+
+Weapon Synergy
+Increase weapon damage by 25% for 5 seconds after a successful charge.
+
+
+
+Melee Damage
+Increase melee damage by 40% for 5 seconds after charging.
+
+
+
+
+Rank 6: Force & Damage/Incendiary Strike[]
+
+
+
+Force & Damage
+Increase damage by 55%.
+
+Recharge Speed: 6.40 sec (Force & Damage), 5.16 sec (Cooldown)
+Damage: 1290 (Force & Damage), 1080 (Cooldown)
+Force: 1397.50 N (Force & Damage), 1170 N (Cooldown)
+
+
+Incendiary Strike
+Expand the spread of the flame to hit up to 2 additional targets within 3 meters of the impact point.
+
+
+
+
+Player Notes[]
+Havoc Strike is basically a non-biotic version of Charge in that it sends the player flying towards the target, causing massive damage and knockback. Unlike Charge, however, you will not replenish any shields upon a successful strike. This is a high risk, high reward power.
+When you trigger Havoc Strike your character becomes invincible until the power ends. It can be used when you are in a critical situation to stagger enemies and then quickly back away with your propulsors to replenish your health/shields, either by taking cover or using a Stimulant Pack.
+When Havoc Strike is triggered, your character does not charge right away. Instead, he hovers briefly, during which time you can slightly adjust the trajectory of the strike. This facilitates maneuvers that require more finesse, such as knocking an enemy out of the map's boundaries.
+While not mentioned in the power description, the Rank 6 Force and Damage evolution's increase of 55% force is visible in the stat bars.
+Havoc Strike's initial hover and follow-up propulsor dodges can avoid enemy melee attacks or sync kills. Coupled with the invincibility during the charge, this makes Havoc Strike one of the best options for tanking a high-threat enemy at close range such as a lunging Brute. Even though the player character may appear to get staggered by certain enemy attacks, as long as the initial hover of the strike was not interrupted, the charge will still complete.
+Havoc Strike can be triggered while utilizing jump jets in any direction as long as an enemy can be targeted.
+It's possible to use a heavy melee attack right after starting a Havoc Strike (while hovering). If the Havoc Strike target is within melee range, this will result in both a Havoc Strike hit and a heavy melee landing in quick succession on the target.
+Availability[]
+Single-player: N/A
+Multiplayer: Turian Havoc Soldier
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

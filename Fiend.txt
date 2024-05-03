@@ -1,0 +1,107 @@
+
+
+
+
+
+Fiend
+
+ 
+
+
+
+
+
+
+
+Faction
+Kett
+
+
+Weapons / Attacks
+Acid SpitMeleeCharge
+
+
+Abilities
+–
+
+
+Armor
+High
+
+
+Shields
+–
+
+
+Weak Points
+Head, rear or sides.
+
+
+The Fiend is a kett unit. Large and imposing, it performs as an armored offensive unit capable of pummeling its targets into oblivion. On Firebases across the Heleus Cluster, Fiends are deployed on the battlefield if initial waves of kett forces fail to neutralize the APEX forces in the area. 
+Fiends are exalted from eirochs, and share the same behavior. They can sometimes be seen alone in the wild without nearby kett handlers, such as on Eos and Elaaden. On death they disintegrate like most large wildlife, though they may leave behind eiroch resources like Renderable Plates and Eiroch Fluid Sacs.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Kett Fiend
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+A large, powerful kett beast with a hard carapace for protection. The Fiend is trained to disrupt enemy lines and wreak havoc within their ranks.
+
+Description[]
+Fiends are monstrous beasts with a heavily armored carapace. Unlike the stealthier Wraiths, Fiends are besieging units that attack head-on, scattering enemy forces and destroying entrenched enemy positions. They attack non-kett without appearing to need orders; some scientists believe Fiends respond aggressively to an absence of kett pheromones or similar cues. 
+A Fiend's carapace is permeated by dense cartilage that makes it both strong and flexible, and acts as a shock absorber for incoming fire. Preliminary study of their nervous system suggests that nerve transmission is dampened above a certain pain threshold, allowing a Fiend to detect injury but not be slowed by it. Reports of Fiend encounters are often accompanied by casualty lists, and the militia advises that only a well-armed and organized team should handle a Fiend at full rampage.
+
+
+Capabilities[]
+Offensive
+The Fiend has increased physical strength compared to the standard Eiroch's. The Fiend will charge and attempt melee attacks. When unable to reach its target, the Fiend will spit acid projectiles.
+
+Defensive
+Fiend armor is significantly stronger from the standard Eiroch's. Fighting it alone is highly difficult without high-tier weaponry.
+
+Tactics[]
+In single-player, Fiends in the wild may target their own kett allies in the absence of external enemies. For efficiency, wait for them to kill each other before picking off who survives.
+A Fiend will be less threatening if you can take a high ground that it can't climb up to, then the Fiend's attack will be limited to lobbing acid spit that can be easily dodged. Alas that also means the Fiend's vulnerable exposed flesh - which is primary is located at the back of its torso region - is out of direct line of fire. Since Fiends rarely attack alone - if the Fiend is not with other wildlife beasts then it's with a kett attack force - you might adopt this as a means to keep the Fiend out of the fight until you've dealt with other enemies in the field.
+If fighting on the same level with a Fiend is unavoidable, remember that it is far more agile than its bulk suggests, so constant moving will be a must to avoid it getting close. Use the jump jet to exploit flanking opportunities to shoot it at its exposed flesh. Since it's organic, fire-based tech powers like Incinerate will be very useful.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

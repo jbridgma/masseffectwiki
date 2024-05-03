@@ -1,0 +1,162 @@
+
+
+
+
+Ballistic Blades is a power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Ballistic Blades[]
+Fire a salvo of blades to impale your enemies, inflicting massive bleed damage. 
+The closer your target is the more damage you deal.
+
+Recharge Speed: 8 sec
+Damage: 900
+Duration: 10 sec
+Radius: 12 m
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+ Recharge Speed: 6.40 sec
+Damage: 900
+Duration: 10 sec
+Radius: 12 m
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+ Recharge Speed: 6.40 sec
+Damage: 1080
+Duration: 10 sec
+Radius: 12 m
+
+
+Rank 4: Damage/Cone Spread[]
+
+
+
+Damage
+Increase damage bonus by 30%.
+
+ Recharge Speed: 6.40 sec
+Damage: 1350
+Duration: 10 sec
+Radius: 12 m
+
+
+ Cone Spread 
+Increase cone spread by 20 degrees.
+
+
+
+
+Rank 5: Range/Recharge Speed[]
+
+
+
+Range
+Increase attack range by 50%.
+
+ Recharge Speed: 6.40 sec
+Damage: 1350 (Damage), 1170 (Cone Spread)
+Duration: 10 sec
+Radius: 18 m
+
+
+ Recharge Speed 
+Increase recharge speed by 35%.
+
+Recharge Speed: 5 sec
+Damage: 1350 (Damage), 1170 (Cone Spread)
+Duration: 10 sec
+Radius: 12 m
+
+
+
+Rank 6: Damage & Bleed/Explosive Blades[]
+
+
+
+Damage & Bleed
+Increase damage by 50%.Increase bleed duration by 50%.
+
+ Recharge Speed: 6.40 sec (Range), 5 sec (Recharge Speed)
+Damage: 1800 (Damage), 1530 (Cone Spread)
+Duration: 15 sec
+Radius: 18 m (Range), 12 m (Recharge Speed)
+
+
+Explosive Blades
+Blades explode after 3 seconds, doing 400 damage but ending the bleed effect.
+
+
+
+
+Player Notes[]
+The player shouldn't use Ballistic Blades while crouched behind short cover. The blades will bounce harmlessly off of the cover in front of the player instead of hitting enemies (even when there is a clear line of sight to the enemies). If the player stands up, and is out of short cover, the blades will be able to hit enemies.
+This power should be used like a shotgun with a cooldown timer (and unlimited ammo). At close range the blades are horrifyingly powerful, being more than capable of inflicting grievous or fatal injuries to almost any kind of foot-soldier.
+The cone effect is very wide - once upgraded for width, you can sometimes hit enemies off the sides of your screen.
+The blades have immense potential for staggering enemies. A short-range blast can even reliably stagger heavy enemies like Atlases, Geth Primes and even Banshees (allowing you to save a comrade from their insta-kill move).
+The blades' stagger synergizes extremely well with the batarian's slow but powerful heavy melee.
+This combination is very effective against Phantoms, allowing a properly built batarian soldier to safely and reliably deal a lot of damage against these elusive opponents in close quarters. Care must be taken, however, that the Phantom does not have her barrier up, or she will shrug the blades off and is likely to counter with her own powerful melee attacks.
+The blades lose significant damage over range, but can hit multiple targets if aimed correctly (or with a little luck).
+When the blades are launched, the closer the targeting reticle is to the enemy, the more damage will be dealt.
+Explosive Blades can, with a piece of luck and good timing, cancel Phantom's instant kill attack.
+Explosive Blades stagger enemies. The player can stagger the enemies with the first hit, then the explosion staggers them again, making Ballistic Blades with Explosive Blades evolution a very excellent close range crowd control power. Explosive Blades with Rank 5 Attack Range evolution is a great tool to keep Geth Pyro groups easily away from the player since the 18 m range is larger than the range of their flamer.
+Availability[]
+Single-player: N/A
+Multiplayer: Batarian Enforcer Soldier
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

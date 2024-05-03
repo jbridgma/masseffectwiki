@@ -1,0 +1,2412 @@
+
+
+
+
+
+
+
+This article is about Morality in Mass Effect 2. For Morality in Mass Effect, see Morality Guide. For Mass Effect 3, see Morality Guide (Mass Effect 3).
+
+This page is intended to show the exact conversation and/or action triggers to receive Paragon and Renegade points.
+
+
+
+
+
+
+
+“The chances of surviving are… slim.” — Spoilers for Mass Effect 2 follow.
+
+
+
+
+Contents
+
+1 Mass Effect import bonus
+2 Prologue: Awakening
+3 Freedom's Progress
+4 Stop the Collectors
+
+4.1 Horizon
+4.2 Collector Ship
+4.3 Reaper IFF
+4.4 Collectors' attack
+4.5 Collector Base
+
+
+5 Dossier Missions
+
+5.1 Dossier: Archangel
+5.2 Dossier: Tali
+5.3 Dossier: The Assassin
+
+5.3.1 Illium: The Assassin: Salarian Family Data
+
+
+5.4 Dossier: The Convict
+5.5 Dossier: The Justicar
+
+5.5.1 Illium: The Justicar: Smuggling Evidence
+5.5.2 Illium: The Justicar: Stolen Goods Found
+
+
+5.6 Dossier: The Master Thief
+5.7 Dossier: The Professor
+
+5.7.1 Omega: The Professor: Missing Assistant
+
+
+5.8 Dossier: The Veteran
+5.9 Dossier: The Warlord → Dr. Okeer's Legacy
+
+
+6 Loyalty Missions
+
+6.1 Garrus: Eye for an Eye
+6.2 Grunt: Rite of Passage
+6.3 Jack: Subject Zero
+6.4 Jacob: The Gift of Greatness
+6.5 Kasumi: Stealing Memory
+6.6 Legion: A House Divided
+6.7 Miranda: The Prodigal
+
+6.7.1 Illium: The Prodigal: Lost Locket Found
+
+
+6.8 Mordin: Old Blood
+
+6.8.1 Tuchanka: Old Blood: Missing Scout
+
+
+6.9 Samara: The Ardat-Yakshi
+6.10 Tali: Treason
+6.11 Thane: Sins of the Father
+6.12 Zaeed: The Price of Revenge
+6.13 Settling Disputes
+
+6.13.1 Jack vs. Miranda
+6.13.2 Tali vs. Legion
+
+
+
+
+7 Normandy Conversations
+
+7.1 Dr. Karin Chakwas
+7.2 Engineers Donnelly and Daniels
+7.3 Garrus
+7.4 Grunt
+7.5 Jack
+7.6 Jacob Taylor
+7.7 Legion
+7.8 Miranda
+7.9 Mordin
+7.10 Samara
+7.11 Tali
+7.12 Thane
+7.13 Yeoman Chambers → Kelly
+
+
+8 Other Missions
+
+8.1 Illium: Liara T'Soni → Illium: Liara: System Hacking
+8.2 Illium: Liara: The Observer
+8.3 Lair of the Shadow Broker
+8.4 Omega: Aria T'Loak
+
+
+9 Other Assignments
+
+9.1 Arrival
+9.2 Citadel: Crime in Progress
+9.3 Citadel: False Positives
+9.4 Citadel: Krogan Sushi
+9.5 Illium: A Troublemaker → Illium: Conrad Verner
+9.6 Illium: Blue Rose of Illium
+9.7 Illium: Gianna Parasini
+9.8 Illium: Indentured Service
+9.9 Illium: Medical Scans
+9.10 Normandy: Serrice Ice Brandy
+9.11 Omega: Batarian Bartender
+9.12 Omega: Packages for Ish
+9.13 Omega: Struggling Quarian
+9.14 Omega: The Patriarch
+
+
+10 Other Interactions
+
+10.1 Citadel: Deleia Sanassi
+10.2 Citadel: Etarn Tiron
+10.3 Citadel: Khalisah Bint Sinan al-Jilani
+10.4 Citadel: Kian Louros
+10.5 Citadel: Marab
+10.6 Illium: Asari
+10.7 Illium: Hermia
+10.8 Omega: Aria T'Loak
+10.9 Omega: Fist
+10.10 Omega: Kenn
+10.11 Omega: Kylan
+10.12 Omega: Marsh
+
+
+
+
+
+Mass Effect import bonus[]
+Up to 190 Paragon and Renegade points can be imported from Mass Effect. Only 56.25% (9/16 blocks) of the Paragon and Renegade bars need to be filled to achieve the maximum import value.
+
+Prologue: Awakening[]
+Jacob Taylor
+
+Note:  Saying "Who are you?" advances the conversation.
+2 Renegade for saying "I need answers!"
+plus
+2 Paragon for saying "Just a few questions."
+2 Renegade for saying "I'm tired of taking orders!"
+Wilson
+
+Note:  Saying "I remember you, Wilson." advances the conversation.
+2 Paragon for saying "Let's get you out of here"
+plus
+2 Renegade for saying "It doesn't matter."
+plus
+2 Paragon for saying "But she tried to help me."
+2 Renegade for saying "Maybe, maybe not."
+Jacob's Confession
+
+Note:  Saying "Never heard of them." advances the conversation.
+2 Paragon for saying "That sounds familiar…"
+2 Renegade for saying "You lied to me."
+plus
+2 Paragon for saying "I'll never work for Cerberus!"
+2 Renegade for saying "What are you after?"
+Saying "Illusive Man?"
+2 Paragon for saying "I'll never work for Cerberus!"
+2 Renegade for saying "He'd better have answers."
+Note:  By saving and reloading after the above dialogue sequence, it will be triggered again once you move forward. This can be exploited an unlimited number of times to gain up to 4 morality points each time.
+Miranda at Shuttle Bay
+
+2 Renegade for saying "I knew he was lying."
+Background Check
+
+If War Hero
+2 Paragon for saying "I had no choice."
+2 Renegade for saying "I had to win."
+If Sole Survivor
+2 Paragon for saying "It was painful."
+2 Renegade for saying "I refused to die."
+If Ruthless
+2 Paragon for saying "I lost a lot of people."
+2 Renegade for saying "I did what was necessary."
+plus
+2 Paragon for saying "It was a hard choice."
+2 Renegade for saying "It was that or die."
+Illusive Man
+
+2 Paragon for saying "You don't know me."
+2 Renegade for saying "I need some answers."
+plus
+2 Paragon for saying "You're not my friend."
+2 Renegade for saying "Skip the pleasantries."
+2 Renegade for saying "Not bad."
+plus
+2 Paragon for saying "I'll need a lot of convincing." (Not available if any "Investigate" options are chosen)
+2 Paragon for saying "Maybe I believe you."
+2 Renegade for saying "Where do we start?"
+plus
+2 Paragon for saying "Do I have a choice?"
+2 Renegade for saying "I'll find the evidence."
+Miranda
+
+2 Paragon for saying "Thanks for resurrecting me."
+2 Paragon for saying "I'll do my best."
+2 Renegade for saying "You sound jealous."
+plus
+2 Paragon for saying "We don't have to be enemies."
+2 Renegade for saying "Is there a problem here?."
+2 Renegade for saying "What's your problem?"
+Jacob
+
+2 Paragon for saying "Those colonists need my help."
+2 Renegade for saying "I didn't join Cerberus."
+2 Renegade for saying "I'll reserve judgment"
+plus
+2 Paragon for saying "Yes."
+2 Paragon for saying "I'm not sure."
+2 Renegade for saying "No."
+Totals
+30 Paragon, 2 freebies
+34 Renegade, 6 freebies
+Freedom's Progress[]
+Orders to Miranda and Jacob
+
+2 Paragon for saying "Someone could still be alive."
+2 Renegade for saying "Do whatever it takes."
+Tali, Prazza, and the quarians
+
+5 Paragon for saying "I'll prove it's really me." (Only available if Tali received geth data in Mass Effect)
+2 Renegade for saying "Don't point those guns at me."
+plus
+2 Paragon for saying "I didn't have a choice."
+2 Renegade for saying "I did it to help humanity."
+plus
+2 Renegade for saying "You think he's alive?"
+plus
+2 Paragon for saying "We need to team up."
+2 Renegade for saying "We'll handle it from here."
+plus
+2 Paragon for saying "Sounds like a plan."
+2 Renegade for saying "Forget it."
+Interrogating Veetor
+
+2 Paragon for saying "You're safe now."
+5 Paragon for using Paragon interrupt
+2 Renegade for saying "Snap out of it!"
+5 Renegade for using Renegade interrupt
+plus
+2 Paragon for saying "Thank you, Veetor."
+2 Renegade for saying "What a waste of time"
+plus
+15 Paragon for saying "Veetor goes with Tali."
+15 Renegade for saying "Veetor has to come with us"
+Illusive Man
+
+2 Paragon for saying "Having friends pays off." (Only available if Veetor was sent with Tali)
+plus
+2 Paragon for saying "What aren't you telling me?"
+plus
+2 Paragon for saying "I can't do it alone."
+2 Renegade for saying "Agreed!"
+plus
+Saying "I decide who's on my team." (Unavailable if not chosen immediately)
+2 Paragon for saying "I hope so."
+EDI
+
+2 Paragon for saying "Joker won't like this."
+2 Renegade for saying "AIs are dangerous."
+plus
+2 Renegade for saying "Glad to hear it." (Unavailable if not chosen immediately)
+Totals
+47 Paragon, 6 freebies
+42 Renegade, 4 freebies
+Stop the Collectors[]
+Horizon[]
+Dead Husk
+
+2 Paragon for saying "Let's go save the colonists"
+2 Renegade for saying "We're wasting time here."
+Delan/Mechanic (first encounter)
+
+2 Renegade for saying "Calm down!"
+plus
+2 Paragon for saying "Who are you?"
+plus
+Saying "We might need your help."
+2 Renegade for saying "You're a coward."
+2 Paragon for saying "Wait here."
+Delan (after defeating the Praetorian)
+
+2 Paragon for saying "It's too late."
+2 Renegade for saying "What do you expect me to do?"
+plus
+2 Paragon for saying "I'm sorry."
+2 Renegade for saying "Blame them, not me."
+Kaidan/Ashley (Depending on who survived the Virmire mission in Mass Effect)
+
+2 Paragon for saying "It's good to see you again."
+2 Paragon for saying "I didn't want to hurt you."
+2 Renegade for saying "I have important things to do."
+Saying "You sound angry."
+2 Paragon for saying "I didn't want to hurt you."
+2 Renegade for saying "I have important things to do."
+2 Renegade for saying "I was. We can't get into it."
+plus
+2 Paragon for saying "Cerberus isn't the enemy."
+2 Renegade for saying "I don't work for Cerberus."
+plus
+2 Paragon for saying "I'm not a traitor."
+2 Renegade for saying "Get over it."
+plus
+2 Paragon for saying "You're too emotional, Virmire Survivor."
+plus
+2 Paragon for saying "Don't go. Join Me."
+2 Renegade for saying "Fat Chance."
+plus
+5 Paragon and 5 Renegade for completing the mission.
+Debrief with the Illusive Man
+
+2 Paragon for saying "I didn't save everyone."
+2 Renegade for saying "I enjoyed the fight."
+plus
+2 Paragon for saying "No more colonies get hit."
+2 Renegade for saying "Let's go on the offensive."
+plus
+5 Paragon for saying "My team is strong."
+2 Renegade for saying "Don't worry so much."
+Debrief with Jacob
+
+2 Paragon for saying "We can do this."
+2 Renegade for saying "Don't lose your nerve now."
+Talk to Kelly (Only available if Alliance representative on Horizon was opposite sex to Shepard)
+
+Avoid the "Fine" response to ensure additional dialog.
+Saying "That is history" or "Yes."
+2 Paragon for saying "Thank you."
+2 Renegade for saying "No, it's easy."
+2 Renegade for saying "No."
+Collector Ship[]
+Dead Bodies
+
+2 Paragon for saying "Maybe they're better off"
+2 Renegade for saying "We can't help them now."
+Control Terminal
+
+2 Paragon for saying "The Collectors are Protheans!"
+plus
+2 Paragon for saying "That's a horrible fate."
+2 Renegade for saying "They'd be better off dead."
+Contact Normandy at Command Console
+
+2 Paragon for saying "We're okay."
+2 Renegade for saying "Status report — now!"
+After Platform Battle
+
+2 Paragon for saying "Good work."
+2 Renegade for saying "About time."
+plus
+2 Paragon for saying "Don't jump to conclusions"
+2 Renegade for saying "He betrayed us!"
+Debrief with the Illusive Man
+
+5 Paragon and 5 Renegade for completing the mission.
+plus
+2 Paragon for saying "I knew I couldn't trust you."
+2 Renegade for saying "What the hell is going on?"
+plus
+2 Paragon for saying "I'd have found another way."
+2 Renegade for saying "Never again, you hear me?"
+plus
+Saying "How do we do that?"
+2 Renegade for saying "Another 'derelict' ship?"
+Saying "Reaper"
+Saying "Brown Dwarf" or "Disabling a Reaper"
+2 Renegade for saying "Another 'derelict' ship?"
+Saying "A little late for that info."
+Saying "Brown Dwarf" or "Disabling a Reaper"
+2 Renegade for saying "Another 'derelict' ship?"
+Debrief with squad members
+
+2 Paragon for saying "I agree."
+2 Renegade for saying "I still don't like it."
+Talk to Kelly
+
+2 Paragon for saying "Thank the entire crew."
+2 Renegade for saying "I didn't need her."
+Saying "Worried? You do care."
+2 Paragon for saying "Thank the entire crew."
+2 Renegade for saying "I didn't need her."
+Reaper IFF[]
+Examine Dragon's teeth (Only available if Jacob, Garrus or Tali is in the party)
+
+2 Paragon for saying "They don't deserve this."
+2 Renegade for saying "Nobody touch anything."
+Debrief on the Normandy
+
+5 Paragon and 5 Renegade for completing the mission.
+plus
+15 Paragon for saying "I want to talk to it first."
+15 Renegade for saying "Cerberus gets the geth."
+Collectors' attack[]
+IFF installed
+
+2 Paragon for saying "You thought of everything."
+2 Renegade for saying "Let's move!"
+After Collectors' attack
+
+2 Paragon for saying "Are you okay, Joker?"
+plus
+2 Paragon for saying "Is the virus contained?"
+2 Paragon for saying "We need to get the crew back."
+2 Renegade for saying "I'm not interested in excuses."
+plus
+2 Paragon for saying "I trust it."
+2 Renegade for saying "You're equipment, not crew."
+Collector Base[]
+Talk to the Illusive Man
+
+2 Paragon for saying "The team is strong."
+2 Renegade for saying "I don't need to know."
+In the briefing room
+
+2 Paragon for saying "Everyone be careful."
+2 Renegade for saying "There's no room for mistakes."
+plus
+2 Paragon for saying "Lives depend on us."
+2 Renegade for saying "It's time for payback."
+The Normandy crew
+
+5 Paragon if entire crew saved (requires immediately using the Omega-4 Relay after the Collectors' attack)
+If Kelly survived (Requires starting the Suicide Mission directly after the Collectors' attack)
+2 Paragon for saying "I'd never abandon my crew"
+20 Paragon for saying "I'll have someone escort you."
+5 Paragon and 15 Renegade for saying "The mission comes first."
+2 Renegade for saying "I didn't come for you."
+20 Paragon for saying "I'll have someone escort you."
+15 Renegade for saying "The mission comes first."
+If Kelly died (Requires completing at least one mission or assignment after the Collectors' attack; hub assignments and Normandy Crash Site don't count)
+2 Paragon for saying "I'd never abandon my crew"
+2 Renegade for saying "I didn't come for you."
+plus
+2 Paragon for saying "I wish I could have."
+2 Renegade for saying "That wasn't an option."
+5 Renegade if entire crew died (requires completing four missions or assignment after the Collectors' attack)
+plus
+5 Paragon and 15 Renegade for saying "I'll have someone escort you."
+20 Renegade for saying "The mission comes first."
+Words of encouragement
+
+2 Paragon for saying "We must honor the fallen." (Only available if at least one party member has died)
+2 Renegade for saying "People died. Make it count." (Only available if at least one party member has died)
+plus
+2 Paragon for saying "The galaxy is depending on us."
+2 Renegade for saying "Feel sorry for the Collectors."
+The Human-Reaper
+
+2 Paragon for saying "We can't let it survive."
+2 Renegade for saying "Let's take it down."
+Illusive Man's proposal
+
+2 Paragon for saying "I didn't do it alone."
+2 Renegade for saying "I'm just getting started."
+plus
+2 Paragon for saying "This place is an abomination."
+2 Renegade for saying "You think it can help?"
+Saying "How would you use it?"
+2 Paragon for saying "How can I trust you?"
+plus
+2 Paragon for saying "This doesn't feel right."
+2 Renegade for saying "Are you sure?"
+plus
+15 Paragon for saying "No. We don't need it."
+15 Renegade for saying "OK, let's take it and use it."
+Talking to Kelly on the Normandy after the mission
+
+2 Paragon for saying "Are you okay?"
+Totals
+152 Paragon, 12 freebies
+141 Renegade, 6 freebies
+Dossier Missions[]
+Dossier: Archangel[]
+Blue Suns recruitment
+
+5 Renegade for using Renegade interrupt (Only available if Shepard is female)
+plus
+2 Paragon for saying "How old are you?"
+2 Renegade for saying "Yes."
+plus
+5 Paragon for using Paragon interrupt
+Tarak
+
+2 Paragon for saying "Calm down."
+2 Renegade for saying "What an ass."
+plus
+2 Renegade for saying "This should be good." (Only available if Zaeed is in party)
+Sergeant Cathka
+
+5 Renegade for Renegade interrupt
+Archangel
+
+2 Paragon for saying "It's good to see you." (Not available if Garrus was not recruited in Mass Effect)
+2 Renegade for saying "Is that you, Garrus?" (Not available if Garrus was not recruited in Mass Effect)
+plus
+2 Paragon for saying "They won't get through."
+2 Renegade for saying "Let's kick ass."
+plus
+5 Renegade for using Renegade interrupt
+plus
+5 Paragon for saying "I'm not leaving you alone."
+5 Renegade for saying "You need help."
+Destroying Tarak's Gunship
+
+5 Paragon and 5 Renegade for completing the mission
+Debrief on the Normandy
+
+2 Paragon for saying "No worse than usual, buddy."
+plus
+2 Paragon for saying "You've got my back."
+2 Renegade for saying "Cerberus is right this time."
+Dossier: Tali[]
+Answer Quarian Radio
+
+2 Paragon for saying "I'm here to help."
+2 Renegade for saying "They're all dead."
+plus
+2 Paragon for saying "What's your current status?"
+Tali on communications console
+
+2 Paragon for saying "No one else is left."
+plus
+2 Paragon for saying "I came to help."
+2 Renegade for saying "I'm recruiting you."
+Kal'Reegar
+
+2 Paragon for saying "Is she safe?"
+plus
+2 Paragon for saying "No. Stay down."
+15 Paragon for using Paragon interrupt
+15 Renegade for saying "Sounds like a plan."
+Tali in the observatory
+
+2 Paragon for saying "Can you join me now?"
+2 Renegade for saying "The quarians owe me."
+plus
+2 Paragon for saying "Do you need transportation?" (Only available if Kal'Reegar survived)
+2 Renegade for saying "Tali's with me now." (Only available if Kal'Reegar survived)
+plus
+5 Paragon and 5 Renegade for completing the mission.
+Debrief on the Normandy
+
+2 Paragon for saying "I agree completely."
+plus
+2 Paragon for saying "Feel free to study the ship."
+Dossier: The Assassin[]
+Seryna
+
+2 Renegade for saying "Show some respect."
+plus
+2 Paragon for saying "Where is he?"
+2 Renegade for saying "Then talk fast."
+Wounded Salarian Worker
+
+2 Paragon for saying "I'm sorry."
+2 Renegade for saying "You're lucky."
+plus
+5 Paragon for using Paragon interrupt
+Not using Paragon interrupt
+5 Paragon for saying "Hang on."
+2 Renegade for saying "We're done here."
+Daroth and Shelum
+
+2 Paragon for saying "Yes."
+2 Renegade for saying "No."
+Eclipse Trooper
+
+2 Renegade for saying "I need answers."
+plus
+2 Paragon for saying "I've got an offer."
+2 Renegade for saying "Listen carefully."
+plus
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+5 Paragon for Charming "Don't be stupid."
+5 Renegade for Intimidating "I hope you can fly."
+Telon and Chesith
+
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+5 Paragon for Charming "Let me help you."
+5 Renegade for Intimidating "Put down the gun."
+plus
+2 Paragon for saying "I don't think so."
+2 Renegade for saying "Not that one."
+Nassana Dantius
+
+If Nassana's assignment was completed in Mass Effect
+2 Paragon for saying "Interesting idea."
+2 Renegade for saying "Is that what you think?"
+If Nassana's assignment was not completed
+Say "You tell me." to get the conversation options below.
+plus
+2 Paragon for saying "You still think it's me?"
+If saying "No, we can't."
+2 Paragon for saying "I met some of your workers."
+2 Renegade for saying "You're pathetic."
+2 Renegade for saying "You're delusional."
+If saying "No, we can't."
+2 Paragon for saying "I met some of your workers."
+2 Renegade for saying "You're pathetic."
+Thane Krios
+
+2 Paragon for saying "Bastard."
+2 Paragon for saying "Saving lives."
+2 Renegade for saying "Killing bad guys."
+plus
+2 Paragon for saying "We'll find a way."
+2 Renegade for saying "So I've heard."
+plus
+2 Paragon for saying "I'm sorry."
+2 Renegade for saying "You're worried about humans?"
+plus
+5 Paragon and 5 Renegade for completing the mission.
+Debrief on the Normandy
+
+2 Paragon for saying "What's the problem, Jacob?"
+2 Renegade for saying "Watch yourself, Thane."
+plus
+2 Renegade for saying "Keep an eye on him."
+Illium: The Assassin: Salarian Family Data[]
+2 Paragon for saying "I found your data."
+2 Renegade for saying "You'll want to see this."
+plus
+5 Paragon for completing the assignment.
+Dossier: The Convict[]
+Prison Guard
+
+2 Renegade for saying "Go to hell."
+plus
+2 Renegade for saying "It's not going to happen."
+Prison Guard overseeing beating
+
+2 Paragon for saying "Is this necessary?"
+5 Paragon for Charming "This is beneath you."
+5 Renegade for Intimidating "I told you to stop."
+2 Renegade for saying "You're doing the right thing."
+2 Renegade for saying "That's justice."
+Outprocessing
+
+2 Paragon for saying "Let's negotiate."
+2 Renegade for saying "What about serving the galaxy?" (Only available if Investigated Warden Kuril's background in conversation with him)
+2 Renegade for saying "Hell, no."
+Jack
+
+2 Renegade for saying "You're welcome."
+plus
+7 Paragon and 5 Renegade for saying "To rescue you."
+5 Paragon and 5 Renegade for saying "I'm Commander Shepard."
+plus
+2 Paragon for saying "I'm not your enemy."
+2 Renegade for saying "Being my enemy is unhealthy."
+plus
+2 Renegade for saying "Yes."
+plus
+2 Paragon for saying "No."
+2 Renegade for saying "Maybe we should."
+plus
+2 Paragon for saying "You don't have to bargain."
+Debrief on the Normandy
+
+2 Paragon for saying "Give her the files now."
+2 Renegade for saying "You can wait for your files."
+Jack on the Normandy
+
+2 Paragon for saying "Glad they're helping." (Only available if the "Give her the files now." option was chosen in the debrief)
+2 Renegade for saying "I didn't let you." (Only available if the "You can wait for your files." option was chosen in the debrief)
+plus
+2 Paragon for saying "Do you want better quarters?"
+2 Paragon for saying "My mission is too important."
+2 Renegade for saying "How would you help?"
+Dossier: The Justicar[]
+Tracking Officer Dara
+
+2 Paragon for saying "I only want to talk."
+2 Renegade for saying "So what if she did?"
+Samara at crime scene
+
+2 Paragon for saying "You killed in cold blood."
+2 Paragon for saying "Yes, I am."
+2 Renegade for saying "No, not really."
+plus
+2 Paragon for saying "I need you on my team." or "I need the best."
+plus
+2 Paragon for saying "Maybe I can help."
+Pitne For
+
+5 Renegade for using Renegade interrupt
+Elnora
+
+5 Renegade for using Renegade interrupt
+Not using Renegade Interrupt
+5 Paragon for saying "Go."
+Niftu Cal
+
+2 Paragon for saying "Calm down."
+2 Renegade for saying "You're high."
+plus
+Saying "You should lie down."
+5 Paragon for using Paragon interrupt
+5 Renegade for saying "We're right behind you."
+Samara at police station
+
+2 Paragon for saying "I am honored."
+2 Paragon for saying "Welcome to the team."
+2 Renegade for saying "You'll do anything I say?"
+plus
+5 Paragon and 5 Renegade for completing the mission.
+Debrief on the Normandy
+
+2 Renegade for saying "We need her."
+Illium: The Justicar: Smuggling Evidence[]
+5 Paragon if datapad given to Detective Anaya
+5 Renegade if datapad given to Pitne For
+Illium: The Justicar: Stolen Goods Found[]
+2 Paragon for saying "I did."
+2 Renegade for saying "What's it to you?"
+plus
+5 Renegade for completing the assignment.
+Dossier: The Master Thief[]
+2 Renegade for saying "Cut the crap.
+plus
+Note:  Saying "You and Cerberus" → "What deal?" goes into another branch without morality points.  She will tell you the deal even if you don't pick it.
+2 Paragon for saying "Welcome aboard."
+2 Renegade for saying "Let's head out."
+Dossier: The Professor[]
+District Guard
+
+5 Paragon for Charming "Let me in and I'll help."
+5 Renegade for Intimidating "I'm going in."
+plus
+If Garrus or Grunt is part of the squad (the plague affects other aliens):
+
+2 Paragon for saying "Don't worry. You'll stay back."
+2 Renegade for saying "I need you to come."
+Note:  Only the dialogue choice affects the morality point award. Whether or not you actually take Garrus or Grunt to the slums doesn't matter.
+Batarian Victim
+
+2 Renegade for saying "Leave him."
+plus
+5 Paragon for using Paragon interrupt
+2 Paragon for saying "I'm here to help."
+2 Renegade for saying "I need information."
+(2000 credits for not using Paragon interrupt)
+Refugees
+
+Saying "You should go to the clinic."
+5 Paragon for Charming "I'll help you get there."
+5 Renegade for Intimidating "Hiding here won't save you."
+Human Looters
+
+Saying "Who are you?"
+2 Paragon for saying "I don't like looters."
+Saying "I want you to stop."
+5 Paragon for Charming "No… but someone will."
+5 Renegade for Intimidating "If I have to."
+2 Renegade for saying "Yes."
+Mordin (first meeting)
+
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+5 Paragon for using Paragon interrupt
+plus
+2 Paragon for saying "I'll take care of it."
+2 Renegade for saying "Why can't anything be simple?"
+Vorcha in fan control room
+
+2 Paragon for saying "Why are you doing this?"
+2 Renegade for saying "You're dead."
+Mordin (second meeting)
+
+5 Paragon and 5 Renegade for completing the mission
+plus
+If Daniel was saved and batarians allowed to leave
+2 Paragon for saying "I'm not like that."
+2 Renegade for saying "I thought about it."
+If Daniel was saved, but batarians were killed
+2 Paragon for saying "I saved your life!"
+2 Renegade for saying "You ungrateful little ass!"
+If Daniel was killed
+2 Paragon for saying "I'm sorry. He's dead."
+2 Renegade for saying "He got himself killed."
+If Daniel was ignored (didn't enter the room at all)
+2 Paragon for saying "Sorry, no."
+2 Renegade for saying "I didn't look."
+plus
+2 Paragon for saying "Will you join me?"
+2 Renegade for saying "Don't forget our deal."
+Debrief on the Normandy
+
+2 Paragon for saying "Cerberus hasn't changed."
+2 Renegade for saying "Cerberus does good work."
+plus
+Not using either Paragon interrupt
+2 Renegade for saying "You think this is fascinating?"
+plus
+2 Paragon for saying "Yes."
+2 Renegade for saying "Stay focused, Professor."
+Preitor Gavorn
+
+2 Paragon for saying "Who, me? Nah."
+2 Renegade for saying "I did you a favor."
+Note:  To get the conversation options above, complete Dossier: The Professor and speak to Shisk, a vorcha located near Kenn's Salvage, first.
+
+Omega: The Professor: Missing Assistant[]
+5 Paragon for Charming "Nobody needs to die."
+2 Paragon for saying "Everybody stay calm."
+5 Paragon for Charming "Nobody needs to die."
+2 Paragon for saying "Let's talk this out."
+5 Renegade for Intimidating "Kill him, and you're next."
+5 Renegade for selecting "[Signal henchman.]"
+5 Renegade for Intimidating "Kill him, and you're next."
+5 Renegade for selecting "[Signal henchman.]"
+Saying "He's not my friend."
+5 Paragon for Charming "Nobody needs to die."
+2 Paragon for saying "Let's talk this out."
+5 Renegade for Intimidating "Kill him, and you're next."
+5 Renegade for selecting "[Signal henchman.]"
+Dossier: The Veteran[]
+2 Paragon for saying "Welcome aboard."
+2 Renegade for saying "Report to the Normandy"
+plus
+2 Paragon for saying "No. He didn't."
+2 Renegade for saying "There's always a catch."
+plus
+2 Paragon for saying "We can do that."
+2 Renegade for saying "If there's time."
+Dossier: The Warlord → Dr. Okeer's Legacy[]
+Wounded Merc
+
+2 Paragon for saying "Medi-gel change your mind?"
+2 Renegade for saying "Where's the warlord?"
+plus
+5 Paragon for Charming "Get rid of them."
+5 Renegade for Intimidating "Reply with bad instructions."
+Saying "Don't answer."
+5 Renegade for using Renegade interrupt (Ends conversation)
+plus
+5 Paragon for saying "Start running." or "Get out of here." or "You won't be around to see it."
+Rana Thanoptis (If she was spared in Mass Effect)
+
+2 Paragon for saying "Why are you here?"
+2 Renegade for saying "Everyone there should be dead."
+plus
+2 Paragon for saying "Try harder to avoid trouble."
+2 Renegade for saying "Stay out of my way."
+Warlord Okeer
+
+2 Paragon for saying "Okeer, I presume?"
+2 Renegade for saying "Change your tone."
+plus
+2 Paragon for saying "A tough decision."
+2 Renegade for saying "I did what I had to do."
+plus
+2 Paragon for saying "Will you join us?"
+2 Renegade for saying "Is your soldier ready?"
+2 Renegade for saying "I'm handing you to Cerberus."
+plus
+2 Paragon for saying "Why so concerned?"
+2 Renegade for saying "Why should I trust you?"
+2 Renegade for saying "Looks like I hold power now."
+Activating the console next to Grunt's tank
+
+2 Paragon for saying "He's hard to pass up."
+2 Renegade for saying "Is he worth the headache?"
+plus
+5 Paragon and 5 Renegade for completing the mission.
+Note:  If Mordin is in your squad, the dialogue choices during the conversation at the console will be different, but the morality point awards will be the same. You will receive:
+2 Paragon for saying "Professional jealousy, Mordin?"
+2 Renegade for saying "That's my call."
+plus
+5 Paragon and 5 Renegade for completing the mission
+Debrief on the Normandy
+
+Saying "That excited, are you?"
+2 Paragon for saying "So we'll be careful."
+Saying "He gets out, we vent the hold."
+2 Paragon for saying "So we'll be careful."
+2 Renegade for saying "Replaceable."
+2 Paragon for saying "Relax, it's sealed."
+2 Paragon for saying "So we'll be careful."
+Saying "He gets out, we vent the hold."
+2 Paragon for saying "So we'll be careful."
+2 Renegade for saying "Replaceable."
+2 Renegade for saying "Keep it to yourselves."
+Waking up Grunt
+
+2 Paragon for saying "He's too valuable to leave."
+2 Renegade for saying "Do as I say, EDI."
+plus
+2 Paragon for saying "You'll get more than that."
+plus
+5 Paragon for Charming "Join my crew. We'll find it."
+5 Renegade for Intimidating "My command is your reason."
+2 Paragon for saying "Stand down or else."
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+2 Paragon for saying "You leave me no choice"
+2 Renegade for saying "I was being generous."
+2 Renegade for saying "I released you. You owe me."
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+2 Paragon for saying "You leave me no choice"
+2 Renegade for saying "I was being generous."
+Totals
+297 Paragon, 41 freebies
+292 Renegade, 54 freebies
+Loyalty Missions[]
+Garrus: Eye for an Eye[]
+Volus contact in the warehouse
+
+5 Renegade for using Renegade interrupt
+plus
+2 Renegade for saying "Shut up."
+plus
+2 Renegade for saying "I can't wait."
+Harkin
+
+2 Renegade for saying "Ouch."
+plus
+2 Paragon for saying "Be reasonable."
+plus
+5 Paragon for using Paragon interrupt
+Not using Paragon interrupt
+2 Paragon for saying "That wasn’t necessary. "
+2 Renegade for saying "Shut up." (Only available if Shepard is male)
+2 Renegade for saying "Quit complaining." (Only available if Shepard is female)
+In Cab
+
+2 Paragon for saying "You Okay?"
+2 Paragon for saying "I don't know."
+2 Paragon for saying "Give me a chance."
+2 Paragon for saying "Do you really believe that?"
+2 Renegade for saying "He's not worth it."
+2 Paragon for saying "You sure about this?"
+2 Paragon for saying "Give me a chance."
+2 Paragon for saying "Do you really believe that?"
+2 Renegade for saying "You bet."
+Sidonis
+
+2 Paragon for saying [Warn Sidonis]
+5 Paragon for using Paragon interrupt
+2 Paragon for saying [Keep talking]
+15 Paragon for saying "Don't do it, Garrus."
+2 Paragon for saying "You're lucky."
+2 Renegade for saying "Leave."
+15 Renegade for saying [Let Garrus take the shot]
+15 Renegade for saying "I can't help you."
+15 Renegade for saying [Let Garrus take the shot]
+2 Renegade for saying [Move to the side]
+2 Paragon for saying [Warn Sidonis]
+5 Paragon for using Paragon interrupt
+2 Paragon for saying [Keep talking]
+15 Paragon for saying "Don't do it, Garrus."
+2 Paragon for saying "You're lucky."
+2 Renegade for saying "Leave."
+15 Renegade for saying [Let Garrus take the shot]
+15 Renegade for saying "I can't help you."
+15 Renegade for saying [Let Garrus take the shot]
+15 Renegade for saying [Let Garrus take the shot]
+Garrus
+
+If Sidonis is Alive
+2 Paragon for saying "It's for the best."
+2 Paragon for saying "I understand."
+2 Paragon for saying "Trust your heart."
+If Sidonis is Dead
+2 Renegade for saying "You done with this?"
+Grunt: Rite of Passage[]
+Clan Urdnot leader
+
+If Wrex is the Urdnot leader
+2 Renegade for saying "Does it change anything?"
+If Wreav is the Urdnot leader
+2 Renegade for saying "Grunt's link to Okeer is good?"
+plus
+2 Paragon for saying "His call."
+Shaman
+
+2 Paragon for saying "We have permission."
+2 Renegade for saying "He dares stand in Grunt's way?"
+2 Renegade for saying "I want this crap over with."
+plus
+2 Paragon for saying "He is part of my crew."
+2 Renegade for saying "We will kill for Grunt."
+plus
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+2 Paragon for saying "You defy a shaman?"
+plus
+2 Renegade for saying "Do you want to die, Uvenk?"
+2 Renegade for saying "Let's get this crap going!"
+Saying "What is your problem, Uvenk?"
+2 Renegade for saying "Do you want to die, Uvenk?"
+2 Renegade for saying "Let's get this crap going!"
+2 Paragon for Charming "You argue like an alien."
+2 Renegade for Intimidating "So you're fearful."
+Gatatog Uvenk after the Rite
+
+If the Thresher Maw was not killed
+5 Paragon and 5 Renegade
+plus
+2 Paragon for saying "This is sacrilege."
+2 Renegade for saying "This is just political."
+If the Thresher Maw died
+15 Paragon and 15 Renegade
+plus
+2 Paragon for saying "He's the ultimate krogan."
+2 Renegade for saying "Are you here to fight?"
+plus
+2 Paragon for saying "Your call, Grunt."
+2 Renegade for saying "He can't join your clan."
+Talk to Grunt on the Normandy
+
+2 Paragon for saying "Someday it'll end. It has to."
+2 Paragon for saying "No shortage there."
+2 Renegade for saying "I can't have you going rogue."
+Jack: Subject Zero[]
+Acquiring the mission
+
+2 Renegade for saying "Make it quick."
+plus
+2 Paragon for saying "I'll confront them."
+2 Renegade for saying "Cerberus is different now."
+plus
+2 Paragon for saying "Let's go."
+2 Renegade for saying "Leave it behind you."
+2 Paragon for saying "Let's go."
+On the shuttle to the planet
+
+2 Paragon for saying "Settle Down."
+2 Renegade for saying "We're going in."
+Security Console after the Varren fight
+
+2 Paragon for saying "Maybe there was more to it."
+2 Renegade for saying "Or not."
+First Security Console after the Two Way Mirror 
+
+2 Paragon for saying "Don't blame yourself."
+2 Renegade for saying "Makes sense."
+Second Security Console after the Two Way Mirror
+
+2 Paragon for saying "You were distracted."
+Kureck
+
+2 Paragon for saying "Why are you here?"
+2 Renegade for saying "Get ready to fight."
+Aresh
+
+2 Paragon for saying "He was drawn here, like you."
+plus
+15 Paragon for Charming "Killing him changes nothing."
+2 Paragon for saying "Good work."
+15 Renegade for Intimidating "Do it."
+2 Renegade for saying "You're free."
+5 Paragon for saying "Leave him alone."
+10 Paragon for using Paragon interrupt
+2 Paragon for saying "Good work."
+5 Renegade for saying "Kill him."
+10 Renegade for using Renegade interrupt
+2 Renegade for saying "You're free."
+Not using Renegade interrupt
+2 Paragon for saying "Good work."
+Jack vs. Miranda
+If Miranda's loyalty mission has already been completed, morality points are available when settling the dispute between Jack and Miranda that occurs immediately after the mission.
+Talking to Jack on the Normandy afterwards (Not available if sided with Miranda during the dispute)
+
+2 Renegade for saying "Get over yourself."
+plus
+2 Paragon for saying "Feel like you've changed?"
+2 Renegade for saying "I need you functional."
+plus
+2 Paragon for saying "I wanted to help you."
+2 Paragon for saying "It's a start."
+2 Renegade for saying "Deal with it."
+Jacob: The Gift of Greatness[]
+Acquiring the mission
+
+2 Paragon for saying "You left a note with Chambers." (Only available if informed by Kelly prior to the conversation)
+2 Paragon for saying "Something on your mind?"
+2 Renegade for saying "I decide what's personal."
+plus
+2 Renegade for saying "Get to the point."
+plus
+2 Paragon for saying "You don't want to find him?"
+Female survivor on the beach
+
+2 Paragon for saying "Calm down!"
+plus
+5 Paragon for using Paragon interrupt
+Doctor with the crew's logbook
+
+2 Renegade for saying "We're waiting."
+plus
+2 Paragon for saying "Sounds like he cracked."
+2 Renegade for saying "Harsh, but defendable."
+plus
+2 Paragon for saying "Does this make sense to you?"
+2 Renegade for saying "They're fighting back now.
+Ronald Taylor
+
+2 Paragon for saying "I'm Shepard. You know Jacob."
+2 Renegade for saying "Never Mind. Explain Yourself."
+2 Paragon for saying "Let's hear the truth"
+2 Renegade for saying "Surprised?"
+plus
+2 Paragon for saying "A decade, Taylor. Why?"
+2 Renegade for saying "Touching, but I don't buy it."
+plus
+2 Paragon for saying "We can undo the damage."
+2 Paragon for saying "You'll answer for this."
+2 Renegade for saying "Tempting, but taken too far."
+plus
+15 Paragon for saying "He can't escape the law now."
+5 Paragon and 5 Renegade for saying "Leave him in the hell he made."
+15 Renegade for saying "I'd shoot him."
+On the Normandy
+
+2 Paragon for saying "Good job"
+2 Renegade for saying "We'd better be."
+plus
+2 Renegade for saying "Still toying with us?"
+plus
+2 Renegade for saying "To help or mess with him?"
+plus
+2 Paragon for saying "You're welcome."
+2 Renegade for saying "One time only."
+Kasumi: Stealing Memory[]
+Meeting Donovan Hock
+
+2 Paragon for saying "Of course"
+2 Renegade for saying "If that's what it takes."
+plus
+2 Paragon for saying "What's the plan?"
+2 Renegade for saying "I can do this alone."
+Talking to Hock
+
+5 Paragon for Charming "Expecting Trouble?"
+5 Renegade for Intimidating "Understandable."
+Saying "I understand." or "Not a problem." or "Just this once."
+5 Paragon for Charming "I think we could be allies." (Only available if Shepard is male)
+5 Paragon for Charming "[Flirt] You're not offensive." (Only available if Shepard is female)
+5 Renegade for Intimidating "Don't walk away from me."
+Saying "Have time to talk?" or "You trust all these people?"
+5 Paragon for Charming "We should do business."
+5 Renegade for Intimidating "My enemy is your enemy."
+2 Paragon for saying "You have great taste in wine."
+2 Renegade for saying "Not much of a party."
+Vault
+
+5 Renegade for using Renegade interrupt
+The shuttle
+
+5 Paragon for saying "Keep the graybox."
+2 Renegade for saying "It's what he wants."
+5 Paragon for saying "Let me do it."
+2 Renegade for saying "Do it."
+2 Renegade for saying "Destroy the graybox."
+5 Paragon for saying "Let me do it."
+2 Renegade for saying "Do it."
+Legion: A House Divided[]
+Onboard the Heretic Station
+
+2 Paragon for saying "Rewriting is unethical."
+2 Renegade for saying "They're just machines."
+Salvaging the first hub
+
+2 Paragon for saying "The heretics are part of you."
+2 Paragon for saying "That could be traumatizing."
+2 Renegade for saying "You feel guilty."
+2 Renegade for saying "Why worry about brainwashing?"
+2 Paragon for saying "You'd lose that perspective."
+2 Renegade for saying "Their judgment sucks."
+Data servers
+
+2 Paragon for saying "Things change."
+2 Renegade for saying "You were naive."
+plus
+2 Paragon for saying "It's not your fault."
+2 Renegade for saying "It's their fault."
+The heretics' fate
+
+30 Paragon for saying "We'll rewrite them."
+30 Renegade for saying "It's safer to kill them."
+Miranda: The Prodigal[]
+Acquiring the mission
+
+2 Paragon for saying "Of course."
+Lanteia
+
+2 Paragon for saying "What should we do?"
+2 Renegade for saying "We're altering the plan?"
+Merc Leader
+
+2 Paragon for saying "I'm with Miranda."
+2 Renegade for saying "Get lost. Now."
+plus
+5 Renegade for using Renegade interrupt
+First elevator conversation with Miranda
+
+2 Paragon for saying "We need to get to your sister."
+Second elevator conversation with Miranda; meeting Niket
+
+2 Paragon for saying "Maybe you're right."
+2 Renegade for saying "Niket betrayed you."
+plus
+2 Paragon for saying "What happens now?"
+2 Renegade for saying "Kill him."
+plus
+2 Paragon for saying "We can solve this peacefully."
+plus
+5 Paragon for using Paragon interrupt
+Third elevator conversation with Miranda; meeting Oriana
+
+2 Paragon for saying "You couldn't have."
+2 Renegade for saying "Live and learn."
+plus
+If Niket was not killed by Miranda
+2 Paragon for saying "You would've regretted it."
+If Niket was killed by Miranda
+2 Paragon for saying "Don't blame yourself."
+plus
+Saying "You won't go talk to her?"
+15 Paragon for saying "You should speak with her."
+15 Renegade for saying "If you say so."
+15 Renegade for saying "If you say so."
+Miranda vs. Jack
+If Jack's loyalty mission has already been completed, morality points are available when settling the dispute between Miranda and Jack that occurs immediately after the mission.
+Talking to Miranda on the Normandy afterwards (Not available if sided with Jack during the dispute)
+
+2 Paragon for saying "What about Oriana?"
+plus
+2 Paragon for saying "It's nice to see you smile." (Only available if Shepard is male)
+Illium: The Prodigal: Lost Locket Found[]
+2 Paragon for saying "Don't bother. I can help."
+plus
+5 Paragon for completing the assignment.
+Mordin: Old Blood[]
+Acquiring the mission
+
+Saying "Remind me"
+Saying "That's impressive work."
+2 Renegade for saying "Damn right it did."
+Saying "That's horrific!" (Not available if second conversation with Mordin took place)
+2 Paragon for saying "I don't buy that."
+Dead human
+
+2 Paragon for saying "I'm stopping this."
+Weyrloc Clanspeaker
+
+2 Renegade for saying "Look what I've done so far."
+plus
+2 Paragon for saying "No one else has to die."
+2 Paragon for saying "Why not try diplomacy?"
+plus
+5 Renegade for using Renegade interrupt
+Dead Krogan female
+
+Saying "That sounded religious," "You had a crisis of faith," and "How do you deal with that?"
+2 Paragon for saying "Like undo the genophage."
+2 Paragon for saying "That's garbage."
+2 Renegade for saying "I agree with you."
+2 Renegade for saying "Great. Talk about the corpse."
+2 Paragon for saying "The genophage was wrong."
+2 Paragon for saying "That's garbage."
+2 Renegade for saying "I agree with you."
+2 Renegade for saying "The genophage was right."
+2 Renegade for saying "We killed dozens already."
+2 Paragon for saying "The genophage was wrong."
+2 Paragon for saying "That's garbage."
+2 Renegade for saying "I agree with you."
+2 Renegade for saying "The genophage was right."
+Maelon
+
+2 Paragon for saying "He didn't need rescuing."
+Saying "Weyrloc is controlling him."
+2 Renegade for saying "He betrayed you."
+plus
+2 Paragon for saying "What now, Mordin?."
+2 Renegade for saying "The project is over."
+plus
+5 Paragon for using Paragon interrupt
+plus
+2 Paragon for saying "Are you okay?
+If Maelon is alive
+2 Paragon for saying "Remember that."
+2 Renegade for saying "Are we done?"
+2 Renegade for saying "Found a spot of racism?"
+If Maelon is dead
+2 Paragon for saying "You were hurting too."
+2 Renegade for saying "Are we done?"
+2 Renegade for saying "It was his fault."
+2 Renegade for saying "Are we done?"
+plus
+2 Paragon for saying "His research was sick."
+2 Renegade for saying "Might be worth keeping."
+plus
+15 Paragon for saying "You should help the krogan."
+15 Renegade for saying "Genophage was the right call."
+15 Paragon for saying "Hold onto the data."
+15 Renegade for saying "Destroy the data for now."
+Tuchanka: Old Blood: Missing Scout[]
+2 Paragon for saying "We were looking for you."
+2 Paragon for saying "Mordin can help."
+2 Renegade for saying "Just sit tight."
+Saying "What did they do to you?"
+2 Paragon for saying "Can you get out?."
+2 Renegade for saying "I dealt with them."
+plus
+2 Paragon for saying "I want to help."
+plus
+5 Paragon for Charming "It doesn't help your clan."
+5 Renegade for Intimidating "I see what's really going on."
+2 Paragon for saying "Stay here! I'm trying to help!."
+2 Renegade for saying "[Lie] Relax. It's okay."
+5 Renegade for saying "Forget it. I'm leaving."
+Samara: The Ardat-Yakshi[]
+Acquiring the mission
+
+2 Renegade for saying "Sounds like you."
+plus
+2 Paragon for saying "I can see why she's dangerous."
+plus
+2 Paragon for saying "Let's go get her."
+2 Renegade for saying "I'll think about it."
+plus
+2 Paragon for saying "Samara. I'm so sorry."
+2 Renegade for saying "You should have told me."
+Diana, Nef's mother
+
+2 Paragon for saying "I believe you."
+plus
+2 Paragon for saying "I'm on your side."
+2 Renegade for saying "Yes."
+plus
+5 Paragon for using Paragon interrupt
+Not using Paragon interrupt
+2 Renegade for saying "No promises."
+After reading the holojournal
+
+2 Renegade for saying "This sounds easy."
+plus
+2 Paragon for saying "A perfect predator."
+2 Renegade for saying "Can't wait to meet her."
+Talk to Vij
+
+2 Renegade for saying "Get away from me."
+Insulting Verf
+
+5 Renegade for Intimidating "Let's step outside."
+Talk to Bartender Edwin
+
+5 Paragon for Charming "Treat your customers."
+Talk to Vertin
+
+5 Renegade for Intimidating "Not much."
+Confrontation between Samara and Morinth
+
+30 Paragon for killing Morinth
+2 Paragon for saying "Are you okay?"
+Note:  By choosing the option to look around after selecting this dialogue and then talking to Samara again you may ask the same question again and again for an infinite number of Paragon points (Legendary Edition: exploit does not exist).
+45 Renegade for killing Samara
+Talking to Samara on the Normandy afterwards
+
+If Morinth was killed
+2 Paragon for saying "Don't be fatalistic."
+If Morinth escaped
+2 Paragon for saying "I'm sorry."
+2 Renegade for saying "This was a waste of time."
+Tali: Treason[]
+Greeted by Captain Kar'Danna vas Rayya
+
+Without Legion in party
+2 Paragon for saying "I owe Tali a great deal."
+With Legion in party
+5 Renegade for using Renegade interrupt
+2 Paragon for saying "Calm down."
+2 Renegade for saying "It's called Legion."
+plus
+5 Paragon for Charming "You'll have to shoot us both."
+5 Renegade for Intimidating "If it acts up, I'll kill it."
+2 Paragon for saying "I'll do this for Tali."
+Admiral Shala'Raan and the hearing
+
+2 Paragon for saying "I'm honored."
+2 Renegade for saying "This is a terrible idea."
+plus
+5 Paragon for Charming "It's my pleasure."
+5 Renegade for Intimidating "Look at her record."
+2 Renegade for saying "What's the point?"
+plus
+5 Paragon for Charming "We need to help."
+5 Renegade for Intimidating "You've got a lot of nerve."
+plus
+2 Paragon for saying "We must. For Tali's sake."
+2 Renegade for saying "If it proves her loyalty."
+Talk to Veetor (Only available if he was sent with Tali during Freedom's Progress)
+
+2 Paragon for saying "I hope you feel better."
+Talk to Admiral Shala'Raan again
+
+2 Paragon for saying "You went too far."
+2 Renegade for saying "Thanks. Will it help?"
+Talk to Tali at Wall Console
+
+2 Paragon for saying "That's a bad idea."
+2 Paragon for saying "Then find another world."
+2 Renegade for saying "So take it back, then."
+2 Renegade for saying "That's a worthy promise."
+2 Paragon for saying "Settle down somewhere else."
+2 Renegade for saying "It's worth it."
+Finding Rael'Zorah
+
+5 Paragon for using Paragon interrupt
+Not using Paragon interrupt
+2 Paragon for saying "This wasn't his choice."
+2 Renegade for saying "We'll destroy the geth."
+plus
+2 Paragon for saying "He did what he could."
+2 Renegade for saying "The geth cut him off."
+Getting the evidence
+
+2 Paragon for saying "He wanted to keep his promise."
+2 Renegade for saying "That's what we needed."
+2 Renegade for saying "That sounded bad."
+Resuming the hearing
+
+2 Paragon for saying "You should pardon Tali."
+2 Renegade for saying "You could have waited."
+plus
+30 Paragon for Charming "I don't need evidence."
+30 Paragon for saying "[Rally the Crowd.]" (Only available if Veetor was sent with Tali during Freedom's Progress and Kal'Reegar is alive)
+30 Renegade for Intimidating "You're wasting our time!"
+30 Paragon for saying "We have no evidence."
+30 Renegade for saying "Yes. Here is the evidence."
+plus
+2 Paragon for saying "Don't go to war."
+2 Renegade for saying "Good luck in the war."
+2 Paragon for saying "She's with me."
+Admiral Daro'Xen vas Moreh
+
+2 Paragon for saying "Your ideas are wrong."
+2 Renegade for saying "All that matters is victory."
+Shala'Raan
+
+2 Paragon for saying "I support Tali." (Only available if Tali was exiled)
+2 Renegade for saying "She had no choice!" (Only available if Tali was exiled)
+Admiral Han'Gerrel vas Neema
+
+If evidence was not presented
+2 Paragon for saying "This was Rael's fault."
+2 Renegade for saying "You don't want to know."
+If evidence was presented
+2 Paragon for saying "I'm sorry."
+2 Renegade for saying "That's not my problem."
+Admiral Zaal'Koris vas Qwib-Qwib
+
+If evidence was not presented (Tali either exiled or exonerated)
+2 Paragon for saying "Keep pushing for peace."
+2 Renegade for saying "You need to go to war."
+If evidence was presented
+2 Paragon for saying "It's unfortunate but needed."
+2 Renegade for saying "You need to go to war."
+Veetor'Nara
+
+2 Paragon for saying "You were motivated." (Only available if Shepard rallied the crowd)
+Kal'Reegar
+
+2 Paragon for saying "Thanks for standing by me." (Only available if Shepard rallied the crowd)
+Tali vs Legion
+If Legion's loyalty mission has already been completed, morality points are available when settling the dispute between Tali and Legion that occurs immediately after the mission.
+Talk to Tali on the Normandy afterwards  (Not available if sided with Legion during the dispute)
+
+If Tali is exonerated without using the evidence
+2 Paragon for saying "You deserved better."
+If Tali is exonerated by using the evidence
+2 Paragon for saying "I wanted to help you."
+2 Renegade for saying "You wanted this too."
+plus
+2 Paragon for saying "I'm so sorry, Tali."
+Thane: Sins of the Father[]
+Acquiring the mission
+
+Saying "That's not what I expected."
+2 Paragon for saying "Why didn't you take him?"
+2 Renegade for saying "You abandoned him."
+2 Renegade for saying "Get on with it."
+Mouse
+
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+5 Paragon for Charming "We'll protect you."
+5 Renegade for Intimidating "I'm losing patience."
+Interrogation
+
+5 Paragon and 5 Renegade for Intimidating "I'm a Spectre. Start talking."
+5 Renegade for using third Renegade interrupt (after Thane pulls you aside)
+Not using third Renegade interrupt
+5 Paragon for Charming "We'll sweeten the pot." (May not be available depending on previous choices)
+5 Renegade for Intimidating "You should talk to us."
+plus
+2 Paragon for saying "That's democracy for you."
+2 Renegade for saying "Not my problem."
+Jim Reynolds (the stockboy)
+
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+5 Paragon for Charming "I'm a health inspector."
+5 Renegade for Intimidating "There's a bomb."
+Saying "Nothing bad."
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+5 Paragon for Charming "I'm lost."
+5 Renegade for Intimidating "You can't stop me."
+Saying "It's not important."
+5 Renegade for using Renegade interrupt
+Not using Renegade interrupt
+5 Paragon for Charming "Here's the truth."
+5 Renegade for Intimidating "A life is at stake."
+In the apartment
+
+15 Paragon for using Paragon interrupt
+Not using Paragon interrupt
+5 Paragon and 5 Renegade for choosing [Disable Kolyat]
+15 Renegade for choosing [Kill the Hostage]
+2 Paragon for saying "Now your son can't kill him."
+2 Renegade for saying "He was a bad guy."
+plus
+2 Paragon for saying "Thane's dying."
+2 Renegade for saying "He did this for you."
+plus
+5 Paragon and 5 Renegade for completing the mission.
+Talk to Captain Bailey (Only available if Kolyat was stopped)
+
+5 Paragon for Charming "Those guys were criminals."
+5 Renegade for Intimidating "Who cares about them?"
+Thane on the Normandy (Only available if Kolyat was stopped)
+
+2 Paragon for saying "Yes, but I could wait."
+2 Renegade for saying "No kidding."
+plus
+2 Renegade for saying "You were careless."
+plus
+2 Paragon for saying "Your body did. Not your soul."
+2 Renegade for saying "I would have, too."
+plus
+2 Paragon for saying "I want you, Thane." (Only available if Shepard is female)
+2 Paragon for saying "You're my crew."
+Zaeed: The Price of Revenge[]
+Extending the bridge
+
+2 Paragon for saying "You know this guy?"
+2 Renegade for saying "Vido sounds dangerous."
+Through the Gatehouse
+
+2 Paragon for saying "That was unnecessary."
+5 Paragon for using Paragon interrupt (Using the interrupt will eliminate all further morality points in this conversation)
+2 Renegade for saying "Warn me next time."
+plus
+2 Paragon for saying "We came to save these people."
+2 Renegade for saying "You do what I tell you."
+plus
+2 Paragon for saying "Keep to the mission, or else."
+2 Renegade for saying "If that's what you need."
+Worker asks for help
+
+2 Paragon for saying "You suggest we leave them?"
+2 Renegade for saying "You must really want him dead."
+plus
+15 Paragon for saying "Forget Loyalty. We save them."
+15 Renegade for saying "Zaeed's right. Vido must die."
+Zaeed trapped under a metal beam (Only available if Shepard chose to save the workers)
+
+2 Paragon for saying "Are you hurt?"
+2 Renegade for saying "You deserved that."
+plus
+2 Paragon for saying "I don't want you on my ship."
+2 Renegade for saying "Why should I trust you?"
+plus
+2 Paragon for saying "You owe me big for this."
+2 Paragon for saying "Come on, Zaeed. Let's go."
+7 Paragon for Charming "You brought this on yourself."
+Settling Disputes[]
+Jack vs. Miranda[]
+After completing both Jack: Subject Zero and Miranda: The Prodigal
+
+15 Paragon for saying "This is a distraction."
+15 Renegade for saying "This ends now!"
+Saying "Back off, Miranda." (ends conversation and loses Miranda's loyalty) and then talking to Miranda again
+15 Paragon for saying "Be the better woman." (Restores Miranda's loyalty)
+15 Renegade for saying "Don't give me that crap." (Restores Miranda's loyalty)
+Saying "Too bad, Jack." (ends conversation and loses Jack's loyalty) and then talking to Jack again
+15 Paragon for saying "It was lip service." (Restores Jack's loyalty)
+15 Renegade for saying "I like you angry." (Restores Jack's loyalty)
+Tali vs. Legion[]
+After completing both Tali: Treason and Legion: A House Divided
+
+15 Paragon for saying "You are both right."
+15 Renegade for saying "Knock this crap off."
+Saying "Back off, Tali." (ends conversation and loses Tali's loyalty) and then talking to Tali again
+15 Paragon for saying "We need Legion." (Restores Tali's loyalty)
+15 Renegade for saying "He's not a pet." (Restores Tali's loyalty)
+Saying "Legion, stop transmitting." (ends conversation and loses Legion's loyalty) and then talking to Legion again
+15 Paragon for saying "You're right, I am sorry." (Restores Legion's loyalty)
+15 Renegade for saying "I lied to her." (Restores Legion's loyalty)
+Totals
+574 Paragon, 101 freebies
+543 Renegade, 66 freebies
+Normandy Conversations[]
+Dr. Karin Chakwas[]
+2 Paragon for saying "Why are you here?"
+Engineers Donnelly and Daniels[]
+2 Paragon for saying "Hello."
+2 Renegade for saying "Shape up!"
+Note:  When playing Skyllian-Five poker, no morality points are received even if the Charm or Intimidate option is chosen.
+
+Garrus[]
+First Conversation
+
+2 Paragon for saying "We're not with them."
+2 Renegade for saying "Glad you're happy here."
+Second Conversation
+
+Acquiring Loyalty Mission; no morality points.
+Third Conversation
+
+Romance dialogue available for female Shepard; no morality points.
+Grunt[]
+Opening Grunt's Tank/First Conversation
+
+Dossier Mission wrap-up; morality points available.
+Second Conversation
+
+2 Paragon for saying "You have no reaction?"
+plus
+2 Paragon for saying "And yet you became strong."
+2 Renegade for saying "Ignore it. I need a warrior."
+Third Conversation
+
+2 Paragon for saying "Why is that funny?"
+2 Renegade for saying "This brutality has a point?"
+plus
+2 Paragon for saying "I don't like hearing this."
+2 Renegade for saying "Not quite, but I'm not krogan."
+2 Renegade for saying "What about Garrus?" (Only available if Garrus was recruited)
+Fourth Conversation
+
+Acquiring Loyalty Mission; no morality points.
+Fifth Conversation
+
+Loyalty Mission wrap-up; morality points available.
+Sixth Conversation
+
+2 Paragon for saying "You even trying to get better?"
+2 Renegade for saying "Save some for our enemies."
+2 Paragon for saying "This isn't going well."
+2 Renegade for saying "That's what we need."
+Jack[]
+First Conversation
+
+Dossier Mission wrap-up; morality points available.
+Second Conversation
+
+2 Renegade for saying "I wouldn't joke about that."
+plus
+2 Paragon for saying "You don't trust anyone?"
+2 Renegade for saying "You're bitter as hell."
+plus
+2 Paragon for saying "You regret none of it?"
+Third Conversation
+
+2 Paragon for saying "I'm curious."
+2 Renegade for saying "Answer my questions."
+plus
+2 Paragon for saying "What if I really care?"
+2 Renegade for saying "You don't make this easy."
+plus
+Saying "We'll talk again.", which becomes available after saying any two of "What do the tattoos mean?", "No close relationships?", and "You must have friends." (can say the same one twice)
+If male Shepard
+2 Paragon for saying "No, I want to get to know you."
+Saying "Yes. I want you."
+2 Paragon for saying "No, I want to get to know you."
+2 Renegade for saying "Sounds good to me." (Eliminates the ability to conduct further conversations with Jack)
+If female Shepard
+2 Paragon for saying "You fascinate me."
+Fourth Conversation
+
+Acquiring Loyalty Mission; morality points available.
+Fifth Conversation
+
+Loyalty Mission wrap-up; morality points available.
+Sixth Conversation
+
+2 Paragon for saying "I'm interested."
+2 Renegade for saying "So what?"
+Seventh Conversation (confirmed by male)
+
+2 Paragon for saying "You have survivor's guilt?"
+2 Renegade for saying "I assume you took revenge."
+plus
+Saying "I'm staying right here."
+2 Paragon for saying "We're all nuts."
+2 Renegade for saying "Your trauma is unimpressive."
+Jacob Taylor[]
+First Conversation
+
+2 Renegade for saying "Bringing you wasn't my choice."
+plus
+2 Paragon for saying "Glad to have you aboard."
+2 Paragon for saying "I appreciate your honesty."
+2 Renegade for saying "Do your job. Nothing more."
+Second Conversation
+
+2 Paragon for saying "Don't be so formal, Jacob."
+2 Renegade for saying "I need a reason?"
+plus
+If male Shepard
+2 Paragon for saying "You're still in top shape." (No more morality points in this conversation after choosing this option)
+2 Paragon for saying "I like that you took a stand."
+2 Renegade for saying "They lost a good man."
+plus
+2 Paragon for saying "We don't need them."
+2 Renegade for saying "Can't tell people everything."
+If female Shepard
+2 Paragon for saying "You're still in top shape."
+2 Renegade for saying "Something you'd like to see?"
+2 Paragon for saying "I like that you took a stand."
+2 Paragon for saying "Thanks for thinking of me."
+2 Renegade for saying "You think I'm perfect."
+2 Renegade for saying "They lost a good man."
+2 Paragon for saying "Thanks for thinking of me."
+2 Renegade for saying "You think I'm perfect."
+plus
+2 Paragon for saying "I make you nervous?"
+2 Renegade for saying "For now."
+Third Conversation
+
+No morality points.
+Fourth Conversation
+
+Acquiring Loyalty Mission; morality points available.
+Fifth Conversation
+
+Loyalty Mission wrap-up; no morality points.
+Sixth Conversation
+
+If male Shepard (Also appears for female Shepard if a romance wasn't pursued and less flirtatious options were chosen)
+Saying "The ship needs a bar."
+2 Paragon for saying "It usually is."
+2 Renegade for saying "I wouldn't know."
+Saying "We can't let our guard down."
+2 Paragon for saying "I can lie if you want."
+2 Renegade for saying "Toughen up."
+If female Shepard
+2 Paragon for saying "Are you all right?
+2 Paragon for saying "Your dad should matter more."
+2 Paragon for saying "You're hurt. I want to help."
+2 Renegade for saying "Just being nosey."
+2 Renegade for saying "Yes, move on."
+plus
+2 Paragon for saying "We all carry something."
+2 Paragon for saying "Loneliness."
+2 Paragon for saying "Survivor guilt."
+2 Renegade for saying "Nothing."
+2 Renegade for saying "None of your business." (note: locks out of romance)
+2 Renegade for saying "The burden of command."
+2 Renegade for saying "That's just naive denial." (note: locks out of romance)
+Legion[]
+Activating Legion/First Conversation
+
+2 Renegade for saying "Why not?"
+plus
+2 Renegade for saying "All geth are the same."
+plus
+2 Paragon for saying "You want to work with me?"
+2 Renegade for saying "I don't 'cooperate.' I lead."
+plus
+2 Paragon for saying "That works."
+2 Renegade for saying "Quiet, EDI."
+Second Conversation
+
+Acquiring Loyalty Mission; no morality points.
+Third Conversation
+
+No morality points.
+Fourth Conversation
+
+Saying "Keep it out."
+5 Paragon for saying "Allow Legion access."
+2 Paragon for saying "That's all right."
+2 Paragon for saying "You have been watching us."
+2 Renegade for saying "And let you hack the Normandy?"
+Fifth Conversation
+
+2 Paragon for saying "Do you hold a grudge?"
+2 Paragon for saying "Why couldn't you coexist?"
+2 Renegade for saying "I bet you attacked them first."
+plus
+2 Paragon for saying "You're avoiding the problem."
+2 Renegade for saying "And that's acceptable?"
+2 Renegade for saying "Of course they hate you." (Unavailable if not chosen immediately)
+Sixth Conversation
+
+Saying "'Questions of existence?'"
+2 Paragon for saying "A surprising interest."
+2 Renegade for saying "Are you mocking us?"
+plus
+2 Renegade for saying "That sounds bleak."
+plus
+2 Paragon for saying "The heretics wanted that."
+2 Renegade for saying "You're becoming a Reaper?"
+Miranda[]
+First Conversation
+
+No morality points.
+Second Conversation
+
+2 Paragon for saying "I'm not Cerberus."
+2 Renegade for saying "This is my operation."
+Third Conversation
+
+Acquiring Loyalty Mission; morality points available.
+Fourth Conversation
+
+Loyalty Mission wrap-up; morality points available.
+Fifth Conversation
+
+2 Paragon for saying "Cerberus is wrong."
+2 Renegade for saying "So do I."
+plus
+2 Paragon for saying "And you."
+2 Renegade for saying "You sound unhappy."
+plus
+2 Paragon for saying "You always bring that up."
+2 Renegade for saying "This again?"
+plus
+2 Paragon for saying "You are hard to compliment." (Only available if Shepard is male)
+2 Renegade for saying "You're jealous." (Only available if Shepard is male)
+2 Paragon for saying "That's not true." (Only available if Shepard is female)
+Mordin[]
+First Conversation
+
+No morality points.
+Second Conversation
+
+2 Paragon for saying "What did you do?"
+2 Renegade for saying "I suspected as much."
+plus
+2 Paragon for saying "This is good news."
+2 Renegade for saying "This is a major threat."
+plus
+2 Paragon for saying "What you did was wrong."
+2 Paragon for saying "Thank you for telling me."
+2 Renegade for saying "You did the right thing."
+Third Conversation
+
+Acquiring Loyalty Mission; morality points available.
+Fourth Conversation
+
+Loyalty Mission wrap-up; no morality points.
+Fifth Conversation
+
+Saying "I'm interested."
+2 Paragon for saying "Can they be saved?" (Only available after completing the Collector Ship mission)
+Sixth Conversation (reacting to stress)
+
+If no love interest
+2 Paragon for saying "You're joking with me."
+2 Paragon for saying "Thanks, anyway."
+2 Renegade for saying "I'm not interested."
+If Miranda or Jacob is love interest
+2 Renegade for saying "What? I'm not doing that!"
+Saying "Give me your advice."
+2 Paragon for saying "You're joking with me."
+2 Renegade for saying "Don't worry yourself."
+If Jack, Tali, Garrus, or Thane is love interest
+2 Renegade for saying "What? I'm not doing that!"
+2 Paragon for saying "I care about Jack/Tali/Garrus/Thane."
+Saying "Give me your advice."
+2 Paragon for saying "You're joking with me."
+2 Renegade for saying "Don't worry yourself."
+Saying "Give me your advice."
+2 Paragon for saying "You're joking with me."
+2 Renegade for saying "Don't worry yourself."
+Note:  For Shepard's love interest to be the subject of this conversation, the relationship must be confirmed, or "locked-in". See the romance page for details. 
+Seventh Conversation
+
+No morality points.
+Samara[]
+First Conversation
+
+No morality points.
+Second Conversation
+
+No morality points.
+Third Conversation
+
+Acquiring Loyalty Mission; morality points available.
+Fourth Conversation
+
+Loyalty Mission wrap-up; morality points available.
+Fifth Conversation
+
+2 Paragon for saying "You make it sound final."
+2 Paragon for saying "We'll get through it."
+2 Renegade for saying "The mission is paramount."
+Sixth Conversation
+
+No morality points.
+Tali[]
+First Conversation
+
+2 Paragon for saying "I don't trust them."
+2 Renegade for saying "They're on our side."
+Second Conversation
+
+Acquiring Loyalty Mission; no morality points.
+Third Conversation
+
+Loyalty Mission wrap-up; morality points available.
+Fourth Conversation
+
+Saying "Suited life sounds difficult."
+2 Paragon for saying "I trust you, too."
+2 Renegade for saying "You're embarrassed?"
+Fifth Conversation (confirmed by male)
+
+Saying "I want to be with you."
+2 Paragon for saying "Don't take too long."
+Thane[]
+First Conversation
+
+2 Paragon for saying "Can we help?"
+Second Conversation
+
+2 Paragon for saying "You're not a typical assassin."
+2 Renegade for saying "You don't seem confident."
+Third Conversation
+
+2 Paragon for saying "Every pang of guilt."
+plus
+2 Paragon for saying "My gun doesn't have free will."
+plus
+2 Paragon for saying "That's irresponsible."
+2 Renegade for saying "That's convenient."
+plus
+Saying "You're lonely."
+2 Paragon for saying "You're a good man, Thane." (Only available if Shepard is male)
+2 Paragon for saying "Just a friend?" (Only available if Shepard is female)
+2 Paragon for saying "It's never too late to change."
+2 Renegade for saying "That a 'poor me' I hear?"
+2 Paragon for saying "It's just business."
+Fourth Conversation
+
+Acquiring Loyalty Mission; morality points available.
+Fifth Conversation
+
+Loyalty Mission wrap-up; morality points available.
+Sixth Conversation
+
+2 Renegade for saying "Don't I always?"
+plus
+
+2 Paragon for saying "I'm happy for you."
+2 Renegade for saying "Don't leave it yet."
+Yeoman Chambers → Kelly[]
+Casual conversation
+
+Saying "Investigate" → "What do you think of Cerberus?" (Morality points only available once)
+Saying "Does Cerberus hate aliens?"
+2 Paragon for saying "You are very loving." (Need to have agreed to address her as "Kelly")
+2 Renegade for saying "You're naive."
+When Kelly states her desire to know Shepard better
+
+5 Paragon and 5 Renegade for saying "Let's have dinner."
+Totals
+120 Paragon. 20 freebies
+107 Renegade, 14 freebies
+Other Missions[]
+Illium: Liara T'Soni → Illium: Liara: System Hacking[]
+Immediately after completing data recovery
+
+5 Renegade
+Returning to Liara after completing data recovery
+
+2 Paragon for saying "Is he after you?"
+2 Renegade for saying "Are you on his side?"
+Illium: Liara: The Observer[]
+After finding 1-4 data fragments
+
+2 Paragon for saying any of the "Kill the …" options
+After finding 5 data fragments
+
+2 Paragon for saying any of the "Kill the …" options
+5 Paragon for saying "None of the suspects fit."
+Returning to Liara after giving the Observer's identity (whether real or false)
+
+Note:  Saying "Investigate" → "Liara's needs" ends the conversation.
+2 Paragon for saying "Don't give in to temptation."
+2 Renegade for saying "Good luck, Liara."
+Lair of the Shadow Broker[]
+Giving intel to Liara (Morality points not available if the "Investigate" → "Anger at Shadow Broker" option was chosen in previous conversation with Liara)
+
+2 Paragon for saying "You saved me."
+2 Renegade for saying "Why give me to Cerberus?"
+Found backup disk
+
+2 Paragon for saying "She's in danger."
+2 Renegade for saying "So she did find something."
+Liara
+
+2 Paragon for saying "Wait, Liara. She's a friend."
+plus
+2 Renegade for saying "It was you?"
+Confronting Tela Vasir
+
+2 Paragon for saying "Mariana, I'm here to help."
+2 Renegade for saying "Escaping won't help you."
+plus
+15 Paragon for Charming "I'll shoot if I have to."
+15 Renegade for Intimidating "You're pathetic."
+15 Paragon for choosing "[Drop thermal clips.]"
+15 Renegade for choosing "[Wound the hostage.]"
+Vasir defeated
+
+2 Paragon for saying "You crossed the line."
+plus
+2 Renegade for saying "What they had to do."
+Feron found
+
+2 Paragon for saying "Are you all right?"
+plus
+2 Paragon for saying "We're all leaving."
+2 Renegade for saying "The Broker's overconfident."
+Shadow Broker defeated
+
+2 Paragon for saying "You're sure about this?"
+2 Renegade for saying "Good. Useful Intel."
+plus
+5 Paragon for saying "[Hug her]"
+5 Renegade for saying "It's just nerves."
+plus
+2 Paragon for saying "I'll miss you."
+Reminiscing with Liara on the Normandy (available if Shepard and Liara had a relationship during the events of Mass Effect)
+
+2 Paragon for saying "Thank you."
+2 Renegade for saying "These aren't mine anymore."
+plus
+2 Paragon for saying "I'm worried."
+2 Paragon for saying "I'm hopeful."
+2 Renegade for saying "I'm frustrated."
+plus
+2 Paragon for saying "Too many still died."
+2 Renegade for saying "It was a damn setup."
+plus
+If "I want to talk about us." → "I do." or "I want to talk about us." → "Let's try again." was selected during the conversation in the Shadow Broker Base
+2 Paragon for saying "Happily ever after."
+Saying "Death, most likely."
+2 Paragon for saying "We're here now."
+2 Renegade for saying "I don't know."
+Otherwise
+2 Paragon for saying "Life everywhere."
+2 Renegade for saying "Survival."
+Omega: Aria T'Loak[]
+2 Renegade for saying "Like hell." (Unavailable if not chosen immediately)
+plus
+2 Paragon for saying "Simple enough."
+2 Renegade for saying "I have similar rules."
+Totals
+61 Paragon. 15 freebies
+57 Renegade, 11 freebies
+Other Assignments[]
+Arrival[]
+Briefing from Admiral Hackett
+
+2 Paragon for saying "I'll save her."
+2 Renegade for saying "If I have time."
+Rescuing Dr. Amanda Kenson
+
+2 Renegade for selecting "I'm here for the evidence."
+Activating the Project
+
+5 Paragon for selecting "[Warn batarian colonies.]"
+2 Renegade for selecting "[Call Normandy for pickup.]"
+Dr. Kenson after activating the Project
+
+2 Paragon for saying "You're wasting your time."
+2 Renegade for saying "I will stop you."
+Dr. Kenson in Engine Control Room
+
+5 Renegade for using Renegade Interrupt
+Harbinger
+
+5 Paragon for saying "We will not go quietly."
+5 Renegade for saying "No cost is too great."
+Debriefing with Admiral Hackett
+
+2 Paragon for saying "I had no choice."
+2 Renegade for saying "I did what I had to do."
+plus
+2 Paragon for saying "What I did saved a lot more."
+2 Renegade for saying "It was worth the price."
+plus
+2 Paragon for saying "I'll turn myself in."
+2 Renegade for saying "They should be thanking me."
+plus
+2 Renegade for completing the mission.
+Citadel: Crime in Progress[]
+5 Paragon for completing the assignment.
+plus
+5 Paragon for using Paragon interrupt
+Citadel: False Positives[]
+C-Sec Customs lady
+
+5 Paragon for Charming "They're not geth!"
+5 Renegade for Intimidating "This is crap."
+5 Paragon for saying "I'm a Spectre. Let them leave." (Only available if Shepard's Spectre status was restored)
+Kalara Tomi (after Customs)
+
+2 Paragon for saying "I'm a Spectre." (Only available if Shepard's Spectre status was restored)
+2 Paragon for saying "Friendly persuasion."
+Or
+Kalara Tomi
+
+5 Renegade for saying "I have forged IDs." (Must acquire the Forged IDs during Garrus: Eye for an Eye)
+Note:  Reserving this line until you've investigated Kalara's problem and dealt with the C-Sec Customs lady will allow you to maximise morality points.
+Citadel: Krogan Sushi[]
+5 Paragon for saying "There are no fish."
+5 Renegade for saying "[LIE] I have a Presidium fish." (Only available if an Illium Skald Fish or a Thessian Sunfish was purchased from Citadel Souvenirs beforehand)
+Illium: A Troublemaker → Illium: Conrad Verner[]
+Only available if Citadel: The Fan was completed in Mass Effect and Conrad Verner did not die.
+Asari outside Eternity Bar:
+
+2 Paragon for saying "Good to know." (If Asari does not slap Shepard)
+2 Renegade for saying "Don't do that again." (If Asari slaps Shepard; not normally available — for this to happen, Shepard must have Charmed Conrad in Mass Effect. See here for details on the issue)
+Conrad Verner
+
+2 Paragon for saying "For crying out loud…"
+2 Renegade for selecting "[Hit him.]"
+5 Renegade for selecting "[Shoot his foot.]"
+plus
+5 Renegade for saying "Get lost, Conrad. We're done." (Ends mission, Conrad later dies)
+Saying "What were you doing here?"
+2 Paragon for saying "Let me handle this."
+5 Renegade for saying "Get lost, Conrad. We're done." (Ends mission, Conrad later dies)
+Weapons Merchant at Gateway Personal Defense
+
+5 Paragon for Charming "[LIE] I'll help you." (Obtains discount at Gateway Personal Defense)
+5 Renegade for Intimidating "Shut up and listen." (Obtains discount at Gateway Personal Defense)
+2 Renegade for saying "I should kill you."
+5 Paragon for Charming "[LIE] I'll still help you." (Obtains discount at Gateway Personal Defense)
+5 Renegade for Intimidating "Shut up and listen." (Obtains discount at Gateway Personal Defense)
+Saying "Don't lie to me!"
+5 Paragon for Charming "[LIE] I'll still help you." (Obtains discount at Gateway Personal Defense)
+5 Renegade for Intimidating "Shut up and listen." (Obtains discount at Gateway Personal Defense)
+Returning to Conrad after Charming the Weapons Merchant into getting arrested
+
+5 Paragon for Charming "[LIE] It was a sting."
+5 Renegade for Intimidating "You blew her cover."
+Saying "She was a fake, too." or "It's been dealt with."
+5 Paragon for Charming "You didn't screw up."
+5 Renegade for Intimidating "You should have been yourself."
+2 Renegade for saying "Yes, you screwed up." (Conrad later dies)
+Saying "We're done here." (Conrad later dies)
+Returning to Conrad after Intimidating the Weapons Merchant into telling Conrad he did a good job
+
+5 Paragon for saying "You did fine. Now stop."
+5 Renegade for saying "[LIE] This was really risky."
+Returning to Conrad after saying "Leave. Now." to the Weapons Merchant which becomes available after saying "Don't lie to me!" or "I should kill you."
+
+Saying "She was a fake, too." or "It's been dealt with."
+5 Paragon for Charming "You didn't screw up."
+5 Renegade for Intimidating "You should have been yourself."
+2 Renegade for saying "Yes, you screwed up." (Conrad later dies)
+Saying "We're done here." (Conrad later dies)
+Illium: Blue Rose of Illium[]
+Asari (Ereba)
+
+2 Paragon for saying "Do you need help?"
+plus
+Saying "You should make a decision." (Becomes available after saying "Investigate" → "Reason for breakup" or "Investigate" → "Reason for dating")
+5 Paragon for Charming "You should take him back." (Obtains discount at Memories of Illium)
+5 Renegade for Intimidating "Get rid of him." (Obtains discount at Memories of Illium)
+Illium: Gianna Parasini[]
+Only available if Gianna did not die in Mass Effect.
+Gianna Parasini
+
+2 Paragon for saying "It was my pleasure." (If you gave Gianna the evidence in Mass Effect to help Gianna convict Administrator Anoleis.)
+2 Paragon for saying "I'm sorry." (If you gave Lorik Qui'in the evidence in the original Mass Effect and did not help Gianna convict Anoleis.)
+Hermia
+
+5 Renegade for saying "You're being watched." (Obtains discount at Serrice Technology – discounts don't stack)
+Reporting back to Gianna after successfully exposing Hermia
+
+2 Paragon for saying "You love doing this."
+2 Renegade for saying "Is this time real?"
+plus
+2 Paragon for saying "It was good to see you."
+Illium: Indentured Service[]
+Slave Broker
+
+2 Paragon for saying "Free your slave. Now."
+Synthetic Insights Rep
+Note:  "Winning" here on your first talk with the Rep actually precludes the max points path for the conversation.
+
+5 Paragon for Charming "This would be good business."
+5 Renegade for Intimidating "You're prejudiced!"
+Returning to Slave Broker after Charming or Intimidating Synthetic Insights Rep
+
+2 Paragon for saying "No problem."
+2 Renegade for saying "I don't need your thanks."
+Returning to Slave Broker after neither Charming nor Intimidating Synthetic Insights Rep
+
+5 Paragon for Charming "You can free her!"
+5 Renegade for Intimidating "That's enough. Let her go!"
+plus
+5 Paragon for returning to Synthetic Insights Rep and Charming "This would be good business." (This may be a bug, since it can be performed after the mission is completed.)
+5 Renegade for returning to Synthetic Insights Rep and Intimidating "You're prejudiced!" (This may be a bug, since it can be performed after the mission is completed.)
+Illium: Medical Scans[]
+Note:  If Shiala was killed on Feros, or a game was not imported from Mass Effect, Shiala's role will instead be filled by "Colonist," who will be sitting in Shiala’s place near Officer Dara. Having the colonist precludes the opportunities for additional morality points for conversing with Shiala at the start and the end of the assignment.
+Shiala
+
+2 Paragon for saying "Can I offer assistance?"
+Erinya
+
+Saying "That sounds personal." or "This is because they're human." (Becomes available after choosing any Investigate option or after re-opening dialogue with Erinya)
+5 Paragon for Charming "Tell me about your family."
+5 Renegade for Intimidating "They didn't hate aliens."
+Returning to Shiala after persuading Erinya to call off the intrusive scans
+
+2 Paragon for saying "It's not all bad."
+2 Renegade for saying "Only with death."
+Normandy: Serrice Ice Brandy[]
+Note:  To be able to talk to Dr. Chakwas again after drinking with her only requires visiting another deck and then returning to the medical bay.  
+Note:  Morality points are only available if Dr. Chakwas gives Shepard a chance to vent.  This only occurs if Shepard had unlocked every toast option (five total) while drinking with her.  No particular toast option needs to be chosen.
+Talk to Dr. Chakwas after she is sober again
+
+Saying "I enjoyed it."
+2 Paragon for saying "We must save humanity."
+2 Renegade for saying "I want revenge."
+Omega: Batarian Bartender[]
+Regaining consciousness after being poisoned
+
+2 Paragon for saying "Thanks for the advice."
+2 Renegade for saying "That bartender will pay."
+Confronting Forvan
+
+2 Paragon for saying "You're done poisoning people."
+5 Paragon for saying "You're not worth my time."
+5 Paragon for Charming "[Incite the Crowd]"
+5 Renegade for Intimidating "[Make him drink it]"
+5 Paragon for Charming "[Incite the Crowd]"
+5 Renegade for Intimidating "[Make him drink it]"
+Omega: Packages for Ish[]
+Speaking to Ish after acquiring both packages
+
+5 Renegade for giving the packages to Ish.
+Speaking to Anto after acquiring both packages
+
+5 Paragon for Charming "This is bad for Aria."
+5 Renegade for Intimidating "Aria wouldn't be happy."
+Omega: Struggling Quarian[]
+Kenn (at any time before Intimidating Harrot to buy out Kenn)
+
+Saying "Investigate" → "Why are you here?"
+Saying "I could pay your way."
+5 Paragon for saying "[Give him 1000 credits.]"
+Harrot (After speaking with Kenn and saying "Tell me about Harrot.")
+
+Saying "Let's talk about the quarian." or "Good work with the quarian."
+5 Paragon for Charming "Leave the quarian alone." (Obtains discount at Harrot's Emporium and Kenn's Salvage – discounts don't stack)
+5 Renegade for Intimidating "Just shut the quarian down." (Obtains discount at Harrot's Emporium and Kenn's Salvage – discounts don't stack)
+Omega: The Patriarch[]
+The Patriarch
+
+2 Paragon for saying "You have to get out of here."
+2 Paragon for saying "Time to go, Patriarch."
+5 Renegade for Intimidating "What kind of krogan are you?"
+Charming "Let us be your 'muscle.'"
+2 Paragon for re-opening dialog with Patriarch and saying "New Plan. You get to safety."
+5 Renegade for re-opening dialog with Patriarch and Intimidating "What kind of krogan are you?"
+Reporting back to Patriarch after Charming Patriarch and killing krogan thugs (Not available if the "New Plan. You get to safety." option was chosen)
+
+5 Paragon
+plus
+2 Paragon for saying "Goodbye."
+2 Renegade for saying "Don't waste this."
+Reporting back to Aria after Intimidating Patriarch into getting himself killed
+
+2 Paragon for saying "He didn't live like a krogan."
+Totals
+131 Paragon, 29 freebies
+125 Renegade, 19 freebies
+Other Interactions[]
+Citadel: Deleia Sanassi[]
+5 Paragon for saying "I'm a Spectre." (Only available if Shepard's Spectre status was restored; obtains discount at Citadel Souvenirs)
+5 Paragon for Charming "Want an endorsement?" (Only available if Shepard's Spectre status was not restored; obtains discount at Citadel Souvenirs)
+5 Renegade for Intimidating "[Accuse her of classism.]" (Obtains discount at Citadel Souvenirs)
+Citadel: Etarn Tiron[]
+If the Council was saved in Mass Effect
+
+5 Paragon for Charming "Want an endorsement?" (Obtains discount at Rodam Expeditions)
+5 Renegade for Intimidating "You should give me a discount." (Obtains discount at Rodam Expeditions)
+If the Council died in Mass Effect
+
+5 Paragon for Charming "I'd like a discount." (Obtains discount at Rodam Expeditions)
+5 Renegade for Intimidating "Give me a discount." (Obtains discount at Rodam Expeditions)
+Citadel: Khalisah Bint Sinan al-Jilani[]
+2 Paragon for saying "You made me look bad."
+2 Paragon for saying "Yes, I remember."
+2 Renegade for saying "Am I supposed to know you?"
+plus
+5 Renegade for using Renegade interrupt (Ends conversation)
+Not using Renegade interrupt
+5 Paragon for Charming "We stood as one to save many." (Only available if the Council was saved)
+5 Paragon for Charming "We created an opportunity." (Only available if the Council died)
+5 Renegade for Intimidating "Don't disrespect the dead."
+2 Paragon for saying "I'm not doing this."
+2 Renegade for saying "I don't need this garbage."
+Citadel: Kian Louros[]
+5 Paragon for saying "Want an endorsement?" (Obtains discount at Sirta Foundation)
+5 Renegade for saying "Give me a discount." (Obtains discount at Sirta Foundation)
+Citadel: Marab[]
+5 Paragon for saying "Want an endorsement?" (Obtains discount at Saronis Applications)
+5 Renegade for saying "You should give me a discount." (Obtains discount at Saronis Applications)
+Illium: Asari[]
+Appears near the trading volus and asari on Illium only if Shepard saved the Rachni Queen on Noveria in Mass Effect.
+
+2 Paragon for saying "Stop controlling her!"
+plus
+2 Renegade for saying "Tell her to be good."
+Illium: Hermia[]
+Note:  The options below will become unavailable if Illium: Gianna Parasini is completed.
+
+5 Paragon for Charming "I'm a big spender." (Obtains discount at Serrice Technology)
+5 Renegade for Intimidating "This stuff might be crap." (Obtains discount at Serrice Technology)
+Omega: Aria T'Loak[]
+Only available after completing both Omega: The Patriarch and Omega: Archangel: Datapad Recovered.
+
+2 Paragon for saying "No thanks."
+2 Renegade for saying "Just like that?"
+Omega: Fist[]
+Appears in the lower level of Afterlife if Shepard spared him in Mass Effect.
+
+2 Paragon for saying "You're welcome."
+2 Renegade for saying "I don't remember or care."
+Omega: Kenn[]
+Note:  The options below will become unavailable if the situation with Harrot was resolved, or if Kenn was given credits to leave.
+
+5 Paragon for Charming "Maybe we can cut a deal." (Obtains discount at Kenn's Salvage)
+5 Renegade for Intimidating "Your prices are insulting." (Obtains discount at Kenn's Salvage)
+Omega: Kylan[]
+5 Paragon for Charming "Careful, now."
+5 Renegade for Intimidating "A dead man."
+Omega: Marsh[]
+5 Paragon for Charming "Convince me to shop here." (Obtains discount at Omega Market)
+5 Renegade for Intimidating "These prices are insulting." (Obtains discount at Omega Market)
+Totals
+53 Paragon, 2 freebies
+53 Renegade, 2 freebies
+
+
+
+
+Mass Effect 2 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Upgrades • Planet Scanning
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • No One Left Behind • Data Hound • Merchants  Research Guide • Interrupts
+
+
+
+

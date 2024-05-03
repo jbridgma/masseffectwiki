@@ -1,0 +1,174 @@
+
+
+
+For the male version of this character, see Quarian Male Infiltrator.
+
+
+Quarian Infiltrator
+
+
+
+
+
+
+Class
+Infiltrator
+
+
+Race
+Quarian
+
+
+Rarity
+Uncommon
+
+
+Availability
+Initially unlockable
+
+
+Abilities
+Combat LeapDisruptor Omni-Blade
+
+
+Quarians have spent centuries at perpetual salvage and ship repair--the survival of their species depends on this technical expertise.
+Quarian infiltrators are elite support specialists with a talent for setting up ambushes. Their technical wizardry makes them crucial contributors on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 600 / Health: 500
+
+
+Class: Quarian Defender
+
+
+ Sticky Grenade
+
+
+
+
+ Tactical Cloak
+
+
+
+
+ Sabotage
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Quarian Infiltrator executes a series of up to three punches.
+Heavy Melee (Disruptor Omni-Blade) – The Quarian Infiltrator slashes with a forked omni-blade discharging electrical energy.
+Grab (Omni-Blade Stab) – The Quarian Infiltrator drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Leap) – The Quarian Infiltrator jumps out of the way of incoming attacks.
+The Quarian Infiltrator can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Sticky Grenades are perfect for escaping situations whilst damaging enemies, as they have no cooldown and will not break your Tactical Cloak when thrown, allowing an Infiltrator to retreat throwing grenades, whilst under cloak. On top of this, they can inflict just over 5000 damage on armored targets if using the right evolutions and equipment. This will allow you to tear straight through a single target's armor and when Grenade Capacity gear is equipped, you can take down whole groups of armored foes in double quick time.
+A duration maxed Tactical Cloak's Duration evolution allows a player to be invisible for the time it takes to activate/eliminate an objective (such as Signal Boosters etc).
+In addition to the hacking ability, Sabotage is fairly useful for its brief stun effect.  As almost all but the most powerful enemies have guns, stunning them briefly allows much easier headshots, killing infantry level enemies and severely damaging others.  The excellent damage-to-weight ratio of the M-92 Mantis Sniper Rifle allows you to do this more often, and reload-canceling lets a player fire shots more often.
+Players could rely on Tactical Cloak's quickened cooldown. By activating Tactical Cloak and immediately using the power, this reduces the cool down to about 3 seconds because it uses the Tactical Cloak's cool down instead of Sabotage's. Combined with a quick sniper shot, this allows for heavier load outs while still keeping lower cool downs and using the damage bonus from the cloak.
+Taking the Rank 6 Tech Vulnerability evolution of Sabotage makes the Quarian Infiltrator much more practical for fighting all factions.  In a tech-heavy team, Sabotage can make downing even the toughest enemies significantly easier.
+Note that Sticky Grenades are classed as a combat power and thus do not receive a damage bonus from Sabotage's Tech Vulnerability evolution.
+The Quarian Infiltrator can pack a surprising amount of melee punch if Tactical Cloak and Fitness are specced for it. The heavy melee deals tech damage, so its damage is buffed a further 50% by Sabotage's Tech Vulnerability as well. A powerful combo against light or medium shielded organic enemies is to Sabotage from cloak immediately followed by a heavy melee, with the backfire stripping shields/barriers and staggering the target, and the heavy melee finishing it off. Being able to secure heavy melee kills also increases the damage of Sabotage and Sticky Grenade with the rank 6 Power Synergy of Fitness. Evolving Fitness this way makes a fragile class even more so, but with judicious use of Cloak, it can still be viable.
+Cerberus[]
+A Sticky Grenade can be used to eliminate whole groups of Guardians and Assault Troopers by, if the increased radius evolution is chosen, sticking it to a low ceiling above them. They will rarely ever dodge it, and it ignores the Guardians shields as it damages them from the top down.
+Tactical Cloak can allow the player to sneak out of close quarters situations, and to sneak past Guardians and attack them from behind if it is too tricky to shoot them through the slit in their shields.
+On bronze, it is advisable to have maximised Sticky Grenade damage and to equip Grenade Capacity gear - this way, you can take down Atlases with ease by sticking up to 8 grenades to them, and this can be accomplished without breaking cloak.
+Sabotage is fantastic on higher difficulties as it can be used to cause Atlas Mechs to attack their own troops. More importantly, they will also normally have to turn around to do so, allowing the player a bit of respite as they then have to turn back to shoot at the player.
+Sabotage can also be used on Turrets, which is useful to kill their own nearby master, the Engineers, and other nearby enemies, whilst distracting it from shooting you and your teammates.
+Collectors[]
+If one wishes to emphasize on Sticky Grenades, one should choose a high rate-of-fire weapon to compensate for lack of barrier stripping powers.
+If you wish to focus on powers and fill more of a support role, you should equip a light assault rifle, like the M-8 Avenger or a M-76 Revenant (at level 10) (you can even use a N7 Hurricane effectively, and lowering your cooldown), and a harder hitting heavy pistol, like a M-358 Talon or the M-6 Carnifex, using Sabotage to shock lower level enemies, and using your weapons to deal with barriers and armor.
+Geth[]
+One of, if not the best class to play as when fighting the geth as Sabotage can turn any geth enemy into a momentary ally. This is very effective when used on Geth Rocket Troopers, as they deal high damage with their rocket launcher and thus can do a lot of damage to their fellow geth in the short time that they are sabotaged. Pyros can also burn through armor and shields very quickly and are also very slow to reach you when the effect wears off. Primes also deal massive damage to anybody around them, but it does not effect their drones or turrets.
+However, it is important to remember that enemies build up resistance to Sabotage and so can only be used three times on any enemy before it becomes ineffective.
+When used whilst in Tactical Cloak, depending on how long you stayed in the cloak (or your power recharge speed), Sabotage will use the recharge speed of the cloak instead of its own, meaning you can use it much more regularly. This can allow the player to headshot any enemy (whilst in cloak), Sabotage it before the cloak breaks and then headshot it again whilst it is attacking its allies.
+Grenades can be used against the Pyros and Primes, but it would probably be better to use Sabotage since it will more than likely inflict more damage than a Grenade ever will, especially on Gold.
+In some sense, Sabotage can also be used like a mobile bomb although a little unorthodox and slightly unreliable when the target has been hit multiple times with Sabotage. However used correctly, it can be used very effectively to deal significant damage to enemies around the unfortunate victim. Chain this together with other geth, and huge damage can be inflicted to tougher enemies, or smaller enemies can sometimes be killed outright.
+Deal with Geth Hunters when able, since they can suppress a player's sabotaging skills. Allies with detection powers (i.e. Hunter Mode, Tactical Scan, Recon Mine, etc.) can partially eliminate this threat, but vigilance is the best tactic.
+When Sabotaging targets, it is usually best to prioritize Geth Hunters and Pyros over other units, since both of these can seriously ruin your day if they get close.  While a Sabotaged Geth Prime can do massive damage, it will usually deploy turrets, and then attack them first.  This wastes some of the hack's duration, and prevents the hacked Prime from drawing enemy fire.  Ideally, a Prime should be hacked when other Geth are in very close proximity, so that it will prioritize them as targets.
+Reapers[]
+Sticky Grenades, when levelled up to do max damage to armour, can be used to instantly eliminate Brutes and Ravagers. They have the additionally bonus that they will kill any Swarmers that appear with their area of effect damage. However, it is inadvisable to use them against Banshees unless they have had their barrier already removed - they are likely to biotic jump out of the way, wasting the grenade.
+Sticky Grenades are very effective against Reaper enemies, given their propensity to stick together in groups. This allows a player to take down multiple enemies with only one grenade, as the area of effect damage will be utilised to the max.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

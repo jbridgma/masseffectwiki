@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+Project Elite
+
+
+
+
+Race
+Human
+
+
+Type
+Organic
+
+
+Faction
+The Project
+
+
+Armament
+M-15 Vindicator
+
+
+Abilities
+ Tech Armor Disruptor Ammo
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Project Base
+
+
+Project Elites are enemies encountered during the assignment Arrival.
+
+
+
+
+
+
+
+“The chances of surviving are… slim.” — Spoilers for Mass Effect 2 follow.
+
+
+
+
+Project Elites will attack Commander Shepard throughout Project Base. They are first encountered during the Object Rho sequence of the assignment and will attack in up to five waves, along with Project Guards, Project Pyros, and Project Engineers. Later, they are usually accompanied by at least two Project Guards or larger groups of Project forces.
+
+Capabilities[]
+Offensive
+Project Elites are equipped with the M-15 Vindicator assault rifle and they possess Disruptor Ammo on all difficulties.  
+Defensive
+Project Elites have good shielding on all difficulties, which will be augmented on higher difficulties. They will use Tech Armor to restore their shields if depleted. 
+
+Tactics[]
+Because Elites, like enemy Engineers, can recharge their shields when left alone for too long, gradually chipping away at them doesn't work well.  When you do attack them, hit them hard and fast and don't let them hide in cover too long.  Powers such as Combat Drone, Inferno Grenade, Flashbang Grenade, and Shockwave are good at forcing them out of cover, as can the shots of certain heavy weapons.
+They do extreme damage, but they often tend to hang back in cover and snipe carefully so it's usually better to focus on eliminating easier or more aggressive enemies first before attacking them.
+If a Project Pyro is nearby, try to detonate him and catch the Elite in the blast.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

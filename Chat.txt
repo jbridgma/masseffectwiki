@@ -1,0 +1,100 @@
+
+
+
+Formerly located at Special:Chat, Mass Effect Wiki's chat has migrated to Discord for improved quality of communications and integration with the games. Please realize that the Discord feature forms an extension of the Mass Effect Wiki, subject to the rules and policies that govern the rest of the wiki. 
+
+Contents
+
+1 Joining Discord Channel
+2 Description
+3 Discord rules
+
+3.1 Accessing Discord
+3.2 Topics of discussion
+3.3 Grounds for blocking
+3.4 Caps
+3.5 Consequences
+
+
+4 Chat Moderators
+
+4.1 List of Moderators
+
+
+
+
+Joining Discord Channel[]
+To join our Discord channel, use this invite: https://discord.gg/w5wv6Mk
+
+Description[]
+The chat feature is like an Internet Relay Chat, commonly known as IRC. The feature is a third-party application that has a convenient integration method with Fandom and the fandoms it covers, especially video games. The chat feature is subject to both the rules listed here, and all other site policies listed in the Community Guidelines and Manual of Style.
+
+Discord rules[]
+Accessing Discord[]
+Anyone can access the Discord feature of the Mass Effect Wiki. Participating in it, however, requires a claimed account as per Discord's account creation processes. 
+Be sure to be familiar with Discord's guidelines before proceeding.
+A Chat Moderator (person with a green or yellow username) reserves the right to allow a user to stay or kick them at their prerogative and forward the case to an admin for review. The admin can either agree or overrule the decision but must respect the Chat Moderator’s decision at the time.
+If a user has been kicked from Chat for any reason, before heading back into chat, it is highly encouraged that the user contact the person who kicked them on their talk page for the reason why. It is not encouraged that if you are kicked to reenter chat, but instead, seek out who kicked you and ask them why.
+
+Topics of discussion[]
+The Mass Effect Wiki Discord has specific channels for various types of discussions. These are the text channels:
+
+#citadelarchives - for anything about the franchise. Default starting point upon clicking the invite.
+#purgatory - specifically for off-topic discussions. If the subject matters become too disruptive, then it is the duty of people in the chat and moderators to dial it back down.
+#keepertunnels - a channel for discussing wiki issues.
+#csecpatrol - feed of the wiki's recent changes and uploaded items. Partially read-only.
+#armaxarsenalarena  - for finding people who wish to partake in Mass Effect 3 Multiplayer and/or Mass Effect: Andromeda Multiplayer.
+#spectreoffice - a mod-only channel.
+#extranetcounciltier - announcements from server administration and backlink to policies in this page. Read-only.
+These are the voice channels:
+
+presidium - general discussion.
+multiplayerlobby - for finding people to play with and talk to.
+troubleshooting - for conversing with people on problems regarding their games.
+Grounds for blocking[]
+Users who are clearly disruptive to the chat or who fail to behave appropriately towards other contributors may be blocked. The possible reasons for blocking include (but are not limited to):
+
+Personal attacks, bigotry and/or racist or sexist name calling.
+Harassment and/or sexual harassment.
+Use of profanity/cursing or directing it towards another user is not permitted.
+Violation of personal privacy. This includes revealing personal information about users (e.g. real name, location, age, gender, etc) and violating confidentiality on particular issues (such as issues asked to be kept confidential by other users or administrators).
+Linking to external sources, such as websites, which violate the aforementioned rules. Notably, publicly linking to websites such as Facebook that violate personal privacy, is not permitted without prior consent from the user whose privacy might be violated.
+Trolling or general irritation or disruption of other users. This often includes, but is not limited to; excessive usage of capital letters, punctuation marks, deliberate distortions of the English language (such as "133t" or "Dolan" speak), and excessive usage of non-English languages.
+Disruptive behavior. As a guideline, don't go out of your way to irritate others. (And especially do not try to test the admin's and/or chat moderator's patience and/or limits.) Vicious abuse is grounds for sanctions.
+Whining. Users who ask for something from another chat user and are refused it should not stoop to complaining. It is acceptable to be persistent, but in a mature manner.
+Discussing real-world politics and/or religion without unanimous consent. If someone doesn't want to talk about them, drop the subject.
+Spamming. The meaning should be obvious. Don't say the same thing six times because no one is responding to you. Don't keep yammering on about a subject nobody cares about. Meaningless and/or random posts can also be considered spam, alongside disruptive internet memes.
+If a user has been banned from the server in the last 30 days, they will not be permitted to use the feature. Once the 30 day ban expires, then and only then will they be permitted to utilize the feature. If a user violates this rule persistently, then they will face an additional ban for a much longer period of time.
+
+Caps[]
+The usage of capital letters and caps lock is frowned upon. Using capital letters to write a word or a whole entry is typically perceived as yelling.
+Using excessive capital letters once will often result in a courtesy warning by an administrator or chat moderator, and persistent usage of capital letters may lead to a kick or ban, depending on severity.
+
+Consequences[]
+Moderators have a wide discretion relating to the issuing of warnings and bans which infringe on this rule.
+The content of messages will greatly impact on the severity of the punishment. In certain cases, exceptions may be permitted, although these are infrequent.
+Typically, the following hierarchy will apply to infringements on the above regulations (with the exception of specifically implied consequences).
+
+First offense: Warning
+Second offense: Kick
+Third offense: Ban
+These are just guidelines for usual cases. 
+Administrators and chat moderators use their discretion when applying these rules, and understanding of the rules depends on the moderator's perception of the rules. Particular exceptions may be granted by specific administrator, or chat moderator approval. These rules and regulations, however, should be followed strictly by all users at all other times.
+A user may question why they were kicked to the appropriate person. This should be the person who kicked them. But if they are not responding, or unavailable, they should contact another Chat Moderator, or an Admin. Admins again do maintain the right to overrule Chat Moderators on this decision. If you have been kicked, please do not reenter chat to question why as that will only compound your situation.
+When you enter the chat, you are expected to have prior knowledge of all these rules. Ignorance of these rules is not an excuse as they cover common courtesy to others.
+
+Chat Moderators[]
+Chat Moderators are users who are appointed by the admin team to moderate the Chat feature. They are expected to be and remain professional at all times and to enforce the rules regarding Chat, which are listed below. If they are themselves violating the policy, then users are expected to report this action. Chat Moderators have the ability to block users from Chat, with consequences listed below. 
+Bureaucrats and Administrators reserve the right to amend or overturn chat blocks at any time. Chat moderators will be chosen by the Bureaucrats and Admins and require majority approval for selection. 
+In terms of the Wiki hierarchy, Discord moderators do not have extra privileges on the wiki unless elevated there and vice versa.
+
+List of Moderators[]
+Below is a list of Chat Moderators. You can contact them at any time for assistance. 
+
+Cattlesquat (talk · contr)
+DeldiRe (talk · contr)
+Elseweyr (talk · contr)
+Neo89515 (talk · contr)
+
+
+

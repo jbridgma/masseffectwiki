@@ -1,0 +1,291 @@
+
+
+
+
+
+
+
+This article is about the Power. For the Ammo Bonus in Mass Effect 3 Multiplayer, see Warp Rounds.
+
+Warp Ammo is a power in Mass Effect 2 and Mass Effect 3's single-player mode.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Heavy Warp Ammo
+1.1.2 Squad Warp Ammo
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Warp Ammo
+2.1.2 Rank 2: Biotic Combo
+2.1.3 Rank 3: Damage
+2.1.4 Rank 4: Damage/Squad Bonus
+2.1.5 Rank 5: Ammo Capacity/Headshots
+2.1.6 Rank 6: Damage/Enhanced Warp
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+3 References
+
+
+Mass Effect 2[]
+ Transforms absorbed biotic energy into heavier damage against health, armor, and biotic barriers.
+
+Power Ranks[]
+Rank 1 - A biotic mass effect field keyed into this ammo increases its damage against health, armor, and barriers. Does extra health damage to targets affected by biotics.
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Damage: 15.00% of weapon damage
+Rank 2
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Damage: 25.00% of weapon damage
+Rank 3
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Damage: 35.00% of weapon damage
+
+Rank 4
+Evolves Warp Ammo into one of the following options:
+
+Heavy Warp Ammo[]
+Further increases damage done by warp ammo, which now tears flesh and metal like a miniature disruptor torpedo. Effective against barriers.
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Damage: 50.00% of weapon damage
+Squad Warp Ammo[]
+In an impressive feat of sustained biotic concentration, you can grant the effects of Warp Ammo to the entire squad.
+Recharge Time: 1.50 seconds
+Duration: Lasts until overridden by another ammo power
+Damage: 35.00% of weapon damage
+Player Notes[]
+Warp Ammo bonus damage is doubled against enemies ragdolled by biotics. For example, Rank 1 Warp Ammo has a 15% bonus damage, which is doubled to 30% against ragdolled enemies. However, the regular damage of any weapon is doubled against ragdolled (and frozen) enemies regardless of ammo type used.[1]
+Warp Ammo does not appear to deal any additional damage against targets affected by non-physics-based biotic powers such as Reave or Dominate.
+Warp Ammo is the only ammo power in Mass Effect 2 that deals bonus damage to barriers. As such, it is the best ammo power to use if attempting to one-shot or snipe barriered enemies due to how damage from weapons is applied in the game. The damage increase from an ammo power is applied to the entire damage of a single shot (e.g. from a sniper rifle) and is calculated based on the type of the first protection layer damaged, even if that layer is minimal and most of the damage bleeds through to the health or armor underneath.
+Availability[]
+Shepard via Advanced Training
+Jack (Loyalty Power)
+Mass Effect 3[]
+
+
+Power Ranks[]
+Rank 1: Warp Ammo[]
+Blast vulnerable opponents already lifted by biotics for a damage bonus, and weaken the armor of grounded targets.
+More weapon damage.More damage to barriers and armor.
+
+Health Damage Bonus: +15%
+Armor Damage Bonus: +15%
+Barrier Damage: +30%
+Armor Weakening: -25%
+Lifted Target Damage: +50%
+
+
+Rank 2: Biotic Combo[]
+Increase damage to lifted targets by 25%.
+
+Health Damage Bonus: +15%
+Armor Damage Bonus: +15%
+Barrier Damage: +30%
+Armor Weakening: -25%
+Lifted Target Damage: +75%
+
+
+Rank 3: Damage[]
+Increase health and armor damage by 5%.Increase barrier damage by 10%.
+
+Health Damage Bonus: +20%
+Armor Damage Bonus: +20%
+Barrier Damage: +40%
+Armor Weakening: -25%
+Lifted Target Damage: +75%
+
+
+Rank 4: Damage/Squad Bonus[]
+
+
+
+Damage
+Increase health and armor damage by 7.50%.Increase barrier damage by 15%.
+
+Health Damage Bonus: +27.50%
+Armor Damage Bonus: +27.50%
+Barrier Damage: +55%
+Armor Weakening: -25%
+Lifted Target Damage: +75%
+
+
+Squad Bonus
+Squadmates gain Warp Ammo at 50% effectiveness.
+
+
+
+
+Rank 5: Ammo Capacity/Headshots[]
+
+
+
+Ammo Capacity
+Increase ammo capacity by 30%.
+
+
+
+Headshots
+Increase headshot damage by 25%.
+
+
+
+
+Rank 6: Damage/Enhanced Warp[]
+
+
+
+Damage
+Increase health and armor damage by 12.50%.Increase barrier damage by 25%.
+
+Health Damage Bonus: +40% (Damage), +32.50% (Squad Bonus)
+Armor Damage Bonus: +40% (Damage), +32.50% (Squad Bonus)
+Barrier Damage: +80% (Damage), +65% (Squad Bonus)
+Armor Weakening: -25%
+Lifted Target Damage: +75%
+
+
+Enhanced Warp
+Increase damage to lifted targets by 50%.Weaken armored targets by an additional 25%.
+
+Health Damage Bonus: +27.50% (Damage), +20% (Squad Bonus)
+Armor Damage Bonus: +27.50% (Damage), +20% (Squad Bonus)
+Barrier Damage: +55% (Damage), +40% (Squad Bonus)
+Armor Weakening: -50%
+Lifted Target Damage: +125%
+
+
+
+Player Notes[]
+Mechanics
+Warp Ammo deals 2x damage to barriers.[2]
+Upgrades to power damage will increase Warp Ammo's listed damage bonus against armor and health. Damage to barriers, armor weakening and lifted target damage are only dependent on the evolutions taken in Warp Ammo.
+The Rank 6 Weapon Master evolution of the Soldier's Combat Mastery will increase Warp Ammo's damage against all protection types including barriers.
+Care should be used when choosing the rank 4 Squad Bonus if other squad members are using ammo powers as then activating an ammo power with the Squad Bonus will override other squad members' ammo powers. You can tell which ammo power is actually active based on the icon appearing over your gun.
+The ammunition capacity boost, if chosen, only applies on the active ammo power. Switching to another ammo power will remove the extra ammunition even if both have the capacity boost.
+The armor weakening effect is party-friendly; it creates a short-duration debuff (about two seconds or so) that other players or squadmates can benefit from.[3] The debuff reduces the damage reduction provided by the armor (yellow bar) of targets such as Atlases, Ravagers or Geth Pyros by the percentage listed. This especially benefits weapons with smaller damage per round but a relatively high rate of fire.
+The armor-weakening effect of Warp Rounds in multiplayer also benefits allies.
+Since Patch 1.04, the "lifted target" damage bonus applies not just on targets that have been physically suspended in the air, but on all enemies primed for Biotic Explosions, such as any target affected by Warp, Reave, or Dark Channel, or targets held in Stasis. The "lifted target damage" value then serves as a weapon damage multiplier based on the basic health/armor/barrier damage bonus that Warp Ammo provides by default. For example, if one selects the rank 6 damage evolution, Warp Ammo's armor damage bonus is 40%; its actual damage bonus against "lifted" armored foes will be: 40*(1+0.75) = 70%.
+Warp Ammo can deal additional damage to shields as long as the shielded target is primed for a biotic combo, though Warp Ammo has no damage modifier against shields by default.
+The above also applies to Warp Rounds in multiplayer.
+Warp Ammo has a limited ability to in effect "bypass" the shield gate mechanic of enemies protected by barriers due to how ammo power bonus damage is applied in Mass Effect 3. For a full explanation, see the Notes section for Disruptor Ammo.
+Strategies
+Warp Ammo is obviously most effective in biotic-heavy parties to take maximum advantage of its bonus damage to targets affected by biotics.
+Try equipping Liara with the Scorpion heavy pistol. The Scorpion has a high chance of triggering the effects of ammo powers often, and the Scorpion's rounds can deal bonus damage to multiple clustered targets lifted by biotics—devastating against enemies caught in Liara's Singularities or her Stasis with the Bubble evolution.
+Warp Ammo is the only ammo power effective against both barriers and armor, making it extremely efficient against Banshees, Adjutants, and Praetorians.
+Availability[]
+Single Player: Liara T'Soni, Jack, Commander Shepard (Bonus Power)
+Multiplayer: N/A
+References[]
+
+↑ https://web.archive.org/web/20160731152043/https://forum.bioware.com/topic/76803-mass-effect-2-gameplay-data/
+
+↑ https://web.archive.org/web/20160803103507/https://forum.bioware.com/topic/412722-biotic-damage-bonus-for-warp-rounds/page-3
+
+↑ https://web.archive.org/web/20150910043756/forum.bioware.com/topic/322264-do-armor-weakening-effects-stack/
+
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

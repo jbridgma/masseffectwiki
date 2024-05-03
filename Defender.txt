@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+This article is about the Sentinel's passive class power in Mass Effect 2. For the Mass Effect 3 version, see Offensive Mastery.
+
+Defender is a passive class power for the Sentinel in Mass Effect 2. 
+
+
+Fine-tunes your brain, making your powers more potent and efficient.
+
+Power Ranks[]
+Rank 1 - A balance of mental conditioning and scientific know-how improves the recharge time of your powers and your Paragon and Renegade scores.
+Health: +5.00%
+Power Recharge Time: -5.00%
+Paragon/Renegade: +20.00%
+Rank 2 - A balance of mental conditioning and scientific know-how improves the recharge time of your powers and your Paragon and Renegade scores.
+Health: +10.00%
+Power Recharge Time: -10.00%
+Paragon/Renegade: +40.00%
+Rank 3 - A balance of mental conditioning and scientific know-how improves the recharge time of your powers and your Paragon and Renegade scores.
+Health: +15.00%
+Power Recharge Time: -15.00%
+Paragon/Renegade: +70.00%
+Rank 4
+Evolves Defender into one of the following options:
+
+Guardian[]
+You excel under stress, reducing your recharge time as far as it will go and your forceful personality takes your Paragon and Renegade scores to the maximum level.
+Health: +20.00%
+Power Recharge Time: -30.00%
+Paragon/Renegade: +100.00%
+Raider[]
+You specialize in using your engineering and biotics as weapons, reducing recharge time a small amount further and giving a bonus to your powers' damage.
+Health: +15.00%
+Power Recharge Time: -20.00%
+Paragon/Renegade: +70.00%
+Power Damage: +15.00%
+Player Notes[]
+Picking the "Guardian" specialization gives the Sentinel the fastest potential power recharge times of any class. This is especially useful for reactivating Tech Armor as fast as possible if it goes down.
+Picking the "Raider" specialization combined with the "Power Armor" level 4 upgrade for Tech Armor gives the Sentinel the highest potential power damage bonus of any class as long as Tech Armor remains active.
+Availability[]
+Sentinel
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+

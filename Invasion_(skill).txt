@@ -1,0 +1,422 @@
+
+
+
+Invasion is a Tech skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Pelessaria B'Sayle Skill Ranks
+4 Player Notes
+5 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Invasion
+
+    
+
+Infects opponents with an invasive VI-controlled machine swarm that weakens defenses and spreads itself to nearby enemies.
+
+Enemy Defense Debuff: 25%
+Duration (s): 15
+Damage: 30
+Recharge Time (s): 24
+Spread Radius (m): 6
+
+
+
+2
+
+Recharge Speed
+
+    
+
+-
+
++10% Recharge Speed
+
+
+3
+
+Duration
+
+    
+
+-
+
++30% Duration
+
+
+4
+
+Recharge Speed
+
+     
+
+-
+
++30% Recharge Speed
+
+
+4
+
+Outbreak
+
+     
+
+Invasion now infects up to three enemies near the target location.
+
+Effect Radius: 4
+
+
+5
+
+Epidemic
+
+     
+
+Invasion now lasts longer and spreads to more distant enemies.
+
++40% Duration
++20% Spread Radius (m)
+
+
+
+5
+
+Weaken
+
+     
+
+-
+
++10% Enemy Defense Debuff
+
+
+6
+
+Virulence
+
+     
+
+When an affected enemy falls below 15% health, Invasion triggers an explosion that damages the enemy and other enemies nearby.
+
+-
+
+
+6
+
+Sabotage
+
+     
+
+Affected enemies do less weapon damage.
+
+-15% Enemy Weapon Damage
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Invasion
+
+     
+
+Infects opponents with an invasive VI-controlled machine swarm that weakens defenses and spreads itself to nearby enemies.
+
+Enemy Defense Debuff: 30%
+Duration (s): 15
+Damage: 30
+Recharge Time (s): 15
+Spread Radius (m): 6
+
+
+
+2
+
+Recharge Speed
+
+     
+
+-
+
++10% Recharge Speed
+
+
+3
+
+Duration
+
+     
+
+-
+
++30% Duration
+
+
+4
+
+Recharge Speed
+
+     
+
+-
+
++40% Recharge Speed
+
+
+4
+
+Outbreak
+
+     
+
+Invasion now infects up to three enemies near the target location.
+
+Effect Radius: 4
+
+
+5
+
+Epidemic
+
+     
+
+Invasion now lasts longer and spreads to more distant enemies.
+
++40% Duration
++30% Spread Radius (m)
+
+
+
+5
+
+Weaken
+
+     
+
+-
+
++10% Enemy Defense Debuff
+
+
+6
+
+Virulence
+
+     
+
+When an affected enemy falls below 15% health, Invasion triggers an explosion that damages the enemy and other enemies nearby.
+
+-
+
+
+6
+
+Sabotage
+
+     
+
+Affected enemies do less weapon damage.
+
+-15% Enemy Weapon Damage
+
+Pelessaria B'Sayle Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Invasion
+
+     
+
+Peebee hacks into her enemies' hardsuits infecting them with an invasive VI that weakens enemy defenses.
+
+Enemy Defense Debuff: 25%
+Duration (s): 15
+Damage: 25
+Recharge Time (s): 20
+
+
+
+2
+
+Recharge Speed
+
+     
+
+-
+
++20% Recharge Speed
+
+
+3
+
+Contagion
+
+
+
+Invasion now spreads to nearby enemies.
+
+Spread Radius (m): 6
++30% Duration
+
+
+
+4
+
+Duration
+
+     
+
+-
+
++30% Duration
+
+
+4
+
+Outbreak
+
+     
+
+Invasion now infects up to three enemies near the target location.
+
+-
+
+
+5
+
+Epidemic
+
+     
+
+Invasion now lasts longer and spreads to more distant enemies.
+
++40% Duration
++20% Spread Radius (m)
+
+
+
+5
+
+Weaken
+
+     
+
+-
+
++10% Enemy Defense Debuff
+
+
+6
+
+Sabotage†
+
+     
+
+Affected enemies do less weapon damage.
+
+-15% Enemy Weapon Damage
+
+
+6
+
+Virulence†
+
+     
+
+When an affected enemy falls below 15% health, Invasion triggers an explosion that damages the enemy and other enemies nearby.
+
+Damage: 123
+Impact Radius (m): 2.5 
+
+
+
+Note: †Rank 6 is unavailable to Peebee until her loyalty mission Peebee: A Mysterious Remnant Signal is completed.
+
+Player Notes[]
+Mechanics
+For players familiar with Mass Effect 3's Dark Channel ability, Invasion will feel familiar as a tech counterpart and operates along similar lines.
+Each cast of Invasion launches a swarm of deadly tech toward an enemy; if evolved for group control, it can affect several enemies at once.
+If an enemy is killed while under the effects, invasion will try to "spread" to another enemy NPC within proximity until the end of its duration.
+Strategies
+Invasion is a well-rounded attack that targets all areas of enemy defense and offense; it slowly erodes shields and armor, sabotages enemy weapons, and eats away at health.
+The primary strategy to leverage Invasion should be "divide and conquer," with the player focusing on dividing the battlefield into stronger, better defended enemies and the weaker, less-protected ones.
+Strategy 1: Use Invasion for crowd control while you focus on the heavy hitters. For this strategy, launch Invasion in the center mass of closely clustered and weak enemies to maximize the infection. This will pair well with area-effect abilities in all three specialization, as once the crowd is on low health, a well-placed area attack can finish them off.
+Strategy 2: Use invasion for the heavy hitter while you focus on the crowd. For this strategy, use the more damaging evolution of the power and target the biggest, most well-protected target first. As Invasion slowly debuffs, use your mobility and a build designed to kill unprotected opponents quickly to sweep the battlefield, finishing with the main target.
+The main weakness of Invasion is that it cannot prime for detonations, nor detonate any combos. It would be wise to pair Invasion with a primer/detonator combination. If used in MP where powers are fixed, consider bringing a complimentary Specialty ammunition to your power set to prime enemies.
+Availability[]
+Single-Player:
+Pathfinder Ryder - Starting Tech Skill or Technician Training
+Pelessaria B'Sayle - Starting Tech Skill
+Multiplayer: Human Artificer, Salarian Operator
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

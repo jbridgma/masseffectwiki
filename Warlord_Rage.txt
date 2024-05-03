@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+This article is about the Krogan Warlord's passive class power in Mass Effect 3 Multiplayer. For other uses, see Rage (disambiguation).
+
+Warlord Rage is a passive class power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Warlord Rage[]
+Boost health, shields, melee damage, and durability. This krogan regenerates health slowly during combat, restoring 75 health per second.
+Melee and kill 2 enemies within 45 seconds to go into a frenzy to increase melee damage, reduce damage taken, and to boost health regeneration for 45 seconds.
+
+Health & Shield Bonus: 10%
+Melee Damage Bonus: 20%
+Rage Damage Reduction: 20%
+Rage Melee Damage Bonus: 50%
+Rage Health Regeneration Per Second: 100
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 10%.
+
+Health & Shield Bonus: 20%
+Melee Damage Bonus: 20%
+Rage Damage Reduction: 20%
+Rage Melee Damage Bonus: 50%
+Rage Health Regeneration Per Second: 100
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 25%.
+
+Health & Shield Bonus: 20%
+Melee Damage Bonus: 45%
+Rage Damage Reduction: 20%
+Rage Melee Damage Bonus: 50%
+Rage Health Regeneration Per Second: 100
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.Increase melee damage bonus by 30% while in Rage mode.
+
+Health & Shield Bonus: 20%
+Melee Damage Bonus: 75%
+Rage Damage Reduction: 20%
+Rage Melee Damage Bonus: 80%
+Rage Health Regeneration Per Second: 100
+
+
+Durability
+Increase health and shield bonuses by 20%.Increase damage protection by an additional 5% and health regeneration by 40% while in Rage mode.
+
+Health & Shield Bonus: 40%
+Melee Damage Bonus: 45%
+Rage Damage Reduction: 25%
+Rage Melee Damage Bonus: 50%
+Rage Health Regeneration Per Second: 140
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Pure Rage/Fitness Expert[]
+
+
+
+Pure Rage
+Increase melee damage bonus by 30%.Reduce the number of melee kills required to to [sic] trigger Rage to 1 within 45 seconds.
+
+Health & Shield Bonus: 20% (Melee Damage), 40% (Durability)
+Melee Damage Bonus: 105% (Melee Damage), 75% (Durability)
+Rage Damage Reduction: 20% (Melee Damage), 25% (Durability)
+Rage Melee Damage Bonus: 80% (Melee Damage), 50% (Durability)
+Rage Health Regeneration Per Second: 100 (Melee Damage), 140 (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 30%.Increase damage protection by 5% and health regeneration by 60% while in Rage mode.
+
+Health & Shield Bonus: 50% (Melee Damage), 70% (Durability)
+Melee Damage Bonus: 75% (Melee Damage), 45% (Durability)
+Rage Damage Reduction: 25% (Melee Damage), 30% (Durability)
+Rage Melee Damage Bonus: 80% (Melee Damage), 50% (Durability)
+Rage Health Regeneration Per Second: 160 (Melee Damage), 200 (Durability)
+
+
+
+Player Notes[]
+Warlord Rage for the Krogan Warlord Sentinel functions the same as the Rage power for other krogan characters in multiplayer with a few small differences:
+Lower Health & Shield Bonuses - Rank 1 & 2 combined are 20% for Warlord Rage vs. 35% for Rage. (All other health and shield bonuses are the same for both powers). The Krogan Warlord Sentinel does start with baseline increased shields at 1250 though to offset some of the reduced health and shield bonuses.
+Health Regeneration - Constant health regeneration for Warlord Rage vs. none for Rage. This health regeneration functions much like the Vorcha Bloodlust power but is a passive power and doesn't have to be activated or require kills to function.
+Reduced Rage Kills Needed - Melee kills to activate Warlord Rage is 2 vs. 3 for Rage (at Rank 1). Further reduction in Rage kills can be selected at Rank 6A down to 1 kill for Rage bonuses activation.
+Melee Kill Timeframe Increased - 45 seconds between melee kills with Warlord Rage vs. 30 seconds between melee kills for Rage. Time is increased between kills to activate (or keep activated) the Rage power bonuses.
+Activated Rage Power Time Increased - 45 seconds of active Warlord Rage power vs. 30 seconds of active Rage power.
+Health regeneration doesn't require any kills and there is no stack animation to interrupt fire for the player like the Bloodlust power.
+Enemies killed by the Warlord's hammer powers don't always count towards building Rage. This is likely due to the damage from such attacks being a combination of melee damage and power damage; if only the power damage portion of Biotic Hammer or Electrical Hammer was responsible for a kill, Rage will not build.
+The Krogan Warlord Sentinel with the Warlord Rage power can take a very large amount of punishment that would quickly kill most other characters in the game. Health (most importantly) and shields return to normal without the player needing to use consumables mid-match to get back up to full strength. Just find a spot to allow recharging and regeneration to bring the player back to full strength.
+Unlike the vorcha characters with lower health even when fully upgraded for health and shields, the Krogan Warlord Sentinel will take much longer to fully heal due to the much higher health available to the krogan. The player should take this into account when allowing the health to regenerate but this is offset by the continuous nature of the health regeneration. The player can continue fighting after a brief pause to get shields back up and some health regeneration taking place and the regeneration will continue as long as shields are in place to stop incoming fire.
+Unlike shields, health regeneration begins immediately and cannot be halted (even with flames or a Banshee's biotics), allowing the Krogan Warlord Sentinel to take incredible amounts of sustained damage.
+Be advised that while the Krogan Warlord Sentinel very durable, it is by no means invincible:
+Enemies that inflict singular, big hits on higher difficulties, or an extremely large number of little hits in a short space of time will render the health regeneration portion of the Warlord Rage power much less effective. Because Atlases, Geth Primes, Geth Hunters, Ravagers, Phantoms, Banshees, Cerberus Turrets and Brutes can inflict large amounts of damage in a short space of time, caution should be used where needed to allow the health regeneration the time it needs to heal your wounds while your shields are repairing at the same time.
+Warlord Rage evolved to maximize melee damage, and using a shotgun with Omniblade mod attachment, the already good heavy melee of a krogan becomes incredible, capable of taking down armoured heavies (such as Atlases, Brutes, and Geth Primes, and Praetorians) with ease on bronze. However it is a high-risk/high-reward tactic, as most of the heavy units can still instantly kill you if you get too close.
+Killing Swarmers and certain other minor "summoned" enemies does not count towards building or maintaining Rage.
+Availability[]
+Single-player: N/A
+Multiplayer: Krogan Warlord Sentinel
+Bugs[]
+It's only necessary to get one kill using the running heavy melee charge (not the headbutt or hammer attack) to trigger the Warlord Rage bonus effects. This bug is independent of any particular rank or evolution of the power.
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

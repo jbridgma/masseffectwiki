@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Munitions Training is a passive Combat skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Weapon Training
+
+
+
+-
+
++5% Weapon Damage
+
+
+2
+
+Power Augmentation
+
+
+
+-
+
++20% Power Damage
+
+
+3
+
+Weapons and Powers
+
+
+
+-
+
++5% Weapon Damage
++10% Weapon Weight Capacity
++20% Melee Damage
+
+
+
+4
+
+Weapon Training
+
+
+
+-
+
++8% Weapon Damage
+
+
+4
+
+Powers and Melee
+
+
+
+-
+
++20% Power Damage
++1 to all Power Cell Capacities
++20% Melee Damage
+
+
+
+5
+
+Melee Synergy
+
+
+
+Melee hits briefly boost gun damage, and hits with guns briefly boost melee damage.
+
+Gun Damage Boost: 20%
+Melee Damage Boost: 30%
+Each Buff Duration (s): 3
+
+
+
+5
+
+Weapon Efficiency
+
+
+
+-
+
++15% Weapon Reload Speed
++25% Weapon Clip Size
++20% Weapon Spare Ammo
+
+
+
+6
+
+Sustained Fire
+
+
+
+Focusing fire on an enemy target causes them to take more damage from all sources.
+
+Defense Debuff per Shot: 2%
+Max Defense Debuff: 24%
+
+
+
+6
+
+Precision Fire
+
+
+
+-
+
++20% Weapon Head Shot/Weak Point Bonus
++25% Weapon Accuracy
++25% Weapon Stability
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Batarian Scrapper, Human Infiltrator, Human Soldier, Krogan Mercenary, Turian Havoc Trooper, Turian Soldier
+
+
+

@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut voicelines and dialogues related to the optional objectives of helping Fred Mazzei during the mission Caleston: Last Man Standing. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 lav20_oronath (1)
+2 lav20_karkath
+3 lav40_fredmazzei / lav40_trig03_fred_job
+4 lav40_wrencarson
+5 lav20_trig15_fred_hiding
+6 lav20_trig20_oronath_besieged
+7 lav20_trig21_med_after_union
+8 lav20_trig22_med_after_cartel
+9 lav20_oronath (2)
+10 lav20_trig06_fred_deferred
+
+
+lav20_oronath (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_oronath_de.isb, lav20_oronath_fr.isb, lav20_oronath_it.isb
+Characters present:
+
+Oronath
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Oronath: This one begs your forgiveness for the unprofessional equipment. How can this one help you?
+
+(Par) I'd like medical aid. (Neu) Goodbye. (R Inv) Debt money (Inv) Investigate  Shepard: We need your services.Oronath: This one apologizes fervently for the lack of appropriate premises.(Opens store inventory) Shepard: I have to go now.Oronath: Then go. Peace be with you.(End of conversation)(Re-initiating conversation)Oronath: How can this one help you?(Return to last choice) Shepard: I'm here to collect your debt.Oronath: This one does not wish for any trouble. But unfortunately, it has to report business is bad. It has no money.
+(Par) I sympathize. (Neu) Don't make it worse. (Ren) I can make it hurt.  Shepard: I don't like it either. Can you give me what they want?Oronath: This one does not expect to have the money shortly. Shepard: If I don't give the Union the money, there'll be trouble.Oronath: This one will be harmed if it does not pay? This one does not expect to have the money shortly. Shepard: Give it to me or I'll break your legs. All of them... somehow.Oronath: This one will be harmed if it does not pay? This one does not expect to have the money shortly.
+(Par) You could trade. (Neu) Forget it. (Ren) Use your salary. (P Inv) What do you owe? (R Inv) So you're special?  Shepard: Don't you have anything you could sell?Oronath: This one has medical supplies of value, but they belong to Eldfell-Ashland.| Urdnot Wrex: Surely they value your life more than medigel. Probably.| Garrus Vakarian: I'm sure they'd rather have a living doctor than a few packs of medigel.| Kaidan Alenko: I'm sure they'd rather have a living doctor than a few packs of medigel.| Ashley Williams: I'm sure they'd rather have a living doctor than a few packs of medigel.| Tali'Zorah: I'm sure they'd rather have a living doctor than a few packs of medigel.Oronath: That is a good argument. This one will provide medigel. Sell it to Kar Kath for credits. This one cannot do it. If the transaction was exposed, it would lose its work. Is there anything else it can do for you?
+(Par) I'd like medical aid. (Neu) Goodbye. Investigate  Shepard: We need your services.Oronath: This one apologizes fervently for the lack of appropriate premises.(Opens store inventory) Shepard: I have to go now.Oronath: This one looks forward to renewed harmony.(End of conversation)(Re-initiating conversation)Oronath: How can this one help you?(Return to last choice)
+(Neu) Return (Inv) Liara T'Soni (Inv) Poor location  (Return to overarching choice) Shepard: Have you seen Liara T'Soni?Oronath: Not recently. But if this one were to say, she often visits the ruins of the Enkindlers.
+(P Inv) Enkindlers?  Shepard: Are they religious figures?Oronath: This one apologizes. That is what the Protheans are called among the hanar. The Enkindlers were the perfect embodiment of light. Ah, but this one shouldn't impose its beliefs on others.
+(Par) Go on, please. (Neu) I don't have time. (Ren) Indeed, you shouldn't.  Shepard: No, go ahead, it's interesting.Oronath: The Enkindlers sought out the hanar in the dark, before speech sustained our minds. It is they who gifted language to us. The other ones knelt beside the hanar and spoke the first words in the night. And then, as silence fell again, the suns rose. Is it not the same with your people? Some humans claim the ruins on Mars prove that you were gifted by the Enkindlers.
+(Par) I suppose. (Neu) It can't be proven. (Ren) What a load of crap.  Shepard: That's one way to interpret it.Oronath: The humans have been blessed. They are destined to be a lever which can move the suns.(Return to overarching choice) Shepard: There are no records of it whatsoever.Oronath: Many truths can be lost amid the shadows and storms of history.(Return to overarching choice) Shepard: "God" and "flying saucers" can't co-exist within the same sentence.Oronath: This one will not argue.(Return to overarching choice) Shepard: I'll pass.Oronath: This one will not argue.(Return to overarching choice) Shepard: I can find the flyers on every street corner.Oronath: This one's people are also known for their disinterest in others' way of life.(Return to overarching choice) Shepard: Why do you work in here?Oronath: The salarian named "Smiley" acquired the infirmary to make it his residence.
+(P Inv) How did that happen?  Shepard: Isn't the infirmary a public institution?Oronath: Forgive this one for contradicting you on this point. The infirmary is Eldfell-Ashland's property. The one named Smiley offered them a large amount of credits. They decided that this one could adequately perform its duties here just as well.(Return to overarching choice) Shepard: We can discuss that later.Oronath: Is there anything else it can do for you?(Return to overarching choice) Shepard: Does the company pay you with rations?Oronath: This one has medical supplies of value, however those are owned by the Eldfell-Ashland corporation.| Urdnot Wrex: Surely they value your life more than medigel. Probably.| Garrus Vakarian: I'm sure they'd rather have a living doctor than a few packs of medigel.| Kaidan Alenko: I'm sure they'd rather have a living doctor than a few packs of medigel.| Ashley Williams: I'm sure they'd rather have a living doctor than a few packs of medigel.| Tali'Zorah: I'm sure they'd rather have a living doctor than a few packs of medigel.Oronath: That is a good argument. This one will provide medigel. Sell it to Kar Kath for credits. This one cannot do it. If the transaction was exposed, it would lose its work. Is there anything else it can do for you?
+(Par) I'd like medical aid. (Neu) Goodbye. Investigate  Shepard: We need your services.Oronath: This one apologizes fervently for the lack of appropriate premises.(Opens store inventory) Shepard: I have to go now.Oronath: This one looks forward to renewed harmony.(End of conversation)(Re-initiating conversation)Oronath: How can this one help you?(Return to last choice)
+(Inv) Liara T'Soni (Inv) Poor location  Shepard: Have you seen Liara T'Soni?Oronath: Not recently. But if this one were to say, she often visits the ruins of the Enkindlers.
+(P Inv) Enkindlers?  Shepard: Are they religious figures?Oronath: This one apologizes. That is what the Protheans are called among the hanar. The Enkindlers were the perfect embodiment of light. Ah, but this one shouldn't impose its beliefs on others.
+(Par) Go on, please. (Neu) I don't have time. (Ren) Indeed, you shouldn't.  Shepard: No, go ahead, it's interesting.Oronath: The Enkindlers sought out the hanar in the dark, before speech sustained our minds. It is they who gifted language to us. The other ones knelt beside the hanar and spoke the first words in the night. And then, as silence fell again, the suns rose. Is it not the same with your people? Some humans claim the ruins on Mars prove that you were gifted by the Enkindlers.
+(Par) I suppose. (Neu) It can't be proven. (Ren) What a load of crap.  Shepard: That's one way to interpret it.Oronath: The humans have been blessed. They are destined to be a lever which can move the suns.(Return to overarching choice) Shepard: There are no records of it whatsoever.Oronath: Many truths can be lost amid the shadows and storms of history.(Return to overarching choice) Shepard: "God" and "flying saucers" can't co-exist within the same sentence.Oronath: This one will not argue.(Return to overarching choice) Shepard: I'll pass.Oronath: This one will not argue.(Return to overarching choice) Shepard: I can find the flyers on every street corner.Oronath: This one's people are also known for their disinterest in others' way of life.(Return to overarching choice) Shepard: Why do you work in here?Oronath: The salarian named "Smiley" acquired the infirmary to make it his residence.
+(P Inv) How did that happen?  Shepard: Isn't the infirmary a public institution?Oronath: Forgive this one for contradicting you on this point. The infirmary is Eldfell-Ashland's property. The one named Smiley offered them a large amount of credits. They decided that this one could adequately perform its duties here just as well.(Return to overarching choice) Shepard: How much are we talking about?Oronath: This one owes them a hundred credits.
+(P Inv) I'll cover it.  Shepard: Don't worry. I'll tell Fred you've paid and take care of it.Oronath: You are extremely generous. This one is indebted to you. Is there anything else it can do for you?
+(Par) I'd like medical aid. (Neu) Goodbye. Investigate  Shepard: We need your services.Oronath: This one apologizes fervently for the lack of appropriate premises.(Opens store inventory) Shepard: I have to go now.Oronath: This one owes you. Your gesture will not be forgotten.(End of conversation)(Re-initiating conversation)Oronath: How can this one help you?(Return to last choice)
+(Neu) Return (Inv) Liara T'Soni (Inv) Poor location  (Return to overarching choice) Shepard: Have you seen Liara T'Soni?Oronath: Not recently. But if this one were to say, she often visits the ruins of the Enkindlers.
+[Return] (P Inv) Enkindlers?  (Return to overarching choice) Shepard: Are they religious figures?Oronath: This one apologizes. That is what the Protheans are called among the hanar. The Enkindlers were the perfect embodiment of light. Ah, but this one shouldn't impose its beliefs on others.
+(Par) Go on, please. (Neu) I don't have time. (Ren) Indeed, you shouldn't.  Shepard: No, go ahead, it's interesting.Oronath: The Enkindlers sought out the hanar in the dark, before speech sustained our minds. It is they who gifted language to us. The other ones knelt beside the hanar and spoke the first words in the night. And then, as silence fell again, the suns rose. Is it not the same with your people? Some humans claim the ruins on Mars prove that you were gifted by the Enkindlers.
+(Par) I suppose. (Neu) It can't be proven. (Ren) What a load of crap.  Shepard: That's one way to interpret it.Oronath: The humans have been blessed. They are destined to be a lever which can move the suns.(Return to overarching choice) Shepard: There are no records of it whatsoever.Oronath: Many truths can be lost amid the shadows and storms of history.(Return to overarching choice) Shepard: "God" and "flying saucers" can't co-exist within the same sentence.Oronath: This one will not argue.(Return to overarching choice) Shepard: I'll pass.Oronath: This one will not argue.(Return to overarching choice) Shepard: I can find the flyers on every street corner.Oronath: This one's people are also known for their disinterest in others' way of life.(Return to overarching choice) Shepard: Why do you work in here?Oronath: The salarian named "Smiley" acquired the infirmary to make it his residence.
+(P Inv) How did that happen?  Shepard: Isn't the infirmary a public institution?Oronath: Forgive this one for contradicting you on this point. The infirmary is Eldfell-Ashland's property. The one named Smiley offered them a large amount of credits. They decided that this one could adequately perform its duties here just as well.(Return to overarching choice) Shepard: You think you are being treated unfairly?Oronath: This one is certain that you consider yourself within your right. It is not so selfish as to proclaim its opinion as truth.(Return to last choice)
+(Neu) Return (Inv) Liara T'Soni (Inv) Poor location  (Return to overarching choice) Shepard: Have you seen Liara T'Soni?Oronath: Not recently. But if this one were to say, she often visits the ruins of the Enkindlers.
+(P Inv) Enkindlers?  Shepard: Are they religious figures?Oronath: This one apologizes. That is what the Protheans are called among the hanar. The Enkindlers were the perfect embodiment of light. Ah, but this one shouldn't impose its beliefs on others.
+(Par) Go on, please. (Neu) I don't have time. (Ren) Indeed, you shouldn't.  Shepard: No, go ahead, it's interesting.Oronath: The Enkindlers sought out the hanar in the dark, before speech sustained our minds. It is they who gifted language to us. The other ones knelt beside the hanar and spoke the first words in the night. And then, as silence fell again, the suns rose. Is it not the same with your people? Some humans claim the ruins on Mars prove that you were gifted by the Enkindlers.
+(Par) I suppose. (Neu) It can't be proven. (Ren) What a load of crap.  Shepard: That's one way to interpret it.Oronath: The humans have been blessed. They are destined to be a lever which can move the suns.(Return to overarching choice) Shepard: There are no records of it whatsoever.Oronath: Many truths can be lost amid the shadows and storms of history.(Return to overarching choice) Shepard: "God" and "flying saucers" can't co-exist within the same sentence.Oronath: This one will not argue.(Return to overarching choice) Shepard: I'll pass.Oronath: This one will not argue.(Return to overarching choice) Shepard: I can find the flyers on every street corner.Oronath: This one's people are also known for their disinterest in others' way of life.(Return to overarching choice) Shepard: Why do you work in here?Oronath: The salarian named "Smiley" acquired the infirmary to make it his residence.
+(P Inv) How did that happen?  Shepard: Isn't the infirmary a public institution?Oronath: Forgive this one for contradicting you on this point. The infirmary is Eldfell-Ashland's property. The one named Smiley offered them a large amount of credits. They decided that this one could adequately perform its duties here just as well.(Return to overarching choice)
+lav20_karkath[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_karkath_de.isb, lav20_karkath_fr.isb, lav20_karkath_it.isb
+Characters present:
+
+Kar Kath
+Commander Shepard
+
+Kar Kath: Welcome! May I suggest something for your personal protection?
+
+(Par) Huh? (Neu) Okay. (Ren) Why?  Shepard: Do you start all conversations like this?Kar Kath: I am amused, Earth-clan! On a peaceful world, I wouldn't be talking like this. Shepard: I'm just browsing.Kar Kath: Soon I'll be able to afford more than rat meat. Shepard: Is that a threat?Kar Kath: No! There are many hostile people here. I only want to exchange goods and services.
+(Par) I want to buy. (Neu) Goodbye.  Shepard: Show me your wares.Kar Kath: I offer many goods and services to improve your personal safety in this troubled region.(Opens store inventory) Shepard: I'll be going.Kar Kath: I lament your credits drifting away from my hands. Come back to me, credits, come back!(End of conversation)(Re-initiating conversation)Kar Kath: Soon I'll be able to afford more than rat meat.(Return to last choice)
+(Par) I want to buy. (Neu) Goodbye.  Shepard: Show me your wares.Kar Kath: I offer many goods and services to improve your personal safety in this troubled region.(Opens store inventory) Shepard: Alright. I'll be on my way then.Kar Kath: I lament your credits drifting away from my hands. Come back to me, credits, come back!(End of conversation)(Re-initiating conversation)Kar Kath: Soon I'll be able to afford more than rat meat.(Return to last choice)
+lav40_fredmazzei / lav40_trig03_fred_job[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_fredmazzei_de.isb, lav40_fredmazzei_fr.isb, lav40_fredmazzei_it.isb, lav40_trig03_fred_job_de.isb, lav40_trig03_fred_job_fr.isb, lav40_trig03_fred_job_it.isb
+Characters present:
+
+Fred Mazzei
+Commander Shepard
+Characters optionally present:
+
+Sessa Tarrent
+
+Fred Mazzei: How's it coming along with that thing I asked you to do?
+
+(Par) It's done. (Neu) I'm going. (Inv) Investigate  Shepard: I've had a nice chat with Oronath.
+(If Sessa is present) (If Sessa is away)  Fred Mazzei: Splendid. That's a load off my head. Phew. You've done me a solid... uhh, one. I'll be taking the money. Hey, Sess-- erm, Miss Tarrent. I've got the stuff.Sessa Tarrent: (scoffing) "The stuff?"Fred Mazzei: Yeah, you know, Oronath's dues. I recovered them.Sessa Tarrent: Congratulations. You're not completely talentless.Fred Mazzei: Yeah, I've got plenty of talents! For instance, I can do that thing with my neck, like this...
+(Par) Fred is talented. (Neu) Take advantage. (Ren) He belongs here.  Shepard: Fred knows a bunch about eezo. Using him as a thug is a waste of his skills and experience. Shepard: Fred may be no fighter, but he's an experienced miner. His skills could be put to use here. Shepard: Fred may not be cut out for fighting, but he'd be a valuable asset in this place.Fred Mazzei: What's my ass got to do with it?
+| Tali'Zorah: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Kaidan Alenko: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Garrus Vakarian: You don't seem to enjoy your job as refinery supervisor very much. Let him do it.| Urdnot Wrex: I know a woman of action when I see one. Let him have your crappy job.Fred Mazzei: Not a bad idea.Sessa Tarrent: From now on, you're the new supervisor. If you screw up, I'll kill you myself. Got it?Fred Mazzei: Yeah, sure. I'll be running things like butter. Smooth butter. I mean, buttered smoothly. Ah, nevermind.Sessa Tarrent: Shut up, and just do your job. Take the rest of the shift off, and go get yourself a drink.Fred Mazzei: A drink? Tonight, I'll be drinking a whole pipeline! (laughs)(End of conversation) Fred Mazzei: Splendid. That's a load off my head. Phew. You've done me a solid... uhh, one. I'll be taking the money. When Sessa comes back, I'll ask her if I can stay up here to work again. No more collecting. Just tools and stuff, you know? Maybe Wren could slip in a good word for me. Not just any word, a really good one. Something like "cumulativeness", or "antitarnish." Thanks for the help. You're really... Yeah.(End of conversation) Shepard: No, not yet. [sic](End of conversation)(Re-initiating conversation)Fred Mazzei: How's it coming along with that thing I asked you to do?(Return to last choice)
+(Neu) Return (Inv) Working for Union (Inv) Previous job  (Return to overarching choice) Shepard: How long have you been in the Union?Fred Mazzei: Me? Well, about a year. They recruited me shortly after I arrived here. I wish they'd trust me a little more, you know? They could at least invite me to the meetings.(Return to last choice) Shepard: Where did you work before you came here?Fred Mazzei: I used to be at another EAE facility out in a neutron star's asteroid belt. But I had to ask for a transfer. I couldn't stand those large anti-radiation suits. I saved my family jewels from giving me nine-headed children.(Return to last choice)
+lav40_wrencarson[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_wrencarson_de.isb, lav40_wrencarson_fr.isb, lav40_wrencarson_it.isb
+Characters present:
+
+Wren Carson
+Commander Shepard
+
+Wren Carson: Everything's running smooth. Do you need something?
+
+(Neu) Goodbye. (Inv) Did you see Fred?  Shepard: I'll be going.Wren Carson: Thanks again!(End of conversation)(Re-initiating conversation>Wren Carson: Everything's running smooth. Do you need something?(Return to last choice) Shepard: Did Fred Mazzei come by?Wren Carson: Yeah, he did. He asked me if he looked anti-tarnishing enough. I told him to go home and get some sleep. What a jackass. He couldn't tell his butt from a drill hole.(Return to last choice)
+lav20_trig15_fred_hiding[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig15_fred_hiding_de.isb, lav20_trig15_fred_hiding_fr.isb, lav20_trig15_fred_hiding_it.isb
+Characters present:
+
+Fred Mazzei
+Commander Shepard
+
+(If Fred and Shepard avoided each other) (If Fred and Shepard talked)  Fred Mazzei: (failing at whistling) Damnit. Hey! You, with the guns!
+(Neu) Favor for a favor. (Inv) You need help?  Shepard: If you want my help, you must give something in return.Fred Mazzei: I can't pay you, that's my problem. I know a guy who can sneak me out of here. Only, he's asking for a lot of money. Could you spare a thousand credits? Possibly? I'll pay you back. Shepard: What can I do for you?Fred Mazzei: I know a guy who can sneak me out of here. Only, he's asking for a lot of money. Could you spare a thousand credits? Possibly? I'll pay you back.
+(Par) Try again later. (Neu) Take it and go. (Ren) How about no. (Inv) You'll pay me back?  Shepard: I don't have that. Maybe later.Fred Mazzei: Your ship's got guns, right? I'm going to the hangar deck, I'll be waiting for you there. Gotta lie low, you understand. If you see Sessa, tell her you didn't see me. I mean, don't tell her. That you've seen me.(End of conversation) Shepard: I'd even pay double to get you out of my sight. Take it.Fred Mazzei: You're the best! Better than best, you're the bestest best there ever is! Bestest everest! Anyway, you're awesome. Seriously. See you around.(End of conversation) Shepard: Not this time.Fred Mazzei: Sure, okay. I'll figure something out. Hiding in a shipping container, maybe. If you see Sessa, tell her you didn't see me. I mean, don't tell her. That you've seen me.(End of conversation) Shepard: When will I get my money back?Fred Mazzei: Eventually. Details! So what do you say?(Return to last choice) Fred Mazzei: Hey, hi! Nice to see you. Erm... No hard feelings, right?
+(Par) Are you okay? (Neu) You're a coward. (Ren) Are you for real?  Shepard: Do you need help?Fred Mazzei: Ha! Yeah, you could say that. Look, it's just as you said, right? I'm not cut out for all this... this beating up things and all that. I thought maybe you could help me out. I mean, if you're not too busy and all that. Shepard: You left. There's nothing for us to discuss.Fred Mazzei: Look, it's just as you said, right? I'm not cut out for all this... this beating up things and all that. I thought maybe you could help me out. I mean, if you're not too busy and all that. Shepard: No hard feelings? You left us to die out there.Fred Mazzei: Look, it's just as you said, right? I'm not cut out for all this... this beating up things and all that. I thought maybe you could help me out. I mean, if you're not too busy and all that.
+(Par) I'll help out. (Neu) Why are you still here? (Ren) But why?  Shepard: What can I do for you?Fred Mazzei: I know a guy who can sneak me out of here. Only, he's asking for a lot of money. Could you spare a thousand credits? Possibly? I'll pay you back. Shepard: I thought you'd be in a different system by now.Fred Mazzei: Yeah, well... About that... Sessa doesn't like people who quit. There was this one guy who asked Sessa if he could leave. Pieces of him clogged the recycling pipes for weeks. I know a guy who can sneak me out of here. Only, he's asking for a lot of money. Could you spare a thousand credits? Possibly? I'll pay you back. Shepard: What does that have to do with me?Fred Mazzei: It was your idea that I quit. Of course, I don't mean I'm your responsibility or something... You know what I mean. I know a guy who can sneak me out of here. Only, he's asking for a lot of money. Could you spare a thousand credits? Possibly? I'll pay you back.
+(Par) Try again later. (Neu) Take it and go. (Ren) How about no. (Inv) You'll pay me back?  Shepard: I don't have that right now, but I'll see what I can do.Fred Mazzei: Your ship's got guns, right? I'm going to the hangar deck, I'll be waiting for you there. Gotta lie low, you understand. If you see Sessa, tell her you didn't see me. I mean, don't tell her. That you've seen me.(End of conversation) Shepard: I'd even pay double to get you out of my sight. Take it.Fred Mazzei: You're the best! Better than best, you're the bestest best there ever is! Bestest everest! Anyway, you're awesome. Seriously. See you around.(End of conversation) Shepard: Not this time.Fred Mazzei: Sure, okay. I'll figure something out. Hiding in a shipping container, maybe. If you see Sessa, tell her you didn't see me. I mean, don't tell her. That you've seen me.(End of conversation) Shepard: When will I get my money back?Fred Mazzei: Eventually. Details! So what do you say?(Return to last choice)
+lav20_trig20_oronath_besieged[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig20_oronath_besieged_de.isb, lav20_trig20_oronath_besieged_fr.isb, lav20_trig20_oronath_besieged_it.isb
+Characters present:
+
+Oronath
+Commander Shepard
+Unnamed Cartel male turian
+Unnamed Union male human
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+Union human: We got here first.
+Oronath: Please, this one wants no--
+Cartel turian: Take your corpse and go. Oronath will take care of us first.
+Oronath: If the others could just--
+Union human: You turian bastard! It was your man who attacked him! He should be the one bleeding out!
+
+(Par) Help the Cartel. (Ren) Help the Union. (Cha) Be reasonable. (Int) Listen to me.  Shepard: I'll decide. Heal the turian, doctor.Union human: What? Helping a... You should help your own kind!Oronath: Please, there is still enough time for this one to--Union human: Shut up, jellyfish. You're taking care of our guy.Cartel turian: We should have torched your monkey planets. To hell with Citadel conventions.Union human: Screw you! Shepard: You mercenaries should step back. Slowly.Cartel turian: Monkeys stick together.Union human: You turians like digging trenches. Go dig a grave.Oronath: Please, there is still enough time for this one to--Union human: Shut up, jellyfish. You're taking care of our guy.Cartel turian: We should have torched your monkey planets. To hell with Citadel conventions.Union human: Screw you! Shepard: Hey! The doctor can save them both. What's more important to you: saving your friends, or getting revenge while they bleed out?Union human: No! Help us get rid of those bastards! Jim is in bad shape, the jellyfish needs to help him now!| Garrus Vakarian: Or are you so eager to fight that you'd let your comrades die?| Ashley Williams: You guys want to save your friends? Then you can.| Tali'Zorah: Or are you so eager to clash that you'd let your comrades die?| Kaidan Alenko: Or are you so eager to kill that you'd let your comrades die?Union human: Swear that you can save them both.Oronath: I do, but there is not much time left. This one must be allowed to begin treatment at once.Cartel turian: We don't let our people die.Union human: Neither do we.Cartel turian: Puh. At least you also have that much honor in you. Heal them, Oronath. Both of them.Oronath: This one is grateful. To both sides. Shepard: That's enough! The doctor says he can save them both. Shut up and let him work.Union human: No! Help us get rid of those bastards! Jim is in bad shape, the jellyfish needs to help him now!| Garrus Vakarian: Or are you so eager to fight that you'd let your comrades die?| Ashley Williams: You guys want to save your friends? Then you can.| Tali'Zorah: Or are you so eager to clash that you'd let your comrades die?| Kaidan Alenko: Or are you so eager to kill that you'd let your comrades die?Union human: Swear that you can save them both.Oronath: I do, but there is not much time left. This one must be allowed to begin treatment at once.Cartel turian: We don't let our people die.Union human: Neither do we.Cartel turian: Puh. At least you also have that much honor in you. Heal them, Oronath. Both of them.Oronath: This one is grateful. To both sides.
+(End of conversation)
+
+lav20_trig21_med_after_union[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig21_med_after_union_de.isb, lav20_trig21_med_after_union_fr.isb, lav20_trig21_med_after_union_it.isb
+Characters present:
+
+Oronath
+Commander Shepard
+Unnamed Union male human
+
+Union human: Get to work, jellyfish.
+Oronath: With all due respect, this one does not--
+Union human: I told you to get to work! Good thing you were there. Those damn aliens always act like they're in charge.
+
+(Par) That's pretty xenophobic. (Neu) This war has to stop. (Ren) You bigoted moron.  Shepard: Just keep in mind that not all aliens are like them.Union human: Is that right? They're all the same around here, in any case.(End of conversation) Shepard: If you're truly grateful, then stop fighting with the Cartel.Union human: We're looking out for ourselves. If we don't stand up to them, they'll never learn to respect us!(End of conversation) Shepard: The "jellyfish" has a name. If you kept your attitude in check, maybe there'd be less trouble around here.Union human: Screw you too! We're looking out for ourselves. If we don't stand up to them, they'll never learn to respect us!(End of conversation)
+lav20_trig22_med_after_cartel[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig22_med_after_cartel_de.isb, lav20_trig22_med_after_cartel_fr.isb, lav20_trig22_med_after_cartel_it.isb
+Characters present:
+
+Oronath
+Commander Shepard
+Unnamed Cartel male turian
+
+Cartel turian: Go ahead, Oronath.
+Oronath: This one could have saved both of the wounded.
+Cartel turian: Possibly, but you know how humans are. They think everything's a conspiracy against them. Or most of them do, anyway. Thanks for the help.
+
+(Par) Stay open-minded. (Neu) This war has to stop. (Ren) Don't insult us again.  Shepard: It seems you're just doing the same as them. Judging an entire species for the actions of a few.Cartel turian: Hmm, yes. You may be right about that.(End of conversation) Shepard: If you're truly grateful, then stop fighting with the Union.Cartel turian: That's not my call. Suggest it to Smiley if you want, it's your funeral.(End of conversation) Shepard: I heard what you said about torching our planets. Better watch out. Your arrogance could turn against you eventually.Cartel turian: I'll keep that in mind.(End of conversation)
+lav20_oronath (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_oronath_de.isb, lav20_oronath_fr.isb, lav20_oronath_it.isb
+Characters present:
+
+Oronath
+Commander Shepard
+
+Oronath: This one is grateful to have survived. How can this one help you?
+(The rest of the conversation proceeds as in Mass Effect Cut Content/Caleston: Last Man Standing: Help Fred Voicelines#lav20_oronath (1))
+
+lav20_trig06_fred_deferred[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig16_fred_deferred_de.isb, lav20_trig06_fred_deferred_fr.isb, lav20_trig06_fred_deferred_it.isb
+Characters present:
+
+Fred Mazzei
+Commander Shepard
+
+Fred Mazzei: What? Oh, hi there. How's the thing going?
+
+(Neu) Take the credits. (Inv) Huh?  Shepard: I've got the money. Now get out of here, you jack-ass.Fred Mazzei: Thank you. I won't ever forget this. Who were you again? So I can send you a postcard for Christmas.(End of conversation) Shepard: What thing?Fred Mazzei: You know, the thing with the thousand credits. I'm just trying to take off before the Union finds me.
+(Par) Take the credits. (Neu) Not now. (Ren) Don't ask me again. (Inv) Investigate  Shepard: I've got the money. Now get out of here, you jack-ass.Fred Mazzei: Thank you. I won't ever forget this. Who were you again? So I can send you a postcard for Christmas.(End of conversation) Shepard: I don't have that. Maybe later.Fred Mazzei: Then I'll wait right here. You do what you have to do. Erm, you wouldn't have some snacks, by any chance?(End of conversation) Shepard: I've had enough of your ceaseless begging. Go to hell.Fred Mazzei: Yeah, okay. It's alright. I'll figure something out. Anything. Don't tell Sessa. If she finds me, she'll cut my toes off with a meat cleaver.(End of conversation)
+(Neu) Return (Inv) Reason for helping (Inv) Alternatives  (Return to overarching choice) Shepard: Why am I doing this again?Fred Mazzei: I don't know. You told me I should quit. I thought you'd help me, you know. There's no one else I can ask. I just want to get away, know what I mean?(Return to last choice) Shepard: If you're in such a hurry, you could ask someone else.Fred Mazzei: No! I mean, the fewer people know I'm here, the better, you know?(Return to last choice)
+
+
+

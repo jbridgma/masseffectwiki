@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+This article is about Garrus Vakarian's class in Mass Effect 2 and Mass Effect 3. For his class and class talent in the first Mass Effect game, see Turian Agent.
+
+
+Turian Rebel is passive class power in Mass Effect 2 and Mass Effect 3's single-player mode.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Turian Renegade
+1.1.2 Turian Survivor
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Turian Rebel
+2.1.2 Rank 2: Damage & Durability
+2.1.3 Rank 3: Damage & Durability
+2.1.4 Rank 4: Weapon Damage/Durability
+2.1.5 Rank 5: Power Damage/Assault Rifles
+2.1.6 Rank 6: Squad Bonus/Sniper Rifles
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+
+
+Mass Effect 2[]
+See also: Squad Members Guide (Mass Effect 2)#Garrus Vakarian
+
+Enhances Garrus' combat skills, weapon damage, and health; makes his powers more damaging.
+
+Power Ranks[]
+Rank 1 - Garrus' expertise in the rigors of combat increases his health, as well as his damage with weapons and powers of all kinds.
+Health: +5.00%
+Weapon Damage: +6.00%
+Power Damage: +6.00%
+Rank 2 - Garrus' expertise in the rigors of combat increases his health, as well as his damage with weapons and powers of all kinds.
+Health: +10.00%
+Weapon Damage: +12.00%
+Power Damage: +12.00%
+Rank 3 - Garrus' expertise in the rigors of combat increases his health, as well as his damage with weapons and powers of all kinds.
+Health: +15.00%
+Weapon Damage: +18.00%
+Power Damage: +18.00%
+Rank 4
+Evolves Turian Rebel into one of the following options:
+
+Turian Renegade[]
+If it can be fired, Garrus knows how to use it. His weapon and power damage increases dramatically.
+Health: +15.00%
+Weapon Damage: +25.00%
+Power Damage: +25.00%
+Turian Survivor[]
+Long hours alone against impossible odds have conditioned Garrus' health, and kept his powers sharp.
+Health: +20.00%
+Weapon Damage: +18.00%
+Power Damage: +25.00%
+Player Notes[]
+Turian Rebel's increases to power damage can give Garrus' Overload enough strength to potentially one-shot the shields of most basic enemies even on Insanity difficulty at max level.
+Availability[]
+Garrus Vakarian
+Mass Effect 3[]
+See also: Squad Members Guide (Mass Effect 3)#Garrus Vakarian
+
+
+Power Ranks[]
+Rank 1: Turian Rebel[]
+Boost weapon damage, health, and powers.
+
+Health & Shield Bonus: 10%
+Weapon Damage Bonus: 20%
+
+
+Rank 2: Damage & Durability[]
+Increase health and shield bonuses by 10%.Increase weapon damage bonus by 20%.
+
+Health & Shield Bonus: 20%
+Weapon Damage Bonus: 40%
+
+
+Rank 3: Damage & Durability[]
+Increase health and shield bonuses by 10%.Increase weapon damage bonus by 20%.
+
+Health & Shield Bonus: 30%
+Weapon Damage Bonus: 60%
+
+
+Rank 4: Weapon Damage/Durability[]
+
+
+
+Weapon Damage
+Increase weapon damage by 40%.
+
+Health & Shield Bonus: 30%
+Weapon Damage Bonus: 100%
+
+
+Durability
+Increase health and shield bonuses by 20%.
+
+Health & Shield Bonus: 50%
+Weapon Damage Bonus: 60%
+
+
+
+Rank 5: Power Damage/Assault Rifles[]
+
+
+
+Power Damage
+Increase power damage by 20%.
+
+
+
+Assault Rifles
+Increase assault rifle damage by 50%.
+
+
+
+
+Rank 6: Squad Bonus/Sniper Rifles[]
+
+
+
+Squad Bonus
+Increase power damage of squadmates by 10%.
+
+
+
+Sniper Rifles
+Increase sniper rifle damage by 60%.
+
+
+
+
+Player Notes[]
+The Rank 6 Squad Bonus evolution applies to all members of the party including Garrus. There is possibility for confusion, as similarly named "Squad Bonus" evolutions on Shepard's various class powers do not apply to Shepard, only to NPC squadmates.
+Despite the in-game wording not really specifying, the Rank 6 Squad Bonus evolution only applies to "combat" powers and not any tech or biotic powers. This includes Concussive Shot, Frag Grenade, Inferno Grenade, Proximity Mine, and Carnage. See the Powers (Mass Effect 3) page for a full list.
+Availability[]
+Single Player: Garrus Vakarian
+Multiplayer: N/A
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

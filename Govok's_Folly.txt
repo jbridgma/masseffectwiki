@@ -1,0 +1,62 @@
+
+
+
+
+
+Govok's Folly
+
+Region
+Andromeda / Heleus Cluster / Ratul
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+278.5 AU
+
+
+Orbital Period
+1,100.9 Earth Years
+
+
+Keplerian Ratio
+17.823
+
+
+Radius
+10,782 km
+
+
+Atm. Pressure
+0.1 atm
+
+
+Surface Temp
+−2 °C 
+
+
+Location: Andromeda / Heleus Cluster / Ratul System /  Fifth planet
+
+
+Description[]
+The Scourge and some unusual orbital mechanics leave Govok's Folly ice bound at night and boiling during the day. The outcast Govok attempted to take advantage of this, to little avail.
+
+Anomaly[]
+Vessel[]
+DATA:
+
+Ship ident: Unknown
+Ship name: Unknown
+Crew complement: Unknown (estimate 5-8)
+Status: N/A
+ANALYSIS:
+This kett dropship appears to have been departing Govok's Folly when it was hit by weapons fire. Perhaps Govok is still alive and active after all.
+Awards random Salvage when scanned.
+
+
+
+

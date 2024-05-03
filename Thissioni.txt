@@ -1,0 +1,63 @@
+
+
+
+
+
+Thissioni
+
+Region
+Milky Way / Athena Nebula / Orisoni
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+1 AU
+
+
+Orbital Period
+1 Earth Year
+
+
+Keplerian Ratio
+1
+
+
+Radius
+6,039 km
+
+
+Day Length
+46.9 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+55 °C 
+
+
+Surface Gravity
+0.95 g
+
+
+Mass
+0.845 Earth Masses
+
+
+Location: Milky Way / Athena Nebula / Orisoni System /  First planet
+
+Prerequisite: Priority: The Citadel II (Mass Effect 3)
+
+Description[]
+Thissioni's surface is a desert of lime streaked with sodium banks. The only real features of note are empty calderas scattered around the fault lines, suggesting Thissioni was once more geologically active. While average temperatures are near-habitable, Thissioni has not retained a protective atmosphere and is thus a third-tier world unlikely to be terraformed.
+
+
+
+

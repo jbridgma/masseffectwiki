@@ -1,0 +1,67 @@
+
+
+
+
+
+
+
+
+
+
+Grad Turret
+
+
+
+
+Type
+Turret
+
+
+Armament
+Pulse Machine Gun
+
+
+Health
+Moderate
+
+
+Armor
+Moderate
+
+
+Locations
+X1 Wing, Access Corridor, Incarceration
+
+
+Grad Turrets are immobile defensive installations employed by Cerberus. They are concealed inside ceilings, and will only come out when their enemy is in range. They appear on the Barn where Randall Ezno has to face them during his escape.
+
+Tactics[]
+Turrets can do particularly heavy damage, so avoid their fire as much as you can.
+Grad Turrets fire in two long bursts, with a sizeable break in between. Time your attacks to take advantage of this opportunity.
+Because they're mounted on the ceiling, they're unaffected by Pull, Leash, melee attacks and Charge.
+Their location also makes it impossible to knock them down using Slide. However, this ability remains useful to avoid their fire.
+Because they can't move, an evolved biotic storm can be very effective to deal with this threat while Randall can stay in cover.
+While turrets cannot avoid your attacks when in firing range, this is compensated by their armour regeneration.
+
+
+Mass Effect Infiltrator Enemies
+
+
+Cerberus personnel
+
+Assault Trooper • Assault Captain • Centurion • Engineer • Riot Trooper • Trooper • Sniper
+
+
+Synthetic
+
+Geth Trooper • Geth Juggernaut • Grad Turret • Ogre Mech • Orcus Mech
+
+
+Other
+
+Asari Prisoner • Krogan Prisoner • Inali Renata • Turian • Turian Trooper • Turian Sniper • X1
+
+
+
+
+

@@ -1,0 +1,143 @@
+
+
+
+Omni-Bow Mastery is a passive class power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Omni-Bow Mastery[]
+Boost health, shields, and omni-bow damage. Your omni-bow attacks are considered melee attacks and receive bonuses from melee upgrades. Concussive and armor-piercing arrows are considered power attacks and receive bonuses from power upgrades. While active, concussive and armor-piercing arrow damage supplements the base omni-bow damage.
+
+Health & Shield Bonus: 15%
+Omni-Bow Damage Bonus: 15%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 10%.
+
+Health & Shield Bonus: 25%
+Omni-Bow Damage Bonus: 15%
+
+
+Rank 3: Omni-Bow Damage[]
+Increase omni-bow damage by 25%.
+
+Health & Shield Bonus: 25%
+Omni-Bow Damage Bonus: 40%
+
+
+Rank 4: Omni-Bow Damage/Durability[]
+
+
+
+Omni-Bow Damage
+Increase omni-bow damage by 35%.
+
+Health & Shield Bonus: 25%
+Omni-Bow Damage Bonus: 75%
+
+
+Durability
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 40%
+Omni-Bow Damage Bonus: 40%
+
+
+
+Rank 5: Killing Spree/Shield Recharge[]
+
+
+
+Killing Spree
+Increase omni-bow damage by 25% for 30 seconds after an enemy is killed by your omni-bow.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Omni-Bow Damage/Fitness Expert[]
+
+
+
+Omni-Bow Damage
+Increase omni-bow damage by 50%.
+
+Health & Shield Bonus: 25% (Omni-Bow Damage), 40% (Durability)
+Omni-Bow Damage Bonus: 125% (Omni-Bow Damage), 90% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 25%.
+
+Health & Shield Bonus: 50% (Omni-Bow Damage), 65% (Durability)
+Omni-Bow Damage Bonus: 75% (Omni-Bow Damage), 40% (Durability)
+
+
+
+Player Notes[]
+Omni-Bow Mastery is considered a melee attack.
+The Shotgun Omni-Blade will provide a greater damage bonus than a Pistol Melee Stunner and a Pistol Power Magnifier.[1]
+Availability[]
+Single-player: N/A
+Multiplayer: Talon Mercenary Engineer
+References[]
+
+↑ https://web.archive.org/web/20151119114255/forum.bioware.com/topic/454053-talon-engineer-omni-bow-tips/
+
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

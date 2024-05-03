@@ -1,0 +1,200 @@
+
+
+
+
+Firebase Reactor is a multiplayer map in Mass Effect 3. It is located on Cyone.[1] In single player, the Galaxy at War mission N7: Fuel Reactors takes place on this map.
+
+Contents
+
+1 Description
+2 Hazard Version
+3 Locations
+
+3.1 Loading Bay
+3.2 Overlook
+3.3 Sector A1
+3.4 Sector H1
+3.5 Reactor Core
+3.6 Sector B1
+3.7 Sector C1
+3.8 Sector D1
+3.9 Sector E1
+
+
+4 Player Notes
+5 References
+
+
+Description[]
+The planet Cyone was assaulted more than a dozen times during the Krogan Rebellions by foes eager to gain access to its vast resources and specialized factories; however, it was never occupied by more than token forces before asari and turian allies drove the krogan out. Among the elite forces currently defending the planet are matriarchs that survived those attacks, and they have vowed that Cyone will never fall.
+
+Hazard Version[]
+Mass Effect 3: Retaliation adds a version of Firebase Reactor that is set during a meltdown.
+
+
+There is a slight red haze in the facility and portions of the reactor have visible electrical effects and additional moving parts. The Reactor Core area will periodically become filled with radiation and the players are able to vent the reactor. 
+
+Locations[]
+Loading Bay[]
+The entrance to the plant at the upper level. Players begin and extract at this location.
+
+Connects to the Overlook (via a large corridor).
+Connects to the Sector A1 (down a large staircase).
+Connects to the Sector H1 (directly on an elevated platform).
+There is an ammo dump on the wall directly behind the landing zone where the players begin and extract.
+
+Overlook[]
+Upper level area that has a hallway that loops behind the main upper walkway.
+
+Connects to the Loading Bay (via a large corridor).
+Connects to the Sector B1 (directly on the upper walkway).
+Connects to the Sector A1 (down a ladder).
+Sector A1[]
+Lower level area with access to the reactor.
+
+Connects to the Loading Bay (up a large staircase).
+Connects to the Sector B1 (up a large staircase).
+Connects to the Sector H1 (directly in two places between a large circular column).
+Connects to the Overlook (up a ladder).
+Connects to the Reactor Core (through a doorway).
+Sector H1[]
+Small multi-level area on the side of the map.
+
+Connects to the Loading Bay (directly on an elevated platform).
+Connects to the Sector A1 (directly in two places between a large circular column).
+There is an ammo dump on the lower area in the right corner next to the large yellow vehicle.
+
+Reactor Core[]
+The central power source for the facility.
+
+Connects to the Sector A1 (through a doorway).
+Connects to the Sector B1 (through a doorway).
+Connects to the Sector D1 and Sector E1 (through the same doorway).
+Sector B1[]
+Multi-level area that contains elevated walkway and a lower area.
+
+Connects to the Overlook (directly on the upper walkway).
+Connects to the Sector A1 (down a large staircase).
+Connects to the Sector C1 (directly on the upper walkway).
+Connects to the Sector C1 (directly on the lower area).
+Connects to the Reactor Core (through a doorway).
+There is an ammo dump on the wall near the large machine structures and computer terminals on the upper walkway section.
+
+Sector C1[]
+Multi-level area that contains elevated walkway and a lower area.
+
+Connects to the Sector B1 (directly on the upper walkway).
+Connects to the Sector B1 (directly on the lower area).
+Connects to the Sector D1 (up a large staircase).
+Connects to the Sector D1 (directly on the upper walkway).
+Sector D1[]
+Corner section area.
+
+Connects to the Sector C1 (directly on the upper walkway).
+Connects to the Sector C1 (down a large staircase).
+Connects to the Sector E1 (directly).
+Connects to the Reactor Core (through a doorway).
+There is an ammo dump nestled into a dark recessed area behind a large angled pipe.
+
+Sector E1[]
+Very small area on the edge of the map containing a sunken walkway.
+
+Connects to the Sector D1 (directly).
+Connects to the Reactor Core (through a doorway).
+Player Notes[]
+General
+
+Note: Players are not damaged by the red radiation swirls in the reactor core.
+Grenade resupply for the ammo dump locations is twice the amount for the Hazard Map as it is for the General Map.
+
+
+Grenade Resupply Location
+Bronze
+Silver
+Gold
+Platinum
+
+
+Sector B1
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+Sector D1
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+Sector H1
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+Loading Bay
+2 (4)
+1 (2)
+1 (2)
+1 (2)
+
+
+The map is semi-circular, sporting 4 main sections. The outside of the semi circle is cut into 3 and there is a single "main" room that connects to all 3 and provides a shortcut to running around the edge of the map to get to a single area.
+Almost any class can make advantage of this map, and almost any weapon has its advantages as well. Snipers and Vanguards can take advantage of the center room as a choke-point for easy sniping and close-quarters combat. Adepts and Assault rifle users can use the fairly large sections of the map for crowd-control.
+The extraction on this map is arguably the hardest to perform on any map, as enemies approach from a 180 degree arc. Although cover is plentiful, players will often find themselves either under fire from all directions or standing upright in a close range firefight. Brutes, Banshees, Pyros and Phantoms are particularly troublesome here.
+Hazard
+
+Note: Players are NOT required to vent the reactor. Nothing detrimental happens if the reactor is allowed to sit once the alarm bells and warnings have sounded for immediate venting. This is only a secondary way to kill enemies on this hazard map.
+Players can manually trigger the venting when radiation build-up is high enough by interacting with switches near the doors.
+Each door has a switch on either side of the door for venting the core.
+Players that use the sides of the door for cover during the General Map should take care to not accidently trigger the reactor core on the Hazard Map when trying to go to cover in that location. The player will go to cover but potentially also trigger the reactor to vent.
+The switches will light up green colored when the venting can be activated. Otherwise they appear unlit.
+The color gauge on the side of each door will go from green to yellow to red to indicate how soon the reactor can be vented. Also, audible alarms and phrases will alert the facility when the reactor core is at 50% of capacity and when it requires venting.
+When the player pushes the button to vent the reactor, alarm bells sound three times and an audible phrase is spoken aloud alerting the facility that "Venting Procedures Activated. Vacate Core Immediately". There is then a small delay of approximately 5 seconds before the doors close and the venting takes place.
+If the player hears the phase (or see's the close captioning for the venting about to take place), they should vacate the reactor immediately or they will become trapped inside.
+During venting, the doors to the core will close after an approximately 5 second delay, downing any players inside and killing most types of enemies.
+The 5 second delay is potentially long enough that the player should take this into account when attempting to close the door on enemies. Sometimes it is beneficial to try and tie up enemies with fire or trigger the venting a little bit earlier so that enemies are squarely in the reactor when it closes versus the enemies coming out of the reactor due to the delay.
+With the exception of some high-level enemies, most opponents will die if trapped inside of the Reactor Core during emergency venting. This hazard can be used as a great crowd control weapon against groups of enemies.
+Once the Reactor Core doors close there will be four waves of heat that will damage everything inside. Activating an Ops Survival Pack just beforehand can possibly allow you to survive.
+Geth Juggernauts and high-level krogan characters have enough health and shields to survive the reactor blast. A Juggernaut built for maximum shields can lure enemies into the reactor while another teammate triggers the vent.
+N7 Slayers and Furies can teleport through the reactor doors by dodging. Cabal Vanguards can also escape using Poison Strike.
+Banshees will also be able to teleport through these doors.
+Praetorians can sometimes fly through the doors of the reactor.
+N7 Paladins with their Omni shields deployed are capable of surviving the reactor blast with zero damage.
+References[]
+
+↑ http://www.masseffect.com/about/multiplayer/
+
+
+
+
+Mass Effect 3 Multiplayer Maps
+
+
+Original Maps
+
+Firebase Dagger • Firebase Ghost • Firebase Giant • Firebase Reactor • Firebase Glacier •  Firebase White
+
+
+Resurgence Maps
+
+Firebase Hydra • Firebase Condor
+
+
+Rebellion Maps
+
+Firebase Jade • Firebase Goddess
+
+
+Earth Maps
+
+Firebase Rio • Firebase Vancouver • Firebase London
+
+
+
+
+

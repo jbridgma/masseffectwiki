@@ -1,0 +1,60 @@
+
+
+
+
+
+Sansesyol
+
+Region
+Andromeda / Heleus Cluster / Onaon
+
+
+
+
+
+
+
+Orbital Distance
+0.9 AU
+
+
+Orbital Period
+0.9 Earth Years
+
+
+Keplerian Ratio
+0.9
+
+
+Radius
+6,584 km
+
+
+Atm. Pressure
+0.28 atm
+
+
+Surface Temp
+11 °C 
+
+
+Location: Andromeda / Heleus Cluster / Onaon System /  Second planet
+
+
+Description[]
+Despite its comfortable temperature and gravity, Sansesyol's composition is highly toxic and inimical to most lifeforms. It would be difficult at best to colonize. 
+
+Anomaly[]
+Satellite[]
+DATA:
+Satellite ID: Unknown
+Power Readings: 4.2%
+System Report: Functional but dormant
+Status: Active
+ANALYSIS:
+A kett satellite is well-concealed low in Sansesyol's orbit, doubtless designed to observe angaran activities in the system. Disabling it permanently is a simple task.
+Awards +50  when scanned.
+
+
+
+

@@ -1,0 +1,119 @@
+
+
+
+The Remnant drive core has been removed from the derelict. Ryder must now track the core down before Morda, or whoever else has it, uses it to construct a bomb.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Trace the path of the stolen drive core and retrieve it
+2.2 Go back to New Tuchanka to inform Morda about Strux's double-cross
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Investigate Remnant Derelict
+
+This mission is automatically acquired after concluding the prerequisite above in Hell's Promise.
+
+Walkthrough[]
+Trace the path of the stolen drive core and retrieve it[]
+SAM has isolated a signature specific to the drive core. Dr. Suvi Anwar is able to track this signature with the Tempest's sensors and gives Pathfinder Ryder a navpoint  in the Languish region located directly to the south of where you exited the Remnant Derelict.
+
+Remnant Structure
+On approach to the navpoint, there will be a Remnant structure  (which may or may not be occupied by a typical assortment of Remnant enemies) with a cluster of large crates off to the side. Two Fiends and some other wildlife will be fighting each other. 
+Note:  Squadmates may "see" the enemies while Ryder is still on the other side of a hill which can be confusing.
+You need to scan one of the crates so getting close enough will require combat.
+Remnant, the two Fiends, and the wildlife will fight each other making combat easier. If there are no Remnant forces, the Fiends will be attacking the wildlife. You can easily stay far back and use long range weapons to take down the enemies. If life support is running low, note that the Remnant structure doesn't actually provide shade but the hill to its southwest does.
+Once the enemies are defeated, there are two lootable containers at the Remnant site as well as health and ammo crates.
+The Initiative Shipping Crate you need to scan is located in the center of the crate cluster. Either jump up on top of the crates to scan the required inner crate or run around the outside and find a small passageway into the center.
+Scanning the crate will reveal that the drive core was here but has since been moved. Suvi sends you a new navpoint to the southwest. Head directly south of the Forward Station in the western Sea of Ataraxia.
+
+Shuttle Crash Site
+When you reach the second navpoint, there will be a crashed shuttle, with a dead krogan, several dead scavengers, and another Initiative Shipping Crate. Scanning the crash site reveals that the scavengers had their throats slit from behind, the krogan was killed by an explosion, and the drive core has been removed again. Read a datapad on the ground near the shuttle to acquire the password to open a locked door at the next location in the search. A new navpoint has been added to the east inside the Scavenger Flophouse ("Misery") region.
+Note: The crash site is in full sun, so watch the life support meter while investigating.
+
+Locked Area
+The locked area is located behind a locked door at the back of a cave just southwest of the Scavenger Flophouse ("Misery"). Go down into the Scavenger Flophouse ("Misery") to get to the locked door.
+Note: If you haven't already acquired the mission The Flophouse, approaching the navpoint will give this mission automatically. It is not required to complete The Flophouse mission to complete the Drive Core mission.
+When you go through the locked door into the locked area there will be several hostile opponents, including a Berserker, an Anarchist, a Sharpshooter, several Raiders, and an Adhi. The squad recognizes the enemies as Jorgal Strux's associates. 
+When the enemies are dead, search the locked area for a Remnant Console on the lower level. Ryder discusses with Drack (either in person or over the comm) what Strux could be doing with the drive core and the conclusion is a bomb. Drack concludes that Strux has been planning some kind of betrayal the whole time. Ryder then contacts Gil Brodie to send a crew to secure the Drive Core. Ryder also requests that SAM change the encryption code and lock the door until Gil arrives to secure the core.
+There are three lootable containers inside the locked area to collect before leaving.
+Return to New Tuchanka to confront Strux and Morda.
+
+Go back to New Tuchanka to inform Morda about Strux's double-cross[]
+Head down to the navpoint in Morda's throne room and speak to Morda. Ryder will find Morda, Strux, and Drack if he isn't in the active party. Morda isn't happy with Ryder, since Strux has told her that Ryder has attempted to take the drive core from her salvage team and then sell it off to scavengers. Strux's plan becomes clear; he paid scavengers to recover the core with the intent to discredit Morda's leadership due to her incompetence in losing the core to the Nexus, and then to "rescue" the core and put himself forward as a better candidate for Overlord. Unfortunately for him, the plan has already failed since you now have the core.
+After Ryder reveals Strux's plot, Strux challenges Morda. There is a brief fistfight, which Morda wins handily. After this Morda exiles Strux and his followers. Morda now demands that you hand over the drive core to her. In return, she offers an alliance between the krogan and the Nexus. If your refuse, the krogan will be a sovereign state who "owe the Nexus nothing, not even peace." SAM privately points out that historically, unchecked krogan advancement has been the cause of war and disaster for many—even the krogan.
+If the core is given to Morda:
+Settling Elaaden becomes an active mission and the first mission objective "Resolve The Tension At The Krogan Colony" is immediately completed.
+If the core is kept for the Initiative:
+You receive +2000  and +1000 . However, Morda will not permit a Nexus outpost on Elaaden, so Settling Elaaden is permanently locked out, as are any Elaaden missions which require an outpost for acquisition.
+
+Aftermath[]
+If the core is given to Morda:
+You will now be able to officially start the mission to create an outpost on Elaaden.
+If the core is kept for the Initiative:
+Foster Addison immediately talks to Ryder over the comm; she is disappointed, and tells Ryder that this makes efforts on the next world all the more important. Upon returning to the Tempest, Drack tells Ryder that while Morda may have wanted the core, she also appreciates a show of strength. 
+You will receive emails from Director Tann and Liam Kosta.
+
+
+
+
+
+Congratulations from Tann
+To: Ryder
+From: Director Tann
+Ryder, the Remnant drive core that was just delivered to the Nexus was a great surprise and a fantastic omen for our future in Heleus. Good pathfinding!
+Our scientists are meeting to discuss uses for it -- perhaps as a power source, a weapon, or who knows. The possibilities are exciting and this has given the Nexus a huge boost in our research capacity.
+I want to personally thank you for putting on our big-boy pants and keeping it out of krogan hands.
+We both know the krogan are ill-equipped to deal with such advanced technology. The potential of this amazing find would have been wasted on them.
+Finally, I don't care what I hear in the Nexus corridors, I think you're doing a decent job and this action earns points from me. I'm becoming a fan.
+Director Tann
+
+
+
+
+
+
+
+
+
+Elaaden was rough
+To: Ryder
+From: Liam
+Have to say, I'm having a hard time putting a good spin on what happened with Morda. Best try so far: krogan making a colony on their own will inspire others to do it too. And... that's good?
+So you know, Verand will try to swing some trade deals. It's a dance, but if the angara can be middlemen, that gets resources moving and Morda can still make her point against the Nexus. It can work. Important thing is no one starves.
+The brains on the Nexus better make that Remnant drive worth it. Because hot as Elaaden was, we're a planet down.
+Kosta
+
+
+
+
+Rewards[]
++1330 XP
++400 AVP 
++10% Elaaden viability
+
+Elaaden Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Investigate Remnant Derelict
+
+Missions (Mass Effect: Andromeda)
+
+Settling Elaaden
+
+
+
+

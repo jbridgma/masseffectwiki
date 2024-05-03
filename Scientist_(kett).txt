@@ -1,0 +1,83 @@
+
+
+
+
+
+Scientist
+
+ 
+
+
+
+
+
+
+
+Faction
+Kett
+
+
+Weapons / Attacks
+None
+
+
+Abilities
+None
+
+
+Health
+Normal
+
+
+Shields
+Normal
+
+
+Weak Points
+Head
+
+
+Aboard the kett flagship Verakan, the Archon employs numerous scientists to study the captured ark Paarchero and its salarian passengers. Pathfinder Ryder encounters several of these scientists during their infiltration of the flagship, invariably fleeing at the first sign of trouble.
+
+Capabilities[]
+Offensive
+Scientists have no weapons or offensive capability whatsoever.
+
+Defensive
+Scientists have shields.
+
+Tactics[]
+Scientists register as Destined when scanned. Tactics for beating the latter also applies to the former.
+Even if unarmed and harmless, scientists are very agile and taking them down is too much effort for little gain as they will always run away when noticing your team. They will sprint to a door that becomes inaccessible when they go through, or disappear from the map after turning a corner. Due to their shields it is marginally challenging to kill one before it reaches safety, though the difficulty increases the more of them there are.
+Scientists detect Ryder in proximity and will run away immediately. Squadmates can get a bit closer to them before they flee.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

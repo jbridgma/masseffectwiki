@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+Blue Suns Trooper
+
+
+
+
+Race
+HumanBatarianTurian
+
+
+Type
+Organic
+
+
+Faction
+Blue Suns
+
+
+Armament
+M-8 AvengerM-23 Katana
+
+
+Abilities
+None
+
+
+Health
+Moderate
+
+
+Shields
+Low
+
+
+Locations
+Omega, Purgatory, Korlus, Factory District, Zorya, Joab, Sanctum, MSV Strontium Mule
+
+
+Blue Suns Troopers are the rank and file soldiers for the Blue Suns mercenary organization, making them one of the most commonly encountered enemies. They are predominantly human, batarian, and turian soldiers, who are equipped with assault rifles and shotguns respectively.
+
+Capabilities[]
+Offensive
+Troopers armed with assault rifles will often seek cover, and are effective at taking down shields, barriers and armour.
+Troopers armed with shotguns will try to close in and eliminate their enemies at short range.
+Defensive
+On normal, Troopers do not possess any defenses, but they will have shields on higher difficulties. Turian troopers are also slightly more durable than their human and batarian counterparts.
+
+Tactics[]
+The assault rifle armed Troopers are able to put down a constant barrage of fire, as their weapon's heat sink capacity means their reload times can be some distance apart.
+They rarely enter close quarters combat and will usually be easy to deal with if unsupported by more elite troops, such as Legionnaires. They use basic infantry tactics such as pinning down the player with suppression fire, staying in cover while coming out to take pot shots, and flanking.
+Shotgun wielding Troopers behave in a manner similar to an Eclipse Vanguard; however, they are considerably weaker and have a tendency to move into open areas, allowing them to easily be picked off. If they do enter close quarters combat they can cause significant damage. However, their weapons have a slow rate of fire, which allows them to be dealt with easily, particularly if they possess no shields, as powers such as Throw or Concussive Shot will knock them over.
+Full Cryo Blast is useful when they are clustered in groups, allowing them to be killed quickly.
+Overall, Troopers are not difficult to deal with if cover is used wisely. Their main threat is that they can prevent a squad putting down effective fire on more dangerous threats such as Legionnaires or Centurions.
+On harder difficulties they will quite easily bring down the player's shields. It is also of note that the turians hold the close quarters role more often than humans.
+Assault rifle wielding soldiers should always be a higher priority than shotgun wielding ones. While the troopers with shotguns can inflict more damage in close quarters, they have a much lower firing rate and range, and more predictable firing patterns.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

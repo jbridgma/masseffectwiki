@@ -1,0 +1,118 @@
+
+
+
+This article or section is a stub. You can help Mass Effect Wiki by  expanding it. 
+
+
+Electrical Conduits
+
+
+
+
+General Info
+
+Rarity
+Ultra Rare
+
+
+Aug Type
+Gun Projectile, Special
+
+
+RD Cost
+200
+
+
+Tech Type
+
+
+
+
+Electrical Conduits is an augmentation in Mass Effect: Andromeda.
+
+Contents
+
+1 Compatibilities
+2 Description
+3 Mechanics
+4 Strategies
+5 Restrictions
+
+
+Compatibilities[]
+Chest - This augmentation can be applied to Chest armor pieces.
+Guns - This augmentation can be applied to gun-type weapons.
+Description[]
+When applied on guns, this is a Gun Projectile augmentation. You may apply one such augment to a gun during the development process.
+When applied on armor, this is a Special augmentation. You may apply one such augment to an armor piece during the development process.
+Automatic Weapons:Weapon now fires a beam of electricity.
+Non-Automatic Weapons:Weapon now fires electrical projectiles.
+Chest: Stuns melee attackers with electrical damage.
+
+Mechanics[]
+The augment effect is purely cosmetic and does not prime targets for electric detonations.
+Automatic weapons continuously fire until the clip is depleted or the weapon is switched out.
+When placed in non-automatic weapons, Electrical Conduits apparently ignores the weapon's base damage, effectively lowering its damage output.
+Strategies[]
+There are no benefits to use this augment on weapons, only drawbacks.  
+Generally not worth it to augment armor, as melee engagements are either with enemies too weak to bother with or those that will just will kill you outright anyhow.
+
+Restrictions[]
+As a Gun Projectile augmentation, Electrical Conduits isn't compatible with the following:
+
+Beam Emitter
+Grenade Launcher
+Ricochet System
+Seeking Plasma System
+Sticky Grenade Launcher
+As a Special augmentation for chest armor, Electrical Conduits isn't compatible with the following:
+
+Battlefield Assist Module
+Power Booster
+Rebalanced Field Coils
+Shield Oscillator
+Shield Sensors
+
+
+
+
+
+
+Mass Effect: Andromeda Augmentations
+
+
+
+
+General
+
+Anti-Armor Module • Biotic Damage Booster • Biotic Recharge Module • Combat Power Module • Combat Recharge Module • Duration Boost Module • Kinetic Coil • Medi-Gel Regulator • Newtonian Multiplier • Reaction Displacer • Reaction Optimizer • Shield Accelerator • Shield Booster • Shield Bypass Unit • Shield Generator • Support Power Module • Tech Damage Module • Tech Recharge Module
+
+
+Gun Behavior
+
+Plasma Charge System • Vintage Heat Sink
+
+
+Gun Fire Type
+
+Automatic Fire System • Burst Fire System • Single Fire System
+
+
+Gun Projectile
+
+Beam Emitter • Electrical Conduits • Grenade Launcher • Ricochet System • Seeking Plasma System • Sticky Grenade Launcher
+
+
+Mod Slots
+
+Double Mod Extension • Mod Slot Extension
+
+
+Special
+
+Aerial Lubricant • Aerial Performance Optimizer • Aerial Stabilizer • Battlefield Assist Module • Bio-Converter • Concentration Module • Coolant Unit • Cryo Condenser • Electrical Conduits • Equilibrium Regulator • Heat Inducer • Power Booster • Rebalanced Field Coils • Shield Disruptor • Shield Oscillator • Shield Sensors
+
+
+
+
+

@@ -1,0 +1,203 @@
+
+
+
+Peebee has found something she wants to share with you.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak to Peebee in the Tempest's escape pod
+2.2 Go to Pas-10 in the Inalaara System
+2.3 Pursue the source of the Remnant signal
+2.4 Find a way through the Remnant gateway
+2.5 Explore the cavern depths
+2.6 Seek a method to open the gateway
+2.7 Reach and explore the surface
+2.8 Use the Remnant console to open the gateway
+2.9 Eliminate all hostile Remnant forces
+2.10 Continue navigating through the ridge
+2.11 Find a way to extend the Remnant antenna
+2.12 Survive the Remnant assault
+2.13 Cross the bridge gap and continue to track the signal source
+
+2.13.1 Scan the boulder blocking the way to find a way through
+2.13.2 Find and use the Remnant console to summon an allied Observer
+2.13.3 Eliminate the Remnant threat
+
+
+2.14 Scan the boulder fissure to enlist your allied Remnant Observer
+2.15 Continue toward the Remnant signal
+2.16 Pursue Kalinda toward the source of the Remnant signal
+2.17 Defeat Krannit and his thugs
+2.18 Find an alternate route to the Remnant signal
+2.19 Reach the signal source
+2.20 Defeat Kalinda's forces
+2.21 Extend the Remnant bridge to reach Kalinda
+2.22 Intercept Kalinda
+2.23 Reach Kalinda's escape shuttle!
+
+
+3 Aftermath
+4 Rewards
+5 Trivia
+
+
+Acquisition[]
+Prerequisite: Peebee: Reclaiming Poc
+
+Peebee's loyalty mission starts automatically after the prerequisite. 
+
+Walkthrough[]
+Speak to Peebee in the Tempest's escape pod[]
+Head to the navpointon the Tempest and speak with Peebee.
+Peebee now has the Remnant scanner up and working, and she is very excited about a signal the scanner has detected. She thinks it's coming from some raw Remnant programming tech, a sort of Remnant wild card. Of course she wants to track it to its source and is eager to get Pathfinder Ryder along. The coordinates are uploaded.
+
+Go to Pas-10 in the Inalaara System[]
+Head to the Inalaara system and the planet Pas-10. 
+Peebee is a required squadmate, but you can still choose who among the other squadmates should go with you planetside and you can still customize your loadout here. Kallo is having difficulties finding a landing spot due to an active volcano, so you three proceed to the dropsite via Peebee recklessly ejecting the Tempest escape pod with you in it.
+You can voice your approval or disapproval during and after descent.
+
+Pursue the source of the Remnant signal[]
+After the cutscene, you can scan the Tempest Escape Pod for +10 .
+Note:  During loyalty missions, manual saving is disabled for the duration of the mission.
+Note:  Don't touch the lava streams or pools during the mission. The lava is a Level 4 Heat Hazard and will quickly kill you.
+The signal is coming from a volcano which the pod landed close to. Follow the navpoint up a hill and a new objective will be added.
+
+Find a way through the Remnant gateway[]
+The navpoint will lead you to a gate. A Remnant Gateway is blocking the way forward. Scanning it awards +10 .
+A new navpoint will point at a rock.
+There are a number of Brittle Obsidian rocks that can be scanned. Doing so reveals there is something behind the rock. Shoot them to expose a Remnant Power Node. Interact with the node to open the gate.
+There is also Remnant Energy Relay in the area that can be scanned for +10 .
+
+Explore the cavern depths[]
+Head into the cave and there are idle, unprogrammed Observers spread out in the cave. The seismic activity is increasing.
+There is a Remnant Gravity Well Chute that can be scanned for +10 . 
+
+Seek a method to open the gateway[]
+Heading deeper into the cave Ryder will come across additional damaged Observers and there is an Assembly Line Dispenser that can be scanned for +10 .
+There are two Brittle Obsidian rocks that can be shot to the left of the Remnant Gateway in this area to reveal two lootable containers.
+Scanning the Remnant Gateway awards +10 .
+Behind the Assembly Line Dispenser is a Remnant Console that will open the assembler and reveal a helpful Observer.
+Up high, to the left of the gateway is a Remnant Power Node that can be scanned for +10 .
+When you scan the power node, the Observer will transfer a beam of energy to the node and the gateway will open.
+
+Reach and explore the surface[]
+Head through the gateway towards a new navpoint.
+Kallo hasn't been able to find a spot to pick up the team. However, he has detected some smaller vehicles making their way to the surface. Nothing else is known about them.
+When exiting the tunnel to the surface Peebee's ex Kalinda T'Reve shows up in a shuttle and contacts Ryder over the comm. She is tracking the same signal as Peebee. Now it's a race to get there first.
+Jump down multiple ledges and head towards the navpoint and a Remnant Console. Note:  There are Remnant forces in the area but they are not hostile towards Ryder so ignore them for now.
+
+Use the Remnant console to open the gateway[]
+Activate the Remnant Console to open the path forward. The Remnant forces in the area will now become hostile towards Ryder. 
+
+Eliminate all hostile Remnant forces[]
+Defeat the remnant forces. 
+After the battle, there are two lootable containers in the area and scanning the Remnant Gateway awards +10 .
+
+Continue navigating through the ridge[]
+Follow the navpoints down the path. At the end of the path is a small area. Before activating the antennae console, shoot the brittle rock and reveal a hidden Remnant Console. Activate the hidden console and a Remnant Turret will activate and help with the upcoming battle.
+
+Find a way to extend the Remnant antenna[]
+A small platform has an antenna that can be extended which will provide a way to get across to the other side. Break the loose obsidian rock right beneath the turret to expose its console; interface with it to activate the turret to fight on your side. 
+
+Survive the Remnant assault[]
+Activate the antenna console. Defend your position while SAM is hacking the console. Note:  You have to stay inside the white circle on the ground for the hack progress to complete. Leaving the circle stops the hack.
+
+Cross the bridge gap and continue to track the signal source[]
+Jump across the lava flow using the now extended antennae bridge. As you proceed some of Kalinda's men can be seen on a ledge above, within weapons range. Killing any of them results in some dialogue from Kalinda, who isn't very concerned. Head towards the navpoint in the next area and SAM will comment about there being another Assembler in this area to spawn another helpful Observer.
+
+Scan the boulder blocking the way to find a way through[]
+On reaching the Navpoint, SAM comments about the large boulder in this area blocking the path and that a helpful observer could open the path forward. A new navpoint is added back the way you came from.
+In this area, there is another Remnant console that can be used to activate another Remnant Turret for the upcoming battle. Activate the turret now.
+
+Find and use the Remnant console to summon an allied Observer[]
+The new navpoint points to another brittle boulder that Ryder will have to shoot to expose the Remnant Console. Activating the console spawns Remnant forces so be prepared.
+
+Eliminate the Remnant threat[]
+On activating the console, a destroyer and other Remnant forces will attack. Defeat them.
+
+Scan the boulder fissure to enlist your allied Remnant Observer[]
+Scan the boulder fissure and the Observer splits the boulder along the fissure. It sinks down into the lava taking the Observer with it. This opens a path forward for Ryder.
+
+Continue toward the Remnant signal[]
+Jump over the lava and climb up the cliff to start a cutscene. 
+
+Pursue Kalinda toward the source of the Remnant signal[]
+After the cutscene, Outlaws will attack you. Defeat them. There are two lootable containers in this area.
+After the battle, head into the cave towards the navpoint.
+Inside of the cave heading downwards on the right hidden in the corner is a lootable container.
+
+Defeat Krannit and his thugs[]
+As you get close to the navpoint and a large room opens up in front of the squad, Kalinda sets off an explosion to block the path.
+There is a lootable container in this room.
+Another group of raiders led by the krogan Krannit has to be eliminated. Defeat them.
+
+Find an alternate route to the Remnant signal[]
+After the battle, there are several items that can be scanned. 
+Up high, to the left of the Remnant Portal is a Remnant Power Node that can be scanned for +10 .
+There is an Assembly Line Dispenser in the center of the room that can be scanned for +10 .
+Interact with the Remnant Console to spawn another helpful Observer.
+Scan the power node and the Observer will transfer a beam of energy to the node opening the portal.
+
+Reach the signal source[]
+Head to the navpoint down the corridor. There is a lootable container on the left in the corridor.
+Jump down into the large room and prepare for an ambush.
+
+Defeat Kalinda's forces[]
+There are two Assembly Line Dispensers in the room that can be scanned for +10  each (+20  total). One is to your left and the other to your right with their respective consoles next to them.
+You can interact with two Remnant Consoles in the room to spawn two Observers that will fight for you. SAM strongly advises to activate them. The battle is much easier if you activate them before the battle. 
+Large number of Outlaw forces will attack you including two Hydra mechs. Defeat them. The outlaws won't attack until after you jump down. The Hydras are accompanied by a large number of hostiles. There are several ammo catches and at least 4 health caches scattered around the room.  
+
+Extend the Remnant bridge to reach Kalinda[]
+After the battle, scan the Remnant Power Node for +10  at the navpoint. If you  didn't spawn a helpful Observer, spawn one now and the Observer will transfer a beam of energy to raise the bridge from the lava.
+
+Intercept Kalinda[]
+Cross the bridge and jump up to the navpoint to start a cutscene.
+Ryder and the squad come under fire. Peebee jumps up and starts running towards the device racing Kalinda.
+Kalinda jumps first but jumps short and is hanging from the edge. Peebee jumps second and makes the jump easily. Peebee reaches the device but a tremor causes her to drop the device. Kalinda screams for help and Peebee angrily forgoes the device to rush to Kalinda's assistance. 
+You now have an interrupt choice to "Shoot Kalinda".
+
+Shoot Kalinda - Kalinda falls off into the lava and Peebee is able to catch the device.
+Don't shoot Kalinda - Kalinda is saved by Peebee. The device rolls off the platform into the lava.
+With either choice, you will now have to escape the eruption.
+
+Reach Kalinda's escape shuttle![]
+A 1:07-minute timer then starts and the gang has to run to escape. Note: There is a Remnant loot box if you turn left on the last straight corridor to the shuttle, behind the fallen wall of rocks earlier, which causes Peebee to interject "Are you crazy? There is no time for looting!" on the way out. 
+When Ryder reaches the shuttle a new cutscene on the Tempest begins.
+
+Aftermath[]
+After the mission Peebee will send Ryder an email.
+
+
+
+
+
+Thank you...
+To: Ryder
+From: Peebee (the embarrassed)
+
+...and sorry. I shouldn't have ambushed you like that. I should have trusted that you'd be just as driven as I was to head down to Pas-10 and find the source of that signal. I should have been more collaborative, and more of a—ugh—team player.
+
+Guess I have some growing to do. Who knew?
+
+Heh, usually when someone says "it's not you, it's me," they're breaking up with you...
+
+
+If I actually send this, please delete upon reading.
+
+
+If Kalinda was saved:
+Kalinda delivers Remnant tech to Ryder. Both Peebee and the Pathfinder are a bit skeptical but agree that Kalinda almost dying may have scared her straight. Peebee has a little bit of data from scanning the device before it was lost and that will provide some help. While not as good as having the device, it is better than nothing. Ryder and Peebee then discuss the paperwork matter of the escape pod that Peebee used.
+Kalinda will show up to assist Ryder during Meridian: The Way Home.
+If Kalinda was shot:
+Peebee questions Ryder about their choice to shoot Kalinda. While Peebee has the device, she wonders if it was worth it. Peebee will be able to study the device over time and create a fusion of technology. Something truly new in the Andromeda Galaxy. Ryder and Peebee then discuss the paperwork matter of the escape pod that Peebee used.
+
+Rewards[]
++1330 XP
+Pelessaria B'Sayle's Rank 6 Skills are now unlocked.
+Trivia[]
+Choosing Nakmor Drack as a squadmate triggers a visual gag inside the pod as the restraints are unable to fit around him and keep trying to close throughout the cutscene.
+
+
+

@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect 3. For the mercenary organization, see Talons. For the weapon in Mass Effect 3 and Mass Effect: Andromeda, see M-358 Talon.
+
+
+
+Talon Mercenary Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Human
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Reckoning
+
+
+Abilities
+Combat RollOmni-Bow
+
+
+Talon Mercenaries bring a shady reputation to the battlefield. These hard-bitten warriors typically take jobs from crooked organizations, but today find employment with the Alliance, who are desperate for skilled fighters in the war against the Reapers. Some find this troubling, but times are troubled.
+Talon Mercenaries are feared for their deadly accuracy with the omni-bow, making their presence in the Alliance a necessary evil in the fight against the Reapers.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Bugs
+5 References
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 500
+
+
+Class: Elite Mercenary
+
+
+ Cain Trip Mine
+
+
+
+
+ Concussive Arrows
+
+
+
+
+ Armor-Piercing Arrows
+
+
+
+
+ Omni-Bow Mastery
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee (Omni-Bow) – The Talon Mercenary Engineer fires five bolts from his omni-bow in a spread.
+Heavy Melee (Omni-Bow) – The Talon Mercenary Engineer fires five bolts from his omni-bow to auto-track on a single target.
+Grab (Omni-Blade Stab) – The Talon Mercenary Engineer drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Roll) – The Talon Mercenary Engineer rolls to quickly evade incoming attacks.
+The Talon Mercenary Engineer can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The Talon is a long-range and zoning grenadier specialist that focus on dominating the battlefield, being able to fight either one or multiple enemies.
+The Talon's powers revolve around good use of the Omni-Bow. Equipping a power will consume a grenade and give its effect to the next few volleys fired from the bow, until the power is cancelled or switched for another one. Volleys remaining of the effect are displayed by number of arrows on right arm.
+All of the Talon's powers are grenade-based. The Talon will regenerate grenades at a rate dependent on weapon weight, which can be further boosted with the Rank 6 Charge Generation evolution of Elite Mercenary.
+Leveling the Talon to maximize grenade quantity and selecting the Grenade Capacity as gear bonus will still lock Talon's ability to use Thermal Clips. To prevent that, and still get a good demolitions expert in the field, simply leave out one of the omni-bow powers, preferably the AP Arrows.
+The omni-bow is considered a "melee" attack and as such gains damage bonuses from melee damage increases. Armor-Piercing Arrows and Concussive Arrows are considered powers, and any bonuses to power damage apply to them and thus stack with omni-bow damage.
+The Shotgun Omni-Blade maximizes damage, since melee mods increase damage multiplicatively, as opposed to mods that increase power damage, which do so additively. [1]
+Despite being considered a "melee" attack omni-bow damage does not count towards the melee damage portion of Combat Mastery.
+With investments in melee damage, the Talon's omni-bow can eliminate the need for a longer-range weapon, allowing the Talon to maximize close-range firepower or minimize weight for optimal charge regeneration speed.
+The Rank 5 Shock evolution Concussive Arrows can prime targets hit for Tech Bursts. This is the only way that the Talon can create Power Combos in any way outside of the effects of various ammo mods like Incendiary Rounds, and the Talon has no way whatsoever to detonate primed combos.
+The Cain Trip Mine can be used to set up traps for enemies at chokepoints and spawn areas. Up to three can be active on the map. They are best deployed on walls, so that the beam reaches out from the wall rather than straight up into the ceiling.
+As with the Demolisher, grenade capacity and usage are shared across grenade-using powers. As such, the Talon can carry 6 grenades just by evolving each power to level 2.
+The Talon has a maximum capacity of 14 grenades if all capacity evolutions are chosen for their powers—this requires evolving both arrow powers to Rank 6 and Cain Trip Mine to at least Rank 5. Their capacity can be further increased by equipping gear that increases grenade capacity, up to a maximum of 16 grenades with the Shock Trooper or Warfighter packages or 19 with the Grenade Capacity gear.
+The armor-piercing shots will take out the shields of almost any shielded enemy, especially if you are using the two arrows at a time combo and do some damage. Follow up with Concussive Arrows, or a weapon and it makes for a lethal combination.
+The Talon will sometimes perform a light melee attack instead of an over-cover grab—be sure to hold down the melee button and have a targeting outline on the enemy to be grabbed.
+Weapons with regenerating ammo serve the Talon Mercenary well, since their ammo can be allowed to regenerate while the Talon is using the omni-bow. The M-7 Lancer and Collector SMG are excellent choices, as their low weight will not impair charge regeneration.
+The Cain Trip Mine is capable of inflicting massive amounts of damage, especially to armor with the Rank 5 Armor Damage evolution. Multiple Mines and/or damage taken debuffs can be used to quickly obliterate armor on higher difficulties.
+Concussive Arrows will not only do additional damage and strip shields and barriers, they will also send the enemy flying. A few shots to Centurions, Collector Captains, and Geth Rocket Troopers will potentially strip their shields with the first few arrows in a burst and send them bowling away and barely alive with the remaining. You can potentially knock them clear out of the level with as much concussive force as you can bring against them!
+Try to get a good idea of where enemy spawn points are in levels. Between waves, run out and drop a few Cain Trip Mines at choke points between an enemy spawn point and where the bulk of your team is. You will be almost guaranteed a few free kills near the beginning of the wave. If you are lucky, your mines will catch more than one enemy at once when they all move out as a group.
+If configured with power evolutions and equippables to maximize melee damage, most unarmored basic enemies will go down in a single burst from a Heavy shot with the Omni-Bow. Shielded or Barrier minor enemies will require two or three such hits, armored ones will require three or four. Concussive and Armor-Piercing Arrows, respectively, will help reduce the number of shots required.
+Since the Talon regenerates grenades at a steady rate, the only way you can "waste" them is to let yourself fill up on them and not use them. Be sure to use one of your abilities when you reach your maximum grenade quantity. Cain Trip Mines do not disappear until detonated, and Omni-Tool special arrows do not expire until fired, so there is no sense sitting on a full stock of grenades and not using them to prepare for the next encounter.
+Due to its melee attack's "auto-track" ability, charge-based weapons, like Acolyte, Arc Pistol, Geth Plasma Shotgun or Graal Spike Thrower have great synergy with Talon Mercenary's combat style. Players can have a easy headshot (or stagger effect for projectile weapons) by firing the weapon right after releasing the melee attack.
+Even if all Talon's powers regenerate, they are still grenade powers, so you can restore them by collecting grenades and still equip the Talon with a heavy weapon loadout.
+Cerberus[]
+Be aware of Phantoms - due to their biotic barrier and the ability to dodge (which almost negates damage and any effects, i.e. stagger or knockback) it is very hard to score an effective hit with your bow.
+The Falcon Assault Rifle with a blade attachment can be used to overcome this problem. The Falcon can reliably stagger phantoms who would then be unable to dodge or use biotic barrier, leaving them wide open to attacks from the omnibow. The Falcon can be used to ensure hits on other non boss enemies as well.
+The average trooper with the concussion effect on your bow will go down in a single shot.
+Centurions will go down from one Heavy Omni-Bow barrage when Concussive Arrows are equipped, or at least be very wounded.
+Mines are very effective against an Atlas. One mine will totally destroy full shields instantly. A sound tactic would be to deploy the mines directly below the Atlas' feet. A cluster of mines deployed in such a way will deal very heavy damage against them, if they do not destroy them outright.
+Omni-Bow attacks do nearly nothing against Guardians, though Concussive Arrows will stagger them a bit, potentially opening them up to a follow up from your gun or a teammate. However, their slow and relatively predictable movement makes them easy fodder for Cain Trip Mines.
+With Armor-Piercing Arrows active, Dragoons will go down to the Omni-Bow as quickly as Basic Troopers.
+Collectors[]
+Seeker Swarms have no effect since the Talon has no cooldown-based powers.
+If you want to deploy Cain Trip Mines to kill enemies beside Praetorians, be sure to place the mine at a rather lower level, in case of Seeker Swarms triggering the explosion out of expectation.
+Concussive Arrows are very useful for keeping Abominations at bay.
+When deploying Cain Trip Mines against Praetorians, be sure not to place them too low against a wall. Praetorians are tall units and likely to hit even a highly placed Cain Trip Mine, but their ability to fly might take them over a low one. If a Praetorian is firing its beams but not in your direction, consider launching a Cain Trip Mine right underneath it. They are immobile while firing, and the Cain Trip Mine will likely be armed and triggered before they can get moving again.
+Praetorians also have a "charged" mode. Similar to Banshees, they will deploy a shield that negates all power-based attacks. However, they will only deploy it when they get attacked by a power while flying, so it is a good idea to place Cain Trip Mines in advance of a Praetorians' flight route, or use powers when it is on the ground, firing particle beams, or during the animation of possession.
+Armor-Piercing Arrows are ideal at taking out Scions, only requiring a few launches from your Omni-Bow to take down. Even if they are currently firing at you, time your shots between their own three-round bursts. As always, beware their clusters of grenades though.
+Geth[]
+Geth Bombers are near invulnerable to trip mines since they can pass over the laser. However, they will detonate the mines if they are set high enough on walls or door frames.
+Be careful aiming your Omni-Bow here. It auto-tracks targets, but the Geth present a slight challenge to that here. Geth Bombers, with their tiny size and spastic motions, can cause the auto-aim to divert if they wave in front of it. Arrows can hit cloaked Geth Hunters, but will not auto-aim onto them while cloaked; if another enemy is nearby, the Omni-Bow might aim for them instead.
+Reapers[]
+Concussive Arrows are very useful for keeping husks at bay.
+The Banshee's biotic charge allows them to pass through Cain Trip Mines without setting them off, making it very hard to damage Banshees this way.
+Brutes predictably keep moving in the shortest path to their target, and are well-armored, making them perfect targets for Cain Trip Mines.
+Ravagers are likewise easy targets for Cain Trip Mines. They move so slowly that a mine can be placed almost right in front of them and it will be armed by the time they move past it.
+Armor-Piercing Arrows will make short work of Brutes and Ravagers, killing them in two or three shots depending on difficulty, where you hit them, and your power evolution and kit. Use this to quickly remove them from the field and protect your teammates.
+Banshees are vulnerable to Armor-Piercing Arrows once their Barriers are down. However, they are still highly resistant to all damage while they are "charged". Hold the fire from your Omni-Bow until a Banshee stops emitting light (usually just after launching a Nova blast) then put as many Armor-Piercing Arrows into her as possible during this window. It should not take more than two or three Heavy Omni-Bow attacks to down her if you time it well.
+When a Banshee is "charged", she will block all powers used against her. Since Armor-Piercing Arrows counts as a power, its effects will be blocked; however, shots fired without a grenade power active count as melee attacks, and will deal damage normally.
+Bugs[]
+When the Talon Mercenary Engineer is selected for play, customized key bindings created by the player are ignored and game controls revert to their default key/button settings and must be rebound by the player in either the game lobby or an active game if desired. If another multiplayer class is selected for play, the previous customized control bindings may be reinstated.
+References[]
+
+↑ https://web.archive.org/web/20151119114255/forum.bioware.com/topic/454053-talon-engineer-omni-bow-tips/
+
+
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

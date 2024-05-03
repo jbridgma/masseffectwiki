@@ -1,0 +1,32 @@
+
+
+
+You have reactivated a Research Center on Eos. Test its capabilities by gathering the resources to craft a weapon.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Collect area resources and craft a weapon
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+The small northeastern building beside the ND1 Nomad's crate can be opened once Pathfinder Ryder has restored power in Site 1: Promise. Interact with the Terminal (marked with a ) inside and acknowledge the "ACTIVATE: Power Relay" to start this mission.
+
+Walkthrough[]
+Collect area resources and craft a weapon[]
+The earliest you can complete this task is just after acquisition provided you have accumulated enough resources from previous missions (if you have been rigorously sending out APEX teams after completing First Strike, even better). 
+
+If not, there are many resources spread around Site 1: Promise, which you can collect to be able to build the weapon. The building itself has a couple of lootable crates just beside the research center to get you started. When you've gathered enough resources, simply use the research center and craft almost any weapon in the Development menu.
+Note: It's not actually required to use the Eos research center to craft the weapon. Doing it on the Tempest or anywhere else suitable will also complete the task.
+
+Rewards[]
++270 XP
+
+
+

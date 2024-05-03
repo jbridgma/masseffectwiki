@@ -1,0 +1,77 @@
+
+
+
+A malfunctioning heavy mech has been left on the planet's surface, its owner having left to complain to the store where he got the mech. The mech has detected a large cache of resources in the canyon, but it needs some work before it can reach and excavate the resources.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Datapad
+3.2 Disabled Mech
+3.3 Bugs
+3.4 Enemies
+
+
+4 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Collector Ship (mission) or Project Firewalker: Rosalie Lost and Horizon (mission)
+
+Note:  If the Firewalker Pack is installed, then in addition to completing Project Firewalker: Rosalie Lost, one also needs to complete Horizon to access the Talava system.
+This mission is acquired after scanning Taitus, the fourth planet in the Talava System (Caleston Rift).
+Scanning the planet yields the following audio transmission:
+
+
+“Repeat. There's a piece-of-crap mech on this planet's surface. If you think you can get it to work, you're freakin' welcome to it *static* -welcome to it.”
+
+
+Scanning the planet yields the following text:
+
+
+“ANOMALY DETECTED
+
+Surface scans detect one YMIR Heavy Mech signature matching an unknown (possibly pirate) registration. Mech appears to be disabled but broadcasting a looping message. Message does not appear to be a distress signal. Resource scans indicate large quantities of mineral resources available but obscured behind walls of dense stone.”
+
+
+Preparation[]
+Since combat in this mission involves only two varren, the only preparation note is that if you'd like to experiment in absolute safety with an unfamiliar weapon, power, or squadmate, now's your chance.
+
+Walkthrough[]
+Upon landing on Taitus, a datapad will reveal that the YMIR Mech was bought from Harrot on Omega and apparently has power problems. Because of this, the previous owner left a trail of power cells that lead to some valuable resources at the other end of the canyon. Grab the first power cell and insert it into the mech and it begins its walk. It will shoot through the canyon wall and keep moving. Follow the mech picking up power cells when necessary to keep it moving.
+About halfway through the mission you will encounter two varren that are hovering over a power cell. They are very easy to eliminate, so do so, and then retrieve the power cell they were hovering over. When you reach the end of the canyon, insert the last power cell and get away from the mech. When it destroys the final wall, its arms explode, then the rest of the mech self-destructs as well. Head into the chamber the YMIR revealed and recover the resources in it to end the mission (+5,000 platinum).
+
+Datapad[]
+
+
+
+I paid Harrot good money for this useless heap of [SIGNAL ERROR] [ERROR] detected serious caches of resources here on this planet, but [MEMORY LEAK DETECTED] All right, I said, sure, the thing leaks fuel like a volus after a mug of ryncol, but I can deal with that.
+
+
+So I took off and laid out a trail of power cells leading from where I unloaded the mech to [BAD PACKAGE PLEASE RESTART] so I could at least get the damn thing moving. And now [ILLEGAL FAULT DETECTED] won't even move. Damn that swindling elcor!
+
+
+Disabled Mech[]
+
+
+
+Piece of Sh[SIGNAL ERROR]
+
+
+Bugs[]
+The mech may sometimes become stuck in an upright or a crouched position, making it impossible to progress. If you load the latest auto save, the robot will be in a crouched position again and ready for a new power cell.
+Enemies[]
+Varren
+Mission Summary[]
+Recovered buried cache of resources. YMIR Mech unsalvageable.
+
+Experience reward: 125 (156)
+Credits: 7,500
+Cerberus Funding: 7,500
+Minerals:
+Platinum: 5,000
+
+
+

@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+
+
+Collector Web
+
+
+
+
+Faction
+Collectors
+
+
+Type
+Organic
+
+
+Barrier
+Moderate
+
+
+Locations
+Armax Arsenal Arena
+
+
+The Collector Web is a Collector unit encountered in Mass Effect 3. They are created by Possessed Trooper enemies.
+
+Capabilities[]
+Offensive
+Collector Webs have no offensive capabilities.
+Defensive
+Collector Webs have moderate barriers. When players walk into a Web, their movement speed will be drastically decreased, and they will be unable to attempt evasion maneuvers. Enemy movement is unhindered by webs.
+
+Tactics[]
+They can be taken down relatively quickly with powers that damage barriers, such as Warp, Concussive Shot and Overload.
+The Acolyte, Reegar Carbine, or Adas Anti-Synthetic Rifle can be used to destroy Collector webs very quickly. The N7 Typhoon and M-358 Talon are also fairly effective.
+Unless they are blocking your way, they can be safely ignored, but don't underestimate their ability to unexpectedly become a nuisance. Eliminate them if there is nothing else more threatening in the area. At the very least, this can also cause the Trooper that summoned them to try and create another one, distracting it and making it an easier kill.
+Webs persist after the Trooper that created them is killed, even lasting after the end of rounds in multiplayer.
+
+
+Mass Effect 3 Enemies
+
+
+CAT6
+
+Brooks • CAT6 Heavy • CAT6 Sniper • CAT6 Specialist • Clone • Disruption Drone
+
+
+Cerberus
+
+Adjutant • Assault Trooper • Atlas • Centurion • Combat Engineer • Dragoon • Dr. Eva • Guardian • Kai Leng • Legion Assassin • Nemesis • Phantom • Rampart Mech • Turret
+
+
+Collectors
+
+Abomination (Possessed) • Collector Captain (Possessed) • Collector Trooper (Possessed) • Collector Web • Praetorian (Possessed) • Scion (Possessed) • Seeker Swarm (Plague)
+
+
+Geth
+
+Combat Drone • Geth Bomber • Geth Hunter • Geth Prime • Geth Pyro • Geth Rocket Trooper • Geth Trooper • Geth Turret
+
+
+Reapers
+
+Banshee • Brute • Cannibal • Harvester • Husk • Marauder • Ravager • Swarmer
+
+
+
+

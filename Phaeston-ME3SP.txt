@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+Phaeston
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Assault Rifle
+
+
+Location
+Tuchanka: Turian PlatoonOmega: Aria T'Loak
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  60% 
+
+
+Capacity
+  68% 
+
+
+Fire Rate
+  60% 
+
+
+Damage
+  15% 
+
+
+Accuracy
+  24% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+50
+300
+
+
+
+
+
+
+
+Type
+Assault Rifle
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+Automatic
+
+
+
+Weight
+  54% 
+
+
+Capacity
+  68% 
+
+
+Fire Rate
+  60% 
+
+
+Damage
+  15% 
+
+
+Accuracy
+  24% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+50
+350
+
+
+
+
+
+
+
+The Phaeston is an assault rifle in Mass Effect 3.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 Trivia
+
+
+Description[]
+Named after a turian spirit of creation, the Phaeston was engineered to provide the best possible balance between accuracy and firepower in a machine gun. Each shot is tempered by kickback dampeners inside the shoulder stock, which lets the Phaeston pack more punch than other weapons its size without sacrificing precision. Its fully automatic fire and relatively light weight has turned the Phaeston into the turian infantry's primary go-to weapon.
+
+Acquisition[]
+Single-player
+The Phaeston is found during the mission Tuchanka: Turian Platoon, next to a dead turian fairly early in the mission, between the first and second Harvester. It is purchasable from Cipritine Armory post-mission if it was missed.
+With Mass Effect 3: Omega downloaded, the Phaeston is also available in the Talon outpost in Omega: Aria T'Loak beside a wall after speaking with Nyreen Kandros.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The Phaeston is categorized as uncommon and requires no multiplayer expansion packs.
+
+Player Notes[]
+The Phaeston is a fully automatic rifle that is heavier than the M-8 Avenger while having greater ammo capacity, rate of fire, and damage per round.
+The main strength of the Phaeston is its high capacity; even without weapon mods it can fire 50 rounds before needing to reload. This allows the Phaeston to lay down suppressing fire for a longer period of time than the Avenger.
+The Assault Rifle Extended Barrel, Assault Rifle Piercing Mod, or the Assault Rifle High-Velocity Barrel help mitigate the Phaeston's low damage per shot.
+An upgraded Phaeston is a balanced weapon, combining solid firepower at any range with decent ammo efficiency in a relatively lightweight package, making it a good choice for power-dependent classes to wield as their primary weapon. However, it is fairly obsolete once options like the M-7 Lancer are available.
+Trivia[]
+
+Although not explicitly stated in game, advertisements on the Citadel show images of the Phaeston alongside the logo for the turian arms manufacturer Armax Arsenal, which suggests that Armax Arsenal is the likely manufacturer of the weapon.
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

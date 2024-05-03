@@ -1,0 +1,413 @@
+
+
+
+The Omni-Blade is a melee weapon in Mass Effect: Andromeda.
+
+
+Omni-Blade
+
+
+
+
+
+
+General Info
+
+Rarity
+Common
+
+
+Tech Type
+
+
+
+Mod Slots
+0
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+275-605
+
+
+Weight
+0
+
+
+
+
+
+
+Contents
+
+1 Description
+
+1.1 Features
+1.2 Strategies
+
+
+2 Stats
+3 Development
+4 Trivia
+
+
+Description[]
+This disposable silicon-carbide weapon can be forged by an omni-tool's fabricator. The transparent omni-blade is suspended in a mass effect field safely away from the user's skin and warning lights illuminated the field so the searing blade only burns the intended enemy.
+
+Features[]
+The Omni-Blade is the starting melee weapon. It has no special features.
+Ranks I - IV & VI - X use Silicon for development while Rank V uses Shell Filaments.
+Strategies[]
+The Omni-Blade is very weak and basic. It is considered standard equipment, meaning that it does not have to be researched and is inexpensive to develop.
+
+Stats[]
+
+
+Rank
+
+Melee Damage
+
+Weight
+
+
+I
+
+275
+
+0
+
+
+II
+
+311
+
+0
+
+
+III
+
+348
+
+0
+
+
+IV
+
+385
+
+0
+
+
+V
+
+421
+
+0
+
+
+VI
+
+458
+
+0
+
+
+VII
+
+495
+
+0
+
+
+VIII
+
+531
+
+0
+
+
+IX
+
+568
+
+0
+
+
+X
+
+605
+
+0
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Silicon
+
+ Nickel
+
+ Vanadium
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+20
+
+90
+
+40
+
+10
+
+0
+
+
+II
+
+Level 6
+
+30
+
+110
+
+50
+
+10
+
+2
+
+
+III
+
+Level 11
+
+30
+
+120
+
+60
+
+20
+
+2
+
+
+IV
+
+Level 21
+
+30
+
+140
+
+70
+
+20
+
+2
+
+
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Shell Filaments
+
+ Nickel
+
+ Vanadium
+
+ Augmentation Slots
+
+
+V
+
+Level 31
+
+40
+
+15
+
+70
+
+20
+
+2
+
+
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Silicon
+
+ Nickel
+
+ Vanadium
+
+ Augmentation Slots
+
+
+VI
+
+Level 41
+
+40
+
+160
+
+80
+
+20
+
+2
+
+
+VII
+
+Level 51
+
+40
+
+170
+
+80
+
+20
+
+2
+
+
+VIII
+
+Level 61
+
+40
+
+180
+
+90
+
+20
+
+2
+
+
+IX
+
+Level 71
+
+40
+
+190
+
+90
+
+20
+
+2
+
+
+X
+
+Level 81
+
+50
+
+190
+
+90
+
+20
+
+2
+
+
+Total
+
+N/A
+
+360
+
+15 (SF)1350 (Si)
+
+720
+
+180
+
+N/A
+
+Trivia[]
+No matter which melee weapon Pathfinder Ryder has equipped, aerial melee attacks always produce an effect that seems to be the result of an Omni-Blade.
+Commander Shepard could only stock bash in Mass Effect, the Omni-Blade was introduced in Mass Effect 3 and has been used since. Mass Effect: Andromeda is the first game that allows the player character to choose different melee weapons.
+Kingdoms of Amalur: Reckoning and its remaster Kingdoms of Amalur: Re-Reckoning include a pair of daggers based on the Omni-Blade.
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

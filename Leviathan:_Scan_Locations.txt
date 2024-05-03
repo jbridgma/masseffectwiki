@@ -1,0 +1,35 @@
+
+
+
+EDI has marked possible locations for Leviathan on the galaxy map. Scan the locations and find Leviathan.
+
+Acquisition[]
+Prerequisite: Citadel: Leviathan III
+
+This mission is automatically acquired upon completion of the prerequisite.
+
+Walkthrough[]
+Three systems become available at Sigurd's Cradle after the events on Dr. Bryson's Lab: Lenal (Laconix), Mil (Mylasi), and Psi Tophet. All of them are potential scan sites on the galaxy map. If you narrowed down the search by taking the renegade interrupts, your job becomes a bit easier. If not, two of those systems contain War Assets to offset the trouble.
+If you took the first renegade interrupt earlier, the candidates are reduced to Lenal and Psi Tophet. If you took both renegade interrupts, then it's revealed the signal originates from Psi Tophet.
+Travel to the planet 2181 Despoina in Psi Tophet, scan it, and land. This mission ends and the next mission begins upon landing.
+
+
+Mass Effect 3: Leviathan Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Citadel: Leviathan III
+
+Missions
+
+Despoina: Leviathan
+
+
+
+

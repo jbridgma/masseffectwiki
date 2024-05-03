@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+This article is about  the combat skill used by Nakmor Drack in Mass Effect: Andromeda. For other uses, see Rage (disambiguation).
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+This article or section is a stub. You can help Mass Effect Wiki by  expanding it. 
+Blood Rage is a Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Blood Rage
+
+
+
+Drack becomes a raging force of nature, wading into battle with increased melee damage, damage reduction, and health regeneration.
+
+Melee Damage Bonus: 33%
+Damage Resistance: 50
+Regeneration Delay Reduction: 100%
+Duration (s): 15
+Recharge Speed (s): 30
+Drack still loses health and shields, but cannot die during Blood Rage.
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++30% Recharge Speed
+
+
+3
+
+Armor Smasher
+
+
+
+-
+
+Damage vs. Armor: 20%
+
+
+4
+
+Fury
+
+
+
+-
+
+Movement Speed: 20%
++33% Melee Damage
+
+
+
+4
+
+Regeneration
+
+
+
+Drack regenerates health faster while in Blood Rage.
+
+Health Regeneration Rate: 150%
+
+
+5
+
+Brutality
+
+
+
+Drack's rage becomes even more powerful, giving him increased melee damage and damage reduction.
+
++33% Melee Damage
++25% Damage Resistance While Enraged
+
+
+
+5
+
+Inspirational
+
+
+
+Drack's rage inspires nearby allies to greater combat prowess themselves.
+
+Ally Damage Resistance: 10
+Ally Health Regeneration Rate: 20%
+Ally Melee Damage: 33%
+
+
+
+6
+
+Triggered Rage†
+
+
+
+When Drack is near death and has not done so recently, he ignores any recharge times and enters Blood Rage automatically.
+
+Health Threshold: 20%
+Recharge Speed: 60
+
+
+
+6
+
+Unyielding Rage†
+
+
+
+Each time Drack defeats an enemy while raging, his fury lasts even longer.
+
+Duration Bonus per Kill: 5
+
+Note: †Rank 6 is unavailable to Drack until his loyalty mission Nakmor Drack: A Future for our People is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Drack's enormous health and shield pools already make him extremely difficult to defeat, but with Blood Rage active and specced for Brutality and Unyielding Rage, he becomes practically immortal. This synergizes well with the tier 6 evolution Unstoppable of Grizzled Veteran that ensures that, in the unlikely event that something does manage to incapacitate Drack, he'll just get up again on his own after a short while, usually right in the middle of a bunch of enemies in perfect shotgun/hammer range.
+
+Availability[]
+Single-player: Nakmor Drack - Starting Combat Skill
+Multiplayer: N/A
+
+
+

@@ -1,0 +1,267 @@
+
+
+
+The following are the messages relayed by Forward Stations on Elaaden.
+
+Terminals[]
+
+
+
+Additional Data: "New Tuchanka"
+—Forward Station Network expanded—
+Conflict: ongoing geological mismatch
+Expanding data collation to Nexus records
+
+—KNOWN—
+(Keywords: "Elaaden," "Habitat 2")
+
+To: Director Jarun Tann
+From: Spec. Todd Quint
+
+It was Trudy Jones. She's the one who forwarded all the data about Habitat 2 to Morda. The logs don't lie.
+
+She's no longer with us, in case you were wondering. Injured in the uprising. Not involved, just wrong place, wrong time. Stray shot to shoulder, a couple broken ribs and a concussion from a fall. Nothing lethal, all fixable. But she's dead. She rigged her analgesic delivery system to deliver a massive overdose. The last thing she did was send Morda everything she had on the planet.
+
+Sad. Sounds like she gave up, but knew it didn't mean everyone else had to. If I had to bet on anyone to survive, it'd be the krogan.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Forward Station Protocol Established (Elaaden)
+—Contact—
+Preset Viability Metrics: MISMATCH
+
+Habitat 2 does not match Initiative preflight profiles. Advance predictives are no longer applicable. Parameters require 83% rework.
+
+—KNOWN—
+Habitat 2: Elaaden
+Discovered: Attr. Trudy Jones (AI Exo-Geology)
+Orbital data onboard
+Spectrographic profiles: WORKING…
+Geo-Sounding: WORKING…
+ALERT: Extreme weather conditions; outpost deployment not recommended
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Multiple-Deployment Coordination
+—Forward Station Network established—
+Meteorological analysis initiated
+Generating surface heat map
+
+—KNOWN—
+Planet Name: ELAADEN (Origin: Angaran)
+Planet type: Moon, natural satellite of PLANETNAMEHERE (gas giant)
+Climate: Hot arid
+Extreme heat detected.
+Tidal gravitational effects detected.
+Humidity: 5%
+Surface H2O: non-existent.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Nexus Live-Link Engaged
+—Forward Station/Nexus Live-Link—
+Conflict: ongoing geological mismatch
+Nexus dispatch found
+Displaying…
+
+—KNOWN—
+From: Foster Addison, Director of Colonial Affairs
+To: Pathfinder Team
+
+Re: Habitat 2
+
+I've examined the orbital scans. The scientists believe that while it would theorectically [sic] be possible to establish long-term operations, given the current planetary conditions, the costs of keeping them running would be astronomical. With the "wealth of resources" the planet has, we might just break eve. If we're lucky.
+
+Focus on the Remnant. If you can replicate your success on Eos, and if we can secure the cooperation of the krogan, we might stand a chance here.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Nexus Records Coordination
+—Forward Station Network expanded—
+Conflict: ongoing geological mismatch
+Expanding data collation to Nexus records
+
+—KNOWN—
+(Keywords: "Elaaden," "Habitat 2")
+
+12/22/2182
+Memo: Andromeda Initiative Exo-Geology
+
+In the new year, we will be joined full-time by former Valkenberg Geotech lead engineer Gertrude "Trudy" Jones. Some of you may already know Ms Jones from her stint with us this summer, during which she discovered Habitat 2. Ms. Jones will be heading a new team, which will focus solely on the study of the surface conditions of selected golden world "Habitats," in order to facilitate the development of our modular outpost prefabs.
+
+Happy Holidays! Have a good break, you guys!
+
+Ayako
+
+P.S.: Peppermint bark at my station. While it lasts!
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Signal Detected
+—Forward Station Network expanded—
+Scanning…
+Signal detected
+
+—KNOWN—
+Signal designation: Remnant
+Signal source: Unknown
+Translating…
+Translating…
+Translation: 4% accuracy.
+
+Displaying:
+Destruction arrival [TRANSLATION NOT FOUND].
+End [TRANSLATION NOT FOUND] for explore.
+Bucket toucan.
+
+Scourge interference detected.
+Data corruption suspected.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Synergy Achieved
+—Elaaden Sensor Coverage Complete—
+Geological and atmospheric profile sync
+Recording…
+Recording…
+Geography update.
+
+—KNOWN—
+Establishments within range: New Tuchanka (krogan), "the Paradise" (angaran)
+Hostile factions: Nexus exiles, Remnant constructs
+Remnant signatures: monoliths, aircraft
+
+Synchronicity achieved
+Elaaden sensor coverage complete
+Viability index updated
+
+—MONITORING—
+
+
+
+
+
+
+
+
+
+Triangulation Achieved
+—Forward Station Network expanded—
+Conflict: Ongoing geological mismatch
+Expanding data collation to Initiative Archive
+
+—KNOWN—
+From: Initiative Department of Recruitment
+-Play archive:
+MUSIC: Powerful
+Our exo-geologists and surveyors have found Habitat 2 to contain an incredible wealth of mineral resources—the building blocks of a new civilization that will span the stars. We will forge reality out of dreams. Stake a claim. Make your mark. Industry. Production. Commerce.
+IMAGE: Blueprints
+IMAGE: A space station in construction
+IMAGE: Computer circuitry
+IMAGE: Industrial landscape
+IMAGE: A handshake
+-Archive ends
+Updating planetary profile
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Unencypted [sic] Transmission
+—Forward Station Network expanded—
+Scanning…
+Live transmission found
+
+—KNOWN—
+New Report: Nakmor Scout Rukka
+
+Fighting at the "flophouse." Probably over water. Some of them are trying to find another source out in the desert. Not bad of an idea, but a human in the desert, exposed, is gonna need to consume more water to start with. So where's that leave them? Probably in a worse position.
+
+My guess is that most of them will be dead in a year. Then this entire planet's ours.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+

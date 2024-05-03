@@ -1,0 +1,88 @@
+
+
+
+
+
+Antigar
+
+Region
+Milky Way / Eagle Nebula / Strabo
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+4.0 AU
+
+
+Orbital Period
+8.0 Earth Years
+
+
+Keplerian Ratio
+1
+
+
+Radius
+24,193 km
+
+
+Day Length
+11.2 Earth Hours
+
+
+Satellites
+11
+
+
+Location: Milky Way / Eagle Nebula / Strabo System /  First planet
+
+Description[]
+Charted by a salarian mining expedition that went off course due to computer error, Antigar is a hydrogen and helium gas giant with 11 known moons and dusty rings.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+3,900
+
+
+Platinum
+
+Low
+
+3,500
+
+
+Iridium
+
+Low
+
+2,600
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

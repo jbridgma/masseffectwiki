@@ -1,0 +1,62 @@
+
+
+
+
+
+Aventen
+
+Region
+Milky Way / Apien Crest / Trebia
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.3 AU
+
+
+Orbital Period
+0.2 Earth Years
+
+
+Keplerian Ratio
+0.675
+
+
+Radius
+5,488 km
+
+
+Day Length
+19.1 Earth Hours
+
+
+Atm. Pressure
+3.01 atm
+
+
+Surface Temp
+454 °C 
+
+
+Surface Gravity
+0.7 g
+
+
+Mass
+0.514 Earth Masses
+
+
+Location: Milky Way / Apien Crest / Trebia System /  First planet
+
+
+Description[]
+Aventen is named for a tactician-philosopher whose treatise on leadership is known by every turian youth who pays attention in class. It is a small, hot rock planet surrounded by a haze of methane and helium. It was thoroughly mined for valuable minerals in the early days of the turian space age, and since then has had little to offer. Aventen's token spy satellites and defense drones proved no match for even a small Reaper presence, and best reports suggest they have been eliminated.
+
+
+
+

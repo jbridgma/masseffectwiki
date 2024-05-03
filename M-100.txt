@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+This article is about the heavy weapon in Mass Effect 2. For the augmentation in Mass Effect: Andromeda, see Grenade Launcher (augmentation).
+
+
+
+
+
+
+
+
+M-100 Grenade Launcher
+
+General Stats
+
+Type
+Heavy Weapon
+
+
+Location
+Prologue: Awakening
+
+
+Accuracy
+High
+
+
+Recoil
+Low
+
+
+Fire Mode
+Semi-Automatic
+
+
+Fire Rate
+100 RPM125 RPM
+
+
+Reload Time
+N/A
+
+
+Ammo Per Clip
+N/A
+
+
+
+Damage & Bonus Multipliers
+
+Base
+500
+
+
+Armor
+×1.25
+
+
+Shields
+×1.25
+
+
+Barrier
+×1.25
+
+
+
+Spare Ammo Capacity
+
+Default
+10
+
+
+Armor Pack
+10
+
+
+Upgraded
+11 - 19
+
+
+Both
+12 - 20
+
+
+Pickup Amount (Min - Max)
+6
+
+
+
+The M-100 Grenade Launcher is a heavy weapon in Mass Effect 2.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 Trivia
+5 See Also
+
+
+Description[]
+Rapid-fire grenade launcher favored by Blood Pack vorcha mercenaries. Capable of taking down multiple enemies with a single well-placed shot. Effective against armor, shields, and biotic barriers.
+
+Acquisition[]
+Miranda instructs you to pick up this weapon just before the lift during Prologue: Awakening.
+
+Player Notes[]
+Mechanics
+The Grenade Launcher is the first heavy weapon acquired (during the escape from Lazarus Station).
+The Grenade Launcher has a noticeably faster rate of fire when the trigger is repeatedly pressed as opposed to held down.
+The detonation area of a grenade is quite large if an enemy is hit directly, but for some reason the explosion is much smaller if a grenade detonates on terrain instead.
+The grenades the M-100 fires follow a straight line trajectory down the crosshair and do not arc with gravity making them fairly easy to aim.
+The grenades do not seek targets like the ML-77's rockets, but the hitbox of the projectile is quite large making targeting fairly forgiving.
+Aim assistance in Mass Effect 2, even at the lowest settings, can alter the trajectory of grenades when fired, causing them to fire off-center from the crosshair.
+M-100 grenades have a significant force component to their detonations. The explosion force will knock most light enemies down and instantly destroy husks.
+Somewhat uniquely, this force component can work through protection layers (barriers, shields, and armor) provided that the damage of the grenade was sufficient to totally eliminate said protection. Thus, even on Hardcore or Insanity difficulty where husks possess armor, a single grenade from the M-100 can still instantly kill them, and even a shielded enemy can be knocked down if the grenade damage was enough to kill the shield.
+Grenades that don't immediately destroy the protection layers of a target will still stagger the target briefly in most cases.
+The M-100 deals damage to Shepard and allies so caution should be used at close ranges.
+Strategies
+The Grenade Launcher remains useful throughout the game, possessing good damage, accuracy, capacity, rate of fire, area of effect, and "crowd control."
+The weapon is an excellent husk-killer and is also devastatingly effective in situations where a large number of enemies funnel through a choke point such as a doorway.
+Indirect fire techniques such as aiming at the ground or nearby terrain aren't very effective with the Grenade Launcher; the M-622 Avalanche or M-490 Blackstorm are better for this.
+Trivia[]
+It appears the M-100 had a Codex entry, but it was cut from the final game.
+A turian soldier in Mass Effect 3 can be seen firing what appears to be a M-100 at a Reaper Destroyer in a cutscene in Priority: Earth. The M-100 is not available for use as an in-game weapon, however.
+Although the weapon's description makes mention that the Blood Pack's vorcha troops utilize the M-100 as a favored weapon, no Blood Pack troops encountered by Commander Shepard's team are seen wielding the weapon.
+See Also[]
+Upgrade Guide
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+

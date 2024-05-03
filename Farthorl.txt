@@ -1,0 +1,63 @@
+
+
+
+
+
+Farthorl
+
+Region
+Milky Way / Styx Theta / Acheron
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.3175 AU
+
+
+Orbital Period
+0.2 Earth Years
+
+
+Keplerian Ratio
+0.8
+
+
+Radius
+6,506 km
+
+
+Day Length
+0.2 Earth Years
+
+
+Atm. Pressure
+0.69 atm
+
+
+Surface Temp
+239 °C 
+
+
+Surface Gravity
+0.8 g
+
+
+Mass
+0.826 Earth Masses
+
+
+Location: Milky Way / Styx Theta / Acheron System /  First planet
+
+Prerequisite: Noveria: Geth Interest (Mass Effect)
+
+Description[]
+A modest terrestrial planet, Farthorl has an atmosphere of carbon dioxide and chlorine. The crust is mainly composed of sulfur with deposits of nickel. The terrain is extremely rough – a patchwork of craggy, overlapping craters dating back to the formation of the solar system. Farthorl is tidally locked to the star Acheron. The day side has never been fully mapped.
+
+
+
+

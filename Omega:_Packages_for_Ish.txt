@@ -1,0 +1,56 @@
+
+
+
+Start and end a trip to 3/4 of the galaxy's hubs hereOne package outside a shop on the CitadelOne package inside a bar on Illium1/3A salarian businessman named Ish needs packages picked up. The packages are near Marab's shop on the Citadel and in Eternity on Illium.
+Acquisition[]
+Prerequisite: Horizon (mission)
+
+This assignment will be available upon completion of the Stop the Collectors mission on Horizon. 
+Upon entering Omega, you can find two salarians on the right before the entrance to the Market/Apartment. Talking to Ish will allow you to take on an assignment that involves traveling to the Citadel and Illium to find two packages to bring back to him.
+
+Walkthrough[]
+
+Note: Having Jacob and/or Miranda in the party while dealing with Ish will reveal additional backstories for the characters; see Jacob and Miranda's unique dialogue pages for additional details. They have worked together on a mission before although Ish was a coward and a liar. Additionally, if you have played and completed Mass Effect Galaxy, a few extra lines of dialogue can be heard during conversations with Ish. Both Jacob and Miranda must be in the party for the extra dialogue to be initiated, however.
+The packages in question present as interactable datapads. The Citadel package is in front of Marab's shop, Saronis Applications, on Zakera Level 26. The Illium package is in Eternity across from the quarian and friendzoned turian sitting at the table.
+You only need to obtain one package; getting the other one is optional, but does open up an additional possible reward. After finding one of the packages, Shepard learns about the clandestine dealings of one of Aria's men: Anto. You now have two main options and lots of ways to do them, all with their own corresponding rewards and/or morality points. 
+If you bring the package to Anto you can:
+
+Give the package without quibbling for +5 Paragon points.
+Tell Anto to "Take care of Ish", in which case Shepard will simply suggest that Anto "clean up the mess" by killing Ish. Choosing this option will grant +5 Renegade points.
+Extort money from Anto for +40 (50) experience, +2250 credits, and +5 Renegade points.
+In all cases, no one will hear from Ish ever again if the package is handed over to Anto. 
+If you bring the package to Ish, you can either:
+
+Simply hand over the package for +40 (50) experience and +1125 credits.
+Convince Ish he's in over his head for +40 (50) experience, +3375 credits, and no morality points. Note:  If you choose this path, however, the mission will remain open in the journal afterward, unable to be completed.  In Legendary Edition some players report successful completion, others report the problem remains.
+After acquiring both of the packages, your options are the same, except for one: if you give the packages to Ish, you are awarded with +40 (50) experience, +4500 credits, and 5 Renegade points. Handing over one package will automatically cause Shepard to also hand over the other package.
+
+Packages[]
+Illium package
+
+
+
+
+To: Gallana L'mae
+RE: Shipping routes into the Terminus Systems
+
+Don't worry. Our contact is a batarian gentleman named Anto. He's one of Aria T'loak's flunkies, but we're keeping his palms well greased, and he should offer us safe passage through the Systems. As long as we stay beneath Aria's notice, we should be fine.
+
+
+Sincerely, Valeria
+
+
+Citadel package
+
+
+
+
+Subject: Anto Bek'tall
+
+
+Anto Bek'tall is a member of the criminal organization headed up by Aria T'loak, often considered the 'pirate queen' of Omega. While Aria's gang is mostly airtight, Anto has an eye toward outside work. Whether this is an exploitable hole, we?re [sic] not sure. This is Aria T'loak, after all.
+
+
+
+
+

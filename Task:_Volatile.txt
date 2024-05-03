@@ -1,0 +1,45 @@
+
+
+
+SAM has discovered a tracking device inside an explosive canister. The scavengers on Elaaden may be up to something.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Destroy the volatile canisters
+2.2 Follow the navpoint
+2.3 Destroy the explosive stockpile
+
+
+3 Rewards
+4 Enemies
+
+
+Acquisition[]
+SAM alerts Pathfinder Ryder about a volatile canister in a scavenger camp. Shooting the canister makes it explode and SAM detects that a tracking device was attached to it.
+
+Walkthrough[]
+Destroy the volatile canisters[]
+Finding and destroying additional canisters will make it possible for SAM to get a navpoint. Three other canisters are required.
+The canisters are spread randomly among the camps and crashed shuttles. Each canister will be marked with . If a camp doesn't have a canister, the camp might have one upon next visit. If a camp has a canister, SAM (or a squadmate) will comment on the presence of the canister.
+Once four canisters have been destroyed, SAM will indicate that the location has been found.
+
+Follow the navpoint[]
+Go to the navpointin the Paradise Sands region in the southwest and it leads to a structure  with Outlaws. This is the same location as Peebee: Reclaiming Poc. 
+
+There is a shuttle pad a distance away from the building with several Raiders standing next to the stockpile of marked canisters. The obvious and expedient move would be to shoot the explosive canisters and blow everything (including the shuttle) up in one go - the Raiders won't budge from the canisters anyway.
+Either way, approach the navpoint at the burning wreck.
+
+Destroy the explosive stockpile[]
+Approaching the navpoint causes the mission to complete.
+
+Rewards[]
++530 XP
++73 AVP 
++5% Elaaden viability
+Enemies[]
+Raider
+
+
+

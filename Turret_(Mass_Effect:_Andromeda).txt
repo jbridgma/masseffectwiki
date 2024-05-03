@@ -1,0 +1,155 @@
+
+
+
+
+
+Turret
+
+ 
+
+
+
+
+
+
+							Kett
+							
+						
+
+
+
+							Outlaw
+							
+						
+
+
+
+							Remnant
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faction
+KettOutlawsRemnant
+
+
+Weapons / Attacks
+Charged shot
+
+
+Abilities
+–
+
+
+Health
+High
+
+
+Shields
+–
+
+
+Weak Points
+None
+
+
+Turrets are stationary units deployed by kett, Outlaws, and Remnant. These are typically found defending facilities vital to the pertinent faction.
+
+Scanner Information[]
+KettOutlawRemnant
+Kett Turret
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+
+Kett construct that is capable of firing at long range.
+Outlaw Turret
+
+
+DATA:
+Classification: Enemy
+Origin: Milky Way
+ANALYSIS:
+
+Mounted gun turret capable of 360-degree rotation and long-range attacks.
+Remnant Turret
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+
+Remnant construct that is capable of firing blasts of plasma at long range.
+Capabilities[]
+Offensive
+Turrets fire charged shots that can stagger targets on impact from point-blank to long distances. They can rotate 360-degrees and swivel up and down to cover elevation differences. They will continue shooting until threats are removed or the turret is destroyed. The projectiles fired look different per faction but all are essentially the same hard-hitting threats.
+
+Defensive
+Turrets have no defensive systems other than deadly heavy firepower and high health. Being immobile, however, they are immune to physics-based attacks: they can't be "yanked off" their spots.
+
+Tactics[]
+Turrets operate the same regardless of faction, and thus everything below is valid for any type of turret.
+While these can be tough foes, turrets are stationary, swivel and charge up slowly, can only fire in a straight line of sight, and are only able to attack one target at a time. Mobility is key, especially in close- to mid-range.
+Hiding behind cover is recommended while taking them out from a distance.
+Keep the squad spread out to give three potential targets instead of a grouped single target for the turret to fire at.
+In some instances it is possible to hack turrets using a console to turn them "friendly" to attack enemies. Most instances of this hacking are Remnant turrets but other types can be hacked. Friendly turrets will attack enemies just as relentlessly as they would attack the squad.
+While turrets can't be ragdolled by biotics, they can be primed for combo detonations.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

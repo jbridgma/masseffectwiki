@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut dialogues related to the Pinnacle Station downloadable content. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 Invitation to Pinnacle Station on the Normandy
+2 First Conversation with Ahern
+3 First conversation with Ochren
+4 Conversation with Ochren on Beating Scenarios
+5 Conversation with Ochren on Beating His Special Scenario
+6 First Conversation with Unknown Person
+7 Conversation with Unknown Person on Unlocking Challenge
+8 Conversation with Unknown Person on Unlocking Capture and Hold Challenge
+9 Conversation with Unknown Person on Completing Scenario
+10 Conversation with Unknown Person on Unlocking Convoy Challenge
+11 Conversation with Admirer
+12 Conversation with Vidinos on Unlocking Road Rage Scenario
+13 Conversation with Vidinos on Completing Road Rage Scenario
+14 Conversation with Ahern on Unlocking Special Scenario
+15 Conversation with Ahern on Completing Special Scenario
+
+
+Invitation to Pinnacle Station on the Normandy[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181783-181833)
+Characters present:
+
+Jeff "Joker" Moreau
+Datus Prosec
+Commander Shepard
+
+Joker: Commander Shepard. Incoming transmission, heavy encryption, Priority Alpha.
+Datus Prosec: Commander Shepard, this is Datus Prosec, with Spectre Command on the citadel. [sic]
+
+(Par) Nice to meet you (Neu) What's up? (Ren) Make it quick  Shepard: How can I help you, Prosec? Shepard: What can I do for you? Shepard: What do you want?
+Datus Prosec: Shepard, you have been approved for advanced spectre [sic] training. You may report to Blahopolis station [sic] for additional training at any time.
+
+(Par) It's an honor (Neu) Sounds interesting (Ren) Stow it  Shepard: I'll be sure to make use of that [sic] Shepard: That sounds like it might be useful [sic] Shepard: I don't need any more training [sic]
+Datus Prosec: Upon your arrival at InsertNameHere [sic] Station, report to Gunnery Sargent [sic] Tadius Ahern, he'll be your main contact on the station. Spectre command out.
+(End of conversation)
+
+First Conversation with Ahern[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181783-181833)
+Characters present:
+
+Tadius Ahern
+Commander Shepard
+
+Tadius Ahern: Ah, Commander Shepard. I was wondering when you'd be gracing my station with your presence. Welcome to Meditatus Station. The majority of your training will take place in the Combat Simulator. We'll see how you fare against the other competitors.
+
+(Par) Thanks for having me (Neu) Thanks (Ren) Don't waste my time (Inv) A simulator?  Shepard: It's an honor to be here, Gunnery Sargent [sic] Shepard:"I suppose you will [sic] Shepard: I'll be fine [sic] Shepard: Tell me about the simulator [sic]Tadius Ahern: Shepard, it's my job to ensure that each operatives [sic] recieves [sic] the correct training and makes progress towards meeting the goals of the council. [sic] If you need to know how the computers work, go to talk [sic] to Tech Specialist Ochren.
+(Par) Sounds good (Neu) Thanks (Ren) Don't waste my time  Shepard: I hope to make the most of it [sic] Shepard: I'll be fine [sic] Shepard: This better be worth it [sic]
+Tadius Ahern: Fantastic. Is there anything else you need?
+
+(Neu) I've gotta go (Inv) Investigate  Shepard: I'll be going, then.(End of conversation)
+(Inv) Other competitors? (Inv) Simulator location? (Inv) Your mood  Shepard: Who will I be competing against?Tadius Ahern: The best of the best. The Top Gun competition gives operatives a chance to put their money where their mouth is, wherever that happens to be. Scores in the combat simulator are tallied up, and the winners are there, plain as day.(Return to last choice) Shepard: Where do I go to use the simulator?Tadius Ahern: The staging area's down that hall. Tech Ochren will be running the show from there. Shepard: You seem a little bitter. Is the station that bad?Tadius Ahern: This facility is magnificent Shepard. [sic] It has all the technological marvels a commander needs to train the perfect soldier. But the damn Turians [sic] seem insistent on keeping it running below it's [sic] potential.
+(P Inv) Turians? (R Inv) Seems strange  Shepard: What problem do you have with the Turians? [sic]Tadius Ahern: "Shepard, I lost a lot of good friends in the contact war, and I had to waste a lot of perfectly good bullets getting the Turians [sic] to say they were sorry. Now I'm stuck on a station full of them trying to make them better soldiers. Teaching a Turian [sic] soldier to improvise on the battlefield is like teaching a Krogan [sic] to be pretty.(Return to last choice) Shepard: Why would you accept a position on a Turian facility if you hate them so much?Tadius Ahern: Well apparently whoever was picking up the bodies after the war noticed that a lot of Turian [sic] asses had the same bootprint on them. When the council [sic] asked Alliance brass for a combat instructor, someone decided I was the best choice.(Return to last choice)
+First conversation with Ochren[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181929-182039)
+Characters present:
+
+Alud Ochren
+Commander Shepard
+
+Alud Ochren: Sigh ... Tech specialist Alud Ochren. I'm the lead programmer on the combat simulator, and I keep most of the computer systems on this rig running. I'm also the one people come crying to when they forget their login password.
+
+(Par) Let's get it on (Neu) I should go (Inv) [Investigate]  Shepard: I'd like to try the simulator [sic]Alud Ochren: Of course you would... which category?
+(Neu) No thanks (Inv) Time Attack (Inv) Capture and Hold (Inv) Survival (Inv) New York Minute (Inv) Convoy  Shepard: I'm going to hold off on the simulator for now.Alud Ochren: Make up your mind, Shepard.(Return to last choice) Shepard: Time Attack [sic]Alud Ochren: Aaaand ... scenario?
+(Neu) No thanks (P Inv) X (P Inv) Y (P Inv) Z  Shepard: I'm going to hold off on the simulator for now.Alud Ochren: Make up your mind, Shepard.(Return to first choice) Shepard: Scenario X [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Y [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Z [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Cap and Hold [sic]Alud Ochren: Aaaand ... scenario?
+(Neu) No thanks (P Inv) X (P Inv) Y (P Inv) Z  Shepard: I'm going to hold off on the simulator for now.Alud Ochren: Make up your mind, Shepard.(Return to first choice) Shepard: Scenario X [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Y [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Z [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Survival [sic]Alud Ochren: Aaaand ... scenario?
+(Neu) No thanks (P Inv) X (P Inv) Y (P Inv) Z  Shepard: I'm going to hold off on the simulator for now.Alud Ochren: Make up your mind, Shepard.(Return to first choice) Shepard: Scenario X [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Y [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Z [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: New York Minute [sic]Alud Ochren: Aaaand ... scenario?
+(Neu) No thanks (P Inv) X (P Inv) Y (P Inv) Z  Shepard: I'm going to hold off on the simulator for now.Alud Ochren: Make up your mind, Shepard.(Return to first choice) Shepard: Scenario X [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Y [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Z [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Convoy [sic]Alud Ochren: Aaaand ... scenario?
+(Neu) No thanks (P Inv) X (P Inv) Y (P Inv) Z  Shepard: I'm going to hold off on the simulator for now.Alud Ochren: Make up your mind, Shepard.(Return to first choice) Shepard: Scenario X [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Y [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: Scenario Z [sic]Alud Ochren: Fine [sic](End of conversation) Shepard: I should get going [sic]Alud Ochren: Great. Were you planning on actually going into the simulator at some point, Commander? Most people find they get the most out of the experience that way.(End of conversation)(Re-initiating conversation)Alud Ochren: What do you need?(Return to last choice)
+(Inv) Your mood (Inv) The simulator (Inv) Objectives  Shepard: What's with the attitude?Alud Ochren: I'm a technical genius on a station full of soldiers who only respect battlefield prowess. It's more than a little frustrating.
+(Par) You do good work (Neu) Chin up (Ren) wah, wah, wah  Alud Ochren: The work you do helps these people do their jobs. Helps them help other people.Alud Ochren: It's just that it would be nice to get credit for it once in a while.(Return to over-arching choice) Shepard Maybe someday they'll thank you [sic]Alud Ochren: I suppose so [sic](Return to over-arching choice) Shepard: It must be tough for you, being the only whiner.Alud Ochren: I don't care whether people think I'm tough.(Return to over-arching choice) Shepard: So how does this simulator work?Alud Ochren: Combination of holographic images and kinetic barriers. Holographic images help you see the objects, and the kinetic barriers keep you from walking through them.
+(P Inv) Entirely holographic?  Shepard: And I assume that the enemies are holographic as well?Alud Ochren: No, those are real guys. We train our operatives in a simulator by having them kill real, actual people.
+(P Inv) Ok, then (R Inv) You disgust me  Shepard: So... that's a "no". Shepard: Very funny, smartass.
+Alud Ochren: They're simulated. But I hear the kinetic slugs hurt just the same.(Return to over-arching choice) Shepard: What are the objectives in the simulator?Alud Ochren: Well, that depends on the category of the scenario.
+(Neu) I'm done (Inv) Time attack? (Inv) Capture and Hold? (Inv) Convoy? (Inv) New York Minute? (Inv) Survival?  Shepard: I.. think I'm set on the objectives for now.(Return to over-arching choice) Shepard: What are the objectives in Time Attack Mode?Alud Ochren: sooo ... [sic] In time attack mode, the operative and his or her squad must defeat all enemies as quickly as possible. The operative will be scored based on time taken to complete the scenario.(Return to last choice) Shepard: What are the objectives in Capture and Hold Mode?Alud Ochren: uhhh ... [sic] In Capture and Hold mode, the operative and his or her squad must capture all designated control points in as little time as possible. The operative will be scored based on time taken to complete the scenario.(Return to last choice) Shepard: What are the objectives in Convoy Mode?Alud Ochren: uhhh ... [sic] In Convoy mode, the operative and his or her squad must reach as many checkpoints as possible without taking any casualties. All members of a squad must pass through a checkpoint for the checkpoint to be counted. The scenario will be terminated upon the loss of any squad member. The operative will be scored based on the number of checkpoints reached.(Return to last choice) Shepard: What are the objectives in New York Minute Mode?Alud Ochren: sigh ... [sic] In New York Minute mode, the operative and his or her squad must defeat as many enemies as possible before the countdown timer reaches zero. Additional time will be awarded for every enemy defeated. The operative will be scored based on the number of enemies defeated.(Return to last choice) Shepard: What are the objectives in Survival Mode?Alud Ochren: uhhh ... [sic] In Survival mode, the operative must fend off waves of enemies for as long as possible. The scenario will be terminated upon the loss of the squad leader. The operative will be scored based on the length of the mission.(Return to last choice)
+Conversation with Ochren on Beating Scenarios[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181900-181930)
+Characters present:
+
+Alud Ochren
+Commander Shepard
+
+Alud Ochren: Well, that's ... never happened before. These scenarios aren't supposed to be that beatable.
+
+(Par) Need help? (Neu) Ain't no thing (Ren) I'm used to it  Shepard: I guess they need to be tuned [sic] Shepard: Should I be sorry? Shepard: I'm very good [sic]
+Alud Ochren: Ahern isn't going to like this. He's going to make me fix it. I hope you're happy, Shepard.
+
+(Par) I can help! (Neu) Not really (Ren) I was born happy  Shepard: I'd be happy to help you out [sic] Shepard: Sorry to hear that [sic] Shepard: You should have done your job the first time [sic]
+Alud Ochren: Shepard, I need to get back to work. I have a scenario in beta that should whip the pants off anyone, including a SpecTRe. [sic] Go play with that and get out of my horns.
+
+(Par) Not now (P Inv) My pleasure (Inv) Let's try it (R Inv) See you soon  Shepard: Not now [sic]Olud Ochren: Fine, just go away then. Shepard: Glad to try it out [sic]Olud Ochren: Good ... great. Go do whatever it is you guys do and tell me when you're ready. Shepard: Set it up [sic]Olud Ochren: Good ... great. Go do whatever it is you guys do and tell me when you're ready. Shepard: I'll be back after I beat it [sic]Olud Ochren: Good ... great. Go do whatever it is you guys do and tell me when you're ready.
+(End of conversation)
+
+Conversation with Ochren on Beating His Special Scenario[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181900-181930)
+Characters present:
+
+Alud Ochren
+Commander Shepard
+
+Alud Ochren: You beat it? You seriously did that? Is your purpose in life to make more work for me? Please, just go and let me deal with this.
+
+(Par) I'm just that good (Neu) I'm out of here (Ren) Your AI is weak  Shepard: Hey, not my fault [sic] Shepard: Fine, I'll leave [sic] Shepard: Next time, try harder [sic]
+Alud Ochren: Ugh. This is going to take hours to fix.
+(End of conversation)
+
+First Conversation with Unknown Person[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (182092-182098)
+Characters present:
+
+Commander Shepard
+Unknown character
+
+Unknown character: "Oh ... Commander Shepard ... [sic] I didn't realize that was your squad down there."
+
+(Par) We barely made it (Neu) This is how I do (Ren) King me, Queen  Shepard: We managed to edge past the previous record [sic] Shepard: Yeah, we beat the record [sic] Shepard: Yeah, we destroyed the old record [sic]
+Unknown character: Oh ... [sic] is that so? I hadn't noticed. That's very good for you Shepard. You must be very proud. Now if you'll excuse me I have further training to attend to.
+(End of conversation)
+
+Conversation with Unknown Person on Unlocking Challenge[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (182100-182108)
+Characters present:
+
+Commander Shepard
+Unknown character
+
+Unknown character: You destroyed that challenge. You wasted that scenario.
+
+(Par) Aw, shucks (Neu) True story (Ren) I'm big-time  Shepard: Thank you [sic] Shepard: I do my best [sic] Shepard: I am very good [sic]
+Unknown character: If you liked that, you *need* [sic] to try my challenge. Ochren built it to fit me, so it's *intense*. [sic]
+(End of conversation)
+
+Conversation with Unknown Person on Unlocking Capture and Hold Challenge[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (182056-182087)
+Characters present:
+
+Commander Shepard
+Unknown character
+
+Unknown character: Commander, I saw your squad has achieved quite a bit in the Capture and Hold category. That's quite unusual for a human.
+
+(Par) Nothing but hard work (Neu) Oh, you can read? (Ren) We are unstoppable  Shepard: Yeah, we're working hard [sic] Shepard: That's what the numbers say [sic] Shepard: We've been mopping up [sic]
+Unknown character: Yes, I suppose so. It's quite an accomplishment, especially for the first human spectre. [sic]
+
+(Par) I have to be the best (Neu) I sweat action (Ren) The universe is next  Shepard: There's a lot of pressure. The eyes of the galaxy are on me. Shepard: It's taken a lot of work [sic] Shepard: It's about time the galaxy saw what we can do.
+Unknown character: It will do the humans good to get some of the attention they seem to so desperately crave. Unfortunately, my squad's missions are all covert, so even the most important ones go unnoticed. Ochren's actually been asked to code up a scenrio [sic] based on one of our operations. You should try it Shepard, I'd be curious to see if you can complete the mission as efficiently as we did.
+
+(Neu) I've gotta go (Inv) Capture and Hold  Shepard: I should be going [sic]Unknown character: Very well, Commander. Shepard: I'd like to try your Capture and Hold scenario [sic]Unknown character: Very well, I shall inform tech Ochren that someone shall be participating in it.
+(End of conversation)
+
+Conversation with Unknown Person on Completing Scenario[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (182110-182118)
+Characters present:
+
+Commander Shepard
+Unknown character
+
+Unknown character: THAT WAS AWESOME! [sic] You are hardcore, Shepard! Hardcore!
+
+(Par) We're all winners, here (Neu) Appreciate it (Ren) Don't touch me, I'm dynamite  Shepard: Not so bad, yourself [sic] Shepard: Thanks for the training [sic] Shepard: Tone down the enthusiasm. Now.
+Unknown character: We gotta do this again sometime!
+(End of conversation)
+
+Conversation with Unknown Person on Unlocking Convoy Challenge[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (182120-182148)
+Characters present:
+
+Commander Shepard
+Unknown character
+
+Unknown character: Commander Shepard, I saw your work in there. I'm impressed.
+
+(Par) Glad to hear it (Neu) I'm just one man (Ren) We're all out of gum  Shepard: Thank you, sir [sic] Shepard: We do what we can [sic] Shepard: We came to kick ass [sic]
+Unknown character: I've seen my share of hotshots come through here. Most of them with big egos. But ... [sic] as they say, the bigger they are, the harder they fall.
+
+(Par) I get lucky (Neu) My guns are hot (Ren) My guns are huge  Shepard: I try to let my actions do the talking [sic] Shepard: Some people overcompensate [sic] Shepard: They didn't have what it takes [sic]
+Unknown character: Very true. Listen, Shepard. They recently removed a scenario from the competition. It seems there were some concerns that it was unreasonably difficult. My team was the only one to finish it. I'm curious to see how your squad would fare. Let me know if you're interested and I'll pull some strings.
+
+(Neu) I've gotta go (Inv) Convoy  Shepard: I have to go [sic]Unknown character: Keep in mind what I said, Shepard. Shepard: I'd like to try your convoy scenario [sic]Unknown character: Excellent, I'll make sure Ochren knows you might want to try it.
+(End of conversation)
+
+Conversation with Admirer[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (182151-182159)
+Characters present:
+
+Commander Shepard
+Unknown character
+
+Unknown character: HELLO! [sic] Well done, Shepard. You've got quite a bit going for you. It's good to know you're protecting the galaxy.
+
+(Par) It means a lot, sir (Neu) Appreciate that (Ren) Yes, it is good to know  Shepard: I won't let you down. Shepard: Thank you, sir. Shepard: I'm not doing this for you.
+Unknown character: Well then, Shepard, I wish you luck with the rest of your training.
+(End of conversation)
+
+Conversation with Vidinos on Unlocking Road Rage Scenario[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181865-181878)
+Characters present:
+
+Commander Shepard
+Vidinos
+
+Vidinos: Hey Shepard, don't think that having your name on that scoreboard means that you're the best in the Road Rage category.
+
+(Par) I disagree (Neu) Are you dense? (Ren) Tough talk  Shepard: I don't need to be the best. Just being invited here was honor enough [sic] Shepard: My name's at the top. That's exactly what it means [sic] Shepard: I don't need a scoreboard to know that [sic]
+Vidinos: The council [sic] may have thought it was a cute little stunt to let you into the Spectres. But on my station, I promise you, we earn every honor we're given.
+
+(Par) That's not fair (Neu) Spare me (Ren) Put up or shut up  Shepard: I don't consider myself an exception. Shepard: In case you weren't watching, I just earned mine. Shepard: Then perhaps this isn't your station anymore [sic]
+Vidinos: None of those scenarios are even tough. You should try a real scenario sometime. [sic] The one the other security guys and I train on.
+
+(Neu) Gotta run (Inv) Unlock Road Rage  Shepard: I should be going [sic]Vidinos: Yeah... you should. Shepard: I'd like to try your Road Rage scenario [sic]Vidinos: I'll go tell Ochren. I'm gonna enjoy watching you fail at this Shepard. [sic]
+(End of conversation)
+
+Conversation with Vidinos on Completing Road Rage Scenario[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181890-181898)
+Characters present:
+
+Commander Shepard
+Vidinos
+
+Vidinos: Ochren must have changed it. There was a bug in the scenario - the simulation is normally much harder. You got lucky, human.
+
+(Par) I guess so (Neu) Don't make me laugh (Ren) Get out of my face  Shepard: If you say so [sic] Shepard: That wasn't luck, that was skill [sic] Shepard: I don't have time for sore losers [sic]
+Vidinos: Get out of here. I don't want to see your smug grin anymore.(End of conversation)
+
+Conversation with Ahern on Unlocking Special Scenario[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181765-181780)
+Characters present:
+
+Tadius Ahern
+Commander Shepard
+
+Tadius Ahern: Impressive work in there, Shepard.
+
+(Par) I'm not sure (Neu) Oh, indeed (Ren) Your jumpsuit's unzipped  Shepard: I assume that's the best I'll get [sic] Shepard: Thank you, Gunnery Sargent [sic] Shepard: That was more than impressive [sic]
+Tadius Ahern: Shepard, there's a scenario that I don't get to recommend very often. It's incredibly difficult. No human has ever completed it. Several operatives have gotten seriously injured attempting it. I want you to give it a shot.
+
+(Neu) I don't think so (Inv) Sounds intriguing  Shepard: Goodbye [sic]Tadius Ahern: Back to work, Shepard. Shepard: I'd like to try the scenario you mentioned [sic]Tadius Ahern: Spectacular. I'll inform Ochren. It'll be available to at [sic] the simulator from now on.
+(End of conversation)
+
+Conversation with Ahern on Completing Special Scenario[]
+Note:  this dialogue is an early draft found within the TLK files. It has not been rewritten or corrected. The order of the conversation, or the position of the dialogue wheel options, may not be accurate.
+File source: Mass Effect\DLC\DLC_Vegas\CookedPC\Packages\Dialog\DLC_Vegas_GlobalTlk.upk (181835-181843)
+Characters present:
+
+Tadius Ahern
+Commander Shepard
+
+Tadius Ahern: "Well commander, it looks like you managed to make it through the impossible scenario without embarrassing the human race. I appreciate that."
+
+(Par) Glad to help (Neu) No problem (Ren) Shut it  Shepard: I'm glad I could help [sic] Shepard: All in a day's work [sic] Shepard: Don't let anyone ruin the work I've done here.
+Tadius Ahern: Congratulations Shepard. It would appear the council [sic] made a decent choice for the first human spectre. [sic] Well done, commander, [sic] good hunting.
+(End of conversation)
+
+
+
+

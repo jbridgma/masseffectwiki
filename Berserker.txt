@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+This article is about the enemy type in Mass Effect: Andromeda. For the enemy type in Mass Effect 2, see Krogan Berserker.
+
+
+
+Berserker
+
+ 
+
+
+
+
+
+
+
+Faction
+Outlaws
+
+
+Weapons / Attacks
+Ruzad Shotgun
+
+
+Abilities
+Flak CannonBerserker Charge
+
+
+Armor
+High
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Berserker is an outlaw unit. These krogan are the heavy muscle behind any pattern of ground assault in the Heleus Cluster, forcing adversaries out of cover from some distance before rushing in for the kill.
+Pathfinder Ryder can encounter these Berserkers wherever there are exiles about, such as on Elaaden or Kadara. Other Nexus forces can come across them on Firebases throughout the cluster if the first few waves of outlaw attackers are successfully repelled.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Krogan Berserker
+
+
+DATA:
+Classification: Enemy
+Origin: Milky Way
+ANALYSIS:
+A heavily armored attacker armed with a flak cannon at medium to short range. When enraged, it revels in hand-to-hand and head-to-head melee.
+
+
+Description[]
+Centuries ago in the Milky Way, krogan berserkers served a key role in the Krogan Rebellions as frontal assault forces that cleared enemy dreadnoughts and besieged fortified positions. The battle cry of the famed Ravank Berserker Company was so distinctive—and psychologically effective—that it was often used in propaganda broadcasts. 
+Today, krogan who have joined outlaw bands claim to have revived berserker tactics. Wielding powerful flak cannons, they bombard positions to intimidate enemies into breaking their line before closing in. When provoked, a berserker goes into the blood rage that gives them their name, losing higher brain functions and the ability to feel pain while unleashing devastating strikes that can snap an enemy's spine in one blow. 
+
+
+Capabilities[]
+Offensive
+They have access to Flak Cannon and the Ruzad. Berserkers also have two strong types of melee attack: swinging the shotgun like a club and the krogan headbutt.
+
+Defensive
+Berserkers are armored. They can regenerate some of that armor if it drops at a low enough threshold via Berserker Charge, incidentally also boosting their movement speed.
+
+Tactics[]
+Because they are armored, they are vulnerable to Incinerate, Flamethrower, and Incendiary Ammo.
+Berserkers are most dangerous at close range, so keeping a distance is advised. However, they spam their flak cannons whenever possible, so it's also advisable to take them out from a far enough distance, and quickly.
+In most firefights composed of multiple unit types these krogan rank among the priority targets to be defeated first due to their cover-flushing ability, durability, and strength. Taking them down can be done solo, although it's recommended to have everyone focusing fire: Ryder deals out the damage while a squadmate distracts them in singleplayer, or teammates gang up on the Berserker in multiplayer.
+When activating Berserker Charge, they will rear back their heads and roar, giving you a brief window of opportunity to land a few headshots while they're relatively stationary.
+As it's very easy to get stun-locked by repeated flak cannon strikes, be prepared to pull back rather than risk getting pinned in place by them.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

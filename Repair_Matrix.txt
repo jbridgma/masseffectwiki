@@ -1,0 +1,150 @@
+
+
+
+Repair Matrix is a grenade power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Repair Matrix[]
+Reinforce armor with metal-repelling Foucault currents to increase movement speed, decrease damage taken, and to regenerate shields for a short duration. When activated, the fallen caster instantly gets back on their feet. This can only occur once, and a limited number of charges can be carried for this power.
+
+Shields Restored Per Second: 75
+Duration: 8 sec
+Damage Taken: -15%
+Movement Speed Bonus: 10%
+
+
+Rank 2: Charge Capacity[]
+Increase the maximum number of charges that can be carried by 1. 
+
+
+Rank 3: Shields Restored[]
+Increase the amount of shields restored by 20%.
+
+Shields Restored Per Second: 90
+Duration: 8 sec
+Damage Taken: -15%
+Movement Speed Bonus: 10%
+
+
+Rank 4: Survivability/Shields Restored[]
+
+
+
+Survivability
+Decrease damage taken by 5%.Increase movement speed by 10%.
+
+Shields Restored Per Second: 90
+Duration: 8 sec
+Damage Taken: -20%
+Movement Speed Bonus: 20%
+
+
+Shields Restored
+Increase the amount of shields restored by 30%.
+
+Shields Restored Per Second: 112.50
+Duration: 8 sec
+Damage Taken: -15%
+Movement Speed Bonus: 10%
+
+
+
+Rank 5: Charge Capacity/Duration[]
+
+
+
+Charge Capacity
+Increase the maximum number of charges that can be carried by 1.
+
+
+
+Duration
+Increase duration by 50%.
+
+Shields Restored Per Second: 90 (Survivability), 112.50 (Shields Restored)
+Duration: 12 sec
+Damage Taken: -20% (Survivability), -15% (Shields Restored)
+Movement Speed Bonus: 20% (Survivability), 10% (Shields Restored)
+
+
+
+Rank 6: Lasting Repair Matrix/Enhanced Repair Matrix[]
+
+
+
+Lasting Repair Matrix
+When getting back up from a downed state, take 75% less damage for 5 seconds.
+
+
+
+Enhanced Repair Matrix
+Increase the amount of shields restored by 35%.Reduce damage taken by 10%.
+
+Shields Restored Per Second: 116.25 (Survivability), 138.75 (Shields Restored)
+Duration: 8 sec (Charge Capacity), 12 sec (Duration)
+Damage Taken: -30% (Survivability), -25% (Shields Restored)
+Movement Speed Bonus: 20% (Survivability), 10% (Shields Restored)
+
+
+
+Player Notes[]
+Grenade powers do not have a recharge time and, thus, can be used immediately at any time, provided grenades are available. Using the power consumes one grenade each time.
+If the player has multiple grenade powers, the grenade pool is shared between them.
+The number of charges is dictated by grenades carried, so equipping a gear that will increase grenade capacity will boost the number of charges for this power.
+This power does not revive the user if hit with a sync kill.
+Note that Repair Matrix does not work the same way as medi-gel.  For Repair Matrix to revive you, it has to be active before you are downed; you cannot activate it while you are down.
+Availability[]
+Single-player: N/A
+Multiplayer: Alliance Infiltration Unit Infiltrator
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

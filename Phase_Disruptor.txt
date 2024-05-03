@@ -1,0 +1,141 @@
+
+
+
+Phase Disruptor is a power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Phase Disruptor[]
+Focus the energy of your barrier to fire a high-powered beam at a target from afar.
+Firing the beam consumes 40% of max barrier.
+
+Damage: 400
+Radius: 4 m
+
+
+Rank 2: Radius[]
+Increase impact radius by 30%.
+
+Damage: 400
+Radius: 5.20 m
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Damage: 480
+Radius: 5.20 m
+
+
+Rank 4: Damage/Radius[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Damage: 600
+Radius: 5.20 m
+
+
+Radius
+Increase impact radius by 50%.
+
+Damage: 480
+Radius: 7.20 m
+
+
+
+Rank 5: Knockdown/Efficient Blast[]
+
+
+
+Knockdown
+Knock weaker enemies to the ground.
+
+
+
+Efficient Blast
+Reduce the amount of barriers drained by 50%.
+
+
+
+
+Rank 6: Armor Damage/Shield Damage[]
+
+
+
+Armor Damage
+Increase damage to armor by 75%.
+
+
+
+Shield Damage
+Increase damage to shields/barriers by 75%.
+
+
+
+
+Player Notes[]
+Phase Disruptor fires a blast with pinpoint accuracy, hitting where you are aiming with an explosion. A maximum of 3 enemy targets can be hit.
+This power functions somewhat similar to grenade powers in that it has no cooldown and is not disabled by Seeker Swarms. It is much like the Nova power in that it expends a portion of the personal barrier to fire, though unlike Nova, Phase Disruptor always inflicts full damage regardless of current barrier strength. It also cannot be used at all if barriers are below the required percentage.
+This power does not lock onto enemies like most biotic or tech powers. However, it does damage in an area around its impact point, making it useful for firing at the ground to disrupt small enemy groups.
+Charge makes a good complement to Phase Disruptor, especially with Charge's Rank 6 Barrier evolution. The player can fire Phase Disruptor once or twice to soften up a target, then Charge to recover barrier strength. Using Phase Disruptor is much less viable without a ready means to recover barriers. The reverse is also effective: Phase Disruptor can be used in between Charge attacks to buy a player time while the cooldown timer is running.
+The Knockdown evolution of Phase Disruptor is surprisingly strong (much stronger than a Concussive Shot) and is more than capable of sending a vulnerable enemy flying. Phase Disruptor will only knock down one enemy per use, even if you hit multiple enemies.
+Efficient Blast reduces the amount of barriers consumed by Phase Disruptor by 50%; as in instead of using 40% of your barrier, it will use 20% of your barrier per use. This also allows up to five uses without regenerating barriers, as opposed to only two.
+Despite being powered by barriers, Phase Disruptor is not considered a true biotic power. Consequently, it will not prime or detonate biotic combos, but can detonate cryo, fire, and tech explosions. It also does not have its damage buffed by any multiplayer gear item except for the Mental Focuser.
+Care should be used when using Phase Disruptor without being the host player because, as with Nova, Phase Disruptor does not impact immediately but rather about a second after pressing the button. This is further compounded by the fact that the Phase Disruptor blast itself will only affect and stagger enemies about one second from the time of impact.
+Availability[]
+Single-player: N/A
+Multiplayer: N7 Slayer Vanguard
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

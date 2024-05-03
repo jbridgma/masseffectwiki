@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Stealth Grid is a Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Stealth Grid
+
+
+
+Cloaks you and all allies within a radius. Grants everyone affected a brief damage bonus when they break cloaking to attack.
+
+Effect Radius (m): 4
+Duration (s): 8
+Power Cell Capacity: 2
+Gun Damage Bonus: 30%
+Power Damage Bonus: 30%
+Melee Damage Bonus: 50%
+
+
+
+2
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+3
+
+Duration
+
+
+
+-
+
++30% Duration
+
+
+4
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+4
+
+Radius
+
+
+
+-
+
++50% Effect Radius
+
+
+5
+
+Duration
+
+
+
+-
+
++30% Duration
+
+
+5
+
+Shield Grid
+
+
+
+Boosts shield regeneration for all cloaked targets.
+
+Shield Regeneration: 30%
+Regeneration Delay Reduction: 30%
+
+
+
+6
+
+Evasive Grid
+
+
+
+Increases movement speed while cloaked for all affected targets.
+
++30% Movement Speed While Cloaked
+
+
+6
+
+Ambush Grid
+
+
+
+Increases damage bonus for all cloaked targets.
+
++50% Gun Damage Bonus
++40% Power Damage Bonus
++50% Melee Damage Bonus
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Angara Avenger, Asari Huntress
+
+
+

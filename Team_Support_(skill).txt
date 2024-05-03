@@ -1,0 +1,175 @@
+
+
+
+Team Support is a passive Tech skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Improves defenses and support for the whole squad through kinetic barrier generator and hardsuit enhancements.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Shields
+
+    
+
+Improves maximum shields for the user and all squadmates with each skill point invested in the Tech Skill Group.
+
++2% Team Shields
+
+
+2
+
+Shield Recovery
+
+    
+
+Improves shield regeneration for the user and squadmates, as well as health recovery speed for tech constructs, with each skill point invested in the Tech Skill Group.
+
++2% Team Shield Delay Reduction
++2% Team Shield Regeneration
++2% Tech Construct Health Regeneration
+
+
+
+3
+
+Support
+
+    
+
+Improves shield restoration and defensive effects from powers with each skill point invested in the Tech Skill Group.
+
++2% Power Restoration & Defense
+
+
+4
+
+Squad Offense
+
+     
+
+Increases damage from tech constructs and squadmate powers.
+
++20% Squadmate Power Damage
++20% Tech Construct Damage
+
+
+
+4
+
+Support
+
+     
+
+Improves all shield restoration and defensive effects.
+
++20% Power Restoration & Defense
+
+
+5
+
+Team Recovery
+
+     
+
+Reduces shield regeneration delay and improves shield regeneration rate for the user and squadmates. Increases health recovery rate for tech constructs.
+
++15% Team Shield Delay Reduction
++15% Team Shield Regeneration
++15% Tech Construct Health Regeneration
+
+
+
+5
+
+Tactical Revive
+
+     
+
+Grants Damage Resistance during squadmate revival and for 5 sec afterwards. Restores shields to maximum upon reviving a squadmate. Both effects also apply to successfully revived squadmates.
+
+Damage Resistance During Revive: 120
+Damage Resistance after Revive: 60
+
+
+
+6
+
+Defense Grid
+
+     
+
+Increases Damage Resistance for each conscious squadmate tech construct within 8 m. The increase applies to the user and those squadmates and tech constructs.
+
+Damage Resistance per Ally: 6
+
+
+6
+
+Life Support
+
+     
+
+Improves health regeneration rate for the user and nearby squadmates and tech constructs for 3 sec after using a tech power.
+
+Health Regeneration Bonus: 200%
+Health Regeneration Cap: 50%
+
+
+Player Notes[]
+Mechanics
+Team Support is a passive skill that is always active.
+Strategies
+Rank 6 Defense Grid might not pair well with the Remnant VI skill; unless Ryder carefully manages it, the construct will not be within 8 meters most of the time.
+Rank 5 Team Recovery gives the Remnant VI skill a direct upgrade.
+Rank 6 Life Support is also a very powerful skill even if Ryder is using the Assault Turret (skill).
+Ryder and multiplayer characters with Rank 5 Tactical Revive will survive almost anything, resisting 60% of all damage.
+Rank 6 Life Support combines very well with the Bio-Converter augmentation that drains 5% of Health when the clip is empty to refill the Ryder's clip. This skill and augmentation combination is one of the most useful without a downside.
+Rank 6 Life Support synergizes very well with Auxiliary Systems Rank 6 Shield Feedback by allowing Ryder to periodically restore both Health and Shields simultaneously when using any Tech power.
+Rank 6 Life Support requires using a Tech Skill to activate the health regeneration. Prioritize Tech skill selection to a fast recharging skill or a skill that has a variable recharge time based upon usage to maximize the ability to regenerate health. Flamethrower is an excellent Tech skill to use as Ryder can shoot a tiny burst of flame and then stop without having a lengthy recharge time. Flamethrower's very short recharge time when fired in burst mode combined with the Bio-Converter's recharging ammo is an excellent pairing when Rank 6 Life Support is taken. Ryder can simply shoot until out of ammo, automatically spend the 5% health to refill ammo, and then flame to restore the lost health.
+Energy Drain is also a very effective skill to combine with Rank 6 Life Support. With the Rank 6 Team Drain of Energy Drain, Ryder can jury-rig something very similar to Cora Harper's Shield Boost skill to restore both health and shields.
+Availability[]
+Single-player: Pathfinder Ryder - Unlocked With 9 Skill Points in Tech Skills or Leader Training
+Multiplayer: N/A
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

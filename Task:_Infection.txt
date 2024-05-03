@@ -1,0 +1,41 @@
+
+
+
+You've discovered the body of a scavenger who was killed by a highly infectious disease. SAM recommends finding the source to prevent the disease from spreading. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Scan the scavenger's bodies
+2.2 Investigate the disease source
+2.3 Search for the radiation source
+2.4 Make the radioactive canisters inert
+
+
+3 Rewards
+
+
+Acquisition[]
+The task starts when Pathfinder Ryder has found and scanned a dead scavenger in a camp on Elaaden.
+
+Walkthrough[]
+Scan the scavenger's bodies[]
+The scavenger bodies in question are generated at random but can be found at scavenger outposts dotted all over the map. The bodies will be marked with . If a camp doesn't have a corpse, the camp might have a corpse the next time upon next visit. If a camp has a corpse, SAM (or a squadmate) will comment on the presence of the corpse. 
+Once three bodies are scanned, SAM will prompt Ryder that the death was caused by ingestion of contaminated meat and provide the navpointto the alleged source.
+
+Investigate the disease source[]
+The navpoint is located in the Sea of Ataraxia at the Northeastern Monolith.
+
+Search for the radiation source[]
+Some leaking canisters on the ground are the source of the radiation. There would be a few creatures roaming about  - Kaerkyns, Spitbugs and even Echidnas depending on map state -  and SAM detects the radiation off them.
+Make the radioactive canisters inert[]
+Interact with the canisters to render them inert. Because disabling them takes more than a few seconds, it is recommended to clear out the immediate area of wildlife before attempting to do so. When the canisters are disabled, the mission then ends.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Elaaden viability
+
+
+

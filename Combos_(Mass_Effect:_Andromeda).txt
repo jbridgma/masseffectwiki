@@ -1,0 +1,745 @@
+
+
+
+
+
+
+
+This article is about the combat technique in Mass Effect: Andromeda. For for combat technique in Mass Effect 3, see Power Combos.
+
+Combos are an advanced combat technique in Mass Effect: Andromeda.
+
+Contents
+
+1 Overview
+2 Combo Types
+3 Mechanics
+
+3.1 Skill Primers
+3.2 Consumable Primers
+3.3 Melee Weapon Primers
+3.4 Detonators
+
+
+4 Combo Table
+5 Combo Strategies
+
+
+Overview[]
+During combat in Mass Effect: Andromeda, Pathfinder Ryder and squadmates have the ability to set up enemies for devastating explosions like previous Mass Effect games. 
+When a combo is successfully executed, a conspicuous alert in the center of the screen will display that a combo has taken place.
+
+Combo Types[]
+There are four types of combo explosions: 
+
+- Sets every enemy in the area on fire.
+- Slows or freezes nearby enemies.
+- Creates a lingering electrical discharge that stuns enemies.
+- Detonates with extreme force, sending enemies flying.
+Mechanics[]
+Many Skills are primers, detonators, and some are even both. Some skills are primers and/or detonators right away while other skills require specific skill point purchases to become primers and/or detonators. Look for the primer and detonator icons when planning skill purchases.
+
+Some skills have Ranks that increase bonuses to combo explosions such as damage and/or radius. (Refer to each skill page for specifics on bonuses)
+Squadmates will automatically use skills to detonate primed enemies, as well as semi-randomly priming enemies.
+All successful combo detonations will prevent combos of the same type to be detonated on the target over the next 4 seconds.
+Skill Primers[]
+To set up a combo explosion, an enemy must first be "primed" with a skill. Skills that can prime enemies are marked with different icons on the Skills screen that indicate their primer type. 
+
+ Fire primers burn enemies and set them up for a Fire Combo.
+ Cryo primers chill or freeze enemies and set them up for a Cryo Combo.
+ Tech primers electrify enemies and set them up for a Tech Combo.
+ Biotic primers lift enemies into the air and set them up for a Biotic Combo.
+Consumable Primers[]
+Consumable ammo items are also able to prime enemies for combo explosions:
+
+ Cryo Ammo primes for a Cryo Combo.
+ Disruptor Ammo primes for a Tech Combo.
+ Incendiary Ammo primes for a Fire Combo.
+Note:  The enemy will have to be successfully shot with rounds until there is a clear visual display that the enemy has been primed (ice, electrical charges, flames).
+Note:  Care should be taken when using consumable ammo items to prime enemies. If Ryder primes an enemy with a Skill, and then shoots an enemy with consumable ammo before detonating the primed enemy, the Skill primer will be replaced with the ammo primer.
+
+Melee Weapon Primers[]
+Several Melee Weapons are able to prime enemies for combo explosions:
+
+ The Remnant Cryo-Gauntlet primes for a Cryo Combo.
+ The Kett Vakarsh primes for a Fire Combo.
+Note:  The enemy will have to be successfully hit with the melee weapon until there is a clear visual display that the enemy has been primed (ice, flames).
+Note:  The Electric Firaan is NOT able to prime enemies for an electric Tech Combo.
+
+Detonators[]
+Once an enemy is primed for a combo explosion, a detonator power is required to set off the combo explosion. Detonator skills are marked with an icon  on the Skills screen. Any detonator will set off a combo explosion. 
+Note:  Consumable ammo items WILL NOT detonate combo explosions.
+Note:  Melee weapons WILL NOT detonate combo explosions. The only exception to this rule is the Batarian Gauntlet available for the Batarian Scrapper and Batarian Vanguard in MP. The Batarian Gauntlet detonates combos with 70 % of their normal strength.
+
+Combo Table[]
+The table below lists all of the skill primers and detonators. 
+
+A check mark (✓) in any Primer column implies that the skill can prime that type of combo explosion.
+A check mark (✓) in the Detonator column implies that the skill is a detonator.
+Any skill with a check mark that has an asterisk (✓*) has issues or restrictions. (Refer to the specific skill article in question for details)
+Not all skills are available to every character:
+
+SP - Skill that Pathfinder Ryder can acquire in Single-player mode.
+SM - Skill of a squadmate in Single-player mode.
+MP - Skill in Multiplayer mode.
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+SP
+
+SM
+
+MP
+
+Notes
+
+
+Annihilation
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+-
+
+✓
+
+-
+
+
+Asari Commando
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+
+Assault Turret
+
+✓*
+
+✓*
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+Either Fire or Cryo
+
+
+Avenger Strike
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+✓
+
+✓
+
+-
+
+
+Barricade
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+-
+
+
+Bioelectric Focus
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+
+Charge
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+✓
+
+✓
+
+✓
+
+-
+
+
+Concussive Shot
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+✓
+
+✓
+
+✓
+
+-
+
+
+Cryo Beam
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+-
+
+
+Defense Drone
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+
+Energy Drain
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+✓
+
+✓
+
+✓
+
+-
+
+
+Flamethrower
+
+✓
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+-
+
+
+Fortify
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+
+Havoc Strike
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+
+Incinerate
+
+✓
+
+-
+
+-
+
+-
+
+✓
+
+✓
+
+✓
+
+✓
+
+-
+
+
+Krogan Warrior
+
+✓
+
+-
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+
+Lance
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+✓
+
+-
+
+✓
+
+-
+
+
+Nova
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+✓
+
+✓
+
+-
+
+
+Overload
+
+-
+
+-
+
+✓*
+
+-
+
+✓
+
+✓
+
+✓
+
+✓
+
+Only while stunned
+
+
+Power Armor
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+
+Pull
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+✓
+
+✓
+
+-
+
+
+Remnant VI
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+✓
+
+-
+
+✓
+
+-
+
+
+Resilience
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+
+Shockwave
+
+-
+
+-
+
+-
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+-
+
+
+Singularity
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+-
+
+✓
+
+-
+
+
+Snap Freeze
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+
+Throw
+
+-
+
+-
+
+-
+
+✓
+
+✓
+
+✓
+
+-
+
+✓
+
+-
+
+
+Trip Mine
+
+-
+
+-
+
+✓
+
+-
+
+✓
+
+✓
+
+-
+
+✓
+
+-
+
+
+Turian Smuggler
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+-
+
+✓
+
+-
+
+-
+
+
+Warp
+
+-
+
+-
+
+-
+
+✓
+
+✓
+
+-
+
+-
+
+✓
+
+-
+
+
+Combo Strategies[]
+Against shielded enemies, tech combos reign supreme; Liam, Jaal, and Vetra (if she has Disruptor Ammo) can provide sources/detonators for tech combos
+Against armored enemies, fire combos work well, with cryo working decently.  Drack is very effective with this, having Incinerate and possibly Incendiary Ammo, Cora can prime cryo combos if she has Cryo Ammo
+Against unprotected enemies, cryo combos freeze them solid and render them harmless, while biotic combos can send them across the horizon.  Cora is the only squadmate that can reliably prime cryo combos, while Peebee can prime biotic combos
+
+
+
+

@@ -1,0 +1,108 @@
+
+
+
+Cerberus' Project Firewalker has reported that a survey ship has gone missing near the planet Zeona. The ship was carrying researchers and a prototype planetside exploration vehicle when it went missing. Cerberus has asked that the vehicle be recovered and that any signs as to whereabouts of the researchers be reported.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+4 Unlock
+5 E-Mail
+6 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Firewalker Pack
+
+A message is sent to Shepard's private terminal from Project Firewalker: 
+
+
+
+
+From: Project Firewalker
+Commander,
+
+The MSV Rosalie, a survey ship with Cerberus connections, has gone missing. The survey team was field-testing a new prototype: the Hammerhead planet-side exploration rover. In addition, scientists Dr. Manuel Cayce and Dr. Robert O'Loy are aboard the MSV Rosalie and conducting research for us. We need you to find the ship, her survey team, and the doctors.
+
+
+The MSV Rosalie was last seen near planet Zeona (Elysta, Ismar Frontier).
+
+
+Head to Zeona in the Elysta system of the Ismar Frontier to start the assignment. Scanning the planet yields the following:
+
+
+“Scans have located the Hammerhead exploration vehicle and also show active data storage sites that may contain information as to the whereabouts of Drs. Cayce and O'Loy.”
+
+
+Preparation[]
+No regular (i.e. on foot) combat occurs anywhere in the Firewalker DLC, so no special preparation in terms of abilities or squadmates is needed. Even though you will be given the opportunity to choose squadmates, the choice makes no difference at all except for one scenery comment.
+The only real preparation item for the Firewalker series consists in when to undertake them. Since levelling up will not increase your ability to complete these assignments, that's a strong argument for completing them as soon as possible: Shepard at level 1 can still excel in the Hammerhead, and will receive additional funding and experience that can then be used in places where they do matter. On the other hand, the gameplay in these assignments diverges dramatically from the base game, and so you may want to dive into some regular missions first and use these for variety later on.
+
+Walkthrough[]
+
+Zeona is a volcanic world. When the shuttle lands, it drops Shepard and the squad off. Shepard looks down at some wreckage, near the lava. The shuttle takes off and flies away. 
+At the start, a recording from wreckage starts to play saying that they have run into the geth far too often. The person in the recording says he is moving to another site to stay with Dr. O’Loy as he felt it's safer there. Nearby is a cargo container computer which you can bypass. After bypassing it, the container opens and reveals the M-44 Hammerhead. Shepard and the squad climb inside and the vehicle activates.
+The next part of the assignment requires you to collect research data from yellow circles on the ground, all of which gives you credits. Take a few seconds to familiarize with the controls of the vehicle. Warning:  You may be on a hovercraft, but you are still vulnerable to lava. Do not park the Hammerhead over it on pain of death.
+The immediate surrounding area has 2 research packet sites, denoted by giant blue pillars in the distance that recede when you approach. Pick the first one up using the scanner, though you have to keep the vehicle in place as it will move about while collecting the research data. Once you are done, use the jets to jump up to the next research packet. Use the Hammerhead's main gun to blast through a hull wreckage. Use the jets to avoid the fire and enter the next area.
+
+
+The next area is very linear and has 5 research packet sites. Go to the left and grab the next packet. Then continue on to the left and up a rock ramp on the left side of the canyon. Use the jets to get up, then grab the packet. Then turn around and use the ramp you jumped over to get you up to the plateau. Scan the packet inside the ruined ship hull, then again turn around and head for the next blue cylinder-shaped light. Turn 90 degrees to the right from the direction you came from and head over the gaps, following the path and eventually the final light will come into view around a corner while you are hovering in the air. Grab the last packet then end the assignment.
+You are then treated to a cutscene where the Normandy SR-2 flies over and the Hammerhead jets into the cargo hold.
+
+Unlock[]
+This assignment unlocks three more others:
+
+Project Firewalker: Geth Incursion
+Lattesh, Chomos System, The Phoenix Massing
+Project Firewalker: Survey Sites Located
+Corang, Verr System, Hawking Eta
+Labeled as Firewalker: Artifact Collection on the Galaxy Map
+Project Firewalker: Volcano Station
+Karumto, Yakawa System, Caleston Rift
+Labeled as Firewalker: Recover Research Data on the Galaxy Map
+E-Mail[]
+You will receive the following e-mail after completing this assignment:
+
+
+
+
+Prototype recoveredFrom: Project Firewalker
+
+Good work on recovering the Hammerhead in one piece, Commander --- it will prove useful. Also, the data you recovered from the MSV Rosalie's emergency beacon contained significant intel on a few planets that Dr. Cayce and Dr. O'Loy investigated. EDI has added the locations to your galaxy map. We hope that one of them leads to the Prothean site.
+
+Despite Dr. Cayce's obvious instability, he’s proven to be a brilliant and dedicated scientist. If you salvage any more of his logs or journals, it would greatly help our efforts.
+
+
+We still don't know how the geth are tracking Dr. Cayce, so be careful.
+
+
+Mission Summary[]
+Found wreckage of freighter MSV Rosalie. M-44 Hammerhead acquired. Recovered research data.
+
+Experience reward: 125 (156)
+Credits: 15,000
+Cerberus Funding: 7,500 (see Note, below)
+Credits Found: 7,500
+Note:  The assignment report incorrectly states that Cerberus provides 7,500 credits of funding for a total of 15,000. In fact, only the credits found for recovering the six research data are awarded, a total of exactly 7,500 as it is impossible to complete the assignment without collecting all six.
+
+
+Firewalker Assignments Navigation
+
+
+
+
+Assignment Index
+
+Next Assignment →
+
+
+
+
+Assignments
+
+Project Firewalker: Survey Sites Located
+
+
+
+

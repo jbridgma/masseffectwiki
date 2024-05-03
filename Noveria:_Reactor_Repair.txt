@@ -1,0 +1,68 @@
+
+
+
+The main fusion reactor for Peak 15 is down. The fuel lines on the core must be restored.
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Enemies
+4 Cut Content
+5 References
+
+
+Acquisition[]
+Prerequisite: Noveria: Peak 15
+
+The mission is acquired upon reactivation of the Mira VI. It is one of two tasks you need to do before progressing further.
+
+Walkthrough[]
+Head to the elevator leading to the reactor, the one on the left as you approach from the VI core and the landlines.
+Once you reach the main reactor, enter the first room and unless you have top-of-the-line Combat Scanners, your radar will be jammed. That's a sure sign it's time to re-equip your anti-armor rounds and other stuff you prefer against geth enemies.
+This first room contains a technician kit and a disposal canister for lootables, as well as the area's Mira terminal that you can access later. There are two doors forward, each leading to a walkway that meets in the middle to the reactor interface. Three Geth Destroyers and five Geth Stalkers are in the core and will charge the moment they see you. Meanwhile a Geth Juggernaut waits on a balcony upstairs to rain down rocket fire. 
+
+The door to the left leads to the walkway with stairs that allow access to the upper level. Two of the three Destroyers are here, and four of the five Stalkers spawn along this side (the fifth is in the middle gangway). The walkway to the right leads to a single Destroyer, though overhead is the Juggernaut whose rockets can kill you if you aren't paying attention. Pick whichever path is convenient for you. Note:  there are Fusion Containment Cells near each Destroyer and Juggernaut's starting positions. You may be able to take off a chunk of their health and shields if you're quick and have a good aim.
+If you get overwhelmed you can retreat to the antechamber because the doors will not open for the geth--even if they are at the doors--so use the room as a fall back point if necessary. If you choose to rush to the mission objective, going right might be more expedient, though you'll still have to face the synthetics that will be bearing down on your position one way or another.
+If your radar is still jammed or you still see an enemy on your map then you have missed one of the many Geth Stalkers flitting about. If you have Lift and Throw you can actually throw the geth off the platform and into the core. Otherwise just shoot them until they keel over. Warning:  Liberal use of biotics may result in the Stalkers getting stuck in undesirable places, such as the crawl space beneath the catwalks as these have few (if any) firing solutions.
+
+Aside from the entrance antechamber, the other lootables in the area are on the upper level, named Reactor Observation Deck if you choose to save there. There is a weapons locker near the Juggernaut's hangout, as well as a storage locker next to a computer terminal, all rated easy decryption. The assignment UNC: Major Kyle can be acquired from said terminal if it hasn't been gotten yet from any other sources (easy decryption).
+When you're done reconnecting the helium-3 fuel lines, take the elevator back up to the Mira Core.
+
+Enemies[]
+Geth Destroyer
+Geth Juggernaut
+Geth Stalker
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+Cut Content[]
+A number of cut voicelines belonging to Mira and Shepard's squadmates imply this mission had additional intricacies at one point in development, involving retracting the reactor's control rods.[1]
+References[]
+
+↑ Mass Effect Cut Content/Noveria Voicelines#ice50_trig08_dampeners_clue and following
+
+
+
+Noveria Mission Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Noveria: Peak 15
+
+Missions
+
+Noveria: Contamination
+
+
+
+

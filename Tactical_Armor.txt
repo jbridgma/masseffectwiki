@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+This article is about the armor talent in Mass Effect and its unlockable ability Shield Boost (see below). For other similarly-named shield-related abilities, see Shield Boost (disambiguation). For armor generally, see Armor.
+
+Tactical Armor is a combat-oriented talent available at start to Infiltrators and the Turian Agent and is unlockable for Vanguards. It allows the use of Light Armor, as well as unlocking Medium Armor at higher levels.
+Tactical Armor is one of three armor talents that unlocks the Shield Boost ability, along with Combat Armor and Basic Armor.
+All of the armor talents boost the owner's resistance to health damage, especially useful against enemy attacks that aren't stopped by shields, such as melee hits. Hardening improves the owner's resistance to enemy tech attacks and abilities, reducing both their damage and duration.
+
+Contents
+
+1 Talent Ranks
+2 Shield Boost
+
+2.1 Shield Boost
+2.2 Advanced Shield Boost
+2.3 Master Shield Boost
+
+
+3 Classes
+
+
+
+Talent Ranks[]
+Level 1: Increases damage reduction and hardening by 5%.
+Level 2: Increases damage reduction and hardening by 8%.
+Level 3: Shield Boost
+Level 4: Increases damage reduction and hardening by 10%.
+Level 5: Increases damage reduction and hardening by 12%. Unlocks Assault Training (Turian Agent).
+Level 6: Increases damage reduction and hardening by 14%. Unlocks Fitness (Infiltrator).
+Level 7: Increases damage reduction and hardening by 16%. Allows the use of Medium Armor.
+Level 8: Advanced Shield Boost
+Level 9: Increases damage reduction and hardening by 18%.
+Level 10: Increases damage reduction and hardening by 19%.
+Level 11: Increases damage reduction and hardening by 20%.
+Level 12: Master Shield Boost
+Shield Boost[]
+
+Shield Boost recharges a portion of your shields, even when under fire. Shield Boost is most effective when the character using it has a high maximum shield value as the shield regeneration is percentage-based. This makes Shield Boost particularly effective when combined with Barrier.
+Save Shield Boost for use when shields have been nearly or totally depleted so the effect is not wasted. It can be essential during pitched battles when normal shield recharge is continuously interrupted by taking damage or if taking especially heavy damage from an enemy attack is imminent. The shield restore is not instant, though it is very rapid. 
+Shield Boost is also a very common ability in shielded enemies of all types in Mass Effect. Enemies can trigger the boost as long as they are not totally disabled and will do so when their shields take heavy damage. Shield Boost is not considered a tech or biotic ability and therefore can't have its recharge time affected by Damping.
+
+Shield Boost[]
+Restores 30% of your shield per second
+Duration: 2 seconds
+Recharge time: 45 seconds
+Accuracy Cost: 30%
+Advanced Shield Boost[]
+Restores 40% of your shield per second
+Duration: 2 seconds
+Recharge time: 45 seconds
+Accuracy Cost: 30%
+Master Shield Boost[]
+Restores 50% of your shield per second
+Duration: 2 seconds
+Recharge time: 45 seconds
+Accuracy Cost: 30%
+Classes[]
+These classes have access to the Tactical Armor talent:
+
+Infiltrator
+Vanguard Unlockable
+Turian Agent
+These classes have access to the Shield Boost talent:
+
+Infiltrator
+Vanguard
+Turian Agent
+Soldier from Combat Armor
+Krogan Battlemaster from Combat Armor
+Adept from Basic Armor
+Engineer from Basic Armor (unlockable)
+Quarian Machinist from Basic Armor
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

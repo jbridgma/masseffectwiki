@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+
+
+
+Blue Suns Heavy
+
+
+
+
+Race
+Human
+
+
+Type
+Organic
+
+
+Faction
+Blue Suns
+
+
+Armament
+ML-77 Missile Launcher
+
+
+Abilities
+ Tech Armor
+
+
+Health
+Low
+
+
+Shields
+Low
+
+
+Locations
+Omega, Korlus, Zorya, Factory District, Sanctum, MSV Strontium Mule
+
+
+Blue Suns Heavies are troops deployed in a squad support role by the Blue Suns mercenary organization. They are always human, equipped with ML-77 Missile Launchers. Their role is to inflict heavy damage on opponents while keeping them suppressed. They are encountered frequently on Blue Suns bases and places of interest. There seem to be two types of Blue Suns Heavies, helmeted and helmetless, with the helmetless ones seemingly acting as commanders and sporting substantially better defenses.
+
+Capabilities[]
+Offensive
+They will generally stay as far away from opponents as possible, continually launching missiles and ducking into cover. If players are out of cover, they are capable of killing quickly as their missiles can track and make the player stumble if hit. On higher difficulties, their fire rate increases considerably.
+Defensive
+Heavies normally do not have shields but gain them on higher difficulties. Late-game Heavies, even on Casual difficulty, may have shields. On higher difficulties, the helmetless Heavies have Tech Armor granting them not only much tougher shields but the ability to restore them back to full when depleted. Like most enemies not armed with conventional firearms, Heavies do not suffer from weapon overheat effects.
+
+Tactics[]
+As noted above, Blue Suns Heavies are unique in that their rocket launchers fire seeking projectiles making them extremely dangerous outside of cover, and they are capable of arcing shots around cover to still land hits on you if you're slow. Not only that, but missiles can sometimes switch targets mid-flight, so a missile that appears to be headed towards a squadmate can change directions to suddenly fly at you instead.
+One of the best ways to deal with Heavies is a sniper rifle. Squad members such as Garrus, Thane, and Zaeed can handle this if the player doesn't have sniper rifle training; once the Heavy's shield is down, heavy pistol fire is also fairly effective. Alternatively, concentrating powers on Heavies will also stop them from constantly bombarding the player, as well as potentially knocking them out of cover. If none of these options are possible, concentrating fire on them is still effective; timing when to shoot and ceasefire is crucial, especially on Hardcore and Insanity.
+Heavies, much like most other enemies, don't wait for you to pop out of cover to shoot at you and they will fire constantly at your cover position to suppress you—the only difference is their fire is much more dangerous than most standard firearms. A technique to get around this is to stand behind tall cover without actually attaching to it. This should halt the endless barrage and allow you to engage more on your terms.
+Not surprisingly, missiles from the Heavy can damage other Blue Suns should they get in the way of the missile. Although it is not always possible, Blue Suns Heavies may actually cause more damage to their own squad with their rear-cover fire tactics (the most noticeable instance being on Korlus).
+Because of her weapon's splash damage, a Heavy can harm or kill herself if she fires upon a Combat Drone at point-blank range.
+At long range, Singularity and other similar biotic powers can be used to lift the Heavy up, creating an opportunity for you to get into cover or kill them.
+If clustered in a group of enemies, Dominate can be used to have them deal significant damage to their own allies.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

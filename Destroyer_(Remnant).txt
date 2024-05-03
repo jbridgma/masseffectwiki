@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+This article is about the Remnant unit. For other uses, see Destroyer (disambiguation).
+
+
+
+Destroyer
+
+ 
+
+
+
+
+
+
+
+Faction
+Remnant
+
+
+Weapons / Attacks
+Central CannonEnergy Dome DischargeRapid-Fire Turrets
+
+
+Abilities
+Post-Mortem Explosion
+
+
+Armor
+High
+
+
+Shields
+Extremely High
+
+
+Weak Points
+Turrets, reactor core
+
+
+The Destroyer is a large quadruped Remnant unit. It fulfills the role of heavy offense in the battlefield. It is typically seen guarding places the machines deem sensitive, or deployed in Firebases across the Heleus Cluster if initial waves of Remnant units cannot defeat the APEX intruders in the area. Its arrival on the scene, if not already there, is usually signified by a loud and continuous rapid-fire discharge audible even if it is out of sight several dozen meters away.
+The Destroyer relentlessly attacks while walking towards a target, and does not flinch nor recoil from any counterattack. Despite its size, a Destroyer can jump its bulk to elevated positions and vice versa, and can even fit itself inside cramped chambers to slaughter anyone huddling within. If it cannot fit in a doorway, it will barrel through anyway, destroying the top portion. If the Destroyer is about to be destroyed, it builds up to an overload for a short period of time before its explosive destruction, dealing massive damage to anyone caught in the blast.
+Destroyers also have a stronger and more dangerous variant called the Progenitor.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Remnant Destroyer
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+This massive, ominous, menacing Remnant houses an arsenal that engages multiple targets at once.
+
+Description[]
+Destroyers are heavy-weapon platforms deployed against the most determined intruders into Remnant territory. Armed with a directed energy cannon and two secondary laser turrets that can engage multiple targets simultaneously, a single Destroyer can take out an entire combat squad in minutes. When asked why she named it a "Destroyer," Peebee folded her arms, rolled her eyes, and answered, "You figure it out."
+One of the most disconcerting characteristics of the Destroyer is its partitioned power system. Destroying one of its turrets means that power is automatically diverted to its locomotion systems, allowing it to move much faster. Many individuals have mistakenly believed they could pick off a Destroyer’s turrets from a distance and evade it safely, only to have the Destroyer close that distance unexpectedly. This often has fatal consequences, since at melee range, the Destroyer transfers power to an electromagnetic burst that causes severe damage to any individuals unlucky enough to be close.
+APEX has reported variants of the Destroyer that have a self-repair network for their turrets. These Destroyers can briefly go dormant, transferring full power to fix any damage before reactivating its turrets again. Few have been sighted, but engagement is not recommended.
+
+
+Capabilities[]
+Offensive
+The Destroyer is armed with two rapid-fire turrets, a startlingly powerful main gun, and an energy field activated at melee range which can swiftly strip one's shields if caught within. This energy field takes a moment to build up before detonating.
+
+Defensive
+The Destroyer possesses very strong shields, as well as heavy armor.
+Its two turrets have their own strong shields and armor. Each time a turret is destroyed, the Destroyer gains a substantial movement speed increase.
+
+Tactics[]
+With its rapid-firing turrets laying down so much constant firepower, it's difficult to counter until the turrets are gone. Standard method of engaging Destroyers is to neuter them first by demolishing the turrets before the main body.
+Once without its turrets, the Destroyer will use its main gun in the torso but at least the rate of fire is lower than the turrets. All that is left is to drain its shielding and armor by any means necessary.
+In melee range, the Destroyer takes a short period of time to charge its energy dome before detonating, accompanied by a loud audio cue signifying an overload. This is the warning to get out of range before it's too late.
+One way to keep a Destroyer occupied is to have one of the team bait it into triggering its energy dome discharge then jumping away. This is highly dangerous if the unit still has turrets, but doable if the bait character is nimble/tough enough, and will almost certainly require blindsiding the unit to work; directly facing the turrets' line of fire is suicide.
+The Destroyer is highly resistant to damage, but when it charges its main gun it becomes vulnerable.  Powers and weapons used on it while it's charging will inflict substantially increased damage.
+The Destroyer never operates alone, so be careful of the Breachers / Assemblers / Observers / Nullifiers in the vicinity. It's advisable to take out those lesser foes before concentrating on the Destroyer.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

@@ -1,0 +1,56 @@
+
+
+
+An exile named Derc hired you to check in on a missing surveyor, who was collecting baryte samples in Draullir.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Travel to the surveyor's last known location in Draullir
+2.2 Scan surveyor's corpse
+2.3 Return to Derc
+
+
+3 Rewards
+4 Trivia
+
+
+Acquisition[]
+Speak to Derc in the Tartarus nightclub in the Kadara Slums. He sits in the corner on the bottom floor marked with a .
+
+Walkthrough[]
+Speaking to Derc, Derc asks if Ryder wants to make some easy credits. A surveyor that he sent out hasn't returned and Derc wants to know what happened. Note:  No credits are given as a reward despite what Derc states during the conversation.
+
+Travel to the surveyor's last known location in Draullir[]
+The navpointleads to a big cave system in the Draullir region. Note:  This is the same cave system leading to the Collective Base. Someone has set up floodlights powered by generators - too much for one surveyor to carry. 
+There are three datapads, a number of mineral nodes, and multiple lootable containers located throughout the cave system. Two datapads are irrelevant to the mission, and the last can be found next to a titanium mineral node on a small wooden shelf atop some rocks.
+
+
+
+
+Personal Log: Nebar
+
+New Entry: Found the perfect site to take a Baryte sample for Derc. A little high up, but I've got steady feet.
+
+
+END LOG
+
+
+Eventually you will find the surveyor's corpse. There are some Rylkors and Wild Adhis in the cave near the corpse.
+
+Scan surveyor's corpse[]
+The surveyor apparently broke his neck from a fall. Scan the corpse and SAM downloads the collected data to deliver to Derc.
+
+Return to Derc[]
+Ryder reports what happened and gives the baryte samples data to Derc.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Kadara viability
+Trivia[]
+Should you discover the Collective base while doing this mission before firmly siding with the Collective, you will be greeted by Lynx at the door - one of the people who set up the floodlights in the cave, as indicated by one of the other datapads.
+
+
+

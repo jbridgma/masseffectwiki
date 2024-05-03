@@ -1,0 +1,169 @@
+
+
+
+The kett stronghold is a large power station. It has allowed them to spy on Initiative activity and stage repeated attacks that are quickly reinforced. Dealing with the station will greatly improve the viability of Eos. A direct assault is inevitable, but perhaps there is a way to weaken the stronghold before the attack.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate the kett presence
+2.2 Find a way inside the kett power facility
+2.3 Unlock the shield gate
+2.4 Access the stronghold core
+
+2.4.1 Optional: Access the kett shield array
+2.4.2 Optional: Set the shield generators to overload
+2.4.3 Optional: Overload the kett shield array
+
+
+2.5 The security alarm
+
+2.5.1 Use the security console to disable the alarm
+
+
+2.6 Base
+
+2.6.1 Secondary: Override all security lockdown terminals
+
+
+2.7 Reach the command center
+2.8 Eliminate the kett Invictor
+2.9 Unlock access to the zenith observation room
+2.10 Access the zenith observation room
+2.11 Disable the kett power facility
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+This mission automatically starts when you get close to the base located at The Sheartop. 
+
+Walkthrough[]
+There are several items to note about this mission:
+
+Manual saves are disabled inside the base and there are only a few auto-saves. If Ryder is defeated, this means that Ryder will often have to redo a large portion of the mission.
+Leaving the base will reset the mission. Ryder has to complete the entire mission all at once.
+The walkthrough objectives may seem to jump forwards then backwards at times but follow in-game objective prompts. Ryder will obtain an objective prompt, but then several more will show up in between, and then the original objective shows back up.
+Investigate the kett presence[]
+Ryder begins the mission with the goal to investigate the kett base near The Sheartop.
+Note: You'll have to fight to the navpoint  far inside the facility for this objective to be completed.
+
+Find a way inside the kett power facility[]
+Deal with the kett and two Kett Turrets protecting the entrance.
+As you approach the door into the facility, a sub-mission is added: Kett Shield Station.
+
+Unlock the shield gate[]
+To open the entrance, interact with the Locked Console marked with . After doing so, you'll have to defend the position and eliminate the attacking kett while staying within the white circle on the ground. If you leave the white circle, hack progress will stop until you go back in. 
+After the hack is complete, defeat any remaining kett and you can now enter the facility through a set of two doors. In between the doors, in the small room, is a small container, ammo cache and a health cache.
+
+Access the stronghold core[]
+Beyond the second door, you have a long walk and many intense fights ahead of you. This is also going to be the area where if you die, you will have to start all over again due to lack of saves.The enemies are well co-ordinated and will easily flank you if you are not paying attention or stay in one place for too long.
+The facility ahead of Ryder has three main sections: 
+
+the Kett Shield Station (the large ring-shaped construction).
+the Base (at the far end).
+the Stronghold Core with the Command Center (underground below the Base).
+After passing through the set of two doors, Ryder is located at the south end of the map inside the Kett Shield Station. 
+
+Optional: Access the kett shield array[]
+To shut down the blue shield surrounding the facility, three consoles have to be accessed. Using the first console gains access to the shield array (marked on map with ).
+
+Optional: Set the shield generators to overload[]
+The other two consoles are further inside on the left and right sides of the ring-shaped structure (marked on map with ). As you go near one of these two consoles, a kett dropship will fly in and drop of reinforcements. Either quickly Sabotage the console or defeat the enemies then interact with the console. If you ran quickly to the console, then you have enough time to get into cover and prepare a nasty surprise for the Kett before they even drop down from the dropship. 
+Take the time to defeat all of the enemies from the drop ship before moving to the other side to reduce the number of kett you have to fight at one time. After the battle, each console can be scanned for +10 Helios Research data. Next to the console on the left of your starting position is a lootable container.
+
+Optional: Overload the kett shield array[]
+After you have interacted with both the consoles on the left and right prong of the ring shaped structure, a new console is now unlocked. It is located above your starting position to this area. Go back to the first console Ryder accessed and jump up to the top of the building. A new console has been marked on the map with . This is the shield console. On the same structure, there is a second console nearby that deactivates the alarm. This console isn't marked and can easily be missed. Deactivate the marked console and the shield surrounding the facility goes down. Go around the column to the alarm console and deactivate it. SAM will inform you that the alarms have been disabled (later Ryder will discover that is not entirely true).
+You can now continue deeper into the facility beyond the north end of the ring structure. Be prepared as kett will show up unexpectedly to attack. Beyond the end of the inner ring-shaped construct is the Base section of the stronghold. Kett defenders there are waiting for Ryder.
+Warning:  From this point on, you'll need to stay alive until all the kett and the boss have been eliminated. If you get killed, plan on redoing everything from this point.The Giant T shaped structure you notice as you proceed north will be your only Autosave and spawn point. However remember that the autosave occurred before you disabled or overloaded the shield station. So if you re-spawn here, expect to go through the disable shield routine again.
+At this point SAM will inform Ryder that reinforcements will be arriving soon, and an alarm starts sounding (even if you disabled the optional consoles previously). A sub-mission will then be added and you need to shut down the alarm because reinforcements will continue to arrive in waves as long as the alarm is on. Find an alarm console to deactivate it (marked with ; any alarm console will do). There is a delay between start of the alarm and actual arrival of reinforcements. So you have time find cover and get ready. Expect the enemies to be arriving out of the Base structure in front of you and attempt to flank you.
+
+The security alarm[]
+Use the security console to disable the alarm[]
+This alarm will activate occasionally while you're fighting through the base.
+Another sub-mission will be added when you get close to any one of three specific terminals. Once the sub-mission is added, these three terminals will be marked with .
+
+Base[]
+Secondary: Override all security lockdown terminals[]
+There are three security terminals located around the area. In order to proceed forward into the stronghold core, you will need to deactivate all three terminals. One of them is at the marker for the initial objective Investigate The Kett Presence. This is actually located on the second floor of the Kett base. Although you can jump up to the second floor after entering, it gets tricky especially with all the fighting going around you. So it's better if you use the ramp on the right side of the base to get to the second floor. There is an alarm console nearby as well. Next to the central terminal is a container. The three security consoles can be scanned for +10 Heleus Research Data.
+Note: Oddly, the map markers remain even after all of the security terminals have been deactivated.
+Enter the building at the very rear end of the stronghold and on your right you will find the console that will open the door in the floor to the core of the facility. Opening it completes the objective Access The Stronghold Core.
+
+Reach the command center[]
+Down the hole is the command center with two groups of kett and the Invictor, the head honcho in charge of the base.The first group of Kett defenders attack as soon as you open the door in the floor.  You can either jump down and meet them head on. Or you can continue to stand next to the hole for a while and the enemies will jump up for you. After you dispatch this first group of kett, you are facing 3 different door. It doesn't matter which one you choose as they all lead to a very large area. Inside there is an Invictor and his  allies. It's a good idea to eliminate the minor enemies first so you can concentrate on the boss without risking being attacked from behind or getting caught in crossfire.
+
+Eliminate the kett Invictor[]
+The Invictor is surrounded by an impenetrable shield with an orb circling around it. Destroy the orb, and the shield will disappear for a few seconds. Ony during this time the Invictor will take damage, then he puts up the orb shield again. Patiently grind the Invictor down. 
+Occasionally the Invictor sends out an expanding orb of damage. Don't get caught in it. When Ryder sees the Invictor charging it, move to the side and hide behind some big object. 
+Don't get close to the Invictor, as he can kill Ryder instantly - fight the Invictor from range.
+You receive +1330 XP after killing the Invictor. You can scan him for the task Aid APEX
+Note: If you're defeated, you'll have to reload the latest save (which happened a long time ago), so you're advised to play it safe and stay alive (especially on the two hardest difficulty settings).
+
+Unlock access to the zenith observation room[]
+Use the console to unlock the Zenith Observation Room.
+
+Access the zenith observation room[]
+Pass through two doors and use the Elevator Controls.
+There are two containers on either side of the room when you exit the elevator.
+There is a Kett Core Encryption Tech on the lower level near the terminal that can be scanned for +100 . There are 3 more containers nearby.
+On a terminal in the zenith observation room are three entries:
+
+
+
+
+
+Concerns
+Translated from Tonaizhet:
+
+This mission is foolish. We hunt for Remnant myths while those creatures seek to oppose us. We must make them see the glory of kett, not dig through the mud of this broken planet.
+
+
+I do not blame the highest one, of course. Our light only seeks to make us strong. This Remnant has poisoned the highest one's mind. It should be destroyed.
+
+
+
+
+
+
+
+Recommendation
+Translated from Tonaizhet:
+
+You have heard, I am sure, of the new creatures from beyond dark space. Will they be a threat to enlightenment? The highest one does not worry, but I see pain and war in the future. We must see those creatures for the pestilence they are.
+
+
+I recommend a team of our most trusted to begin elimination.
+
+
+
+
+
+
+
+Please
+Translated from Tonaizhet:
+
+Most enlightened,
+
+This humble servant seeks an audience with you. When I sleep, I see things. Terrible visions of creatures I think I knew once. Why do I feel this way? Do I see the future, or the past? Please, make it stop.
+
+
+If I must die to quiet these visions, I will gladly end my life. Tell me what I must do.
+
+
+Disable the kett power facility[]
+Use the console. This completes the mission.
+Loot the three containers before leaving the room. Use the elevator to leave.
+Note:  If you wish to fast travel from the facility, note that the map has three levels (lower right corner). The surface of Eos is the bottom one (click it). This is mentioned here because this might be the first time in the game you'll will encounter this.
+
+Rewards[]
++1330 XP
++300 AVP 
++10% Eos viability
+
+
+

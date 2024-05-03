@@ -1,0 +1,433 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+
+
+
+
+This article is about the skill Concussive Shot in Mass Effect: Andromeda. For the power Concussive Shot in Mass Effect 3, see Concussive Shot.
+
+Concussive Shot is a Combat skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Vetra Nyx Skill Ranks
+4 Player Notes
+5 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Concussive Shot
+
+    
+
+      Fires a target-seeking high-impact round that knocks down unarmored, unshielded, normal-sized enemies and detonates combo primers.
+
+Damage: 350
+Force: 250
+Recharge Time (s): 12
+
+
+
+2
+
+Force
+
+
+
+-
+
++25% Direct Force
+
+
+3
+
+Damage
+
+
+
+-
+
++15% Direct Damage
+
+
+4
+
+Recharge Speed
+
+
+
+Concussive shot recharges quicker.
+
++30% Recharge Speed
+
+
+4
+
+Repeat Concussion
+
+
+
+Concussive Shot has no recharge time but requires one power cell from a limited power cell supply to activate. The shot also inflicts bonus damage on knocked down or floating enemies.
+
+Power Cell Capacity: 5
+Damage vs. Knocked Down Enemies: 100%
+
+
+
+5
+
+Radius
+
+
+
+The shot damages enemies within a radius.
+
+Radius (m): 2
+
+
+5
+
+Damage & Force
+
+
+
+-
+
++25% Direct Damage
++25% Direct Force
+
+
+
+6
+
+Anti-Armor
+
+
+
+-
+
++40% Damage vs. Armor
+
+
+6
+
+Anti-Shield
+
+
+
+-
+
++40% Damage vs. Shields
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Concussive Shot
+
+     
+
+      Fires a target-seeking high-impact round that knocks down unarmored, unshielded, normal-sized enemies and detonates combo primers.
+
+Damage: 440
+Force: 250
+Recharge Time (s): 10
+
+
+
+2
+
+Force
+
+
+
+-
+
++25% Direct Force
+
+
+3
+
+Damage
+
+
+
+-
+
++35% Direct Damage
+
+
+4
+
+Recharge Speed
+
+
+
+Concussive shot recharges quicker.
+
++30% Recharge Speed
+
+
+4
+
+Repeat Concussion
+
+
+
+Concussive Shot has no recharge time but requires one power cell from a limited power cell supply to activate. The shot also inflicts bonus damage on knocked down or floating enemies.
+
+Power Cell Capacity: 5
+Damage vs. Knocked Down Enemies: 100%
+
+
+
+5
+
+Radius
+
+
+
+The shot damages enemies within a radius.
+
+Radius (m): 2.5
+
+
+5
+
+Damage & Force
+
+
+
+-
+
++50% Direct Damage
++25% Direct Force
+
+
+
+6
+
+Anti-Armor
+
+
+
+-
+
++125% Damage vs. Armor
+
+
+6
+
+Anti-Shield
+
+
+
+-
+
++100% Damage vs. Shields
+
+Vetra Nyx Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Concussive Shot
+
+     
+
+Vetra fires a seeking, high-impact round from her gun.
+
+Damage: 129
+Force: 250
+Recharge Time (s): 20
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++30% Recharge Speed
+
+
+3
+
+Damage & Force
+
+
+
+-
+
++20% Direct Damage
++20% Direct Force
+
+
+
+4
+
+Damage & Force
+
+
+
+-
+
++30% Direct Damage
++30% Direct Force
+
+
+
+4
+
+Radius
+
+
+
+      Concussive Shot now affects other enemies near her primary target and functions as a Combo Detonator.
+
+Radius (m): 2
++50% Combat Detonator Damage Bonus
+
+
+
+5
+
+Target-Marking
+
+
+
+Affected enemies take extra damage from all sources for a short time.
+
+Max Damage Increase: 20%
+Duration (s): 5
+
+
+
+5
+
+Bleeding Damage
+
+
+
+Affected enemies take additional damage over a short time.
+
+Damage Over Time: 15
+Duration (s): 8 
+
+
+
+6
+
+Anti-Armor†
+
+
+
+-
+
++40% Damage vs. Armor
+
+
+6
+
+Anti-Shield†
+
+
+
+-
+
++40% Damage vs. Shields
+
+Note: †Rank 6 is unavailable to Vetra until her loyalty mission Vetra Nyx: Means and Ends is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player:
+Pathfinder Ryder - Starting Combat Skill or Security Training
+Vetra Nyx - Starting Combat Skill
+Multiplayer: Batarian Scrapper, Human Soldier
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

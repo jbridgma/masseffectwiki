@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+
+
+Terrorist
+
+Type
+Batarian Terrorist
+
+
+Armament
+Assault Rifle
+
+
+Health
+Low
+
+
+Shields
+Low
+
+
+Locations
+Save the Arcturian Jade, A Formula for Hope, A Batarian Army, Protect the Council
+
+
+Terrorists are armed batarian extremists wishing to sabotage the negotiations between the Council and batarian ambassador Jath'Amon. They are fought by Jacob Taylor and are recognizable by their black color.  
+
+Tactics[]
+Terrorists have moderate health and kinetic shielding making them easy target. Like any other enemy in Galaxy, their shields will begin to regenerate 1.5 seconds after being disabled, but their health will not.
+Terrorists will attack at medium and short ranges with their assault rifles. Their shots don’t do much damage and they lack any special attacks.
+Although they’re fully affected by the Jacob’s powers the use of these should be prioritized on stronger enemies if any are present.
+
+
+Mass Effect Galaxy Enemies
+
+
+Pirates
+
+Pirate • Pirate Elite • Clint "Black Eye" Darragh
+
+
+Batarian Terrorists
+
+Jath'Amon • Robot • Terrorist • Terrorist Elite • Terrorist Leader • Turret
+
+
+Turians
+
+Turian • Turian Elite
+
+
+
+
+

@@ -1,0 +1,82 @@
+
+
+
+If the Irritated Researcher is spoken to first:
+A Voeld scientist is complaining about some kind of interference with his equipment. 
+If SAM discovers the interference first:
+You've detected a strange source of communication interference. Clear communication is important to Voeld's viability. Any possibility that the kett are somehow tapping in to communications should be investigated. 
+A strange meteorite appears to be the source of the communication interference. It must be dealt with.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Examine the equipment
+2.2 Search for interference source
+2.3 Defeat adhi
+2.4 Scan meteorite
+2.5 Neutralize signal
+2.6 Examine meteorite
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Meet the Resistance
+
+This mission can be acquired by two different methods:
+
+Speak to the Irritated Researcher (marked with a) in Hjara Station.
+SAM alerts Pathfinder Ryder to a signal interfering with communications equipment if you get close enough to the source.
+Walkthrough[]
+Examine the equipment[]
+Note:  This objective is only shown if the mission is acquired at Hjara Station.
+Examine the equipment next to the researcher. SAM detects a faint regular pattern in the signal, indicating it could be potential kett interference, which must be investigated.
+
+Search for interference source[]
+Head north-northwest of Techiix to find the meteorite near a small bluff on the edge of the frozen lake. The source turns out to be a meteorite emitting radiation that disturbs communication signals. Unfortunately, one of your squadmates will alert you to a bunch of incoming creatures.
+
+Defeat adhi[]
+About 8 Wild Adhi come rushing to the area. Slay them. There's a conveniently-placed ammo cache next to the meteorite if you need refills.
+Scan meteorite[]
+Scan the meteorite. It's emitting strange energy that disrupts communications and causes heightened aggression in nearby wildlife. SAM can modify your omni-tool so it will dampen the disturbing radiation.
+
+Neutralize signal[]
+Interact with the meteorite to try and dampen the signal. Ryder will find that this is a very slow process and another pack of Wild Adhi will attack. 
+Again, there's about 8 of them to defeat. After the battle, interact with the meteorite again to finish what you started. This time the dampening process is much faster. 
+
+Examine meteorite[]
+A cutscene starts with Ryder and SAM having a discussion about the meteorite. It turns out to be a meteorite that has picked up some traces of the Scourge.
+You have to decide what to do with the meteorite: send it to the Nexus to be studied, or leave it on the planet, citing it as too dangerous.
+The mission then ends.
+
+Aftermath[]
+If the meteorite is sent to the Nexus, you get an e-mail from Chief Lucan.
+
+
+
+
+Curious Voeld Rock
+To: Ryder
+From: Chief Lucan
+
+Pathfinder,
+
+This rock you found is certainly something. As far as I can tell, it's a remnant of a meteoroid that passed through the Scourge before falling to Voeld, infusing it with a similar charge. The presence of Heleus-native metallic elements within the rock may have allowed for such a transfer. I'm unsure why the adhi reacted to it the way they did.
+
+I've stored it in a lead-lined box. It unnerves me.
+
+
+Chief Lucan
+
+
+Rewards[]
++270 XP
++29 AVP 
++2% Voeld viability
+
+
+

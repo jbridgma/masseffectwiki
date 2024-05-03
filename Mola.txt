@@ -1,0 +1,63 @@
+
+
+
+
+
+Mola
+
+Region
+Milky Way / Aethon Cluster / Esori
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.3 AU
+
+
+Orbital Period
+0.1 Earth Years
+
+
+Keplerian Ratio
+2.7
+
+
+Radius
+7,608 km
+
+
+Day Length
+18.4 Earth Hours
+
+
+Atm. Pressure
+3.78 atm
+
+
+Surface Temp
+625 °C 
+
+
+Surface Gravity
+0.82 g
+
+
+Mass
+1.158 Earth Masses
+
+
+Location: Milky Way / Aethon Cluster / Esori System /  First planet
+
+Prerequisite: Priority: Tuchanka (Mass Effect 3)
+
+Description[]
+For a terrestrial planet, Mola hurtles around the system's star at breakneck speed. Its rapid orbit and molten core cause oceans of magma to be pumped out onto the surface, cooling into the continent-sized formations then erased by fresh flows of molten rock.
+
+
+
+

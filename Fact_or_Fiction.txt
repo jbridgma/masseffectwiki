@@ -1,0 +1,77 @@
+
+
+
+Ari Vesjek, an angaran scholar, is looking for information on first contact between the angara and the kett, specifically from the kett's point of view. He believes logs may be found in the kett operations center on Voeld.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Search kett database
+2.2 Disable security matrix
+2.3 Extract data from console
+2.4 Return to Ari Vesjek
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Meet the Family
+
+Speak to Ari Vesjek (marked with a) in a small building in Techiix.
+Note: This mission requires progressing in the mission Remove the Heart and must be done during that mission. Acquire this mission before going to the Kett Base. Once the Kett Base is destroyed the locked room is no longer available.
+In the room with Ari, you can scan an Angaran Cleaning Supplies for +10 .
+
+Walkthrough[]
+Search kett database[]
+After entering the buildings of the Kett Base at the Kett Tactical Operations Center, head to a console upstairs in the central building at the beginning of the kett base and use it.
+
+Disable security matrix[]
+You need to deactivate the matrix to gain access to the log files. The navpoint  is in a nearby building to the north. Upon entering the building, SAM reports that the defense matrix can be shut down by identifying and destroying Critical Subsystems. Use the scanner to find them and each will be marked .
+When you've found and scanned the first subsystem, SAM says two more need to be found. Interact with them to sabotage them.
+
+Extract data from console[]
+Backtrack to the building you passed when entering the base (marked on the map). The doors on the bottom and top floor are now unlocked. Ryder needs to head to the lower room.
+Upon entering the room you receive +1330 XP. Note:  this XP is only a one-time deal. If you entered the room during Remove the Heart, this XP isn't awarded again.
+Inside the room is a computer. Hack the computer to access the log file.
+
+
+
+
+Record: "Angara" First Encounter
+SAM has located logs associated with the start of the kett invasion.
+
+Translated from Tonaizhet:
+
+Entry 5EOmT1Cn:
+
+Specialists identified an isolated station on a mineral-rich lunar world as initial target.
+
+Routine attack: Element of surprise, no major threats. Majority were easily eliminated, providing genetic material for study.
+
+Live specimens were also acquired as a result of unexpected surrender.
+
+
+Entry 8yO938cq7:
+
+Captured angara prove useful. Cooperation secured in exchange for keeping them alive.
+
+Obtained live blood samples with no resistance.
+
+Volunteered demonstration of bio-energetic field. Applications identified them as prime candidates.
+
+Mention of the center of their civilization: "Aya." Location: Hidden in the Scourge. No maps exist, route learned through experience.
+
+
+Interrogation ongoing--once complete, recommend transfer to home empire as vassals.
+
+
+Return to Ari Vesjek[]
+Ari doesn't want to enter the data in the angaran historical records, because they need hope, not crushing truth. You can support him or tell him that truth is more important.
+
+Rewards[]
++530 XP
+
+
+

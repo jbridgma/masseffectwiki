@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+This article or section needs to be cleaned up to conform to a higher standard of quality.
+See this article's talk page or the editspace comment following the tag for details.
+
+
+
+Fusion Mods are barely understood bits of Remnant tech which can be integrated into Ryder's combat armor. While they provide dramatic benefits, this often comes at a cost. 
+
+Contents
+
+1 Overview
+2 Fusion Mods
+3 Fusion Mod of Adrenaline Acquisition
+
+
+Overview[]
+Fusion mods are powerful modifications for Ryder’s chest armor that can heavily impact the gameplay, with both positive and negative effects. These mods provide unique bonuses towards specific playstyles.
+Fusion Mods are to armor what Mods are to weapons in Mass Effect: Andromeda. Fusion Mods are changeable at a Loadout terminal but have a few restrictions:
+
+Only one fusion mod slot is available for armor.
+Only "Chest" armor pieces have a fusion mod slot.
+Two "Armor" sets are unable to use fusion mods:
+Deep Space Explorer Armor
+Scavenger Armor
+Only Ryder can use Fusion Mods.
+All Fusion Mods use the same description text:
+This barely understood Remnant tech can be integrated into the chestplate of most combat armors. It provides the user with a powerful advantage, but always at a cost in another area. Due to the hazards of this untested technology, only Ryder may equip these mods.
+Each Fusion Mod is far more powerful than the otherwise comparable armor augmentations but each Fusion Mod comes with a major penalty. The penalty of Fusion Mods can be cut in half with the Commerce Cryo Pod perk Fusion Mod Support.
+Each Fusion Mod counts as one item towards the Inventory item limit. All of them are Ultra Rare.
+Deconstructing a Chest armor piece with a Fusion Mod applied to the armor piece returns the Fusion Mod to the inventory. Deconstructing the Fusion Mod itself destroys the Fusion Mod and no resources are returned. Unwanted Fusion Mods for can also be sold for credits. Warning: Think long and hard about deconstructing or selling a Fusion Mod before doing so! These are one time only unique items that can't be obtained again.
+
+Fusion Mods[]
+
+
+Image
+
+Fusion Mod
+
+Attributes
+
+Acquisition
+
+
+
+
+Fusion Mod of Adrenaline
+
++100% On Kill: Recharge All Active Powers-50% All Power Recharge Speeds
+
+Havarl: After completion of A Dying Planet (See here)
+
+
+
+
+Fusion Mod of Battering
+
++30% Melee Damage-20% Tech Power Damage  -20% Biotic Power Damage  -20% Weapon Damage  -20% Combat Power Damage
+
+Kadara: Neutralization of Architect on Old Skinner
+
+
+
+
+Fusion Mod of Biotic Mastery
+
++30% Biotic Power Damage-20% Melee Damage  -20% Weapon Damage  -20% Tech Power Damage  -20% Combat Power Damage
+
+Eos: Neutralization of Architect on Making An Impression
+
+
+
+
+Fusion Mod of Health
+
++100% Max Health-50% Max Shields
+
+Khi Tasira: Beating the Archon's Sword on The Journey to Meridian
+
+
+
+
+Fusion Mod of Hovering
+
++100% Hover Duration-30% Weapon Damage
+
+Voeld: Neutralization of Architect on Missing Science Crew
+
+
+
+
+Fusion Mod of Rapid Deployment
+
++50% All Power Recharge Speeds-30% Weapon Damage
+
+Kadara: Inside Remnant vault on Healing Kadara's Heart
+
+
+
+
+Fusion Mod of Resistance
+
++20 Damage Resistance-10% Weapon Damage  -10% Power Damage  -10% Melee Damage
+
+Voeld: Inside Remnant Vault on Restoring a World
+
+
+
+
+Fusion Mod of Robotics
+
++25% Tech Construct Health+25% Tech Construct Damage-50% Max Shields
+
+Havarl: Inside Remnant Vault on A Dying Planet
+
+
+
+
+Fusion Mod of Rupture
+
++25% Weapon Headshot/Weak Point Bonus-70% Weapon Clip Size
+
+Elaaden: Inside Remnant Vault on Taming a Desert
+
+
+
+
+Fusion Mod of Shielding
+
++50% Max Shields-50% Max Health
+
+Eos: Inside Remnant Vault on A Better Beginning
+
+
+
+
+Fusion Mod of Tech Mastery
+
++30% Tech Power Damage-20% Biotic Power Damage  -20% Weapon Damage  -20% Melee Damage  -20% Combat Power Damage
+
+Elaaden: Neutralization of Architect on Elaaden
+
+
+
+Fusion Mod of Adrenaline Acquisition[]
+The Fusion Mod of Adrenaline is not like other mods and requires a mini-mission of sorts to obtain:
+
+Complete A Dying Planet mission on Havarl.
+Return to the Tempest and acknowledge the email from Benedict Geffen (on behalf of Foster Addison) to receive the mission Cross-Cultural Alliances.
+
+
+
+Havarl: Science Team Deployment
+To: Ryder
+From: Benedict Geffen 
+
+Pathfinder Team: 
+
+The Nexus has approved the request for a multi-disciplinary team to be posted on Havarl (a.k.a. Habitat 3) to assist with the angaran efforts there. 
+
+Primary Team Members:
+Dr. Hawkins Macintyre (Xenoanthropology. Team Lead)
+Zerra Kessian (Botany, Environmental Engineer)
+Farley Berra (Entomology)
+Cody Holdren (Quartermaster) 
+
+Both angara and Nexus teams have expressed interesting in having the Pathfinder visit Havarl again to observe cross-cultural efforts. 
+
+
+Benedict Griffen, on behalf of Director Addison
+
+
+Head to Pelaav Research Station on Havarl and interact with the Holocommunicator to start the cutscene with Foster Addison. This will complete the Cross-Cultural Alliances mission.
+Find the cave location. (Red circle on the map) 
+Kill the lone Roekaar Raider in the cave and interact with the Remnant console.
+The Remnant console will extend some ledges on the structure northeast of Ryder's position.
+Jump up onto a small ground plant to jump up to the first ledge and then use the remaining ledges to climb to the top. Activate another Remnant console and this will activate a gravity well a bit west of Ryder's position and point a beam of light to it. On the map, it is located where the triangular area to the west sticks out northward.
+Jump down from the structure and go west to the second structure.
+Jump up onto a container and then jump up to the first ledge. Climb the remaining ledges to a gravity well. Interact with the gravity well to transport Ryder to a Remnant console that needs to be unlocked via a Remnant Puzzle:
+
+
+
+
+
+Puzzle ConsoleReward: Valuable Loot
+
+After solving the puzzle, interact with the gravity well here and it will take Ryder to a hidden room above the Entrance to Old Pelaav.
+Inside the hidden room is a container that contains the Fusion Mod of Adrenaline.
+There is no gravity well at the room, so either jump down from the ledge in front of the room or fast travel away.
+
+
+
+
+Mass Effect: Andromeda Armor
+
+
+
+
+Augmentations • Fusion Mods
+
+
+Milky Way
+
+HyperGuardian Armor • Initiative Armor • N7 Armor • Pathfinder Armor
+
+
+Heleus
+
+Angaran Armor • Heleus Armor • Kett Armor • Maverick Armor
+
+
+Remnant
+
+Remnant Armor
+
+
+DLC
+
+Andromeda Elite Helmet • Deep Space Explorer Armor • Scavenger Armor
+
+
+
+

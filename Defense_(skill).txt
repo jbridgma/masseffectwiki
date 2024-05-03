@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Defense is a passive Tech skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Improves Liam's defense and survivability.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Shields
+
+
+
+-
+
++20% Max Shields
+
+
+2
+
+Health
+
+
+
+-
+
++20% Max Health
+
+
+3
+
+Shield Modulation
+
+
+
+-
+
++20% Max Shields
++20% Max Health
+
+
+
+4
+
+Defensive Systems
+
+
+
+-
+
++25% Max Shields
++30% Health Regeneration
+
+
+
+4
+
+Durability
+
+
+
+-
+
++20% Max Shields
++20% Max Health 
+
+
+
+5
+
+Defensive Positioning
+
+
+
+Liam takes less damage when in cover.
+
+Damage Resistance in Cover: 20
+
+
+5
+
+Close Combat Training
+
+
+
+Liam takes less damage when near enemies.
+
+Damage Resistance while enemies are near: 20
+
+
+6
+
+Momentum†
+
+
+
+After taking down an enemy, Liam gains a temporary damage bonus that stacks up to max limit. Additionally, Liam's maximum health and shields increase.
+
+Damage Bonus per Kill: 5%
+Damage Bonus Reset Duration: 10
++25% Max Shields
++25% Max Health 
+
+
+
+6
+
+Morale Boost†
+
+
+
+When Liam takes down an enemy, he recovers health and shields.
+
+Shield Restored: 10%
+Health Restored: 5%
+
+
+Note: †Rank 6 is unavailable to Liam until his loyalty mission Liam Kosta: All In is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-Player: Liam Kosta - Starting Tech Skill
+Multiplayer: N/A
+
+
+

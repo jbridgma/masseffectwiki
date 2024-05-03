@@ -1,0 +1,729 @@
+
+
+
+
+
+
+
+This article is about the Fitness power for multiplayer classes in Mass Effect 3. For an overview of the base power in Mass Effect 3, see Fitness (power). For the Talent in Mass Effect, see Fitness.
+
+Fitness is a passive class power in Mass Effect 3's multiplayer mode. 
+Certain races and classes have specialized versions of Fitness detailed here. 
+
+Contents
+
+1 Asari/N7/Project Phoenix/Quarian Female/Salarian/Volus Classes
+
+1.1 Rank 1: Fitness
+1.2 Rank 2: Durability
+1.3 Rank 3: Melee Damage
+1.4 Rank 4: Melee Damage/Durability
+1.5 Rank 5: Martial Artist/Shield Recharge
+1.6 Rank 6: Power Synergy/Fitness Expert
+1.7 Player Notes
+1.8 Availability
+
+
+2 Batarian/Turian Sentinel/Turian Soldier Classes
+
+2.1 Rank 1: Fitness
+2.2 Rank 2: Durability
+2.3 Rank 3: Melee Damage
+2.4 Rank 4: Melee Damage/Durability
+2.5 Rank 5: Martial Artist/Shield Recharge
+2.6 Rank 6: Melee Synergy/Fitness Expert
+2.7 Player Notes
+2.8 Availability
+
+
+3 Drell Classes
+
+3.1 Rank 1: Fitness
+3.2 Rank 2: Durability
+3.3 Rank 3: Melee Damage
+3.4 Rank 4: Melee Damage/Durability
+3.5 Rank 5: Martial Artist/Shield Recharge
+3.6 Rank 6: Melee Synergy/Fitness Expert
+3.7 Player Notes
+3.8 Availability
+
+
+4 Human Classes
+
+4.1 Rank 1: Fitness
+4.2 Rank 2: Durability
+4.3 Rank 3: Melee Damage
+4.4 Rank 4: Melee Damage/Durability
+4.5 Rank 5: Martial Artist/Shield Recharge
+4.6 Rank 6: Melee Synergy/Fitness Expert
+4.7 Player Notes
+4.8 Availability
+
+
+5 Quarian Male Classes
+
+5.1 Rank 2: Durability
+5.2 Rank 3: Melee Damage
+5.3 Rank 4: Melee Damage/Durability
+5.4 Rank 5: Martial Artist/Shield Recharge
+5.5 Rank 6: Power Synergy/Fitness Expert
+5.6 Player Notes
+5.7 Availability
+
+
+6 Turian Ghost/Turian Havoc/Turian Saboteur Classes
+
+6.1 Rank 1: Fitness
+6.2 Rank 2: Durability
+6.3 Rank 3: Melee Damage
+6.4 Rank 4: Melee Damage/Durability
+6.5 Rank 5: Martial Artist/Shield Recharge
+6.6 Rank 6: Melee Synergy/Fitness Expert
+6.7 Player Notes
+6.8 Availability
+
+
+7 Vorcha Classes
+
+7.1 Rank 1: Fitness
+7.2 Rank 2: Durability
+7.3 Rank 3: Melee Damage
+7.4 Rank 4: Melee Damage/Durability
+7.5 Rank 5: Martial Artist/Shield Recharge
+7.6 Rank 6: Melee Synergy/Fitness Expert
+7.7 Player Notes
+7.8 Availability
+
+
+8 See Also
+
+
+Asari/N7/Project Phoenix/Quarian Female/Salarian/Volus Classes[]
+Rank 1: Fitness[]
+Boost health, shields/barriers, melee damage, and durability.
+
+Health & Shield Bonus: 15%
+Melee Damage Bonus: 15%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 10%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 15%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage by 20%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 35%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 65%
+
+
+Durability
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 40%
+Melee Damage Bonus: 35%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Power Synergy/Fitness Expert[]
+
+
+
+Power Synergy
+Increase melee damage bonus by 30%.Increase power damage bonus by 30% for 20 seconds after an enemy is killed by heavy melee.
+
+Health & Shield Bonus: 25% (Melee Damage), 40% (Durability)
+Melee Damage Bonus: 95% (Melee Damage), 65% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 25%.
+
+Health & Shield Bonus: 50% (Melee Damage), 65% (Durability)
+Melee Damage Bonus: 65% (Melee Damage), 35% (Durability)
+
+
+
+Player Notes[]
+Availability[]
+Single-Player: N/A
+Multiplayer: Asari Adept, Asari Huntress Infiltrator, Asari Justicar Adept, Asari Valkyrie Sentinel, Asari Vanguard, N7 Fury Adept, N7 Demolisher Engineer, N7 Slayer Vanguard, Project Phoenix Adept, Project Phoenix Vanguard, Quarian Engineer, Quarian Infiltrator, Salarian Engineer, Salarian Infiltrator, Volus Adept, Volus Engineer, Volus Mercenary Sentinel, Volus Protector Vanguard
+Batarian/Turian Sentinel/Turian Soldier Classes[]
+Rank 1: Fitness[]
+Boost health, shields/barriers, melee damage, and durability.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 15%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 40%
+Melee Damage Bonus: 15%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 20%.
+
+Health & Shield Bonus: 40%
+Melee Damage Bonus: 35%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+
+Health & Shield Bonus: 40%
+Melee Damage Bonus: 65%
+
+
+Durability
+Increase health and shield bonuses by 20%.
+
+Health & Shield Bonus: 60%
+Melee Damage Bonus: 35%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Melee Synergy/Fitness Expert[]
+
+
+
+Melee Synergy
+Increase melee damage bonus by 30%.
+Increase weapon damage bonus by 25% for 20 seconds after an enemy is killed by heavy melee.
+
+Health & Shield Bonus: 40% (Melee Damage), 60% (Durability)
+Melee Damage Bonus: 95% (Melee Damage), 65% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 30%.
+
+Health & Shield Bonus: 70% (Melee Damage), 90% (Durability)
+Melee Damage Bonus: 65% (Melee Damage), 35% (Durability)
+
+
+
+Player Notes[]
+Availability[]
+Single-player: N/A
+Multiplayer: Batarian Brawler Vanguard, Batarian Sentinel, Batarian Slasher Adept, Batarian Soldier, Turian Sentinel, Turian Soldier
+Drell Classes[]
+Rank 1: Fitness[]
+Boost health, shields/barriers, melee damage, durability, and movement speed.
+
+Health & Shield Bonus: 20%
+Melee Damage Bonus: 15%
+Movement Speed Bonus: 10%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 35%
+Melee Damage Bonus: 15%
+Movement Speed Bonus: 10%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 20%.
+
+Health & Shield Bonus: 35%
+Melee Damage Bonus: 35%
+Movement Speed Bonus: 10%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+
+Health & Shield Bonus: 35%
+Melee Damage Bonus: 65%
+Movement Speed Bonus: 10%
+
+
+Durability
+Increase health and shield bonuses by 20%.
+
+Health & Shield Bonus: 55%
+Melee Damage Bonus: 35%
+Movement Speed Bonus: 10%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Melee Spree
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Barrier Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Melee Synergy/Fitness Expert[]
+
+
+
+Melee Synergy
+Increase melee damage bonus by 30%.
+Increase weapon damage bonus by 25% for 20 seconds after an enemy is killed by heavy melee.
+
+Health & Shield Bonus: 35% (Melee Damage), 55% (Durability)
+Melee Damage Bonus: 95% (Melee Damage), 65% (Durability)
+Movement Speed Bonus: 10%
+
+
+Fitness Expert
+Increase health and shield bonuses by 25%.Increase movement speed bonus by 10%
+
+Health & Shield Bonus: 60% (Melee Damage), 80% (Durability)
+Melee Damage Bonus: 65% (Melee Damage), 35% (Durability)
+Movement Speed Bonus: 20%
+
+
+
+Player Notes[]
+Availability[]
+Single-Player: N/A
+Multiplayer: Drell Adept, Drell Assassin Infiltrator, Drell Vanguard
+Human Classes[]
+Rank 1: Fitness[]
+Boost health, shields/barriers, melee damage, and durability.
+
+Health & Shield Bonus: 15%
+Melee Damage Bonus: 15%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 10%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 15%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 20%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 35%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 65%
+
+
+Durability
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 40%
+Melee Damage Bonus: 35%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Melee Synergy/Fitness Expert[]
+
+
+
+Melee Synergy
+Increase melee damage bonus by 30%.
+Increase weapon damage bonus by 25% for 20 seconds after an enemy is killed by heavy melee.
+
+Health & Shield Bonus: 25% (Melee Damage), 40% (Durability)
+Melee Damage Bonus: 95% (Melee Damage), 65% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 25%.
+
+Health & Shield Bonus: 50% (Melee Damage), 65% (Durability)
+Melee Damage Bonus: 65% (Melee Damage), 35% (Durability)
+
+
+
+Player Notes[]
+Availability[]
+Single-Player: N/A
+Multiplayer: Battlefield 3 Soldier, Human Adept, Human Engineer, Human Infiltrator, Human Sentinel, Human Soldier, Human Vanguard
+Quarian Male Classes[]
+Boost health, shields/barriers, melee damage, and durability.
+
+Health & Shield Bonus: 15%
+Melee Damage Bonus: 15%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 30%
+Melee Damage Bonus: 15%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 20%.
+
+Health & Shield Bonus: 30%
+Melee Damage Bonus: 35%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+
+Health & Shield Bonus: 30%
+Melee Damage Bonus: 65%
+
+
+Durability
+Increase health and shield bonuses by 20%.
+
+Health & Shield Bonus: 50%
+Melee Damage Bonus: 35%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Power Synergy/Fitness Expert[]
+
+
+
+Melee Synergy
+Increase melee damage bonus by 30%.
+Increase power damage bonus by 30% for 20 seconds after an enemy is killed by heavy melee.
+
+Health & Shield Bonus: 30% (Melee Damage), 50% (Durability)
+Melee Damage Bonus: 95% (Melee Damage), 65% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 25%.
+
+Health & Shield Bonus: 55% (Melee Damage), 75% (Durability)
+Melee Damage Bonus: 65% (Melee Damage), 35% (Durability)
+
+
+
+Player Notes[]
+Availability[]
+Single-Player: N/A
+Multiplayer: Quarian Male Engineer, Quarian Male Infiltrator, Quarian Marksman Soldier
+Turian Ghost/Turian Havoc/Turian Saboteur Classes[]
+Rank 1: Fitness[]
+Boost health, shields/barriers, melee damage, and durability.
+
+Health & Shield Bonus: 15%
+Melee Damage Bonus: 15%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 10%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 15%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 20%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 35%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 65%
+
+
+Durability
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 40%
+Melee Damage Bonus: 35%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Melee Synergy/Fitness Expert[]
+
+
+
+Melee Synergy
+Increase melee damage bonus by 30%.
+Increase weapon damage bonus by 30% for 20 seconds after an enemy is killed by heavy melee.
+
+Health & Shield Bonus: 25% (Melee Damage), 40% (Durability)
+Melee Damage Bonus: 95% (Melee Damage), 65% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 25%.
+
+Health & Shield Bonus: 50% (Melee Damage), 65% (Durability)
+Melee Damage Bonus: 65% (Melee Damage), 35% (Durability)
+
+
+
+Player Notes[]
+Availability[]
+Single-player: N/A
+Multiplayer: Turian Ghost Infiltrator, Turian Havoc Soldier, Turian Saboteur Engineer
+Vorcha Classes[]
+Rank 1: Fitness[]
+Boost health, shields/barriers, melee damage, and durability.
+
+Health & Shield Bonus: 15%
+Melee Damage Bonus: 15%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 15%.
+
+Health & Shield Bonus: 30%
+Melee Damage Bonus: 15%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 20%.
+
+Health & Shield Bonus: 30%
+Melee Damage Bonus: 35%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+
+Health & Shield Bonus: 30%
+Melee Damage Bonus: 65%
+
+
+Durability
+Increase health and shield bonuses by 20%.
+
+Health & Shield Bonus: 50%
+Melee Damage Bonus: 35%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Melee Synergy/Fitness Expert[]
+
+
+
+Melee Synergy
+Increase melee damage bonus by 30%.
+Increase weapon damage bonus by 30% for 20 seconds after an enemy is killed by heavy melee.
+
+Health & Shield Bonus: 30% (Melee Damage), 50% (Durability)
+Melee Damage Bonus: 95% (Melee Damage), 65% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 25%.
+
+Health & Shield Bonus: 55% (Melee Damage), 75% (Durability)
+Melee Damage Bonus: 65% (Melee Damage), 35% (Durability)
+
+
+
+Player Notes[]
+Availability[]
+Single-Player: N/A
+Multiplayer: Vorcha Hunter Engineer, Vorcha Sentinel, Vorcha Soldier
+See Also[]
+Advanced Hardware - Geth equivalent to Fitness.
+Ancient Warrior - Awakened Collector equivalent to Fitness.
+Fitness Module - Alliance Infiltration Unit equivalent to Fitness.
+Hardened Platform - Geth Juggernaut equivalent to Fitness.
+Omni-Bow Mastery - Talon Mercenary equivalent to Fitness.
+Rage - Krogan equivalent to Fitness.
+Shield Mastery - N7 Paladin equivalent to Fitness.
+Sword Mastery - N7 Shadow equivalent to Fitness.
+T5-V Internal Systems - N7 Destroyer equivalent to Fitness.
+Venom Gauntlets - Cabal Vanguard equivalent to Fitness.
+Warlord Rage - Krogan Warlord equivalent to Fitness.
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

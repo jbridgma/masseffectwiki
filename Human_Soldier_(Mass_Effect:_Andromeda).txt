@@ -1,0 +1,143 @@
+
+
+
+For the Human Soldier in Mass Effect 3 Multiplayer, see Human Soldier.
+
+
+Human Soldier
+
+
+
+
+
+							Female
+							
+						
+
+
+
+							Male
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Race
+Human
+
+
+Rarity
+Common
+
+
+Availability
+Starting Character
+
+
+
+Weapons expert with heavy armor and a gun for all occasions. Effective at any range.
+Female: The Human Soldier worked private security in the Terminus System [sic], but left to find adventure in Andromeda. She likes getting to know her new APEX colleagues and working with them to get the job done well.
+Male: The Human Soldier worked in the Alliance before joining the Initiative. He likes the idea of helping establish life in a new world, and he wants to do it in the way he thinks is noble and right.
+
+Skills and stats[]
+
+
+
+
+
+ Health: 500     Shields: 250
+
+
+Powers
+
+Frag Grenade
+
+
+Turbocharge
+
+
+Concussive Shot
+
+
+Passives
+
+Munitions Training
+
+
+Combat Fitness
+
+
+Veteran Bonus
+
+
+Melee
+
+Omni-Blade
+
+
+Bonus Stat
+
+Max Shields
+
+
+Player Notes[]
+General Notes[]
+A well-rounded starting class, the Human Soldier has tools for crowd control, spot removal, and massed fire.
+One strategy is to upgrade Concussive Shot with Rank 4 Repeat Concussion, and maximize the number of charges for Frag Grenade. Ignoring Turbocharge, the Soldier has no powers that rely on cooldowns, allowing you to take the heaviest weapons in the game with no penalty.
+If trying to maximize damage potentials for Frag Grenade and Concussive Shot against shields and armor at Rank 6, Frag Grenades should be Anti-Shield (+100% damage) and Concussive Shot should be Anti-Armor (+125% damage).
+Kett[]
+
+Outlaw[]
+
+Remnant[]
+
+
+
+
+
+Mass Effect: Andromeda Multiplayer and APEX HQ
+
+
+
+
+
+
+
+Common
+
+Human Adept • Human Engineer • Human Infiltrator • Human Sentinel • Human Soldier • Human Vanguard
+
+
+Uncommon
+
+Asari Adept • Asari Sentinel • Krogan Engineer • Krogan Vanguard • Salarian Infiltrator • Turian Soldier
+
+
+Rare
+
+Angara Insurgent • Asari Huntress • Batarian Scrapper • Human Artificer • Human Commando • Human Guardian • Human Juggernaut • Krogan Mercenary • Salarian Architect • Turian Agent • Turian Havoc Trooper
+
+
+Ultra Rare
+
+Angara Avenger • Angara Exemplar • Asari Duelist • Batarian Vanguard • Human Kineticist • Krogan Gladiator • Salarian Operator
+
+
+
+

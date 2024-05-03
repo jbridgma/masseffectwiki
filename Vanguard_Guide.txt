@@ -1,0 +1,216 @@
+
+
+
+See also: Vanguard Guide (Mass Effect 2), Vanguard Guide (Mass Effect 3)
+
+Vanguards are biotic warriors. They combine biotics and weapons to take down opponents, and are especially deadly at short range. They use pistols and shotguns, and can specialize in medium armor.
+
+Contents
+
+1 Overview
+2 Talents
+
+2.1 Class Talents
+
+2.1.1 Pistols
+2.1.2 Shotguns
+2.1.3 Assault Training
+2.1.4 Tactical Armor
+2.1.5 Throw
+2.1.6 Lift
+2.1.7 Warp
+2.1.8 Barrier
+2.1.9 Vanguard
+2.1.10 Charm
+2.1.11 Intimidate
+2.1.12 Spectre Training
+
+
+2.2 Suggested Bonus Talents
+
+2.2.1 Singularity
+2.2.2 Electronics
+2.2.3 Decryption
+2.2.4 Hacking
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Pistols
+3.2 Shotguns
+3.3 Sniper Rifles
+3.4 Assault Rifles
+
+
+4 Combat Guide
+
+4.1 Tips
+
+
+5 Squad Members
+6 Specialization Classes
+
+6.1 Shock Trooper
+6.2 Nemesis
+
+
+
+
+
+Overview[]
+The Vanguard is a close-combat specialist, possessing all the abilities required to push ahead aggressively and clear the way for the team. They are the first into a battle and first out, excelling at disabling and then eliminating enemies. The Vanguard can sprint in and make short work of enemies with their heavy shotgun. But if it fails, the biotically-assisted warrior can manipulate the field in their favour: disorienting their enemies and creating a vital opportunity, while increasing their utility with handy little tricks.  Supplementing this arsenal with the survivability of Medium Armor and Barrier, and the Vanguard becomes unstoppable. There is undoubtedly no better choice than the Vanguard for rapid and highly reactive gameplay, capable of changing the fight at the drop of a hat.
+The Vanguard is, however, not suited to long range combat and can benefit from support which can disable enemies and pull them out of cover. In addition, while the Vanguard is a jack of many trades, they are severely lacking in engineering, and are at a disadvantage without an engineer, sentinel, or infiltrator ally. Remember that covering your Vanguard's advance will leave you with a more decisive and satisfying advantage.
+
+Talents[]
+Class Talents[]
+Pistols[]
+Main article: Pistols; See also: Weapons section of this article
+While the pistol is a baseline weapon available to every class and is not very exciting, it can still be a useful part of the Vanguard arsenal. Pistols are a good backup for mid-range and long-range combat, providing necessary flexibility and compensating for the limited range of the shotgun. As an example, the Marksman ability also allows you to quickly use a mid-range situation to pick off enemies. However, it is usually advantageous to focus on using the much more damaging shotgun.
+
+Shotguns[]
+Main article: Shotguns; See also: Weapons section of this article
+Unlocked with 6 points in Pistols
+The shotgun is the signature weapon of the Vanguard. Most effective at short range, these devastatingly effective firearms allow you to pop up or around cover and eliminate enemies in quick bursts. It lives up to the ideal that "the best defence is a good offense," as it can kill enemies before they can react, and thus limit the Vanguard's exposure to enemy fire. Additionally, they apply physical force, which can disable enemies temporarily by knocking them back. The immobilisation and stun give you even more time to act. The inaccuracy of a shotgun is not an issue for three reasons: it will be used at close range, it fires multiple slugs (meaning even at mid-range at least some damage will occur), and the fact that it will regain accuracy between shots. Finally, this talent unlocks the Carnage ability, which launches an explosive burst which deals a massive amount of damage and usually knocks down enemies.
+
+Assault Training[]
+Main article: Assault Training
+Assault Training is somewhat helpful because it boosts your weapons damage and significantly increases melee damage. As a close-combat specialist, melee attacks can be applied frequently and are a vital tool for controlling enemies through knockdown. While Assault Training does not increase the chance of knockdown, it could allow you to kill off an enemy before they hit the ground. Assault Training also unlocks Tactical Armor after 5 points, eventually allowing you to pursue medium armor, which will vastly help your survivability. The active skill, Adrenaline Burst, can be used to immediately recharge all of your personal talents (not squadmates), notably including biotics and first aid, which can be invaluable in heavy combat. In a pinch, this will allow you to quickly refresh your control and survivability abilities and eliminate another set of enemies. This can give you a vital edge in a tight situation, and the Vanguard is one of the two classes (the other being Soldier) that have access to this talent.
+
+Tactical Armor[]
+Main article: Tactical Armor
+Unlocked with 5 points in Assault Training
+Tactical Armor provides the Vanguard with high physical damage protection, which is useful if shields run out, or are ineffective against bypass attacks (such as explosions or acid spit), as well as melee damage (although this won't save you from a krogan). It also provides hardening against ability damage. As well as these bonuses, it also unlocks the Shield Boost ability, which will quickly recharge the Vanguard's shields (and barrier if activated). A large proportion is regenerated and this can be invaluable in a long firefight. Probably the most useful result of this talent is the medium armor unlock at seven points, which can greatly improve the class's survivability with its significantly higher damage protection.
+
+Throw[]
+Main article: Throw
+Throw is an essential and very versatile power that flings enemies backwards. While nothing fancy, this completely disables enemies for a time by knockback. This stops them from firing, makes enemies vulnerable to your weapons, and removes the threat of melee attacks. When your position is starting to get overwhelmed by enemies and you need some breathing room, this is the power to go to. There are only two exceptions: airborne enemies tend to be less affected by the physics force, and some krogan are resistant due to their high mass. Otherwise, this power can stop an enemy crawling about, into cover, or towards you. Deceptively simple, but very effective, Throw is useful against any threat and can be used in a multitude of scenarios that are more prevalent than one would think. 
+
+Lift[]
+Main article: Lift
+Unlocked with 7 points in Throw.
+Lift is a disabling ability that makes a small group of enemies float into the air, removing them from the fight for a few seconds. Lift keeps enemies tied up for several precious seconds while you pick off their allies, and gives you some free airborne target practice. Lift is especially useful against enemies such as krogan, which are otherwise difficult to kill off at long range, and Geth Colossi, which can be disabled by Lift long enough to kill them.
+There are other advantages to having enemies flying in the air. Targets also maintain their initial velocity - charging enemies will be propelled out as well. Even if not, enemies take damage from the fall when they land. Lift is extremely useful once a few points are put into it; when targets are lifted into the air, they can be eliminated if lifted too far from the map, and with a high-rank Lift or follow-up Throw to heft them out of the area, this can be done with ease.
+
+Warp[]
+Main article: Warp
+Warp is a useful debuffing move that decreases an opponent’s damage protection (ie armour) and deals damage over time through shields. Another benefit is that it unlocks Barrier at level 4, which helps with the Vanguard's survival. Warp itself is effective against enemies with high health as it does an effective job at reducing enemy defenses and makes each attack do much more damage. This becomes especially useful on higher difficulty settings.
+
+Barrier[]
+Main article: Barrier
+Unlocked with 4 points in Warp.
+Barrier is essential to an effective Vanguard as it boosts shields significantly. This provides the protection needed to fight at close range with the shotgun, and greatly increases the player's survivability. Barrier is also augmented by the Vanguard's biotic abilities and is the defensive talent if a Vanguard suddenly finds itself in an situation where they're taking heavy fire and can't take cover, or they need a survivability boost while taking advantage of an offensive opportunity.
+
+Vanguard[]
+Main article: Vanguard
+The class talent for the Vanguard improves biotic resistance and damage from shotguns and pistols. For a Vanguard, the bonuses to damage to its weapons is very helpful because that reduces the reliance on biotics for attacks. Once your specialization class is chosen (see section below), levels 7-12 unlock and you will get even more rewards based on your pick.
+
+Charm[]
+Main article: Charm
+This talent is tied to Paragon, and will open additional conversation options that will often lead to additional information, avoiding combat, bonus items, etc. as well as awarding Paragon points. Morality point thresholds provide minor bonuses - in this case to first aid and power cooldown reduction. This talent will also reduce the cost of items purchased in stores.
+
+Intimidate[]
+Main article: Intimidate
+Similar to Charm, above, though linked with Renegade, this talents opens conversational options that are likely to increase Renegade points. Renegade morality thresholds primarily add bonuses to damage and damage dealing abilities which can be useful to a Vanguard. Vendors offer an increase in the credits gained when selling items.
+
+Spectre Training[]
+Main article: Spectre Training
+Spectre Training is a useful talent as it grants a variety of bonuses--it's essentially the all-rounder talent. Not only does it increase health, but it grants access to the unity ability, which can revive squadmates that are downed in combat. As well as health, it also grants a small bonus (.5% per level) to damage and power duration, and accuracy (2% max, 0.4% regen per level).
+
+Suggested Bonus Talents[]
+Singularity[]
+Main article: Singularity
+Singularity is recommendable since it contributes to the Vanguard's close-combat excellence by improving crowd control. In turn, this provides better combat opportunities. Similarly to Lift, Singularity can also help pull enemies out of cover. Adding Singularity gives you most of the abilities of the Adept, with the added advantages of medium armor and more effective weapons, coupled with Adrenaline Burst.
+
+Electronics[]
+Main article: Electronics
+Electronics is also an excellent option. It gives a large passive boost to shielding and is used to unlock some containers. This adds greatly to a Vanguard's survivability, and lessens dependency on Barrier. Moreover, having Shepard take care of the locks with Electronics frees up points for party members to spend on other skills. It also grants the Overload ability, which causes significant damage to enemy shields, allowing more efficient use of weapons fire to take enemies down.
+
+Decryption[]
+Main article: Decryption
+Decryption is also a good choice, as it allows the player access to Sabotage and the choice of forgoing a tech-based party member for unlocking containers in favor of a more combat oriented ally such as Ashley or Liara, the latter being an especially good choice given her Singularity, Electronics, and First Aid talents. Sabotage is an excellent addition to the Vanguard's repertoire as it allows the player to close the distance to enemies when biotics or cover aren't viable options. A high enough decryption skill, coupled with biotics and Adrenaline Burst, allows Vanguards to tackle enemies such as Colossi on foot without fear of retaliation.
+
+Hacking[]
+Main article: Hacking
+Another option is hacking, but this has its pluses and minuses. Because the Vanguard will not gain any of the cooldown bonuses due to a complete lack of tech abilities, a lot of stat points will go to waste, but high level AI Hacking gives a Vanguard an instant edge in any battle involving drones, turrets or geth (i.e. most of them), and frees you to use those close-combat abilities to devastating effect, especially if you're carrying Tungsten Ammunition.
+
+Weapons and Equipment[]
+Note that for Vanguards, Pistols and Shotguns have associated skills by default.
+
+Pistols[]
+Main article: Pistols
+The versatile weapon for just about any situation, and with the marksman ability, an able weapon. Pistols are good because they will hit their target at in almost any situation, which is a strength and a weakness. They don't do much damage, but have a higher accuracy and better range than the shotguns that give them to cover when the shotgun is not usable. The pistol should always be ready for a situation where your armour just won't be enough. Pistols will always be your primary ability to attack enemies at mid to long-range.
+
+Shotguns[]
+Main article: Shotguns
+The shotgun is the focus of the Vanguard's combat abilities, the real meat and potatoes of their skills. Built for close quarter combat, it is impossible to overemphasise their key strengths - high, burst fire damage and the ability to knock down enemies. It is necessary to keep to their close-range domain, as the bad spread/accuracy of shotguns will limit the extent of its damage at mid to long-range. Shotgun use is somewhat situational, but appropriate use of the Vanguard's biotics, tactical use of squadmate powers and good planning can be used to keep within this "situation" almost all of the time.
+A suggested gearing development for damage optimisation is Elkoss Combine, Haliat Armory and Armax Arsenal from I-III, IV-VII and VIII-X. Alternatively, the HMWSG Master Shotgun may also be of use.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Sniper rifles are also a situational weapon. While it does help fill the long range gap the Vanguard has, choosing it for a Vanguard comes down to personal playstyle and choice. Because sniper rifles can be chosen instead of a bonus power, picking them will change how a Vanguard operates. That said, it can also be useful because the rifles can allow a Vanguard to whittle down the enemy at a distance, then charge forward to finish the rest. Its assassination ability is extremely useful in this capacity. While offset by a long cooldown, it can be very useful in situations where going toe-to-toe with enemies would mean certain death. Overall, they are a situation weapon that comes down to personal playstyle.
+
+Assault Rifles[]
+Main article: Assault Rifles
+Because assault rifles would help fill the long-range gap the Vanguard has, and they are useful in just about any situation, they are a solid third weapon. While it does take up a bonus power slot, it doesn't go to waste. The Overkill ability helps to stabilize the rifle and make it very useful at long range. The rifles will help to reduce the reliance on the pistol, but at close range nothing tops the shotgun. Assault rifles help fill the mid to long range gap in the Vanguard's effectiveness, and is a worthy addition to a Vanguard’s arsenal.
+
+Combat Guide[]
+The weapon skill that makes this class a "soldier" is most definitely the shotgun. As discussed in the Overview and Shotgun sections, due to the weapon skill/specialisation, you gain up to 20% extra damage of an already spectacularly damaging weapon. If you are not able to use the shotgun, you've already lost damage output; so close range tactics are crucial to getting the most out of a Vanguard. This type of engagement relies on good mobility and positioning while using as much cover as possible. "Close range" engagement is flexible, as long as your shotgun is still doing decent damage. Always remember that the two objectives, dealing damage and making it simple shooting, come from two things: the shotgun and biotic powers. Your biotics provide support and survivability - Throw removes imminent danger such as Husks, Warp breaks shields from cover and makes your shotgun hit harder and Barrier buys flexibility and time out of cover. A notable power in itself is Adrenaline Burst. An ace-in-the-hole cooldown, it allows you to refresh all your biotic powers and combat talents at once. All of these tools - mobility, shotgun usage, and biotic support - should be held in mind and added together to the accomplishment of the principal objectives of damage and survival.
+In practice, on engaging you should sprint into a good position in cover (as close to the enemy as possible) and hit them with warp for the damage increase. The best option in combat is to use the shotgun aggressively to quickly and cleanly eliminate nearby enemies/threats. As the battle progresses make sure to look for new positions and cover to sprint between, because when you walk around in the open at close quarters, survivability becomes an issue. Throw (and in some cases, your melee) allows you to knockdown and disable melee combatants such as krogans or husks. Defensive abilities such as Barrier and Shield Boost allow you to leave cover for longer and allow you some flexibility in movement or shooting.  Once the enemies are eliminated, keep your momentum and move on to the next encounter. 
+
+Tips[]
+The Vanguard is not the most durable class in an open fight, so don't be afraid to use cover at any range. Cover should ideally be used at any time you are vulnerable to enemy fire, such as when your weapons/powers are on cooldown, or after sprinting towards an enemy. If you need to shift your position in the battle, aim for another piece of cover and sprint towards it.
+Don't be afraid to use your powers - they're extremely useful. Ensure you are familiar with the controls to use them, as they make your class unique and will make the experience smoother.
+If you are forced to stay at mid-range by a lack of cover, prioritise and soften dangerous enemies until you can fight them without it. At mid range, your tactics should include biotics (lift especially) for removing enemies from cover, pistol-sniping or using Carnage on dangerous enemies. Squadmates and their powers can also be very useful here. Any long range combat should be completely avoided in favour of advancing.
+Adrenaline Burst is very versatile and the Vanguard is the only biotic class to have it. Defensively it can be used in an emergency, to restore Barrier or Shield Boost, as well as Unity and First Aid access, or to push dangerous enemies away with Throw. On the offensive, multiple uses of Lift and Warp, Marksman, and Carnage can rack up damage.
+A shotgun that is accurate enough to scope and provide decent mid-range coverage can help extend the shotgun's versatility. A decent suggestion, especially for second characters, can be obtained from the Spectre - Master Gear vendor.
+
+Squad Members[]
+The Vanguard's primary concern will be to gain the basic tech talents: especially Electronics and Decryption. Without them, many containers cannot be unlocked, computer stations hacked, etc. A character with basic tech specialization (Kaidan, Garrus, or Tali) will therefore be required. Another consideration will be ranged firearms/Combat, as Vanguard weapons focus on close range. A final alternative suggestion would be towards specialist support characters that debuff enemies, such as Damping, Singularity, or AI Hacking, that help at medium to long range.
+Garrus is a prime choice, complementary to the Vanguard with solid ranged and engineering support. His engineering talents are well rounded (Decryption, Damping and Electronics) and Assault Rifles and the Sniper Rifles talents allow for long range engagement.
+In terms of combinations, the most balanced party is Kaidan and Garrus. This provides strong support against all enemies, but is not very focused at any paticular range and has limited specialist abilities.
+A strong offensive combination is Wrex and Garrus. While quite short on engineering and specialist support, all three characters are durable combatants. Best used against organic melee enemies, although you might find yourself waiting for some opportunities that could be picked up by Singularity.
+Finally, a group with a biotic specialist such as Liara and Garrus will be effective in urban settings and closed environments with lots of cover. This provides a well-balanced group capable of manipulating and engaging all ground targets, but may take slightly longer than other groups.
+
+Specialization Classes[]
+Shock Trooper[]
+Main article: Shock Trooper
+The Shock Trooper is for those Vanguards who like to jump in and mix it up, while getting up close and personal. It drastically improves your survivability: firstly through direct bonuses to health and damage protection, and secondly through talent specialisation, adding constant regeneration and a large duration bonus to Barrier. As well as survivability bonuses, the other specialisation boost grants a hefty 25% reduction in the cooldown of Adrenaline Rush which allows the biotic abilities to be used more frequently to support an aggressive playstyle. Overall, this allows you to play a lot more dangerously and risky with your Vanguard, while not having to worry about enemy fire.
+
+Nemesis[]
+Main article: Nemesis
+The Nemesis specialisation helps weaken enemies from range. It increases the effectiveness of each individual use of your biotic talents. If you want them to do more damage, and if you like hard-hitting biotics, then the nemesis specialization is for you. Specifically, it increases the size of Warp and Lift (2m and 4m of radius, respectively). The total increase to Warp's damage is a total of 56.8% per use of the power. This can make it highly effective against shielded or protected enemies.
+It is a good one for those who like consistency in their biotic debuffs and crowd control. However, it should be noted that the direct bonus increases damage and duration: while the Vanguard's playstyle tends to emphasise using its biotic arsenal for quick tactics and close-range gunfights, this can strengthen the Vanguard's versatility, especially outside of close range; by increasing damage potential, making crowd control more effective, and providing a mild increase to durability. On the other hand, with a shotgun being the biggest differentiator between this class and the Adept, the Vanguard is a class of extremes and focused control rather than versatility, and the crowd-control boosts could easily be provided by a squadmate, especially as they are usually used while at mid-range. This means that Nemesis is somewhat more unclear and uncertain as a choice than Shock Trooper's survivability bonuses, albeit one no less popular.
+
+
+
+
+
+Mass Effect Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Experience • Systems • Mako • Codex
+
+
+Achievements
+
+Completionist • Rich Achievement •  Party Member Achievements  Scholar Achievement • Weapon and Ability Achievements
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • Merchants
+
+
+
+

@@ -1,0 +1,580 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut voicelines and dialogues related to the assignment Caleston: Redemption. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 lav20_trig05_prostitute_comment
+2 lav20_maddiekedward_new (1)
+3 lav20_matthewbaudelaire (1)
+4 lav20_ruushok
+5 lav20_trig03_harrah_bar
+6 lav20_trig01_harrah_beatdown
+7 lav20_jasonharrah (1)
+8 lav20_hieraxun (1)
+9 lav20_maddiekedward_new (2)
+10 lav20_matthewbaudelaire (2)
+11 lav20_jasonharrah (2)
+12 lav20_jasonharrah (3)
+13 lav20_jasonharrah (4)
+14 lav20_tatiananaidenov (1)
+15 lav20_jasonharrah (5)
+16 lav20_trig04_shooting
+17 lav20_trig11_end_harrah_dead
+18 lav20_trig12_end_reunion
+19 lav20_trig08_aftermath
+20 lav40_sessatarrent
+21 nor20_ambient_tatiana
+22 lav40_trig01_harrah_wren
+23 lav20_jasonharrah (6)
+24 lav20_maddiekedward_new (3)
+25 lav20_matthewbaudelaire (3)
+
+
+lav20_trig05_prostitute_comment[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig05_prostitute_comment_de.isb, lav20_trig05_prostitute_comment_fr.isb, lav20_trig05_prostitute_comment_it.isb
+Characters present:
+
+Matthew Baudelaire
+Maddie Kedward
+
+Maddie Kedward: Why can't they just leave her alone? Tatiana must be feeling awful.
+Matthew Baudelaire: No idea. But I haven't seen her holding a bottle.
+Maddie Kedward: You know as well as I do what happened.
+
+lav20_maddiekedward_new (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_maddiekedward_new_de.isb, lav20_maddiekedward_new_fr.isb, lav20_maddiekedward_new_it.isb
+Characters present:
+
+Maddie Kedward
+Commander Shepard
+
+(Only if Shepard is female)
+Maddie Kedward: Looking for someone to talk to? I think Matthew's in the mood for a chat.
+(End of conversation)
+
+(Only if Shepard is male)
+Maddie Kedward: Nice gun you have there, sailor. You're new in town? Looking for some fun?
+
+(Par) I'm not a sailor. (Neu) What was that? (Ren) Just sight-seeing.  Shepard: Sailor? I am an Alliance marine.Maddie Kedward: Oh... I could give you a good brushing.
+(Par) No need, thanks. (Neu) Slow down a bit. (Ren) No. Definitely not.  Shepard: We can keep whatever hairstyle we want after basic training.Maddie Kedward: (giggles) So cute. That's not what I meant, but it's alright. I'm Maddie. Did you come here for the mining business, or just to enjoy streetfights? Shepard: Aren't you going a bit fast?Maddie Kedward: Fast, slow... I can do whichever you want, sugar. I'm Maddie. Did you come here for the mining business, or just to enjoy streetfights? Shepard: If I wanted a piece of meat, I'd go to the butcher.Maddie Kedward: (giggles) Your loss. I'm Maddie. Did you come here for the mining business, or just to enjoy streetfights? Shepard: What kind of "fun" are we talking about?Maddie Kedward: A little of this, a little of that. You won't know till you've tried, right? I'm Maddie. Did you come here for the mining business, or just to enjoy streetfights? Shepard: Right now, I'm just enjoying the view.Maddie Kedward: (giggles) Here? Over here, you can see a yellow rock. And on your right, a reddish rock. I'm Maddie. Did you come here for the mining business, or just to enjoy streetfights?
+(Neu) Goodbye. (Inv) Investigate  Shepard: I should go.Maddie Kedward: Come back soon.(End of conversation)(Re-initiating conversation)Maddie Kedward: Nice to see you again. Wanna buy me a drink?(Return to last choice)
+(Neu) Return (Inv) Profession (Inv) Gang violence (Inv) Things to do  (Return to last choice) Shepard: You're not dressed like a mine worker.Maddie Kedward: I give massages... for my college fund, of course. (giggles) Just kidding. I'm a walking, talking entertainer... though most people prefer when I "entertain."
+(P Inv) Sounds tough. (R Inv) Seems you like it.  Shepard: How did you end up in this line of work?Maddie Kedward: The Union gave me a ride off of Earth. This job's how I repay them. They call it "contractual transit."
+(P Inv) Interesting.  Shepard: I've never heard of anything like that.Maddie Kedward: It's an aid program for the poorer citizens of Earth, to start a new life in the colonies. On paper, it's nice and legal. Except once you get here, you end up treated like a slave. Do you think I wanted to be a whore?
+(P Inv) You should speak out.  Shepard: Why don't you file a complaint?Maddie Kedward: To who? Eldfell-Ashland? They say it's a Union concern. Earth? The Citadel? They have no authority here. You know why I came here? I heard the stories about starting a new life on the frontier.
+(P Inv) I owe the Alliance.  (Only if Shepard is Earthborn)Shepard: Many people would do anything to escape poverty back home. Some join the navy.Maddie Kedward: You're from Earth? And now you're an Alliance officer, right? You sure have had it good.
+(P Inv) I'm sorry. (R Inv) "Had it good"? Really?  Shepard: I didn't mean to offend you.Maddie Kedward: Don't worry. It's nice to see someone from back home made it. It gives us hope, right?(Return to overarching choice)
+(Sole Survivor background) (War Hero background) (Ruthless background)  Shepard: I've seen my unit get wiped out by thresher maws, so don't tell me I've "had it good." Shepard: I was on Elysium during the Skyllian Blitz. I've seen many friends die there, so don't tell me I've "had it good." Shepard: I've trudged knee-deep in the blood of slave pits on Torfan, so don't tell me I've "had it good."
+Maddie Kedward: Okay, okay, relax already! No need to get worked up! I guess no one's got it easy.(Return to overarching choice) Shepard: You look happy. Enjoying your work?Maddie Kedward: If I looked unhappy, if I was crying, would you still want to sleep with me? I've got a quota to fulfill.(Return to last choice) Shepard: Fights seem rather common here. Why is that?Maddie Kedward: It all comes down to the refinery. The Union and the Cartel are trying to squeeze this station for all it's worth. The Union controls all the heavy machinery, and the Cartel holds the refining labs... and both want it all.(Return to last choice) Shepard: Any work available around here?Maddie Kedward: I don't think you'd be interested in my line of work. The Cartel isn't hiring, so that only leaves Tombiri. Go ask her.(Return to last choice)
+lav20_matthewbaudelaire (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_matthewbaudelaire_de.isb, lav20_matthewbaudelaire_fr.isb, lav20_matthewbaudelaire_it.isb
+Characters present:
+
+Matthew Baudelaire
+Commander Shepard
+
+(Only if Shepard is male)
+Matthew Baudelaire: I'm busy, friend. Maddie is always up for some fun, why don't you go chat her up?
+(End of conversation)
+
+(Only if Shepard is female)
+Matthew Baudelaire: Hello, sweetheart. Looking for someone to show you around?
+
+(Par) Thanks for the offer. (Neu) Meaning? (Ren) Just sight-seeing.  Shepard: Sorry to disappoint, but I'm not a tourist.Matthew Baudelaire: I don't doubt it. I meant to say I can take you to a world of unforgettable experiences.
+(Par) Tempting. (Neu) Ugh... (Ren) No. Definitely not.  Shepard: You certainly have a way with words.Matthew Baudelaire: Your face inspires me, sweetheart. Matthew Baudelaire, at your service. Are you here for mining, or just to watch streetfights? Shepard: I'm starting to feel a bit nauseous.Matthew Baudelaire: Not because of me, I hope. Matthew Baudelaire, at your service. Are you here for mining, or just to watch streetfights? Shepard: If I wanted a piece of meat, I'd go to the butcher.Matthew Baudelaire: Hahaha! All right, all right. If you want to talk, I'll be here.(End of conversation)(Re-initiating conversation)Matthew Baudelaire: Good day, Miss. Looking for someone to chat with? Shepard: What is it you're offering exactly?Matthew Baudelaire: Let's just say that mere chit-chat would be a tragic waste of my skillful tongue. Matthew Baudelaire, at your service. Are you here for mining, or just to watch streetfights? Shepard: Right now, I'm just enjoying the view.Matthew Baudelaire: Caleston's landscapes are unworthy of your eyes, my dear. Matthew Baudelaire, at your service. Are you here for mining, or just to watch streetfights?
+(Neu) Goodbye. (Inv) Investigate  Shepard: I should go.Matthew Baudelaire: Come back soon.(End of conversation)(Re-initiating conversation)
+(If Matthew wasn't scolded) (If Matthew was scolded)  Matthew Baudelaire: Hello, sweetheart. Would you like a drink with me? Matthew Baudelaire: Good day, Miss. Looking for someone to chat with?
+(Return to last choice)
+(Neu) Return (Inv) Profession (Inv) Gang violence (Inv) Things to do  (Return to overarching choice) Shepard: You're not dressed like a mine worker.Matthew Baudelaire: Indeed. I am an escort extraordinaire, sensible to the ladies' needs. I work for the Miners' Union.
+(P Inv) What led you to this? (R Inv) Seems you like it.  Shepard: How did you end up in this line of work?Matthew Baudelaire: They paid for my ticket off of Earth. I work to pay them back. They call it "contractual transit."
+(P Inv) Interesting. (R Inv) This can't be legal.  Shepard: I've never heard of anything like that.Matthew Baudelaire: Ah, contractual transits have been all the rage for a couple of years. They take the poor off of Earth and give them work. The problem is some people on the frontier may end up treated like slaves. The Alliance can't be everywhere, can it?
+(P Inv) I owe the Alliance. (R Inv) You should speak out.  (Only if Shepard is Earthborn)Shepard: Many people would do anything to escape poverty back home. Some join the navy.Matthew Baudelaire: I could've sworn you came from the stars, like other angels.
+(P Inv) Oh, you... (R Inv) Stop that, or else.  Shepard: I doubt many angels are as well armed as I am.Matthew Baudelaire: I did notice your moves were quite... graceful.(Return to overarching choice) Shepard: Keep that up and I'll show you some feminine delicacy.Matthew Baudelaire: Then I can only hope you'll let me die delicately, my lady.(Return to overarching choice) Shepard: Why don't you file a complaint?Matthew Baudelaire: We have a security officer, but even if he wasn't drunk all the time, he'd still be powerless.(Return to overarching choice) Shepard: The Alliance wouldn't stand for this kind of practice.Matthew Baudelaire: Of course. But the Alliance can't keep track of everything going on out here. Some people practically end up like slaves.
+(R Inv) You should speak out.  Shepard: Why don't you file a complaint?Matthew Baudelaire: We have a security officer, but even if he wasn't drunk all the time, he'd still be powerless.(Return to overarching choice) Shepard: You look happy. Enjoying your work?Matthew Baudelaire: I don't mind. Getting paid to make love every night? Yes, please.(Return to last choice) Shepard: Fights seem rather common here. Why is that?Matthew Baudelaire: Ah, the Union and the Cartel. They've been fighting over the refinery since the Cartel landed.(Return to last choice) Shepard: Any work available around here?Matthew Baudelaire: Certainly. The administrator would know of any job openings. Go see her at her office.(Return to last choice)
+lav20_ruushok[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_ruushok_de.isb, lav20_ruushok_fr.isb, lav20_ruushok_it.isb
+Characters present:
+
+Ruushok
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Ruushok: What the hell do you want?
+
+(Par) I'm thirsty. (Neu) Goodbye. (Inv) Any gossip?  Shepard: A drink.Ruushok: No chit-chat. Good. Here.
+(Par) Another one. (Neu) Thanks. (Ren) I didn't order this. (Inv) Looks... weird.  Shepard: A drink.Ruushok: So you want to get drunk? I'll get you drunk. Shepard: That'll do, thanks.Ruushok: Thanks aren't as good as a tip. Shepard: Do you always decide for your customers?Ruushok: You've got your drink. Leave the bar to the other paying customers. Shepard: It's... It's green?Ruushok: And waste my time, why don't you? Shepard: I should go now. Shepard: You must know all about this place.Ruushok: Another idiot who's come to jerk me around. I just serve drinks. If you want news, go listen to the reports. Damn apes. Always asking the bartender. I should just throw them out.(End of conversation)
+(End of conversation)
+(The following only happens once and if Wrex is present)
+Urdnot Wrex: Do you have buffalo wings?
+| Kaidan Alenko: You like buffalo wings?
+| Ashley Williams: You like buffalo wings?
+| Tali'Zorah: Isn't that human food? Do you really like it?
+| Garrus Vakarian: Isn't that human food? Do you really like it?
+Urdnot Wrex: I could eat them in spades. They're so crunchy.
+| Garrus Vakarian: Why are you staring at me?
+|| Urdnot Wrex: No reason.
+
+lav20_trig03_harrah_bar[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig03_harrah_bar_de.isb, lav20_trig03_harrah_bar_fr.isb, lav20_trig03_harrah_bar_it.isb
+Characters present:
+
+Jason Harrah
+Tatiana Naidenov
+Ruushok
+Sebastian Van Heerden
+
+Ruushok: Anyone else smell that foul stench? Oh, look who stumbled in looking for a fresh bottle
+Sebastian Van Heerden: Hello, Officer Harrah. You should say hi, Miss Naidenov.
+Tatiana Naidenov: Hi, Jason.
+Jason Harrah: Whiskey, Ruushok. Nah, forget the glass. Just give me the whole bottle.
+Sebastian Van Heerden: Seems like he ignored your greeting, Miss. Do you want me to teach him to show some respect?
+Tatiana Naidenov: No! Please. Leave him alone.
+Sebastian Van Heerden: As you wish. Last time I gave him a lesson, he was too drunk to even notice.
+Ruushok: Reminds me of the wet sounds he makes when he hits the ground.
+
+
+lav20_trig01_harrah_beatdown[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig01_harrah_beatdown_de.isb, lav20_trig01_harrah_beatdown_fr.isb, lav20_trig01_harrah_beatdown_it.isb
+Characters present:
+
+Jason Harrah
+Ruushok
+Commander Shepard
+Unnamed human male
+Unnamed turian male
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+
+Jason Harrah: Stop it! Come on, damn it, just stop!
+Human: This doesn't concern you, Harrah.
+Jason Harrah: The way I see it, son, you're misbehaving on my deck.
+Ruushok: You had better go back to your booze if you know what's good for you.
+Jason Harrah: I've never known what's good for me.
+| Ashley Williams: We're going to help him, right?
+| Kaidan Alenko: He may be in too deep.
+| Garrus Vakarian: Shouldn't we help him out?
+| Urdnot Wrex: He must be new to this job. I would have stabbed them in the back.
+
+(Par) Stop that! (Neu) It's too risky. (Ren) Not our problem.  Shepard: Leave him alone!Turian: Who do you think you are?
+(Neu) Fire at will! (Cha) Last warning. (Int) You want to find out?  Shepard: Shoot them down, now!Ruushok: Damn.(End of conversation) Shepard: I'm counting to five. One... Four...Turian: We're going. But we'll remember this.(End of conversation) Shepard: The one with a gun. Weren't you leaving?Turian: We're going. But we'll remember this.(End of conversation) Shepard: We shouldn't intervene until we know what's going on.Ruushok: Eat dust, you damn drunk.(End of conversation) Shepard: He got himself into this mess, it's his to deal with.Ruushok: Eat dust, you damn drunk.(End of conversation)
+lav20_jasonharrah (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_jasonharrah_de.isb, lav20_jasonharrah_fr.isb, lav20_jasonharrah_it.isb
+Characters present:
+
+Jason Harrah
+Commander Shepard
+
+(If Harrah wasn't helped) (If Harrah was helped)  Jason Harrah: What? Come to make fun of the old drunk who couldn't see an ambush coming?
+(Par) It wasn't fair. (Neu) You're mistaken. (Ren) Learned your lesson?  Shepard: You were attacked from behind. There's nothing to be ashamed of.Jason Harrah: Ha. As if I still felt shame. You haven't been here long, have you? Do you need something, or can I go?
+(Neu) Goodbye. (Inv) What happened?  Shepard: No, I think I'll be going.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah. Go talk to Tombiri. My face feels like it was used as a drum to play Thor colony's anthem.(Return to last choice) Shepard: I don't want to fight you. I'm just saying you're wrong about me.Jason Harrah: You expect me to believe you, huh? I don't have any beef with you. But don't go thinking I'll turn the other cheek. I was a decent shot back in the day.
+(Par) What happened? (Neu) Goodbye. (Ren) Don't threaten me.  Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah. Go talk to Tombiri. My face feels like it was used as a drum to play Thor colony's anthem.
+(Neu) Goodbye. (Inv) What happened?  Shepard: I should go.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah. Go talk to Tombiri. My face feels like it was used as a drum to play Thor colony's anthem.(Return to last choice) Shepard: I should go.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: You don't want to cause me trouble.Jason Harrah: Same. Do you need something, or can I go?
+(Neu) Goodbye. (Inv) What happened?  Shepard: No, I think I'll be going.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah. Go talk to Tombiri. My face feels like it was used as a drum to play Thor colony's anthem.(Return to last choice) Shepard: If you can't fight, you should stay out.Jason Harrah: You've got a mouth, [boy/girl]. I don't have any beef with you. But don't go thinking I'll turn the other cheek. I was a decent shot back in the day.
+(Par) What happened? (Neu) Goodbye. (Ren) Don't threaten me.  Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah. Go talk to Tombiri. My face feels like it was used as a drum to play Thor colony's anthem.
+(Neu) Goodbye. (Inv) What happened?  Shepard: I should go.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah. Go talk to Tombiri. My face feels like it was used as a drum to play Thor colony's anthem.(Return to last choice) Shepard: I should go.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: You don't want to cause me trouble.Jason Harrah: Same. Do you need something, or can I go?
+(Neu) Goodbye. (Inv) What happened?  Shepard: No, I think I'll be going.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah. Go talk to Tombiri. My face feels like it was used as a drum to play Thor colony's anthem.(Return to last choice) Jason Harrah: I didn't... [grunt] I didn't ask for your help. I could have managed on my own.
+(Par) Are you okay? (Neu) I apologize. (Ren) Sure you could.  Shepard: Can I help you with anything?Jason Harrah: Nevermind. A couple sips of whiskey in my office and everything will be fine. Or forgotten, at least. Do you need something, or can I go? Shepard: I didn't mean to be disrespectful.Jason Harrah: Nobody respects me on this damned station. Why would an outsider be any different? Do you need something, or can I go? Shepard: Right. I'm sure this strategy of covering their boots with blood would have paid off eventually.Jason Harrah: They might have tripped. Do you need something, or can I go?
+(Neu) Goodbye. (Inv) What happened?  Shepard: No, I think I'll be going.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah. Ask Tombiri if you have any more questions.
+(Neu) Goodbye. (Inv) What happened?  Shepard: I should go.Jason Harrah: Well then, I'll go pick up my teeth off the floor.(End of conversation) Shepard: Why were these men fighting?Jason Harrah: Listen to me and stay out of it. I don't have a choice myself, I'm the security officer. Name's Jason Harrah.  Ask Tombiri if you have any more questions.(Return to last choice)
+lav20_hieraxun (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_hieraxun_de.isb, lav20_hieraxun_fr.isb, lav20_hieraxun_it.isb
+Character present:
+
+Sebastian Van Heerden
+
+Sebastian Van Heerden: I'm being paid to keep undesirables away from Miss Naidenov. That includes you.
+
+Sebastian Van Heerden: Commander, I must ask you to leave.
+
+Sebastian Van Heerden: Please move on.
+
+lav20_maddiekedward_new (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_maddiekedward_new_de.isb, lav20_maddiekedward_new_fr.isb, lav20_maddiekedward_new_it.isb
+Characters present:
+
+Maddie Kedward
+Commander Shepard
+
+(Only if Shepard is female)
+Maddie Kedward: Looking for someone to talk to? I think Matthew's in the mood for a chat.
+(End of conversation)
+
+(Only if Shepard is male)
+Maddie Kedward: Nice to see you again. Wanna buy me a drink?
+
+(Neu) Goodbye. (Inv) Investigate  Shepard: I should go.Maddie Kedward: Come back soon.(End of conversation)(Re-initiating conversation)Maddie Kedward: Nice to see you again. Wanna buy me a drink?(Return to last choice)
+(Neu) Return (Inv) Profession (Inv) Gang violence (Inv) Things to do (Inv) Harrah and Tatiana  (Return to overarching choice) (See first conversation) (See first conversation) (See first conversation) Shepard: What's the story between Harrah and the woman at the bar?Maddie Kedward: Tatiana, like us, is a Union girl. Harrah spent a lot of time with her. I think he loved her, truly. But the Union doesn't let anyone talk to her anymore. They even assigned her a bodyguard. Harrah took it pretty hard.
+(P Inv) Is she in danger? (R Inv) What's her job?  Shepard: What does she need protection for?Maddie Kedward: Not a clue. I'd say if she was in any real danger, they'd hide her somewhere safe. All I know is, no one can talk to her. Van Heerden beats up anyone who even tries.(Return to overarching choice) Shepard: She's an "escort" like you?Maddie Kedward: And quite popular at that. I'm not sure why they retired her. Must have made a dent in their profits.All I know is, no one can talk to her. Van Heerden beats up anyone who even tries.(Return to overarching choice)
+lav20_matthewbaudelaire (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_matthewbaudelaire_de.isb, lav20_matthewbaudelaire_fr.isb, lav20_matthewbaudelaire_it.isb
+Characters present:
+
+Matthew Baudelaire
+Commander Shepard
+
+(Only if Shepard is male)
+Matthew Baudelaire: I'm busy, friend. Maddie is always up for some fun, why don't you go chat her up?
+(End of conversation)
+
+(Only if Shepard is female)
+
+(If Matthew wasn't scolded) (If Matthew was scolded)  Matthew Baudelaire: Hello, sweet-heart. Would you like a drink with me? Matthew Baudelaire: Good day, Miss. Looking for someone to chat with?
+(Neu) Goodbye. (Inv) Investigate  Shepard: I should go.Matthew Baudelaire: Come back soon.(End of conversation)(Re-initiating conversation)
+(If Matthew wasn't scolded) (If Matthew was scolded)  Matthew Baudelaire: Hello, sweet-heart. Would you like a drink with me? Matthew Baudelaire: Good day, Miss. Looking for someone to chat with?
+(Return to last choice)
+(Neu) Return (Inv) Profession (Inv) Gang violence (Inv) Things to do (Inv) Harrah and Tatiana  (Return to overarching choice) (See first conversation) (See first conversation) (See first conversation) Shepard: What's the story between Harrah and the woman at the bar?Matthew Baudelaire: Before you came, she was the most beautiful woman on this station. When the Union assigned her a bodyguard, Harrah took it hard.
+(P Inv) Is she in danger? (R Inv) What's her job?  Sheprad: Is someone after her?Matthew Baudelaire: Not as far as I know. If she needed protection, they'd move her somewhere safe.(Return to overarching choice) Shepard: She's an "escort" like you?Matthew Baudelaire: She used to be. I'm not sure what she does all day. Sitting around and feeling sorry for herself, no doubt. If she needed protection, they'd move her somewhere safe.(Return to overarching choice)
+lav20_jasonharrah (2)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_jasonharrah_de.isb, lav20_jasonharrah_fr.isb, lav20_jasonharrah_it.isb
+Characters present:
+
+Jason Harrah
+Commander Shepard
+
+(If Harrah didn't present himself yet) (If Harrah presented himself)  Jason Harrah: Did you come to pick on the drunkard too?
+(Neu) Goodbye. (Inv) Who are you?  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation)(Re-initiating conversation)Jason Harrah: What do you want, [boy/girl]? Shepard: Are you the one in charge of security around here?Jason Harrah: Jason Harrah. I'm Eldfell-Ashland's security officer. Anywhere else, that would mean lecturing drones who are running with scissors. Jason Harrah: What do you want, [boy/girl]?
+(Neu) Goodbye. (Inv) Investigate  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation)(Re-initiating conversation)Jason Harrah: What do you want, [boy/girl]?(Return to last choice)
+(Neu) Return (Inv) Gang trouble (Inv) Break-up (Inv) Tatiana (Inv) Krogan mercenary  (Return to overarching choice) (Only if Shepard has completed the bore mission)Shepard: What would I need to take down the Union and the Cartel?Jason Harrah: If you show up with a badge, they'll get a good laugh before they start breaking your bones. To convict them, the workers could provide all the testimony needed. Problem is they're all scared of getting killed in retaliation.
+(P Inv) Union boss (R Inv) Smiley  Shepard: What do you know about the boss of the Union?Jason Harrah: Not much, seems she's always bunked in her office at the refinery. Even I can't get in. We only get in contact with her right arm. A killer for hire named Sessa Tarrent.
+(P Inv) A merc?  Shepard: "Killer for hire?" You mean she's a mercenary?Jason Harrah: Nah, she's a goddamned murderer. A killer for hire. She has quite a reputation.(Return to overarching choice) Shepard: What can you tell me about Smiley?Jason Harrah: He's not right in the head. Like an angry, oversized kid whose idea of fun is tearing the wings off a fly. It would be easier to get rid of him without his brother. It's Raciloma who bought him the medbay he lives in.
+(R Inv) Some family business.  Shepard: Smiley's brother works for him?Jason Harrah: Cold-hearted son of a bitch, that one. Used to be a mercenary before he came here to help him out.(Return to overarching choice) (Only if Shepard has learned about it)Shepard: What happened between you and Tatiana?Jason Harrah: What happened is that I've been a complete fool. I paid for her, I'm not proud of it. But when you've been here long enough, you start craving some warmth and... affection. I eventually realized I was wooing her, and she didn't seem to mind. So I made a deal with the Union. I could see her if I looked the other way with their dealings.
+(Par) You did what? (Neu) Sounds fair. (Ren) Big deal. (P Inv) Some people are like that. (R Inv) Crappy excuse.  Shepard: You made a deal with the Union's boss?Jason Harrah: With Sessa. For a woman's love, I let her get away with blackmailing and murdering. I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger. Shepard: A reasonable agreement. Everyone got what they wanted.Jason Harrah: Eh. That's what I told myself. But I had actually sold my honor. The only thing a man's got in life. I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger. Shepard: Okay, you sold yourself for a woman. And then?Jason Harrah: I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger. (Only if Shepard has the Colonist background)Shepard: I've seen that a lot on Mindoir. People getting together to fight loneliness, eventually cheating on their partner.Jason Harrah: Don't compare me to a cheating husband. If my heart were to go to anyone, lonely or not, it would be to Rosie Palms.
+(Par) You did what? (Neu) Sounds fair. (Ren) Big deal.  Shepard: You made a deal with the Union's boss?Jason Harrah: With Sessa. For a woman's love, I let her get away with blackmailing and murdering. I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger. Shepard: A reasonable agreement. Everyone got what they wanted.Jason Harrah: Eh. That's what I told myself. But I had actually sold my honor. The only thing a man's got in life. I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger. Shepard: Okay, you sold yourself for a woman. And then?Jason Harrah: I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger. (Only if Shepard has the Colonist background)Shepard: I grew up on Mindoir, same distance from Earth as Caleston. Yet I managed.Jason Harrah: Fantastic. You want a medal or something?
+(Par) You did what? (Neu) Sounds fair. (Ren) Big deal.  Shepard: You made a deal with the Union's boss?Jason Harrah: With Sessa. For a woman's love, I let her get away with blackmailing and murdering. I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger. Shepard: A reasonable agreement. Everyone got what they wanted.Jason Harrah: Eh. That's what I told myself. But I had actually sold my honor. The only thing a man's got in life. I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger. Shepard: Okay, you sold yourself for a woman. And then?Jason Harrah: I'm such a damned fool. I loved that woman with all my being, but all I managed was putting her in danger.
+(Par) Did you let them? (Neu) That merc. (Ren) You're corrupt.  Shepard: You tried to oppose the Union, right?Jason Harrah: That Van Heerden... He works for the Union. When their war with the Cartel began, he took her away. He said if I tried anything, he'd break her neck. When I tried to talk to her... she said she didn't need me anymore. That I should disappear. She may have even said she never loved me. Though I'm not sure of that. I was pretty out of it.
+(If Shepard didn't meet Van Heerden) (If Shepard met Van Heerden)  Shepard: That mercenary won't let you near her.Jason Harrah: That Van Heerden... He works for the Union. When their war with the Cartel began, he took her away. He said if I tried anything, he'd break her neck. When I tried to talk to her... she said she didn't need me anymore. That I should disappear. She may have even said she never loved me. Though I'm not sure of that. I was pretty out of it. Shepard: You mean that mercenary at the bar?Jason Harrah: That Van Heerden... He works for the Union. When their war with the Cartel began, he took her away. He said if I tried anything, he'd break her neck. When I tried to talk to her... she said she didn't need me anymore. That I should disappear. She may have even said she never loved me. Though I'm not sure of that. I was pretty out of it. Shepard: I can't believe you'd cooperate with those criminals.
+(If Shepard hasn't told Harrah about destroying the Union) (If Shepard has)  Jason Harrah: You're one to talk. How's the Union treating you? That Van Heerden... He works for the Union. When their war with the Cartel began, he took her away. He said if I tried anything, he'd break her neck. When I tried to talk to her... she said she didn't need me anymore. That I should disappear. She may have even said she never loved me. Though I'm not sure of that. I was pretty out of it. Jason Harrah: I didn't say I was proud of it. That Van Heerden... He works for the Union. When their war with the Cartel began, he took her away. He said if I tried anything, he'd break her neck. When I tried to talk to her... she said she didn't need me anymore. That I should disappear. She may have even said she never loved me. Though I'm not sure of that. I was pretty out of it.
+(Par) I feel for you. (Neu) So you fell into alcohol. (Ren) That was stupid.  Shepard: I'm sorry. It must have been hell.Jason Harrah: Kind of you to say so.(Return to overarching choice) Shepard: And you've been drinking ever since?Jason Harrah: I don't want anyone's pity. She treated me like the fool that I was.(Return to overarching choice) Shepard: She made a fool of you and you got piss-drunk?Jason Harrah: I don't want anyone's pity. She treated me like the fool that I was.(Return to overarching choice) (Only if Shepard has heard about Tatiana)Shepard: Can we talk about Tatiana?Jason Harrah: No, but since we're going to anyway, might as well get on with it. It's been a struggle for her. She puts on a brave face, keeps her cool. But have you looked her in the eyes?
+(Par) Yes. (Neu) Not really. (Ren) Skip the melodrama.  Shepard: Of course.Jason Harrah: Eyes don't lie. Hers are usually tired. When she smiles, they're empty. When she's tired, her eyes twitch like a beaten child's. When she was with me, her eyes were beaming again. I gave her joy. It's the only meaningful thing I've done in my life. Shepard: I haven't actually talked to her.Jason Harrah: Eyes don't lie. Hers are usually tired. When she smiles, they're empty. When she's tired, her eyes twitch like a beaten child's. When she was with me, her eyes were beaming again. I gave her joy. It's the only meaningful thing I've done in my life. Shepard: Spare me the poetics. What's your point?Jason Harrah: When she was with me, her eyes were beaming again. I gave her joy. It's the only meaningful thing I've done in my life.
+(P Inv) You still love her?  Shepard: You really love her? Despite her job? Despite everything she said?Jason Harrah: You think I'm drinking this much whiskey so I can live forever? [sigh] I'm just counting the days until I get reassigned far from this planet.(Return to overarching choice) (Only if Shepard has heard about the krogan)
+(If Shepard has heard about the fight) (If Shepard hasn't heard)  Shepard: I heard you got into a fight with a krogan.Jason Harrah: Yeah, he wanted to know where some asari chick was. I told him to settle down. Things were heating up until Tombiri told him T'Soni wasn't here. Shepard: I've heard you've had to deal with a krogan recently.Jason Harrah: I've had to deal with all sorts. He waved his big gun around, asking for an asari to be brought to him. I told him to settle down. Things were heating up until Tombiri told him T'Soni wasn't here.
+(P Inv) Where is he?  Shepard: Is he still here?Jason Harrah: Nah, he's gone. Probably looking for that asari of his. Might take him weeks to comb through the ruins. As long as he ain't here, whatever.(Return to overarching choice)
+lav20_jasonharrah (3)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_jasonharrah_de.isb, lav20_jasonharrah_fr.isb, lav20_jasonharrah_it.isb
+Characters present:
+
+Jason Harrah
+Commander Shepard
+
+Jason Harrah: I heard you're working for the Union.
+
+(Par) Don't worry. (Neu) I'm undercover. (Ren) Watch yourself.  Shepard: I mean you no harm.Jason Harrah: Yeah, but how long? I'm not waiting around until your new friends order you to teach me a lesson. Shepard: I've only joined up to destroy it from within.Jason Harrah: Eh... I must be too honest for that kind of thing. But it's not like a drunk like me would know better. Shepard: Only if you get in my way.Jason Harrah: Well, that makes me feel a whole lot better.
+(Neu) Goodbye. (P Inv) You smell like booze. (Inv) Investigate  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation) Shepard: Have you been drinking?Jason Harrah: Yeah, so what?
+(Par) You've fallen low. (Neu) Nevermind. (Ren) Pass the bottle. (Inv) What about your duties? (Cha) Tatiana wouldn't want this. (Int) Stop being such a mess.  Shepard: Drinking is a sign of moral weakness.Jason Harrah: And sobriety is a sign of dullness. If you want to preach, get a permit and find yourself a corner. Why don't you get the hell out of my office?(End of conversation) Shepard: Nothing, it's none of my business.Jason Harrah: Damn right.(End of conversation) Shepard: My throat is parched, too.Jason Harrah: I've just finished this bottle. You'll probably find more lying around.(Return to last choice) Shepard: You don't mind drinking on the job?Jason Harrah: I can drink all day if I want. It won't make any difference at this point.(Return to last choice) Shepard: If you stopped drinking, you could win her back. Is she worth that much to you?Jason Harrah: You think it's that easy? Yeah... Yeah, she's worth it. You can't even imagine. Alright, I'll try. But I'm not as strong as I used to be. Bottles are hidden all over the place. Would you help me clean it up?
+(Neu) Goodbye. (Inv) Excuse me?  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation) Shepard: What, you want me to clean your office?Jason Harrah: Well, I'd appreciate it. These days, whatever bottle I find gets empty in a flash.(Return to second choice) Shepard: I'm going to take down the Cartel. If we are to keep the workers safe, I need you sober and ready. Am I clear?Jason Harrah: Hm, so you're here to clean up this town and its booze while you're at it? Alright, I'll try. But I'm not as strong as I used to be. Bottles are hidden all over the place. Would you help me clean it up?
+(Neu) Goodbye. (Inv) Excuse me?  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation) Shepard: What, you want me to clean your office?Jason Harrah: Well, I'd appreciate it. These days, whatever bottle I find gets empty in a flash.(Return to second choice) (See second conversation)
+lav20_jasonharrah (4)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_jasonharrah_de.isb, lav20_jasonharrah_fr.isb, lav20_jasonharrah_it.isb
+Characters present:
+
+Jason Harrah
+Commander Shepard
+
+(If Shepard hasn't picked up all bottles yet)
+Jason Harrah: Hey, uh... it's not what you think... Ah hell, maybe it is.
+
+(Neu) Goodbye. (P Inv) You've been drinking? (R Inv) You're a waste of time. (Inv) Investigate  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation) Shepard: Where did you get this bottle?Jason Harrah: All over, you know. I have quite the collection.(Return to first choice) Shepard: Find someone else to hold your hand. I've got better things to do.
+(If first time telling him this) (If not the first time)  Jason Harrah: You shouldn't have offered to help if you didn't want to. I'm not the kind of guy who thinks the world owes him anything. Jason Harrah: What do you care? You said you were done with me.
+(Return to last choice) (See second conversation)
+
+(If Shepard picked up all bottles)
+Jason Harrah: Where is it... Say, when you came in, did you see my... Ah, never mind.
+
+(Neu) Goodbye. (P Inv) Your office is clean. (R Inv) No more booze for you. (Inv) Investigate  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation) Shepard: If you're looking for your bottles, I've already thrown them all away.Jason Harrah: If I was stronger, I wouldn't need this kind of help. I still have a long way to go. I'd just want to know why she left me. I'd love to just ask her in person, but I'm scared Van Heerden might hurt her. Shepard: You asked me to help you with the alcohol, so I did.Jason Harrah: What the hell is that supposed to mean? Speak up! Damn it, I'm going. I'd just want to know why she left me. I'd love to just ask her in person, but I'm scared Van Heerden might hurt her. (See second conversation)
+(Neu) Goodbye. (Inv) Investigate  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation) (See second conversation)
+lav20_tatiananaidenov (1)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_tatiananaidenov_de.isb, lav20_tatiananaidenov_fr.isb, lav20_tatiananaidenov_it.isb
+Characters present:
+
+Tatiana Naidenov
+Commander Shepard
+Sebastian Van Heerden
+
+Tatiana Naidenov: Erm... Hello.
+
+(Neu) Jason sent me. (Inv) Who are you?  Shepard: I'd like to talk to you about Jason Harrah.Tatiana Naidenov: Jason? Did something-- Shepard: What's your name?Tatiana Naidenov: Tatiana.
+(Par) Charmed. (Neu) Tatiana who? (Ren) Speak up.  Shepard: It's a pretty name.Tatiana Naidenov: It's... It's not a good idea to tell me that kind of thing. Shepard: And your last name?Tatiana Naidenov: Naidenov. Shepard: You don't talk much, do you?Tatiana Naidenov: I'm sorry. It's just... It is not wise to talk to me.
+Sebastian Van Heerden: Is [he/she] bothering you, Miss Naidenov?
+Tatiana Naidenov: No, no. [He/She] was just asking my name.
+Sebastian Van Heerden: Stay away from her, Commander.
+
+(Neu) Goodbye. (Inv) Hello.  Shepard: Maybe we'll talk again later.Sebastian Van Heerden: Or maybe not.Tatiana Naidenov: I'm sorry, please don't--Sebastian Van Heerden: Shut up.(End of conversation)(Re-initiating conversation)Sebastian Van Heerden: [Sir/Ma'am].(Return to last choice) Shepard: And you are?
+Sebastian Van Heerden: Van Heerden, Sergeant. 101st Jump Infantry, retired. Service number Tango-147-Sierra-0382.
+
+(Par) You seem overqualified. (Neu) Why are you here? (Ren) Crappy posting you got.  Shepard: A "Screaming Eagle," huh? Why are you here playing bodyguard, Sarge?Sebastian Van Heerden: Miss Naidenov is private property. The Union pays me to keep people away from her. Shepard: And why can't I talk to her, Sergeant?Sebastian Van Heerden: I am not at liberty to discuss my orders, Commander. Miss Naidenov is private property. The Union pays me to keep people away from her. Shepard: Don't you have anything better to do than guarding prostitutes, Sergeant?Sebastian Van Heerden: It's a living, Commander. Miss Naidenov is private property. The Union pays me to keep people away from her.
+(Par) I need to talk to her. (Neu) Goodbye. (Inv) That's a bit vague.  Shepard: I wanted to ask her why she broke up with Harrah.Tatiana Naidenov: I didn't--Sebastian Van Heerden: Miss Naidenov, I already told you to keep your pretty mouth shut.Tatiana Naidenov: I... Yes.Sebastian Van Heerden: If you want to talk about the drunkard, go ask him yourself.
+(Neu) Goodbye. (Cha) This'll be quick. (Int) I outrank you.  Shepard: Fine, I'm going.Sebastian Van Heerden: [Sir/Ma'am]. Shepard: Is there someone who could give me permission to talk to her?Sebastian Van Heerden: That is restricted information. Apologies. I'll be honest with you, Commander. But only because we're both Alliance, you understand? We told her that if she got anywhere near Harrah, he'd end up swimming in a stream of lava. She told him she never loved him. It was her idea. A convenient lie to protect him. Clever girl. Now Harrah won't even look at her.
+(Neu) Is it true, Tatiana? (P Inv) She lied to him? (R Inv) Were those empty threats?  Shepard: I need more than your word, let her answer.Sebastian Van Heerden: I'm not supposed to let you do that, Commander. Miss Naidenov, answer the Commander. Do you love the drunkard?Tatiana Naidenov: Yes... Yes, I do. The first time Jason came to me, he seemed sorry... for bothering me. He was so sweet, all "Yes, Ma'am" and "If you'd be so kind." The men who buy me, they only use me. Jason cared about my feelings. He never treated me like a whore. He always asked for permission, and when I said no, he left it at that. It wasn't hard to fall in love with him.Sebastian Van Heerden: Enough. That'll do. You have your answer, Commander.
+(Neu) Goodbye. (Inv) I need more than that.  Shepard: Fine, I'm going.Sebastian Van Heerden: [Sir/Ma'am]. Shepard: I'm not done talking to her.Sebastian Van Heerden: I'm afraid so, Commander. I apologize, I shouldn't have let you talk to her. [Sir/Ma'am]. Shepard: Then she still loves him?Sebastian Van Heerden: For sure, Commander. This dumb chick doesn't have the best poker face, so to speak.(Return to last choice) Shepard: Would you really kill Harrah?Sebastian Van Heerden: That wouldn't be much of a challenge. He can't even hold a gun straight.(Return to last choice)
+(End of conversation)(Re-initiating conversation)Sebastian Van Heerden: You already talked to her once, and I shouldn't have even allowed it. Sorry, Commander.(End of conversation) Shepard: I think you've misunderstood. I order you to step aside.Sebastian Van Heerden: You are my superior officer. However, I am no longer on active duty. I'll be honest with you, Commander. But only because we're both Alliance, you understand? We told her that if she got anywhere near Harrah, he'd end up swimming in a stream of lava. She told him she never loved him. It was her idea. A convenient lie to protect him. Clever girl. Now Harrah won't even look at her.
+(Neu) Is it true, Tatiana? (P Inv) She lied to him? (R Inv) Were those empty threats?  Shepard: I need more than your word, let her answer.Sebastian Van Heerden: I'm not supposed to let you do that, Commander. Miss Naidenov, answer the Commander. Do you love the drunkard?Tatiana Naidenov: Yes... Yes, I do. The first time Jason came to me, he seemed sorry... for bothering me. He was so sweet, all "Yes, Ma'am" and "If you'd be so kind." The men who buy me, they only use me. Jason cared about my feelings. He never treated me like a whore. He always asked for permission, and when I said no, he left it at that. It wasn't hard to fall in love with him.Sebastian Van Heerden: Enough. That'll do. You have your answer, Commander.
+(Neu) Goodbye. (Inv) I need more than that.  Shepard: Fine, I'm going.Sebastian Van Heerden: [Sir/Ma'am]. Shepard: I'm not done talking to her.Sebastian Van Heerden: I'm afraid so, Commander. I apologize, I shouldn't have let you talk to her. [Sir/Ma'am].
+(End of conversation)(Re-initiating conversation)Sebastian Van Heerden: You already talked to her once, and I shouldn't have even allowed it. Sorry, Commander.(End of conversation) Shepard: Then she still loves him?Sebastian Van Heerden: For sure, Commander. This dumb chick doesn't have the best poker face, so to speak.(Return to last choice) Shepard: Would you really kill Harrah?Sebastian Van Heerden: That wouldn't be much of a challenge. He can't even hold a gun straight.(Return to last choice) Shepard: Fine, I'm going.Sebastian Van Heerden: Thank you.(End of conversation) Shepard: Is there a particular reason why she needs such protection?Sebastian Van Heerden: Miss Naidenov is a highly prized worker. If I wasn't here, all these men would jump right on her.(Return to last choice)
+lav20_jasonharrah (5)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_jasonharrah_de.isb, lav20_jasonharrah_fr.isb, lav20_jasonharrah_it.isb
+Characters present:
+
+Jason Harrah
+Commander Shepard
+
+Jason Harrah: What do you want, [boy/girl]?
+
+(Par) I learned the truth. (Neu) Goodbye. (Inv) Investigate  Shepard: I talked to Van Heerden about Tatiana.Jason Harrah: So?
+(Par) Your love's intact. (Neu) She had no choice. (Ren) You're a coward.  Shepard: She still loves you. Van Heerden told her he'd kill you if she tried to talk to you. Shepard: Van Heerden said he'd kill you if she talked to you. That's why she shut you out. Shepard: Van Heerden told her he'd kill you. And instead of helping her, you started drinking.
+Jason Harrah: That son of a... Damn it, what am I gonna do? I have to help her. It's what a man should do in a situation like this.
+
+(Par) Don't worry. (Neu) You don't stand a chance. (Ren) You're on your own.  Shepard: I'll handle it.Jason Harrah: Thank you. Shepard: In your condition? You'll get shot before you even touch your gun.Jason Harrah: You don't have much faith in me, do you? I used to be a pretty good shot before this whole mess. Shepard: It won't be your achievement if I help you.Jason Harrah: I'm well aware. Still, I'd be grateful for your help. I don't have much dignity left to worry about anyway.
+(Neu) Goodbye. (P Inv) Feeling better? Investigate  Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation) Shepard: How are you holding up?Jason Harrah: I'm telling you, this whole thing makes my stomach churn. Van Heerden's coercing her, I have to do something. I've got some old friends who... Ow...
+(Par) You don't look good. (Neu) I'm out. (Ren) Don't you dare.  Shepard: You're... pale. Is something wrong?Jason Harrah: (grunt) Must be the withdrawal, I guess. I'm not doing well, I'm sweating like a volus. Shepard: I'm done with you. If you want to get sober, figure your own way out.(If first time giving up)Jason Harrah: Can't blame you, but I don't know if I can manage it on my own. My resolve has been on the decline.(Return to overarching choice)(If not first time giving up)Jason Harrah: What do you care? You said you were done with me. Why don't you get the hell out of my office?(End of conversation) Shepard: Puke on me and you'll regret it.Jason Harrah: You're a spring of compassion, aren't you?
+(Par) Just stay put. (Neu) Be ready. (Ren) She'll have to wait.  Shepard: I know you want to rescue her, but for the moment, she's safe. Better this way if there's trouble with the gangs.Jason Harrah: All right. You helped me out, so I'll return the favor. Do what you need to do, I'll be waiting.(Return to overarching choice) Shepard: All right. I need you steady on your feet before I start cleaning up around here.Jason Harrah: Thank you. To be honest, my hands have been shaking since our last talk.(Return to overarching choice) Shepard: We'll save her, but not right away. I need some information from Smiley first.Jason Harrah: All right. You helped me out, so I'll return the favor. Do what you need to do, I'll be waiting.(Return to overarching choice) (See second conversation) Shepard: I should go.Jason Harrah: Yeah, sure, go ahead.(End of conversation) (See second conversation)
+lav20_trig04_shooting[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig04_shooting_de.isb, lav20_trig04_shooting_fr.isb, lav20_trig04_shooting_it.isb
+Characters present:
+
+Jason Harrah
+Tatiana Naidenov
+Commander Shepard
+Sebastian Van Heerden
+Unnamed human male 1
+Unnamed human male 2
+Unnamed turian male
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+
+Sebastian Van Heerden: This man wanted to damage my employer's property. Of course I killed him.
+Jason Harrah: Then you're going to jail.
+Sebastian Van Heerden: Jail? Who's going to make me? You?
+Jason Harrah: Damn ri--
+Tatiana Naidenov: Jason!
+Sebastian Van Heerden: Get a bucket.
+Turian: He was one of us. We won't let the Union get away with it.
+Sebastian Van Heerden: Go back to your drinks.
+Jason Harrah: You're coming with me, Van Heerden. If you don't like it, draw your weapon.
+Sebastian Van Heerden: Fine.
+Jason Harrah: Damn.
+Turian: Get lost, Harrah. We can deal with it.
+Human 2: Ha. Then it's fine when you kill one of us?
+Human 1: Kill those bastards, Harrah!
+Turian: We're handling this, stay out of it.
+Human 2: This is like the war on Shanxi. The turians come in, start shooting, and get away with it.
+| Garrus Vakarian: This is not justice. Let Harrah handle it.|| Human 1: Shut your beak, turian.
+| Ashley Williams: Nobody's getting away with anything. Right, Commander?| Kaidan Alenko: I knew I'd need that course on crowd control eventually.
+
+(Par) Let's calm down. (Neu) Let Harrah arrest him. (Ren) Get ready.  Shepard: Everyone sit down! We'll sort this out.Human 1: Yeah, right. Shepard: Justice will be served! Van Heerden is going to jail.Turian: I piss on your justice. An eye for an eye!Human 1: We can't just let them go around killing people! Shepard: Everyone get out! Lock and load, people!| Urdnot Wrex: Enough fooling around.| Garrus Vakarian: Understood.| Kaidan Alenko: Damn it!| Ashley Williams: Just give the order, Commander.
+Jason Harrah: I'm not kidding, Van Heerden.
+Sebastian Van Heerden: Your hands are shaking.
+Jason Harrah: They're steady enough to blow your damn head off.
+Sebastian Van Heerden: Last chance, Harrah. Leave.
+Turian: Van Heerden. If Harrah dies, my squad opens fire. Then it gets ugly.
+Human 1: Who's got a gun? We'll show these bastards not to mess with Earth.
+Turian: Like hell you will!
+
+(Par) Stand down, mercs. (Ren) Stay out of it, miners. (Cha) This isn't your concern anymore. (Int) Listen up, or die.  Shepard: Spilling blood won't do any good!Turian: That's enough. Clear the room!Human 1: Kill those mercs! Shepard: You all shut up and mind your own business!Human 1: Go to hell. Shepard: Step back, all of you! Harrah will handle this.Turian: We'll remember this. Shepard: If I see anyone drawing a gun, I'll blow their head off!Turian: We'll remember this.
+(End of conversation)
+
+lav20_trig11_end_harrah_dead[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig11_end_harrah_dead_de.isb, lav20_trig11_end_harrah_dead_fr.isb, lav20_trig11_end_harrah_dead_it.isb
+Characters present:
+
+Jason Harrah
+Tatiana Naidenov
+
+Tatiana Naidenov: Jason!
+Jason Harrah: Tatiana?
+Tatiana Naidenov: Jason! Oh god, oh god! Someone help him! Please!
+Jason Harrah: (grunts) I knew... you still cared.
+Tatiana Naidenov: Oh, Jason... I love you. I love you! Please stay with me.
+Jason Harrah: I'm... I'm at peace. Don't cry. It's enough for me now to... to see you. You are beautiful.
+Tatiana Naidenov: Don't go!
+Jason Harrah: It... can't be helped anymore... I love you...
+Tatiana Naidenov: No... (sobs)
+
+lav20_trig12_end_reunion[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig12_end_reunion_de.isb, lav20_trig12_end_reunion_fr.isb, lav20_trig12_end_reunion_it.isb
+Characters present:
+
+Jason Harrah
+Tatiana Naidenov
+
+Tatiana Naidenov: Jason?
+Jason Harrah: Tatiana?
+Tatiana Naidenov: Oh... He told me he'd kill you if I came near you, Jason! I didn't-- I couldn't...
+Jason Harrah: He told me the same thing about you!
+Tatiana Naidenov: I'm sorry. For everything.
+Jason Harrah: You need to stop apologizing. Talk to me like you used to.
+Tatiana Naidenov: Jason, take me into your arms. Please.
+Jason Harrah: You don't need to ask, honey. Ever.
+
+lav20_trig08_aftermath[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_trig08_aftermath_de.isb, lav20_trig08_aftermath_fr.isb, lav20_trig08_aftermath_it.isb
+Characters present:
+
+Jason Harrah
+Tatiana Naidenov
+Commander Shepard
+
+Jason Harrah: Thanks for the help.
+
+(Par) Least I could do. (Neu) How do we proceed? (Ren) Still in one piece?  Shepard: I wasn't going to let that mob tear you to pieces.Jason Harrah: Not many people here would say that. Thanks. I'm not so foolish as to think I can take on the gangs alone. I've got some people who have assisted me unofficially, I'll call on them. But first, I have to take this lady to safety. Shepard: The gangs won't be pleased to hear you're up and running again. What's your plan?Jason Harrah: I'm not so foolish as to think I can take on the gangs alone. I've got some people who have assisted me unofficially, I'll call on them. But first, I have to take this lady to safety. Shepard: You look pretty roughed up.Jason Harrah: What doesn't kill you, right? I'm not so foolish as to think I can take on the gangs alone. I've got some people who have assisted me unofficially, I'll call on them. But first, I have to take this lady to safety.
+Tatiana Naidenov: I want to stay with you. God will protect us.
+Jason Harrah: I'll try to help a little. I'm going after the gangs. I don't want them to use you against me anymore.
+
+(Par) The Normandy can help. (Neu) Find her a safe place. (Ren) Cowering out already?  Shepard: We have a heavily-armed warship in the docking bay. That's as safe as it gets.Jason Harrah: Thank you. I'll take her there now. Someone who heard the gunfight might come at any moment. See you around. If you ever need a hand, I'll be there. Shepard: Where will you take her?Jason Harrah: I know this station well. There are some places that don't even appear on the blueprints. I'll take her to one of them. See you around. If you ever need a hand, I'll be there. Shepard: You want to hide, is that it?Jason Harrah: I can fight, but she sure can't. I know this station well. There are some places that don't even appear on the blueprints. I'll take her to one of them. See you around. If you ever need a hand, I'll be there.
+(End of conversation)
+
+lav40_sessatarrent[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_sessatarrent_de.isb, lav40_sessatarrent_fr.isb, lav40_sessatarrent_it.isb
+Characters present:
+
+Sessa Tarrent
+
+(If Shepard shot both sides)
+Sessa Tarrent: I've heard about the incident at the Seventh Moon, the duel between Harrah and Van Heerden. You defended Harrah from our men and the Cartel's. No need to worry, those idiots were asking for it. And I can't stand idiots.
+
+(If Shepard sided with the Union)
+Sessa Tarrent: I've heard about the incident at the Seventh Moon, the duel between Harrah and Van Heerden. You killed several Cartel mercenaries while defending Harrah.
+
+(If Shepard sided with the Cartel)
+Sessa Tarrent: I've heard about the incident at the Seventh Moon, the duel between Harrah and Van Heerden. You killed some of our men while defending Harrah. No need to worry, those idiots were asking for it. And I can't stand idiots.
+
+(If Shepard used Charm or Intimidate)
+Sessa Tarrent: I've heard about the incident at the Seventh Moon, the duel between Harrah and Van Heerden. You managed to prevent the situation from blowing up through sheer strength of will.
+
+nor20_ambient_tatiana[]
+Note:  this dialogue is based on the transcription of a soundbank.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\nor20_ambient_tatiana.isb
+Character present:
+
+Tatiana Naidenov
+
+Tatiana Naidenov: Is Jason alright? Have you heard anything?
+
+Tatiana Naidenov: Your crew... They seem very nice.
+
+Tatiana Naidenov: Ooh... It is a little cold in here.
+
+Tatiana Naidenov: Is this a new ship? It has a... a funny smell, kind of... plasticky.
+
+Tatiana Naidenov: I feel like I shouldn't touch anything in here.
+
+Tatiana Naidenov: Do you think I could get washed up? I heard someone mention showers in here.
+
+lav40_trig01_harrah_wren[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav40_trig01_harrah_wren_de.isb, lav40_trig01_harrah_wren_fr.isb, lav40_trig01_harrah_wren_it.isb
+Characters present:
+
+Billy
+Wren Carson
+Jason Harrah
+
+Jason Harrah: Can I count on you?
+Wren Carson: Can I count on you?
+Jason Harrah: I'm back to my old self.
+Wren Carson: Glad to hear it, you've been nothing but a useless cretin for the past six months. You've got my link. Tell me when, and I'll be there.
+Jason Harrah: I owe you one.
+Wren Carson: Damn right you do.
+Billy: Uhh, ma'am. Shouldn't you talk to...
+Wren Carson: What did you hear, Billy?
+Billy: Nothing, ma'am. Way too loud in here.
+
+lav20_jasonharrah (6)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing, or the specific wording and location of the dialogue options on the dialogue wheel may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_jasonharrah_de.isb, lav20_jasonharrah_fr.isb, lav20_jasonharrah_it.isb
+Characters present:
+
+Jason Harrah
+Tatiana Naidenov
+Commander Shepard
+
+Jason Harrah: Good to see you again. Things have been calm since you left. Now we can finally enjoy being married.
+Tatiana Naidenov: I know you're busy saving planets, but... we are grateful. Our lives are better. Happy.
+Jason Harrah: Ehh... If you don't mind, Tatiana and I would like some time alone. It's been a while, you know...
+Tatiana Naidenov: Come, Jason, don't say that! Not in front of others. What will they think of us?
+Jason Harrah: Honey, I'm pretty sure these people know all there is to know about us.
+Tatiana Naidenov: Oh!
+
+(Neu) Goodbye. (Inv) Is everything good?  Shepard: Have fun, kids.Jason Harrah: Kids? I'm an old-timer compared to you. Get out of here.(End of conversation) Shepard: How are you?Jason Harrah: I'm not drunk and I'm not dead, that's good enough. Tatiana was... Well, I wouldn't be standing here if it wasn't for her.Tatiana Naidenov: He's so silly. All I did was cook him some canned soup.Jason Harrah: Hey, it was more than enough, honey.(Return to last choice)
+lav20_maddiekedward_new (3)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_maddiekedward_new_de.isb, lav20_maddiekedward_new_fr.isb, lav20_maddiekedward_new_it.isb
+Character present:
+
+Maddie Kedward
+
+(If Harrah and Tatiana are together again)
+Maddie Kedward: Ahh, Harrah and Tatiana are such a lovely couple.
+
+(If Tombiri was eliminated)
+Maddie Kedward: Thanks for all you've done. All the things I've gone through since I got here... I've almost used up my shower quota.
+
+Maddie Kedward: I work at the refinery now, trying to save a little money. Not sure I'll stay on Caleston, but I don't have a choice at the moment.
+
+lav20_matthewbaudelaire (3)[]
+Note:  this dialogue is based on the transcription and translation of foreign soundbanks in French, Italian and German. The general wording and phrasing may not be accurate. The foreign transcriptions are available on demand.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\lav20_matthewbaudelaire_de.isb, lav20_matthewbaudelaire_fr.isb, lav20_matthewbaudelaire_it.isb
+Characters present:
+
+Matthew Baudelaire
+
+Matthew Baudelaire: Hey. Tonight's my evening off. Come back tomorrow if you feel like it.
+
+(If Tombiri was eliminated)
+Matthew Baudelaire: Union or no Union, I love this job.
+
+
+
+

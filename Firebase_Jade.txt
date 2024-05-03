@@ -1,0 +1,167 @@
+
+
+
+Firebase Jade is a multiplayer map included in the Mass Effect 3: Rebellion Pack. It is located on Sur'Kesh.
+Contents
+
+1 Description
+2 Locations
+
+2.1 Bridge
+2.2 Upper Balcony
+2.3 Upper Lab
+2.4 Pillar Room
+2.5 Courtyard
+2.6 Burning Lab
+2.7 Lower Lab
+2.8 Lower Balcony
+2.9 Waterfall Overlook
+
+
+3 Player Notes
+4 References
+
+
+Description[]
+Set on Sur'Kesh and surrounded by huge waterfalls, Firebase Jade overlooks an ancient reservoir built by the salarians centuries ago. Set up strategic chokepoints inside the base's main buildings to get the jump on your enemy, and work with your team to meticulously clear each room to achieve victory.[1]
+
+Locations[]
+Bridge[]
+Small connecting bridge platform area. Players begin and extract at this location.
+
+Connects to the Upper Balcony (up a small staircase).
+Connects to the Lower Balcony (down a staircase).
+Upper Balcony[]
+Upper level balcony area.
+
+Connects to the Bridge (down a small staircase).
+Connects to the Upper Lab (through two large doorways).
+Connects to the Upper Lab (down a short staircase).
+Upper Lab[]
+Upper level interior lab area.
+
+Connects to the Pillar Room (down two staircases).
+Connects to the Upper Balcony (through two large doorways).
+Connects to the Upper Balcony (up a short staircase).
+There is an ammo dump located on the wall between two reinforcing columns.
+
+Pillar Room[]
+Mid-level junction area containing pillars.
+
+Connects to the Upper Lab (up two staircases).
+Connects to the Courtyard (down a staircase).
+Courtyard[]
+Lower level area.
+
+Connects to the Burning Lab (up a staircase).
+Connects to the Pillar Room (up a staircase).
+Connects to the Lower Balcony (up two different staircase).
+Connects to the Lower Balcony (up climbable cover and a small ramp between the two staircases).
+Connects to the Waterfall Outlook (up a short staircase).
+There is an ammo dump located on the wall opposite the two staircases leading up to the Lower Balcony.
+
+Burning Lab[]
+Mid-level damaged interior lab area.
+
+Connects to the Courtyard (down a staircase).
+Connects to the Lower Lab (directly).
+Connects to the Lower Balcony (directly).
+Lower Lab[]
+Mid-level interior lab area.
+
+Connects to the Burning Lab (directly).
+Connects to the Lower Balcony (directly).
+Connects to the Lower Balcony (through two different large doorways).
+There is an ammo dump in the corner area next to the low cover wall of the Burning Lab.
+
+Lower Balcony[]
+Mid-level balcony area.
+
+Connects to the Burning Lab (directly).
+Connects to the Lower Lab (directly).
+Connects to the Lower Lab (through two different large doorways).
+Connects to the Waterfall Outlook (down a staircase).
+Connects to the Bridge (up a staircase).
+Connects to the Courtyard (down two different staircase).
+Connects to the Courtyard (down a small ramp and climbable cover between the two staircases).
+There is an ammo dump in the corner area next to one of the large doorways into the Lower Lab. 
+
+Waterfall Overlook[]
+Lower level area facing the reservoir.
+
+Connects to the Lower Balcony (up a staircase).
+Connects to the Courtyard (down a small staircase).
+Player Notes[]
+
+
+Grenade Resupply Location
+Bronze
+Silver
+Gold
+Platinum
+
+
+Courtyard
+4
+2
+2
+2
+
+
+Lower Balcony
+2
+1
+1
+1
+
+
+Lower Lab
+4
+2
+2
+2
+
+
+Upper Lab
+4
+2
+2
+2
+
+
+Firebase Jade is a very open map with many parallel paths and corridors that provide little cover. Staying near the spawn at the Bridge is advisable both for its proximity to two ammo crates and its view of the rest of the map, making it a high-ground location. On higher difficulties, however, this strategy may be problematic as enemies tend to swarm the spawn point from two directions, potentially surrounding players. If pursuing Gold and Platinum matches, playing on this map is not recommended.
+The Waterfall Overlook and the balcony behind it are rarely used by approaching enemies, although enemies can spawn on the balcony. If other paths are blocked, retreating to this area can provide a brief reprieve and possible escape route to a better vantage point elsewhere on the map.
+Because enemies usually spawn in either the burning lab and/or the pillar room, this map allows for effective use of grenades and mines.
+References[]
+
+↑ http://blog.bioware.com/2012/05/24/mass-effect-3-rebellion-pack/
+
+
+
+
+Mass Effect 3 Multiplayer Maps
+
+
+Original Maps
+
+Firebase Dagger • Firebase Ghost • Firebase Giant • Firebase Reactor • Firebase Glacier •  Firebase White
+
+
+Resurgence Maps
+
+Firebase Hydra • Firebase Condor
+
+
+Rebellion Maps
+
+Firebase Jade • Firebase Goddess
+
+
+Earth Maps
+
+Firebase Rio • Firebase Vancouver • Firebase London
+
+
+
+
+

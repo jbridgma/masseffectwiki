@@ -1,0 +1,150 @@
+
+
+
+The Outcast Headquarters is Kadara Port's seat of government. When the Outcasts liberated the port from the kett, Sloane Kelly claimed the building as her base of operations.
+
+
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+The angaran traitor Vehn Terev is being held in the headquarters' prisoner wing. Pathfinder Ryder needs his intel for a mission, though Sloane refuses to hand him over. Ryder can talk to him directly after securing Sloane's permission, or break him out through a maintenance tunnel.
+The building either continues to be run by the Outcasts, or is taken over by the Collective, depending on who wins the one-on-one duel for control of Kadara Port. The base's staff initially treat the Pathfinder gruffly, though if the Outcasts retain control they begin acting nicer in recognition of Ryder's services. If the Collective won, they know right away what the Pathfinder did for their cause and act courteously from the outset.
+
+Contents
+
+1 Layout
+2 Missions
+3 Datapads
+4 Terminals
+
+
+Layout[]
+The headquarters is north of Kadara Market, with only one guarded door in or out.
+Despite appearing as an imposing building from outside, the explorable interior is limited to a single floor. The west wing holds the prison cells and a stockroom. Two guards keep watch outside the prison, and a terminal next to them keeps records on prisoners. The prison has a maintenance tunnel leading to behind the armor shop in the market, though it is normally passcode-sealed.
+
+If Sloane's in charge Quartermaster McAfee inspects the supplies in the western stockroom, which also contains a kett fighter model. 
+The east wing leads to another stockroom, filled with Sloane's stuff and normally off-limits except for special occasions. The only other door is guarded by two Outcast krogan (or none, if the Collective took over) as it leads to the throne room.
+The spacious throne room is where the leader of Kadara Port holds court, surrounded by minions and other hangers-on. It gains a bar after Sloane's hosted party for the locals, regardless of whether Ryder attended it or not.
+
+Missions[]
+
+
+
+Priority Ops
+Hunting the Archon
+
+
+Heleus Assignments
+Behind Enemy Lines
+High Noon
+Night on the Town
+
+Datapads[]
+
+
+
+Report: Quartermaster McAfee
+Kaetus:
+
+I caught two more recruits rifling through the stock. We need locks. Don't give a shit if it sends a message of distrust. I don't trust them. Three crates of good ale have gone missing this month alone. One of these assholes is to blame. We might all wear the same colors, but these rookies aren't of the same caliber as you and me.
+
+
+McAfee
+
+
+
+
+
+
+
+Personal Log: Shylasia Rorna
+New entry: First official day as an Outcast. Supposed to meet with Kaetus in an hour. Zetha says he's a major hard ass, but he was nice enough during my recruitment. For a turian anyway. I'll just make sure not to be late.
+
+Update: Never mind. They were right. Major hard ass.
+
+
+END LOG
+
+
+
+Only available if the Outcasts retain control of the headquarters:
+
+
+
+
+Dispatch: Sloane Kelly
+McAfee:
+
+Keep an eye on Kaetus. Cranky bastard doesn't know the meaning of "bed rest" and I need him to make a full recovery. He's to do whatever the doctor says. No excuses.
+
+And before you tell me playing nurse isn't in your job description, I don't give a shit.
+
+
+Sloane
+
+
+
+Only available if the Collective takes over the headquarters:
+
+
+
+
+Personal Log: Emma Vogt
+New entry: Sloane's turian is locked in the holding cells. I almost feel bad for the guy. First he gets the shit kicked out of him, then Sloane gets offed while he's out of commission. Refused to eat. Doesn't sleep. Just… stares off into space. There's loyalty and then there's whatever the hell he's feeling.
+
+
+END LOG
+
+
+
+
+Terminals[]
+
+
+
+Prisoner Record: Vehn Terev
+Species: Angara
+Date of birth: Unknown
+Birth Place: Claims Voeld
+Reason for incarceration: Treason (aiding and abetting kett)
+Prisoner ID: #85
+
+Remarks: High pain tolerance, even for a spy. Four interrogation sessions and still no useable data on the kett. Sentenced to death by Sloane Kelly.
+
+
+
+
+
+Prisoner Record: Gartan Pala
+Species: Salarian
+Date of birth: 2165
+Birth Place: Sur'Kesh
+Reason for incarceration: Treason (aiding and abetting the Collective)
+Prisoner ID: #84
+
+Remarks: Codename "Lacerta." A representative of the Charlatan. Committed suicide before final sentencing.
+
+
+
+
+
+Prisoner Record: Tesi Fasynth
+Species: Asari
+Date of birth: 1861
+Birth Place: Illium
+Reason for incarceration: Smuggling
+Prisoner ID: #83
+
+Remarks: Tried to bypass mandatory tax. Sentenced to three broken fingers.
+
+
+
+
+

@@ -1,0 +1,107 @@
+
+
+
+
+
+Single Fire System
+
+
+
+
+General Info
+
+Rarity
+Uncommon
+
+
+Aug Type
+Gun Fire Type
+
+
+RD Cost
+N/A
+
+
+Tech Type
+N/A
+
+
+
+Single Fire System is an augmentation in Mass Effect: Andromeda.
+
+Contents
+
+1 Compatibilities
+2 Description
+3 Mechanics
+4 Strategies
+5 Restrictions
+
+
+Compatibilities[]
+Guns - This augmentation can be applied to gun-type weapons.
+Description[]
+Changes weapon-fire type to single shot
+
++30% Weapon Damage
++30% Weapon Accuracy
+-20% Weapon Stability
+-50% Rate of Fire
+Mechanics[]
+Strategies[]
+Restrictions[]
+The following weapons are unable to use this augmentation:
+
+All Single-shot weapons except for the weapon below:
+N7 Piranha
+All Semi-automatic weapons except the weapons below:
+Dhan (rank I and II only; unusable rank III onwards)
+N7 Eagle
+Pathfinder Observer
+Automatic weapons:
+Pathfinder Ranger
+Pathfinder Deep Impact
+
+
+
+
+
+
+Mass Effect: Andromeda Augmentations
+
+
+
+
+General
+
+Anti-Armor Module • Biotic Damage Booster • Biotic Recharge Module • Combat Power Module • Combat Recharge Module • Duration Boost Module • Kinetic Coil • Medi-Gel Regulator • Newtonian Multiplier • Reaction Displacer • Reaction Optimizer • Shield Accelerator • Shield Booster • Shield Bypass Unit • Shield Generator • Support Power Module • Tech Damage Module • Tech Recharge Module
+
+
+Gun Behavior
+
+Plasma Charge System • Vintage Heat Sink
+
+
+Gun Fire Type
+
+Automatic Fire System • Burst Fire System • Single Fire System
+
+
+Gun Projectile
+
+Beam Emitter • Electrical Conduits • Grenade Launcher • Ricochet System • Seeking Plasma System • Sticky Grenade Launcher
+
+
+Mod Slots
+
+Double Mod Extension • Mod Slot Extension
+
+
+Special
+
+Aerial Lubricant • Aerial Performance Optimizer • Aerial Stabilizer • Battlefield Assist Module • Bio-Converter • Concentration Module • Coolant Unit • Cryo Condenser • Electrical Conduits • Equilibrium Regulator • Heat Inducer • Power Booster • Rebalanced Field Coils • Shield Disruptor • Shield Oscillator • Shield Sensors
+
+
+
+
+

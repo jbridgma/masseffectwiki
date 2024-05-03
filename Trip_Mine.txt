@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+
+
+
+
+This article is about the Trip Mine skill in Mass Effect: Andromeda. For other similarly-named abilities in this and other games, and for other uses of the term "mine" generally, see Mine (disambiguation).
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Player Notes
+4 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Trip Mine
+
+
+
+Deploys an explosive mine that triggers when an enemy comes within proximity of or crosses a sensor laser. Enemies suffer more damage the closer they are to the mine.
+Activation requires one power cell from Trip Mine's limited power cell supply. The maximum number of active mines equals the current number of maximum power cells.
+
+
+Trigger Radius (m): 0.5
+Laser Range (m): 5
+Maximum Damage: 1350
+Damage Radius (m): 8
+Power Cell Capacity: 2 
+
+
+
+2
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+3
+
+Damage & Force
+
+
+
+-
+
++15% Damage
++15% Force
+
+
+
+4
+
+Sensor Range
+
+
+
+Increases proximity trigger radius and laser sensor radius.
+
++100% Proximity Radius
++60% Laser Range (m)
+
+
+
+4
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+5
+
+Damage & Force
+
+
+
+-
+
++30% Damage
++30% Force
+
+
+
+5
+
+Damage Radius
+
+
+
+-
+
++30% Damage Radius
+
+
+6
+
+Detonator
+
+
+
+     Mines act as combo detonators for all affected enemies.
+
++30% Combo Detonation Damage
+
+
+6
+
+EMP
+
+
+
+      Mines deliver an electromagnetic pulse, stunning enemies and causing added damage to shields. Electrified enemies are briefly primed for combo detonations.
+
+Stun Duration (s): 2
++35% Damage vs. Shields
+
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Trip Mine
+
+
+
+Deploys an explosive mine that triggers when an enemy comes within proximity of or crosses a sensor laser. Enemies suffer more damage the closer they are to the mine.
+Activation requires one power cell from Trip Mine's limited power cell supply. The maximum number of active mines equals the current number of maximum power cells.
+
+
+Trigger Radius (m): 0.5
+Laser Range (m): 5
+Maximum Damage: 1300
+Damage Radius (m): 8
+Power Cell Capacity: 2 
+
+
+
+2
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+3
+
+Damage & Force
+
+
+
+-
+
++15% Damage
++15% Force
+
+
+
+4
+
+Sensor Range
+
+
+
+Increases proximity trigger radius and laser sensor radius.
+
++100% Proximity Radius
++60% Laser Range (m)
+
+
+
+4
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+5
+
+Damage & Force
+
+
+
+-
+
++30% Damage
++30% Force
+
+
+
+5
+
+Damage Radius
+
+
+
+-
+
++35% Damage Radius
+
+
+6
+
+Detonator
+
+
+
+      Mines act as combo detonators for all affected enemies.
+
++30% Combo Detonation Damage
+
+
+6
+
+EMP
+
+
+
+      Mines deliver an electromagnetic pulse, stunning enemies and causing added damage to shields. Electrified enemies are briefly primed for combo detonations.
+
+Stun Duration (s): 2
++35% Damage vs. Shields
+
+
+Player Notes[]
+Mechanics
+Trip Mines are always deployed perpendicular to the surface they're stuck on. Extra diligence is required when placing mines on irregular surfaces like rocks or ambient equipment, lest they end up with a laser trip so short or so awkwardly placed no enemy will be reasonably able to pass through and trigger them.
+Deploying mines over the capacity limit destroys the oldest one placed. Getting rid of undesirable mines requires planting mines again and again until the undesirable one is lost.
+On multiplayer, mines are persistent across waves.
+Strategies
+Mines placed in high-traffic areas invariably need to be replaced more than mines placed in less-traveled ones. With an offensive playstyle, doing the former can rack up the kills while doing the latter is more suitable in the context of covering all entrances while holding a position.
+Enemies always go through doorways one way or another, making them ideal locations for planting. Because enemy units are of varying heights (and some of them can float), planting at the archway or floor instead of the sides increases the chances of triggering.
+On multiplayer, enemies have predictable spawning points always at considerable distance away from players. This can be exploited by identifying such locations, mining them, then deliberately avoiding the area.
+Trip Mines in close proximity blind spots are a useful deterrent and/or early warning system against flanking units like Wraiths and Adhi.
+Provided floating units aren't too far off the mined surface, the explosives can trigger passing Observers and Breachers.
+On singleplayer, Trip Mines are more useful in certain scenarios like boss fights since enemy encounters do not usually last long enough. The mines earn their keep if on an enclosed space, there are loads of enemies about, and if there are reinforcements on the way, although thanks to the squad and other armaments enemies in a typical encounter go down faster than planting mines and waiting for them to trip.
+Availability[]
+Single-player: Pathfinder Ryder - Starting Combat Skill
+Multiplayer: Angara Insurgent
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

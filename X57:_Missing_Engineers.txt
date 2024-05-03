@@ -1,0 +1,34 @@
+
+
+
+There are three engineers missing on the surface of X57: Hymes, Mendel, and Montoya. If they're alive, they need to be rescued. If they're not, someone should be told where they are.
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Enemies
+4 Trivia
+
+
+Acquisition[]
+Prerequisite: X57: Bring Down the Sky
+
+Following the shutdown of the first fusion torch Simon Atwell appears and he will mention the engineers after talking about other matters. He wants you to look for them, and even if you indicate you're busy with other priorities you'll still get this assignment.
+Alternatively you can also just find an engineer to begin the assignment, and then talking to Simon will fill in the details.
+
+Walkthrough[]
+After Simon is asked about the best way to find his people, he will give Shepard a map reference for a broken transmitter tower nearby. Once the tower is fixed, map references for all three survey stations will be given. While this is an additional assignment, it is worth taking the time because some of the survey stations contain excellent equipment, including omni-tools.
+Montoya was assigned to a survey station not far from the main facility. The station logs mention Montoya armed the defence drones before going to investigate the batarian ships at the main facility - as soon as the station logs are read, the drones will attack. Once they're destroyed, look around the shack for footprints leading away, and drive to the east to find Montoya's body. He was shot by a sniper but there is still choice equipment in his backpack.
+Hymes can be found in the station near the X57 Radio shack. The door of Hymes' survey station has been blown off and Hymes herself can be found inside. Her last recording is on the station logs; she tried to hide from the batarians but they attached an explosive to the door. Hymes was killed in the blast.
+Mendel was assigned to the station closest to the drop zone. His body can be found just outside the shack near a technician's kit. Examining his body reveals that Mendel surrendered but was executed by his captors. The survey station logs mention another engineer called Slajs who should be on his way to the station. Explore the nearby ridge and a destroyed M29 Grizzly will be found, with Slajs beside it and a technician kit. It looks like Slajs escaped his burning vehicle only to be shot. Slajs does not count as one of the missing engineers.
+C. Hymes' corpse, inside Survey Station 1 at the southeast end of the mapR. Montoya's corpse, a few dozen meters away from Survey Station 2 at the northwest end of the mapG. Mendel's corpse, right outside Survey Station 3 at the southwest end of the map1/3
+Once all three are found, report back to Simon Atwell, though he will be in hiding until you've finished the main events of Bring Down the Sky. The assignment will update as "completed" once the 3rd engineer is found but you must report back to Atwell to receive the XP reward.
+
+Enemies[]
+Defense Drone
+Trivia[]
+The name of the tech R. Montoya may be a reference to Inigo Montoya of the Princess Bride: a combination of his father's name with his father's killer's name. Alternatively, it could refer to DC Comics' The Question, Renee Montoya.
+G. Mendel is likely a reference to the father of modern genetics Gregor Mendel.
+
+
+

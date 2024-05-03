@@ -1,0 +1,38 @@
+
+
+
+
+Gianna Parasini, an old acquaintance from Noveria, left under mysterious circumstances with a reminder not to forget about a drink she had ordered.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Mission Summary
+4 Bugs
+
+
+Acquisition[]
+Prerequisite: Horizon (mission)
+
+Note:  Gianna Parasini will appear only if a Mass Effect save file has been imported with her alive. 
+Gianna will be sitting at a table on the Trading Floor on Illium, below the entrance to Liara's office. When you pass by she calls your attention. Talk to her to get the assignment. 
+
+Walkthrough[]
+Gianna and Commander Shepard briefly converse and she jogs your memory depending on how you handled Administrator Anoleis back on Noveria. Acknowledge what you did for easy Paragon points, and know that you will have opportunities for more points in this assignment.
+
+
+Parasini also asks what you're doing, and you can respond however you like to that. Afterward, she excuses herself. As she departs, Gianna reminds Shepard to drink the beer on the table. Gianna has left a note underneath the beer explaining that she asks for your help: her true purpose on Illium is investigating an asari merchant, Hermia, for smuggling schematics from Noveria.
+Hermia is at the Serrice Technology booth. If you haven't already used Charm or Intimidate to negotiate lower prices prior to the assignment, you can convince Hermia to sell technology for which she does not have the license. Charm or Intimidate will result in 5 Paragon or 5 Renegade points, respectively. If you already already negotiated lower prices, there will be no Charm or Intimidate check and no additional Paragon or Renegade points. Gianna will then approach and tell Hermia she's been caught and will be fined heavily. Hermia then leaves. 
+Complete assignment by talking to Gianna again. Note:  This is the only opportunity to ask about her activities as she goes away after the conclusion of the assignment.
+If you are playing a male Shepard, Gianna can reward him with a kiss, stating it's "Much better than an autograph". To get the kiss from Parasini, two conditions must be satisfied. Shepard must have helped Parasini on Noveria by having Anoleis arrested and you must choose the Paragon farewell line ("It was good seeing you"), not the neutral farewell line.
+In the alternative, you can tell Hermia that Gianna is investigating her. Hermia gives you a discount and then leave. This requires no Charm or Intimidate check and you earn 5 more Renegade points as a result. The discount is the same as if you negotiated lower prices through Charm or Intimidate, and the prices are not discounted further if you already did. Gianna will feel betrayed by Shepard and will not converse further. The assignment will be considered complete, but no experience points will be awarded.
+
+Mission Summary[]
+Experience reward: 40 (50)
+Bugs[]
+Occasionally on PC, PS3, and Xbox 360 versions of the game a bug may prevent the player from speaking with Hermia. This can be remedied by simply doing a quick save and restarting the game.
+On PC version, you can also avoid the bug by speaking with Hermia before speaking with Gianna. In this way you can obtain the discount (Charm or Intimidate option) and expose her after taking the assignment from Gianna.
+
+
+

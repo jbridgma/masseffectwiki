@@ -1,0 +1,62 @@
+
+
+
+Ann Bryson is the best source of information about the Leviathan artifacts. Search the Pylos Nebula to find her.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Datapads
+4 Trivia
+
+
+Acquisition[]
+Complete Citadel: Leviathan II.
+
+Walkthrough[]
+At this point, you are able to head immediately to the Pylos Nebula to search for Ann, though you may want to narrow down the search and/or earn some easy experience points. Head back downstairs to look for clues. One of the datapads will reveal Project Scarab, which Ann heads, requisitioned the MSV Icarus: use this information on the computer console to obtain the Ship Schematics filter.
+Go back to the room with the artifact and search the drawer by the husk head. Use the access card to open the equipment locker, which contains an Assault Rifle Omni-Blade weapon mod and enough clues to determine the Equipment filter.
+Activating both filters will pinpoint the system in which Ann is located.
+Travel to the Zaherin system of the Pylos Nebula and scan near the planet Namakli. After EDI identifies a signal, select the planet and scan for an anomaly. You will then be able to land on the planet, leading to the next mission.
+
+Datapads[]
+
+
+
+Task Force Aurora
+Current Travel Requisitions
+
+Project Basilisk
+Team Leader: Garneau, Alex
+Transport: MSV Kirkwall
+
+Project Scarab
+Team Leader: Bryson, Ann
+
+Transport: MSV Icarus
+
+
+Trivia[]
+The ship transporting Dr. Garneau shares its name with Kirkwall, the main setting of Dragon Age II, another BioWare game.
+During the ending cutscene, Shepard's equipped weapon will fire on full-auto, as if an M-8 Avenger was equipped. This may lead to strange audio sounds for weapons that were not meant to fire on full-auto, such as shotguns and sniper rifles.
+
+Mass Effect 3: Leviathan Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Citadel: Leviathan II
+
+Missions
+
+Namakli: Leviathan
+
+
+
+

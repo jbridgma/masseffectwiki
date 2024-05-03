@@ -1,0 +1,265 @@
+
+
+
+
+
+
+
+This article is about the power in Mass Effect 2 and Mass Effect 3. For the skill in Mass Effect: Andromeda, see Fortify (skill).
+
+Fortification is a power in Mass Effect 2 and Mass Effect 3's single-player and multiplayer modes. 
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Improved Fortification
+1.1.2 Heavy Fortification
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Fortification
+2.1.2 Rank 2: Recharge Speed
+2.1.3 Rank 3: Melee Damage
+2.1.4 Rank 4: Durability/Melee Damage
+2.1.5 Rank 5: Recharge Speed/Power Synergy
+2.1.6 Rank 6: Power Recharge/Durability
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+
+
+Mass Effect 2[]
+ A brief but massive boost to your armor. 
+
+Power Ranks[]
+Rank 1 - Reinforces armor with a non-Newtonian fluid that hardens when struck, providing a brief, huge bonus.
+Recharge Time: 12.00 seconds
+Duration: 60.00 seconds
+Armor Bonus: +25.00% of maximum shields
+Rank 2 - Reinforces armor with a non-Newtonian fluid that hardens when struck, providing a brief, huge bonus.
+Recharge Time: 12.00 seconds
+Duration: 60.00 seconds
+Armor Bonus: +50.00% of maximum shields
+Rank 3 - Reinforces armor with a non-Newtonian fluid that hardens when struck, providing a brief, huge bonus.
+Recharge Time: 12.00 seconds
+Duration: 60.00 seconds
+Armor Bonus: +75.00% of maximum shields
+Rank 4
+Evolves Fortification into one of the following options:
+
+Improved Fortification[]
+The armor is more resilient and reacts better to multiple hits, increasing its duration.
+Recharge Time: 12.00 seconds
+Duration: 180.00 seconds
+Armor Bonus: +75.00% of maximum shields
+Heavy Fortification[]
+By altering the chemistry of the prime ingredients of the armor, it now absorbs even more damage.
+Recharge Time: 12.00 seconds
+Duration: 60.00 seconds
+Armor Bonus: +100.00% of maximum shields
+Player Notes[]
+Despite the in-game wording, when used by Shepard as a bonus power, Fortification boosts maximum shield values and also restores shields to their new maximum upon activation. It has no effect on health.
+Fortification is functionally the same as Barrier and Geth Shield Boost, and differs only slightly from the Improved evolution of the latter. Like the other two powers, Fortification can be activated without interrupting Shepard when storming.
+Unlike Barrier (a biotic power) or Geth Shield Boost (a tech power), Fortification is a "combat" power (like Concussive Shot) that doesn't fall into either category, and therefore does not receive any enhancement from biotic or tech upgrades.  As it possesses no known unique properties or mechanics when compared with Barrier, this makes Fortification clearly an inferior choice for Shepard if both powers are available options.
+Unlocking Grunt's Fortification (on completion of Grunt: Rite of Passage) can create the conundrum that he will constantly reactivate it during battles even if Squad Power Use is disabled, making him less likely to use his other powers or be able to use them on demand. The only way to have a loyal Grunt but avoid the automatic use of Fortification is to reset his powers using the Advanced Training terminal at the Shadow Broker's Base (requires either Lair of the Shadow Broker DLC or Legendary Edition) and invest no points in Fortification.
+Availability[]
+Shepard via Advanced Training
+Grunt (Loyalty Power)
+Mass Effect 3[]
+
+
+Power Ranks[]
+Rank 1: Fortification[]
+Reinforce armor using protective Foucault currents. Purge the current and send its charge to your gauntlets for increased melee damage.
+Slows power use by 50%.
+
+Recharge Speed: 5 sec
+Damage Reduction: 25%
+Melee Damage Bonus: 50%
+Melee Damage Duration: 20 sec
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25% when armor is purged.
+
+Recharge Speed: 4 sec
+Damage Reduction: 25%
+Melee Damage Bonus: 50%
+Melee Damage Duration: 20 sec
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 20% when armor is purged.
+
+Recharge Speed: 4 sec
+Damage Reduction: 25%
+Melee Damage Bonus: 70%
+Melee Damage Duration: 20 sec
+
+
+Rank 4: Durability/Melee Damage[]
+
+
+
+Durability
+Increase damage protection by 5%.
+
+Recharge Speed: 4 sec
+Damage Reduction: 30%
+Melee Damage Bonus: 70%
+Melee Damage Duration: 20 sec
+
+
+Melee Damage
+Increase melee damage bonus by 30% when armor is purged.
+
+Recharge Speed: 4 sec
+Damage Reduction: 25%
+Melee Damage Bonus: 100%
+Melee Damage Duration: 20 sec
+
+
+
+Rank 5: Recharge Speed/Power Synergy[]
+
+
+
+Recharge Speed
+Increase shield recharge rate by 15%.
+
+
+
+Power Synergy
+Increase power damage and force by 30% while Fortification is active.
+
+
+
+
+Rank 6: Power Recharge/Durability[]
+
+
+
+Power Recharge
+Reduce power speed penalty by 30%.
+
+
+
+Durability
+Increase damage protection by 10%.
+
+Recharge Speed: 4 sec
+Damage Reduction: 40% (Durability), 35% (Melee Damage)
+Melee Damage Bonus: 70% (Durability), 100% (Melee Damage)
+Melee Damage Duration: 20 sec
+
+
+
+Player Notes[]
+The power use penalty at Rank 1 Fortification is not 50% overall reduction to power recharge speed, but a reduction of the Power Recharge Speed bonus visible in the weapon loadout screen. Ex: If you have +200% Power Recharge Speed when looking at the weapons screen, activating Rank 1 Fortification reduces that Power Recharge Speed to +150%.
+The power speed penalty reduction of 30% at Rank 6 Fortification reduces the penalty down to 20%. E.g. if you have a +200% Power Recharge Speed bonus in the weapon screen, activating Rank 6 Fortification only reduces the bonus to +180%.
+Fortification's damage protection bonus can stack with additional powers.
+Fortification can be activated instantly while moving, and will not cause the character to stop and perform any activation animations. Similarly, de-activating Fortification is also instant. This allows rapid response to highly fluid combat situations.
+In order to gain/maintain the extra melee damage, one must purge their Fortification every 20 seconds. For the Krogan Soldier and to some degree the Geth Soldier, this has little effect if done when your shields are at max, as you can still withstand a fair amount of abuse even without the extra protection. For the Geth Soldier this provides a much more effective area melee, and for Krogan Soldiers it can boost their melee damage to an even higher level.
+Since Fortification's cooldown is fairly quick even with a lot of extra weight, one can also take a heavy loadout and still be fairly effective, or use light weapons for near-instantaneous cooldowns. A lower cooldown means you can regain your protection faster, and for Krogan Soldiers going for a melee build, this can be a life saver.
+Availability[]
+Single-player: David Anderson, James Vega, Grunt, Commander Shepard (Bonus Power)
+Multiplayer: Krogan Soldier, Geth Trooper Soldier
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

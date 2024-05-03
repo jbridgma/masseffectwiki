@@ -1,0 +1,1516 @@
+
+
+
+ Forums: Index > Watercooler > Character builds
+
+Well since the Gold Standard builds page was deleted I though it would be fair to start one on the forum. This way people can add their own without dispute if they're perfect or not. The Fallout wikia also does this. A lot of these builds are from the official forums, but some of them were created by me. Discussion is welcome on the bottom of the page (use === headers), but please do not edit other people's entries (unless you're credited for creating it, of course). Also please try to keep the page clean by following my layout so builds are easier to find. —ArmeniusLOD 18:36, October 23, 2009 (UTC)
+This thread is now a place for both ME and ME2 builds. Explanation of your ME2 builds is justified since the game is new. The ME section is more of an archival section now, but still feel free to add any. I know the source is messy with all the break returns, but I'll see if there is a better way of organizing the tables. If there is anyone with more wiki experience who would like to restructure this page, then feel free to do so. —ArmeniusLOD 16:06, March 1, 2010 (UTC)
+Hey, I'm back!  Just did some minor cleanup.  I got motivated again after finally finishing the single player campaign of ME3 at the beginning of the week.  I've been engrossed in the multiplayer ever since picking the game up at midnight on release day.  So I have been going back to the first game to play some more characters from beginning to end, so I came back here looking for builds!
+Just as a note, ME3 Shepard builds are not really necessary to discuss since you get enough skill points to fully evolve of your powers, including a bonus power, except one.  A more appropriate discussion would be to discuss which evolution to take on a particular power and why, which probably should be done in another topic.
+And thanks to all the contributors who kept this page clean of vandalism.  — ArmeniusLOD 04:49, May 18, 2012 (UTC)
+
+Contents
+
+1 Mass Effect Builds
+
+1.1 Adepts
+1.2 Engineers
+1.3 Infiltrators
+1.4 Sentinels
+1.5 Soldiers
+1.6 Vanguards
+
+
+2 Mass Effect 2 Builds
+
+2.1 ADEPT CLASS
+
+2.1.1 Nemesis Build
+
+
+2.2 ENGINEER CLASS
+
+2.2.1 Demolisher Build
+2.2.2 Mechanic Build
+2.2.3 Anti-Organic (Spec 1 of 3)
+2.2.4 Anti-Synthetic (Spec 2 of 3)
+2.2.5 Balanced No-Respecs-Needed Build (3 of 3)
+
+
+2.3 INFILTRATOR CLASS
+
+2.3.1 Assassin Builds
+2.3.2 Agent Builds
+2.3.3 Shotgun Infiltrator
+
+
+2.4 SENTINEL CLASS
+
+2.4.1 Raider Builds
+
+
+2.5 SOLDIER CLASS
+
+2.5.1 Commando Builds
+
+
+2.6 VANGUARD CLASS
+
+2.6.1 Champion Builds
+
+
+
+
+
+
+Mass Effect Builds[]
+Adepts[]
+
+Adept / Bastion / Assault Riflesby SonsofNorthWind
+
+
+Talent
+
+Skill Points
+
+
+Basic Armor
+
+3
+
+
+Pistols
+
+0
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Warp
+
+12
+
+
+Singularity
+
+12
+
+
+Barrier
+
+12
+
+
+Stasis
+
+12
+
+
+Assault Rifles
+
+9
+
+
+Bastion
+
+12
+
+
+Spectre Training
+
+6
+
+
+Adept / Nemesis / Shotgunsby ArmeniusLOD
+
+
+Talent
+
+Skill Points
+
+
+Basic Armor
+
+6
+
+
+Pistols
+
+0
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Warp
+
+12
+
+
+Singularity
+
+12
+
+
+Barrier
+
+12
+
+
+Stasis
+
+0
+
+
+Shotguns
+
+12
+
+
+Nemesis
+
+12
+
+
+Spectre Training
+
+12
+
+
+
+
+Adept / Nemesis / Decryptionby IMNWME
+
+
+Talent
+
+Skill Points
+
+
+Basic Armor
+
+5
+
+
+Pistols
+
+12
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Warp
+
+12
+
+
+Singularity
+
+12
+
+
+Barrier
+
+12
+
+
+Stasis
+
+0
+
+
+Decryption
+
+9
+
+
+Nemesis
+
+12
+
+
+Spectre Training
+
+4
+
+
+
+Engineers[]
+
+Engineer / Medic / Barrierby IMNWME
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Basic Armor
+
+0
+
+
+Decryption
+
+9
+
+
+Hacking
+
+12
+
+
+Electronics
+
+9
+
+
+Damping
+
+12
+
+
+First Aid
+
+5
+
+
+Medicine
+
+12
+
+
+Barrier
+
+12
+
+
+Medic
+
+12
+
+
+Spectre Training
+
+7
+
+
+Engineer / Operative / Barrierby IMNWME
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Basic Armor
+
+0
+
+
+Decryption
+
+9
+
+
+Hacking
+
+12
+
+
+Electronics
+
+9
+
+
+Damping
+
+12
+
+
+First Aid
+
+5
+
+
+Medicine
+
+7
+
+
+Barrier
+
+12
+
+
+Operative
+
+12
+
+
+Spectre Training
+
+12
+
+
+
+
+Engineer / Operative / Assault Rifle (or Shotgun)by brfritos
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+0
+
+
+Basic Armor
+
+0
+
+
+Decryption
+
+9
+
+
+Hacking
+
+12
+
+
+Electronics
+
+9
+
+
+Damping
+
+12
+
+
+First Aid
+
+6
+
+
+Medicine
+
+12
+
+
+Assault Rifle or Shotgun
+
+12
+
+
+Operative
+
+12
+
+
+Spectre Training
+
+12
+
+
+
+Infiltrators[]
+
+Infiltrator / Commando / Hackingby SonsofNorthWind
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Sniper Rifles
+
+12
+
+
+Tactical Armor
+
+7
+
+
+Fitness
+
+12
+
+
+Electronics
+
+9
+
+
+Damping
+
+6
+
+
+Decryption
+
+9
+
+
+First Aid
+
+0
+
+
+Hacking
+
+12
+
+
+Commando
+
+12
+
+
+Spectre Training
+
+11
+
+
+Infiltrator / Operative / Hackingby ArmeniusLOD (aka "It's the same!")
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Sniper Rifles
+
+12
+
+
+Tactical Armor
+
+7
+
+
+Fitness
+
+12
+
+
+Electronics
+
+9
+
+
+Damping
+
+6
+
+
+Decryption
+
+9
+
+
+First Aid
+
+0
+
+
+Hacking
+
+12
+
+
+Operative
+
+12
+
+
+Spectre Training
+
+11
+
+
+
+Sentinels[]
+
+Sentinel / Bastion / AI Hackingby
+
+
+Talent
+
+Skill Points
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Barrier
+
+12
+
+
+Stasis
+
+12
+
+
+Decryption
+
+9
+
+
+Electronics
+
+9
+
+
+First Aid
+
+0
+
+
+Medicine
+
+0
+
+
+AI Hacking
+
+12
+
+
+Bastion
+
+12
+
+
+Spectre Training
+
+12
+
+
+Sentinel / Medic / Singularityby
+
+
+Talent
+
+Skill Points
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Barrier
+
+12
+
+
+Stasis
+
+0
+
+
+Decryption
+
+9
+
+
+Electronics
+
+9
+
+
+First Aid
+
+8
+
+
+Medicine
+
+12
+
+
+Singularity
+
+12
+
+
+Medic
+
+12
+
+
+Spectre Training
+
+4
+
+
+
+
+Sentinel / Bastion / Sniper Riflesby
+
+
+Talent
+
+Skill Points
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Barrier
+
+07
+
+
+Stasis
+
+12
+
+
+Decryption
+
+09
+
+
+Electronics
+
+09
+
+
+First Aid
+
+05
+
+
+Medicine
+
+07
+
+
+Sniper Rifles
+
+12
+
+
+Bastion
+
+12
+
+
+Spectre Training
+
+05
+
+
+
+Soldiers[]
+
+Soldier / Commando / Warpby Iseo Tiakan
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Shotguns
+
+12
+
+
+Assault Rifles
+
+11
+
+
+Sniper Rifles
+
+0
+
+
+Combat Armor
+
+7
+
+
+First Aid
+
+0
+
+
+Assault Training
+
+12
+
+
+Fitness
+
+12
+
+
+Warp
+
+12
+
+
+Commando
+
+12
+
+
+Spectre Training
+
+12
+
+
+Soldier / Shock Trooper / Singularityby ArmeniusLOD
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Shotguns
+
+12
+
+
+Assault Rifles
+
+1
+
+
+Sniper Rifles
+
+0
+
+
+Combat Armor
+
+12
+
+
+First Aid
+
+5
+
+
+Assault Training
+
+12
+
+
+Fitness
+
+12
+
+
+Singularity
+
+12
+
+
+Shock Trooper
+
+12
+
+
+Spectre Training
+
+12
+
+
+Soldier / Commando / Liftby Simbacca
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Shotguns
+
+0
+
+
+Assault Rifles
+
+11
+
+
+Sniper Rifles
+
+12
+
+
+Combat Armor
+
+8
+
+
+First Aid
+
+0
+
+
+Assault Training
+
+12
+
+
+Fitness
+
+12
+
+
+Lift
+
+12
+
+
+Commando
+
+12
+
+
+Spectre Training
+
+11
+
+
+Soldier / Shock Trooper / Singularityby Simbacca
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+4
+
+
+Shotguns
+
+12
+
+
+Assault Rifles
+
+7
+
+
+Sniper Rifles
+
+12
+
+
+Combat Armor
+
+8
+
+
+First Aid
+
+0
+
+
+Assault Training
+
+12
+
+
+Fitness
+
+12
+
+
+Singularity
+
+12
+
+
+Shock Trooper
+
+12
+
+
+Spectre Training
+
+11
+
+
+
+Vanguards[]
+
+Vanguard / Shock Trooper / Singularityby
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Shotguns
+
+0
+
+
+Assault Training
+
+12
+
+
+Tactical Armor
+
+7
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Warp
+
+12
+
+
+Barrier
+
+7
+
+
+Singularity
+
+12
+
+
+Shock Trooper
+
+12
+
+
+Spectre Training
+
+4
+
+
+Vanguard / Shock Trooper / Singularityby
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+6
+
+
+Shotguns
+
+12
+
+
+Assault Training
+
+12
+
+
+Tactical Armor
+
+7
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Warp
+
+6
+
+
+Barrier
+
+7
+
+
+Singularity
+
+12
+
+
+Shock Trooper
+
+12
+
+
+Spectre Training
+
+4
+
+
+Vanguard / Shock Trooper / Singularityby APurpleCow
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+12
+
+
+Shotguns
+
+0
+
+
+Assault Training
+
+12
+
+
+Tactical Armor
+
+8
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Warp
+
+6
+
+
+Barrier
+
+12
+
+
+Singularity
+
+12
+
+
+Shock Trooper
+
+12
+
+
+Spectre Training
+
+4
+
+
+Vanguard / Nemesis / Singularityby ArmeniusLOD
+
+
+Talent
+
+Skill Points
+
+
+Pistols
+
+6
+
+
+Shotguns
+
+12
+
+
+Assault Training
+
+1
+
+
+Tactical Armor
+
+7
+
+
+Throw
+
+12
+
+
+Lift
+
+12
+
+
+Warp
+
+12
+
+
+Barrier
+
+12
+
+
+Singularity
+
+12
+
+
+Nemesis
+
+12
+
+
+Spectre Training
+
+4
+
+Nemesis Vanguard Build is broken impossible stat spread (Assault training: 1 Tactical Armor:7)
+
+
+Mass Effect 2 Builds[]
+ADEPT CLASS[]
+Nemesis Build[]
+by Darthxaher
+4 Heavy/Unstable Warp
+4 Heavy/Field Throw
+4 Wide Singularity
+1 Pull
+0 Shockwave
+4 Nemesis
+Bonus: 4 Heavy Warp Ammo
+Explanation: Taking advantage of the biotic combo as an Adept is a must in 'Insanity' and this build does that nicely. Notice that only 1 point in Pull but this is enough as level 1 pull levitates the target for 5 second and has a cooldown time of 3 second. By that time the player can Throw the target or detonate with Warp. I have found either of the Warp versions equally effective, the heavy version against bosses while unstable version to take advantage of the wide detonation radius. I have skipped Shockwave totally because it has a 6 sec cooldown time and does not do that much damage against armored foes. As an adept you would want to cast Singularity as much as possible both defensively as well as offensively. Even on insanity, singularity will slowly lower the targets shield, barrier and armor over time which is amazing. Wide singularity is preferred over Heavy version to cover as much area as possible for the trap. Heavy warp ammo has an outstanding synergy with pull and singularity as it will do a massive amount of damage on target affected by any kind of biotics. Nemesis was chosen over Bastion because most powers already last longer than the target they are supposed to incapacitate, so increasing power damage output is a better investment.
+For advanced weapon training both sniper and assault rifle are good investment. A very common trick is to cast a singularity on armored/shielded foes, then while you are on cooldown use the Vindicator to bring the shield down quickly of an enemy. The enemy will immediately float in singularity field so use warp to detonate and then repeat the process indefinitely. This build would seem weak against synthetics and shield, but singularity will moderately affect shielded enemies. Bringing someone with Overload is therefore highly recommended in battles involving geth or mercenaries. Using Geth Pulse Rifle (advanced weapon training) and Zaeed's squad disruptor ammo is also a very good choice.
+
+
+ENGINEER CLASS[]
+Demolisher Build[]
+by Darthxaher
+2 Overload
+4 Incinerate Bast
+4 Explosive Drone
+4 Full Cryo Blast
+1 AI Hacking
+4 Tech Mastery - Demolisher
+Bonus: 3 Warp Ammo
+Recommended Armor: Blood Dragon Armor
+Advanced Weapon Training: Shotgun or Sniper Rifle
+Explanation: This is a power damage dealer build. With 'Demolisher + Omni-tool upgrade + Blood Dragon armor' one gets 15 + 60 + 15 = 90% extra tech power damage. Incinerate Blast followed by Full Cryo Blast can be a life saver against husks. With the availability of high accuracy Locust SMG, the engineer can forget about assault rifle training and take either shotgun or sniper rifle. While sniper rifle is a very good choice, you will be automatically 'sniper zoomed' while you cast a power; which is pretty annoying. So, I would recommend shotgun (preferably Eviscerator) for its high burst damage and its amazing synergy with Cryo Blast and Combat Drone. Plus it helps when enemies outflank you from your cover. Explosive Drone seems to be a better option on insanity as the drone keeps dying easily. One point in AI hacking is enough. Level 3 Warp Ammo takes care of engineer's weakness against barriers. Bringing in Thane, Miranda (for Warp) or Samara (for Reave) also helps in this case. A minor variation to this build would be level 3 Cryo Blast and level 4 Warp Ammo for maximizing firepower.
+
+Mechanic Build[]
+by KroganRebel
+3 Overload
+4 Heavy Incinerate
+4 Explosive Drone
+2 Cryo Blast
+3 AI Hacking
+4 Tech Mastery - Mechanic
+Bonus: 3 Dominate
+Explanation: This is a build that allows a lot of the fighting to be taken off you, explosive drone should be always on, overload for shields, heavy incinerate for Armour and then the enemy becomes an ally with either dominate or hacking, this leaves only barriers for your squad to deal with, mechanic was chosen for increased duration, heavy incinerate since in insanity only in early missions do baddies not have either shield or barriers (except husks) so you will more likely be taking opponents down one at a time, it has been suggested that the extra points  can be used to get enhanced dominate over heavy incinerate since its used more often than hacking, which works too, the cryo blast is just extra points since you should be dominating or hacking enemies unless your down to the last 1-3 enemies
+Squad Recommendations: max out ammo powers for squad members that have them and pick one ammo power member to have in missions (either AR or incendiary for husks, disruptor for shields, and warp ammo for barriers); tali, geth, miranda, and grunt also make great team members miranda for overload, warp, and squad bonus, tali and geth for an additional explosive drone, and grunt because he can be placed in front of shepard to protect him (grunt has the added benefit of also having an ammo power
+
+Anti-Organic (Spec 1 of 3)[]
+by GrizzlySage
+4 Area Overload
+4 Incineration Blast
+4 Attack Drone
+1 Cryo Blast
+0 AI Hacking
+4 Tech Mastery - Demolisher
+Bonus: 4 Neural Shockwave
+Explanation: This is part 1 of 3 of the Engineer builds I will detail here, based on based on much experimenting I did during the two insanity playthroughs I completed with an Engineer Shepard.  One Engineer primarily used the Viper Sniper Rifle, the other primarily used the Scimitar Shotgun.  
+This 1st Spec is specifically for missions composed of organic enemies, such as Blue Suns, Blood Pack, Collectors, etc.  
+Area Overload can strip an enemy squad's shields, exposing them to the panicking effects of Squad Incendiary Ammo (courtesy of Grunt).  Incineration Blast does similarly for enemy squad's armor.  Bring Mordin along and follow up with his quick cooldown (relatively speaking for squadmate abilities) and instant cast version of Area Cyro Blast, while having his Heavy Incinerate in reserve for the few heavily armored foes.  Attack Drone is a useful distraction when flanking an isolated enemy to shotgun the back of their head, and the Attack Drone variation can damage all three defense types (whereas Explosive only affects shields).  Neural Shockwave is instant-cast with a low cooldown, perfect for keeping exposed enemies ragdolled to be finished off with your weapons.
+
+Anti-Synthetic (Spec 2 of 3)[]
+by GrizzlySage
+1 Overload
+0 Incineration Blast
+4 Explosive Drone
+4 Area Cryo Blast
+4 Improved AI Hacking
+4 Tech Mastery - Demolisher
+Bonus: 4 Area Energy Drain
+Explanation: This is part 2 of 3 of the Engineer builds I will detail here, based on based on much experimenting I did during the two insanity playthroughs I completed with an Engineer Shepard.  One Engineer primarily used the Viper Sniper Rifle, the other primarily used the Scimitar Shotgun.  
+This 2nd Spec is specifically for missions composed of synthetic enemies, so Geth.  
+Explosive Drone because Geth mostly only have shields anyway, and the few with armor make short work of any Drone as to rend it ineffective.  Full Cryo Blast just for the few occasion where there are multiple exposed Geth to incapacitate, but honestly it is rarely used.  Improved AI Hacking is great for turning one of your enemies into a tough temporary ally, a useful distraction tool, like a more effective Drone, while flanking with a shotgun or sniping.  The bread and butter, and easily most used skill for these type missions, is Energy Drain.  Drains shields, drains Geths' health, and keeps Shepard out of cover and in the fight.
+
+Balanced No-Respecs-Needed Build (3 of 3)[]
+by GrizzlySage
+4 Area Overload
+4 Incineration Blast
+4 Attack Drone
+2 Cryo Blast
+3 AI Hacking
+4 Tech Mastery - Demolisher
+Bonus: 1 Neural Shock
+Explanation: This is part 3 of 3 of the Engineer builds I will detail here, based on based on much experimenting I did during the two insanity playthroughs I completed with an Engineer Shepard.  One Engineer primarily used the Viper Sniper Rifle, the other primarily used the Scimitar Shotgun.  
+This 3rd Spec is specifically for missions composed of a mix of both synthetic and organic enemies, such as Eclipse Mercs, or heck just use this build and only this build for the whole game.  It can handle anything.
+Area Overload can strip an enemy squad's shields, while Incineration Blast does similarly for enemy squad's armor.  Attack Drone is a useful distraction when flanking an isolated enemy to shotgun or snipe the back of their head, and the Attack Drone variation can damage all three defense types (whereas Explosive only affects shields).  Rank 3 AI Hacking and the 1 point wonder Neural Shock both have durations that equal or exceed their cooldown timers.  NS is perfect for locking down an exposed enemy while Shepard finished them off with weapon's fire of the N7 elbow, while Hacking continually converts the healthiest Geth of the group to bait with repeated casts until they all finish each other off.
+
+INFILTRATOR CLASS[]
+Assassin Builds[]
+4 Heavy Disruptor Ammo
+0 Cryo Ammo
+4 Assassination Cloak
+4 Heavy/Area Incinerate
+1 AI Hacking
+4 Assassin
+Bonus: 4 Heavy Warp Ammo
+Skills and Explanations: The Assassin Build is the most used build for infiltrators playing on higher difficulties. It is simple and effective. The main weapon for the infiltrator is the sniper rifle. You will be using that weapon for almost every mission ingame. Sniper rifles are weak against barriers and shields. Investing many points into both the disruptor ammo and the warp ammo turns the sniper rifle's weakness into a strength. The Infiltrator's special power is the tactical cloak. When infiltrators are shooting while cloaked, they have the HIGHEST DPS in game. This is one of the major reasons why points are heavily invested into ammo powers, assassination cloak, and assassin specialization. The Assassin Build makes use of the Infiltrator's strength while at the same time it deals with it's weaknesses. No wonder it is very common to see other infiltrators using a similar build of their own. Another topic I want to stress about is armor. Sniper rifles are very effective against armor. So all in all there is no need for AP ammo. Besides, you already have incinerate. Upgrading incinerate to heavy or area is optional. I found both to be effective so either way is fine.
+
+Agent Builds[]
+4 Heavy Disruptor ammo
+0 Cryo ammo
+4 Enhanced Cloak
+4 Incinerate
+0 AI Hacking
+4 Agent
+Bonus: 4 Heavy/Area Reave
+Skills and Explanations: I have composed a new infiltrator build that are for players that hate passive powers, and just want to use their spells. But just to to clarify, the Assassin Build is better than the Agent build overall. The assassin build is better because like I have mentioned above, it makes use of the infiltrator's strengths, sniping, decloak DPS, etc but not to worry because the agent build is designed to fit a person's active playstyle into higher difficulties. Sniper rifles are weak against barriers and shields, but with heavy disruptor ammo and reave, barriers and shields can be easily dealt with. Reave is the new bonus that sets the agent apart from the assassin. Reave does double damage to barriers and armor. It also stuns un-protected enemies. Agents can cast reave to drop barriers instead of just sniping through them. It is optional to specialize reave into heavy/area. I found both effective. Incinerate in redundant because reave already took it's job, which is to deal damage to armored foes. But Ai hacking is even worse compared to incinerate on higher difficulties. With the agent specialization, you can spam your powers, using them more often. Spells last longer too. Enhanced Cloak + Agent makes the infiltrator cloak more often. Giving a 1.2 second increase in cloak time and 1.2 second decrease. That means you cloak for 9.2 seconds, and you get to cloak again after 4.8 seconds. Overall a great build for players geared toward spells instead of bullets.
+
+Shotgun Infiltrator[]
+by GrizzlySage
+3 Disruptor Ammo
+4 Squad Cryo Ammo
+4 Assassination Cloak
+4 Incineration Blast
+2 AI Hacking
+4 Agent
+Bonus power: 1 Neural Shock
+Primary weapon: Scimitar shotgun
+Secondary weapon: Viper sniper
+Explanation: During my second insanity Infiltrator playthrough I wanted to try Tactical Cloak with shotguns, and boy, was this build one hell of a battlefield controller.  The shotgun's pellet-based shots and the Scimitar's relatively high ammo clip together are excellent at applying ammo effects, in this case Cryo freeze, and shredding both enemy shields and barriers.  Similarly, the Viper is great at shredding armor and freezing foes solid.  
+Disruptor Ammo is typically always active on Shepard's SMG (I prefer the Shuriken as it has highest SMG DPS your rapid click instead of just holding down fire) for those times when an enemy with massive shielding needs to be stripped, such as YMIR mechs.  During Geth missions, Shepard could use the ammo on all weapons.  
+Incineration Blast is great at stripping a group of armored foes, to then be instantly frozen by Mordin's instant cast Area Cryo Blast. 
+Rank 2 AI Hacking and the 1 point wonder Neural Shock both have durations that equal or exceed their cooldown timers.  Neural Shock allows Shepard to instantly drop exposed organics to be finished off with a shotgun blast or the N7 elbow and it's quick cooldown doesn't get in the way of Cloaking for long.  AI Hacking can be continually cast on the healthiest Geth of a cluster as bait with repeated castings until they all wear each other down.  
+Cloak, flank an enemy, unload Scimitar blasts until they start to freeze, swing the elbow to shatter, break line of sight, re-Cloak and repeat.  Sprinkle in other abilities as desired.
+
+SENTINEL CLASS[]
+Raider Builds[]
+By ArmeniusLOD
+2 Throw
+1 Warp
+4 Assault Armor
+4 Area Overload
+4 Full Cryo Blast
+4 Raider
+Bonus: 3 Warp AmmoWeapon Specialization: Sniper Rifle Training
+The idea of this build is to disable enemies so they can be quickly eliminated. Area Overload allows you to deal with groups of synthetics and enemies with shields. Warp can help with armor and barriers, but it is more used to disable the healing abilities of vorcha and krogan. Full Cryo Blast disables groups of any enemies and leaves them more vulnerable to damage. You should be taking along party members who can deal with armor and barriers where needed. Raider is chosen to deal maximum damage with all of your powers. Assault Armor is useful when pinned down. The damage and large area affected when removed can save your life. Pull is leveled to 2 because it is needed to unlock Warp. Warp Ammo is a versatile ammunition for your weapons that takes care of defenses where Overload is not useful. Sniper rifle training is recommended for high damage output and distance. More information is forthcoming since I just started a game with this build in mind.
+
+Currently a level 22 Sentinel, but my plan is to evolve to:
+
+2 Throw
+4 Heavy Warp
+4 Assault Armor
+4 Heavy Overload (depends on mission)
+0 Cryo Blast (depands on mission)
+4 Raider
+Bonus: Dominate, Flashbang GrenadeWeapon Specialization: Sniper Rifle Training
+My strategy for this build is simple. I've been taking Mirada and Jacob on the majority of the missions, so I use Shepard's or Miranda's Warp/Overload to strip Barriers & Shields, Jacob's Pull, and then Shepard's or Miranda's Warp to detonate. I prefer Heavy Warp and Overload over their Area of Effect versions to provide more damage to sub-boss/boss fights. On the Collector missions I Retrain Powers and take everything out of Overload and put the points into Cryo Blast or the bonus power. For bonus powers I like to Dominate an enemy that's a little too close and finish them off with gunplay. The Flashbang Grenade (Kasumi DLC) provides great statis effects of knocking opponents down and disabling their weapons (similar to Disruptor Ammo). It also provides a stagger effect to armored Husks. I take the sniper rifle mainly to help take down Scions while at range.--Sdpens 22:44, July 1, 2010 (UTC)
+
+SOLDIER CLASS[]
+Commando Builds[]
+By ArmeniusLOD
+4 Hardened Adrenaline Rush
+4 Concussive Blast
+4 Heavy Disruptor Ammo
+1 Incendiary Ammo
+0 Cryo Ammo
+4 Commando
+Bonus: 4 Heavy Warp Ammo
+Adrenaline Rush is the unique power of the soldier class. Evolving to the Hardened version allows you to survive longer along with slowing down your enemies/speeding up your reaction. Concussive Blast gives the soldier some crowd control, which is easily enabled by the assault rifle's suppressive power. Heavy Disruptor and Heavy Warp Ammo allow the soldier to handle any defense with its weapons. Commando both increases your weapon damage and the damage of your powers, including ammo and damage protection from HAR.
+
+I build my soldier differently
+
+4 Hardened Adrenaline Rush
+1 Concussive Shot
+2 Disruptor Ammo (4 depending the mission)
+4 Inferno Ammo
+4 Cryo Ammo
+4 Commando
+Bonus power: Energy Drain or Reave with the leftovers of disruptor (depends of the mission)
+I use Advanced Training 5 times in the game when playing with soldier, if you import a 60th level from ME1 you don't even need to scan planets for eezo. This build left 1 point unused if you choose to use a bonus power, just to know. I see a lot of discution about builds, but none about using advanced training or retraing powers. I only evolve disruptor ammo to heavy when fighting Geth (Haestrom, Legion/Tali Loyalty and Pylos Nebula). Soldiers are not good for crowd control, I usually use Miranda/Mordin for this task (Mordin with Inceneration Blast and Miranda with Unstable Warp and Area Overload). Not using Inferno Ammo is a crime pending death penalty! :D LOL After you pick the AR Penetration upgrade, I usually forgot I have disruptor, since the upgrade gives me 25% more penetration against shields, armor and barrier, with the panic adition of Inferno, plus the fire spread provides a better crowd control (as cryo ammo BTW, a very underated ammo power in my opinion. Cryo is great when used by your squad). Also, Hardened Adrenaline Rush provides a 100% damage bonus to weapons, that's the recommend power for a soldier to use (Heightened AR provides even more, +140% damage, if your choice of weapon is the Widow and not the Ravenant, that's the evolve path). Brfritos 22:54, May 27, 2010 (UTC)
+
+Here's my soldier:
+
+4 Hardened Adrenaline Rush
+1 Concussive Shot
+2 Disruptor Ammo (evolve to 4, squad ammo, for Geth missions)
+4 Inferno Ammo
+4 Cryo Ammo (Squad ammo)
+4 Commando
+Bonus power: Energy Drain or Flashbang Grenade
+Weapon Specialization: Widow
+I perfer Hardened AR for the -50% damage taken. Because the Soldier is a points hog when it comes to ammo powers, early in the game I stick to Disruptor Ammo. Once I have enough points to evolve them to level 4 I use Inferno Ammo and Squad Cryo Ammo. On Geth missions I Retrain Abilities to Squad Disruptor Ammo and the excess goes into the Bonus Power or Concussive Shot. For the bonus power I like Energy Drain early in the game, but I also like the Flashbang Grenade due to it's statis effects. As for the Weapon Sepcialization, I took the Widow simply because it fits my style of play better.--Sdpens 23:26, July 1, 2010 (UTC)
+
+VANGUARD CLASS[]
+Champion Builds[]
+By ArmeniusLOD
+4 Inferno Ammo
+1 Cryo Ammo
+4 Heavy Charge
+2 Shockwave
+4 Pull Field
+4 Champion
+Bonus: 3 Barrier (early game), 3 Reave (mid- to late-game)
+Weapon Specialization: M-300 Claymore Heavy Shotgun
+Tested and proven on Insanity difficulty
+Charge, of course, is the bread and butter skill of the Vanguard. If your health isn't constantly in the red when playing this class, then you're doing it wrong. All the shotguns are good to pair with this power, it pretty much comes down to user preference. Inferno Ammo can make any enemies surrounding your prey panic from the AOE effect, allowing you to get to cover easier after charging. This is also what Barrier is for, but its long recharge period relegates it to emergency purposes only. Barrier is useful during the early parts of the game, but its recharge time is more of a hindrance later on. When Charge is fully leveled it is far more useful in a pinch because it also allows you to close distance with an enemy to eliminate them. Reave is more useful later in the game because it allows you to whittle down enemy defenses from cover with your team mates. Pull Field gives the Vanguard crowd control ability. A few shots from the Carnifex on Husks can remove their armor, allowing Pull to be used to incapacitate small groups. Champion, of course, is chosen for its reduction in power cooldown, which is important for the close-quarters combat of the class. Cryo Ammo gets the leftover points and is not chosen for this particular build.
+Pick up the M-300 Claymore Heavy Shotgun on the Collector Ship. With it, Shepard can take out most enemies with one shot up close, even on Insanity. Suggested team members for general use are Mordin with Area Incinerate and Full Cryo Blast, and Miranda with Area Overload and 3 Warp. If you need more suppressing firepower, Thane is a worthy alternative to Miranda with Heavy Warp and his sniper rifle. Take Thane/Miranda for Collectors, Mordin/Zaeed (with Heavy Inferno Grenade) for Blood Pack/Husks, and Garrus/Tali for Geth/Blue Suns. Tali is actually very useful with Attack Drone, surprisingly so on Insanity difficulty.
+Also, apparently Sinosleep from the Bioware community also uses this build. I don't want to argue who came up with it first, though :P .
+
+
+By thisisme8 (Bioware forums)
+4 Inferno Ammo
+4 Squad Cryo Ammo
+4 Heavy Charge
+4 Improved Shockwave
+1 Pull
+4 Champion
+Bonus: none
+For a full explanation, refer to the link of the author above.
+
+
+By Sabresandiego (Bioware forums)
+4 Inferno Ammo
+4 Squad Cryo Ammo
+4 Heavy Charge
+1 Shockwave
+0 Pull
+4 Champion
+Bonus: 4 Area Reave or Slam(quicker cooldown)
+For a full explanation, refer to the link of the author above.
+
+
+By Sabresandiego (Bioware forums)
+4 Inferno Ammo
+4 Squad Cryo Ammo
+4 Heavy Charge
+2 Shockwave
+1 Pull
+4 Champion
+Bonus: 3 Barrier
+For a full explanation, refer to the link of the author above.
+
+
+
+

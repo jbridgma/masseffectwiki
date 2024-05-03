@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+This article is about the combat mechanics of Mass Effect: Infiltrator. For other uses, see Combat (disambiguation).
+
+Mass Effect: Infiltrator is a third-person shooter where the player controls an Infiltrator Cerberus Operative with a specific arsenal and a variety of biotics and tech powers. 
+Due to its specific support for mobile devices, the control of the protagonists is only designed for touch screen commands. The player has the ability to pause the action in order to give commands to his protagonist. The weapons or powers selection, the movement and the aiming are specifically designed for touch-screen devices. 
+
+Contents
+
+1 Combat controls
+
+1.1 Mass Effect: Infiltrator controls
+1.2 HUD Screen
+1.3 Powers and weapons wheel
+
+
+2 Equipment, Abilities and Powers
+3 Melee Combat
+4 Weapons
+
+4.1 Heat Mechanics
+4.2 Style
+4.3 Aiming
+
+
+5 Cover
+6 Health, Armour, Shields and Barriers
+
+6.1 Player
+6.2 Enemies
+
+
+7 See also
+
+
+Combat controls[]
+Mass Effect: Infiltrator controls[]
+The controls of the game are specifically designed for touch-screen devices. The screen is split in two zones. Each of these zones is devoted to a specific control mechanism. In addition, the centre of the screen is used to launch the aiming mode.
+
+Left side: The left side of the screen is used for movement, moving to cover, and some abilities.
+Right side: The right side of the screen is used for changing the camera view, the direction of your movement, and to adjust your aim when in aim mode.
+Aiming: When using a weapon or a power you can select an enemy in order to target them.
+HUD Screen[]
+The Heads Up Display, or HUD, shows all the vital information needed during combat. The HUD shows the targeting reticule when you are in aiming mode, which gun you are using, the heat generation of your weapon, the cooldown of the Cloak power and which "quick power" is equipped.
+If an enemy is within a certain range and in the player's field of view, a special blue reticle will appear telling you the type of enemy and indicating the relative strength of this enemy's health, armor, and shields or barrier (if any of these apply). This blue reticle will also tell you that the enemy is within the range of the equipped weapon.
+When using the power wheels, the game speed will drastically reduce for a while in order to select the enemies you want to target. The blue reticle will tell you which enemies are vulnerable and in the range of your power. When an enemy is selected as a target for a biotic power, his reticle will become green.
+Unlike other Mass Effect's game, the HUD of Mass Effect: Infiltrator do not display the health and shield status of the protagonist.
+
+Powers and weapons wheel[]
+The HUD displays two wheels on the left and right top of the screen in order to select and use your weapons and biotic powers :
+
+Powers wheel : The left top side of the screen shows the powers wheel used to select the power you want to use. You have to tap on the icon and then select a power in order to launch it. After the selection and if enemies are targetable, the game will freeze for a while to select the targets for the selected power.
+Weapons wheel : The right top side of the screen shows the weapons wheel used to select the weapon you want to use. You have to tap on the icon and then select a weapon in order to equip it. After firing a weapon, the icon will show you the heat generation of the equipped weapon.
+In addition to those wheels, the inferior right border of the screen shows you the icon of the Cloak tech power and allow the player to use it quick by taping on the icon. After the use of the ability, the button will show the cooldown remaining for the next use of Cloak.
+
+
+Equipment, Abilities and Powers[]
+See also: Equipment (Mass Effect: Infiltrator), Abilities (Mass Effect: Infiltrator)
+Randall Ezno can use a wide range of biotic and tech powers such as melee and combat abilities in order to deal with the enemies. When he activates a biotic power the game will freeze for a short duration where you can pick your target(s). Moreover, by using biotics, Randall is protected by a mass effect field which grants him an additionnal defense. 
+Randall can also equip specific armor and a helmet to improve his health, shields and cooldown, or to increase his melee, biotics and weapons damage.
+Note: The turian protagonist, unlike Randall, is not a biotic and cannot evolve his others skills.
+
+Melee Combat[]
+Melee combat is a part of the combat gameplay of Mass Effect: Infiltrator. When the protagonist is too close, the blue reticle of the enemies will become red and he won't be able to use his weapons anymore but will use his melee abilities instead. Melee kills will also improve your style points. In addition, one ability can be consider as related to melee combat. The Infiltrator Armour can grants you a 3% increase in melee damage.
+There is then four melee abilities who can be upgraded for more strength and damage via the Store in exchange of Credits :
+
+Punch : While the reticle is red, you can tap on the enemy and the protagonist will punch him with an uppercut throwing him on his feet.
+Push : While the reticle is red and when the protagonist is in cover, you can tap on the enemy and you will push the enemy out of cover with your fist rending him helpless for your next shots.
+Charge : While sprinting, swipe up on the right of the screen to launch the charge and send your enemy on their feet.
+Slide : While sprinting, swipe down on the right of the screen to to speed below enemy fire to knock them out their legs (or to enter in cover).
+Weapons[]
+In Mass Effect: Infiltrator, the protagonist possesses four weapons type and can easily switch between them. Each Weapon has five different levels of effectiveness and can be upgraded via the Store in exchange of Credits. It is also possible to improve your damage output by equipping a particular armor set. Weapons are always more effective when shooting the head or the weak spots of enemies. The range of the weapons is shown by the blue reticle on the enemies when you approach them.
+Note:  During the Bonus Mission, you can only equip assault rifle and shotgun weapon who cannot be upgraded in the Store.
+
+To complete your arsenal, you can also use the background at your advantage. In some checkpoint, you will see unstable canister that will explode and deal moderate damage to the enemies in proximity if you shoot on it. Be careful because a single canister can instantly kill you if it explode too close to your character.
+Heat Mechanics[]
+The weapons of Mass Effect: Infiltrator have no ammo capacity system but a heat generation mechanism instead (such as in Mass Effect). Heat builds up while firing a weapon due to increased friction that will eventually cause the weapon to overheat. When overheated, a weapon will not fire, requiring a cooldown period before it can be used again. This leaves the player vulnerable. If the weapon overheats, you can rapidly switch your weapon in order to keep firing at your targets.
+Weapons will produce a certain amount of heat before overheating. Each weapon possesses a dispersion rate which can be improved by upgrading your weapons. Heat is dispersed at a constant rate and if this rate is overcome while firing the weapon, heat will build until either the player stops firing or the weapon overheats. In the event that the weapon overheats, the weapon will be unable to fire again until it has completely cooled down (except for the M-333 Particle Beam). The player can monitor the heat level of their current weapon from the icon of the weapon wheel located on the top right side of the HUD.
+In order to quickly reset your heat level, you can tap on the left side of your screen just before your weapon overheats. The right moment is displayed by a white animation on the left border of the HUD's heat icon. Use that mechanism to keep firing when you face multiple enemies.
+
+Style[]
+In order to achieve a better final ranking Combat Analysis screen displayed at the end of each Checkpoint, you will have to earn style points in two different ways :
+
+When an enemy is killed by a weapon, the game will slow down for a short time and you will be able to rapidly switch target to increase your style points without changing the weapon.
+Switching your weapon after each kill will allow you to increase your style points. However, only the "kill weapon" which did the last hit will be taken into account. For example, if most of your damage on a larger enemy is done with the sniper rifle but you finish the enemy with the assault rifle, the game still considers that the assault rifle has made the kill and you earn no additional points if your previous enemy was killed by the assault rifle even if you made a switch in between. If you kill an enemy with a biotic power or melee abilities, your will also improve your style points.
+Aiming[]
+In the "options" section in the game, you have the opportunity to choose between two different Aiming mechanisms :
+Tap To Aim : The Tap To Aim Mode is a semi-automatic aiming mechanism. While running or in cover, tap on an enemy to aim him near his head. Swipe the right side of the screen to adjust your visor. Tap once on the left side of the screen to stop aiming and to go back in cover if you were before aiming.
+Aim Mode : The Aim Mode is a manual aiming mechanism. Tap out the right side of  the screen to enter Aim Mode, and on the left to exit. When aiming, tap on the right to fire, double-tap and hold to auto-fire. While in cover, tap on the left to exit cover. You will still need to tap enemies (such as the previous mechanism) to use the sniper rifle.
+Cover[]
+Numerous objects and environmental features provide cover and protect characters from incoming enemy fire. Using cover gives characters the opportunity to recover lost health and shields, cooling your overheated weapons, allow biotic power and Cloak to cooldown, and plan an attack or counterattack. Be careful, for some objects or walls can be destroyed by enemy fire while you are behind cover, leaving you vulnerable.
+Going into cover is done by swiping the left side of the screen while you are close of a cover spot. When you are in cover, you can move from cover-to-cover by swipping in the direction of the blue arrow who will appears if you approach the border of a cover object. A quick combat roll will then allow you to move on the battlefield while avoiding most of the enemy fire.
+While in cover, you can start aiming your enemies with relative safety and you can also Push your closest enemies. A well placed Slide while your are running can provide an easy and fast way to go into a remote cover spot.
+
+Health, Armour, Shields and Barriers[]
+Player[]
+The protagonist is protected by health and shields who are not displayed on the HUD. Nevertheless, you can see when your shields are depleted or when they are fully charged once more when a blue sphere appears on the player. It is also possible to see when your health level is low when you see blood trail on your screen. Protagonist's health and shields automatically regenerate after a short delay if he takes no damage. 
+If his health is depleted, the game is over and you will have to restart at  the beginning of the checkpoint.
+It is possible to improve your health and shield with a specific Equipment :
+
+Infiltrator Armour : +3% health.
+Infiltrator Helmet : +3% Shield.
+Aegis Defensive Armour : +10% Health.
+Aegis Defensive Helmet : +10% Shield.
+In order to improve your ranking, you have to avoid taking damage when your shield is depleted. The amount of damage that you can take before loosing a "star" depends on the difficulty of the Checkpoint.
+
+Enemies[]
+All enemies are protected by health, shields, armor, barriers, or a combination thereof. Unlike Mass Effect 2 and Mass Effect 3, your biotic powers are effective even if the target is protected by armor or shields.
+
+See also[]
+Equipment (Mass Effect: Infiltrator)
+Abilities (Mass Effect: Infiltrator)
+Combat Analysis (Mass Effect: Infiltrator)
+Store (Mass Effect: Infiltrator)
+
+
+

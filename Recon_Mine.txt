@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+This article is about the power in Mass Effect 3 multiplayer. For other similarly-named abilities in this and other games, and for other uses of the term "mine" generally, see Mine (disambiguation).
+
+Recon Mine is a power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Recon Mine[]
+Launch a mine that sticks to the first surface it touches and arms after 3 seconds. The mine scans the area for enemies to provide a tactical overlay, and it can be detonated at any time to deal massive damage to nearby targets.
+Only one mine can be active at a time.
+
+Recharge Speed: 20 sec
+Damage: 700
+Explosion Radius: 6 m
+Scan Radius: 8 m
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 16 sec
+Damage: 700
+Explosion Radius: 6 m
+Scan Radius: 8 m
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Recharge Speed: 16 sec
+Damage: 840
+Explosion Radius: 6 m
+Scan Radius: 8 m
+
+
+Rank 4: Damage/Radius[]
+
+
+
+Damage 
+Increase damage by 30%.
+
+Recharge Speed: 16 sec
+Damage: 1050
+Explosion Radius: 6 m
+Scan Radius: 8 m
+
+
+Radius
+Increase scan and explosion radius by 50%.
+
+Recharge Speed: 16 sec
+Damage: 840
+Explosion Radius: 9 m
+Scan Radius: 12 m
+
+
+
+Rank 5: Damage/Recharge Speed[]
+
+
+
+Damage
+Increase damage by 40%.
+
+Recharge Speed: 16 sec
+Damage: 1330 (Damage), 1120 (Radius)
+Explosion Radius: 6 m (Damage), 9 m (Radius)
+Scan Radius: 8 m (Damage), 12 m (Radius)
+
+
+Recharge Speed
+Increase recharge speed by 35%.
+
+Recharge Speed: 12.50 sec
+Damage: 1050 (Damage), 840 (Radius)
+Explosion Radius: 6 m (Damage), 9 m (Radius)
+Scan Radius: 8 m (Damage), 12 m (Radius)
+
+
+
+Rank 6: Armor Damage/Invasive Scan[]
+
+
+
+Armor Damage
+Increase damage to armored targets by 75%.
+
+
+
+Invasive Scan
+Scanned enemies take 25% more damage from all sources and move 30% more slowly.
+
+
+
+
+Player Notes[]
+The mine's scan field takes 3 seconds to arm after coming into contact with a surface.
+It cannot be detonated until after this scan field is active.
+The scan field is omni-directional and is not limited to the red cone-shaped "laser field" visual effect of the scan.
+Recon Mine has a significantly longer cooldown than many other powers. Thus, it is imperative that a Volus Engineer who frequently uses Recon Mine keep their weight as low as possible to reduce the cooldown. Only deploying the mine causes it to go on cooldown, detonating it does not; a new mine can be placed immediately after detonation.
+Drell Assassin Infiltrators can significantly reduce Recon Mine's cooldown by deploying it while using Tactical Cloak (note that launching or detonating the mine will not break cloak), then attacking to break cloak, causing Tactical Cloak's shorter cooldown to override Recon Mine's.
+For whatever reason, deploying Recon Mine after cloaking prevents deactivation of Tactical Cloak by recasting Tactical Cloak as is normally possible, unless the Bonus Power evolution of Cloak has been chosen, in which case deactivation counts as the extra power use. If you want to break cloak early, you will have to perform an attack in some way.
+Keep in mind when detonating the Recon Mine that its explosive radius is smaller than its scan radius; enemies affected by the scan will not necessarily be damaged by the detonation.
+Co-ordinating with squadmates allows the team to easily take out groups of tough enemies with Recon Mine. Have squadmates unload powers to tear away enemy protections and make enemies more vulnerable before detonating the Recon Mine. This strategy becomes even more deadly with the Rank 6 Invasive Scan evolution and/or the Rank 5 Damage Vulnerability evolution of Proximity Mine.
+Availability[]
+Single-player: N/A
+Multiplayer: Drell Assassin Infiltrator, Volus Engineer
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

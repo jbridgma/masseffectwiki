@@ -1,0 +1,104 @@
+
+
+
+
+
+Kelim
+
+Region
+Milky Way / Krogan DMZ / Dranek
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.2 AU
+
+
+Orbital Period
+0.2 Earth Years
+
+
+Keplerian Ratio
+0.2
+
+
+Radius
+5,580 km
+
+
+Day Length
+28.3 Earth Hours
+
+
+Atm. Pressure
+0.5 atm
+
+
+Surface Temp
+42 °C 
+
+
+Surface Gravity
+0.52 g
+
+
+Mass
+0.395 Earth Masses
+
+
+Location: Milky Way / Krogan DMZ / Dranek System /  First planet
+
+Prerequisite: Mordin: Old Blood or Grunt: Rite of Passage and Firewalker Pack (Mass Effect 2)
+
+Prerequisite: Priority: Sur'Kesh (Mass Effect 3)
+
+Description[]
+Kelim is a tectonically inert rock with an atmosphere of krypton, xenon, and argon. There are a few valuable lodes of light metals scattered across its surface, but these are difficult to find; most were mined out in the years leading up to the Krogan Rebellions.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+3,700
+
+
+Platinum
+
+Medium
+
+6,200
+
+
+Iridium
+
+Medium
+
+9,800
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

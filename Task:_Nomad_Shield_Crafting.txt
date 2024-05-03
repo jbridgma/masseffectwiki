@@ -1,0 +1,33 @@
+
+
+
+You need to craft the Improved Shield Regenerator for the Nomad.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Craft the Shield Regenerator at a research station
+
+
+3 Rewards
+4 Bugs
+
+
+Acquisition[]
+Prerequisite: A Trail of Hope I
+
+After landing on Voeld, in the Angaran Resistance Base look for the Angaran Mechanic in the hangar when entering from the west, standing next to a large vehicle. 
+
+Walkthrough[]
+The mechanic is a jovial fellow who expresses admiration for the Nomad's capabilities and offers to share blueprints with Gil Brodie to upgrade its shields. He's only an amateur, but he can build vehicles. Should Ryder express the same enthusiasm, the mechanic jokingly deems Gil his long-lost brother.
+
+Craft the Shield Regenerator at a research station[]
+Use any available Research Center, on Voeld or the Tempest, to develop the Improved Shield Regeneration blueprint in the "Nomad" category.
+Rewards[]
++270 XP
+Bugs[]
+If the Shield Upgrade was bought on another world, the mission won't finish. The necessary upgrade becomes unable to be crafted. This has since been fixed in Patch 1.06.
+
+
+

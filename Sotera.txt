@@ -1,0 +1,63 @@
+
+
+
+
+
+Sotera
+
+Region
+Milky Way / Athena Nebula / Vernio
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+1.4 AU
+
+
+Orbital Period
+1.2 Earth Years
+
+
+Keplerian Ratio
+1.906
+
+
+Radius
+5,069 km
+
+
+Day Length
+22.4 Earth Hours
+
+
+Atm. Pressure
+1.62 atm
+
+
+Surface Temp
+219 °C 
+
+
+Surface Gravity
+0.71 g
+
+
+Mass
+0.445 Earth Masses
+
+
+Location: Milky Way / Athena Nebula / Vernio System /  Second planet
+
+Prerequisite: Priority: The Citadel II (Mass Effect 3)
+
+Description[]
+Sotera's atmosphere retains a modest amount of oxygen, but it is too hot to support life that relies on liquid water. This is fortunate, because projections show that Sotera will collide with Promavess, a planet crossing its orbit, within the next three years. The impact is expected to pulverize both worlds while forming new asteroids and moons. The asari have constructed research stations at safe distances to record this rare event.
+
+
+
+

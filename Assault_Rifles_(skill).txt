@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For assault rifle weapons in Mass Effect, Mass Effect 2, Mass Effect 3, and Mass Effect: Andromeda, see Assault Rifles.
+
+Assault Rifles is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Advanced training improves facility with assault rifles for dedicated combatants. Assault rifles offer moderate accuracy, range, and stopping power.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Assault Rifles
+
+
+
+Increases assault rifle damage with each skill point invested in the Combat Skill Group.
+
++2% Assault Rifle Damage
+
+
+2
+
+Accuracy
+
+
+
+Increases assault rifle accuracy with each skill point invested in the Combat Skill Group.
+
++2% Assault Rifle Accuracy
+
+
+3
+
+Stability
+
+
+
+Improves assault rifle stability, reducing recoil with each skill point invested in the Combat Skill Group.
+
++2% Assault Rifle Stability
+
+
+4
+
+Weight
+
+
+
+-
+
+-25% Assault Rifle Weight
+
+
+4
+
+Spare Ammo
+
+
+
+-
+
++15% Assault Rifle Spare Ammo
+
+
+5
+
+Reload
+
+
+
+-
+
++15% Assault Rifle Reload Speed
+
+
+5
+
+Clip Size
+
+
+
+-
+
++25% Assault Rifle Clip Size
+
+
+6
+
+Shatter Defenses
+
+
+
+Enemies hit by assault rifle fire take increased damage from all sources for 2% per assault rifle hit, to a maximum of 24%. Resets when the rifle user has not hit the target for 2 sec.
+
+-
+
+
+6
+
+Critical Hits
+
+
+
+Increases headshot and other weak point damage from assault rifles, in addition to improved aiming.
+
++25% Assault Rifle Headshot/Weak Point Bonus
++15% Assault Rifle Accuracy
++15% Assault Rifle Stability
+
+
+Player Notes[]
+Mechanics
+Assault Rifles is a passive skill that is always active.
+Strategies
+The Rank 5 Reload upgrade does not affect the cooldown period of a weapon that uses the Vintage Heat Sink.
+Availability[]
+Single-player: Pathfinder Ryder - Starting Combat Skill
+Multiplayer: N/A
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

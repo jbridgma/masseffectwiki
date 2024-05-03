@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Turian Smuggler is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+The combination of Vetra's military training and her experiences as a smuggler improves her offensive capabilities. 
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Weapon Training
+
+
+
+-
+
++15% Weapon Damage
+
+
+2
+
+Focus
+
+
+
+-
+
++15% Power Damage
++15% Power Force
+
+
+
+3
+
+Combat Experience
+
+
+
+-
+
++15% Weapon Damage
++15% Weapon Accuracy
++30% to all Power Effect Durations
+
+
+
+4
+
+Efficiency
+
+
+
+-
+
++25% All Power Recharge Speeds
+
+
+4
+
+Extra Capacitors
+
+
+
+-
+
++30% to all Power Effect Durations
+
+
+5
+
+Advanced Focus
+
+
+
+-
+
++25% Power Damage
++25% Power Force
+
+
+
+5
+
+Advanced Weapon Training
+
+
+
+-
+
++20% Weapon Damage
+
+
+6
+
+Disruptor Ammo†
+
+
+
+     Vetra's rifle now always uses disruptor ammo, dealing electric damage and priming the target after several hits.
+
+Bonus Weapon Damage Vs. Shields: 10%
++10% Weapon Damage
+
+
+
+6
+
+Focus Fire†
+
+
+
+Each time Vetra hits a target with a rifle shot, the target temporarily takes more damage from all sources.
+
+Damage Taken Increase Per Shot: 5%
+Max Damage Increase: 100%
+Duration (s): 5
+
+
+Note: †Rank 6 is unavailable to Vetra until her loyalty mission Vetra Nyx: Means and Ends is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: Vetra Nyx - Starting Combat Skill
+Multiplayer: N/A
+
+
+

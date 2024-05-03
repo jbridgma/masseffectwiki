@@ -1,0 +1,121 @@
+
+
+
+
+
+Observer
+
+ 
+
+
+
+
+
+
+
+Faction
+Remnant
+
+
+Weapons / Attacks
+Tracking Beam
+
+
+Abilities
+–
+
+
+Health
+Normal
+
+
+Shields
+Normal
+
+
+Weak Points
+Center "eye"
+
+
+The Observer is a Remnant unit. On the battlefield it fulfills the role of basic ranged support, dealing continuous damage while floating overhead.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+5 Poc
+
+
+Scanner Information[]
+Remnant Observer
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+A mid- to long-range drone that's frequently deployed in groups.
+
+Description[]
+Observers, mid- to long-range Remnant drones, can be seen at most Remnant sites. They are equipped with element zero cores that allow them to levitate, and can normally be seen scanning or conducting maintenance at these sites. While they are the least robust of the Remnant bots, Observers are still a threat to unprepared explorers if provoked. 
+Examination of destroyed Remnant Observers shows they have multiple sensor vectors—visual, aural, electromagnetic, and others as yet undefined—and a comprehensive toolkit of equipment for observation and maintenance, including an ultraviolet beam laser. Serving partially as its primary weapon, the frequencies of an Observer's laser appear to react with Remnant structures to induce a repair cycle. Observers are also capable of bringing other Remnant online, likely as part of their maintenance duties. 
+When asked, Peebee explains the name "Observers" with "Everywhere you go, they seem to be looking at you."
+
+
+Capabilities[]
+Offensive
+Observers emit beam lasers from their central "eye" that can inflict massive damage over time.
+
+Defensive
+Observers possess shielding and an ability to fly, giving them innate resistance to disabling skills such as Pull or Singularity. This airborne agility also helps them evade missile skills.
+
+Tactics[]
+As Observers are capable of dealing staggering amounts of sustained damage on any difficulty, it is best to limit exposure to Observer lasers.
+High-alpha, high accuracy weapons such as the N7 Valkyrie are effective to deal with Observers by landing consistent shots/bursts to the center eye while spending minimal time out of cover.
+As for skills, viable options include Overload and Energy Drain as with all Remnant units.
+Poc[]
+Pelessaria B'Sayle creates a helpful Observer named "POC" short for Proof of Concept. This observer is a central theme for a number of Peebee's missions on Elaaden.
+Scanning POC reveals the following:
+DATA:
+Adapted Remnant Observer
+Non-standard interior wiring,
+reprogrammed core functions
+Unable to determine additional
+capabilities
+ANALYSIS:
+Accessing readme file: "Don't be nosy,
+Peebee."
+
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

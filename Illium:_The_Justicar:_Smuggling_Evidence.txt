@@ -1,0 +1,25 @@
+
+
+
+
+Evidence has been found linking Pitne For to smuggling operations. Both Pitne For and Detective Anaya would be interested in this information.
+
+Acquisition[]
+Prerequisite: Dossier: The Justicar
+
+In the process of completing the aforementioned mission, you will infiltrate an Eclipse base on Illium. After fighting and destroying the gunship, proceed across the bridge and in the next room will be a datapad lying on a table. Reading the datapad will initiate the assignment.
+
+Walkthrough[]
+
+After killing Captain Wasea during the Dossier: The Justicar mission, you will be returned the commercial spaceport. Pitne For is standing outside the police station in a different position than when you left. You can either give the datapad to Pitne For for 9,000 credits and 5 Renegade points, or you can go inside the police station and give it to Detective Anaya for 4,200 credits and 5 Paragon points, but only after you have talked to Samara. 
+Note: You must complete this assignment before returning to the Normandy because there is no way to get back to this area if you forget and the assignment will remain unfinished in the list of assignments.
+A news report can be heard on Illium after completing Dossier: The Justicar that varies depending on the outcome of this assignment.
+
+Mission Summary[]
+Experience reward: 40 (50)
+Credits:
+9,000 if datapad given to Pitne For
+4,200 if datapad given to Detective Anaya
+
+
+

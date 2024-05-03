@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+“The chances of surviving are… slim.” — Spoilers for Mass Effect 2 follow.
+
+
+
+
+
+
+
+
+
+
+
+Human-Reaper
+
+
+
+
+Race
+Reaper
+
+
+Type
+Unknown
+
+
+Faction
+Collectors
+
+
+Armament
+Energy Blast
+
+
+Abilities
+None
+
+
+Armor
+Very High
+
+
+Locations
+Collector Base
+
+
+The Human-Reaper is an incomplete Reaper being constructed by the Collectors.
+Under the orders of Harbinger, the Collectors began abducting humans from colonies across the edge of the Terminus Systems, taking them to the Collector Base. Once at the base, the abductees were stored in organic pods. Periodically, they would be broken down into raw genetic material which was pumped through tubes to the centre of the Collector Base and used to construct the Human-Reaper. 
+EDI suggests that the Collectors were 'facilitating Reaper reproduction' by constructing a new Reaper, and also estimated that the Collectors would have to gather millions of humans in order to complete it. EDI speculates that every Reaper is built to resemble the race used to create it, and that the Reapers had even unsuccessfully attempted to construct a Reaper from Prothean genetic material.
+When Commander Shepard discovers the Human-Reaper, it is an inactive larva: a vaguely humanoid upper torso, supported by two tubes each per "shoulder". These tubes funnel genetic material into the Reaper and are destroyed by the squad, causing the Human-Reaper to fall into its apparent destruction. However, it is able to activate itself and climb back up to engage Shepard and the team. They proceed to destroy the Human-Reaper once and for all by damaging specific points on its armour.
+
+Contents
+
+1 Capabilities
+2 Tactics
+3 Mass Effect 3
+4 Trivia
+5 References
+
+
+Capabilities[]
+Offensive
+The Human-Reaper slams the battlefield with its limbs, occasionally tearing away a platform. If standing near the edge when this occurs, Shepard may be knocked off the platform and killed.  The Human-Reaper also possesses a ranged energy weapon fired out of its mouth. This weapon requires a charge-up time, signified by distinct visual and sound cues, and will damage any Collectors caught in its path.
+Defensive
+The Human-Reaper cannot be destroyed through conventional means.  It possesses a number of 'weak spots' in its armor that must be damaged in order to take it down. These are located in the Reaper's "eyes," mouth cannon, and chest region.
+
+Tactics[]
+Before the actual fight with the Human-Reaper, if the player takes too long to destroy a tube when the covers are open, the Human-Reaper will attack using its head-mounted weapon, despite being apparently inactive.
+At least on normal mode, the fight against the Human-Reaper is fairly simple. Keep to cover when it is out. The Infiltrator's and Engineer's Incinerate power or a biotic's Warp are particularly effective when fully leveled, as are sniper rifles and the Reave bonus power. However, it is not easy to hit it with powers when Human-Reaper quickly changes its position, so it would be wise to wait until Human-Reaper stops for its charge-up attack. While other heavy weapons are effective, the constant exposure from the Collector Particle Beam deals significant amount of damage. As long as you keep to the center of platforms and in full 180 degree cover from it, there is a high chance of winning with little difficulty.
+The M-920 Cain is capable of taking a huge chunk out of the Human-Reaper's armor bar, although this is difficult and is at best a gamble. The charging time on the weapon means that you'll be exposed to any incoming fire, and the fact that the Human-Reaper moves around further adds to the difficulty. If brought, it is best used early in the fight when the Human-Reaper is moving around a lot less.
+A safer heavy weapon to use on any difficulty is the Collector Particle Beam. The weapon is easily capable of whittling down the reaper's armor with accurate, sustained beams. With all the heavy weapon ammunition upgrades purchased, you will have an ammo count of 950, enough to either take it down completely or whittle it's health down to a mere 1/8th before running out of ammunition.
+No matter the difficulty, even on Insanity, being a Soldier with a Widow Anti-Material Rifle applied with Incendiary Ammo, Armor Piercing Ammo, or Warp Ammo and using Adrenaline Rush will help you focus on some decently placed powerful shots that will cut down the Human-Reaper's health drastically. Depending on your playthrough, this might cause it to start moving around sporadically and stop Collectors from showing up till you cease firing.
+On Insanity, using Tali and Legion for this fight can be extremely helpful, provided both have full points allocated for their drones. Their drones will distract the Collectors and Harbinger so you can focus on the Human-Reaper itself.
+When the Human-Reaper fires its weapon at you, it can and will kill any Collectors and even Harbinger that get caught in its line of fire. Careful positioning of yourself and your squad can lead to the Reaper wiping out entire waves of drones.
+If the Human-Reaper's attack hits Shepard or any member of the squad, it will prevent their barriers/shields from recharging for a period of time. This is indicated by red bolts of lightning coursing over the character(s) in question. This can be countered by throwing up Fortification, Geth Shield Boost or Barrier.
+Stasis can affect the Human Reaper, though the effects are somewhat unusual.
+
+
+
+
+
+
+
+“There won't be an Earth left to save...” — Spoilers for Mass Effect 3 follow.
+
+
+
+
+Mass Effect 3[]
+During the raid on Cerberus Headquarters, it is revealed that components of the Human-Reaper were salvaged from the Collector Base by the Illusive Man, regardless of whether the Base was saved or destroyed. Cerberus is revealed to be actively using the Human-Reaper remains to augment Cronos Station's functionality; either by utilising its brain for increased processing power if the Collector Base was saved, or using its heart to power the base if the Base was destroyed. 
+After the downfall of Cerberus, the Human-Reaper's remains (either the brain or the heart) become War Assets and are incorporated into the Crucible.
+
+Trivia[]
+
+During development, the Human-Reaper was nicknamed "Baby."[1]
+The Human-Reaper as seen in-game was meant to be the core of a larger Reaper more reminiscent of Sovereign, Harbinger, and the other Reapers seen thus far.[2]
+References[]
+
+↑ http://gameinformer.com/b/news/archive/2010/02/01/News-Mass-Effect-2-Tidbits.aspx
+
+↑ http://www.gameinformer.com/b/news/archive/2011/04/21/mass-effect-a-q-amp-a-for-hardcore-fans.aspx?PostPageIndex=1
+
+
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

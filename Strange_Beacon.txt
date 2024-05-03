@@ -1,0 +1,42 @@
+
+
+
+On Voeld, SAM may detect some unusual readings from a nearby Remnant site. He advises you investigate.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate The Beacon
+2.2 Sweep The Minefield To Escape
+
+
+3 Rewards
+4 Bugs
+
+
+Acquisition[]
+Automatically starts when Pathfinder Ryder approaches the Remnant siteeast of the Southwestern Monolithon Voeld.
+Note:  This mission doesn't show in the Journal.
+
+Walkthrough[]
+Investigate The Beacon[]
+Eliminate the Remnant forces. In the central area, there is a device.
+Advice: Make a save before interacting with the device. If Ryder dies and resumes or loads one of the autosaves, Ryder will no longer hear the beeps from the mines. Loading this manual save will solve the problem.
+When Ryder uses the device, someone named Holger calls over the comm and asks if Ryder has a death wish. Ryder happens to be standing in the middle of a kett minefield. The unusual readings are likely from a beacon associated with the minefield.
+
+Sweep The Minefield To Escape[]
+When Ryder approaches a mine, it beeps. Use the scanner to locate it, and it becomes visible. Shoot it. Some nearby mines also might detonate. Note: Ryder doesn't need to destroy every mine; all Ryder has to do is clear a path.
+Head away from the Remnant site, destroying the mines on the way. Warning:  Do not fast travel away from the minefield. 
+Another option would be to simply hop into the ND1 Nomad and drive away; the Nomad's shields can absorb the explosions, providing Ryder lets the shields recover between mines. Eventually Ryder will either trigger all of the mines from the Nomad or exit the minefield and the mission completes.
+
+Rewards[]
++530 XP
++29 AVP 
++2% Voeld viability
+Bugs[]
+If Ryder fast travels away from the minefield, Ryder will not complete the mission. If Ryder returns to the minefield after fast traveling away, the mission will break and Ryder cannot trigger the mission complete event even if Ryder can escape the minefield.
+
+
+

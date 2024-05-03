@@ -1,0 +1,116 @@
+
+
+
+For the flying robotic constructs, see Drones.
+
+
+
+
+
+
+
+Collector Drone
+
+
+
+
+Race
+Collector
+
+
+Type
+Organic
+
+
+Faction
+Reapers
+
+
+Armament
+Collector Assault Rifle
+
+
+Abilities
+None
+
+
+Health
+Moderate
+
+
+Barrier
+Low
+
+
+Locations
+Horizon, Collector Cruiser, Collector Base
+
+
+Collector Drones are the common troopers of the Collector race.
+
+Contents
+
+1 Capabilities
+2 Tactics
+3 Trivia
+4 References
+
+
+Capabilities[]
+Offensive
+Drones are armed with the standard Collector Assault Rifle. Drones, along with other Collector troops, have wings that they often use to drop into combat.
+Defensive
+Drones can have barriers at higher difficulty levels.
+
+Tactics[]
+Although they often enter areas by flying in with their wings, Drones do not begin attacking until they have landed, and once on the ground, they do not fly again. Drones can be attacked while airborne, and hitting them with powers such as Throw or Concussive Shot if they are unprotected by a barrier can knock them to an environmental death (demonstrated ability to fly notwithstanding).
+Collector Drones should not be underestimated especially on higher difficulties, as they are fairly accurate and can wear down shields surprisingly fast. Taking them out first should be considered as they are easier to kill, and this also denies cheap options for Harbinger to possess.
+Trivia[]
+Given their noted insect-like characteristics, Collector Drones likely take their name from the term used to refer to certain hive-dwelling insects, most commonly male bees or ants. The word "drone" itself may have derived from an Old English root[1] that meant "male honeybee".
+References[]
+
+↑ https://www.etymonline.com/word/drone
+
+
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

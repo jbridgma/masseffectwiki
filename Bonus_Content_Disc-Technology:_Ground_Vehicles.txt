@@ -1,0 +1,149 @@
+
+
+
+The following are transcriptions of the artists' comments for the design gallery "The Technology of Mass Effect: Ground Vehicles" found on the bonus content disc of Mass Effect released in 2007.
+
+Contents
+
+1 Image 1
+2 Image 2
+3 Image 3
+4 Image 4
+5 Image 5
+6 Image 6
+7 Image 7
+8 Image 8
+9 Image 9
+10 Image 10
+11 Image 11
+12 Image 12
+13 Image 13
+14 Image 14
+15 Image 15
+16 Image 16
+17 Image 17
+18 Image 18
+19 Trivia
+
+
+Image 1[]
+
+Derek Watts: So, when we started doing the vehicles, what we actually did was a concept up quite a few. We were thinking maybe of having floating cars... We weren't too sure what the rover was going to be at this time, and what other kind of ground vehicles you would have. So, this early concept was of a very sleek-looking floating car that you'd probably see in one of the future cities. It was probably a two-seater, kind of put a bit of a wing on the back, kept it very sleek and low. This one turned out really well but it was mostly just for decoration around the levels.
+
+
+Image 2[]
+
+Derek Watts: This was an early prototype of maybe what the rover would look like. We wanted something at this time-- maybe it would be quite small, maybe a two-seater, the size of a jeep, kind of made the suspension at the back, maybe it would turn right behind where the driver sits, there'd be a pivot in there that would turn... So, you wouldn't actually turn with the front wheels, it would actually be the back wheels that would turn it. I think the programmers were too keen on this one, so we let that one go.
+
+
+Image 3[]
+
+Derek Watts: This was actually more of a big truck. There would be seats for three people, had a turret up the front, very high above the ground. We actually built this one as a prototype. We had it driving around on the terrain, it was pretty fun to drive. It was-- the suspension worked good on it. The problem with this one is it was so big that the enemies, if you ever saw a geth or any other human-sized enemy, they came off very small.
+
+
+Image 4[]
+
+Derek Watts: What we did is we concepted up quite a few, ended up doing about ten over about two weeks. This was one of the concepts we were thinking, maybe it's a floating vehicle. Maybe these pads have some kind of energy underneath them that could keep it elevated, they would almost work like suspension without wheels. It was a small rover, maybe one or two people could fit in there with a small gun on the back.
+
+
+Image 5[]
+
+Derek Watts: It was another vehicle done at this time. These were quick prototypes; they were mostly just line drawings, then we would just quickly color them in with felt. This one looked pretty good. People weren't too keen on the design; the back suspension, people weren't too sure how it works. Is that a pivot underneath? Does it move up and down? Does it cut through the body? That one really didn't get too much positive feedback.
+
+
+Image 6[]
+
+Derek Watts: This one looked pretty good. It was maybe a cabin at the front where the driver would sit. Maybe a larger section in the middle where other people could sit and get deployed out, so you'd have maybe a few more people in there. The problem with this one is maybe the gun underneath is hard to see where you're actually pointing it. Again, being so big, the enemies would come off quite small when you were trying to shoot at them or drive over them.
+
+
+Image 7[]
+
+Derek Watts: This one turned out pretty well. It has a bit of a different wheel on there, they're hollow front wheels. They're held on by the suspension and probably a smaller wheel inside that would drive it. Some people were worried about how that actually works and so on. That one kind of didn't really go much further than the concept.
+
+
+Image 8[]
+
+Derek Watts: This is more of a smaller kind of a jeep. Maybe it'd be pretty fast-moving. A large gun on the top. Really bouncy, almost like a Baja vehicle you would drive in a rally. A lot of people kind of liked this, so we kind of kept this one around for a while.
+
+
+Image 9[]
+
+Derek Watts: The two front wheels at the front would turn it, and it just has two wheels and a line at the back, almost like a Ski-Doo. This one I thought was pretty cool, but some people liked it, but other people didn't. Maybe it was just too odd for people to relate to. We needed to bring it back to something more they'd familiar with.
+
+
+Image 10[]
+
+Derek Watts: Maybe try making it more of a large tank. Maybe this thing was a bit slower-moving. It has a heavy cannon on it. The wheels are kind of encased by metal. So, this one was originally designed to actually pivot behind the front wheels. The whole cabin and front wheel section would turn, almost like a scraper, those are those large earthmovers you see at construction sites. This one is really cool. It's sleek, it's slow, it's futuristic. We kind of like it. Almost like the one from Aliens when they first drive into the city. Problems with this one was it was hard for the mechanism in the engine to get it to work. With the front end being so low and hard for it to pivot up, it would cut into the terrain on the uncharted worlds and just kind of get stuck a lot of places.
+
+
+Image 11[]
+
+Derek Watts: This was more of a painting of almost the same kind of vehicle, what it would actually look like in some of the levels. And again, it has the same problem. It looks sleek, but it would need a fairly flat area to drive around. Once you started getting really undulating terrain, you would have problems with it kind of cutting in. It would not be able to move and conform to the terrain as much as you wanted.
+
+
+Image 12[]
+
+Derek Watts: Another stab at a bit more of a quick-moving jeep. The back wheels were kind of encased by metal, they would just move up and down and the front wheels would turn, kind of far out from the cabin and keep the large cannon above where the driver sits. We actually built a prototype of this, a quick prototype. We actually did that on a few of them. Spent two days building a prototype. It's hard to realize what it's going to look like from the back or driving around just by a concept, and you can also see some of the mistakes that you've made when drawing it when you actually built it in 3D. Once we built it, we drove around it and nobody was too keen on it. So, we started to look at some different concepts after that.
+
+
+Image 13[]
+
+Derek Watts: We actually did a few ones fairly quick. This is one of them. Just four wheels, pretty basic cabin on it, a large cannon at the back... Nice area for the wheels to move up and down so they wouldn't cut into the body at all. This one was-- we did pretty well on that. A lot of people liked it.
+
+
+Image 14[]
+
+Derek Watts: Maybe it needed more wheels. We thought "four wheels have been done, let's try six wheels." Just make it a bit heavier. So, we kind of put a sleek front end on it. Maybe it's a two-seater; the driver on one side, passenger on the other. Maybe they would operate the cannon in the back. We actually built a quick prototype of this one, but it looked a bit more like a pickup truck. It's not kind of the idea we wanted.
+
+
+Image 15[]
+
+Derek Watts: Another six-wheel vehicle. People weren't too keen on the back, but they really liked the front. Like the sleek shark look of it, where you sit underneath and you look down below through the glass. It had a nice feel to it. It looked different than other vehicles.
+
+
+Image 16[]
+
+Derek Watts: It was actually a model built. One of the conceptors put this together. A lot of people really liked the wheels. There was a lot of room for it to move, how low it was. It looked like it could take on all the entire world, it wouldn't get stuck on terrain. There was enough room for the cannon to move around. It was small enough so the enemies would look a fairly good size to you when you're trying to shoot them. So, we got a really good feedback about this one.
+
+
+Image 17[]
+
+Derek Watts: Basically just cutting the front off vehicle concept 15 and putting it onto this one, just so we get that nice front-end futuristic look on it. It was mostly just applying the panels to it, doing a bit of work with the cannon.
+
+
+Image 18[]
+
+Derek Watts: This is the final concept for it. We just did a bit of work on the wheel hubs, painted some more panel lines on it, kind of designed how the muffler system would work... Kind of re-looked at the cannon, kind of put some sheet metal around there to make it a bit more sleek, put an area for the lights to be in at the front, and just really finally polished off the design. This one was the one we actually built and it worked fine.
+
+
+Trivia[]
+The Mako concept in Image 3 would become the direct inspiration for the Tomkah seen in Mass Effect 2 and Mass Effect 3.
+According to The Art of the Mass Effect Trilogy, the concept in Image 4 would be the inspiration for the M-44 Hammerhead in Mass Effect 2.
+The Mako concept in Image 10 can be found in-game as the M29 Grizzly, and it can even be used in Port Hanshan where the vehicle's name appears as "Mako". In Mass Effect Legendary Edition however, that vehicle has been made inaccessible.
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

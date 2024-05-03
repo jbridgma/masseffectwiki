@@ -1,0 +1,113 @@
+
+
+
+
+
+Agent
+
+ 
+
+
+
+
+
+
+
+Faction
+Outlaws
+
+
+Weapons / Attacks
+Sidewinder
+
+
+Abilities
+Decoy
+
+
+Armor
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Agent is an Outlaw unit. They specialize in misdirection while their more offensively-oriented brethren hunt their enemies down. In average dropship deployments a single Agent may show up among a squad of footsoldiers, or in more established camps they appear as lackeys to the enemy commander in charge.
+On Firebases they typically appear on later waves with the other armored Outlaw units.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+5 Trivia
+
+
+Scanner Information[]
+Outlaw Agent
+
+
+DATA:
+Classification: Enemy
+Origin: Milky Way
+ANALYSIS:
+A heavily armored, close-range combatant who deploys holographic doubles to deceive and distract. 
+
+
+Description[]
+Salarians have always operated at the very cutting edge of technology, believing that anything less is a waste of their capabilities. The salarians who have chosen to become outlaws are no less exacting. Preferring to operate on the sidelines rather than leading an assault, they often deploy holographic decoys.
+While the decoy cannot damage an enemy, its kinetic barrier generator means that enemy targeting computers will register an impact when it's shot. This forces enemies to divide their attention and allows the salarian agent to flank or escape. APEX has attempted to research these decoys for larger scale deployment against the kett, but have been unable to create a convincing thermal signature. Meanwhile, it can be expected that these salarian agents will continue to refine their work.
+
+
+Capabilities[]
+Offensive
+Agents are equipped with Sidewinder pistols and can use holographic decoys to mislead his enemies.
+
+Defensive
+They are protected by medium armor and are immune to biotic effects. However they are weak to burning and freezing effects.  
+
+
+Tactics[]
+As with other armoured enemies, fire-based attacks like Incinerate and Flamethrower can be useful counters.
+The holographic decoy projected by Agents isn't perfect; a keen eyed player may notice the decoy flicker briefly from time to time, giving it away.
+Agents should be considered a lower priority target compared to other mid-tier Outlaw units. Though their Sidewinders can deal decent damage from range, the inferno grenades used by Anarchists, the ability of Saboteurs to stagger you out of cover with Energy Drain, and the sheer aggression of the Pariahs all pose a greater threat.
+Decoys will not be highlighted along with the last three enemies of a wave in Multiplayer, only the genuine article will be revealed.
+Trivia[]
+The Codex image for the Agent appears to show it holding both a Black Widow and an Ushior. Dual-wielding weapons as shown is not possible in the game.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

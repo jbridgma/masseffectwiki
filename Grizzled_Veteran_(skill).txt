@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Grizzled Veteran is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Resilience
+
+
+
+-
+
++15% Max Health
++15% Health & Shield Regeneration Delay Reduction
++20% Health Regeneration
+
+
+
+2
+
+Martial Training
+
+
+
+-
+
++30% Melee Damage
+
+
+3
+
+Defense
+
+
+
+-
+
++20% Max Health
++20% Max Shields
+
+
+
+4
+
+Defense Systems
+
+
+
+-
+
++25% Max Shields
++20% Shield Regeneration
+
+
+
+4
+
+Endurance
+
+
+
+-
+
++25% Max Health
++30% Health & Shield Regeneration Delay Reduction
++30% Health Regeneration
+
+
+
+5
+
+Damage Reduction
+
+
+
+Drack takes less damage from all sources.
+
++10% Damage Resistance
+
+
+5
+
+Reactive Regeneration
+
+
+
+After taking damage, Drack's health regeneration improves for a short time.
+
+Health Regeneration Rate: 50%
+Regeneration Delay Reduction: 50%
+Duration (s): 3 
+
+
+
+6
+
+Unstoppable†
+
+
+
+If knocked unconscious, Drack automatically recovers after a short time.
+
+Health On Revive: 50%
+Shields On Revive: 50%
+Initial Time Before Revive (s): 60 
+
+
+
+6
+
+Defiance†
+
+
+
+Improves Drack's maximum health and shields, and also improves his damage when he is near death.
+
+Health Threshold: 30%
+Damage Bonus: 100%
++25% Max Health
++25% Max Shields
+
+
+Note: †Rank 6 is unavailable to Drack until his loyalty mission Nakmor Drack: A Future for our People is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-Player: Nakmor Drack - Starting Combat Skill
+Multiplayer: N/A
+
+
+

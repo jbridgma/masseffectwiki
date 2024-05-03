@@ -1,0 +1,106 @@
+
+
+
+
+
+Destined
+
+ 
+
+
+
+
+
+
+
+Faction
+Kett
+
+
+Weapons / Attacks
+HeshGrenadesMelee
+
+
+Abilities
+CloakSmokescreen
+
+
+Health
+Normal
+
+
+Shields
+Normal
+
+
+Weak Points
+Head
+
+
+The Destined is a kett unit. Less commonly seen in the battlefield compared to Chosen, and Wraiths, they function as troop support and can harass targets at close to mid-range.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Kett Destined
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+A kett field commander who deploys a smokescreen to hinder enemies and provide cover for its troops.
+
+Description[]
+Destined are described in intercepted communications as "ancestral" kett who act as battlefield commanders. They rally infantry into tightly cohesive units, providing shield support and directing operations from the center. 
+The most interesting characteristic of the Destined is their ability to produce an obscuring "smoke" cloud without mechanical assistance. Preliminary study suggests Destined have internal sacs that excrete carbonate-rich compounds, which include a melanin-like pigment. When expelled into the air at will, internal acids trigger a gas evolution reaction and the pigment expands to cover the battlefield, cloaking other kett allies. While studies suggest it is not harmful, breathing the cloud for extended periods is not recommended. 
+
+
+Capabilities[]
+Offensive
+Destined are armed with Hesh shoguns, high explosive (HE) grenades, and will melee attack when close. After exploding, their grenades leave a spherical energy residue that deals continuous area damage for a few seconds before dissipating.
+
+Defensive
+Destined have shields and can create smokescreens to obscure themselves and allies from enemies.
+
+Tactics[]
+Units concealed by smokescreen including the Destined can still be hit by weapons or undirected skills that happen to connect.
+In a smokescreen patch, one of the ways to single out concealed enemies is by the telltale ripples in the air during movement.
+Destined are particularly dangerous at close range due to packing shotguns which are effective at that range, and they'll prefer to use it over their melee attack. Get out of their range and whittle them down with sniper fire or accurate assault rifles.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

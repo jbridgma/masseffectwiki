@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+Task: Running a Fever is a task in Mass Effect: Andromeda inaccessible through normal gameplay.
+
+Contents
+
+1 Background
+2 Acquisition
+3 Walkthrough
+
+3.1 Take The Plant To Nexus Refugees
+
+
+4 Rewards
+5 References
+
+
+Background[]
+This missing task is well-known and has been reported.[1] It has not been fixed in the game's final Update 1.10, so it is expected that the mission will never be officially fixed. The only known workaround is through third-party unofficial mods,[2] with the proper course of action detailed below.
+The reason for this task's exclusion is given thus: Writer John Dombrow nearly included this scene in collaboration with cinematic designer John Ebenger. However, Dombrow and Ebenger were told that the game was already submitted to the ratings board. As it was too late to declare the drug use scenario in this mission, the whole thing had to be scrapped.[3]
+
+Acquisition[]
+The mission was intended to work like this:
+One of the people in the house for Task: Broken Family is on a bed with a fever. The turian refugee says that some herbs might help. This conversation should have started the mission, but it doesn't.
+The herbs could then be collected from the people involved in the mission arc Emergency S.O.S. and then Task: Herbal Entrepreneurs. You should have been able to interact with the plants to get a sample, but that is not possible. 
+
+Walkthrough[]
+Pathfinder Ryder is able to take a sample of an "Unknown Plant". You are given a choice to eat some of the plant or not. Eating the plant causes Ryder to hallucinate for a little bit while SAM speaks to Ryder. SAM begins singing "Row Row Row Your Boat" before segueing to "Modern Major-General". The camera view shifts to a body of water out in the Kadara badlands, which may or may not include the back of a certain unidentified salarian as it pans out.
+Ryder snaps out of the hallucination and SAM lets Ryder know that this plant could be used to help the Nexus Refugees. The mission objective is then added to the Journal.
+
+Take The Plant To Nexus Refugees[]
+You the plant to the turian refugee and the mission completes.
+
+Rewards[]
++270 XP
+References[]
+
+↑ https://answers.ea.com/t5/Bug-Reports/Task-Herbal-Entrepreneurs-doesn-t-let-me-take-a-plant-sample/td-p/5950687
+
+↑ https://www.nexusmods.com/masseffectandromeda/mods/541
+
+↑ BioWare: Stories and Secrets from 25 Years of Game Development, p. 299
+
+
+
+
+

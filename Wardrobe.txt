@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Wardrobe is a customization feature in Mass Effect: Andromeda. 
+
+Overview[]
+The Wardrobe terminal is located in the Pathfinder's quarters aboard the Tempest. The Wardrobe terminal allows customizing and changing Casual Outfits and customizing the look of armor.
+
+Casual Outfits Customization[]
+Main article: Casual Outfits
+Selects one of the Casual Outfits that will be worn aboard the Hyperion, Nexus, Tempest, and during specific cutscenes. 
+Casual Outfits can be customized in the following ways: 
+
+Outfit Color 1 - Primary Color - White is the default color on the default outfit.
+Outfit Color 2 - Secondary Color - Affects the neck and front seam on the shirt, stripes down the sides and back of the pants.
+Outfit Color 3 - Tertiary Color - Blue is the default color on the default outfit.
+Armor Customization[]
+Main article: Armor (Mass Effect: Andromeda)
+Customizing equipped armor is performed in the following ways: 
+
+Default Tints - Each armor piece uses its default colors. Under-armor is auto-tinted based on the color of the chest piece.
+Auto Tint - All armor and under-armor is auto-tinted based on the color of the chest piece.
+Custom Tints - Disables all auto-tinting. Players select the colors and patterns to apply to armor.
+Outfit Color 1 - Primary color
+Outfit Color 2 - Secondary color
+Outfit Color 3 - Tertiary color
+Pattern Select - The player can choose from 4 different options - 3 patterns and no pattern. The first 2 patterns are stripe-based and the final pattern is a camo-based.
+Pattern Color - The primary color for the pattern (if the player selects a pattern).
+To choose when the helmet is shown on Pathfinder Ryder, go to the main Settings menu to change this display feature.
+
+
+
+

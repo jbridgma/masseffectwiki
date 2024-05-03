@@ -1,0 +1,173 @@
+
+
+
+
+Electric Slash is a tech power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Electric Slash[]
+Unleash a wave of electrical energy from your sword to stun and damage all enemies in a cone.
+Highly effective against shields/barriers.Considered a power attack.Receives damage bonuses from power upgrades.
+
+Recharge Speed: 8 sec
+Damage: 550
+Range: 20 m
+Radius: 2 m
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 6.40 sec
+Damage: 550
+Range: 20 m
+Radius: 2 m
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Recharge Speed: 6.40 sec
+Damage: 660
+Range: 20 m
+Radius: 2 m
+
+
+Rank 4: Damage/Radius[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Recharge Speed: 6.40 sec
+Damage: 825
+Range: 20 m
+Radius: 2 m
+
+
+Radius
+Increase impact radius by 30%.
+
+Recharge Speed: 6.40 sec
+Damage: 660
+Range: 20 m
+Radius: 2.60 m
+
+
+
+Rank 5: Detonate/Recharge Speed[]
+
+
+
+Detonate
+Increase force and damage of tech detonations by 100%.
+
+
+
+Recharge Speed
+Increase recharge speed by 40%.
+
+Recharge Speed: 4.84 sec
+Damage: 825 (Damage), 660 (Radius)
+Range: 20 m
+Radius: 2 m (Damage), 2.60 m (Radius)
+
+
+
+Rank 6: Damage/Range[]
+
+
+
+Damage
+Increase damage by 50%.
+
+Recharge Speed: 6.40 sec (Detonate), 4.84 sec (Recharge Speed)
+Damage: 1100 (Damage), 935 (Radius)
+Range: 20 m
+Radius: 2 m (Damage), 2.60 m (Radius)
+
+
+Range
+Increase range by 50%.
+
+Recharge Speed: 6.40 sec (Detonate), 4.84 sec (Recharge Speed)
+Damage: 825 (Damage), 660 (Radius)
+Range: 30 m
+Radius: 2 m (Damage), 2.60 m (Radius)
+
+
+
+Player Notes[]
+This power functions like a Tech version of Shockwave, both in form and the ability to hit enemies behind cover or on the other side of walls. Using this to your advantage is wise when considering the brief activation and the Shadow's comparatively low durability. Powers, weapon mods, or gear that can enable seeing enemies through terrain can make Electric Slash more effective.
+Before the "shockwave" portion of the power launches, there is an initial "hit" that occurs directly in front of the the user right after casting the ability when the sword is swung.
+Like Shockwave, this power is capable of knocking most unprotected (red bar) infantry targets off their feet; the force can stagger almost any protected target, even heavier armored enemies.
+Both the slashing portion and the cascading projectiles can hit up to 3 enemies each, for up to 6 enemies in total.
+The user moves forward slightly while casting Electric Slash, so caution should be used near drops and ledges as the user can fall off.
+Unlike Shockwave, Electric Slash may not be angled to hit enemies at different elevations, except when enemies are "locked", or highlighted, in the HUD; i.e. if they are obscured by terrain the power can't be aimed up or down at them.
+Electric Slash can detonate all three types of "tech" Power Combos (fire, cryo, tech) and is one of the only powers that has an evolution to enhance the damage of such combos. The Shadow can only prime such combos itself through the Rank 5 Electric Damage evolution of Shadow Strike or the use of appropriate ammo mods, so teaming up with allies with tech combo primers like Incinerate is desirable.
+Electric Slash is able to detonate the fuel tanks of Geth Pyros if it is a killing blow.
+The long casting animation means caution should be used around dangerous enemies that can rapidly close to melee range, such as Abominations, Brutes, and teleporting Banshees.
+If Electric Slash is cancelled with a dodge before the projectiles are launched, a cooldown will not be triggered. Furthermore, Tactical Cloak will also not be broken if the power is cancelled in such a manner.
+Availability[]
+Single-player: N/A
+Multiplayer: N7 Shadow Infiltrator
+Bugs[]
+The rank 5 Detonate evolution is bugged and does not provide any additional damage to any Power Combos detonated by Electric Slash.[1]
+References[]
+
+↑ talk page
+
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

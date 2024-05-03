@@ -1,0 +1,62 @@
+
+
+
+
+
+Pas-32
+
+Region
+Andromeda / Heleus Cluster / Layan
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+5.8 AU
+
+
+Orbital Period
+15.7 Earth Years
+
+
+Keplerian Ratio
+0.792
+
+
+Radius
+64,742 km
+
+
+Atm. Pressure
+1.06 atm
+
+
+Satellites
+2
+
+
+Location: Andromeda / Heleus Cluster / Layan System /  Fourth planet
+
+
+Description[]
+Pas-32 is, according to our best calculations, positioned at a "safe distance" from the Scourge, such that observations made from Pas-32 are not wildly distorted by Scourge effects.
+
+Anomaly[]
+Satellite[]
+DATA:
+
+Satellite ID: Unknown
+Power readings: 41.1%
+System report: Sensors functional and active
+Status: Operational
+ANALYSIS:
+This satellite appears to use Andromeda Initiative technology and is oriented to monitor the Scourge. How and why it was placed, however, is a mystery.
+Awards +50  when scanned.
+
+
+
+

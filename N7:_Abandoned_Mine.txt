@@ -1,0 +1,94 @@
+
+
+
+For other uses of the term "mine" including abilities and more general meanings, see Mine (disambiguation).
+Something strange has happened at the mining facility on Aequitas. Whatever happened, it either chased off or killed the facility's staff.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Mine logs
+3.2 Enemies
+
+
+4 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Star Chart from Baria Frontiers store
+
+While scanning the planet Aequitas (third planet of the Fortis system, Minos Wasteland), you will detect an anomaly, which reveals to be an abandoned mine. You will hear the following broadcast:
+
+
+“Beacon triggered by universal distress protocol. Unregistered user or record damaged. Status is not known.”
+
+
+Scanning the planet yields the following text:
+
+
+“Surface scans report potential alien signatures from within the mining facility. Anomalous life signs detected. Whereabouts of facility staff unknown.”
+
+
+Preparation[]
+Prepare for a sustained assault by more Husks than you've ever seen in one place—we're talking 75 or so. Powers upgraded for splash damage will come in handy as will Singularity and Shockwave, along with armor-stripping powers on higher difficulties. Squadmates who can absorb a lot of damage without going down are advisable, along with those carrying shotguns for close-range work—Grunt with his Krogan Berserker passive power fully upgraded is the champion in these categories, elbowing his way forward through groups of four even on Insanity, and he brings Incendiary Ammo to boot. Regular Husks shatter when frozen, so Cryo Blast and Cryo Ammo are also highly effective on unarmored Husks.
+If you eschew use of heavy weapons here or use them sparingly, this can be a great mission to recharge heavy weapon ammo on, as it provides two sets of power cells. If you don't mind using them, the M-622 Avalanche, M-100 Grenade Launcher, and M-490 Blackstorm are all fantastic for killing husks en-masse on any difficulty, though be careful with the grenade launcher as it deals self and friendly-fire damage up close.
+
+Walkthrough[]
+When you land, head to your right, and there will be a container next to a skeleton (+2,250 credits). The container contains most of the credits for this mission, so don’t skip it. When you head into the mine, a Husk will run in front of you. Shoot it and run into the room, turn left and deal with the Husks that are swarming towards you. When they are down, there is a datapad on the bench and a crate of refined iridium to the right (+440 iridium).
+Tip: Once you enter the caves you may notice that your squadmates have a tendency to get "lost" and have a hard time following you. To help "shepherd" them (if you will), manually use the individual move commands for each squad member to get them to go to a specific location, rather than the general "follow me" command.
+When you reach the next room, a Husk will drop from the ceiling and run to the right. There are also four other Husks and an Abomination in the room. However, dealing with them can be easy if you wait a few seconds. There are explosive crates on either side of them, but you need to wait until they all start standing up to shoot them, otherwise they will just explode and do no damage. Then taking them out should be easy, even if they survive the blasts. Grab the iridium before leaving (+600 iridium).
+When you exit the tunnel ahead, you are again ambushed by an Abomination and five more Husks. Take them all out before they have a chance to get close. You may need to fall back on this one, but it beats losing a squad member or dying. Before heading up the ramp after you’re clear, grab the iridium off to the left (+560 iridium). At the top of the ramp is a locker (+1,050 credits) and a thermal clip.
+
+Head down the tunnel, grabbing the iridium to your left along the way (+400 iridium), and be prepared for another ambush. Two Husks will drop from the ceiling, and four more and an Abomination will charge out from the tunnels. Dispose of them any way you can, and you probably will have to backpedal a bit for this one. When they are all down, examine the logs, as it details what happened here, and then choose where you want to fight. Right gives you height, but is a smaller area; left is the ground floor, but a much-larger engagement area. Even though right is smaller, it gives you an advantage over the Husks.
+When you get close to the top of the ramp, EDI will come over the comm saying that she picked up a massive power signature in the mine, and is likely the source of the Husks. Taking it out would stop them, but you have bigger problems. On the table to the right is another thermal clip, this one will keep respawning, and some power cells. Now you just have to wait out the Husk storm. During this process, keep an eye on the ramp behind you, as some Husks will try to come up that way.
+
+When the Husks finally stop, head down to the lower level, and you can see the device and the two bombs beside it. However, don’t destroy it just yet. There is a locker off to your left; however, more Husks will ambush you, so don’t start the bypass yet. Get back up to the upper level and fight them off. When they are all down, you are now free to end the assignment.
+Before doing so, grab the credits from the locker (+450 credits), the med-kit in the same hallway, and a second power cell container from the other tunnel. When you are ready destroy the bombs on either side of the machine to end the assignment and get a nice cutscene, ending with a piece of debris crushing a husk.
+Note:  If you destroy the bombs while standing next to them, the game glitches and you lose all your experience, resources, and credits.
+Note:  It's possible to destroy the device without even going down the ramp by using Shockwave. You might want to be careful in using this power if you want to reach the items in the final room.
+Note:  The last locker before the device is tricky to get with the Husks coming at you. However, if you kill enough Husks, they will eventually stop spawning.
+Note: The game auto-saves before you destroy the bombs, and if you end the mission and then reload the auto-save, you can bypass the locker without interruption, since the Husks will not have been triggered.
+
+Mine logs[]
+Entry Datapad:
+
+
+
+
+If you're reading this... get the hell outta this place! Now!
+
+
+Mine Logs
+Foreman Lawrence
+
+
+
+
+Alien Machine Discovered
+Smithson's men dug out some kind of alien machine today. Like nothing I ever saw. Called up some of my contacts and found out there's a market for this kind of thing. Looks like some squints over at Elanus Risk Control are willing to part with a ton of credits to get their hands on one of these things. Far be it from me to deny them a chance to pay me.
+
+A Strange Glow
+Cooper and Joregenzen say they saw that damned alien thing glowing and hell if I'm going near it to prove them wrong. I don't get paid enough to expose myself to weird alien artifacts. I have to admit, though... that's an awful pretty sound coming from that back room.
+
+Something's Different
+
+Cooper, Joregenzen, and them ain't doing so well. Not feeling so good myself either. Stay near the machine, feel better. Not sure I want to let them Elanus folk take it. Think it should stay right here with us.
+
+
+Enemies[]
+Abomination
+Husk
+Mission Summary[]
+Destroyed Reaper indoctrination device.
+
+Experience reward: 125 (156)
+Credits: 7,500
+Cerberus Funding: 3,750
+Credits Found: 3,750
+Minerals:
+Iridium: 2,000
+
+
+

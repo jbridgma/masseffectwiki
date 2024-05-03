@@ -1,0 +1,50 @@
+
+
+
+Two asari travelers are stuck and they need help from uppity humansGet fake IDs while helping a buddy get revengeHelping a deadbeat dad reconnect with his kid is somehow relevant to solving this assignment1/3A forged ID has been located while assaulting Harkin's hideout in the Zakera Wards factory district. It may prove useful to someone.
+Alternative journal entry:
+An asari in Zakera Ward is having trouble getting authorization to leave the Citadel. She is on Level 27, near the stairs down to Level 26.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Mission Summary
+4 Bugs
+
+
+Acquisition[]
+Prerequisite: Garrus: Eye for an Eye or Thane: Sins of the Father
+
+The assignment is acquired and completed in one of two ways on the Citadel:
+
+During Garrus' loyalty mission, there are forged IDs right before the battle with two YMIR Mechs. Picking it up activates the assignment, initially called Citadel: Found Forged ID in the Journal.
+After completing Thane's loyalty mission, there are two asari sitting on the couch near the stairs that take you down to Level 26, under the Level 27 Sign on the west of the map. Hearing one of them speak will activate the assignment. If the assignment is acquired this way, it is called Citadel: False Positives. If you already have the IDs from Garrus' loyalty mission, the assignment name still changes to Citadel: False Positives.
+Regardless of how you get the assignment, you must finish Thane's loyalty mission first to complete it. 
+
+Walkthrough[]
+
+Talk to an asari named Kalara Tomi sitting on a couch with another asari in the transit corridor between the middle (Level 27) and west (Level 26) sections of the map. She complains of being flagged as a potential for geth infiltration, apparently for no reason.
+At this point, you can resolve the assignment in a few ways, each with their own associated rewards:
+
+If you have the fake IDs, simply give them to her in the same conversation and the assignment is complete. This option only gives the standard experience and credit rewards listed below. Note:  Exploring the investigate options will remove the option to give the IDs, although you can try it again by talking to her again.
+If you have the fake IDs, offer to help and exit the conversation (exploring the investigate paths optional). You'll learn that you need to talk to C-Sec Customs, which is located to the left of the entrance to the Zakera Ward dock opposite of the Gunnery Chief. If you don't want to deal with C-Sec Customs, the next time you talk to Kalara you can still give her the fake IDs. In addition to the experience and credit rewards, this also yields 5 Renegade points. Note:  Giving a snarky initial response to Kalara will not activate the objective pointer to the customs agent even if you gain the same investigate options; the offer to help must be explicit.
+If you do not have or do not wish to give the fake IDs yet, offer to help. As with above, you need to talk to C-Sec Customs. If your Paragon/Renegade score is high enough (or if you regained your Spectre status) the customs officer can be persuaded to allow the asari to leave. Telling the asari the good news will grant you 2 more Paragon points, or if you change your mind you can still give them the fake IDs for 5 Renegade points.
+If you do not have the fake IDs, have not done Garrus' loyalty mission, but have done Thane's loyalty mission, you may be able to complete both. First, do Thane's loyalty mission before Garrus', and convince C-Sec security. Then do Garrus' loyalty mission, acquire the fake IDs, and turn them in to the women (they will be back, i.e. you can complete the assignment twice and are rewarded twice). If they do not reappear after completing Garrus' mission, you cannot complete it a second time.
+If you imported a character from Mass Effect where you chose to abandon the Council, her attitude will be hostile toward you and humanity. Being rude back to her causes the assignment in the Journal to be completed with no experience. However, apologizing and asking if they need help will allow you to complete the assignment normally, either by giving them the IDs or talking to C-Sec. The Journal entry will not change and will remain listed as though you did nothing to help them but credits and experience will be rewarded as normal. After apologizing you can also 'put Kalara in her place' since she won't accept your apology, instead of helping her. This, again, will give no experience, renegade points or credits.
+Note that the Forged IDs are found only during Garrus' loyalty mission at the C-Sec warehouse, in the small room before the two big mechs with the shutters. Even if this assignment has already been completed, the IDs can still be obtained, although nothing can be done with them.
+
+Mission Summary[]
+Credits
+1000 (Talking to C-Sec Customs or giving the asari the fake IDs)
+Experience reward: 40 (50)
+Bugs[]
+If Thane's loyalty mission is active, the asari will not be on the couch. Simply finish it up and check back.
+In both versions, giving them the IDs will end the assignment with a 1000 credit reward, but without giving Renegade points. To avoid this, you can ask the asari who to talk to, which will update your journal after the conversation ends. Talk to her again, and you can give her the forged IDs, and this time you will get +5 Renegade points.
+After completing the assignment by giving the asari the forged IDs, you will still be able to talk to C-Sec customs about the asari and update the journal, even though the assignment is marked as completed. This also gives you the opportunity to gain extra Paragon or Renegade scores with dialogue choices.
+In some cases, while playing the Xbox 360 version of the game, once the Forged IDs are acquired, you can only find Kalara on Disc One. She and the other asari may not show up on Disc Two, and if this is the case try saving the game in front of Kalara. If that does not open up the dialogue option with her, you simply must return to the Normandy, save, and change discs.
+In some cases, you must choose the "Let me help" option when first talking to Kalara in order to get the prompt to talk to C-Sec Customs.
+When playing a female Shepard, the C-Sec Customs officer will greet you by saying, "Can I help you ma'am?" but will then refer to you as "sir" when asked about why the asari were denied departure clearance.
+
+
+

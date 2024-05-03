@@ -1,0 +1,241 @@
+
+
+
+Cerberus Officer is a passive class power in Mass Effect 2 and Mass Effect 3's single-player mode.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Cerberus Leader
+1.1.2 Cerberus Tactician
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Cerberus Officer
+2.1.2 Rank 2: Damage & Durability
+2.1.3 Rank 3: Damage & Durability
+2.1.4 Rank 4: Power Damage/Durability
+2.1.5 Rank 5: Biotic Damage/Tech Damage
+2.1.6 Rank 6: Squad Bonus/Squad Bonus
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+
+
+Mass Effect 2[]
+See also: Squad Members Guide (Mass Effect 2)#Miranda Lawson
+
+Hones Miranda's combat skills, weapon damage, and health; entire squad receives a combat bonus.
+
+Power Ranks[]
+Rank 1 - Miranda's training increases her health and weapon damage, and her tactical expertise gives a combat bonus to the entire squad.
+Health: +5.00%
+Weapon Damage: +6.00%
+Squad Health: +2.50%
+Squad Weapon Damage: +2.50%
+Rank 2 - Miranda's training increases her health and weapon damage, and her tactical expertise gives a combat bonus to the entire squad.
+Health: +10.00%
+Weapon Damage: +12.00%
+Squad Health: +5.00%
+Squad Weapon Damage: +5.00%
+Rank 3 - Miranda's training increases her health and weapon damage, and her tactical expertise gives a combat bonus to the entire squad.
+Health: +15.00%
+Weapon Damage: +18.00%
+Squad Health: +7.50%
+Squad Weapon Damage: +7.50%
+
+Rank 4
+Evolves Cerberus Officer into one of the following options:
+
+Cerberus Leader[]
+Miranda's coordination of the fire team gives an increased bonus to squad weapon damage.
+Health: +20.00%
+Weapon Damage: +25.00%
+Squad Health: +7.50%
+Squad Weapon Damage: +15.00%
+Cerberus Tactician[]
+Miranda's leadership tactics leave no one behind, giving an increased bonus to squad health.
+Health: +20.00%
+Weapon Damage: +25.00%
+Squad Health: +15.00%
+Squad Weapon Damage: +7.50%
+Player Notes[]
+Cerberus Officer's passive squad bonuses will remain in effect even if Miranda falls in battle or she becomes unavailable at specific points during certain missions. Note that this does NOT include situations where Miranda is not technically one of Shepard's two squadmates; for example, her passive will not provide any benefit to the team if she is chosen as the biotic specialist during Collector Base: The Long Walk.
+Availability[]
+Miranda Lawson
+Mass Effect 3[]
+See also: Squad Members Guide (Mass Effect 3)#Miranda Lawson
+
+
+Power Ranks[]
+Rank 1: Cerberus Officer[]
+Boost weapon damage, health, and shields/barriers.
+
+Health & Shield Bonus: 15%
+Power Damage Bonus: 15%
+
+
+Rank 2: Damage & Durability[]
+Increase health and shield bonuses by 15%.Increase power damage bonus by 15%.
+
+Health & Shield Bonus: 30%
+Power Damage Bonus: 30%
+
+
+Rank 3: Damage & Durability[]
+Increase health and shield bonuses by 15%.Increase power damage bonus by 15%.
+
+Health & Shield Bonus: 45%
+Power Damage Bonus: 45%
+
+
+Rank 4: Power Damage/Durability[]
+
+
+
+Weapon Damage
+Increase weapon damage by 20%.
+
+
+
+Durability
+Increase health and shield bonuses by 30%.
+
+Health & Shield Bonus: 75%
+Power Damage Bonus: 45%
+
+
+
+Rank 5: Biotic Damage/Tech Damage[]
+
+
+
+Biotic Damage
+Increase biotic power damage by 30%.
+
+
+
+Tech Damage
+Increase tech power damage by 30%.
+
+
+
+
+Rank 6: Squad Bonus/Squad Bonus[]
+
+
+
+Squad Bonus
+Increase squadmate tech and biotic power damage by 10%.
+
+
+
+Squad Bonus
+Increase recharge speed of squadmate's shields by 15%.
+
+
+
+
+Player Notes[]
+Availability[]
+Single-player: Miranda Lawson
+Multiplayer: N/A
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

@@ -1,0 +1,102 @@
+
+
+
+
+
+Antictra
+
+Region
+Milky Way / Hourglass Nebula / Faryar
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+12.3 AU
+
+
+Orbital Period
+43.3 Earth Years
+
+
+Keplerian Ratio
+0.993
+
+
+Radius
+5,658 km
+
+
+Day Length
+21.1 Earth Hours
+
+
+Atm. Pressure
+0.00 atm
+
+
+Surface Temp
+−180 °C 
+
+
+Surface Gravity
+0.8 g
+
+
+Mass
+0.625 Earth Masses
+
+
+Location: Milky Way / Hourglass Nebula / Faryar System /  Seventh planet
+
+Prerequisite: Priority: Thessia (Mass Effect 3)
+
+Description[]
+Antictra (which means "fused metal") is so named because of its spectacular craters. A planet high in various grades of iron oxide, Antictra is regularly pummeled by loose asteroids in the nearby belt between it and Wenrum. The iron melted and fused by the incoming meteors makes for spectacular landscape shots that look alien no matter what part of the galaxy you may be from. However, due to frequent meteor impacts exploration is considered highly dangerous even to those with advanced kinetic barriers.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+6,500
+
+
+Platinum
+
+Medium
+
+5,400
+
+
+Iridium
+
+High
+
+17,800
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

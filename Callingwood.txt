@@ -1,0 +1,125 @@
+
+
+
+Annea knows about a water source on Elaaden. Rather than share its location, she sells water to the planet's inhabitants, who then live and die by her whim. Looking into this situation would probably benefit all involved, as well as Elaaden's future residents.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Go to the Paradise
+2.2 Find Annea's office
+2.3 Scan for a network console
+2.4 Hack the network console to access Annea's office
+2.5 Enter Annea's office
+2.6 Search for clues about the location of the water source
+2.7 Go to the water source
+2.8 Scan for information
+2.9 Check in with Annea at the Paradise
+2.10 Check in with the Nexus officials at the Paradise
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Elaaden: A New World
+
+This mission can be acquired at the Scavenger Flophouse ("Misery"). Just outside the cave entrance where Search for the Stolen Remnant Drive Core concludes, there is a tall guard tower with a landing pad located next to the tower. There will be a. As Ryder approaches the tower, there will be comm chatter between a couple of scavengers coming from a Console on the platform at the top of the tower. Jump up to and interact with the Console to activate the mission.
+
+Walkthrough[]
+Go to the Paradise[]
+Head to The Paradise and into the building with Annea's shop.
+
+Find Annea's office[]
+Annea's office is located on the upper level of the building. Interact with the door to discover that the door is locked. SAM suggests scanning to find a way to open the door.
+
+Scan for a network console[]
+Scanning reveals a conduit leading down through the shop. Follow the conduit outline and at the end lies a console. It's not exactly hidden but it is behind a platform, near an aggressive scavenger. 
+
+Hack the network console to access Annea's office[]
+Interact with the console to acquire a code for Annea's office door.
+
+Enter Annea's office[]
+Once Ryder has the door code, return to Annea's office on the upper level and open the door.
+
+Search for clues about the location of the water source[]
+Inside the office, the Angaran Computer on the wall can be scanned for +10 .
+Inside the office is a datapad:
+
+
+
+
+A Memo from Annea
+
+Rashaad:
+
+I told you; we can't do it during the eclipse, Those scavs are getting smart and they'll expect us to move while it's dark. We have to be very careful around the entrance to the lake now because I've seen them in the area. If they get their hands on advanced scanning tech, they might even notice there's something underground. 
+
+Use distractions and misdirection to lead them away from the reservoir. I planned out some routes. The map markers and navpoints are attached.
+
+
+Annea
+
+
+A navpointis added northeastern Sea of Ataraxia (east of the Northeastern Monolith).
+
+Go to the water source[]
+Head to the navpoint in the Sea of Ataraxia. The navpoint leads to a door in a rock outcropping in the sand dunes. Note:  This door will be locked until Ryder progresses the mission to this point. Outside the doorway on the right is a nickel node that can be collected.
+Inside the door is a cave with glowing fungi and a pipe system leading inward.
+
+Scan for information[]
+Follow the pipe into the cave and Ryder will reach an underground lake with a small pier out into the lake.
+There is a vanadium node behind one of the large rock pillars in this area.
+
+On the pier is a lootable container. At the end of a pier extending into the lake, Ryder will see a Remnant device in the lake; apparently this lake is a Remnant creation too. Scan the Water Supply Pod. A few seconds later a cutscene begins, as Annea arrives with her guards.
+Annea's not very happy with Ryder, who she thinks is trying to ruin her livelihood. She reveals that her brother, Asgaar, had given out water freely, only to be killed for the water by scavengers. After that, Annea decided to use her control over the water supply for power and security instead. She wants to continue this arrangement; she's willing to sell water to the krogan and the outpost, as before, and will offer Ryder a cut of the business. Ryder can accept this deal or reject it.
+One of two objectives will be given based upon Ryder's choice.
+If Ryder accepts the deal:
+
+Check in with Annea at the Paradise[]
+After the conversation, Annea and her guards depart. You can now return to The Paradise to speak with Annea.
+Annea's back in her shop and reminds you that she left a lootable container of goods in her office upstairs. 
+The mission then ends after the conversation.
+If Ryder rejects the deal:
+
+Check in with the Nexus officials at the Paradise[]
+After the conversation, Annea will use her bioelectricity as a distraction and run off, leaving her guards -- 4 Raiders -- to fight Ryder. Defeat them.
+After they're dead, Ryder contacts the Nexus to request new management for Annea's business.
+Head back to The Paradise and speak to Callingwood. Callingwood says that he is going through Annea's books and forwarding information to the Nexus. The Andromeda Initiative will continue helping New Tuchanka and anyone else who wants water for free. However, anyone that abuses that privilege will find that source taken away. The mission then ends after the conversation is over.
+
+Aftermath[]
+If Ryder accepted the deal
+
+The lootable container is now available upstairs.
+
+If Ryder rejected the deal
+
+Annea has been replaced by an Initiative Merchant. The Merchant only buys and sells goods for standard rates and doesn't follow Annea's rates.
+A datapad will show up:
+
+
+
+
+
+Note from Annea
+I am told your friends were killed while attacking the human Pathfinder. While I imagine financial gain is no longer your sole motivation, I will pay you a higher fee for a second attempt. 
+
+Do not fail this time! 
+
+No more lives will be lost to this meddler. 
+
+
+- Annea
+
+
+Annea can be found later in a camp in Gehenna Valley. Head to the north-northeast of the Southern Monolithto find a scavenger camp. If you talk to Annea, she'll have decided that the Roekaar are right. Annea and her guards (2 Adhi, 2 Raiders) then attempt to kill Ryder.
+
+Rewards[]
++530 XP
++73 AVP 
++5% Elaaden viability
+
+
+

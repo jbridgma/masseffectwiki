@@ -1,0 +1,114 @@
+
+
+
+A Research Center is a research and development platform normally assigned to outposts and some select Initiative starships. Advanced minifacturing capability (small-scale manufacture) and information processing allows the Research Center to develop new technology and build it almost on the spot. They are also used to build powerful augmentations that enhance the capability of equipment. 
+Given the Initiative's current limitations, bandwidth and resource allocation to Research Centers is carefully monitored. The Nexus underlines the importance of new discoveries by rewarding scans and information gathered via a points system. Commonly referred to as Research Data Points (RD), these can be used for access time at Research Centers to discover or create new blueprints.
+
+Contents
+
+1 Overview
+
+1.1 Research
+1.2 Development
+
+
+2 Available Locations
+
+
+Overview[]
+Research centers allow Ryder to research available blueprints and develop (craft) new items when sufficient Resources are available.
+Note: Any ND1 Nomad items will be unavailable until the Nomad is unlocked during A Better Beginning.
+
+Research[]
+Main article: Research (Mass Effect: Andromeda)
+Ryder isn't able to craft items until a blueprint has been researched with sufficient RD. Once a blueprint has been researched, Ryder can craft the item.
+
+Development[]
+Main article: Research (Mass Effect: Andromeda)
+Once researched blueprints are available, Ryder can craft new items with available resources.
+
+Available Locations[]
+Research centers are available in numerous locations. Any Forward Station located inside of an Initiative outpost  will contain a Research Center.
+
+
+
+Location
+
+Specific Location
+
+Prerequisites
+
+
+Aya
+
+Docks
+
+Available After Completing A Trail of Hope II
+
+
+Elaaden
+
+Elaaden Outpost
+
+Available after Settling Elaaden
+
+
+Eos
+
+Prodromos
+
+Available after A Better Beginning
+
+
+Eos
+
+Site 1: Promise
+
+Available during A Better Beginning
+
+
+Havarl
+
+Pelaav Research Station
+
+Available After Helping Havarl's Scientists
+
+
+Kadara
+
+Ditaeon
+
+Available After Settling Kadara
+
+
+Kadara
+
+Kadara Port
+
+Available After The First Landing On Kadara
+
+
+Nexus
+
+Tech Lab
+
+Available After A Better Beginning
+
+
+Tempest
+
+Research Room
+
+Available The First Time Boarding The Tempest
+
+
+Voeld
+
+Taerve Uni
+
+Available After Settling Voeld
+
+
+
+
+

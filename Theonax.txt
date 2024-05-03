@@ -1,0 +1,102 @@
+
+
+
+
+
+Theonax
+
+Region
+Milky Way / Pylos Nebula / Kriseroi
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.18 AU
+
+
+Orbital Period
+0.1 Earth Years
+
+
+Keplerian Ratio
+0.583
+
+
+Radius
+10,442 km
+
+
+Day Length
+69.9 Earth Hours
+
+
+Atm. Pressure
+1.3 atm
+
+
+Surface Temp
+−70 °C 
+
+
+Surface Gravity
+1.3 g
+
+
+Mass
+3.459 Earth Masses
+
+
+Location: Milky Way / Pylos Nebula / Kriseroi System /  Second planet
+
+Prerequisite: Star Chart from Baria Frontiers store (Mass Effect 2)
+
+Description[]
+Theonax's surface is covered by water and ammonia-hydrate ices, which are constantly repaved by cryovolcanic processes. The world's size and density suggest the core contains heavier elements, and retains much of the heat of the system's formation.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+5,200
+
+
+Platinum
+
+High
+
+16,900
+
+
+Iridium
+
+Medium
+
+7,400
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

@@ -1,0 +1,72 @@
+
+
+
+Meet with a mysterious stranger who sent a comm and claims they would like to help you fight the kett on Eos.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Meet the contact
+2.2 Destroy a power generator
+2.3 Destroy the barracks
+2.4 Speak with Bain
+
+
+3 Rewards
+4 Enemies
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+After Prodromos has been established on Eos and the radiation has cleared, it's possible to explore the area west of the settlement.
+When Pathfinder Ryder is traveling west of Prodromos in The Sheartop, a stranger makes contact over comms claiming he knows how to beat the kett and wants a meet. An objective marker will indicate the location in Presson Dunes.
+Alternatively, on first conversation Majordomo Bell-Scott gives a navpoint northwest of the colony regarding a "kett expert" that wants to meet with the Pathfinder.
+
+Walkthrough[]
+Meet the contact[]
+Inside a kett bunker found at the objective marker is Bain Massani, a Nexus exile who says he has kett-hunting as hobby. He gives you two targets where the kett can be weakened - both shown with navpoints.
+Inside the kett bunker with Bain, there is a small lootable container and a Kett Core Encryption Tech that can be scanned for +100 . Head outside and jump up onto the roof of the bunker to find another large lootable container.
+
+Destroy a power generator[]
+The generator is inside a larger bunker next to Massani's bunker. Eliminate the kett and use the Kett Security Console to shut down the generator. Nearby wildlife may, on occasion, wander near the bunker, causing kett forces to engage and leaving you with a free-for-all to take advantage of.
+Inside the bunker complex are two lootable containers: one near the security console and one near a terminal containing audio where the Invictor orders the release of a Fiend in Site 2: Resilience.
+Generator shutdown yields +540 XP, +29 AVP , and +2% Eos viability.
+
+Destroy the barracks[]
+The barracks are uphill, south of the Forward Station. Eliminate the kett forces to complete the objective. The kett have the advantage of higher ground and better cover, but luckily don't use it especially well.
+When all enemies are defeated Ryder receives +519 XP, +29 AVP , and +2% Eos viability.
+There is a datapad in the barracks:
+
+
+
+
+
+Obey this order!
+Translated from Tonaizhet: 
+
+Reporting: Invictor
+ Account: Final orders 
+
+Comment:
+I will say this only once. Focus on the new aliens that have arrived. I don't care about off-world orders. It's obvious to me that the old tech does not and cannot give us what we need, no matter what is still hidden. But these new arrivals have understandable, usable technology. And they may be viable for more uses. If we return with answers about them, that serves and raises me. Answers about the old tech only serve the order we have. You want to raise me. Or you'll find yourself the subject of collection and study.
+
+End report
+
+
+
+
+Speak with Bain[]
+Speaking with Bain back at his bunker completes the assignment. He congratulates you on a job well done.
+
+Rewards[]
++270 XP
+Enemies[]
+Anointed
+Chosen
+Destined
+Wraith
+
+
+

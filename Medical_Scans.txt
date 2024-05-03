@@ -1,0 +1,69 @@
+
+
+
+
+The colonists once controlled by the Thorian have been tricked into signing a nasty contract for intrusive medical scans. They need help renegotiating the terms of the contract.
+
+Acquisition[]
+Prerequisite: Horizon (mission)
+
+A colonist from Zhu's Hope on Feros (either a green Shiala, if she was spared by Shepard in Mass Effect, or an unnamed human female colonist) is sitting by the Tracking Office on Illium. Talk to her to get the assignment.
+Speaking with the Feros representative invariably awards the assignment even if you claim you have other things to deal with. In that case, the representative quickly states her case and implores you to take action.
+
+Walkthrough[]
+
+When you interact with the colonist rep she stands up, recognising Commander Shepard from your mission on Feros two years previously. If you spared most of the colonists, the colony has recovered and grown but are now facing new troubles; if not (or if you did not import a Mass Effect character), then the colonists have returned to Earth. Either way, they have a problem requiring your attention. 
+While signing a contract on Illium for treatment, the colonists have inadvertently given permission for Baria Frontiers to perform invasive, potentially harmful medical tests on them. She then asks you to negotiate with the Baria Frontiers representative to change the terms of the contract.
+Most of the finer details of the assignment can be uncovered in the initial conversation with the Feros representative. If you brushed her off you won't be able to follow up on those as she just asks you for updates if you speak with her again.
+Talking to Erinya, the Baria Frontiers representative, reveals that she has a deeply rooted dislike of non-asari. All of the investigate options lead to a secondary inquiry about it. Backing out of the conversation also unlocks that secondary inquiry when you talk to her again. Erinya blames the death of her bond partner and children on the actions of other species. If you have enough Paragon or Renegade points, she can be persuaded to alter the contract, rewarding you with 40 experience.
+The assignment completes once you talk to the Feros representative about the amended contract. Morality points are available when you convince Erinya one way or another, and more can also be had if Shiala is the Feros representative instead of the human female colonist.
+If the Feros colony survived, you will receive the following message from Lizbeth Baynham once on the Normandy:
+
+
+
+
+Appreciate the helpFrom: Lizbeth Baynham
+
+Hey, Shepard,
+
+I heard about what you did on Illium, and I wanted to thank you for helping out Zhu's Hope one more time. We're surviving, if barely. Most of ExoGeni left, but I stayed behind as an attaché, and to make sure that nothing was left of the Thorian. We don't need that problem again.
+
+Also, I'm really, really sorry that I shot at you. I'm pretty sure I said that, but I just wanted to reiterate it.
+
+Good luck, and thanks. Zhu's Hope is alive again because of what you did.
+
+Sincerely,
+
+
+Lizbeth Baynham.
+
+
+
+Conversely, if the Feros colony failed, Lizbeth sends this alternative email:
+
+
+
+
+Appreciate the helpFrom: Lizbeth Baynham
+
+Dear Commander Shepard,
+
+I heard about what you did on Illium, and I wanted to thank you for helping the survivors of what happened at Zhu's Hope. These people don't have much left, and you dealing with that damn contract helped them a lot.
+
+I get sick when I think about what we did to those Colonists. What we allowed to happen. Do you feel that way? Do you ever wish you could have avoided killing so many people? We had no choice. I had no choice. But I still wonder.
+
+Thank you again. I'm doing what I can. You've helped the survivors get some peace.
+
+Sincerely,
+
+
+Lizbeth Baynham
+
+
+Mission Summary[]
+The contract has been successfully negotiated, and the colonists of Feros will not be subjected to intrusive scans.
+
+Experience reward: 40 (50)
+
+
+

@@ -1,0 +1,97 @@
+
+
+
+To keep Morda from potentially building a bomb, retrieve the drive core located inside the heart of the Remnant derelict. We need to get it before her people do.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Go to the derelict Remnant ship
+2.2 Locate the entrance
+2.3 Interface with the Remnant device
+2.4 Locate the Remnant glyph
+2.5 Enter the derelict Remnant ship
+2.6 Locate the derelict ship's drive core
+2.7 Find an alternate exit from the derelict ship
+
+
+3 Rewards
+4 Puzzle Solution
+
+
+Acquisition[]
+Prerequisite: Parlay with the Krogan
+
+Starts automatically after the prerequisite mission.
+
+Walkthrough[]
+Go to the derelict Remnant ship[]
+Head to the navpointnorthwest of the Forward Station in the Hell's Promise region.
+A tunnel into the ship leads to the navpoint and to an open area on the inside with several crates, containers, and a small storage building. Ryder will come under attack from Outlaws. Defeat them.
+Next to the small building is a lootable container.
+Take care as a number of Remnant Turrets in the distance will be firing at Ryder.
+Ryder can either defeat all of the turrets in a head on push or try to go along one of the side routes using the structures as cover. The side routes still contain a few Turrets but much less than a direct approach.
+If you go head down the right-hand side path, about halfway down is a tunnel on the left; inside are two scavengers and three lootable containers and an ammunition cache
+Head towards the navpoint and Ryder will find outlaws and Remnant forces battling near the entrance. Defeat them.
+
+Locate the entrance[]
+Head to the navpoint to find a Remnant Console. Nearby is a Mining Drill that can be scanned for +10 .
+
+Interface with the Remnant device[]
+Interface with the console to find out that it is puzzle locked and requires a missing glyph. Leave the puzzle and a new objective is added.
+
+Locate the Remnant glyph[]
+Scan the ground to find the yellow conduits leading to the Entropy Glyph. Scan the glyph and then return to the console. 
+Head back to the console and solve the puzzle (needed for the Cryptographer Achievement). For the puzzle console solution, see here.
+
+Enter the derelict Remnant ship[]
+After the puzzle has been solved, head through the door to enter the ship.
+
+Locate the derelict ship's drive core[]
+There are signs of scavenging. SAM says that prices on Kadara tell that selling raw materials from Remnant architecture is extremely profitable.
+Head forward until Ryder arrives at a console that creates a bridge. To the right of the console is a lootable container. Head over the bridge, head to the right and Ryder can jump a small gap. There will be another lootable container. Head back to the bridge and head forwards towards a large door, before the door there is a scannable Remnant console buried in some wreckage near the entrance. After the door is a console that causes pylons to form a bridge. However this time only half of the bridge forms correctly which requires some jumping. On the other side is a console that will open a door to the drive core. 
+The drive core is not there, probably taken by scavengers. No other option than to leave the ship and track down the scavengers.
+
+Find an alternate exit from the derelict ship[]
+Head to the right of the console and there is a lootable container. Head back to the console and this time head to the left. There is a bunch of red flares on the ground and a door. Enter the door. Continue down the passage to a second door. Go through the door.
+There is a Remnant Observer Creator that can be scanned for +10 .
+As you continue forward, a few Observers and Assemblers will attack Ryder. Defeat them. Continue ahead to another door.
+After going through the door, you will again come under attack from additional Observers and Assemblers. Defeat them. Continue forward to another door and follow the navpoint to the outside. Just outside the exit is a Forward Station that Ryder can call down from orbit as well as two Cadmium nodes.
+If Ryder has Nakmor Drack in the squad, he comments that it wasn't Morda who took the drive core, because the krogan wouldn't have tried to break in if they knew about this way.
+The mission completes when Ryder reaches the navpoint on the surface in the Hell's Promise region. (Northwest of the entrance Ryder used to enter the derelict). 
+The follow-up mission Search for the Stolen Remnant Drive Core starts automatically.
+
+Rewards[]
++530 XP
++73 AVP 
++5% Elaaden viability
+Puzzle Solution[]
+Main article: Remnant Decryption Puzzle Guide
+
+
+
+
+
+Puzzle ConsoleReward: Game Progression
+
+
+Elaaden Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Parlay with the Krogan
+
+Missions (Mass Effect: Andromeda)
+
+Search for the Stolen Remnant Drive Core
+
+
+
+

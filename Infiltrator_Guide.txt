@@ -1,0 +1,225 @@
+
+
+
+See also: Infiltrator Guide (Mass Effect 2), Infiltrator Guide (Mass Effect 3)
+
+Infiltrators combine combat and tech abilities to specialize in killing or disabling enemies at long range. Infiltrators are trained to use omni-tools, focusing on decryption and offensive abilities rather than healing. They can use pistols or sniper rifles and medium armor.
+
+Contents
+
+1 Overview
+
+1.1 Changes between the Original and Legendary editions
+
+
+2 Talents
+
+2.1 Class Talents
+
+2.1.1 Pistols
+2.1.2 Sniper Rifles
+2.1.3 Tactical Armor
+2.1.4 Fitness
+2.1.5 Electronics
+2.1.6 Damping
+2.1.7 Decryption
+2.1.8 First Aid
+2.1.9 Infiltrator
+2.1.10 Charm
+2.1.11 Intimidate
+2.1.12 Spectre Training
+
+
+2.2 Notable Bonus Talents
+
+2.2.1 Hacking
+2.2.2 Medicine
+2.2.3 Barrier
+2.2.4 Lift
+2.2.5 Singularity
+2.2.6 Stasis
+2.2.7 Throw
+2.2.8 Warp
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Pistols
+3.2 Sniper Rifles
+3.3 Assault Rifles
+3.4 Shotguns
+
+
+4 Combat Guide
+5 Squad Members
+6 Specialization Classes
+
+6.1 Commando
+6.2 Operative
+
+
+
+
+
+Overview[]
+The Infiltrator class combines the versatility of tech skills with the freedom of attacking at long range from sniper rifles. Tech skills provide greater flexibility in party makeup as Electronics and Decryption can be PC skills, eliminating the need for a party member to fill those roles. Sniper rifles provide opportunities to eliminate groups of targets at extreme range presenting very little risk to the rest of the party.
+The Infiltrator is the quintessential sniper class, and an expert at guerrilla warfare. With access to pistols for short-range combat and sniper rifles for long-range and precision shots, they offer a nice variety of offensive options. Defense isn't lacking either, with armor up to medium-class (unlocked with Tactical Armor), Shield Boost, Immunity and the additional base shield capacity that is gained from the Electronics talent.
+
+Changes between the Original and Legendary editions[]
+The Infiltrator is affected by all the major balance changes between editions leading to a class that's much more a soldier/engineer hybrid and less a soldier-with-tech-skills.
+
+Shepard is now proficient with all weapons - which means you may want assault rifles in the early game but you specialize in the same weapons.
+Immunity and weapon talents have six second durations, meaning that the Infiltrator and Soldier no longer have endgame "god modes" with perma-immunity and perma-marksman.
+Different guns within a class now handle differently making for a wider variety of playstyles. This is especially notable for sniper rifles (and they are all steadier).
+Talents[]
+Class Talents[]
+Pistols[]
+Main article: Pistols
+Pistols can be useful in close quarters and their higher rate of fire, when compared to a sniper rifle, makes pistols better suited against quickly moving enemies at short to mid-range. Because the long range of the rifle will not be suitable for all situations, it is wise to invest into Pistol, giving both increased damage and accuracy. It is also possible to ignore sniper rifles entirely and rely on the pistol's Marksman ability for long-range firepower, especially at high levels and higher difficulties while the sniper rifle will take several shots for a kill.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Unlocked with 5 points in Pistols
+Sniper rifles are the single most damaging mode of attack for an Infiltrator, however, they overheat very quickly, thus maximizing damage and accuracy is important to help insure that no shot is wasted. Increasing accuracy also increases the effective range of rifles by allowing accurate shots to be taken at greater distances, effectively boosting defense. The Master Assassination ability adds a powerful single shot bonus, quickly dispatching nearly anything with the added side-effect of stabilizing the rifle until a shot is taken or the duration expires.
+
+Tactical Armor[]
+Main article: Tactical Armor
+As a damage mitigation skill, additional points reduce damage taken which increases the chances of surviving the short bursts outside of cover that sniping will require. Tactical Armor must be taken to rank 7 for Medium Armor, which offers increased survivability. The next point also adds Shield Boost which will help survival in the early game.
+
+Fitness[]
+Main article: Fitness
+Unlocked with 6 points in Tactical Armor
+Fitness reduces the need to rapidly react to damage with First Aid as well as increases total health and the amount of time that can be spent outside of cover. Immunity, a very useful defensive ability, will render the Infiltrator nigh-invincible during the duration which can be used defensively, reacting to ambushes, or tactically, creating openings to burst from cover and lay down fire. With the Legendary Edition Immunity has changed from something that ended up as a ridiculously overpowered skill that could be kept up permanently (making some enemies extremely annoying) to a short burst reckless plan/panic button.
+
+Electronics[]
+Main article: Electronics
+A multifaceted skill, Overload at master level enables the Electronics skill on hard objects, which increases opportunities for experience gain. Overload can also be used to rapidly remove enemy shields, something a sniper rifle does rather poorly, with a secondary effect of reducing damage resistance, softening targets' weapon damage. Passive bonuses increases the capacity of shields, providing temporary resistance to return sniper or small arms fire, and increases hull repair speed of the Mako.
+
+Damping[]
+Main article: Damping
+Unlocked with 4 points in Electronics
+Serving three main purposes, the ability provides defense and counter measures for offensive and defensive tech and biotic abilities, stuns for a short period, and deals damage. Passive bonuses increases the effectiveness of Sabotage and Overload by increasing their area of effect from 10% at rank 2 and capping at 30%. Advanced and Master Damping deal the same damage, but Master offers a larger radius, increased cooldown against enemy abilities, and stunning more targets. The crowd control aspect of Damping is among the worst in the game behind most biotic abilities. Be sure to carefully consider your party makeup and bonus talents before investing beyond rank 2.
+
+Decryption[]
+Main article: Decryption
+At master level, the Decryption skill is enabled on hard objects, which increases opportunities for experience gain. Sabotage is a powerful counter-offensive skill that simultaneously deals damage while removing the enemies ability to return fire. Passive bonuses increase the damage of tech mines from 10% at rank 2 and capping at 30%. Additional ranks in the tech mine increase the duration of the effects, both damage and the weapon debuff, reduce the cooldown, and increase radius and damage.
+
+First Aid[]
+Main article: First Aid
+Unlocked with 7 points in Decryption
+Adds healing to each use of medi-gel that takes effect across the entire party, instead of just using the highest party member's skill. Each NPC party member can max out First Aid so points are only necessary if party members points do not provide enough healing. Alternatively, it can be effectively replaced with a more defensive play or with regenerative armor upgrades.
+
+Infiltrator[]
+Main article: Infiltrator
+Provides flat buffs to every useful skill available to an Infiltrator. Your class talent, which will reduce heat on your pistol and rifle, as well as increase the damage of your tech abilities. These bonuses (and the base class skill) will cap out at rank 6, but before too long, you will be given the option of choosing a specialization, which will build onto this skill starting at rank 7.
+
+Charm[]
+Main article: Charm
+Opens conversational options that are likely to increase Paragon points. Paragon points primarily add bonuses to health and healing which will go largely unused by an Infiltrator. This talent is tied to Paragon, and will allow additional conversation options that will often lead to additional information, avoiding combat, bonus items, etc. This talent will also reduce the cost of items purchased in stores.
+
+Intimidate[]
+Main article: Intimidate
+Opens conversational options that are likely to increase Renegade points. Renegade points primarily add bonuses to damage and damage dealing abilities which will prove very useful to an Infiltrator. Similar to Charm above, though linked with Renegade, and offering an increase in the credits gained when selling items.
+
+Spectre Training[]
+Main article: Spectre Training
+The jack-of-all-trades talent, it is highly useful for any play style but each point yields very small gains relative to the specialized gains offered by other skills. While it should be maxed out at 12, start investing points up to rank 4 for Unity first, then upgrade later after other damage buffs have been upgraded. This skill increases the damage of all powers and attacks, gives extra health, and increases both maximum accuracy and the rate at which accuracy regenerates. At level 4, the talent unlocks the Unity ability. All in all, this is absolutely a must to have regardless of the play style used for the class.
+
+Notable Bonus Talents[]
+Hacking[]
+Main article: Hacking
+One of only two tech talents Infiltrators lack, this talent opens the Hacking ability and speeds up the cooldown for your Sabotage, Damping, and Overload talents. Combined with the Decryption bonus to damage, your omni-tool, and the bonuses granted to an Operative, this can be a very good choice to an Infiltrator who specializes in tech.
+
+Medicine[]
+Main article: Medicine
+This talent will, along with your omni-tool, reduce the cooldown on First Aid, allowing you to use medi-gel more often. In practical use, this isn't as good an option as others, especially when your supply of medi-gel is rather limited, even with all the available upgrades. It also grants the Neural Shock ability, which finds occasional usefulness in stopping a charging krogan.
+
+Barrier[]
+Main article: Barrier
+A very good defensive ability, but it falls short in two aspects in particular. First and most crucial, is the protection offered is all shields, so it is ineffective against attacks that bypass shields and does not increase either damage protection or hardening. Immunity provides better protection for the Infiltrator. Also, without a bio-amp, the cooldown will never be improved past its base level without armor upgrades.
+
+Lift[]
+Main article: Lift
+While lacking a bio-amp, this still is a viable skill for crowd control and removal of some forms of cover. It is also very effective against charging enemies and immobilization of solitary foes, particularly against creatures weak to biotics (such as the rachni), and crowding enemies (such as the Thorian Creepers). This is an especially good choice for Commandos.
+
+Singularity[]
+Main article: Singularity
+This talent pulls enemies and movable objects into a single point, immobilizing opponents and dealing damage to any objects and creatures that collide with each other. This is also a rare ability, available only to Adepts and Liara. Given its shorter duration and only slightly larger radius when compared to lift, it ends up unfortunately being second-rate. If your play style lends itself to its use, however, it is still not a poor choice.
+
+Stasis[]
+Main article: Stasis
+A defensive skill that provides a substantial boost to you or your squad's defenses. This talent is best used if you disable your party's offensive auto-response in your game options, helping your party stay alive and allows the "run and gun" style of play.
+
+Throw[]
+Main article: Throw
+Useful for knocking enemies off of high ledges and knocking down charging enemies. The duration of knockdown is not as long as the immobilization offered by Lift or Singularity, the opportunities to knock enemies off of edges are infrequent, and weapon force will knock many opponents over. This may not be the best choice, but is far from the worst.
+
+Warp[]
+Main article: Warp
+Dealing ongoing damage as well as lowering an enemy's damage protection, this would be a good choice for Commandos either in addition to Assassination or in combination to set up high-damage shots on higher difficulties. Its long duration and wide radius makes this a very good bonus talent.
+
+Weapons and Equipment[]
+Pistols[]
+Main article: Pistols
+Pistols are useful for any situation. The pistol ability, Marksman, greatly boosts accuracy, which can supplement the sniper rifle in dealing with enemies at a distance. The pistol is a versatile weapon for just about any situation, especially at close range or other times when the sniper rifle can't be used. In these situations, this weapon is your best bet, so even though it could be considered the secondary weapon, putting extra points into the pistol talent is not a waste.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Sniper rifles are the Infiltrator's specialist weapon, and dominate long range combat. The Infiltrator is the only other class apart from the Soldier to have access to the weapon - and it is one of the few weapons that can provide cover for your squadmates from a distance. This is the way to go with this weapon. The Infiltrator is at home taking out enemies from a distance, so use the rifle to give your close range teammates an advantage. However, due to its long reload time and poor unscoped aim, switch to a different weapon if the enemies get up close and personal.
+
+Assault Rifles[]
+Main article: Assault Rifles.
+This is a bonus talent, and with both pistols and sniper rifles already at your disposal, there is little need for another weapon. As a result, you may be better served training in a different talent. The weapon itself is good across the board, particularly in late-game when you have access to more accurate rifles. On the other hand, the main advantage of the assault rifle is its versatility and effectiveness at all ranges of combat, allowing the player to be more flexible and effective in different combat situations.
+
+Shotguns[]
+Main article: Shotguns
+The shotgun is a good alternative because it is effective at close quarters, the weakness of the class. Since the class is based solely on the use of a few tech skills and long-ranged weapons, adding the closed-ranged weapon adds some flexibility for Infiltrators. However, apart from damage it may not be necessary to train it, as there is nothing to stop you from using the weapon untrained if you wish to or run into a situation where the shotgun is useful.
+
+Combat Guide[]
+Because the Infiltrator is dependent on tech talents and long range weaponry, it is best to keep your enemies at a good distance. Don't forget to use your powers to take out enemies, keep them at a distance, and cover your squadmates. The Infiltrator has a wide range of tech powers, using them on synthetic enemies is always a safe bet. Using Overload against shields is a great way to help out your squadmates in combat, and put enemies down quicker.
+Using the sniper rifle to cover your squadmates, whom you should usually send ahead of you, is the best way to keep enemies pinned down while increase your squad survivability. Just be sure to know when to switch between pistols and sniper rifles so you don't get overwhelmed and killed.
+
+Squad Members[]
+An Infiltrator has great advantage in selecting their squad, as they have many talents that are necessary to complete and excel in missions and assignments. This allows for a larger number of party combinations that can be successful. The Infiltrator should choose at least one biotic (Kaidan, Wrex, or Liara) to make up for its own lack of biotic talents. Kaidan, specializing in both biotics and tech, will not only fill the need for a biotic but allow for more crowd control and tech proximity mines to be used. Wrex will both allow the use of biotics and function very well in most combat situations, eliminating the need for a pure damage dealer such as Ashley. Liara is the only squad member with Singularity, one of the most useful biotic talents for combat. However, she has no weapon or armor talents, so she must be placed very carefully into a support role, especially on higher difficulties. Kaidan and Wrex  will provide a good, balanced team, capable of performing excellently in combat as well as having great support options.
+Of the remaining members, Garrus is similar to the Infiltrator but his proficiency in assault rifles instead of pistols makes him more versatile in combat, and his Adrenaline Burst allows for tech talents to put more pressure on the enemy and more frequent tech mines. Tali is the only squad member with AI Hacking, and her shotgun and Basic Armor talents can make her useful in close quarters combat. Other than that, she does little that the Infiltrator cannot already do itself and will not add as much to the squad's strength as other members do. However, she is useful for more tech proximity mines and for using tech skills on larger crowds.
+
+Specialization Classes[]
+Commando[]
+Provides additional damage bonuses to weapons, very useful if the sniper rifle is the primary mode of attack. Increases the effectiveness of Marksman and Assassination and reduces recharge time on Immunity making Immunity a more attractive talent investment. This is a specialization that the Infiltrator shares with Soldiers, and will directly increase combat lethality. Also, weapons damage increases along with the Commando training. All of these makes the Commando a very attractive choice, especially on higher difficulties where enemy tech and biotic resistances are high. The additional damage this specialization grants can make a difference in making a kill-shot. Also, with 12 points in Fitness and in proper armor upgrades, the cooldown bonus granted to Commandos makes it possible to have Immunity active constantly, giving a very high damage reduction with some of the higher-quality armors. The Commando can afford several options in squad members as this is a very well-rounded choice.
+
+Operative[]
+Reduces the recharge time on all tech abilities, very useful if tech abilities are the primary mode of attack or if an increased use of tech abilities in combat is desired. Also adds a very strong buff for Overload and Sabotage by increasing the damage and a wider area of effect. It's a specialization shared with Engineers, and one which increases the effectiveness of tech mines. With Operative training, the cooldown of the Overload, Damping, and Sabotage mines are reduced. Given the lack of another talent to enhance tech power cooldown as well as the higher resistances seen on the higher difficulty levels, these bonuses will likely not be as effective as the ones granted to Commandos. On higher difficulties, the Operative will rely on squad members more often for damage, possibly taking Hacking as a bonus talent to make the most out of your mines, as well as to turn synthetic enemies and drones against their allies.
+
+
+
+
+
+Mass Effect Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Experience • Systems • Mako • Codex
+
+
+Achievements
+
+Completionist • Rich Achievement •  Party Member Achievements  Scholar Achievement • Weapon and Ability Achievements
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • Merchants
+
+
+
+

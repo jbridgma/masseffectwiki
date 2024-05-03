@@ -1,0 +1,100 @@
+
+
+
+
+
+Dorgal
+
+Region
+Milky Way / Omega Nebula / Fathar
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.54 AU
+
+
+Orbital Period
+0.7 Earth Years
+
+
+Keplerian Ratio
+0.321
+
+
+Radius
+3,521 km
+
+
+Day Length
+51.4 Earth Hours
+
+
+Atm. Pressure
+0.43 atm
+
+
+Surface Temp
+−88 °C 
+
+
+Surface Gravity
+0.44 g
+
+
+Mass
+0.133 Earth Masses
+
+
+Location: Milky Way / Omega Nebula / Fathar System /  Third planet
+
+Description[]
+The surface of Dorgal is an ethane-soaked mush. The planet hovers near the boiling point of the hydrocarbon and supports a diverse if simple and slow-moving carbon-based ecology. The planet's gravity is strong enough to retain an atmosphere of molecular nitrogen and carbon monoxide, but the methane that dominated billions of years ago has long since been lost.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+6,500
+
+
+Platinum
+
+High
+
+17,600
+
+
+Iridium
+
+Medium
+
+6,200
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

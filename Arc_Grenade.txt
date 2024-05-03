@@ -1,0 +1,153 @@
+
+
+
+
+Arc Grenade is a combat grenade power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Arc Grenade[]
+Stun and electrocute your enemies with an EMP-packed grenade. 
+Effective against shields and barriers.
+
+Damage: 400
+Radius: 8 m (6 m N7 Demolisher)
+
+
+Rank 2: Max Grenades[]
+Increase grenade capacity by 1.
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Damage: 480
+Radius: 8 m (6 m N7 Demolisher)
+
+
+Rank 4: Damage/Radius[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Damage: 600
+Radius: 8m (6 m N7 Demolisher)
+
+
+Radius
+Increase radius by 30%.
+
+Damage: 480
+Radius: 10.40 m (7.80 m N7 Demolisher)
+
+
+
+Rank 5: Max Grenades/Electrical Damage[]
+
+
+
+Max Grenades
+Increase grenade capacity by 1.
+
+
+
+Electrical Damage
+Add an electrical effect that does 40% additional damage over 10 seconds.
+
+
+
+
+Rank 6: Armor-Piercing/Shield Overload[]
+
+
+
+Armor-Piercing
+Increase damage to armor by 75%.
+
+
+
+Shield Overload
+Increases damage to shields and barriers by 75%.
+
+
+
+
+Player Notes[]
+Mechanics
+Arc Grenade does 2x damage against shields and barriers.[1]
+Grenade powers do not have a recharge time and, thus, can be used immediately at any time, provided grenades are available. Using the power consumes one grenade each time.
+If the player has multiple grenade powers, the grenade pool is shared between them.
+The grenades detonate on contact with any surface and, as such, cannot be bounced.
+The blast from Arc Grenade will go through walls, floors, and cover.
+Arc Grenade can cause electrocution stun effects on most unshielded (red bar or yellow bar) infantry enemies such as Dragoons, much like other tech abilities such as Overload. See the notes section of the Overload page for more information.
+The Rank 5 "Electrical Damage" evolution increases the priming window of Tech Bursts from the default 4 seconds to 10 seconds. Arc Grenades can detonate all three types of "tech" Power Combos (fire, cryo, and tech).
+Strategies
+This grenade is highly effective against geth, as it is very effective at stripping shields.
+When evolved for maximum damage along with the evolution that allows 75% extra damage against shields and barriers, these grenades become extraordinarily effective at stripping the shields and barriers from hard targets such as Atlases, Geth Primes, and Banshees. Catching groups of these enemies with grenades a moment after they spawn will significantly soften them up. Since the 75% extra damage is multiplied on top of the base damage modifiers, this evolution is much better than the alternative.
+Arc Grenade so-evolved can also decimate groups of Phantoms, though they must be lobbed skillfully as Phantoms are adept at bringing up their power-blocking bubbles to prevent single grenades from damaging them.
+The Arc Grenade is one of the most effective crowd-control powers in the game against masses of foot soldiers thanks to its ability to cause electrocution stuns, especially if multiple grenades are used, as the first 1-2 will easily strip any shielding from targets, leaving them vulnerable to the shocks.
+On higher difficulties, the increasing importance of Power Combos for total damage output means that regardless of chosen evolution, Arc Grenades are best when they can set up many maxed-out combos at once or detonate effectively, such as when combined with rank 6 Overload, rank 6 Incinerate, Disruptor Rounds or Homing Grenade (with the rank 6 Split evolution). The damage of said combos will be highest if Arc Grenade and the detonator powers are at maximum rank.
+The Electrical Damage evolution is useful not just for priming combos; the lengthy damage over time is also useful for delaying any damaged enemy shields or barriers from recharging, especially important on higher difficulties. The 40% bonus is multiplicative and will greatly increase the power's overall damage.
+When combined with grenade capacity Gear it becomes possible to throw up to eight of these into a group of enemies in rapid succession with devastating results.
+Due to its on-contact explosive nature, Arc Grenade can reveal Geth Hunters and other cloaked foes such as Phantoms more easily than other powers that require a target lock. With the damage-over-time of the Electrical Damage evolution such enemies are continuously revealed.
+Availability[]
+Single-player: N/A
+Multiplayer: N7 Demolisher Engineer, Quarian Male Engineer, Quarian Male Infiltrator
+References[]
+
+↑ https://web.archive.org/web/20160318000954/forum.bioware.com/topic/277136-gameplay-data-and-mechanics/
+
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

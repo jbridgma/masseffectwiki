@@ -1,0 +1,246 @@
+
+
+
+The following are the messages relayed by Forward Stations on Voeld.
+
+Terminals[]
+
+
+
+ATTACK WARNING
+—Forward Station Network expanded—
+Damage sustained: Forward Station Five
+Accessing logs…
+
+—KNOWN—
+START LOG
+(0538) FS5: [Damage sustained.]
+(0544) FS5: [Audio; translated from Shelesh] Kett! They're trying to blow up that human thing!
+(0545) FS5: [Audio; translated from Shelesh] Those bone-buttocks want the ammunition. Don't let them!
+(0603) FS5: [Audio; translated from Shelesh] These stupid things need some kind of shield or barrier.
+(0603) FS5: [Audio; translated from Shelesh] You could suggest it to the commander.
+END LOG
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Forward Station Additional Access Granted
+—Forward Station Network expanded—
+Additional access profiles configured
+New passcodes added
+
+—KNOWN—
+From: Initiative Director Jarun Tann
+To: Commander Anjik Do Xeel
+
+Forward station supplies will be made available to the Angaran Resistance. Passcodes for access will be transmitted on a secure channel. Distribute at your discretion.
+
+The kett are a common enemy. Supporting your cause supports ours.
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Forward Station Protocol Engaged
+—Contact—
+Preset Viability Metrics: MISMATCH
+
+Habitat 6 does not match Initiative preflight profiles. Advance predictives are no longer applicable. Parameters require 97% rework.
+
+—KNOWN—
+Habitat 6: Voeld
+Discovered: Attr. Haresh Chandran-Baer (AI Exo-Geology)
+Orbital data onboard
+Spectrographic profiles: WORKING…
+Geo-Sounding: WORKING…
+ALERT: Extreme weather conditions. Outpost deployment not recommended
+
+—More data needed—
+Additional forward station coordination required.
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Merging Records from Initiative Archive
+—Forward Station Network expanded—
+Conflict: ongoing geological mismatch
+Expanding data collation to Initiative Archive
+
+—KNOWN—
+To: Initiative Director Jien Garson
+
+Subject: The framing of Habitat 6 in public-facing materials
+
+Dear Ms. Garson:
+
+I have some thoughts about our current plans to present Habitat 6 as a "seaside paradise." A quick, unscientific poll of my department revealed that most already see Habitat 6 as a lively beach resort. An Ibiza or Mykonos. White sands, beach parties, umbrella drinks. That's a vacation, not a place to live and breathe, to raise children.
+
+Since the surveyors' report suggests a temperate climate—more Cape Cod than Aruba—my team is proposing a lateral shift in thinking. Let's move to family picnics, sand castles, cottages, golden retrievers.
+
+"Bliss by the ocean."
+
+Comments welcome.
+
+-Stefan Seto, Lead Media Research, Initiative Department of Recruitment
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Multiple-Deployment Coordination
+—Forward Station Network established—
+Meteorological analysis initiated
+Generating surface weather map
+
+—KNOWN—
+Planet name: VOELD (Origin: Angaran) Climate: Unclassified
+Ongoing glaciation suspected.
+Orbital abnormalities detected.
+Gravitational distortion detected.
+Scourge impact suspected.
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Nexus Live-Link
+—Forward Station/Nexus Live-Link—
+Conflict: ongoing geological mismatch
+Expanding data collation to public files
+
+—KNOWN—
+(Keywords: "Voeld," "Habitat 6")
+
+Heleus News Service: "The human Pathfinder has made contact with the legendary Angaran Resistance. The rebel group has fought [DATA TRUNCATED]"
+
+Nexus Official:
+"Pathfinder Ryder has arrived on Habitat 6, or Voeld. Initial observations indicate that, like Eos, it is nothing like we expected. More information forthcoming."
+
+Vortex SpaceNook (Topic: Habitat 6)
+Most liked comments—
+"Check it! Current temp: -60C. Baby, it's Voeld outside." [janethereveller]
+"The PF's gonna fix it for sure." [sangfroid]
+"**** recruitment. **** all those pictures of dogs rolling around on the beach. Did we even bring dogs? Wait, we brought dogs, right?" [prunejuice65]
+
+—More data needed—
+Additional forward station coordination required
+
+—ONGOING—
+
+
+
+
+
+
+
+
+
+Synergy Achieved
+—Voeld Sensor Coverage Complete—
+Geological and atmospheric profile sync
+Recording…
+Recording…
+Expanding data collation to relevant reports
+
+—KNOWN—
+(Keywords: "Voeld," "forward station")
+
+"Kett combatants are targeting forward stations. Additional protection for forward stations is recommended. Angaran Resistance has reached out to Director Jarun Tann, offering help in understanding how best to improve our tech.
+
+List of possible improvements:
+- Built-in heat lamps
+- Kinetic barrier
+- Expanded ammunition cache
+- Improved network connectivity"
+
+—End report—
+Synchronicity achieved
+Voeld sensor coverage complete
+Viability index updated
+
+—MONITORING—
+
+
+
+
+
+
+
+
+
+Triangulation Achieved
+—Forward Station Network expanded—
+Angaran Resistance network located
+Requesting access… access granted.
+Geography and demography updated.
+
+—KNOWN—
+Political Geography (Updated)
+
+Major population centers: Estraaja
+Historical (defunct) population centers: Ja Niihk, Oallis, Pahenaan
+Establishments within range : Hjara, Techiix, Eroesk
+
+Incoming notice.
+Displaying…
+
+"DEHESAANG NOVOA: PATENOANG VA, SKKUT AN TEHET!"
+
+Translating…
+
+"MESSAGE OF THE DAY: STAY RELAXED AND FUCK THE KETT!"
+
+—More data needed—
+Additional forward station coordination required.
+
+—ONGOING—
+
+
+
+
+
+
+

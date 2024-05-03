@@ -1,0 +1,95 @@
+
+
+
+
+
+Wild Adhi
+
+ 
+
+
+
+
+
+
+
+Faction
+Wildlife
+
+
+Weapons / Attacks
+Melee
+
+
+Abilities
+Bite
+
+
+Health
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Wild Adhi is a wildlife unit that can be found on Voeld, Havarl, Kadara, and Elaaden. They are medium-sized, reptile-like, quadrupedal creatures with two pairs of eyes and toothy jaws. A large, spiny fin runs down the length of their back, stopping at their long tail.  
+Certain factions are able to domesticate these creatures as attack animals, such as Outlaws or the Roekaar.
+
+Scanner Information[]
+Adhi
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+An over-sized, dog-like creature trained and used by outlaws to rush at enemies.
+
+Capabilities[]
+Offensive
+Wild Adhi can clamp their jaws around a target's arm, immobilizing them and leaving them open for attack unless the target manages to break free.
+Alternatively, they can swipe with their front claws for light damage. 
+
+Defensive
+They are unprotected by armor or shields.
+
+Tactics[]
+Unlike the challyrion, wild adhi have no means of camouflage and can be spotted from far away.
+Their attack sets are similar to their domesticated kin, and can be dealt with promptly.
+Wild adhi tend to find strength in numbers more compared to their tamed kin.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

@@ -1,0 +1,32 @@
+
+
+
+You've discovered a suspicious kett device among some Remnant ruins. To determine its purpose, SAM needs more information.  
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Destroy The Kett Devices
+
+
+3 Rewards
+4 Bugs
+
+
+Acquisition[]
+Available after visiting Aya and traveling to Voeld. Destroying any kett device will acquire this task.
+
+Walkthrough[]
+Destroy The Kett Devices[]
+You have to find five devices and destroy them. The devices are spread randomly among the smaller, unmarked remnant sites that consist of a few remnant columns and often, but not always have kett landing at them. Each device will be marked with . If a site doesn't have a device, the site might have one on the next visit. If a site has a device, SAM (or a squadmate) will comment on the presence of the device.
+After destroying the five devices, this mission will complete and the mission Subjugation will start automatically.
+
+
+Rewards[]
++270 XP
+Bugs[]
+After several kett devices have been destroyed, SAM will report that his analysis is at 85% complete, but a script error in the subtitles show it as him saying 84%.
+
+
+

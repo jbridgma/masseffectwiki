@@ -1,0 +1,197 @@
+
+
+
+The following are transcriptions of the artists' comments for the design gallery "The Environments of Mass Effect: Caleston" found on the bonus content disc of Mass Effect released in 2007.
+
+Contents
+
+1 Image 1
+2 Image 2
+3 Image 3
+4 Image 4
+5 Image 5
+6 Image 6
+7 Image 7
+8 Image 8
+9 Image 9
+10 Image 10
+11 Image 11
+12 Image 12
+13 Image 13
+14 Image 14
+15 Image 15
+16 Image 16
+17 Image 17
+18 Image 18
+19 Image 19
+20 Image 20
+21 Image 21
+22 Image 22
+23 Image 23
+24 Image 24
+25 Image 25
+26 Image 26
+27 Image 27
+
+
+Image 1[]
+
+Derek Watts: So this is one of the first high concepts we did of Caleston. Originally, it was supposed to be a lava world. This is a factory in the background that I painted up, and Matt Rhodes added the characters in the foreground having a battle.
+
+
+Image 2[]
+
+Derek Watts: The interior of Caleston's mine was supposed to have a lot of lava, element zero... I'm not sure really at this time what it was supposed to be. That object off to the left is kind of this observatory point that looked out over the molten lava below it. We kind of wanted this really dusty kind of feeling to it, like an ironworking shop or a metal shop you'd see in Detroit, one of those old steel mills and so on.
+
+
+Image 3[]
+
+Derek Watts: So this is one of the level maps we had drawn up. Mike Trottier did this one. The designers talked to us about some of the objects and some of the scenes they want to have happening, the kind of layout, what might make an interesting gameplay. So we'll quickly draw up a level map for the level artists to eventually build into a block level. So these pencil drawings maybe take a few hours, then we'll give it to the level artists and they'll spend a bit more time building the block level.
+
+
+Image 4[]
+
+Derek Watts: Caleston at this point, we were thinking we might have to have some tents, some other objects that are strewn around for the miners to use. This is a drawing for just a covered area for crates and so on, a simple shed used with fabric and metal.
+
+
+Image 5[]
+
+Derek Watts: So Caleston, after we come up with the main production painting and the look we're happy with, what we'll do is take the level, break it down, and decide which rooms we want to concept. Maybe out of each area we might do the large hub area, maybe a few rooms and some hallways so the level artists get an idea of what the look of the area is. This was the hub where you come into the station. It was supposed to have this skylight that looked out into Caleston. The actual mine goes off in the background. This was supposed to have a lot of signage, kind of a real grungy feeling to it, well-worn look to it, and bustling with people, bounty hunters and strangers of all sorts in here.
+
+
+Image 6[]
+
+Derek Watts: So one of the parts in Caleston we did was the hangar. This is an important area. Actually we ended up spending a lot of time on hangars, but really as gameplay goes, you're in the hangar-- into the hangar quickly, and then you'll leave right away. So this is just the elevator. Originally we were actually going to have the Normandy come in, land on some landing gear, and we were going to exit the Normandy on the ground and go up this elevator. The problem with that being is the Normandy just was so large that the texture wouldn't hold up, so we decided to create this system that actually unloaded you like a modern airplane would.
+
+
+Image 7[]
+
+Derek Watts: This was a concept for the boss's room. We wanted to have it quite light, a different look, cleaner, so we had a lot of cream colors, a bit of red in there for color. The windows are supposed to open up, and you see Caleston in the background, the volcanoes, the lava, the smoldering, kind of sulfur look. This kind of planet had a few variations. We were thinking lava at the beginning, then we saw a lot of that in Star Wars: Episode 3, so maybe it has more of a sulfur feel to it, almost like Yellowstone National Park with the geysers and so on. Still a very harsh environment that you wouldn't want to really go out much into.
+
+
+Image 8[]
+
+Derek Watts: This is the bar area of Caleston, kind of like a Blade Runner feel to it. A lot of signage, some nice deep blues. We were going to have spotlights on the table, girls dancing on there. Kind of a seedy look, but still clean and not a real trucker place, but something that was interesting to go to for sure.
+
+
+Image 9[]
+
+Derek Watts: This is just a concept of how the hallways looked, maybe some of the back areas of the actual structure. Almost the alleyway, the workings of the base. So this was just a quick concept of that.
+
+
+Image 10[]
+
+Derek Watts: This was a concept for some towers we were going to put in Caleston. Actually, to be honest, I can't remember what they were for. We did a few variations. They were eventually cut from the game. I think they were just going to be large structures that you could see in the distance, maybe as a guide point as you're driving along with your vehicle; some kind of cooling towers or mining bases that would have these for something or other.
+
+
+Image 11[]
+
+Derek Watts: Caleston. So some of the stuff we will decide after coming out with the production paintings is we did a bit of work in SketchUp. This had some pluses and minuses. The good thing was we were able to build a lot of these individual pieces. The bad thing was that the level artists had a hard time deciding what should be built and what should actually be textured, what should be detail meshes. So you can see some of the detail, the pillars in the background, the doorway; we actually might take these and say "hey, that's something that's important. We'll make this a detail mesh. That's part of the look of this area."
+
+
+Image 12[]
+
+Derek Watts: This is a production painting of the interior of the base. This is the actual mining area, where the... at this point I think we were trying to mine element zero, I'm not exactly sure. So you have these larger arms dropping the material in there, you kind of walk around through these almost like vats of the material on these catwalks and then be elevated above it; almost like a modern day production line that makes cars. Everything's moving along and you're in a separate area where you can walk through it. We kind of wanted to guide you through with a lot of lights, so you had a feeling that below you was dangerous equipment all the time and around you was dangerous equipment. So you were just kind of putting these catwalks to stay away from it.
+
+
+Image 13[]
+
+Derek Watts: So this is the Prothean tower from Caleston. When we first started working on the game, the Prothean material was just supposed to be a few small pieces of structure in the Citadel. They ended up becoming very important to the entire game so we really had to look at a way to get the Prothean material across. We looked at a lot of Syd Mead influences. The Prothean was going to be very clean and curved. This was a tower that we built in Caleston, it was probably about 15 kilometers tall. You'd get up to the top of it, take an elevator all the way down to the bottom and you'd see all these doorways that went up. It was almost like an engine, like valves on there as the pistons went up and down. As the elevator went up and down these valves would open up. That was the plan for this.
+
+
+Image 14[]
+
+Derek Watts: This is a SketchUp model of the hub in Caleston. This just shows maybe a quick layout. The lower level on the right, the staircases that go down and then some of the platforms up to the top. You'd see that center staircase, you'd actually walk around there and look down on this courtyard below. This area we ended up cutting the first two areas and probably bring back in downloadable content. It was a really good area. We almost finished it, but it was just too much for the planet at that time.
+
+
+Image 15[]
+
+Derek Watts: This is another detail of the hub, the main base. We wanted this large structure that went up through the middle; it actually went up through the glass. We were going to hang a lot of hoses off there. This was almost like big large hoses coming down through the base and then going even further down below. The bar and so on is behind it off to the right and that catwalk goes all around it. So each area, you'd have your bar, your marshals area, the port would be to the lower right, would all lead into this area.
+
+
+Image 16[]
+
+Derek Watts: This is a detail I think of the bar area, I'm not exactly sure. This is another model done up in SketchUp. You can see they can get quite detailed; made it a bit harder for the level artist to figure out what he should build and what should be textures. There are some nice structures in here so we would take a few of them, add them to the level and then really work with them. We didn't have enough time to do all of them, we would just run out of time.
+
+
+Image 17[]
+
+Derek Watts: This is a prototype done up very early for Caleston; originally, it was going to be a lava world. We decided to go away from that and move it more towards this kind of sulfur world with these pools of water. Kind of very bait environment, this yellow lighting. This was done up in Epic with the materials. Place a character in there. We did this on a few planets. This would give us a really good understanding of what the planet was supposed to be, with some textures that we could actually work with.
+
+
+Image 18[]
+
+Derek Watts: This is another early prototype of the planet using a lot of those textures, that kind of lighting of the sulfur world. This was coming out of one of the tunnels. We had this long vehicle area. We thought these tunnels were kind of interesting to guide you through some of the areas that lead more into rocks. Those structures in the background are mining tubes. The structure on the top would be where the people would sit in, operating the mining tubes, send down the drill through those holes and then bring it back up through those.
+
+
+Image 19[]
+
+Derek Watts: Again, this is another scene we set up in Unreal. What we would do is take a few of the objects, texture up a bit of the buildings, light it, take a look at it and say, "yeah, that's the look we wanted." This one had a bit of heavier fog to it. We're starting to get some of the structures we want in the background; this kind of framework, almost like a grid pattern through there. Some of the signage, you can see some of the white paint just to add a bit of interest to those.
+
+
+Image 20[]
+
+Derek Watts: This is a gatehouse in Caleston. We needed something to make you get out of the vehicle as you drove through these areas; we built these interesting gatehouses. We kind of put those tubes in there that maybe hold some kind of gases or something. Kind of this nice turquoise light there worked really well with the yellow environment. There would be these curved doors you would have to open; so, you'd have to go in there, have a battle, open a door, drive through, kill whatever you can and carry on.
+
+
+Image 21[]
+
+Derek Watts: These are three towers that were done for Caleston. They're actually in the X06 demo when you're running up and the hoppers are bouncing around. These are the towers we placed. It has interest to it. We ended up making the tops more of a reflective material, put a cubemap on there, add a bit of interest to that. These things were also shrunk down and put into the gatehouse, for extra detail.
+
+
+Image 22[]
+
+Derek Watts: These are the large mining tubes. So, that structure that you see there is where the actual people sit in; they operate it from there and then the drill would actually slide down to that tube, bore through it and then they'd pull that tube back up. The walkway would go up and go down the tubes. I mean, at this point we were thinking maybe these could be moved around, they'd be easily transported. They would set them down, drill into the ground and then set the drill in there, and so on.
+
+
+Image 23[]
+
+Derek Watts: This is a few screen captures of some of the detail meshes we built for this area. I mean, we had pipes going through Caleston; what's a leveling gauge without pipes? So the clamps are actually a detail mesh. The pipes we ended up-- originally they were going to be quite rusty but we actually made them very reflective, like a pipe you'd actually see in the real world. They're usually chrome or a curve with something that keeps corrosion away.
+
+
+Image 24[]
+
+Derek Watts: This is a bit of a concept painted over one of the block metals. This is a gatehouse and what we did was just paint it in quickly what the gate would look like. We wanted this curved gate, almost like a stainless steel kind of a material on there so it would really draw your eye to it; and again, lighting underneath just to draw your eye to that. It was easy for the level artist to light. When you put these large pot lights in there, they could easily put lighting in there. It's a bit of an easier system than trying to do just the sunlight with balanced lighting, it's very difficult at this point.
+
+
+Image 25[]
+
+Derek Watts: These are some captures done of a prototype of what the tubes would look like. Once you went into the top of the mining tunnel, you went down the shaft. So these hoses would probably link up to the surface, maybe tie into the actual command area where they were working on the mines. Then we were thinking about having these sheet metal being laid down, and then always with water. If you ever go into mines they usually have a lot of water on the ground; usually the drilling equipment requires water, or hoses will leak and so on. This is also starting to give us a good understanding of how the lighting would be down in here. They placed a character in here just for scale.
+
+
+Image 26[]
+
+Derek Watts: This is a prototype done up of the caves. We have some of the modules, prefabs we were doing were cave sections. So this guy was just testing out how the floor walls would actually match up. Maybe some of the lighting, make sure all the elements work together so we can link in a whole bunch of sections, for gameplay.
+
+
+Image 27[]
+
+Derek Watts: As I was saying earlier, Caleston went through a lot of changes. This was another change it went through. Originally, it was going to be a lava world, then we went through sulfur, then what we decided to do was add more color to it. We found out as we played it more in the older version, it was maybe just too muted for the average player, so we wanted to get some color in the dirt. We ended up adding some kind of a sulfur-y orange pools, put a more dynamic sky in there. This actual sky was shot in Edmonton; it was a large storm that came through and we sent somebody out to photograph it really quickly. It had a bit of problems because it was moving so fast it actually kind of blurred a bit, so we had to fix it in Photoshop. But this was pretty well the final look for Caleston and we were quite happy with it.
+
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

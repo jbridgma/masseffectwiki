@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+This article is about the power in Mass Effect 2 and Mass Effect 3. For other abilities or articles with the term "combat" in the name, see Combat (disambiguation).
+
+Combat Mastery is a passive class power for the Soldier in Mass Effect 2 and Mass Effect 3's single-player mode.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Commando
+1.1.2 Shock Trooper
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Combat Mastery
+2.1.2 Rank 2: Influence & Mastery
+2.1.3 Rank 3: Influence & Capacity
+2.1.4 Rank 4: Damage/Influence & Duration
+2.1.5 Rank 5: Squad Bonus/Headshots
+2.1.6 Rank 6: Weight Capacity/Weapon Master
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+
+
+Mass Effect 2[]
+
+Makes you tougher, stronger, faster, and more charismatic.
+
+Power Ranks[]
+Rank 1 - Your superior training improves your health, weapon damage, storm speed, and Paragon/Renegade scores.
+Health: +10.00%
+Weapon Damage: +3.00%
+Storm Speed: +20.00%
+Paragon/Renegade: +20.00%
+Rank 2 - Your superior training improves your health, weapon damage, storm speed, and Paragon/Renegade scores.
+Health: +20.00%
+Weapon Damage: +6.00%
+Storm Speed: +30.00%
+Paragon/Renegade: +40.00%
+Rank 3 - Your superior training improves your health, weapon damage, storm speed, and Paragon/Renegade scores.
+Health: +30.00%
+Weapon Damage: +9.00%
+Storm Speed: +40.00%
+Paragon/Renegade: +70.00%
+Rank 4
+Evolves Combat Mastery into one of the following:
+
+Commando[]
+Your killing intent is ever-present, increasing weapon damage and storm speed, and giving a damage bonus to powers.
+Health: +30.00%
+Weapon Damage: +15.00%
+Storm Speed: +50.00%
+Paragon/Renegade: +70.00%
+Power Damage: +15.00%
+Shock Trooper[]
+Your survival instinct grants you an intense concentration that further increases health and storm speed, and gives a duration bonus to powers.
+Health: +40.00%
+Weapon Damage: +9.00%
+Storm Speed: +40.00%
+Paragon/Renegade: +100.00%
+Power Duration: +15.00%
+Player Notes[]
+Combat Mastery is the only one of the six player class powers in Mass Effect 2 that improves storm speed, and the only one that does not improve power recharge time.
+During combat situations with enemies active in the area, the improvement to storm speed manifests as a time dilation effect similar to that of Adrenaline Rush. The two time-dilation effects do not stack, meaning that the movement speed bonus is not providing any additional benefit to Shepard when storming during Adrenaline Rush.
+Availability[]
+Soldier
+Mass Effect 3[]
+
+
+Power Ranks[]
+Rank 1: Combat Mastery[]
+Be an expert tactician on and off the battlefield.More speed.More strength.More charisma.
+
+Reputation Bonus: 4%
+Weapon Damage Bonus: 5%
+Weight Capacity Bonus: 20
+
+
+Rank 2: Influence & Mastery[]
+Increase weapon damage bonus by 5%.Increase reputation bonus by 4%.
+
+Reputation Bonus: 8%
+Weapon Damage Bonus: 10%
+Weight Capacity Bonus: 20
+
+
+Rank 3: Influence & Capacity[]
+Increase weight capacity bonus by 30 points.Increase reputation bonus by 4%.
+
+Reputation Bonus: 12%
+Weapon Damage Bonus: 10%
+Weight Capacity Bonus: 50
+
+
+Rank 4: Damage/Influence & Duration[]
+
+
+
+Damage
+Increase weapon damage bonus by 5%.Increase power damage bonus by 10%. 
+
+Reputation Bonus: 12%
+Weapon Damage Bonus: 15%
+Weight Capacity Bonus: 50
+
+
+Influence & Duration
+Increase reputation bonus by 8%.Increase power duration by 25%.
+
+Reputation Bonus: 20%
+Weapon Damage Bonus: 10%
+Weight Capacity Bonus: 50
+
+
+
+Rank 5: Squad Bonus/Headshots[]
+
+
+
+Squad Bonus
+Increase squadmate weapon damage by 20%.
+
+
+
+Headshots
+Increase headshot damage by 20%.
+
+
+
+
+Rank 6: Weight Capacity/Weapon Master[]
+
+
+
+Weight Capacity
+Increase weight capacity bonus by 50 points.
+
+Reputation Bonus: 12% (Damage), 20% (Influence & Duration)
+Weapon Damage Bonus: 15% (Damage), 10% (Influence & Duration)
+Weight Capacity Bonus: 100
+
+
+Weapon Master
+Increase weapon damage bonus by 10%.Increase damage of all ammo powers by 40%.
+
+Reputation Bonus: 12% (Damage), 20% (Influence & Duration)
+Weapon Damage Bonus: 25% (Damage), 20% (Influence & Duration)
+Weight Capacity Bonus: 50
+
+
+
+Player Notes[]
+The Rank 5 Squad Bonus evolution applies only to NPC squad members and not to Shepard. There is possibility for confusion, as the similarly named "Squad Bonus" evolutions of squadmates' class powers apply to the entire party including Shepard and also the owner of the power.
+Availability[]
+Single-player: Soldier
+Multiplayer: N/A
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

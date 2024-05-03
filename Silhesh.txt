@@ -1,0 +1,370 @@
+
+
+
+
+
+Silhesh
+
+
+
+
+
+							Default
+							
+						
+
+
+
+							Bulwark
+							
+						
+
+
+
+							Concussive
+							
+						
+
+
+
+							Siphon
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Category
+Pistols
+
+
+Rarity
+Ultra Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+91-105
+
+
+Rate of Fire
+800
+
+
+Max Clip Size
+50
+
+
+Max Ammo
+400-500
+
+
+Accuracy
+40-50
+
+
+Weight
+19-12
+
+
+
+Bulwark
+
+Damage Resistance (1 Ally): 15-25Damage Resistance (2 Allies): 22-37Damage Resistance (3 Allies): 30-50
+
+
+
+Concussive
+
+Area Damage: 800-1500Radius (m): 7.50
+
+
+
+Siphon
+
+% Damage Returned as Health: 3-3.75% Heal Bonus per kill: 4.5Kill Streak Duration (s): 7Max. Kill Bonus: 3
+
+
+
+
+
+The Silhesh is a pistol in Mass Effect: Andromeda Multiplayer.
+
+Contents
+
+1 Description
+2 Features
+3 Strategies
+4 Stats
+5 Development
+
+
+Description[]
+The Silhesh, translated to "disorder," is a smaller version of the Thokin assault rifle used by kett fighters in the field. Like the Thokin, the Silhesh SMG allows the kett to shoot tracking-enabled, plasma-surrounded rounds with a lightning-quick rate of fire.
+
+Features[]
+The pistol gained improvements to damage in its sole documented multiplayer update.
+
+Strategies[]
+
+Stats[]
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+91
+
+800
+
+50
+
+400
+
+40
+
+19
+
+
+II
+
+92
+
+800
+
+50
+
+411
+
+43
+
+18
+
+
+III
+
+93
+
+800
+
+50
+
+422
+
+45
+
+18
+
+
+IV
+
+96
+
+800
+
+50
+
+433
+
+46
+
+17
+
+
+V
+
+96
+
+800
+
+50
+
+444
+
+47
+
+16
+
+
+VI
+
+97
+
+800
+
+50
+
+456
+
+48
+
+15
+
+
+VII
+
+98
+
+800
+
+50
+
+467
+
+48
+
+14
+
+
+VIII
+
+99
+
+800
+
+50
+
+478
+
+49
+
+13
+
+
+IX
+
+100
+
+800
+
+50
+
+489
+
+50
+
+12
+
+
+X
+
+105
+
+800
+
+50
+
+500
+
+50
+
+12
+
+Development[]
+The Silhesh is a multiplayer weapon only and can't be developed.
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

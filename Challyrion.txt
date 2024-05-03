@@ -1,0 +1,94 @@
+
+
+
+
+
+Challyrion
+
+ 
+
+
+
+
+
+
+
+Faction
+Wildlife
+
+
+Weapons / Attacks
+Spit attackMelee
+
+
+Abilities
+Camouflage
+
+
+Health
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Challyrion is a wildlife unit. It has a natural ability to camouflage, similar in effect to technological Tactical Cloaking by sapient races.  It possesses six froglike eyes, yellowish scales, spikes on its back, a short snout, clawed feet, and a forked tail. When killed, Challyrions will sometimes drop Scale Fibers.
+The creature can be found on Eos, Havarl, and Voeld. 
+
+Scanner Information[]
+Challyrion
+
+
+DATA:
+Classification: Mammal
+Origin: Andromeda
+ANALYSIS:
+A savage quadruped predator that camouflages itself to sneak up to its prey.
+
+Capabilities[]
+Offensive
+The Challyrion has both a ranged spit attack, similar to a Shemrys, and a melee attack using its clawed front feet. It can also charge from behind where their prey least expects it. Like other flanking units, it is quite fast enough to cross great distances and strike in close range.
+
+Defensive
+It camouflages itself before pouncing on its target, or while its target is nearby but not in range so as to avoid being fired upon itself. Unlike Wraiths, which are genetically mutated from their species by the kett, they have no armor.
+
+Tactics[]
+The animal's spit attack has a limited range and can be sidestepped.
+When dealing with Challyrion swarms, a splash damage melee attack or two can take them out simultaneously.
+Cloaked Challyrions can still be detected by telltale ripples in the air, same with other stealth units.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

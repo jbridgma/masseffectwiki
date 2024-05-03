@@ -1,0 +1,136 @@
+
+
+
+For the turian class in Mass Effect 3's multiplayer mode, see Turian Saboteur Engineer.
+
+
+Saboteur
+
+ 
+
+
+
+
+
+
+							Outlaw
+							
+						
+
+
+
+							Roekaar
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faction
+OutlawsRoekaar
+
+
+Weapons / Attacks
+Ushior
+
+
+Abilities
+Energy Drain
+
+
+Armor
+High
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Saboteur is an Outlaw and Roekaar unit. These angara specialize in stripping kinetic barriers to add to their own. Along with other armored mid-tier enemies, Pathfinder Ryder can encounter them in places of medium to heavy resistance or among groups of lesser outlaws while APEX teams can face them on Firebases after defeating previous waves of enemies.
+Saboteurs can be from either gender.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Angaran Saboteur
+
+
+DATA:
+Classification: Enemy
+Origin: Andromeda
+ANALYSIS:
+A heavily armored close-range combatant who can siphon your shields.
+
+Description[]
+Most of the sighted outlaw forces are composed of forces from the Milky Way, but many angara have also joined them, either out of disillusionment with the Resistance or for their own personal glory. This has been heralded with fascination by Nexus social xenopsychologists—who claim it demonstrates universal values and goals between sentient life—and concern by APEX, who now have to contend with outlaws who have expert knowledge of the Heleus Cluster.
+The light armor and weapons of angaran outlaws have been fatally deceptive to many APEX squads. When necessary, the angara act as saboteurs, using their innate control over electromagnetism to drain enemy shield capacitors and boost their own equipment. With combatants suddenly vulnerable, they are easy prey for the saboteur or their allies.
+
+
+Capabilities[]
+Offensive
+Saboteurs are armed with the Ushior and can deal damage with Energy Drain.
+
+Defensive
+Initially they are only armored. Once they successfully use Energy Drain they also gain a layer of shields.
+
+Tactics[]
+Since they favor stealing shields upon taking to the battlefield, one tactic is to also use Energy Drain on them to steal it back.
+Their Energy Drain can stagger players out of cover. Try to interrupt the sequence by shooting at them back first.
+While their shield-stealing is a threat, they can be considered somewhat lower in priority in relation to other enemies present since they tend to hang back at a distance.
+It takes a few seconds for Saboteurs to charge up their Energy Drain, during which time they remain stationary and out of cover, an ideal opportunity for you to focus fire on them.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

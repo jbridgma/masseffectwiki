@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Weapon Training is a Combat skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+Balanced offensive training available to combat-oriented APEX classes.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Weapon Training
+
+
+
+-
+
++5 Weapon Damage
+
+
+2
+
+Power Augmentation
+
+
+
+-
+
++15% Power Damage
+
+
+3
+
+Weapons and Melee
+
+
+
+-
+
++5% Weapon Damage
++10% Weapon Weight Capacity
++20% Melee Damage
+
+
+
+4
+
+Weapon Training
+
+
+
+-
+
++8% Weapon Damage
+
+
+4
+
+Powers and Melee
+
+
+
+-
+
++20% Power Damage
++20% Melee Damage
+
+
+
+5
+
+Ammo and Targeting
+
+
+
+-
+
++20% Weapon Head Shot/Weak Point Bonus
++25% Weapon Spare Ammo
+
+
+
+5
+
+Special Combat Training
+
+
+
+-
+
++50% All Combo Damage
++50% Hover Duration
++100% Weapon Accuracy While Airborne
+
+
+
+6
+
+Weapon Specialist
+
+
+
+-
+
++10% Weapon Damage
++15% Weapon Accuracy
++15% Weapon Stability
+
+
+
+6
+
+Power Specialist
+
+
+
+-
+
++20% Power Damage
++20% All Power Recharge Speeds
++1 to all Power Cell Capacities
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Angara Avenger, Batarian Vanguard, Human Sentinel
+
+
+

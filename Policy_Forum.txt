@@ -1,0 +1,102 @@
+
+
+
+Forums: Index > Policy
+Welcome to the Policy Forum. Here is where various discussions about policy for the Mass Effect Wiki can be discussed and voted on. Here you bring up something that needs to be addressed and it needs to be made official, or suggest a change to a current policy. Note that this forum is a community forum about official policy for the Mass Effect Wiki, some topics will be passed, and others rejected.
+In order to create or vote on a policy proposal, you must have a valid account with Mass Effect Wiki that is at least 30 days old. This waiting period is to ensure that new users have enough time to understand existing wiki policies. Any proposals made by unregistered contributors or accounts that are less than 30 days old will be deleted, but may be re-proposed after the mandatory cooldown period (see below) if the proposer then meets the account requirement.
+Once a topic has begun, a vote will last for 7 days, ending at the time indicated on the template at the top of the page. At that time, any further votes cast after the close of the debate will not be counted in the final tally. To vote, leave a quick reason why and sign your post under the appropriate heading. If you wish to discuss, then do so under the discussion section, not in the voting section. When Voting, don't indent every new vote, just leave it on the next line. Once a topic has been passed or rejected the page is for archive purposes only, not to restart a debate.
+If a topic needs to be reopened, a mandatory 7 day waiting or cooldown period must be adhered to. This is to test out the new policy and see what its effects are. Once the 7-day period is up, start a new discussion, do not continue the old one as the old page is for archive purposes only.
+If any user is found to be fraudulent, or to have canvassed for votes on a policy, their vote and any votes gained through this will be invalidated. The user who committed the action will face a block, depending on how often this has been done in the past, and will not be allowed to vote in the next policy forum debate. By debate, that means one with an actual proposal is needed.
+If you need an example on how to vote or discuss, see Forum:Example.
+To add a new topic, please type the title in the box below then click "Add new topic".
+
+
+View recent changes for this forum | View alphabetic list of topics
+ 
+
+TopicLast EditLast Author
+Section banners AFTER section heading11:40, 31 January 2024ReverieCode
+Reliability of IMDb02:11, 30 October 2023Cattlesquat
+Add a 30 day valid account requirement for voting on policy proposals16:59, 23 July 2023Cattlesquat
+Sourcing policy on cut content18:05, 12 July 2023Loadingue
+Un-italicizing some templates15:14, 20 March 2023Cattlesquat
+Italicizing ship names19:19, 7 November 2022Cattlesquat
+Changing character article names to omit ranks and titles14:15, 24 October 2022Cattlesquat
+Unique dialogue / broker files / etc into own section05:37, 11 June 2022Temporaryeditor78
+Switching to Discord chat17:07, 18 April 2019Temporaryeditor78
+Demotion of Temporaryeditor78, Again09:11, 7 April 2017Elseweyr
+The Ryder naming "problem"13:01, 9 March 2017Temporaryeditor78
+Demotion of Temporaryeditor78 V205:11, 17 November 2016Temporaryeditor78
+Proposed amendment of MoS re Planets and their Properties21:43, 8 July 2015Temporaryeditor78
+Voice actor trivia to include Sci-fi roles.17:43, 28 July 2014Temporaryeditor78
+Demotion of Temporaryeditor7817:42, 28 July 2014Temporaryeditor78
+Official lore content from external sources02:09, 9 January 2014Elseweyr
+Separate walkthrough article for ME2 Final Battle04:10, 13 September 2013Temporaryeditor78
+Mass Effect 3 Datapad12:24, 26 August 2013Temporaryeditor78
+Loosen restrictions in the Chat11:08, 21 August 2013Temporaryeditor78
+Example18:43, 23 May 2013Commdor
+Relevance in ME3 Aftermath Sections01:28, 23 May 2013Lancer1289
+Relax manual of style verifiability requirements in limited circumstances00:14, 22 May 2013Commdor
+Keeping the Monaco Skin15:29, 21 May 2013Trandra
+Proposal Editing Protocol18:40, 26 April 2013Commdor
+New Language Policy18:38, 26 April 2013Commdor
+More interlanguage links03:21, 23 April 2013Trandra
+Voting Reform01:53, 13 April 2013Commdor
+End Policy01:52, 13 April 2013Commdor
+Consider the Events of Multiplayer As Canon19:06, 25 March 2013Trandra
+Speculation Policy Revision to better serve the spirit of the policy23:57, 19 March 2013Commdor
+Amended Language Policy17:14, 17 March 2013Trandra
+Proposed Language Policy Revision18:44, 15 March 2013Commdor
+Removal of Rarity from Weapon Articles23:58, 6 March 2013Trandra
+Chat Live! Policy Revote16:33, 1 March 2013Commdor
+Demotion of SpartHawg94800:25, 27 February 2013Commdor
+Chat Live! Policy Revision22:24, 20 February 2013Commdor
+Revote "Chat Live! Policy Expansion"21:07, 18 February 2013Commdor
+Gameplay notes sections22:51, 2 February 2013Lancer1289
+Chat Live! Policy Expansion09:02, 7 January 2013Lancer1289
+Additions to Chat Rules17:49, 27 November 2012Lancer1289
+Adding Live! Chat03:21, 26 September 2012Lancer1289
+3 Edit Confirmation01:56, 1 September 2012Lancer1289
+Language Policy Reform17:58, 27 August 2012Commdor
+Flamewar Bans Policy 2.001:23, 27 August 2012Lancer1289
+Flamewar Bans Policy Voting.01:58, 10 August 2012Commdor
+Affiliation with TOR Wiki00:00, 27 July 2012Commdor
+Metro 2033 Wikia Affiliation21:29, 3 July 2012Commdor
+Templates06:20, 11 May 2012Silverstrike
+Images Guideline: Discussions06:17, 11 May 2012Silverstrike
+Blog Moderation II18:51, 7 May 2012Lancer1289
+Blogs moderation07:18, 6 May 2012Silverstrike
+Transition to SVG17:27, 3 April 2012Lancer1289
+Wiki Lockdown19:03, 20 March 2012Lancer1289
+Heavy Pistol Category18:49, 20 March 2012Lancer1289
+Limit On Personal Images01:18, 5 March 2012Lancer1289
+Limit on Personal Images02:28, 27 February 2012Commdor
+Enable Use of Top Ten List15:18, 26 February 2012Lancer1289
+Wikipedia instead of IMDb15:14, 26 February 2012Lancer1289
+Reduced Wait Period for Deleting Files01:14, 13 February 2012Commdor
+Deception First Edition01:12, 13 February 2012Commdor
+Headquote Policy02:12, 11 February 2012Lancer1289
+Morality info and NPC descriptions09:40, 19 December 2011Commdor
+Consistently linking to missions/assignments09:39, 19 December 2011Commdor
+Dealing With Leaked Information07:00, 13 December 2011Commdor
+Ban Review Panel23:20, 14 October 2011Lancer1289
+File Name and Format Standards22:44, 10 October 2011Commdor
+A change to the Language Policy04:43, 15 August 2011SpartHawg948
+MoS policy reform02:45, 15 August 2011Commdor
+Revised Image Policy02:41, 15 August 2011Lancer1289
+Inactive User Category + Its insertion on user pages15:43, 12 July 2011Lancer1289
+Character Article Naming Conventions00:18, 8 June 2011SpartHawg948
+Notable vs. Known21:45, 24 May 2011Lancer1289
+Modification of Speculation Policy02:45, 12 May 2011Commdor
+Revised Language Enforcement00:08, 10 May 2011Commdor
+Changing the Language Policy01:22, 5 May 2011Commdor
+In-Depth Story Summary Locations03:41, 2 May 2011Commdor
+Alphabetizing "Notable" names21:24, 28 April 2011Commdor
+Sophisticated Manual of Style guide02:43, 30 January 2011Lancer1289
+Race Article Consistency17:42, 16 October 2010Lancer1289
+Trivia Section Guidlines16:34, 7 October 2010Lancer1289
+Disabling the Rich Text Editor17:21, 1 September 2010Lancer1289
+Removing Red Links00:46, 17 August 2010Lancer1289
+
+
+

@@ -1,0 +1,171 @@
+
+
+
+
+While on board the Shadow Broker Base, Shepard has the opportunity to invest in some events that are taking place around the Milky Way. Each investment costs a set number of credits, and once funded, the results can be obtained after 12 midnight system time or after completing a mission. Success yields double the invested credits and failure leads only to the loss of the same. Investment outcomes are fixed and not beholden to chance or any external factors.
+
+Contents
+
+1 Warning Signal
+2 Bureaucracy Inaction
+3 Smear Campaign
+4 Just Reward
+5 Embedded Correspondence
+6 Blue-Listed
+7 Mutually Assured Income
+8 Chemical Warfare
+9 Arbitrator
+10 False Profits
+11 Mission Unlock Order & Chains
+
+
+Warning Signal[]
+
+
+“A pirate fleet is massing on the fringes of the Terminus Systems in preparation for a raid on outlying Alliance colonies. Send a tip-off to Admiral Hackett about the upcoming invasion.”
+
+
+Credits required: 1000
+Outcome:
+
+
+“Success! Admiral Hackett and the Fifth Fleet have ambushed the colony-raiding pirates.”
+
+
+Reward: 2000 Credits
+
+Bureaucracy Inaction[]
+
+
+“The Sirta Foundation can't start tests on a promising new antibiotic because of accidentally misfiled paperwork. Use your contacts to help them cut through the red tape so they can begin clinical trials.”
+
+
+Credits required: 3000
+Outcome:
+
+
+“Failure. Sirta Foundation's antibiotic tests have been blocked by Citadel legislation.”
+
+
+Reward: Nothing
+
+Smear Campaign[]
+
+
+“A corrupt politician is trying to levy heavy taxes on all earth [sic]-manufactured goods coming into his system in exchange for kickbacks from local businesses. Ruin the politician's reputation with a smear campaign so that his proposal doesn't pass.”
+
+
+Credits required: 2500
+
+Outcome:
+“Success! The politician retires from public service after your smear campaign.”
+
+
+Reward: 5000 credits
+
+Just Reward[]
+
+
+“Eclipse mercenaries have secretly set up a red sand production facility on the planet Cuervo. Tip off the planetary authorities about the facility in exchange for half of the credits seized during their raid.”
+
+
+Credits required: 1500
+
+Outcome: 
+“Success! The police quietly slip you a cut from their raid on the Red Sand factory.”
+
+
+Reward: 3000 credits.
+
+Embedded Correspondence[]
+
+
+“Citadel news agencies are trying to place more reporters in the Terminus Systems. Use your resources to set up these journalists with safe houses and reliable contacts so they can bring back news from the galaxy's frontier.”
+
+
+Credits Required: 2000
+
+Outcome: 
+“Success! Citadel journalists are now reporting live from the Terminus Systems.”
+
+
+Reward: 4000 credits
+
+Blue-Listed[]
+
+
+“The Blue Suns are becoming dangerously powerful. Run a galaxy-wide expose on their corruption and tendency to turn on their employers. It will send business to their competitors.”
+
+
+Credits Required: 2500
+
+Outcome:
+“Failure. The Blue Suns whip up an advertising campaign to counter your bad press.”
+
+
+Mutually Assured Income[]
+
+
+“Clashes between countries on the batarian homeworld of Khar'shan are becoming frequent. Make sure no nation-state gains more control  than the others by regulating weapons sales to all sides.”
+
+
+Credits Required: 2000
+
+Outcome:
+“Failure. Several Khar-shan [sic] nations have acquired WMDs that tip the balance in their favor.”
+
+
+Chemical Warfare[]
+
+
+“Binary Helix is trying to develop hormone implants for Alliance soldiers that fall outside the Citadel's generic treaty laws. The company is prepared to be very generous if you let them know when the Citadel inspectors are coming.”
+
+
+Credits Required: 1000
+
+Outcome:
+“Success! Your agent warns Binary Helix about a Citadel inspection, a week before it happens.”
+
+
+Reward: 2000 credits
+
+Arbitrator[]
+
+
+“The garden world of Anhur went through a bloody political rebellion a few years ago, and a depressed economic climate has rekindled old grudges. Set up neutral ground for peace talks to prevent the colony from slipping back into a civil war.”
+
+
+Credits required: 1500
+
+Outcome:
+“Success! Anhur has been steered away from civil war.”
+
+
+Reward: 3000 credits
+
+False Profits[]
+
+
+“A rapidly-growing cult called the Followers of the Exalted Light of the Word is gaining a foothold in Omega. Send agents to infiltrate the controversial religion, and siphon off donation money for yourself.”
+
+
+Credits required: 3000
+
+Outcome:
+“Success! You pocket a slice of the credits raised at this week's Extranet Fundraising Telethon.”
+
+
+Reward: 6000 credits
+
+Mission Unlock Order & Chains[]
+The ten missions are divided into four independent chains of missions, as follows:
+
+Chain 1 = Warning Signal (+1000) → Blue-Listed (-1500) → Arbitrator (+0)
+Chain 2 = Bureaucracy Inaction (-3000) → Embedded Correspondence (-1000)
+Chain 3 = Smear Campaign (+2500) → Mutually Assured Income (+500)
+Chain 4 = Just Reward (+1500) → Chemical Warfare (+2500) → False Profits (+5500)
+The plus/minus values in parentheses indicate the cumulative net profit at each step within the chain. (e.g. Warning Signal has an investment cost of 1000 credits, and a payoff of 2000 credits; hence, "+1000". Blue-Listed has a cost of 2500 credits, and fails, so the net profit is 1000 - 2500 = -1500.). For maximizing profit, only those highlighted in bold above should be bought. Total expenditures will amount to 9000 credits while total net profits will also amount to 9000 credits.
+
+
+
+

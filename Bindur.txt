@@ -1,0 +1,100 @@
+
+
+
+
+
+Bindur
+
+Region
+Milky Way / Omega Nebula / Sahrabarik
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+6.12 AU
+
+
+Orbital Period
+27.7 Earth Years
+
+
+Keplerian Ratio
+0.299
+
+
+Radius
+4,907 km
+
+
+Day Length
+53.3 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+−224 °C 
+
+
+Surface Gravity
+0.55 g
+
+
+Mass
+0.323 Earth Masses
+
+
+Location: Milky Way / Omega Nebula / Sahrabarik System /  Third planet
+
+Description[]
+If it were closer to Sahrabarik, Bindur would have an atmosphere of carbon dioxide and ethane. In the deep cold of the outer solar system, however, both elements have long since frozen to the ground.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+5,500
+
+
+Platinum
+
+High
+
+15,000
+
+
+Iridium
+
+Medium
+
+5,800
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

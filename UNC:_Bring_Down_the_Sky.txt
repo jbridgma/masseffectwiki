@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+This article is about the cut assignment in Mass Effect. For the DLC assignment which it inspired, see X57: Bring Down the Sky.
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+UNC: Bring Down the Sky is an assignment which was cut from Mass Effect. Originally planned as a relatively regular assignment which Admiral Hackett would give to Commander Shepard at some point in the game, it involved landing on an asteroid to stop the terrorists who hijacked it with the intent to destroy a colony world.
+After this assignment was cut from the game, it was reworked to be released as Mass Effect's first downloadable content. X57: Bring Down the Sky retains the same general premise, but it was entirely rewritten, and introduces the batarians for the first time in the games, which were not present in the original assignment.
+
+Plotline[]
+At some point when Shepard is on board the SSV Normandy in the CIC, Joker would relay a transmission from Admiral Hackett from the Fifth Fleet HQ. The admiral informs Shepard that terrorists have seized an asteroid in the Artemis Tau cluster, in Artemis 13093's orbit, which would crash onto the planet in an hour. However, their information suggests the asteroid's engineers are being held as hostages, and that's why he requests Shepard's help instead of having the asteroid destroyed remotely. In addition to rescuing the engineers, Shepard would also need to gain control of the three fusion torches propelling the asteroid in order to change its course. Shepard may accept the mission, or refuse it, which causes Hackett to angrily hang up.
+The actual mission on the asteroid itself would have been timed, though it is unclear if the 60-minute timer would have started at the end of Hackett's briefing, or from the moment Shepard lands on the asteroid. While on its surface, Shepard's squadmates would have regularly remarked how much they have left (at 45 minutes left, 30, 15, 10, 5, 2 and 1), increasingly urging to hurry or to evacuate come the redline. If all fusion torches had not been reprogrammed by then, the mission would fail as Joker picks up the squad. The three fusion torches are labeled thruster alpha, beta and gamma.
+Besides the torches, Shepard would also need to free the hostages. At some point inside a building, the squad would hear noise coming from a closed door. Interacting with it reveals a single engineer has locked himself behind it, in a closet. He says the other engineers were locked inside a storage space nearby, and hopes Shepard can get them out somehow. However, since the door to the storage space were welded shut, Shepard's squadmates discretely remark that it would be impossible to get them out in time without hacking the thrusters. The group then leaves the engineer, telling him to stay put.
+Eventually, Shepard would come across the leader of the terrorists, a human who wants to eradicate organics for their physical imperfection and their tendency towards destruction, believing instead in uploading "intellect" into "data." Whichever way Shepard interacts with him, combat ensues.
+If the terrorists and the torches are all dealt with in time, then the assignment is completed successfully.
+
+Trivia[]
+An unused galaxy description points to the asteroid being called Asteroid 718 Hasebe, and the targeted planet being Proteus, which is indeed located in the Artemis Tau cluster as Hackett mentions.[1]
+References[]
+Mass Effect Cut Content/Normandy and UNC Voicelines: see all sections starting with "sp113".
+Plot Database: "LE1.Light_Content_Subplots.DELETED_SP113_BringDownTheSky"
+
+↑ Mass Effect Cut Content/Miscellaneous Texts#Galaxy Map Descriptions
+
+
+
+
+

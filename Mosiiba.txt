@@ -1,0 +1,58 @@
+
+
+
+
+
+Mosiiba
+
+Region
+Andromeda / Heleus Cluster / Tecunis
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+11.1 AU
+
+
+Orbital Period
+21.0 Earth Years
+
+
+Keplerian Ratio
+3.101
+
+
+Radius
+3,324 km
+
+
+Atm. Pressure
+0.77 atm
+
+
+Surface Temp
+139 °C 
+
+
+Location: Andromeda / Heleus Cluster / Tecunis System /  Second planet
+
+
+Description[]
+One of three rocky planets named for the "stones of life" of an ancient salarian religion, Mosiiba is the smallest and hottest of the triad.
+
+Anomaly[]
+Beryllium[]
+DATA:
+Beryllium
+ANALYSIS:
+A metal ideal for lightweight construction in a variety of applications. This deposit is readily accessible.
+Awards a random small amount of Beryllium when scanned.
+
+
+
+

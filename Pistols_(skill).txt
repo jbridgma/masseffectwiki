@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For pistol weapons in Mass Effect, see Pistols.
+
+Pistols is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Improves sidearm training for pistols (including submachine guns). Pistols are designed largely for short to mid-range combat and shooting on the move.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Pistols
+
+
+
+Increases pistol damage with each skill point invested in the Combat Skill Group.
+
++2% Pistol Damage
+
+
+2
+
+Accuracy
+
+
+
+Increases pistol accuracy with each skill point invested in the Combat Skill Group.
+
++2% Pistol Accuracy
+
+
+3
+
+Mobility
+
+
+
+Reduces the accuracy penalty when firing pistol while moving with each skill point invested in the Combat Skill Group.
+
++2% Movement Pistol Accuracy
+
+
+4
+
+Weight
+
+
+
+-
+
+-30% Pistol Weight
+
+
+4
+
+Spare Ammo
+
+
+
+-
+
++20% Pistol Spare Ammo
+
+
+5
+
+Reload
+
+
+
+-
+
++15% Pistol Reload Speed
+
+
+5
+
+Clip Size
+
+
+
+-
+
++20% Pistol Clip Size
+
+
+6
+
+Unassisted Targeting
+
+
+
+Increases pistol damage, and also increases accuracy and stability by 20% when firing without using the aim function.
+
++20% Pistol Damage
+
+
+6
+
+Augmented Targeting Assistance
+
+
+
+Increases pistol damage, and also increases accuracy and weak point bonus damage by 20% when using the aim function to shoot.
+
++20% Pistol Damage
+
+Player Notes[]
+Mechanics
+Pistols is a passive skill that is always active.
+Strategies
+The Rank 5 Reload upgrade does not affect the cooldown period of a weapon that uses the Vintage Heat Sink.
+Availability[]
+Single-player: Pathfinder Ryder - Starting Combat Skill
+Multiplayer: N/A
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

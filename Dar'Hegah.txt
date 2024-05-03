@@ -1,0 +1,91 @@
+
+
+
+
+
+Dar'hegah
+
+Andromeda / Heleus Cluster
+
+
+
+
+
+
+
+System View
+
+
+Stellar Mass
+N/A
+
+
+Stellar Class
+N/A
+
+
+Luminosity
+N/A
+
+
+Planets
+4
+
+
+Moons
+0
+
+
+Asteroid Belts
+1
+
+
+Asteroids
+0
+
+
+Objects
+1
+
+
+
+The system is named after the first batarian astronaut.
+
+Contents
+
+1 Denesh
+2 H-505
+3 Jegraph
+4 Ne'grale
+5 Vessel
+
+
+Denesh[]
+Denesh is the fourth planet orbiting the star Dar'hegah.
+
+Main article: Denesh
+H-505[]
+H-505 is the second planet orbiting the star Dar'hegah.
+
+Main article: H-505
+Jegraph[]
+Jegraph is the first planet orbiting the star Dar'hegah.
+
+Main article: Jegraph
+Ne'grale[]
+Ne'grale is the third planet orbiting the star Dar'hegah.
+
+Main article: Ne'grale
+Vessel[]
+DATA:
+
+Classification: Kett scout
+Structural integrity: 68%
+Life signs: None
+ANALYSIS:
+This kett scout vessel appears to have been abandoned in the asteroid belt after an engine failure. Its aimless drifting among the asteroids has resulted in significant damage, but some materials may be salvageable.
+Awards random Salvage when scanned.
+
+
+
+

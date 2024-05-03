@@ -1,0 +1,54 @@
+
+
+
+An angaran saboteur was trapped in rubble after destroying a kett weapons depot.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate the ruins
+2.2 Scan the area
+2.3 Enter the destroyed ammo depot
+2.4 Search for survivors
+2.5 Restore power
+2.6 Free survivors
+2.7 Return to Haana with updates
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Stage a Rescue
+
+The mission is available after earning the trust of the angara on Voeld. After overhearing a conversation, Pathfinder Ryder may speak with Haana and Raabar (marked with a) in the Angaran Resistance Base. 
+Haana is convinced that her friend Mashal is alive, despite having destroyed a kett depot by setting off an explosion while still inside the depot. Indeed, Mashal is seen as the best saboteur with a strong expertise in demolition. Ryder offers to check out the area.
+
+Walkthrough[]
+Investigate the ruins[]
+The navpoint  is located southwest of Hjara Station. When arriving at the marked location, SAM informs you that the kett weapons depot destroyed by the Resistance is approaching. Look for signs of the missing scout.
+
+Scan the area[]
+Scanning the kett drill doesn't reveal anything special except a faint energy signature that could be from a backup generator.
+Note: Be aware that the fire in the area is a Hazard that can damage Ryder.
+
+Enter the destroyed ammo depot[]
+The entrance to the depot is in the higher layers of the rubble. Head up and into the depot.
+
+Search for survivors[]
+You hear a voice on the other side of a door speaking to someone. The door can't be opened because it lacks power.
+
+Restore power[]
+The scanner reveals where the power cable is coming from. A console is behind some destroyable rubble (a semi-connected translucent wall section). Use either gunfire or a melee attack to clear the way and then hack the console to restore power. Note that beam weaponry has no effect on the barrier and the Explorer profile's biotic blink ability will not bypass it.
+
+Free survivors[]
+With power restored, the door can now be opened. Head back to the door and go inside. Inside is Mashal and a gravely wounded kett. Mashal has been torturing the kett to make it tell where her family is. All the kett says is that it wants to be killed. You have to choose whether Mashal should be left with the kett (as she wishes) or kill the kett and make her return to the base.
+
+Return to Haana with updates[]
+If you killed the kett, Mashal has sent up a signal for the Resistance to retrieve her. If you left Mashal there, later you tell Haana she's alive, and the Resistance will organize a pickup. Either way, Haana thanks you.
+Rewards[]
++270 XP
+
+
+

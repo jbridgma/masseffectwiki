@@ -1,0 +1,62 @@
+
+
+
+If Ryder finds Nora Tallis first:
+Nora Tallis is stranded on Elaaden until her shuttle is repaired. Retrieve her shuttle's thruster from the scavengers she sold it to.
+If Ryder finds Axius first:
+You have recovered a shuttle part from an exile named Axius. It appears to belong to a Nexus shuttle.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Nora Tallis encountered first
+
+2.1.1 Find Nora's shuttle thruster
+2.1.2 Retrieve the thruster from Axius
+2.1.3 Return the thrust catalyzer to Nora
+
+
+2.2 Axius encountered first
+
+2.2.1 Find a Nexus shuttle that is missing a thrust catalyzer
+
+
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Elaaden: A New World
+
+This mission can be acquired in two ways. You can follow the mission arc of finding Nora first or you can just go to the final location with Axius and then return to Nora. The objectives change based upon which path is taken.
+
+Walkthrough[]
+Nora Tallis encountered first[]
+On approaching the sinkholes northwest of The Paradise in the Paradise Sands, the Nexus researcher Nora Tallis calls over the comm asking for help. Nora is in one of the sinkholes with a  next to a shuttle. Talk to her to learn that she traded the shuttle's thruster for water when she was in a delirium because of thirst.
+
+Find Nora's shuttle thruster[]
+Nora gives Ryder the navpointto the scavenger camp to the southwest in the Paradise Sands region. The camp is inside of a small cave. The camp seems to be empty. Ryder finds two dead scavengers. They have been beaten to death.
+On the upper level is a lootable container.
+On the upper level inside the building is McCrone, who is hiding from an Outlaws gang led by Axius. Axius' gang raids other scavengers camps, killing everyone and then looting the camps. McCrone says Axius took the thruster. McCrone gives a navpoint to the east of the cave in the Paradise Sands region.
+
+Retrieve the thruster from Axius[]
+Head to the navpoint and a building with hostile outlaws led by Axius. Defeat the enemies. On the lower level is a lootable container. The thruster is on the upper level and there is also a large lootable container.
+
+Return the thrust catalyzer to Nora[]
+Head back to Nora and the shuttle in the sinkhole. Nora thanks Ryder for the catalyzer and says she has to get back to work.
+After the conversation is over, the mission ends.
+
+Axius encountered first[]
+If Axius' camp is discovered first, the hostiles are cleared, and, the thruster is taken before finding Nora, the following objective is added instead. This bypasses finding Nora first and visiting the first outlaw camp.
+
+Find a Nexus shuttle that is missing a thrust catalyzer[]
+Head to the navpoint with Nora, speak with Nora, and the mission will end normally.
+
+Rewards[]
++270 XP
+
+
+

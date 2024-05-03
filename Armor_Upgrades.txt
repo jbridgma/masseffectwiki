@@ -1,0 +1,962 @@
+
+
+
+
+
+
+
+This article is about armor upgrades in the first game. For armor upgrades in Mass Effect 2, see Armor Customization. For armor upgrades in Mass Effect 2, see Armor Customization (Mass Effect 3). For armor generally, see Armor. For upgrades generally, see Upgrades.
+
+ Armor Upgrades are a type of equipment specifically designed to enhance the effectiveness of armor worn by the player and squadmates in Mass Effect.
+Contents
+
+1 Cooldown Reduction
+
+1.1 Stimulant Pack
+
+
+2 Damage Protection
+
+2.1 Armor Plating
+2.2 Ablative Coating
+2.3 Energized Plating
+
+
+3 Hardening
+
+3.1 Hardened Weave
+
+
+4 Health Regeneration
+
+4.1 First Aid Interface
+4.2 Medical Interface
+4.3 Medical Exoskeleton
+
+
+5 Kinetic
+
+5.1 Kinetic Buffer
+5.2 Kinetic Exoskeleton
+
+
+6 Mechanical Augmentations
+
+6.1 Motorized Joints
+6.2 Exoskeleton
+
+
+7 Mechanical Augmentations (Advanced)
+
+7.1 Combat Exoskeleton
+
+
+8 Physics Threshold
+
+8.1 Shock Absorbers
+
+
+9 Shield
+
+9.1 Shield Battery
+9.2 Shield Modulator
+9.3 Shield Interface
+
+
+10 Shield Recovery
+
+10.1 Shield Regenerator
+10.2 Energized Weave
+
+
+11 Toxin Resistance
+
+11.1 Toxic Seals
+
+
+12 Cut Armor
+
+12.1 Hazard Seals
+12.2 Pressurized Seals
+
+
+
+
+Cooldown Reduction[]
+     
+Stimulant Pack[]
+Armor equipped with stim packs releases targeted shots of adrenaline to speed up recovery and recharge times.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Cooldown Reduction:
+5%
+7%
+9%
+-
+-
+-
+-
+-
+-
+-
+
+Damage Protection[]
+      
+Armor Plating[]
+Hardened ceramic plates can be applied to body armor suits, increasing their effectiveness.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Damage Protection:
++5%
++7%
++9%
+-
+-
+-
+-
+-
+-
+-
+
+Ablative Coating[]
+Ablative coating is designed to chip away when impacted, redirecting the energy of incoming projectiles away from the body.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Damage Protection:
+-
+-
+-
++10%
++12%
++14%
++16%
+-
+-
+-
+
+Energized Plating[]
+A prototype upgrade designed specifically for heavy combat use, it provides maximum protection for the user
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Damage Protection:
+-
+-
+-
+-
+-
+-
+-
++15%
++19%
++23%
+
+Hardening[]
+      
+Hardened Weave[]
+A complex filament network of element zero microcores combined with advanced firewall technology provides protection against both biotic and tech attacks.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Hardening:
++10%
++11%
++12%
+-
+-
+-
+-
+-
+-
+-
+
+Health Regeneration[]
+      
+First Aid Interface[]
+Microprocessors wired into a combat suit can monitor vital functions and release small, localized doses of medi-gel to accelerate the healing process.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Health Regeneration/Second:
++1
++1.5
++2
+-
+-
+-
+-
+-
+-
+-
+
+Medical Interface[]
+Specialized microprocessors wired into a combat suit monitor vital functions and release small, localized doses of medi-gel to accelerate the healing process. This interface also provides resistance to toxic attacks.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Health Regeneration/Second:
+-
+-
+-
++2.3
++2.7
++3
++3.3
+-
+-
+-
+
+
+Toxin Resistance:
+-
+-
+-
++30%
++40%
++50%
++60%
+-
+-
+-
+
+Medical Exoskeleton[]
+A prototype upgrade combining numerous advanced medical technologies to monitor and regulate all vital systems, maximizing healing and minimizing recovery times for the user.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Health Regeneration/Second:
+-
+-
+-
+-
+-
+-
+-
++3.5
++4
++4.5
+
+
+Toxin Resistance:
+-
+-
+-
+-
+-
+-
+-
++50%
++65%
++80%
+
+
+Cooldown Reduction:
+-
+-
+-
+-
+-
+-
+-
++15%
++19%
++23%
+
+Kinetic[]
+      
+Kinetic Buffer[]
+Metabolic Enhancers monitor the wearer's vital systems and release genetically engineered stimulants to maximize combat prowess and athletic ability.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Shields:
+-
+-
+-
++10
++12
++14
++16
+-
+-
+-
+
+
+Mobile Accuracy:
+-
+-
+-
++10%
++12%
++14%
++16%
+-
+-
+-
+
+
+Cooldown Reduction:
+-
+-
+-
++10%
++12%
++14%
++16%
+-
+-
+-
+
+Kinetic Exoskeleton[]
+This prototype armor upgrade combines multiple technologies to improve shield regeneration and maximize the wearer's physical abilities and athletic prowess.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Shield Recovery:
+-
+-
+-
+-
+-
+-
+-
++25%
++30%
++35%
+
+
+Shields:
+-
+-
+-
+-
+-
+-
+-
++40
++45
++50
+
+
+Mobile Accuracy:
+-
+-
+-
+-
+-
+-
+-
++20%
++23%
++26%
+
+Mechanical Augmentations[]
+      
+Motorized Joints[]
+Mechanical augmentation increases the brute strength of the wearer, allowing them to deliver powerful blows when rifle butting or pistol whipping opponents.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Smash Damage:
++10%
++15%
++20%
+-
+-
+-
+-
+-
+-
+-
+
+Exoskeleton[]
+Mechanical augmentation increases the force of rifle butts and other melee attacks. The increased mass of the mechanized suit also provides protection against high physics weapons and biotic attacks such as Lift or Throw.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Smash Damage:
+-
+-
+-
++25%
++30%
++35%
++40%
+-
+-
+-
+
+
+Physics Threshold:
+-
+-
+-
++30%
++40%
++50%
++60%
+-
+-
+-
+
+Mechanical Augmentations (Advanced)[]
+      
+Combat Exoskeleton[]
+This prototype armor upgrade combines mechanical augmentation, element zero microcores and firewall technology to give the wearer brute strength, resistance to weapons force and resistance to biotic and tech attacks.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Smash Damage:
+-
+-
+-
+-
+-
+-
+-
++25%
++30%
++35%
+
+
+Hardening:
+-
+-
+-
+-
+-
+-
+-
++25%
++30%
++35%
+
+
+Physics Threshold:
+-
+-
+-
+-
+-
+-
+-
++50%
++70%
++90%
+
+Physics Threshold[]
+      
+Shock Absorbers[]
+Installing micro-gravimetric emitters into a combat suit artificially increases mass, providing protection against concussive force delivered by explosives, high impact ammo and biotic attacks such as Lift or Throw.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Physics Threshold:
++10%
++15%
++20%
+-
+-
+-
+-
+-
+-
+-
+
+Shield[]
+      
+Shield Battery[]
+To generate kinetic barriers, combat suits rely on capacitors to store energy from a generator. The greater the capacitor storage, the more potent the barrier.
+
+
+
+Upgrade Level:
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+
+Shields:
+
++40
+
++45
+
++50
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Shield Modulator[]
+To generate kinetic barriers, combat suits rely on capacitors to store energy from a generator. The greater the capacitor storage, the more potent the barrier.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Shields:
+-
+-
+-
++90
++100
++110
++120
+-
+-
+-
+
+Shield Interface[]
+Advanced VI systems monitor incoming enemy fire to redirect energy to vulnerable points, maximizing the effectiveness of a suit's kinetic barrier shields.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Shields:
+-
+-
+-
+-
+-
+-
+-
++120
++140
++160
+
+Shield Recovery[]
+      
+Shield Regenerator[]
+A secondary power source increases the rate at which a combat suit's kinetic barrier capacitors can be replenished.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Shield Recovery:
++15%
++18%
++21%
+-
+-
+-
+-
+-
+-
+-
+
+Energized Weave[]
+A complex filament network of element zero microcores combined with advanced firewall technology provides protection against both biotic and tech attacks. Advanced models also optimize recharge times on kinetic barriers.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Shield Recovery:
+-
+-
+-
++20%
++24%
++28%
++32%
+-
+-
+-
+
+
+Hardening:
+-
+-
+-
++15%
++20%
++25%
++30%
+-
+-
+-
+
+Toxin Resistance[]
+      
+Toxic Seals[]
+Specially-sealed body armor provides increased protection against radiation, gases, and a host of other toxins.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Toxin Resistance:
++30%
++40%
++50%
+-
+-
+-
+-
+-
+-
+-
+
+Cut Armor[]
+The following armor upgrades were cut before release and can only be acquired through PC Cheats.
+
+      
+Hazard Seals[]
+Installation of Hazard Seals provides a hardsuit with additional protection against general environmental hazards.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Hazard Level Rating:
++1
++1
++1
++1
++1
++1
++1
++1
++1
++1
+
+
+Shields:
++20
++20
++20
++20
++25
++30
++35
++40
++45
++50
+
+Pressurized Seals[]
+Installation of pressure seals provides a hardsuit with additional level protection against Nuclear, Chemical and Biological (NCB) hazards.
+
+
+
+Upgrade Level:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+
+
+Hazard Level Rating:
++1
++1
++1
++1
++1
++1
++1
++1
++1
++1
+
+
+Toxin Resistance:
++20%
++20%
++20%
++20%
++28%
++36%
++44%
++52%
++60%
++68%
+
+
+
+

@@ -1,0 +1,118 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - Shotgun Smart Choke: Adjustable servo motors tighten or loosen pellet spread for maximum accuracy.
+Enhanced - Shotgun Heavy Choke: Substantially increases accuracy, but at the cost of fire rate.
+Enhanced - Shotgun Light Choke: Substantially increases accuracy, but at the cost of reload speed.
+Note:  Shotgun reload speed is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Shotgun Smart Choke
+
++29%
+
++31%
+
++32%
+
++33%
+
++34%
+
++36%
+
++37%
+
++38%
+
++39%
+
++40%
+
+% Shotgun Pellet Spread Reduction
+
+
+Shotgun Heavy Choke
+
++30%-3%
+
++32%-3%
+
++34%-4%
+
++37%-5%
+
++39%-6%
+
++41%-7%
+
++43%-8%
+
++46%-8%
+
++48%-9%
+
++50%-10%
+
+% Shotgun Pellet Spread ReductionShotgun Rate Of Fire
+
+
+Shotgun Light Choke
+
++30%-3%
+
++32%-3%
+
++34%-4%
+
++37%-5%
+
++39%-6%
+
++41%-7%
+
++43%-8%
+
++46%-8%
+
++48%-9%
+
++50%-10%
+
+% Shotgun Pellet Spread ReductionShotgun Reload Speed
+
+
+
+
+

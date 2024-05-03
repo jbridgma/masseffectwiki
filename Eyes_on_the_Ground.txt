@@ -1,0 +1,65 @@
+
+
+
+
+Priority Op Heleus Assignment   
+The Resistance lookouts mentioned angara who were captured by the kett. Someone at Hjara might know more about this.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Go to Hjara
+2.2 Speak to Skeot
+
+
+
+
+Acquisition[]
+Prerequisite: Meet the Resistance
+
+This mission is acquired automatically after speaking with the lookouts Beniska and Tseek as part of the mission chain about angaran trust-building on Voeld.
+Note: The name of this mission depends on its type. If it's a Priority Op, this mission is called On the Frontlines. If it's a Heleus Assignment, this mission is called Eyes on the Ground.
+Note: It's possible to entirely bypass this mission by immediately exploring Voeld and accomplishing Stage a Rescue directly. In this case, this mission still shows up under the Completed Missions folder in the journal and with both its objectives marked complete. If you haven't talked to the lookouts, the mission text is absent and only the objectives are shown.
+Note: In another outlier case, not talking to the lookouts, going to Hjara, then talking to the relevant person there also completes this mission, although with one less objective.
+
+Walkthrough[]
+At its core, this is a simple "go to point B and talk to people" mission. But because the majority of the Voeld map is already open for exploration, you can do this in two distinct ways: strict adherence to navpoints, or going off-script, at which point you can do anything on the world map (or even go offworld for whatever purpose) as long as you later fulfill the primary objectives below.
+Note: You're continuously taking steady cold hazard damage while away from heaters or Forward Stations, whether you're in the Nomad or on foot, so be mindful of looking for those heat sources to avoid freezing to death. It's actually possible to traverse the objective on foot from the Angaran Resistance Base and still have some life support to spare, though it's far more convenient (and quicker) to just drive the vehicle provided for you.
+
+Go to Hjara[]
+If this is your first time on Voeld, you can follow the tiny yellow ground lights and navpoints through the mountain pass connecting the Angaran Resistance Base to the valley below. You'll pass the Tempest landing zone on the left, your squadmates will comment on the treacherous descent, and soon you'll encounter a squad of dropshipped kett harassing the Resistance border patrol. 
+
+The enemy composition is always at least one Chosen and one Anointed, plus optional Wraiths or Destined and possibly more Chosen and Anointed. You're in the Nomad; you can simply ram them if you're in a hurry, or you can go down to personally finish them off for some loot and XP. 
+After the fight you can talk to one of the angara before driving off again in the Nomad. She's a scout who messed up leading the kett patrol away. She's injured, though she can dispose of the corpses and return to base on her own, and she reckons the kett higher-ups would just assume their patrol got lost in the blizzard.
+If you followed the navpoints down the pass, you're likely to run into a scannable mineral for Task: Hitting Rocks for Science, and farther east, a kett camp with numerous soldiers and a dropship that spawns one squad before flying off. Enemy composition always has Chosen, although Destined and/or Anointed may be thrown into the mix.
+
+This camp has numerous explosive materials and dischargeable supercapacitors to play with, so you can leverage shooting them when large clumps of the enemy are nearby. It also has an ammo supply cache and a lootable container near the only available heater in the vicinity. On the large smoking ice column nearby, there's also a lithium mineral node. After this camp, it's smooth sailing towards the objective.
+If you wish to go the straight-line route, from the Forward Station near Beniska and Tseek you can actually aim for the next nearest Forward Station on the map and drive the Nomad down the cliff to its general direction. This is within walking distance of Hjara Station, up north. Alternatively, aim for the prominent red blinking lights in the distance. The navpoint adjusts accordingly: instead of directing you down the winding mountain pass it locks on to the station directly. This is also a route relatively free of enemy encounters, and thus a much faster way of reaching Hjara at the expense of any XP or item gains (unless you go out of your way to pick fights).
++270 XP is received when arriving at Hjara Station. Life support replenishes within its boundaries, and your squadmates will comment on the prominent block of ice studied by Hjara's scientists.
+There's an Angaran Integrated Tech Node (+100) in the small room behind Janleth, one of the scientists studying the ice, as well as a small container. In the ice alcove due northwest from the room, there's another container near an angara fixing a solar heater. Due northeast from the room next to two large crates is another container. East from the two large crates is another Angaran Integrated Tech Node (+100) and an iridium node. South of this Tech Node and next to two angara and a crate is another container. 
+Further south past Knoeth, the thin big hunk of metal next to another angara and near an ammo cache is an Infrared Surveillance Device (+10). Down the stairs is an iridium node. Inside the only other enclosed building in Hjara is another Angaran Integrated Tech Node (+100), Communications Equipment (+10), an ammo cache, and an Irritated Researcher who gives the mission Frequency.
+
+Speak to Skeot[]
+You find an angara named Skeot arguing with another, cautious angara. He tells Ryder that his uncle Niilj is being held in a kett labor camp, but if he is moved away he may be lost forever. Skeot will give you the navpoint to the camp, setting the next leg of the mission chain Stage a Rescue.
+
+
+Voeld Trust-Building Missions Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Meet the Resistance
+
+Missions (Mass Effect: Andromeda)
+
+Stage a Rescue
+
+
+
+

@@ -1,0 +1,102 @@
+
+
+
+
+
+Imaen
+
+Region
+Milky Way / Ismar Frontier / Faia
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.6 AU
+
+
+Orbital Period
+0.8 Earth Years
+
+
+Keplerian Ratio
+0.338
+
+
+Radius
+2,370 km
+
+
+Day Length
+62.1 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+108 °C 
+
+
+Surface Gravity
+0.24 g
+
+
+Mass
+0.033 Earth Masses
+
+
+Location: Milky Way / Ismar Frontier / Faia System /  First planet
+
+Prerequisite: Dossier: The Veteran (Mass Effect 2)
+
+Description[]
+Imaen is a small, cratered rock. Its crust contains various light metals, though none in any concentration worth the trouble of mining. While the rest of the Faia system has seen extensive industrialization, Imaen lies fallow.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+8,900
+
+
+Platinum
+
+Medium
+
+7,000
+
+
+Iridium
+
+High
+
+14,500
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

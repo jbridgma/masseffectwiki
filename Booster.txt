@@ -1,0 +1,825 @@
+
+
+
+Boosters are consumable items used by APEX Teams during multiplayer gameplay in Mass Effect: Andromeda. 
+
+Mechanics[]
+Boosters are equipped in the Loadout screen and up to two can be equipped per mission. Boosters are consumed when the mission ends but last for the entire duration of the mission.
+
+Booster Classes[]
+There are 6 Booster Classes that can be used in multiplayer. 
+
+Ammo - These boosters add powerful effects to fired rounds, including Incendiary Ammo which sets foes on fire, and Cryo Ammo, which can freeze enemies solid.
+Weapon - These boosters alter weapons directly. Some increase damage dealt, while others increase ammo capacity.
+Offensive - These boosters improve offensive capabilities, such as a higher ammo capacity or increased melee damage.
+Defensive - These boosters improve defenses such as shield strength and shield regeneration rate.
+Power - These boosters improve power usage, from greater power cell capacity to damage boosts.
+Progression - These boosters increase resources - such as experience - gained during missions.
+
+
+Image
+
+Name
+
+BoosterClass
+
+Rarity
+
+Description
+
+
+
+
+Ammo Capacity Mod I
+
+Offensive
+
+Common
+
+Increases Maximum Ammo Capacity by 50%
+
+
+
+
+Ammo Capacity Mod II
+
+Offensive
+
+Uncommon
+
+Increases Maximum Ammo Capacity by 100%
+
+
+
+
+Ammo Capacity Mod III
+
+Offensive
+
+Rare
+
+Increases Maximum Ammo Capacity by 150%
+
+
+
+
+Ammo Capacity Mod IV
+
+Offensive
+
+Ultra Rare
+
+Increases Maximum Ammo Capacity by 200%
+
+
+
+
+Assault Rifle Rail Amp I
+
+Weapon
+
+Common
+
+Increases Damage Dealt by Assault Rifles by 10%
+
+
+
+
+Assault Rifle Rail Amp II
+
+Weapon
+
+Uncommon
+
+Increases Damage Dealt by Assault Rifles by 20%
+
+
+
+
+Assault Rifle Rail Amp III
+
+Weapon
+
+Rare
+
+Increases Damage Dealt by Assault Rifles by 30%
+
+
+
+
+Assault Rifle Rail Amp IV
+
+Weapon
+
+Ultra Rare
+
+Increases Damage Dealt by Assault Rifles by 40%
+
+
+
+
+Biotic Power Amp I
+
+Power
+
+Common
+
+Increases Damage Dealt by Biotic Powers by 10%
+
+
+
+
+Biotic Power Amp II
+
+Power
+
+Uncommon
+
+Increases Damage Dealt by Biotic Powers by 20%
+
+
+
+
+Biotic Power Amp III
+
+Power
+
+Rare
+
+Increases Damage Dealt by Biotic Powers by 30%
+
+
+
+
+Biotic Power Amp IV
+
+Power
+
+Ultra Rare
+
+Increases Damage Dealt by Biotic Powers by 40%
+
+
+
+
+Combat Power Amp I
+
+Power
+
+Common
+
+Increases Damage Dealt by Combat Powers by 10%
+
+
+
+
+Combat Power Amp II
+
+Power
+
+Uncommon
+
+Increases Damage Dealt by Biotic Powers by 20%
+
+
+
+
+Combat Power Amp III
+
+Power
+
+Rare
+
+Increases Damage Dealt by Biotic Powers by 30%
+
+
+
+
+Combat Power Amp IV
+
+Power
+
+Ultra Rare
+
+Increases Damage Dealt by Biotic Powers by 40%
+
+
+
+
+Cryo Ammo I
+
+Ammo
+
+Common
+
+Shots slow and chill enemies, and deal moderate bonus damage to armor.Additionally increases Weapon Damage by 2.5%.
+
+
+
+
+Cryo Ammo II
+
+Ammo
+
+Uncommon
+
+Shots slow and chill enemies, and deal moderate bonus damage to armor.Additionally increases Weapon Damage by 5%.
+
+
+
+
+Cryo Ammo III
+
+Ammo
+
+Rare
+
+Shots slow and chill enemies, and deal moderate bonus damage to armor.Additionally increases Weapon Damage by 7.5%.
+
+
+
+
+Cryo Ammo IV
+
+Ammo
+
+Ultra Rare
+
+Shots slow and chill enemies, and deal moderate bonus damage to armor.Additionally increases Weapon Damage by 10%.
+
+
+
+
+Cyclonic Mod I
+
+Defensive
+
+Common
+
+Increases Shields by 10%
+
+
+
+
+Cyclonic Mod II
+
+Defensive
+
+Uncommon
+
+Increases Shields by 20%
+
+
+
+
+Cyclonic Mod III
+
+Defensive
+
+Rare
+
+Increases Shields by 30%
+
+
+
+
+Cyclonic Mod IV
+
+Defensive
+
+Ultra Rare
+
+Increases Shields by 40%
+
+
+
+
+Disruptor Ammo I
+
+Ammo
+
+Common
+
+Shots stun enemies and deal large bonus damage to shields.Additionally increases Weapon Damage by 2.5%.
+
+
+
+
+Disruptor Ammo II
+
+Ammo
+
+Uncommon
+
+Shots stun enemies and deal large bonus damage to shields.Additionally increases Weapon Damage by 5%.
+
+
+
+
+Disruptor Ammo III
+
+Ammo
+
+Rare
+
+Shots stun enemies and deal large bonus damage to shields.Additionally increases Weapon Damage by 7.5%.
+
+
+
+
+Disruptor Ammo IV
+
+Ammo
+
+Ultra Rare
+
+Shots stun enemies and deal large bonus damage to shields.Additionally increases Weapon Damage by 10%.
+
+
+
+
+Experience Enhancer I
+
+Progression
+
+Common
+
+Increases the Amount of Experience Gained by 25%
+
+
+
+
+Experience Enhancer II
+
+Progression
+
+Uncommon
+
+Increases the Amount of Experience Gained by 50%
+
+
+
+
+Experience Enhancer III
+
+Progression
+
+Rare
+
+Increases the Amount of Experience Gained by 75%
+
+
+
+
+Experience Enhancer IV
+
+Progression
+
+Ultra Rare
+
+Increases the Amount of Experience Gained by 100%
+
+
+
+
+Incendiary Ammo I
+
+Ammo
+
+Common
+
+Shots burn enemies and deal large bonus damage to armor.Additionally increases Weapon Damage by 2.5%.
+
+
+
+
+Incendiary Ammo II
+
+Ammo
+
+Uncommon
+
+Shots burn enemies and deal large bonus damage to armor.Additionally increases Weapon Damage by 5%.
+
+
+
+
+Incendiary Ammo III
+
+Ammo
+
+Rare
+
+Shots burn enemies and deal large bonus damage to armor.Additionally increases Weapon Damage by 5%.
+
+
+
+
+Incendiary Ammo IV
+
+Ammo
+
+Ultra Rare
+
+Shots burn enemies and deal large bonus damage to armor.Additionally increases Weapon Damage by 10%.
+
+
+
+
+Pistol Rail Amp I
+
+Weapon
+
+Common
+
+Increases Damage Dealt by Pistols by 10%
+
+
+
+
+Pistol Rail Amp II
+
+Weapon
+
+Uncommon
+
+Increases Damage Dealt by Pistols by 20%
+
+
+
+
+Pistol Rail Amp III
+
+Weapon
+
+Rare
+
+Increases Damage Dealt by Pistols by 30%
+
+
+
+
+Pistol Rail Amp IV
+
+Weapon
+
+Ultra Rare
+
+Increases Damage Dealt by Pistols by 40%
+
+
+
+
+Power Capacity Mod I
+
+Power
+
+Common
+
+Increases the Maximum Number of Power Cells by 1
+
+
+
+
+Power Capacity Mod II
+
+Power
+
+Uncommon
+
+Increases the Maximum Number of Power Cells by 2
+
+
+
+
+Power Capacity Mod III
+
+Power
+
+Rare
+
+Increases the Maximum Number of Power Cells by 3
+
+
+
+
+Power Capacity Mod IV
+
+Power
+
+Ultra Rare
+
+Increases the Maximum Number of Power Cells by 4
+
+
+
+
+Power Efficiency Mod I
+
+Power
+
+Common
+
+Increases the Recharge Speed of Powers by 15%
+
+
+
+
+Power Efficiency Mod II
+
+Power
+
+Uncommon
+
+Increases the Recharge Speed of Powers by 30%
+
+
+
+
+Power Efficiency Mod III
+
+Power
+
+Rare
+
+Increases the Recharge Speed of Powers by 45%
+
+
+
+
+Power Efficiency Mod IV
+
+Power
+
+Ultra Rare
+
+Increases the Recharge Speed of Powers by 60%
+
+
+
+
+Shotgun Rail Amp I
+
+Weapon
+
+Common
+
+Increases Damage Dealt by Shotguns by 10%
+
+
+
+
+Shotgun Rail Amp II
+
+Weapon
+
+Uncommon
+
+Increases Damage Dealt by Shotguns by 20%
+
+
+
+
+Shotgun Rail Amp III
+
+Weapon
+
+Rare
+
+Increases Damage Dealt by Shotguns by 30%
+
+
+
+
+Shotgun Rail Amp IV
+
+Weapon
+
+Ultra Rare
+
+Increases Damage Dealt by Shotguns by 40%
+
+
+
+
+Sniper Rifle Rail Amp I
+
+Weapon
+
+Common
+
+Increases Damage Dealt by Sniper Rifles by 10%
+
+
+
+
+Sniper Rifle Rail Amp II
+
+Weapon
+
+Uncommon
+
+Increases Damage Dealt by Sniper Rifles by 20%
+
+
+
+
+Sniper Rifle Rail Amp III
+
+Weapon
+
+Rare
+
+Increases Damage Dealt by Sniper Rifles by 30%
+
+
+
+
+Sniper Rifle Rail Amp IV
+
+Weapon
+
+Ultra Rare
+
+Increases Damage Dealt by Sniper Rifles by 40%
+
+
+
+
+Strength Enhancer I
+
+Offensive
+
+Common
+
+Increases Damage Dealt from Melee Attacks by 15%
+
+
+
+
+Strength Enhancer II
+
+Offensive
+
+Uncommon
+
+Increases Damage Dealt from Melee Attacks by 30%
+
+
+
+
+Strength Enhancer III
+
+Offensive
+
+Rare
+
+Increases Damage Dealt from Melee Attacks by 45%
+
+
+
+
+Strength Enhancer IV
+
+Offensive
+
+Ultra Rare
+
+Increases Damage Dealt from Melee Attacks by 60%
+
+
+
+
+Targeting VI I
+
+Offensive
+
+Common
+
+Increases Damage Dealt to Weak Points by 15%
+
+
+
+
+Targeting VI II
+
+Offensive
+
+Uncommon
+
+Increases Damage Dealt to Weak Points by 30%
+
+
+
+
+Targeting VI III
+
+Offensive
+
+Rare
+
+Increases Damage Dealt to Weak Points by 45%
+
+
+
+
+Targeting VI IV
+
+Offensive
+
+Ultra Rare
+
+Increases Damage Dealt to Weak Points by 60%
+
+
+
+
+Tech Power Amp I
+
+Power
+
+Common
+
+Increase the Damage Dealt by Tech Powers by 10%
+
+
+
+
+Tech Power Amp II
+
+Power
+
+Uncommon
+
+Increase the Damage Dealt by Tech Powers by 20%
+
+
+
+
+Tech Power Amp III
+
+Power
+
+Rare
+
+Increase the Damage Dealt by Tech Powers by 30%
+
+
+
+
+Tech Power Amp IV
+
+Power
+
+Ultra Rare
+
+Increase the Damage Dealt by Tech Powers by 40%
+
+
+
+
+Universal Power Amp I
+
+Power
+
+Common
+
+Increases Damage Dealt by 5%
+
+
+
+
+Universal Power Amp II
+
+Power
+
+Uncommon
+
+Increases Damage Dealt by 10%
+
+
+
+
+Universal Power Amp III
+
+Power
+
+Rare
+
+Increases Damage Dealt by 15%
+
+
+
+
+Universal Power Amp IV
+
+Power
+
+Ultra Rare
+
+Increases Damage Dealt by 20%
+
+
+
+
+

@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+
+
+Turian Elite
+
+Type
+Turian Guard
+
+
+Armament
+Assault Rifle
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Scum and Villainy
+
+
+Turian Elites  are high-ranking guards of the arms dealer Illo Nazario. When Jacob Taylor arrives on Tortuga to learn of Illo's dealings with batarians, he has to fight his way through them. They are recognizable by their blue color.
+
+Tactics[]
+Turian Elites possess greater health and kinetic shielding than regular Turians. Their shields will begin to regenerate 1.5 seconds after being disabled, but their health will not.
+Because they are more dangerous enemies, the powers should be prioritized on them over regular turians if present.
+
+
+Mass Effect Galaxy Enemies
+
+
+Pirates
+
+Pirate • Pirate Elite • Clint "Black Eye" Darragh
+
+
+Batarian Terrorists
+
+Jath'Amon • Robot • Terrorist • Terrorist Elite • Terrorist Leader • Turret
+
+
+Turians
+
+Turian • Turian Elite
+
+
+
+
+

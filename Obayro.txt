@@ -1,0 +1,60 @@
+
+
+
+
+
+Obayro
+
+Region
+Andromeda / Heleus Cluster / Onaon
+
+
+
+
+
+
+
+Orbital Distance
+17.7 AU
+
+
+Orbital Period
+83.2 Earth Years
+
+
+Keplerian Ratio
+0.801
+
+
+Radius
+5,771 km
+
+
+Atm. Pressure
+41.20 atm
+
+
+Surface Temp
+77 °C 
+
+
+Satellites
+1
+
+
+Location: Andromeda / Heleus Cluster / Onaon System /  Fourth planet
+
+Description[]
+Obayro's surface is primarily composed of iron, but mountains rich with less common metals dot the landscape. Scans indicate that the angara have often sent mining expeditions here.
+
+Anomaly[]
+Graphite[]
+DATA:
+Graphite
+ANALYSIS:
+This graphite mineral deposit should prove useful to the Initiative for manufacturing.
+Awards a random small amount of Graphite when scanned.
+
+
+
+

@@ -1,0 +1,104 @@
+
+
+
+
+
+Wheeler
+
+Region
+Milky Way / Serpent Nebula / Boltzmann
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.85 AU
+
+
+Orbital Period
+0.8 Earth Years
+
+
+Keplerian Ratio
+0.96
+
+
+Radius
+7,894 km
+
+
+Day Length
+60.5 Earth Hours
+
+
+Atm. Pressure
+2.35 atm
+
+
+Surface Temp
+165 °C 
+
+
+Surface Gravity
+1.9 g
+
+
+Mass
+2.889 Earth Masses
+
+
+Location: Milky Way / Serpent Nebula / Boltzmann System /  First planet
+
+Prerequisite: Dossier: The Master Thief (Mass Effect 2)
+
+Description[]
+Wheeler is a sizable rock planet. Its atmosphere is a hostile mix of hydrogen and carbon monoxide, which poses little hazard to remote robo-mining. Modern equipment can easily tolerate the planet's temperatures and gravity. Wheeler's crust is rich in bauxite and other light metals used in fabricators the galaxy over.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+4,500
+
+
+Platinum
+
+Low
+
+4,300
+
+
+Iridium
+
+High
+
+10,550
+
+
+Element Zero
+
+None
+
+0
+
+Trivia[]
+The planet is likely named after John Archibald Wheeler, an American theoretical physicist most notable for having coined the terms black hole and wormhole.
+
+
+

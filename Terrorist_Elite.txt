@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+
+
+Terrorist Elite
+
+Type
+Batarian Terrorist
+
+
+Armament
+Assault Rifle
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Save the Arcturian Jade, A Formula for Hope, A Batarian Army, Protect the Council
+
+
+Terrorist Elites are elite members of batarian extremists wishing to sabotage the negotiations between the Council and batarian ambassador Jath'Amon. They are fought by Jacob Taylor alongside Terrorists and can be recognized by their yellow color.
+
+Tactics[]
+The terrorist leaders have greater health and kinetic shielding than their underlings. Their shields will begin to regenerate 1.5 seconds after being disabled, but their health will not.
+It is recommended to prioritize your powers against them. Your Overload will instantly disable their shields while your Stasis will freeze them into place for a time.
+
+
+Mass Effect Galaxy Enemies
+
+
+Pirates
+
+Pirate • Pirate Elite • Clint "Black Eye" Darragh
+
+
+Batarian Terrorists
+
+Jath'Amon • Robot • Terrorist • Terrorist Elite • Terrorist Leader • Turret
+
+
+Turians
+
+Turian • Turian Elite
+
+
+
+
+

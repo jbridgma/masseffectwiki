@@ -1,0 +1,100 @@
+
+
+
+
+
+Osalri
+
+Region
+Milky Way / Eagle Nebula / Imir
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.6 AU
+
+
+Orbital Period
+0.5 Earth Years
+
+
+Keplerian Ratio
+0.864
+
+
+Radius
+2,622 km
+
+
+Day Length
+33.4 Earth Hours
+
+
+Atm. Pressure
+1.86 atm
+
+
+Surface Temp
+229 °C 
+
+
+Surface Gravity
+0.1 g
+
+
+Mass
+0.017 Earth Masses
+
+
+Location: Milky Way / Eagle Nebula / Imir System /  First planet
+
+Description[]
+Osalri (Covus salarian – "fire maiden") is a boiling hot dwarf planet close to the G-class star Imir. Too hot for lucrative exploitation, its only satellites are defunct solar arrays destroyed by pirates long ago.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+6,300
+
+
+Platinum
+
+Medium
+
+6,400
+
+
+Iridium
+
+Medium
+
+6,200
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

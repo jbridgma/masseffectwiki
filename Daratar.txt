@@ -1,0 +1,108 @@
+
+
+
+
+
+Daratar
+
+Region
+Milky Way / Hourglass Nebula / Faryar
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.9 AU
+
+
+Orbital Period
+0.9 Earth Years
+
+
+Keplerian Ratio
+0.9
+
+
+Radius
+3,937 km
+
+
+Day Length
+62.8 Earth Hours
+
+
+Atm. Pressure
+0.49 atm
+
+
+Surface Temp
+−66 °C 
+
+
+Surface Gravity
+0.5 g
+
+
+Mass
+0.189 Earth Masses
+
+
+Satellites
+1
+
+
+Location: Milky Way / Hourglass Nebula / Faryar System /  Second planet
+
+Prerequisite: Priority: Thessia (Mass Effect 3)
+
+Description[]
+Though ancient riverbeds crisscross the plains of Daratar, photodissociation has long since dried up the world. There are indications of ancient mining operations, but any structures have long since been buried or worn away by the planet's seasonal dust storms.
+
+Assignments[]
+Assignment: N7: Eclipse Smuggling Depot
+Mineral Deposits[]
+Initial Scanner Result: Good
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+7,100
+
+
+Platinum
+
+Medium
+
+9,100
+
+
+Iridium
+
+Medium
+
+7,900
+
+
+Element Zero
+
+Medium
+
+7,700
+
+
+
+

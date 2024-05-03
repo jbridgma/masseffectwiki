@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+This article is about the multiplayer class in Mass Effect 3. For the ex-Cerberus human adept class in Mass Effect 3, see Project Phoenix Adept. For the multiplayer class in Mass Effect: Andromeda, see Human Adept (Mass Effect: Andromeda).
+
+
+
+Human Adept
+
+
+
+
+
+							Male
+							
+						
+
+
+
+							Female
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class
+Adept
+
+
+Race
+Human
+
+
+Rarity
+Common
+
+
+Availability
+Starting character
+
+
+Abilities
+Combat RollBiotic Blast
+
+
+Humans joined the galactic community after discovering a Prothean data cache on Mars in 2148. Their devotion to understanding and adapting to modern warfare left the staid Council races stunned. Humanity's persistence and unflappable spirit has taken them further than anyone in the galaxy could have imagined.
+Human adepts specialize in biotic crowd control, a valuable and renowned asset on the battlefield. Allies often share stories of how an enemy soldier, sneaking from behind to deliver a fatal blow, could suddenly end up floating above their squadron.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Barrier: 500 / Health: 500
+
+
+Class: Alliance Training
+
+
+ Singularity
+
+
+
+
+ Warp
+
+
+
+
+ Shockwave
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Human Adept executes a series of up to three punches.
+Heavy Melee (Biotic Blast) – The Human Adept blasts a wave of biotic energy with a palm strike hitting multiple targets. One unprotected foot soldier can be sent flying.
+Grab (Biotic Punch) – The Human Adept drags an enemy over cover and then executes them with a charged biotic punch.
+
+
+
+
+
+Dodge (Combat Roll) – The Human Adept rolls to quickly evade incoming attacks.
+The Human Adept can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Singularity will prime Biotic Explosions on ALL enemies caught in the field, even on armored foes. Furthermore it causes constant damage to anything caught inside as well as causing constant stagger to almost all non-armored enemies. Additionally, enemies without shields, barriers, or armor will be picked up by the field.
+Using Singularity with the Detonate evolution is very useful with this biotic explosion chain. Set up a Singularity, detonate it with Shockwave or Warp, and finally prime it again with Warp. Singularity will then detonate and set off Warp.
+Singularity and Shockwave are only powerful and damaging on Bronze/Silver - on Gold, they will still pick up enemies/knock them back respectively, but they will do minimal damage to them. Therefore, it is better to evolve powers to boost biotic explosions, which will do much more damage than the powers themselves.
+Since Shockwave goes through any surface, a Human Adept can hide behind a wall and use Shockwave, which will pass through and damage enemies on the other side.
+Additionally, if the Detonate evolution is chosen, Shockwave will set off the most powerful Biotic Explosions available, as it gives a 65% damage bonus to them rather than the 50% given by the Detonate evolutions for other biotic powers.
+Shockwave can easily reach the 1000 N force threshold that allows it to stagger even the sturdiest humanoid enemies. On Bronze and Silver, a full force build will stagger every enemy.
+It may prove effective to fully evolve all powers except for either Singularity or Shockwave. If you do this, you'll get the most out of every power and passive power and still have a way to cause biotic detonations with either Singularity + Warp or Warp + Shockwave.
+Other viable options include skipping Alliance Training or Fitness.
+The power damage/force evolutions of Alliance Training do not affect biotic explosions.
+As the Human Adept lacks anti-shield powers, they can compensate by using the Acolyte or a weapon with Disruptor Rounds or Phasic Rounds.
+When using Disruptor Rounds, Singularity needs to become the main source of priming, as it constantly re-applies itself on the top of the priming stack, preventing the ammo priming from overlaying it.
+Shockwave can only hit 2 targets per cast. This makes the power highly unreliable at detonating in the presence of Swarmers and geth drones, or even Husks.
+Warp has a glitchy interation with Incendiary Rounds and can greatly increase their damage.
+Cerberus[]
+When in close proximity, powers can be used against Phantoms without provoking their protective bubble. Once a Phantom's barriers are removed, Singularity will pick them up and quickly kill them. Shockwave can also be highly effective when they are cloaked.
+Shockwave is excellent against Cerberus—it can blow Cerberus Troopers away from the player and then deals physics based damage to them. This can allow the player to run around on bronze, knocking down enemies by repeatedly using Shockwave, which stops them from shooting at you. They can then be finished off with a few shots.
+Shockwave will also knock back Guardians, revealing their body, which can then be shot. Otherwise, it is very tricky to kill Guardians whilst playing as a Human Adept without the use of an armor piercing mod or equipment, or wrapping a Singularity around their back (which will force them to drop their shield and lift them into the air, while setting up a biotic explosion). That being said, if you let an ally play decoy, you can run up behind a Guardian and throw a Singularity. Also a Singularity aimed right above the Guardian's head will force them to drop their shields but this requires a lot more skill.
+A good tactic to set off Biotic Explosions on Atlases is to get behind a wall near it. Then, you can peek out, throw Warp at it and then go behind the wall. You can set the Biotic Explosion off by casting Shockwave through the wall without having to expose yourself. This can be done to all enemies, though the Atlas's walking speed allows one to stay in a good spot for this tactic longer, before the Atlas overruns the location.
+Collectors[]
+Singularity is very effective for crowd control of lesser enemies, such as Collector Captains, Abominations, Collector Troopers, and setting up Biotic Explosions on the slower moving Scions.
+Singularity can be used to halt the advance of Seeker Swarms while rapidly killing them off with its Damage Over Time (DoT).
+Power heavy classes, such as the Adepts and Engineers, will have a tougher time bringing down Praetorians, since, like the Banshees, sometimes put up a field that blocks projectile attacks, so it is best to use weapons against them until they drop to the ground to fire their twin cannons.
+A Warp heavy build is highly recommended, since most units have barriers, armor, or health.
+Geth[]
+Shockwave, with the Radius evolution, can deal very well with Geth Hunters as it will hit them if it goes near them. This staggers them, allowing the player to headshot them easily.
+Since the geth have a tendency to group together, Singularity (with Warp to detonate it) will prove useful here. Singularity can even deplete shields to the point where Hunters and Geth Rocket Troopers will be picked up by the field.
+A weapon effective against shielding, such as the Acolyte or Arc Pistol, can be useful to mitigate the Human Adept's relative weakness against it.
+Reapers[]
+Shockwave, with the Radius evolution, is very effective at knocking back and killing groups of Husks and Cannibals.
+Singularity is also effective at paralyzing groups of Cannibals and Husks, as they have no shields to contend with.
+Warp can be used on Cannibals in order to negate the armor they have gained from a Marauder or from cannibalizing a fallen enemy.
+On lower difficulties, Shockwave can be used effectively to momentarily stagger Brutes who have gotten too close to the player, allowing the player time to escape.
+Due to the high number of armored Reaper foes, Biotic Explosions can be a major source of damage. Keep in mind that Singularity will not die after one biotic explosion, allowing you to set off multiple explosions on multiple armored targets.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

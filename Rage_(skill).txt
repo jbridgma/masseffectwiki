@@ -1,0 +1,182 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For other uses, see Rage (disambiguation).
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Rage is a passive Combat skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+Enter a blood rage after killing multiple enemies at close range within 30 seconds. While enraged, you can regenerate full health.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Rage
+
+
+
+Enter a blood rage after killing multiple enemies at close range within 30 seconds. While enraged, you can regenerate full health.
+
+Kill Radius (m): 10
+Damage Resistance While Enraged: 15
+Melee Bonus While Enraged: 25%
+Health Regeneration While Enraged: 200%
+Reduced Regeneration Delay While Enraged: 30%
+Rage Duration (s): 15
+Kills Required: 3
+
+
+
+2
+
+Strength
+
+
+
+-
+
++15% Melee Damage
++25% Weapon Weight Capacity
+
+
+
+3
+
+Resilience
+
+
+
+-
+
++20% Max Health
++20% Max Shields
+
+
+
+4
+
+Resilience
+
+
+
+-
+
++20% Max Health
++20% Max Shields
++15 Damage Resistance While Enraged 
+
+
+
+4
+
+Melee
+
+
+
+Increased melee damage and increased melee damage bonus while enraged.
+
++25% Melee Damage
++25% Melee Bonus While Enraged
+
+
+
+5
+
+Unstoppable
+
+
+
+Increased Damage Resistance when performing a kill that would trigger or refresh Rage.
+
+Damage Resistance: 50
+Damage Resistance Duration (s): 2
+
+
+
+5
+
+Martial Arts
+
+
+
+Gain a ramping melee damage bonus with each melee hit or melee kill performed. Ends after a melee kill has not been performed for 10s.
+
+Melee Bonus per Hit: 5%
+Melee Bonus per Kill: 20%
+Max Melee Bonus: 65%
+
+
+
+6
+
+Berserker
+
+
+
+Rage will now automatically trigger when your health is low.
+
+Rage Triggers When Health Drops Below: 33%
++25% Melee Damage
++50% Rage Duration
+-1 Kills Required
+
+
+
+6
+
+Inspirational
+
+
+
+While enraged, other nearby players receive Damage Resistance.
+This does not stack with Rage bonuses.
+
+
+Ally Damage Resistance: 30
+Ally Buff Radius (m): 15
++20% Max Health
++20% Max Shields
++50% Kill Radius (m)
+
+
+Player Notes[]
+Mechanics
+A distorting but not visually debilitating haze effect with some crackling lightning bolts is applied on the screen when Rage is activated, refreshing every time a close-range kill is performed and fading over time if otherwise.
+Headbutts or kills with any weapon within only a few meters of the character are considered close-range kills for Rage activation.
+Rage's branching skill sets deal either with increasing melee damage for the krogan or increasing damage resistance.
+The Krogan Engineer audibly huffs and pants when Rage is activated.
+Strategies
+Krogan characters can kill basic troops with one headbutt on Bronze difficulty, making Rage activation and maintenance easy to achieve. In higher difficulties, the appropriate damage boosters may be required.
+On Gold difficulty and above, damage resistance may be more important than increased melee damage due to the increased damage output of enemies. Rank 6 Berserker lowers Rage activation to only 2 kills and even kicks in when health drops below the stated threshold, which can be a common occurrence on these higher difficulties when playing with characters that haven't been maxed out yet.
+Since Remnant forces have numerous units floating or otherwise that can deal significant damage while keeping their distance well beyond headbutt or close range weapon fire, caution is highly advised before wading into a group of them.
+Availability[]
+Single-player: N/A
+Multiplayer: Krogan Engineer, Krogan Gladiator, Krogan Mercenary, Krogan Vanguard
+
+
+

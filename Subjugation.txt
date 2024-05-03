@@ -1,0 +1,67 @@
+
+
+
+You've discovered a suspicious kett device among some Remnant ruins. To determine its purpose, SAM needs more information.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Destroy kett devices
+2.2 Enter the Remnant facility
+2.3 Eliminate the kett
+2.4 Investigate the console
+2.5 Destroy all output devices
+
+
+3 Rewards
+4 Bugs
+5 Puzzle Solution
+
+
+Acquisition[]
+Prerequisite: Task: Subjugation
+
+After destroying five kett devices, this mission is added automatically.
+
+Walkthrough[]
+Destroy kett devices[]
+A navpointwill be added to the map pointing to a Remnant site underground where four more devices will need to be destroyed.
+This objective is marked as complete when Pathfinder Ryder approaches the underground site and the next objective is added.
+
+Enter the Remnant facility[]
+Go to the navpoint north of Hjara Station and interact with the Gravity Well  to go down into the Remnant site.
+You will come under attack from kett on reaching the bottom of the gravity well.
+
+Eliminate the kett[]
+Defeat the attacking kett.
+
+Investigate the console[]
+SAM notes that the kett seem to have been feeding data into a nearby console. The data on the console indicates that the kett were attempting to weaponize the Remnant, though yet without success. Interact with the console to continue.
+Four navpoints will be added to the map. Continue down into the Remnant site to the navpoints.
+
+Destroy all output devices[]
+There are four devices to deal with. Kett forces will try to hinder your progress on the way to each of them.
+When all devices are destroyed, the mission completes.
+In the innermost room is a container with a decryption puzzle. (The two glyphs are on the walls - Nihility Glyph and Thermodynamic Glyph). This puzzle is required for the Cryptographer Achievement. For the puzzle solution, see here.
+In the same room, you can scan an Adaptive Remnant Core Device for +100   and pick up a Remnant Data Core for Task: Remnant Data Cores. There is also a container in this room that can looted next to the Remnant Data Core.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Voeld viability
+Bugs[]
+After several kett devices have been destroyed, SAM will report that his analysis is at 85% complete, but subtitles show it as him saying 84%.
+Puzzle Solution[]
+Main article: Remnant Decryption Puzzle Guide
+
+
+
+
+
+Puzzle ContainerReward: Valuable Loot
+
+
+
+
+

@@ -1,0 +1,94 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - SR Spare Thermal Clip: Adds sockets to increase thermal clip capacity, increasing number of spare shots.
+Enhanced - SR Heavy Spare Clip: Substantially increases spare ammo, but at the cost of increased weapon weight.
+Note:  The Inferno and Shadow sniper rifles are unable to equip a Clip Mod.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+SR Spare Thermal Clip
+
++47%
+
++52%
+
++55%
+
++58%
+
++61%
+
++63%
+
++66%
+
++69%
+
++71%
+
++74%
+
+Sniper Rifle Spare Ammo
+
+
+SR Heavy Spare Clip
+
++61%+3%
+
++65%+3%
+
++70%+4%
+
++74%+5%
+
++79%+6%
+
++83%+7%
+
++88%+8%
+
++92%+8%
+
++97%+9%
+
++101%+10%
+
+Sniper Rifle Spare AmmoSniper Rifle Weight
+
+
+Equipping a Sniper Rifle Clip Mod changes the color of parts of the weapon to a dull red depending upon the specific weapon.
+
+
+
+

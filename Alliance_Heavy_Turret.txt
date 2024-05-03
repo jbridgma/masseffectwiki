@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+Alliance Heavy Turret
+
+
+
+
+Type
+Synthetic
+
+
+Armament
+Rocket Launcher
+
+
+Abilities
+None
+
+
+Health
+Moderate
+
+
+Shields
+Very High
+
+
+Locations
+Luna, Xawin, Mavigon
+
+
+Alliance Heavy Turrets are turrets that are used by the Systems Alliance to defend their installations planetside. Alliance Turrets are deadly weapons. While firing at a slow pace, they can do enormous damage to infantry or vehicles if their missiles impact their targets.
+While they are usually used to defend Alliance installations, some pirate gangs have been able to get a hold of them.
+
+Tactics[]
+The Alliance Heavy Turrets possess very high health and six bars of shielding, making them very durable. As is the case with all ME enemies, their shields regenerate over time.
+Fighting them in the Mako is relatively easy, because they're large stationary targets and it only takes a couple of shots from the main gun and several machine gun bursts to destroy them. While their missiles are quite damaging to the Mako, they don't travel very fast and thus can be easily dodged. However, you will get less experience if you destroy them with the Mako.
+If you are going to fight them on foot, then keep on the move because just one shot will usually kill you and they possess considerable AoE. Also, because these Turrets have a habit of firing so that multiple shots that all impact around the same time, try to approach one turret at the time. One way to fight them on foot is to whittle them down while you are inside the Mako, then exit and destroy them on foot for the exp bonus.  Alternatively, use a sniper rifle and approach them cautiously from below: the missiles will be aimed at your centre of mass and will impact on the ground rather than on you.
+Alliance Heavy Turrets can be overheated with Sabotage, preventing them from firing for about ten seconds and allowing you to attack them with impunity.
+If you have Master Hacking, it is possible to hack one of the turrets and turn it against the others. You will get the same experience as if it was an "on-foot" kill.
+Also note that because these Turrets are stationary targets, kinetic-based biotics are useless against them. Only powers like Warp are effective.
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+

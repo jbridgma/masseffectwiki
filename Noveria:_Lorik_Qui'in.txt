@@ -1,0 +1,101 @@
+
+
+
+Plot and scheme in corporate loungesCorporate architecture aestheticDecide how corporate intrigue unfolds1/3You need a pass to leave Port Hanshan. Gianna suggested speaking with Lorik Qui'in.
+Alternative journal entry:
+Lorik wants you to break into his office and recover files from his computer.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Raiding Synthetic Insights
+3.2 Multiple Choice
+
+
+4 Enemies
+5 Mass Effect 2 Consequences
+6 Bugs
+7 Trivia
+
+
+Acquisition[]
+Prerequisite: Noveria: Geth Interest
+
+If you haven't obtained a garage pass yet on your first conversation with Administrator Anoleis, Gianna Parasini whispers this mission to you on your way out of the office.
+Otherwise, you can still obtain the mission from the turian himself on the Mezzanine.
+Note: If after acquiring the mission from Gianna you obtained a garage pass by presenting Opold's package, and you did so before talking to Lorik Qui'in and receiving his assignment, you will be unable to complete this mission, and the respective entry will remain incomplete in your journal. However, receiving the assignment from Lorik Qui'in and then leaving Port Hanshan with the help of Opold's package will allow you to complete this mission any time later.
+
+Preparation[]
+
+A single Advanced Assault Drone can be disabled before the mission by hacking the "Security Control Unit" (average decryption) in a room up above the one where you meet Lorik Qui'in. Upon successful completion you will receive a message "Synthetic Insights Security Disabled". Alternatively, for maximum experience points you can fight the drone and then return later to gain the XP for disabling the security as well.
+The fighting in this mission mostly involves organic opponents, including some with sniper rifles and others with biotic and tech powers. Crowd control abilities that can instantly disable organic opponents will come in handy.
+
+Walkthrough[]
+Lorik Qui'in has a proposition that will benefit you both. He explains that Anoleis is proving to be a corrupt administrator. As the administrator of one of the port's tenants, Lorik does have a garage pass to offer you, but in return he needs access to the evidence against Anoleis that Lorik has hidden at the Synthetic Insights office. You can consider this offer, or opt for another solution.
+If you want Lorik's pass and agree to help him, he will give you access to the Synthetic Insights office, which is being guarded by some of the ERCS contingent. As you leave, Lorik asks you to keep bloodstains off the carpets.
+
+Raiding Synthetic Insights[]
+Head back down the mezzanine elevator and to the route that leads to the garage. There is an elevator just before the stairs to the Garage; step inside to reach Synthetic Insights office. The corridor before the main room is a good save point. When you get close to the door you can either convince the two ERCS Guards there to stand down or just shoot them. Talking to them earns morality points and they go away. Attacking them yields experience points. 
+Note:  Using Charm/Intimidate to get rid of the extra guards also removes the Assault Drone you might otherwise encounter if you didn't hack the Synthetic Insights Security terminal. Also, the drone only activates if the first female human guard you encounter is able to set off the security alarm, so killing her before she can will prevent the drone from appearing.
+Once the first two guards are dealt with, the place goes on lockdown and can only be reopened by Kaira Stirling's authorization, so you can't go back until the files are found. 
+The area has a lot of loot, though kill the hostiles first as you'll have ample time to ransack the place afterward. The SI office layout is roughly similar to the mezzanine's, only with two half walls in the lower level instead of a rock sculpture. The guards on the lower level are easy to deal with, and there are a few more guards on the upper level, including a sniper who doesn't like to come down. There are a couple of shootable Fire Containment Systems on the floor, which deal poison damage to nearby guards.
+Once the guards are all dead start the item sweep from the lower level: west from where you came in, a locked crate (easy Decryption) next to a chamber entrance. Inside the chamber, a weapon locker (easy Decryption). On the part of your map labeled Lorik's Office (which is actually upstairs), a computer console (easy Decryption) and an upgrade kit.
+Upstairs near the stairs there are three doors to the north. All of them are inaccessible except for the leftmost one (easy Decryption) (Legendary Edition:  The inaccessible doors have no lighting compared to the original version, making the leftmost door stand out more). Beyond this door is a technician kit, a medical kit, and a wall safe (easy Decryption). The actual office of Lorik Qui'in has a medical kit, a secure wall safe (average Decryption), and his personal computer which contains the evidence. When you are ready insert the OSD Lorik provided then leave.
+
+
+On your way out, you'll bump into Kaira Stirling, accompanied by more ERCS Guards. Stirling is a cop on the take, and the evidence Lorik is after will implicate her should it be revealed. Stirling refers to Shepard as a cop-killer, and you have to neutralize her all the same.
+Stirling and her friends tend to stand where they are for a few seconds while pulling their guns out, presenting an opportunity to fire on the clumped group without retaliation for a moment. If High Explosive Rounds are used, specifically on a sniper rifle, it becomes entirely possible to eliminate Kaira and her two buddies instantly by simply pulling it out and firing in their general direction. A grenade or Singularity will provide similar results. 
+The people Kaira brought with her are an immediate threat in the melee, along with Stirling herself, a potent biotic. Another member of her squad is also a biotic who prefers pushing people. Get rid of Stirling first because she is the hardest target, but don't neglect the others because they will take you and your squadmates quickly as well -- the humans with sniper rifles and turians with shotguns are both quite dangerous.
+There isn't a lot of cover so use the little you have to your advantage. Once Stirling's group on the top are eliminated, take care of the two on the lower level. They can be taken out from the upper level, or they will soon come upstairs on their own. 
+Once the place has died down, do a quick sweep of the complex for any crates you may have missed and head out of the office.
+
+Multiple Choice[]
+When you reach the main level again, you run into Gianna, who is curious about the ruckus in the Synthetic Insights offices. Respond whichever way you want. Gianna asks to speak with you at the hotel bar before you try to talk to Qui'in. Follow her advice for additional intrigue and gameplay rewards. If you're aiming for expediency regardless of missed opportunities just give the evidence to Qui'in, or alternatively, betray the turian by giving the evidence to Anoleis for the pass and a relatively large credit payout in the form of a "private investigator fee" that Anoleis bribes you with.
+
+
+If you choose to speak with Parasini again at the hotel bar, she reintroduces herself as a Noveria Internal Affairs agent working undercover for the Executive Board that governs the planet. You can ask questions about what has been going on: apparently, Anoleis has been driving business away by increasing rent prices on Noveria facilities. He is breaking the golden rule of the planet, which is "don't rock the boat." Parasini asks you to convince Qui'in to testify before Board, returning to Anoleis' office to continue posing as his secretary afterward. 
+At this point you have three options as to what to do with the evidence you've obtained: (1) give the evidence to Anoleis, (2) give it to Qui'in, or (3) keep the evidence and use it to either force Qui'in to testify against Anoleis or force Anoleis to give you a garage pass (or both).
+Option 3 allows you to maximize experience, morality points, or credits if you're able to play the Noveria game yourself. The basic steps are to talk with Gianna at the hotel, then convince Qui'in to testify, then blackmail Anoleis by telling him about the evidence in your possession. You can talk with Anoleis first if you want, as long as you keep your bargaining chip—the evidence. However, the negotiation with Anoleis must be before you tell Gianna at her desk outside his office that you convinced Qui'in. Convincing Qui'in requires you to either Charm or Intimidate him, rewarding you handsomely with either Paragon or Renegade points, respectively.
+The conversation with Anoleis where you reveal you have Lorik's evidence has a few nuances to be aware of. There are three rewards that can result from the conversation, all of which provide you a garage pass, 9 Renegade points, and either (A) a small amount of XP, (B) a large amount of XP, or (C), a large amount of XP plus a sizeable credit payout. Reward A results from using the Charm dialogue option, Reward B results from using the Intimidate dialogue option, and Reward C results from accepting Anoleis' bribe, which requires no moral persuasion dialogue (pick either "Get me to Benezia" or "I accept"). The rewards from this conversation are the same regardless of whether you've spoken with Gianna at the hotel or not. As Reward C requires you to hand over the evidence to Anoleis, this will preclude you from helping Gianna and receiving the associated rewards (as well as enraging her beyond endurance).
+One thing to watch out for is that you get no morality points if you pick either the Charm or Intimidate options as your first choice after telling Anoleis you have Qui'in's evidence—if you want these points, pick one of the three non-persuasion options that should be on the right. All of these three options can eventually lead to any of the three rewards listed above; however, regardless of which reward you want, the actual dialogue spoken by you, Anoleis, and occasionally your squad can differ depending on the path you choose through the conversation. There are several variations, so make a save point and have fun exploring them if you're curious. It is also possible to refuse any deal with Anoleis, giving you no reward and ending the conversation, but the option to make a deal remains, you simply have to talk to him again.
+Once you've taken advantage of the administrator's weakened position, you can speak to Parasini and tell her you convinced Qui'in to testify before the Board (assuming you did). She will arrest Anoleis, promising Shepard a beer the next time they cross paths; this rewards Paragon points and experience. If you want to avoid getting any Renegade points, arresting Anoleis straightaway is the quickest option, though this comes with a smaller total experience reward. If you want to avoid Paragon points, you already got yourself a garage pass from arm-twisting Anoleis, so you're free and clear to leave Port Hanshan without reporting back to Gianna at all.
+
+
+There is a final, rather extreme way to get yourself a garage pass. If you talked with Gianna at the hotel bar, you can inform Anoleis that she is an Internal Affairs agent; he will bring her in to "fire" her. Their resulting argument ends in Anoleis and Parasini killing each other, netting yourself a large reward of Renegade points. Note that returning to Lorik Qui'in in this instance will not reward you with a pass; you must take the one from Anoleis' body. Qui'in is also reluctant to reward you with anything in this path, you need to badger him for money: at least 6 Charm or 8 Intimidate is required for him to give you a measly 250 credits for your trouble.
+Note: If you still haven't delivered Opold's package to any recipient you can use it to leverage a pass from Anoleis but only if the evidence hasn't been handed over to anyone for the moment and you haven't had the salarian arrested or killed yet.
+The wall safe in Anoleis' office can be bypassed (easy Decryption) only if he's arrested (or dies resisting arrest). Once you are done, head to the garage or finish up on any other outstanding Port Hanshan interactions. If you feel like taking the time to travel all the way back to the docking bays to talk to her, Captain Matsuo may have a reaction to what went down in the administrator's office; your response can earn you a few more morality points.
+
+Enemies[]
+ERCS Guard
+Kaira Stirling
+Mass Effect 2 Consequences[]
+If Gianna Parasini didn't die here, you can meet her again on Illium for that beer. It doesn't come free, though.
+
+Bugs[]
+If you choose to hear Parasini out on the hotel upon your return from the Synthetic Insights offices, you can unlock the infinite morality points glitch. You are able to use the glitch until you leave Port Hanshan.
+Trivia[]
+Because the mini-map is two-dimensional and the floorplan of both floors is the same, the map incorrectly shows Shepard as being in Lorik's office when they are in the office just below it.
+Before raiding the Synthetic Insights offices, Lorik asks Shepard to "not get any blood on the carpet", but there doesn't appear to be any carpeting in the offices.
+
+Noveria Mission Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Noveria: Geth Interest
+
+Missions
+
+Noveria: Matriarch Benezia
+
+
+
+

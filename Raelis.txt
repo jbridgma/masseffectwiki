@@ -1,0 +1,192 @@
+
+
+
+Raelis, an Angaran Resistance fighter, wishes to speak to you on Voeld.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Meet with Raelis on Voeld
+2.2 Go to the kett facility
+2.3 Search the facility for any useful data
+2.4 Find more data
+2.5 Find additional data
+2.6 Collect kett bio samples
+2.7 Go to the kett communications station
+2.8 Investigate the comm station
+2.9 Search for more information
+2.10 Wait for new intel on the kett
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Trail of Hope II
+
+After the Moshae Sjefa's rescue, Pathfinder Ryder receives an email:
+
+
+
+
+Message from Voeld: Intel on Kett
+
+To: Ryder
+From: Raelis
+
+Greetings, Pathfinder!
+
+My name is Raelis. I serve the Angaran Resistance. Some of our scouts have returned with interesting information about the kett that I'm certain will intrigue you. I will wait for you on Voeld. Please come soon!
+
+
+Raelis
+
+
+Acknowledging it will start the mission.
+
+Walkthrough[]
+Meet with Raelis on Voeld[]
+Find and talk to Raelis in the Angaran Resistance Base; she is near Intelligence Officer Davja Kaas. She informs you that kett movement has increased in certain parts of Voeld. This presence is mostly composed of science and research vessels but people are worried they are continuing or furthering exaltation. Ryder agrees to check out the kett base.
+Go to the kett facility[]
+Head to the southern portion of the map. The navpointis located northwest of the Southern Monolith. Upon nearing the navpoint, a squadmate will comment that this is the location Raelis gave Ryder. Eliminate the kett around the building. 
+On top of the building is a Kett Core Encryption Tech that can be scanned for +100 .
+Go inside the building. There you will receive two objectives simultaneously: Search the facility for any useful data and Collect kett bio samples. There are also two lootable containers, scanning a charged Element Zero Stasis awards +10 , and there are 6 Collected Biosamples that can be scanned for +10  each (+60  total).
+
+Search the facility for any useful data[]
+Activate the data pad inside the building, and access the Recording: Operations Log ZR-2851 and two emails. It contains data on what the kett are doing with the angaran genome. They are especially interested in the angaran bioelectrical properties.
+
+
+
+
+
+Discovered Species: "Salarian"
+Initial observations:
+
+- Short-lived.
+- Fragile; no natural armor or protection.
+- High metabolism.
+
+- Evidence of exceptional brain function.
+
+
+
+
+
+
+
+Discovered Species: "Turian"
+Initial observations:
+
+- Carapace, metallic in nature, possibly protective.
+- Dextro-protein-based synthesis.
+
+- Agile; height and skeletal structure allow for increased reach and flexibility.
+
+
+Find more data[]
+Another datapad has the audio file Recording: Operations Log ZK-7539 and two emails. The kett have problems with communication to the home world: Possible breakdown in communications and information mishandled, it says.
+
+
+
+
+
+Exaltation: Phase Shu
+With the angaran genome unraveled, we have begun the process of isolating the most valuable trait to augment the kett.
+
+- Bio-electrical discharge: Isolated and reproduced. We have commenced the distribution of this ability amongst Ascendants.
+- Conversion of light to energy: Tricky, much more integrated into angaran physiology. Our current focus.
+
+
+Note: angaran genetics complex, but elegant. Lacking obsolete, residual traits, commonly found in evolved species. Similar to kett in certain ways.
+
+
+
+
+
+
+
+Discovered Species: "Human"
+Initial observations:
+
+- Soft-skinned; no natural armor or protection.
+- Without technology, can only operate within a narrow range of environmental conditions.
+- Genetically diverse.
+
+- Renowned for tenacity and adaptability.
+
+
+Find additional data[]
+On another datapad is the audio file Recording: Operations Log ZT-9329 and two emails. The speaker's team suspects that their communications are being prevented from leaving Heleus. They intend to verify that the primary communications is working. Ryder picks up a navpoint to a kett communications station.
+
+
+
+
+
+Discovered Species: "Asari"
+Initial observations:
+
+- Extremely long-lived.
+- Natural ability to create gravitational fields of some variety. Not fully understood.
+- Mono-gendered; precise method of reproduction not fully understood.
+
+- IMPORTANT: rumored to be able to take in genetic traits of other species to improve theirs. Of great interest to Primus.
+
+
+
+
+
+
+
+Discovered Species: "Krogan"
+Initial observations:
+
+- Long-lived.
+- Large, muscled.
+- Hardy: resistant to large range of environmental conditions, superfluous organs.
+- Some evidence of chromosomal damage. Not fully understood.
+
+- Reiteration: large.
+
+
+Collect kett bio samples[]
+Use the scanner to search for syringes in the building, then interact with the syringe to collect data from it.
+The objective is completed when you've found samples from a Fiend, an exalted kett soldier, and a kett Ascendant. There are some other syringes too, but no useful data can be retrieved from them.
+SAM's analysis: All samples contain the same genetic sequence, implying they come from the same individual and are incorporated in other kett. Ryder concludes that this individual is the Archon. That seems to be what exaltation is. The data is sent back to the science team on the Nexus.
+
+Go to the kett communications station[]
+This objective starts a new navpoint when all the above objectives are completed. The navpoint is located in the southeastern region (northeast of the Southern Holding Site). The easiest way to get to the comm station is to approach from the north side.
+
+Investigate the comm station[]
+Defeat the kett forces, then go into the building. There is a large lootable container in the building. Activate the datapad at the navpoint. It's the second reminder to the Archon that he has failed to report to the senate on the kett homeworld. The Archon is ordered to send an update report.
+
+
+
+
+
+Received from Central
+Attention: Archon of Sector 1-19-NYKZ
+
+Previous report was thirty-nine cycles ago. Senate requires an update of progress within this sector. A reminder that all campaign leaders are expected to deliver reports once in every fifteen standard cycles.
+
+Senate recognizes that presence of the "Scourge" phenomenon may be disruptive to communications. Take steps to circumvent this obstacle, so that regular updates can resume.
+
+This is your second reminder of this nature. Please acknowledge receipt.
+
+
+
+
+Search for more information[]
+On an audio log nearby, someone says that the Archon is breaching protocol because he has ordered a blocking of communications.
+The second audio log leads to the conclusion that some kett are questioning what the Archon is doing. SAM remarks that conflicts between factions seldom resolve quietly.
+If Meridian: The Way Home has been completed, the audio logs will be somewhat different.  The Primus is now in charge, and working to restore communications with the kett Senate.
+At the moment there is nothing more that can be done. Ryder receives +530 XP, +73 AVP  and +5% Voeld viability.
+
+Wait for new intel on the kett[]
+This mission goes on hold until you finish Hunting the Archon and acquire Dissension in the Ranks. Once these two missions are completed/acquired, this mission completes and this subheading disappears from the journal.
+
+Rewards[]
+None
+
+
+

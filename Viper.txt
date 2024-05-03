@@ -1,0 +1,1314 @@
+
+
+
+The M-97 Viper is a sniper rifle in Mass Effect 2, Mass Effect 3, and Mass Effect: Andromeda.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Description
+1.2 Acquisition
+1.3 Squad Use
+1.4 Player Notes
+
+
+2 Mass Effect 3
+
+2.1 Description
+2.2 Acquisition
+2.3 Player Notes
+
+
+3 Mass Effect: Andromeda
+
+3.1 Description
+3.2 Features
+3.3 Strategies
+3.4 Stats
+3.5 Development
+
+
+4 Trivia
+
+
+Mass Effect 2[]
+
+
+
+
+
+
+
+M-97 Viper
+
+General Stats
+
+Type
+Sniper Rifle
+
+
+Location
+Illium
+
+
+Accuracy
+High
+
+
+Recoil
+Low
+
+
+Fire Mode
+Semi-Automatic
+
+
+Fire Rate
+240 RPM
+
+
+Ammo Per Clip
+12
+
+
+
+Damage & Bonus Multipliers
+
+Base
+81.9
+
+
+Armor
+×1.35
+
+
+Shields
+×1.15
+
+
+Barrier
+×1.15
+
+
+
+Spare Ammo Capacity
+
+Default
+48
+
+
+Armor Pack
+52
+
+
+Upgraded
+N/A
+
+
+Both
+N/A
+
+
+Pickup Amount (Min - Max)
+4 - 9 (LE: 21 - 36)
+
+
+
+
+Description[]
+Rapid-fire military sniper rifle. Incredibly accurate and deadly at long range, these weapons are popular amongst infiltrators and assassins. Very effective against armor; somewhat effective against shields and biotic barriers. Upgrades the Mantis Sniper Rifle.
+Rosenkov Materials developed this deadly weapon in response to the rising prevalence of kinetic barriers. While kinetic barriers still offer some protection from this weapon, its sheer power and rapid rate of fire make it capable of quickly killing almost any target, regardless of its defenses.
+
+Acquisition[]
+The M-97 can be found during Thane's recruitment mission, near the service elevator that takes you to the bridge. The rifle is in a dead-end corridor, to the right of the elevator, when your back is against its door. 
+If missed, it can be also acquired later in the same mission, next to the Comm Terminal just before going to the roof. If the weapon is not picked up at any of these locations, it will be awarded at the end of the mission.
+
+Squad Use[]
+This weapon can be used by Garrus, Legion, Thane, and Zaeed. Squadmates deal 35% less damage than Shepard.
+
+Player Notes[]
+While the M-97 Viper does less damage per shot than the M-92 Mantis, it features automatic fire, a twelve round clip and a relatively large spare ammo capacity. These factors recommend against using the Viper for one-shot kills at higher difficulties; it is better suited to serving as a marksman rifle.
+Similar to the M-100 Grenade Launcher, the Viper can actually fire much faster if the trigger is repeatedly pressed as opposed to held down.
+Despite having automatic fire it's not a good idea to shoot this weapon "from the hip," because like all sniper rifles, the Viper suffers a huge accuracy penalty when firing non-scoped shots out of cover.
+While not as efficient as the M-92 Mantis or M-98 Widow in the role of soft-target interdiction, the M-97 Viper can still kill lower ranked enemies with two or three shots to the head.
+If you are able to maintain the full rate of fire on a target without exposing yourself to too much return damage, the Viper can actually out-damage most other weapons at range against armored targets, especially if landing headshots. This works especially well against large or slow targets like krogan, Scions, YMIR Mechs, and gunships where the loss of stability from fully automatic fire doesn't result in missed shots.
+Squad members do not take advantage of the Viper's full rate of fire and will instead fire a few shots at about the same rate of fire as they fire the M-6 Carnifex before going back to cover.
+
+Mass Effect 3[]
+
+
+
+
+
+
+
+M-97 Viper
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Sniper Rifle
+
+
+Location
+Priority: Palaven
+
+
+Fire Mode
+Semi-Automatic
+
+
+
+Weight
+  60% 
+
+
+Capacity
+  18% 
+
+
+Fire Rate
+  9% 
+
+
+Damage
+  41% 
+
+
+Accuracy
+  83% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+6
+36
+
+
+
+
+
+
+
+Type
+Sniper Rifle
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+Semi-Automatic
+
+
+
+Weight
+  50% 
+
+
+Capacity
+  18% 
+
+
+Fire Rate
+  9% 
+
+
+Damage
+  41% 
+
+
+Accuracy
+  83% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+6
+36
+
+
+
+
+
+
+
+
+Description[]
+The Viper is a semi-automatic, rapid-fire sniper rifle manufactured by Rosenkov Materials. Rosenkov developed a patented automated-release system that assists with thermal-clip ejection, shortening the Viper's reload time. This rifle is popular with military snipers, who appreciate a long-range gun that can snap off multiple shots in the blink of an eye.
+
+Acquisition[]
+Single-player
+The M-97 Viper is found during the mission Priority: Palaven, on top of a crate in the center of the first base. It is also purchasable from Kassa Fabrication post-mission if it was missed.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The M-97 Viper is categorized as uncommon and requires no multiplayer expansion packs.
+
+Player Notes[]
+GeneralSingle-player
+General
+The Viper differs from its Mass Effect 2 version, firing much more slowly but dealing more damage per shot.
+The Viper serves as a middle ground between the M-13 Raptor and the M-92 Mantis, doing more damage per shot than the former at about the same weight, and firing faster than the latter. Its weight is low enough that it can be a good option for power-focused characters, especially once upgraded.
+The Viper is very comparable in almost all respects to the M-6 Carnifex heavy pistol, which is basically a pocket-size Viper that lacks the precision long range accuracy provided by the Viper's built-in scope while being less awkward to use in close range engagements.
+The M-99 Saber is a semi-automatic assault rifle that functions similarly to the Viper, dealing much more damage per shot but weighing more as well.
+The Viper's decent firing rate, fast reload, and good-sized clip of 6 shots allow it to rapidly kill infantry with headshots. When upgraded and modded appropriately it can still take down moderately protected enemies with 2-4 hits to the head, with the first hit to the head often causing enemies to flinch, making successive shots easier.
+The Viper suffers a lower damage penalty for firing without the scope than other sniper rifles, making it more useful for emergency use at close range where scoping isn't practical.
+Because the Viper has relatively low damage per shot for a sniper rifle, it is less effective against armored foes unless their armor is weakened significantly by powers like Warp or Cryo Blast, a piercing mod is equipped, or anti-armor ammo augmentations are used.
+The Viper has a fairly high chance of triggering the secondary effects of certain ammo powers, like Cryo Ammo's freeze, with a single shot.
+The Viper is one of the few sniper rifles, along with the M-90 Indra, that has a clip size large enough to make it effective in tandem with Marksman. The rate of fire bonuses can greatly improve its effectiveness.
+Single-player
+Like the Raptor and the Indra, a high level Viper is a very lightweight option for seeing through smoke screens with the Sniper Rifle Enhanced Scope, making it handy for any class, but especially players that want to keep their power recharge times low.
+Mass Effect: Andromeda[]
+
+
+Viper
+
+
+
+
+
+							Default
+							
+						
+
+
+
+							S
+							
+						
+
+
+
+							Bulwark
+							
+						
+
+
+
+							Concussive
+							
+						
+
+
+
+							Siphon
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Category
+Sniper Rifles
+
+
+Rarity
+Common (I-X)Rare (S)
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+249-423
+
+
+Rate of Fire
+90
+
+
+Max Clip Size
+3
+
+
+Max Ammo
+24-30
+
+
+Accuracy
+70-88
+
+
+Weight
+50-25
+
+
+
+
+
+Base Stats
+
+Damage
+321-427
+
+
+Rate of Fire
+90
+
+
+Max Clip Size
+3
+
+
+Max Ammo
+24-30
+
+
+Accuracy
+70-88
+
+
+Weight
+50-25
+
+
+
+Special Edition Stats
+
+Damage
+650-780
+
+
+Rate of Fire
+90-93
+
+
+Max Clip Size
+3
+
+
+Max Ammo
+30-38
+
+
+Accuracy
+70-88
+
+
+Weight
+50-25
+
+
+
+Bulwark
+
+Damage Resistance (1 Ally): 15-25Damage Resistance (2 Allies): 22-37Damage Resistance (3 Allies): 30-50
+
+
+
+Concussive
+
+Area Damage: 800-1500Radius (m): 7.50
+
+
+
+Siphon
+
+% Damage Returned as Health: 3-3.75% Heal Bonus per kill: 4.5Kill Streak Duration (s): 7Max. Kill Bonus: 3
+
+
+
+
+
+
+Description[]
+The Viper is a rapid-fire rifle popular with military snipers who appreciated a long-range gun that could snap off multiple shots in a short period. Rosenkov Materials sold a considerable number of Vipers to the Initiative at a discount in return for undisclosed favors from Initiative founder Jien Garson.
+
+Features[]
+The multiplayer S variant gained substantial boosts to damage, rate of fire, and max ammo in the very last multiplayer update. Its reload time can also decrease to 2.4 seconds as it ranks up, rather than a flat 2.5 seconds on all ranks.
+
+Strategies[]
+
+Stats[]
+SingleplayerMultiplayer I-XMultiplayer S
+Singleplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+249
+
+90
+
+3
+
+24
+
+70
+
+50
+
+
+II
+
+268
+
+90
+
+3
+
+25
+
+75
+
+47
+
+
+III
+
+288
+
+90
+
+3
+
+25
+
+78
+
+44
+
+
+IV
+
+307
+
+90
+
+3
+
+26
+
+81
+
+42
+
+
+V
+
+326
+
+90
+
+3
+
+27
+
+82
+
+39
+
+
+VI
+
+346
+
+90
+
+3
+
+27
+
+84
+
+36
+
+
+VII
+
+365
+
+90
+
+3
+
+28
+
+85
+
+33
+
+
+VIII
+
+385
+
+90
+
+3
+
+29
+
+86
+
+31
+
+
+IX
+
+404
+
+90
+
+3
+
+29
+
+87
+
+28
+
+
+X
+
+423
+
+90
+
+3
+
+30
+
+88
+
+25
+
+Multiplayer I-X
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+321
+
+90
+
+3
+
+24
+
+70
+
+50
+
+
+II
+
+333
+
+90
+
+3
+
+25
+
+75
+
+47
+
+
+III
+
+345
+
+90
+
+3
+
+25
+
+78
+
+44
+
+
+IV
+
+356
+
+90
+
+3
+
+26
+
+81
+
+42
+
+
+V
+
+368
+
+90
+
+3
+
+27
+
+82
+
+39
+
+
+VI
+
+380
+
+90
+
+3
+
+27
+
+84
+
+36
+
+
+VII
+
+392
+
+90
+
+3
+
+28
+
+85
+
+33
+
+
+VIII
+
+403
+
+90
+
+3
+
+29
+
+86
+
+31
+
+
+IX
+
+415
+
+90
+
+3
+
+29
+
+87
+
+28
+
+
+X
+
+427
+
+90
+
+3
+
+30
+
+88
+
+25
+
+Multiplayer S
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+650
+
+90
+
+3
+
+30
+
+70
+
+50
+
+
+II
+
+664
+
+90
+
+3
+
+31
+
+75
+
+47
+
+
+III
+
+677
+
+90
+
+3
+
+31
+
+78
+
+44
+
+
+IV
+
+691
+
+91
+
+3
+
+32
+
+81
+
+42
+
+
+V
+
+704
+
+91
+
+3
+
+33
+
+82
+
+39
+
+
+VI
+
+718
+
+91
+
+3
+
+33
+
+84
+
+36
+
+
+VII
+
+731
+
+92
+
+3
+
+34
+
+85
+
+33
+
+
+VIII
+
+745
+
+92
+
+3
+
+35
+
+86
+
+31
+
+
+IX
+
+758
+
+92
+
+3
+
+35
+
+87
+
+28
+
+
+X
+
+780
+
+93
+
+3
+
+38
+
+88
+
+25
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Iron
+
+ Nickel
+
+ Vanadium
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+20
+
+80
+
+40
+
+10
+
+0
+
+
+II
+
+Level 6
+
+20
+
+90
+
+40
+
+10
+
+2
+
+
+III
+
+Level 11
+
+20
+
+100
+
+50
+
+10
+
+2
+
+
+IV
+
+Level 21
+
+30
+
+110
+
+50
+
+10
+
+2
+
+
+V
+
+Level 31
+
+30
+
+130
+
+60
+
+20
+
+2
+
+
+VI
+
+Level 41
+
+30
+
+140
+
+70
+
+20
+
+2
+
+
+VII
+
+Level 51
+
+30
+
+145
+
+70
+
+20
+
+2
+
+
+VIII
+
+Level 61
+
+40
+
+150
+
+70
+
+20
+
+2
+
+
+IX
+
+Level 71
+
+40
+
+155
+
+70
+
+20
+
+2
+
+
+X
+
+Level 81
+
+40
+
+160
+
+80
+
+20
+
+2
+
+
+Total
+
+N/A
+
+300
+
+1260
+
+600
+
+160
+
+N/A
+
+Trivia[]
+While the M-97 looks nearly identical to the alternate sniper rifle from Mass Effect, the barrel shroud's holes pass horizontally instead of vertically.
+Mass Effect: Andromeda doesn't use the M-97 designation that prior Mass Effect games use for this sniper rifle.
+
+
+
+
+Mass Effect 2 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-6 Carnifex • M-5 Phalanx
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust
+
+
+Shotguns
+
+M-23 Katana • M-27 Scimitar • M-300 Claymore • M-22 Eviscerator • Geth Plasma Shotgun
+
+
+Assault Rifles
+
+M-8 Avenger • M-15 Vindicator • Geth Pulse Rifle • M-76 Revenant • Collector Assault Rifle • M-96 Mattock
+
+
+Sniper Rifles
+
+M-92 Mantis • M-97 Viper • M-98 Widow • M-29 Incisor
+
+
+Heavy Weapons
+
+M-100 Grenade Launcher • ML-77 Missile Launcher • M-622 Avalanche • M-920 Cain • Collector Particle Beam • M-490 Blackstorm • M-451 Firestorm • Arc Projector
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

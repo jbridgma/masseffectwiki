@@ -1,0 +1,262 @@
+
+
+
+See also: Infiltrator Guide, Infiltrator Guide (Mass Effect 3)
+
+Infiltrators are equipped with cloaking systems that allow them to avoid detection for short periods of time, granting a tactical advantage over enemies.
+Power Training: Tactical Cloak, Incinerate, AI Hacking
+Weapon Training: Sniper Rifle, Heavy Pistol, Submachine Gun
+Ammo Training: Cryo, Disruptor
+Infiltrators are tech and combat specialists with the unique ability to cloak themselves from visual and technological detection. Infiltrators are deadly at any range with a wide variety of weapons, equipment and powers that can take down any enemy.
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Tactical Cloak
+2.1.2 Incinerate
+2.1.3 AI Hacking
+2.1.4 Disruptor Ammo
+2.1.5 Cryo Ammo
+2.1.6 Operative
+
+
+2.2 Notable Bonus Powers
+
+2.2.1 Geth Shield Boost
+2.2.2 Energy Drain
+2.2.3 Warp Ammo
+2.2.4 Armor Piercing Ammo
+2.2.5 Reave
+2.2.6 Neural Shock
+2.2.7 Dominate
+2.2.8 Flashbang Grenade
+2.2.9 Stasis
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Weapons
+
+3.1.1 Heavy Pistols
+3.1.2 Sniper Rifles
+3.1.3 Submachine Guns
+
+
+3.2 Heavy Weapons
+
+3.2.1 M-100 Grenade Launcher
+3.2.2 ML-77 Missile Launcher
+3.2.3 M-622 Avalanche
+3.2.4 M-920 Cain
+3.2.5 Collector Particle Beam
+3.2.6 M-490 Blackstorm
+3.2.7 M-451 Firestorm
+3.2.8 Arc Projector
+
+
+3.3 Advanced Weapons Training
+
+3.3.1 Assault Rifles
+3.3.2 Shotguns
+3.3.3 M-98 Widow
+
+
+
+
+4 Combat Guide
+5 Squad Members
+
+
+
+Overview[]
+The Infiltrator is the most rogue-like class of Mass Effect 2, and combines the versatility of tech skills with the freedom of attacking at long range with sniper rifles. Sniper rifles provide opportunities to eliminate single targets at extreme range, presenting very little risk to the rest of the party. The available tech skills allow you to deal with shielded, armored and regenerating enemies, leaving barriers as the only defense you'll need NPC aid to counter. The Infiltrator is the quintessential sniper class, and an expert at guerrilla warfare.
+The Infiltrator's optimal approach to combat is more or less the opposite of the Vanguard’s. The Vanguard benefits from first eliminating the lower-tier enemies in an encounter, so they can devote full attention to the heavy-hitters such as YMIR Mechs and krogan. The Infiltrator's best approach is to use a high-damage weapon, such as the Mantis or Widow sniper rifles, in combination with all possible damage boosts, and a headshot to eliminate the tougher enemies from a distance. Then switch to a pistol or an SMG for the remainder of the engagement. The Infiltrator’s AI Hacking skill turns enemy mechs against their allies to divert their attention and in addition cause some extra damage.
+
+Powers[]
+Class Powers[]
+Tactical Cloak[]
+Main article: Tactical Cloak
+This is the Infiltrator's bread and butter. Tactical Cloak has many different applications. It can be used for flanking, escaping enemy fire, sniping, or just a straightforward damage boost with any available weapon (and also melee attacks). It has great synergy with all weapon types but especially sniper rifles. This power allows you to move around freely outside of cover and get into a better position before taking an enemy out, but avoid overconfidence: try to keep cover within reach, and remember that enemy attacks not aimed at you can still hit you and break the cloak.  While Shepard's own powers can't be used during Tactical Cloak, it can be a great way to aim your squadmates' powers as you can leave cover to get a clear line of sight to a target.      
+Tactical Cloak's specializations are Enhanced and Assassination Cloak. Enhanced extends the duration to 8 seconds, while Assassination adds a whopping 35% extra damage for a total of 75% bonus damage. Assassination Cloak is best used by one shot one kill snipers for its bonus to damage, while Enhanced Cloak is best used by Infiltrators who enjoy flanking their enemies, going from cover to cover, or just getting up close and personal.
+The cloak can be a double edged sword: on the one hand your damage is boosted and enemies don't target you, however many enemies will go to cover and refuse to pop out when the cloak is activated. One way around this is to take your shot immediately after activating the cloak - the damage bonus will still apply even though you basically were never invisible.  Squadmates can also encourage enemies to pop out of cover.  If both your squadmates are down, then Tactical Cloak will cause enemies to stand still for the duration of the ability, giving you ample time to line up the perfect headshot.
+The damage boost is in practice only a fraction of the listed value, since it's not multiplicative. E.g., for sniper rifles with headshot upgrade, the resulting Assassination Cloak damage is 1.25x the damage without cloak for sniper headshots compared to the 75% listed bonus. Powerful single shot weapons like the Mantis and Widow sniper rifles benefit the most and the cloak can mean the difference between killing with a single shot and not. However, attacking breaks the cloak, so other weapons only benefit briefly from the damage boost (at maximum fire rate 4 shots for the Viper, 3 shots for the Carnifex).
+Leaving the cloak at a low rank (or upgrading other powers first) is a very viable option. Most of the tactical options offered by the cloak work fine at a low rank.
+
+Incinerate[]
+Main article: Incinerate
+Unlocks with Tactical Cloak at level 2
+One of the most useful damage powers in Mass Effect 2, Incinerate burns through armor and health very quickly and is somewhat effective against shields and barriers. It also stops enemy health regeneration, but note that even if an enemy has a single point of armour left, Incinerate will damage the enemy's health but not stop their regeneration. This power can be arced around many pieces of cover as well and can detonate unprotected Pyros. This power overlaps with the sniper rifle with respect to armor and health damage, and can serve as a suitable solution against enemies in cover. Incinerate will also panic most unprotected organic enemies for a few seconds, allowing you to retreat to cover if under heavy fire. The main disadvantage of this power is that it does poor damage to the health of synthetic enemies, making disruptor ammo more important against these targets. Note that a well upgraded Incinerate will be able to destroy the weak shields or barriers of certain organic enemies and also do extra damage to their health. Even a weaker Incinerate can be used to the same effect if an enemy has little shields or barriers remaining.
+It's also worth noting that the Incineration Blast upgrade at level 4 makes this the only damage-dealing AOE ability that an Infiltrator can naturally get. With the high 2.4x damage bonus against armor, even on Insanity, Incineration Blast can fully strip armor of weaker armored enemies like vorcha and husks (slightly better than Heavy Warp damage). Incineration Blast is the better evolution for most Infiltrators, given that Incinerate does respectable damage against anything but synthetic health and will more often than not hit multiple targets. Sniper rifles and heavy pistols with their high armor damage bonus can cover for the reduced damage (compared to Heavy Incinerate) against strong single targets.
+Copious use of Incinerate can drastically reduce ammo usage, which can be in short supply for heavy pistols and sniper rifles.
+
+AI Hacking[]
+Main article: AI Hacking
+Unlocks with Incinerate at level 2
+This is a very situational skill. It is useless against organic enemies, and it cannot affect Mechs or geth unless their armor and shields are down. This includes any attempts to reapply a hack to enemies who still have shields from the last hack you performed. While it is useless in missions wherein there are no Mechs or geth, it can still be a good choice for even a single squad point: a level-1 hacked enemy can at least distract others, affording you several seconds of shooting without taking enemy fire.  At higher levels, a hacked synthetic can serve as an "ally", hacking an enemy again as soon as the last hack runs out, providing a great distraction.  Be aware, however, that your squadmates will not attack a hacked target until the effect wears off.
+
+Disruptor Ammo[]
+Main article: Disruptor Ammo
+Disruptor Ammo is very effective against shields and synthetics (the geth and Mechs). At Rank 2 it can disable synthetic enemies that lack armor and shields; at Rank 3 it has a chance to overheat the weapons of defenseless enemies. This type of ammo has no bonus against biotic barriers, armor, or the health of non-synthetic enemies. 
+Sniper rifles have either no or only a moderate damage bonus against shields, so players who rely upon these rifles may find this power to be useful for increasing the versatility of the weapon. Even for Infiltrators who use sniper rifles more sparingly, Disruptor Ammo can be very useful, particularly on higher difficulties where many enemies are protected with shields. SMGs are naturally suited for destroying shields, and become downright overwhelming when paired with high-level Disruptor ammo. Although it is far less useful against Collectors, at Rank 3 it can still overheat the weapons of unprotected enemies.  On the whole, this ammo power can provide a strategic advantage in a large number of missions and assignments, and is therefore a sensible investment.
+
+Cryo Ammo[]
+Main article: Cryo Ammo
+Unlocks when Disruptor Ammo at level 2
+Cryo Ammo gives a chance for a player to freeze the enemy. This is prevented, however, by the presence of any protection (armor, shields, or barriers), reducing its effectiveness. If you prefer to use an ammo power to give an edge at stripping away any protection, then Cryo Ammo will not suit your preference.  On the other hand, when coupled with the semiautomatic M-97 Viper sniper rifle, it provides unrivaled battlefield control against enemies without special protection, especially when such enemies attack en masse or in confined spaces.  It is also possible to conserve ammo when fighting mobs by simply freezing individual enemies with well-placed shots and ordering squad mates to finish them off.  
+This ammo type loses some of its crowd-control function on Hardcore and Insanity difficulties since every enemy will have some type of special protection, preventing you from freezing them until defenses are stripped. However, used as Squad Cryo Ammo, it will still freeze enemies very frequently and significantly reduce enemy fire. The squad will perform much better with some hand holding (assigning other targets), since frozen enemies will often fall behind cover and the squadmates will happily fire at the cover.  
+Cryo Ammo can still work extremely well on Insanity with the Viper sniper rifle, particularly when bringing a squad good at stripping defenses. The Infiltrators automatic sniper rifle time slowdown can be (ab)used to its fullest extent with the Viper. The Infiltrator can peek out of cover very frequently for one or two shots (the time slowdown is renewed each time), freeze enemies and finish them off once frozen. Headshots are usually easy to achieve. Frozen enemies falling over normally fall slowly and predictably. The damage bonus against frozen enemies will more than make up for not necessarily getting the cloak damage boost (the cloak damage bonus doesn't work particularly well with the Viper anyway).  
+Cryo Ammo is also invaluable for Infiltrators using the cloak for sneaking up on enemies and ambushing them. Frozen enemies can't fight back.
+
+Operative[]
+Main article: Operative (power)
+This is the class power for the Infiltrator in Mass Effect 2. The class skill provides the usual bonuses to health, power cooldown, and Paragon/Renegade bonuses. In addition, this power provides a Sniper Time slowdown and a bonus to its duration, which allows you to use the Infiltrator's signature weapon more effectively. As for specializations, Agent reduces the cooldown for your powers, increases health, and increases Paragon and Renegade points. Assassin, on the other hand, grants more weapon damage, more power damage, and more sniper slowdown while scoped. Assassin would be the better option for those who prefer to use Incinerate or damage-increasing ammo powers because these are further increased by the power-damage bonus. Choose Agent if you want to be able to access Paragon or Renegade options earlier, want the extra health and faster cooldowns, or if you want a longer-lasting Tactical Cloak or AI Hacking.
+
+Notable Bonus Powers[]
+Geth Shield Boost[]
+Main article: Geth Shield Boost
+Geth Shield Boost, the tech based variant of the three defensive powers, is the obvious choice for the Infiltrator. Its improved version is unique in that it offers a 10% damage bonus instead of a longer duration, offering a bonus to defense and offense at the same time, making it a good idea to always have it active. It offers good synergy with native ammo powers, or those offered by allies, as it is an additional bonus. Extremely effective at increasing survivability, though it has some issues with Tactical Cloak, as it has a relatively long cooldown. With some care, it can easily be used with cloak, creating almost unparalleled survivability.
+
+Energy Drain[]
+Main article: Energy Drain
+Energy Drain is an effective alternative to Geth Shield Boost, benefitting from half the cooldown time and yet being able to provide a substantially larger shield boost, as well as supplementing the Infiltrator's Disruptor Ammo as an offensive power vs shields and synthetics. The tradeoff is you must hit enemy shields or synthetic enemies in order to boost your shields and the size of your shield boost relies on how much damage you're able to deal (so aim for the enemy with the strongest shields). Also, note that although Energy Drain can provide a massive shield boost, you can potentially come under fire whilst your shields are being boosted, thus resulting in less of a shield boost than anticipated. Furthermore, note that your shields cannot be boosted beyond a certain level, i.e. you cannot keep boosting your shields higher and higher with every use. Overall, this bonus power can make an Infiltrator nigh unstoppable against shielded enemies (especially on geth missions), but it has its drawbacks and is completely useless if there are no shielded or synthetic enemies to fight.
+
+Warp Ammo[]
+Main article: Warp Ammo
+Warp Ammo fills the gap left by the Infiltrator's lack of biotic abilities. It's effective against barriers, armor and health, gaining an additional bonus to enemies already affected by biotic abilities. This would be a good investment if you are going up against multiple enemies with biotic barriers, especially on higher difficulties. Warp Ammo also offsets the sniper rifle's inherent lack of penetrating power against barriers.
+
+Armor Piercing Ammo[]
+Main article: Armor Piercing Ammo
+While Armor Piercing Ammo does give a higher damage bonus than Warp Ammo when maxed, it only applies to armor and health. Armor Piercing Ammo makes sniper rifles even more effective versus armor and health, and with Incinerate, it can help punch through the heavy armor of bosses and YMIR Mechs.
+
+Reave[]
+Main article: Reave
+Yet another way to compensate for the Infiltrators lack of effectiveness against biotic barriers. If you go along this path, you can forgo Incinerate and have a packed up skill that can damage both armor and barriers. This power additionally grants temporary health regeneration when used against unprotected organic enemies. With this build in mind you can also invest in AI Hacking and/or Cryo Ammo to produce an effective battle controller rather than pure damage dealer. On the downside, Warp Ammo, the other method of dealing with barriers, has better synergy with the class skill Tactical Cloak. Although this method of stripping enemy from its armor is effective, you already have Incinerate as a base power, making it slightly redundant. A nice side benefit is that when the Reave makes the target jerk upright, it usually makes them an easy target for a quick headshot, as it will likely force them out of cover. Another important thing to note if considering using this power as a substitute for Incinerate is that it cannot be arced around cover, which can make it difficult to target certain enemies.
+
+Neural Shock[]
+Main article: Neural Shock
+Neural Shock is a useful addition to the Infiltrators powers and already gains much of its value at a single talent point investment. Unprotected organic targets hit by Neural Shock will initially stand up straight and are forced to pose for headshots. This is can be quite useful against skittish enemies that like to hide behind cover. Neural Shock is also valuable in instantly stopping charging krogan or varren as well as instantly destroying unprotected husks. Due to its very short cooldown, it does not interfere with using other powers. However, Neural Shock does not work against synthetic enemies and many squad powers are a good alternative.
+
+Dominate[]
+Main article: Dominate
+Only available if you recruit Morinth, this is the organic equivalent of AI Hacking. It seems very useful as a bonus skill, allowing you to control the battle from both sides. Dominate can be a very useful power if utilized correctly; hitting the right enemy will force all other enemies to shift targets and cover to adjust to the Dominated enemy, essentially throwing the enemy ranks into chaos. A quick and skilled sniper can take advantage of this to cause major havoc among the enemy before the effect wears off or the enemy is killed.
+
+Flashbang Grenade[]
+Main article: Flashbang Grenade
+Available after completing Kasumi Goto's loyalty mission from the Kasumi - Stolen Memory DLC, Flashbang Grenade offers strong crowd control capability for the Infiltrator, with the ability to knock enemies out of cover and bypass multiple forms of protection.  It can also serve as a power to deal with Husks, as the knockback effect results in an instant kill. However, the cooldown from this power can interfere with usage of Tactical Cloak and as such may be moderately less useful than other bonus powers.
+
+Stasis[]
+Main article: Stasis
+Available after completing the mission associated with the Lair of the Shadow Broker DLC pack. Stasis can be a very useful bonus power. Not only does it allow you to incapacitate enemies no matter their protection, it also provides a massive damage boost for a second after it wears off, allowing for a one-hit kill headshot on most enemies. It also has a synergy with the Operative class power, allowing you to one hit kill difficult enemies. If you are a skilled sniper, Stasis will allow you to kill any enemy with ease.
+
+Weapons and Equipment[]
+Weapons[]
+Heavy Pistols[]
+Main article: Heavy Pistols
+Pistols can be useful in close quarters and their higher rate of fire, when compared to a sniper rifle, makes them better suited against quickly moving enemies at mid to short range. Pistols are more effective against armored enemies than against enemies with shields or barriers. The major disadvantage of the upgraded pistol is its extremely small ammo capacity. It cannot be used in an extended firefight, so it is difficult to rely on a heavy pistol as a primary weapon. On the other hand, it is also fairly accurate and packs a decent punch, so it can be used as a poor man's sniper, in case you run out of thermal clips for your rifle. The Firepower Pack adds a third pistol, the M-5 Phalanx, which is an extremely powerful pistol. The Phalanx is just as accurate at longer ranges (if not more so) than the M-3 Predator and M-6 Carnifex while still packing a better punch.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Sniper rifles are the single most damaging means of attack for an Infiltrator. Sniper Rifles, like the pistols, are very effective against armored enemies but weak against those with shields or barriers.
+Depending on the play style, each of the sniper rifles can be effective. Mantis and Widow benefit the most from the cloak damage boost. The Viper highly benefits from (ab)using the sniper rifle time slowdown and only peeking out of cover for 1 or 2 shots, each time renewing the time slowdown. Only briefly returning to cover (and not reloading) is very fast and will interrupt many enemies who need some time for aiming.
+Out of the 3 non-DLC sniper rifles, the Mantis is noticeably more problematic with regards to ammunition. Used effectively, there is little difference between Widow and Viper (counted in damage points, ammo reserves and pickup amount are similar). While the Widow benefits more from the cloak damage boost, using squad powers to help with stripping defenses and using Cryo Ammo to boost damage benefits the Viper more.
+If you have the Aegis Pack, then you have access to the M-29 Incisor. The Incisor has 15 shots per thermal clip, but it fires in 3-shot bursts. Although the damage per hit is much lower than the Mantis, it can prove quite useful in heavily populated areas, even taking down 2 or 3 enemies at once. Due to a slight delay between the three shots in the burst, it is possible to fire each shot in a slightly different way, making the burst a unique strategy for a sniper. However, the Incisor suffers from very low ammo reserves and a very low ammo pickup amount.
+
+Submachine Guns[]
+Main article: Submachine Guns
+SMGs are rapid fire weapons that can be used in close range combat. Very effective against enemies' barriers and shields, SMGs have limited accuracy which tends to restrict their effective range. The SMG works as your backup weapon when your primary is out of ammo or you are conserving it for a later fight, and can also be used to take down shields at close range. Especially useful against Praetorians and heavy mechs, it takes down their shields faster then any other weapon, giving the ability to follow-up with a sniper barrage. Note this can be improved with an upgrade for SMGs that causes a passive 50% extra damage to shields. If you have the Kasumi - Stolen Memory DLC pack, then picking the M-12 Locust as your SMG, would serve as another long range weapon. The Locust is a little better at stripping armor than shields or barriers when compared to the other SMGs, but it is fairly accurate even at mid-range. The M-9 Tempest is also a good SMG, and it covers mid to close-range. Although it loses its accuracy when fired continuously and/or at long range targets, it is very good at stripping shields and barriers at close range. Either way, both SMGs would be a good choice for a side weapon.
+
+Heavy Weapons[]
+Main article: Heavy Weapons
+M-100 Grenade Launcher[]
+Main article: M-100 Grenade Launcher
+The M-100 is the first heavy weapon available, obtained during Prologue: Awakening, and is at least an average heavy weapon for the Infiltrator. Because the Infiltrator specializes in long range combat, it can be a good asset—once you learn how to handle the weapon. Because the Infiltrator lacks any real crowd control abilities, the M-100's knockdown ability can help offset that, and provide some breathing room if needed. Even with its low ammo capacity, it is still a good heavy weapon when no other one will do.
+
+ML-77 Missile Launcher[]
+Main article: ML-77 Missile Launcher
+The ML-77 is also a good weapon because it, like the M-100, can be used in just about any situation. Because of its high ammo capacity, if you are going on a long mission, then this might be a good weapon to grab as you leave the ship. The weapon locks on to an enemy, helping you to reach out and touch one of them; but be aware that it may not lock on to the one you want.
+
+M-622 Avalanche[]
+Main article: M-622 Avalanche
+The M-622 may be one of the least useful weapons to the Infiltrator who uses the Cryo Ammo power. Its freeze-effect is also prevented on higher difficulties because it can only affect unprotected enemies. In missions with groups of enemies that are close together it can be used to quickly freeze the group allowing a skilled sniper to dispatch the frozen enemies quickly with the M-97 Viper or M-29 Incisor. Because Husks die when they are frozen, on lower difficulties it can be very useful in missions that have a lot of them. On the other hand, the Avalanche still packs quite a punch against the various forms of protection, has a high ammo capacity, and a high rate of fire. Still, because the Infiltrator has Cryo Ammo, this might be a weapon better left at home.
+
+M-920 Cain[]
+Main article: M-920 Cain
+The Cain is a great heavy weapon if you only have one objective and only plan to use it once. Its extremely limited ammo capacity allows it only to be used once, or maybe twice on a mission with sufficient upgrades and power-cell caches. However powerful, its one-use-per-mission handicap and elongated charge time makes it a weapon that is often  best left on the ship.  Note that an Infiltrator can remain cloaked while charging the Cain.
+
+Collector Particle Beam[]
+Main article: Collector Particle Beam
+Powerful and accurate at long range, the collector particle beam is a good weapon for an Infiltrator. The particle beam's effectiveness at cutting through shields and barriers make it a good choice against Collectors and other similarly shielded enemies. While you are using it, just be careful how much ammo you go through since the weapon does tend to eat through your stock quickly.
+
+M-490 Blackstorm[]
+Main article: M-490 Blackstorm
+The Blackstorm is a good weapon for the Infiltrator, if you like to get close. While it does help in crowd control, it has its limitations, mainly in range and ammo capacity. Again the Blackstorm can be very useful when you need crowd control abilities, but apart from that, the weapon really doesn't have much use. Range is a problem, because you get less accurate the further away you are, so using the weapon at closer range is always a better idea.
+
+M-451 Firestorm[]
+Main article: M-451 Firestorm
+Unless you are the Infiltrator that prefers close combat, then the Firestorm isn't the weapon for you. Because of the extremely limited range of the weapon, and because of the Infiltrator's speciality in long range combat, getting up close is likely to be a last resort. While it does carry lots of ammo, you have to get close to your targets in order to use the weapon effectively. For the most part, unless you're the close-encounters Infiltrator, it might be best to select another weapon.
+
+Arc Projector[]
+Main article: Arc Projector
+If you are going up against a lot of synthetics, then grabbing the Arc Projector before leaving the Normandy might be a good idea, since this weapon is great at destroying synthetic enemies and shields.  But it is also quite powerful against all other forms of protection, and can both damage and stun multiple unprotected opponents—even organics—with one shot. The Arc Projector also works relatively well at range. The weapon has a two-second charge time before it fires, so make sure your own shields are up before sticking your head out. A good weapon for Infiltrators since it, like the Cain, does not disengage Tactical Cloak while charging it; so you could cloak first, then line up the perfect shot in relative safety, and return to cover after you fire and the cloak is deactivated. However, keep in mind that the weapon does have a limited range, roughly 20-25 meters, so beyond that you should stick with the sniper rifle.
+
+Advanced Weapons Training[]
+During the mission aboard the Collector Cruiser, there will be the option of training in the usage of assault rifles, shotguns, or the M-98 Widow.
+
+Assault Rifles[]
+Main article: Assault Rifles
+Assault rifles are a good choice if you want to avoid getting too close to your targets. You get access to the M-8 Avenger, the M-15 Vindicator, and on Hardcore and Insanity difficulties, the Geth Pulse Rifle. Each of these weapons are good at keeping enemies at a distance, and still leaving your sniper rifle as a viable weapon. If you like distance, then picking assault rifle training would not be a bad decision. The Firepower Pack also adds the M-96 Mattock semi-auto rifle, which is somewhat redundant given the Infiltrator's proven effectiveness against armored enemies. The M-12 Locust SMG, available with the Kasumi DLC, can cover the same ground as Assault Rifles however, being a mid-range weapon decent against both shields and armor. Regardless, Assault Rifles are a good choice and wouldn't go to waste if chosen.
+
+Shotguns[]
+Main article: Shotguns
+Shotguns cover close range, which, for Infiltrators, is normally covered only by SMGs and Heavy Pistols. Because Infiltrators normally deal with things at long range, shotguns might not be your first choice. For Infiltrators who enjoy flanking their enemies with Tactical Cloak, or Infiltrators who aren't comfortable with SMGs and Heavy Pistols covering the close range, Shotguns are a good choice. However if you like to keep your enemies at range and pick them off before they even get close, then this might be a bad option. Just remember that they aren't good at range, so if you pick up shotgun training, then watch your ammo and how you use these weapons. The Firepower Pack also adds the Geth Plasma Shotgun, a mid-range, extremely powerful shotgun. The Geth Plasma Shotgun is a good weapon against small groups and can devastate enemies that just happen to be alone. This shotgun also has good synergy with Tactical Cloak, especially the Assassination variant. Begin charging the weapon, cloak (it will not interrupt the charge), maneuver towards the intended target(s), and let go of the trigger. This is capable of devastating the toughest of enemies, even on the harder difficulties. Just make sure that there is adequate cover to get behind before attempting this.
+
+M-98 Widow[]
+Main article: M-98 Widow
+The M-98 is the most powerful sniper rifle in the game, and shares many features with the M-92 Mantis, mainly its lack of ammo and one (powerful) shot per thermal clip. However the Widow can usually drop enemies in one hit, so it can be a valuable asset to a good sniper. With the addition of Disruptor Ammo, the Widow is capable of tearing through shields and destroying all enemies. The ammo limitation is the only real drawback of the weapon, however with different armors, or armor parts, then it can be offset a little, and if you are already effective using the Mantis despite its low ammo, with maximum upgrades, the Widow will have 13 shots to the 10 shots from the Mantis, so this shouldn't be an issue. If you aren't a good sniper or you have trouble keeping enemies at range, however, then selecting one of the other two training options might be a better idea. Infiltrators who find that they are good at the "one shot, one kill" style with the Mantis, and are comfortable using SMGs or Pistols to cover anything that gets too close should strongly consider the Widow, as it only improves upon the Mantis.
+Even when this weapon can't drop an enemy in one hit it will still do a staggering amount of damage per shot particularly against armor. It's worth noting that all of the toughest enemies in the game, as well as virtually every boss including the final one, have armor as their primary defense which makes this the supreme boss-killing weapon once you get all the Sniper Rifle upgrades. For an Infiltrator that likes and is good at using sniper rifles, the benefits of getting this weapon are so great that they may want to consider doing the Collector's Ship mission as soon as possible so that they can use the Widow for as much of the game as possible, even though that mission could be quite difficult at the low level that you will likely be at the time.
+
+Combat Guide[]
+Combat with the Infiltrator should be done at range, keeping enemies at a distance, and covering your squadmates. Use the Infiltrator's weapons to stay at a distance and drop enemies from afar. Send in your squadmates first and then find a spot, and use your sniper rifle to cover them. If your enemies get closer, then switch to your SMG or pistol to deal with that situation. Many enemies stay behind cover, so you may have to invest in some shield upgrades because if you plan to snipe, especially if you get close, then you might have to keep your head out a while to get the target in your crosshairs. If you are a true believer in the "One Shot, One Kill" mantra and want to exploit it to its fullest, the combination of Assassination Cloak, Assassin, and the M-98 Widow rifle will ensure maximum damage per shot. When pursuing this type of pure sniper strategy, the Terminus Armor is an often overlooked yet invaluable option, as it gives you a 10% increased ammo capacity, and the 10% increased storm speed will often make up for the 2 second shorter duration in your cloak, allowing you to reach cover either before or only slightly after your cloak wears off. 
+Finally, you should never forget the power of the M-5 Phalanx as a long range weapon and even a targeting aid. It is available the moment you start the second mission, and can act as a low-power sniper rifle. Its shots do more damage than the M-97 Viper; however, it carries half the ammunition and fires more slowly. It also has a targeting laser when you zoom with it, which can be used to increase its accuracy.
+Using the Infiltrator against synthetics means putting a few points into Disruptor Ammo. This power can be invaluable during protracted engagements against the geth and shielded enemies, so putting a few points there wouldn't be a bad idea. The AI Hacking is a very situational power, so it is better not to spend valuable points for few missions. Better to use Tali. The Tactical Cloak also has a lot of potential if it is upgraded. The ability to cloak, then be able to shoot, then get back into cover, can be invaluable during engagements when you need to get a level up on your enemies. If you are on higher difficulties, then leveling up Incinerate to level 4 couldn't go to waste as you need to blast through armor, and it can be very useful against organic enemies as well. If you are on lower difficulties, putting a few points all around wouldn't waste the Infiltrator's abilities.
+
+Squad Members[]
+Because the Infiltrator has no special abilities to deal with biotic barriers, bringing along Miranda would be a solid choice. Because she can also deal with enemy shields, she complements the Infiltrator nicely. Concussive Shot can also be useful against barriers, so consider bringing a squadmate with it.
+The Infiltrator is well-rounded and therefore almost any combination of squad members, as long as you have a biotic, would be a good combination. 
+If you are a dedicated sniper and are good at getting the critical shots you will likely find that you rather significantly out-damage most of your squadmates with weapons against standard enemies (barring Husk Rushes). Squadmates with automatic weapons will often fire full continuous clips at enemies that have recently ducked behind cover, and enemies hit by weapon-fire often try to get to cover quickly afterwards barring a rush, so a fair chunk of your squadmate firepower will be wasted. The only allies that can even reasonably keep up with you in weapon-based damage output, especially if you picked up the M-98 Widow, are those that use sniper rifles, i.e. Thane, Garrus and Legion; keep that in mind when picking allies for a mission.
+For a biotic squadmate, Thane adds another sniper rifle, but also has Warp and Throw, two powerful biotic abilities. Another biotic choice is Samara, because she has Throw and Pull, can use an assault rifle, and once Reave is unlocked, is useful against barriers. Jack's abilities are also worth considering as she has a shotgun, which is useful against close-up enemies, Shockwave, which is very good at crowd control, and access to Squad Warp Ammo, in case you are fighting enemies with barriers. Jack's combination of Shockwave and Shotguns makes her one of the best in the game at dealing with Husk rushes as well, though this can also be handled personally via Incineration Blast or other wide area abilities if you have need of someone other than Jack. Garrus often makes the perfect complement to Jack due to his access to Overload and Assault Rifles. Grunt also makes an excellent choice, since his incredible durability and close/medium range arsenal make a perfect compliment to the Infiltrator's long-range tactics, as long as nobody slips past him. If you have attained Squad Warp Ammo as your loyalty power, the combination of Grunt and Garrus is particularly lethal, as their combined weapons cover every range, and you won't need the ability to break down Barriers as much as you otherwise might.
+Overall, the Infiltrator is good at range and dealing with shields, armor, and synthetics, so you should bring along squadmates that can provide crowd-control abilities, biotics, and some combat abilities, which would make a good squad for just about every situation. Still, a good squad for an Infiltrator is just about any combination you can think of; all you really need to worry about is tailoring it to the situation you will be facing.
+For a dedicated sniping Infiltrator equipped with the M-98 Widow, and if you pick Warp Ammo as your bonus power and upgrade it plus Disruptor Ammo to the Heavy version you will be a one-man anti-everything monstrosity. Sniper rifles are already excellent against armor. Your only weakness will be against AoE crowd control, such as against a Husk rush. Because of this it would be a good idea for ALL of your potential squadmates that you choose the wide AoE version of their offensive skills and for those with Ammo powers to upgrade them to the Squad version. For extra anti-armor and anti-boss fighting power, bring Garrus along with a squad-based Armor-Piercing Ammo to boost your own weapon to even stronger levels. 
+
+
+
+
+
+Mass Effect 2 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Upgrades • Planet Scanning
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • No One Left Behind • Data Hound • Merchants  Research Guide • Interrupts
+
+
+
+

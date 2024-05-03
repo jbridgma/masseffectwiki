@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+Disruption Drone
+
+
+
+
+Faction
+CAT6
+
+
+Type
+Synthetic
+
+
+Abilities
+ Kamikaze Attack
+
+
+Shields
+Moderate
+
+
+Locations
+Citadel
+
+
+The Disruption Drone is a CAT6 unit encountered in Mass Effect 3. It is deployed by CAT6 Specialists.
+
+See also: Drones
+Capabilities[]
+Offensive
+Once deployed, the drone will move slowly and seek out targets, usually at their last known position. When Shepard or a squadmate enters its detection range the drone halts briefly, sounding an alarm before it kamikazes towards its target, dealing heavy damage to the target's shields (usually depleting them). This attack does not damage health.
+Defensive
+Disruption Drones have no defensive capacity beyond their shielding. A drone will dissipate if the CAT6 Specialist that launched it is killed.
+
+Tactics[]
+Disruption Drones are entirely silent other than for the beeping right before they attack, so be wary of getting flanked. As long as any Specialists are active in an area, just assume drones will be heading your way regularly.
+Shooting Disruption Drones down before they reach you is the most obvious method of dealing with them, though ammo is a more limited resource during Citadel Wards: Ambush and the drones' shields are surprisingly robust, so this may not be wise.
+Should you become targeted, rolling or simply moving out of the path of attack should allow you to evade damage, and this is also a fairly painless way to "kill" the drone as well. Time the dodge for when you hear the attack "alarm" sound as the drones don't track your movements at that point.
+Since Disruption Drones don't damage health, simply tanking their hits is a viable option especially if you have a high rate of shield recharge or possess an ability that can instantly restore shields such as Defense Matrix.
+As with all shield-protected enemies, Overload, Energy Drain, and Disruptor Ammo are very effective.
+Sabotage will force the drone to either cease attacking or go after its former allies.
+Stasis has no effect on Disruption Drones even though they are not armored.
+Tactical Cloak will render you invisible to Disruption Drones as long as you have squadmates and at least one is not downed. Since you have no squad during the opening portions of Citadel Wards: Ambush, Disruption Drones CAN detect you while cloaked.
+Disruption Drones almost always ignore Combat Drones and Sentry Turrets.
+
+
+Mass Effect 3 Enemies
+
+
+CAT6
+
+Brooks • CAT6 Heavy • CAT6 Sniper • CAT6 Specialist • Clone • Disruption Drone
+
+
+Cerberus
+
+Adjutant • Assault Trooper • Atlas • Centurion • Combat Engineer • Dragoon • Dr. Eva • Guardian • Kai Leng • Legion Assassin • Nemesis • Phantom • Rampart Mech • Turret
+
+
+Collectors
+
+Abomination (Possessed) • Collector Captain (Possessed) • Collector Trooper (Possessed) • Collector Web • Praetorian (Possessed) • Scion (Possessed) • Seeker Swarm (Plague)
+
+
+Geth
+
+Combat Drone • Geth Bomber • Geth Hunter • Geth Prime • Geth Pyro • Geth Rocket Trooper • Geth Trooper • Geth Turret
+
+
+Reapers
+
+Banshee • Brute • Cannibal • Harvester • Husk • Marauder • Ravager • Swarmer
+
+
+
+

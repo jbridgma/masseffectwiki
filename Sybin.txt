@@ -1,0 +1,61 @@
+
+
+
+
+
+Sybin
+
+Region
+Milky Way / Voyager Cluster / Amazon
+
+
+
+
+
+Planet View
+
+
+Orbital Period
+15.1 Earth Years
+
+
+Radius
+4,645 km
+
+
+Day Length
+62.6 Earth Hours
+
+
+Atm. Pressure
+0.18 atm
+
+
+Surface Temp
+−169 °C 
+
+
+Surface Gravity
+0.5 g
+
+
+Mass
+0.263 Earth Masses
+
+
+Location: Milky Way / Voyager Cluster / Amazon System /  Fourth planet
+
+Description[]
+A small rock and ice planet, Sybin has an extremely thin atmosphere of hydrogen sulfide and ethane. Its frozen surface is mainly composed of magnesium and silicates with deposits of iron.
+Sybin's crust contains significant deposits of green serpentine, a mineral formed by volcanic activity. This suggests Sybin was a more geologically active world in the distant past.
+
+Survey Text[]
+
+“While scanning the planet Sybin, you discovered a large mine grid in geosynchronous orbit. With help from Navigator Pressly, your recon team recovered a small unmanned probe marked with the Quadim Outpost insignia.”
+
+
+Assignments[]
+Collection: UNC: Turian Insignias: Insignias ×1 (Quadim Outpost)
+
+
+

@@ -1,0 +1,170 @@
+
+
+
+
+
+Quarian Marksman Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Quarian
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Retaliation
+
+
+Abilities
+Combat LeapIncendiary Omni-Blade
+
+
+Quarians have spent centuries at perpetual salvage and ship repair--the survival of their species depends on this technical expertise.
+The Quarian Marksman is a pugnacious tactician that, after assessing the situation, will just as soon blister the field with explosives as pick off enemies from a distance.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 500 / Health: 500
+
+
+Class: Quarian Defender
+
+
+ Marksman
+
+
+
+
+ Tactical Scan
+
+
+
+
+ Sabotage
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Quarian Marksman Soldier executes a series of up to three punches.
+Heavy Melee (Incendiary Omni-Blade) – The Quarian Marksman Soldier strikes with an omni-blade charged with incendiary energy.
+Grab (Omni-Blade Stab) – The Quarian Marksman Soldier drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Leap) – The Quarian Marksman Soldier jumps out of the way of incoming attacks.
+The Quarian Marksman Soldier can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The Quarian Marksman is a class capable of dealing a lot of damage in few seconds while rendering enemies defenseless. Combining the increased accuracy and rate of fire of Marksman with the stacking damage bonus of Tactical Scan and Sabotage (if evolved to do so), the Quarian Marksman is especially useful for taking down large enemies like Atlases, Banshees and Praetorians.
+Because cooldowns remain important to this class, weight should be an important factor in weapon selection.
+Sabotage remains a highly situational skill; it is useful against Cerberus and geth, but less useful against Reaper or Collector forces. Sabotage may not be worth investing all 21 points into because it competes with Marksman and Tactical Scan for cooldown time and because it remains a situational power.
+The Tactical Scan, Marksman, and Quarian Defender powers all have evolutions which increase weapon damage-per-second and headshot damage.  High-accuracy rifles, shotguns equipped with the Shotgun Smart Choke mod, and heavy pistols with the Pistol Cranial Trauma System mod are recommended for a Quarian Marksman who specializes in headshots.
+Tactical Scan can be evolved to provide a maximum of 32.5% extra power damage against enemies, and Sabotage's Rank 6 Tech Vulnerability evolution increases tech damage against a target by 50%.  Combined, these two debuffs allow squadmates focused on tech powers to inflict devastating damage against strong targets.
+The Quarian Marksman has 100 less shields than the other quarian classes so he is a little bit more flimsy. To compensate, an update was put in to increase the damage they can potentially inflict. When all weapon upgrades to damage are obtained, a 30% damage boost is given to weapons, where other Quarians would only gain a 22.5% damage increase.
+Cerberus[]
+The Level 6 Area Scan evolution of Tactical Scan is very useful for revealing enemies through smoke or cloak.
+Sabotage can hack Atlases and Turrets.
+Sabotage can help the Quarian Marksman bring their firepower to bear against Atlases and Turrets, since a hacked synthetic won't be firing upon them.
+Collectors[]
+The Quarian Marksman is one of the more effective classes against the Collectors. Tactical Scan combined with Marksman can make short work of Scions and especially the major threat, Praetorians.
+Marksman provides an immunity to the power-disabling and accuracy-reducing effects of Seeker Swarms, and its focus on weapon damage makes Swarms less of a threat anyway.
+The Marksman can struggle against the endless waves of Abominations without any truly effective crowd-controlling power; Sabotage can stun them, but it's generally vital to shoot down Abominations before they get close. Having teammates with good disabling powers such as biotics can be a definite boon.
+Geth[]
+Sabotage can hack all geth units, but its long cooldown limits power usage. However, it is useful to delay the actions of dangerous enemies with deadly ranged attacks such as Geth Rocket Troopers, Geth Bombers and Geth Primes.
+The Quarian Marksman shines against the Geth.  Geth heads are easy to target to ensure maximum headshot damage and Sabotage will not only turn any enemy against their former allies but also provide a safe period for the Marksman to fire upon a hacked enemy without fear of retaliation from their target.
+Tactical Scan will kill  Geth Turrets and enemy Drones instead of causing its normal effects.
+The Tactical Scan evolution Area Scan can also be used to reveal where Geth Hunters are - however, its effects wear off quickly.
+Tactical Scan can be used to fantastic effect on Geth Primes - it allows a player to then easily strip its shields with Marksman, and then to kill it with a weapon upgraded with anti-armor ammo.
+Reapers[]
+Tactical Scan, combined with Marksman, can make short work of heavy enemies such as Brutes and Banshees.
+Tactical Scan will kill Swarmers instead of causing its normal effects.
+Sabotage is useful only against Marauders, since only they have a firearm to be sabotaged.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

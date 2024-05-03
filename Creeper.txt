@@ -1,0 +1,94 @@
+
+
+
+For the narcotic, see Drugs#Creeper.
+
+
+Creeper
+
+ 
+
+
+
+
+
+
+
+Faction
+Remnant
+
+
+Weapons / Attacks
+Melee
+
+
+Abilities
+–
+
+
+Health
+Very Low
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Creeper is a Remnant unit. They are the synthetic small bug equivalent of wildlife.
+Creepers turn aggressive only if an enemy is within biting distance. While Pathfinder Ryder is aboard the ND1 Nomad, the creatures may swarm the vehicle but will not exhibit any hostile behavior unless provoked. Around certain Remnant structures, destroyed creepers are replaced by new creepers after a short time.
+
+Scanner Information[]
+Creeper
+
+
+DATA:
+Classification: Remnant
+Origin: Andromeda
+ANALYSIS:
+Creepers seem to maintain and support Remnant hardware and systems. They make rounds, likely assessing system functionality. 
+
+Capabilities[]
+Offensive
+Creepers only have a biting melee attack.
+
+Defensive
+Creepers are unprotected by shields, armor, or barriers.
+
+Tactics[]
+Creepers are more nuisance than threat and will go down quickly to the weakest weapons or skills.
+The critters usually attack en masse, making them vulnerable to splash damage weapons or crowd control skills.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

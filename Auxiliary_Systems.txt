@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Auxiliary Systems is a passive Tech skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Improves the effectiveness of tech powers and constructs in a variety of ways, thanks to customized omni-tool and hardsuit subsystems.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Duration
+
+
+
+Increases tech effect duration with each skill point invested in the Tech Skill Group.
+
++2% Tech Effect Duration
+
+
+2
+
+Force
+
+
+
+Increases tech power force with each skill point invested in the Tech Skill Group.
+
++2% Tech Force
+
+
+3
+
+Constructs
+
+
+
+Improves tech construct health and damage output with each skill point invested in the Tech Skill Group.
+
++2% Tech Construct Damage
++2% Tech Construct Health
+
+
+
+4
+
+Weapon Mass Reduction
+
+
+
+-
+
++40% Weapon Weight Capacity
+
+
+4
+
+Priming
+
+
+
+Increases combo detonation priming rate for guns, melee attacks, powers, and constructs (for attacks that don't prime instantly).
+
++100% Combo Priming Rate
+
+
+5
+
+Enduring Tech
+
+
+
+Increases the duration of the user's ongoing tech power effects on enemies and allies.
+
++15% Tech Effect Duration
+
+
+5
+
+Impact Dilation
+
+
+
+Increases the radius of all tech powers that affect an area (including the area attacks of tech constructs).
+
++15% Tech Area of Effect Radius
+
+
+6
+
+Shield Feedback
+
+
+
+Begins shield regeneration immediately, eliminating any delay, when a tech power is activated. Only functions once every 12 sec.
+
+-
+
+
+6
+
+Omni-Vents
+
+
+
+Improves all recharge rates for currently recharging powers by 50% when a tech power is activated. Only functions once every 15 sec.
+
+Power Recharge Time Rebate: 50%
+
+Player Notes[]
+Mechanics
+Auxiliary Systems will only work while using Tech Skills.
+Rank 4 Weapon Mass Reduction adds 40 points of Weight Capacity, rather than %.
+Strategies
+Rank 6 Shield Feedback synergizes very well with Team Support's Rank 6 Life Support by allowing Ryder to periodically restore both Shields and Health simultaneously when using any Tech power.
+Availability[]
+Single-player: Pathfinder Ryder - Starting Tech Skill
+Multiplayer: N/A
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

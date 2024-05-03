@@ -1,0 +1,201 @@
+
+
+
+
+
+
+
+This article is about the enemy in Mass Effect. For the character in Mass Effect 3's multiplayer mode, see Geth Juggernaut Soldier. For the class power used by the Geth Juggernaut Soldier character, see Geth Juggernaut (power).
+
+The Geth Juggernaut is a heavy geth infantry platform, seen in Mass Effect and Mass Effect: Infiltrator.
+
+Contents
+
+1 Mass Effect
+
+1.1 Tactics
+
+
+2 Mass Effect: Infiltrator
+
+2.1 Tactics
+
+
+3 Trivia
+
+
+Mass Effect[]
+
+
+
+
+
+
+
+Geth Juggernaut
+
+
+
+
+Race
+Geth
+
+
+Type
+Synthetic
+
+
+Armament
+Geth Pulse Rifle
+
+
+Abilities
+ Distortion Rocket
+
+
+Health
+Moderate
+
+
+Shields
+Very High
+
+
+Locations
+Therum, Noveria, Feros, Virmire, Ilos, the Citadel, Solcrum, Pinnacle Station
+
+
+Geth Juggernauts are recognizable by their red armor, bright red "flashlight eyes" and huge stature. Like the Geth Prime, they tower above the ground, an intimidating presence on the battlefield. They're equipped with pulse rifles modified to fire Distortion Rockets, similar to weaker Geth Rocket Troopers.
+
+Tactics[]
+Juggernauts possess four to six bars of shielding; as is the case with all Mass Effect enemies, it will regenerate over time. Their health is considerably higher than usual, but it doesn't regenerate, similar to other synthetic enemies, unless aided by a Repair Drone. They don't move around much and rarely use cover.
+Their Distortion Rockets don't travel very fast and can be dodged rather easily at medium and long range. They do a lot of damage, however, and can easily kill weakened or low-level Shepard with a single shot.
+Due to their lack of secondary weapons, Sabotage will leave them completely defenceless until their weapons cool off. Overload and Warp are both good abilities to lower their defenses and make them more vulnerable. Keep in mind that due to their size, low-level Throw and Singularity wouldn't affect them.
+If accompanied by a Geth Repair Drone, destroy the drone first to prevent it from regenerating the Juggernaut's health.
+On Feros, they're often encountered in small groups, supported by Geth Armatures. Under these circumstances, killing them outside of the Mako is very difficult, but will yield you more experience.
+Being synthetic, Juggernauts can be turned over to your side using Master-level AI Hacking. They make for excellent allies due to their powerful weapons and defences. Beware that if there are no geth in its line-of-sight, it will continue to attack you.
+
+Mass Effect: Infiltrator[]
+
+
+
+
+
+
+
+Geth Juggernaut
+
+
+
+
+Type
+Geth
+
+
+Armament
+Geth Plasma Shotgun
+
+
+Abilities
+None
+
+
+Health
+Moderate
+
+
+Armor
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Ice Giant, Comm Relay, Access Corridor
+
+
+
+Geth Juggernauts are large, powerful geth infantry units armed with a Geth Plasma Shotgun. They are protected by a moderate level of shields and armor.
+
+Tactics[]
+They're the first enemy unit in the game to possess both shield and armour, and as such, can be considered the game's first boss-type adversary. Like with other enemies, their shielding will regenerate over time.
+Like other enemies in the game, Juggernauts are vulnerable to headshots. Due to their size, it is particularly easy to do that.
+Since they're equipped with shotguns, they're only dangerous at short range and their slow movement speed leaves you plenty of time to shoot them. Regular Geth Troopers should thus be targeted first due to the greater range of their weapons.
+Most of the time, Geth Juggernauts are dropped by a geth dropship and can then quickly arrive in range for their shotgun.
+Due to their tall size, their shotgun blasts can still hit you over small cover at minimum range. Move to a crate or wall for better protection.
+These enemies fight well against Cerberus troopers and can shoot over Riot Trooper's shields. Pick off pinned cerberus units before moving onto the juggernaut.
+Juggernaut's are capable of a strong melee attack at close range. It is unwise to attempt to use slide or melee against them.
+They cannot be stunned whilst their armour is still active.
+Trivia[]
+A juggernaut in current English usage, is a literal or metaphorical force regarded as merciless, destructive, and unstoppable. This English usage originated in the mid-nineteenth century, and was adapted from the Sanskrit word Jagannath, a title given to the Hindu god Krishna, meaning "lord of the world."
+
+
+
+Mass Effect Enemies
+
+
+Geth
+
+Husk • Geth Trooper • Geth Destroyer • Geth Recon Drone • Geth Sniper • Geth Shock Trooper • Geth Armature • Geth Colossus • Geth Rocket Drone • Geth Assault Drone • Geth Repair Drone • Geth Ghost • Geth Sapper • Geth Stalker • Geth Turret • Geth Prime • Geth Juggernaut • Geth Rocket Trooper
+
+
+Krogan
+
+Krogan Bouncer • Krogan • Krogan Warlord • Krogan Commander • Krogan Warrior • Krogan Battlemaster • Blackmailer
+
+
+Batarian
+
+Batarian War Beast • Batarian Shock Trooper • Batarian Rocket Soldier • Batarian Engineer • Batarian Sniper • Bodyguard • Batarian Trooper
+
+
+Cerberus
+
+Cerberus Commando • Cerberus Sniper • Cerberus Anti-Tank • Research Technician
+
+
+Drones/Turrets
+
+Advanced Assault Drone • Advanced Rocket Drone • Defense Drone • Alliance Heavy Turret • Turret • Defensive Turret • Heavy Turret
+
+
+Mercenaries
+
+Crime Boss • Mercenary Anti-Tank • Mercenary Sniper • Mercenary • Mercenary Adept • Pirate • Pirate Sniper • Thug • Assassin • ERCS Guard • Biotic Terrorist • Biotic Cultist • Biotic Terrorist Leader
+
+
+Other
+
+Rachni Soldier • Rachni Worker • Rachni Brood Warrior • Thorian Creeper • Test Subject • Asari Clone • Indoctrinated  • Darius Retainer • Scientist (Asari) • Bartender • Warehouse Worker • Thresher Maw • Varren • Varren Alpha • Colonist • Salarian Bodyguard • Turian Bodyguard • Scavenger • Asari Commando
+
+
+Named Enemies
+
+Tonn Actus • Saren • Menos Avot • Balak • Matriarch Benezia • Calantha Blake • Helena Blake • Hollis Blake • Charn • Chorban • Dahlia Dantius • Lord Darius • Macha Doyle • Doctor Droyas • Fist • Elanos Haliat • Alestia Iallis • Inamorda • Jax • Julia • Ledra • Hana Murakami • Arcelia Silva Martinez • Ian Newstead • May O'Connell •  Davin Reynolds • Greta Reynolds • Doctor Saleon • Kaira Stirling • Captain Ventralis
+
+
+
+
+Mass Effect Infiltrator Enemies
+
+
+Cerberus personnel
+
+Assault Trooper • Assault Captain • Centurion • Engineer • Riot Trooper • Trooper • Sniper
+
+
+Synthetic
+
+Geth Trooper • Geth Juggernaut • Grad Turret • Ogre Mech • Orcus Mech
+
+
+Other
+
+Asari Prisoner • Krogan Prisoner • Inali Renata • Turian • Turian Trooper • Turian Sniper • X1
+
+
+
+
+

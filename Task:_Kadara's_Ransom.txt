@@ -1,0 +1,95 @@
+
+
+
+You found a datapad revealing that the Collective is holding a member of the Outcasts for ransom.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Search For More Datapads On Outcast Members Being Held By Collective
+2.2 Go To The Navpoint
+2.3 Investigate The Bodies
+2.4 Read The Datapad
+
+
+3 Rewards
+4 Trivia
+
+
+Acquisition[]
+This task starts when Pathfinder Ryder has found and read the first datapad on Kadara. The navpoint has been erased so SAM can't determine the location of the exchange.
+
+Walkthrough[]
+Search For More Datapads On Outcast Members Being Held By Collective[]
+Search for more datapads on Outcast members being held by Collective. The datapads are randomly scattered among the camps. Each datapad will be marked with. If a camp doesn't have a datapad, there might be one the next time Ryder goes there. If a camp has a datapad, SAM (or a squadmate) will comment on the presence of the datapad. 
+
+
+
+
+Outcasts and Collective
+We caught one of your Outcast dogs sniffing around our camp. You want him back? Make it worth our while. Bring a generous donation to the navpoint attached, and we'll see about getting this straightened out. And hurry--we tend to get trigger-happy when we have to wait.
+
+
+- Your friends in the Collective
+
+
+
+
+
+
+
+Outcasts and Collective
+You should encrypt your information a little better. We got ahold of a juicy bit of info from your emails--bet the Charlatan would like to see what you've been up to. We'll conveniently misplace this data if you make the right offer. What's our silence worth to you? Bring the goods to the navpoint attached.
+
+
+- Your new Outcast friends
+
+
+
+
+
+
+
+Outcasts and Collective
+You were right. Both factions fell for the messages. Guess everyone has something to hide, don't they? Just need them to both show up at the navpoint. They'll each think the other is trying to play them, someone will start shooting, and before you know it we have all the loot to ourselves. I just have to find a spot to lay low 'til the bloody part's over.
+
+
+You and I are gonna be rich, babe. The future looks bright.
+
+
+
+When you've found three datapads, SAM will give Ryder a navpoint.
+
+Go To The Navpoint[]
+The navpointis located west-northwest of the Forward Station in Sulfur Springs. Upon approach, the mission updates.
+
+Investigate The Bodies[]
+Ryder will find dead bodies from both factions on the ground. 
+
+Read The Datapad[]
+Next to a datapad, the guilty party lies dead as well.
+
+
+
+
+
+Message for Narisse
+Narisse,
+I screwed up. Waited 'til they finished shooting, then came out of hiding. The loot was there, babe. Ready and waiting for us. I got distracted, didn't see one of the Outcasts was still alive. Managed to put her down, but not before she got a shot in where it matters. I'm not going to make it.
+
+
+Bet you're already on Elaaden now. Wish I could've made it there with you. I'm sorry. I love
+
+
+Ryder decides to repurpose the caches for the Initiative.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Kadara viability
+Trivia[]
+A unique Pariah named Narisse may be found on Elaaden.
+
+
+

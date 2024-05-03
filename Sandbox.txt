@@ -1,0 +1,86 @@
+
+
+
+
+Welcome to the Mass Effect Wiki's sandbox!
+This page exists so that you can practice editing or formatting (see Editing help) without changing any serious content. Feel free to try wiki editing out here first.
+There are tutorials available that will step you through more of the things you can do. Wikis allow for rather complicated formatting. It can look overwhelming when you begin, but don't let it worry you. Just start with the basics... enter some text, and learn the other pieces as you go. Your content contributions are welcome and important. The wiki is a collaborative effort and others can help with formatting and other improvements.
+Best wishes!
+
+
+Index for all sub-pages in the sandbox
+
+Contents
+
+1 Simple Editing
+2 Simple Formatting
+3 Formatting for Emphasis
+4 Other stuff
+5 Tables
+
+
+Simple Editing[]
+To edit a page, click on the "edit" tab, usually near the top of the page. Then, edit the box in the page. Feel free to practice here, on this page. It's here just for you to practice.
+A blank line indicates a paragraph separation. Correction, this space is no longer blank.
+You can link to another page by putting the name or title of that page in double square brackets. 
+[[Main Page]] becomes Main Page.
+
+Simple Formatting[]
+Create headers by putting text in between repeated equal (=) signs. The more =, the lower level the heading is.
+Create a bulleted list by starting each item with an asterisk (*)
+
+it's ok to make editing mistakes
+you can preview your work before saving it
+even after saving it, you or someone else can edit it again to make it even better
+Formatting for Emphasis[]
+Put single quote marks around words or phrases for formatting emphasis.
+Two single quotes, like ''italics'' will create italics.
+Three single quotes, like '''bold text''' will create bold text.
+
+Other stuff[]
+If you know HTML or CSS formatting commands, they can also be used in this wiki. One useful HTML command is <br> which creates a line break.
+If you want to show what a command looks like, rather than actually implementing the command, surround it with the <nowiki> command.
+
+Tables[]
+
+
+East
+Central
+West
+
+
+A
+
+B
+
+C
+
+
+5
+10
+15
+
+
+
+East
+Central
+West
+
+
+A
+B
+C
+
+
+5
+10
+15
+
+
+
+
+clear
+
+
+
+

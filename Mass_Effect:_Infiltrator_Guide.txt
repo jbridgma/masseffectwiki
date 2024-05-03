@@ -1,0 +1,75 @@
+
+
+
+Contents
+
+1 Advancement
+
+1.1 Checkpoints System
+1.2 Linear Progression
+1.3 Repeat Checkpoints
+
+
+2 Walkthrough
+
+2.1 Main Plot
+2.2 Bonus Missions
+
+
+3 See Also
+
+
+
+This page contains a full walkthrough for the missions
+of Mass Effect: Infiltrator.
+
+See also: Missions, Mass Effect Guide, Mass Effect 2 Guide, Mass Effect 3 Guide, Storyline
+
+
+
+
+
+
+
+“I like the power.” — Spoilers for Mass Effect: Infiltrator follow.
+
+
+
+
+Advancement[]
+Checkpoints System[]
+The game consists of a series of missions, which are further divided into segments marked by checkpoints. During each segment, the player must navigate the environment and defeat any enemies who appear. Upon completion of a mission segment, the player's performance is analyzed and scored.
+
+Linear Progression[]
+The progression in the game is linear and no choice can be made to do one mission before another. The player needs to finish a mission before unlocking the next one.
+Note: The Bonus Missions are an exception to this system and can be played at any time. However, the progression throughout these specific missions is also linear with the checkpoints system.
+
+Repeat Checkpoints[]
+Once they are unlocked, every checkpoint can be replayed at any time and in any order. This can be done in order to improve your ranking and to earn more credits. This is also true for the Bonus Missions. With credits, players may improve their equipment and abilities via the Store.
+
+Walkthrough[]
+Main Plot[]
+The following missions represent plot progression. They use the Checkpoint system and have no time limit, but each mission must be completed before the next becomes available.
+The missions feature the story of Randall Ezno, a Cerberus operative gone rogue. 
+
+Ice Giant (4 Checkpoints) – Capture a valuable turian target for experiments.
+Hangar Bay (2 Checkpoints) – Reach your handler's office for debriefing.
+Medical Bay (5 Checkpoints) – Discover Director's plan and find your new ally.
+Security Checkpoint (2 Checkpoints) : Reach the X1 Wing.
+X1 Wing (6 Checkpoints) – Survive in a laboratory transformed into a warzone.
+Colosseum (1 Checkpoint) – Confront the oldest test subject of the facility.
+Comm Relay (6 Checkpoints) – Find the communication tower and send a message to the Alliance.
+Access Corridor (6 Checkpoints) – Come back to the hangar bay and steal a shuttle to escape the space station.
+Desert Planet (1 Checkpoint) – Find the Alliance on LV426.
+Bonus Missions[]
+The following mission represents plot progression. It has no time limit, but it uses the Checkpoints system.
+The mission features the story of an unnamed turian after his capture by Randall Ezno.
+
+Incarceration (6 Checkpoints) – Escape the facility with the unnamed turian test subject.
+See Also[]
+Missions
+Store
+Storyline III
+
+
+

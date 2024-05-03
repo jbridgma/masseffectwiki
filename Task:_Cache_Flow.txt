@@ -1,0 +1,61 @@
+
+
+
+You've discovered a Remnant data cache the scavengers have tampered with. SAM can piece together its data if you locate additional caches.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Locate Data Caches
+2.2 Enter The Remnant Facility
+2.3 Acquire The Remnant Data
+
+
+3 Rewards
+4 Bugs
+5 Puzzle Solution
+
+
+Acquisition[]
+Starts when Ryder finds and scans the first Remnant Data Cache at a Remnant site on Elaaden.
+
+Walkthrough[]
+Locate Data Caches[]
+Finding and scanning additional Remnant Data Caches will make it possible for SAM to get a navpoint. Some of them are so degraded they are not useful.
+
+You have to find three additional caches and scan them. The caches are spread randomly among the Remnant sites. Each cache will be marked with . If a location doesn't have a cache, the location might have one on your next visit. If a location has a cache, SAM (or a squadmate) will comment on the presence of the cache. 
+Once enough caches have been scanned, SAM will indicate that the location has been found.
+
+Enter The Remnant Facility[]
+SAM has extracted an entrance code for an intriguing Remnant location. There may be something of value inside.
+The facility is located in the far northeast region of the Sea of Ataraxia.
+Note:  It is advised to make a save before entering because inside the facility several bugs may be experienced. Reloading from this save usually solves the problem.
+
+Acquire The Remnant Data[]
+Defeat the Outlaws in the Gravity Well room. There are a number of small lootable containers to be found througout the entire Remnant facility. Search each area to find these containers.
+Proceed along the corridor. There is a puzzle-locked container. Solving the puzzle counts towards the Cryptographer Achievement. For the puzzle solution, see here. Note that if you get the puzzle wrong, a couple of Observers will show up. At the same time, the Destroyer further down the corridor turns hostile as well.
+Moving down the passage, the big door should open to the next area automatically when Ryder approaches.
+In the next room there is a Remnant Destroyer in combat with Outlaws and their Hydra. Defeat their leftover enemies. If you had triggered the Destroyer due to incorrect answer to the puzzle, you will find it duking it out with the Hydra. You can watch and wait for the survivor (Destroyer) or join the party.
+The navpoint leads to the innermost room. In the innermost room, there are two Adaptive Remnant Core Devices that Ryder can to scan (for a total of +200 ) and then the mission completes. There are also two crates to be looted.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Elaaden viability
+Bugs[]
+Sometimes the puzzle is missing from the puzzle locked container. If this puzzle is needed for the Cryptographer Achievement, reload the latest save and try again.
+Sometimes it's not possible to interact with the container after the puzzle has been solved. Reload the latest save and try again.
+If the big door doesn't open, load the latest save and try again.
+Puzzle Solution[]
+Main article: Remnant Decryption Puzzle Guide
+
+
+
+
+
+Puzzle ContainerReward: Valuable Loot
+
+
+
+

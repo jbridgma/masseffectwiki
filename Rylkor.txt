@@ -1,0 +1,95 @@
+
+
+
+
+
+Rylkor
+
+ 
+
+
+
+
+
+
+
+Faction
+Wildlife
+
+
+Weapons / Attacks
+Spit attackTail whip
+
+
+Abilities
+–
+
+
+Armor
+Normal
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Rylkor is a wildlife unit endemic to Havarl and Kadara. While it superficially resembles certain bipedal dinosaurs, it is an egg-laying mammal.
+Like several large creatures in the Heleus Cluster, the Rylkor rapidly dissolves when killed instead of leaving a carcass, though it may leave behind some items like Renderable Plates. This makes identifying the creature a difficult task, as it can only be scanned while it's alive and aggressive.
+Echidnas share a similar build and classification to the Rylkor, possibly suggesting a relation.
+
+Scanner Information[]
+Rylkor
+
+
+DATA:
+Classification: Mammal
+Origin: Andromeda
+ANALYSIS:
+A lanky, fork-tongued monotreme that lurches on its two hind legs. When provoked, it strikes from a distance with an astringent spit attack; at close range, it swipes adversaries with its agile tail.
+
+Capabilities[]
+Offensive
+It strikes at targets with their tail in close range. At range, it flings a damaging projectile spit.
+
+Defensive
+They are protected by armor.
+
+Tactics[]
+A Rylkor is easily distracted by squadmate fire, or by other adversaries hitting it. Coupled with its slow movement speed, whittling its armor down is par for the course.
+As with other armored targets, skills like Incinerate are handy against these creatures.
+Using a shotgun is advised to bring them down, since they're large enough to be hit with the weapon's full blast at mid range.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

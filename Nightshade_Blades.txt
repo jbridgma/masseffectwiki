@@ -1,0 +1,167 @@
+
+
+
+Nightshade Blades is a grenade power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Nightshade Blades[]
+Launch a short-range volley of venom tipped blades to paralyze non-shielded targets. These blades cause instant damage and poison the target, causing damage over time.
+Blade damage is most effective at close-range. A limited number of these blades can be carried.
+
+Blade Damage: 1200
+Poison Damage Per Second: 50
+Poison Duration: 8 sec
+Paralysis Duration: 5 sec
+Range: 15 m
+
+
+Rank 2: Capacity[]
+Increase blade carrying capacity by 1.
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Blade Damage: 1440
+Poison Damage Per Second: 60
+Poison Duration: 8 sec
+Paralysis Duration: 5 sec
+Range: 15 m
+
+
+Rank 4: Damage/Capacity[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Blade Damage: 1800
+Poison Damage Per Second: 75
+Poison Duration: 8 sec
+Paralysis Duration: 5 sec
+Range: 15 m
+
+
+Capacity
+Increase blade carrying capacity by 1.
+
+
+
+
+Rank 5: Range/Poison Duration[]
+
+
+
+Range
+Increase range by 50%.
+
+Blade Damage: 1800 (Damage), 1440 (Capacity)
+Poison Damage Per Second: 75 (Damage), 60 (Capacity)
+Poison Duration: 8 sec
+Paralysis Duration: 5 sec
+Range: 22.50 m
+
+
+Poison Duration
+Boost the concentration of neurotoxins to increase the paralyze duration by 40% and poison duration by 40%.
+
+Blade Damage: 1800 (Damage), 1440 (Capacity)
+Poison Damage Per Second: 75 (Damage), 60 (Capacity)
+Poison Duration: 11.20 seconds
+Paralysis Duration: 7 seconds
+Range: 15 m
+
+
+
+Rank 6: Enhanced Blades/Exploding Blades[]
+
+
+
+Enhanced Blades
+Boost the concentration of venom in the blades to increase direct damage by 40% and poison damage by 60%.
+
+Blade Damage: 2280 (Damage), 1920 (Capacity)
+Poison Damage Per Second: 90 (Damage), 60 (Capacity)
+Poison Duration: 8 sec (Range), 11.20 sec (Poison Duration)
+Paralysis Duration: 5 sec (Range), 7 sec (Poison Duration)
+Range: 22.50 m (Range), 15 m (Poison Duration)
+
+
+Exploding Blades
+Blades explode after 3 seconds, doing 400 poisonous area damage.
+
+
+
+
+Player Notes[]
+Grenade powers do not have a recharge time and, thus, can be used immediately at any time, provided grenades are available. Using the power consumes one grenade each time.
+If the player has multiple grenade powers, the grenade pool is shared between them.
+The number of blades for this power is dictated by the grenade supply available to the player.
+Nightshade Blades hits all enemies in a fairly large cone-shaped area in front of the player.
+Nightshade Blades is one of the most damaging powers in the game even without taking the considerable damage-over-time into account. The initial damage dealt is more severe at very close range; the power can be thought of like a shotgun blast that fires pellets.
+Nightshade Blades has no ability to set up or trigger Power Combos.
+This power benefits from equipping Gear items that increase the number of grenades that a player can carry. Equipping a gear item that will increase grenade capacity will boost the number of charges for this power.
+Exploding Blades does not end the damage-over-time effect that Nightshade Blades places on a target.
+Paralysis: The paralysis effect of Nightshade Blades is unique to it and the rank 6 Poison Strength evolution of Poison Strike.
+It works like a freeze, turning the affected target into a "statue" for the duration.
+Despite the wording of the in-game text, only ONE target maximum can be paralyzed per cast of Nightshade Blades; all other targets in range are merely staggered. Unprotected targets are staggered more severely than protected ones. The effect prioritizes the closest target hit—if that target can't be paralyzed, then NO target is paralyzed.
+Only unprotected targets (red bar) infantry targets can be paralyzed; this works on synthetic targets as well as Phantoms.
+Only the initial hit of Nightshade Blades can cause paralysis; if a shielded target's protection breaks due to the poison damage-over-time, it will still not become paralyzed.
+Availability[]
+Single-player: N/A
+Multiplayer: Cabal Vanguard
+Trivia[]
+The name "Nightshade Blades" is likely referencing the highly toxic herb Atropa belladonna, commonly known as deadly nightshade, which has a long history of use as a poison.
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

@@ -1,0 +1,168 @@
+
+
+
+
+
+Batarian Enforcer Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Batarian
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Resurgence Pack
+
+
+Abilities
+Enforcement GauntletsToughness/MeleeDecreased Mobility
+
+
+Little is known about the batarian homeworld of Khar'shan or its inhabitants. As a result, the race is judged by those whom the Hegemony allows to travel beyond its borders: organized crime enforcers, pirate boarding parties, slaver gangs, and gladiatorial combatants.
+Batarians are large brawlers that use nets and spiked weapons to capture targets... or to bleed them dry on the battlefield. If an opponent gets too close, a batarian enforcer bludgeons them with spiked armor and enforcement gauntlets.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 750
+
+
+Class: Batarian Enforcer
+
+
+ Ballistic Blades
+
+
+
+
+ Blade Armor
+
+
+
+
+ Inferno Grenade
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Batarian Enforcer Soldier executes a series of two one-handed and a final two-handed blow.
+Heavy Melee (Enforcement Gauntlets) – The Batarian Enforcer Soldier winds up a powerful punch with an omni-tool gauntlet, hitting up to one target. An unprotected foot soldier will be sent flying, and its head is destroyed if the blow is fatal.
+Grab (Enforcement Punch) – The Batarian Enforcer Soldier drags an enemy over cover and then executes them by punching with an enforcement gauntlet.
+
+
+
+
+
+Dodge – The Batarian Enforcer Soldier lacks a dodge maneuver.
+The Batarian Enforcer Soldier can take cover, but cannot roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Builds utilizing only Blade Armor and Inferno Grenade have no need for low cooldown times unless the player is attempting to reactivate Blade Armor after deactivating it.
+Multiple Inferno Grenades will quickly eat through any enemy not protected by shields or barriers. As such, it is a good idea to bring weapons or ammo capable of stripping those protections, such as the Acolyte, or Disruptor Rounds.
+Batarians are unable to evade, making them more vulnerable to instant-kill moves.
+Note also that while batarians are actually faster than regular humans, they are also less defensible than krogan. They are more vulnerable to staggering attacks like Geth Prime pulses and Geth Hunter shots as a result, but are still more reliable for delivery and drone escorting operations than drell or krogan, having more or less the movement speed of the former, and the similar durability of the latter.
+With Ballistic Blades, Batarian Soldiers are lethal at close-quarters, capable of dealing with any enemy, but they are ineffective at range unless using appropriate weapons. Ballistic Blades can be thought of as a shotgun with a cooldown. A build utilizing Ballistic Blades as often as possible should aim for a low cooldown.
+When evolved for Radius, Inferno Grenades can have a massive area of effect.  This can be used to quickly kill the weaker enemies in a group, and prime the tougher ones for a devastating Fire Explosion.  However, the Batarian cannot detonate these combos by himself.
+Cerberus[]
+A piercing or shredder mod is recommended to deal with Guardians.  Ballistic Blades may substitute for a shotgun, allowing a greater diversity in weapon choice.
+Phantoms are agile opponents.  Attempting to simply melee them is not recommended due to the batarian's inability to roll.
+However, using Ballistic Blades to stun the Phantom and then immediately following with a heavy melee makes fighting Phantoms quick and easy. Keeping Blade Armor active will ensure maximum melee damage and counter the Phantom's initial melee attack. Note: The Phantom will still sync-kill after one melee attack, regardless of whether it is successful, so it is a good idea to retreat from the staggered Phantom rather than continue meleeing.
+Collectors[]
+The Batarian Soldier's heavy melee attack destroys an enemy's head on a kill, making it a good means of eliminating Abominations. However, Abominations and Husks can still jump onto you during the lengthy melee animation, so this is not advised if the enemy has already meleed you.
+As with Reaper forces, Collector forces have primarily health or armor for defense, making Inferno Grenade useful, although it is advised to bring a shield stripping weapon or ammo upgrade to deal with the barriers that every unit will receive when possessed.
+Ballistic Blades is effective for simultaneously dealing with Collector Captains and any Seeker Swarms they spawn in a single shot.
+The Collectors always strike and deal damage with their melee blades twice, but Blade Armor will cause the enemy to stagger back after dealing their first blow, thus preventing them from dealing the full damage of both strikes. This allows a batarian a good close quarters advantage against the Collectors over other races.
+Geth[]
+Geth are the only faction that cannot sync-kill, making them a good choice for a melee build. However, close-quarters engagements on geth can be dangerous; they can flank players and stun them with melee attacks, opening them up to attacks from other geth units.
+Batarians, like other races with restricted movement, are especially prone to being staggered by shots from Hunters and Primes.
+Inferno grenades are not effective against shields, which every unit except the basic trooper has, but will be useful for revealing Geth Hunters, whose will be targetable through cloak because of the damage over time effect.
+To maximize effectiveness against geth, a shield stripping weapon or ammo upgrade is recommended.
+Reapers[]
+With the exception of the Marauder and Banshee, Reaper units are either armored or unprotected. Inferno Grenade can take full advantage of this.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

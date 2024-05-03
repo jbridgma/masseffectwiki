@@ -1,0 +1,22 @@
+
+
+
+Someone in the camp has a busted vehicleA busted vehicle outside the camp has a working part for the busted vehicle in the camp1/2A krogan mechanic is interested in a combustion manifold. If one is found while on a mission, he would be very grateful.
+Alternative journal entry:
+A combustion manifold has been found while on a mission near the Weyrloc base. It is in working order, and someone may be able to make use of it.
+
+Acquisition[]
+Prerequisite: Mordin: Old Blood
+
+This assignment is available after first visiting Tuchanka. The mechanic can be found near the back of Urdnot Camp working on the broken tomkah; talking to him will start the assignment. Because the assignment occurs during Mordin's loyalty mission, you will need to talk to the Chief Scout to begin that mission.
+The assignment can be obtained even without talking to the mechanic, resulting in a slightly different journal entry upon gaining the item.
+
+Walkthrough[]
+
+The combustion manifold can only be found while completing Mordin's loyalty mission. Before entering the hospital, take the combustion manifold from the overturned truck. After finishing the loyalty mission, return to the mechanic and hand over the manifold.
+
+Mission Summary[]
+Experience Points: 40 (50)
+
+
+

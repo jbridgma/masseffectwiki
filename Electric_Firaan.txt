@@ -1,0 +1,337 @@
+
+
+
+
+
+Electric Firaan
+
+
+
+
+
+
+General Info
+
+Rarity
+Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+0
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+175-385
+
+
+
+
+
+The Electric Firaan is a melee weapon in Mass Effect: Andromeda.
+
+Contents
+
+1 Description
+2 Features
+3 Strategies
+4 Stats
+5 Development
+
+
+Description[]
+The angaran Firaan is a technologically advanced knife even without embellishment. But the deadly Firaan can be augmented to channel an angaran's unique electromagnetic abilities into a powerful electric shock. This variation's power source uses Initiative technology instead of biology, but delivers the same stunning jolt.
+
+Features[]
+The Electric Firaan is a sidegrade of the Angaran Firaan that sacrifices a significant amount of damage for a chance to briefly stun enemies on a successful hit. This chance appears to be rather low and should not be relied upon in battle.
+Despite the description stating that the Electric Firaan can deliver an electric shock, this weapon is unable to prime a target for an electric Tech Combo.
+Like the standard Firaan, the Electric Firaan appears to have an exceptionally low chance to drop as random loot. Even the Ultra Rare Asari Sword drops far more often on average.
+
+Strategies[]
+With no useful abilities to its name, the Firaan is overshadowed by any melee weapon that deals more damage. The Heleus Research Points required to unlock its construction should be invested in kett melee weapons instead, and any looted examples should be recycled for resources unless the situation is really dire.
+Stats[]
+
+
+Rank
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+
+Melee Damage
+
+175
+
+198
+
+221
+
+245
+
+268
+
+291
+
+315
+
+338
+
+361
+
+385
+
+Development[]
+
+
+Rank
+
+ Research Cost
+
+ Angaran Meditation Crystal
+
+ Shell Filaments
+
+ Lithium
+
+ Vanadium
+
+ Augmentation Slots
+
+
+I
+
+125
+
+30
+
+12
+
+60
+
+20
+
+0
+
+
+II
+
+140
+
+30
+
+15
+
+60
+
+20
+
+3
+
+
+III
+
+155
+
+40
+
+16
+
+80
+
+20
+
+3
+
+
+IV
+
+170
+
+40
+
+18
+
+90
+
+20
+
+3
+
+
+V
+
+185
+
+50
+
+20
+
+100
+
+30
+
+3
+
+
+VI
+
+200
+
+50
+
+22
+
+110
+
+30
+
+3
+
+
+VII
+
+215
+
+50
+
+23
+
+110
+
+30
+
+3
+
+
+VIII
+
+230
+
+60
+
+24
+
+120
+
+30
+
+3
+
+
+IX
+
+245
+
+60
+
+25
+
+120
+
+30
+
+3
+
+
+X
+
+260
+
+60
+
+25
+
+120
+
+30
+
+3
+
+
+Total
+
+1925
+
+470
+
+200
+
+970
+
+260
+
+N/A
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

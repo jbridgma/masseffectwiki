@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Military Training is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Improves Liam's offensive capabilities.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Weapon Training
+
+
+
+-
+
++15% Weapon Damage
++15% Weapon Force
+
+
+
+2
+
+Focus
+
+
+
+-
+
++15% Power Damage
++15% Power Force
+
+
+
+3
+
+Precision
+
+
+
+-
+
++15% Weapon Accuracy
++15% Weapon Stability
++15% All Power Recharge Speeds
+
+
+
+4
+
+Piercing Strike
+
+
+
+-
+
++50% Damage vs. Shields
++50% Damage vs. Armor
+
+
+
+4
+
+Bleeding Strike
+
+
+
+Liam's melee attacks deal extra damage over time.
+
+Damage per Second: 14
+Damage Duration (s): 5
+
+
+
+5
+
+Anti-Armor
+
+
+
+Liam deals more power damage to armored targets.
+
++20% Power Damage Bonus to Armor
+
+
+5
+
+Anti-Shield
+
+
+
+Liam deals more power damage to shielded targets.
+
++20% Power Damage Bonus to Shields
+
+
+6
+
+Power Focus†
+
+
+
+-
+
++25% Power Damage
++25% Power Force
+
+
+
+6
+
+Weapon Focus†
+
+
+
+-
+
++20% Weapon Damage
++20% Weapon Force
+
+
+Note: †Rank 6 is unavailable to Liam until his loyalty mission Liam Kosta: All In is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-Player: Liam Kosta - Starting Combat Skill
+Multiplayer: N/A
+
+
+

@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+This article or section needs to be cleaned up to conform to a higher standard of quality.
+See this article's talk page or the editspace comment following the tag for details.
+
+
+The One and Only is an achievement in Mass Effect 3 that is available with the Mass Effect 3: Citadel downloadable content pack. The One and Only is obtained by selecting the Mirror Match option at the Armax Arsenal Arena and successfully completing the match on Normal or higher difficulty.
+Note:  The Armax Arsenal Arena combat simulator has a bug that caps the game difficulty inside at Normal. Hardcore and Insanity difficulty settings do not apply. For more information see the bugs section of the Arena main page.
+
+Opponents[]
+The match involves three waves. In each wave you will be fighting alternate versions of Commander Shepard. The opponents are based upon the six classes available to players, with combat powers and weapons to match, and in addition a clinching attack similar in effect to that of Husks. Each opponent has shields and armor defenses. Their shields can regenerate but their armor will not.
+Wave One features a Soldier, Engineer and Adept that attack together. Each one grants 500 points upon defeat, but will respawn once each. They have the following powers and weapons:
+
+Soldier - Frag Grenade, Concussive Shot, Carnage, N7 Valkyrie
+Engineer - Combat Drone, Defense Drone, Incinerate, N7 Hurricane
+Adept - Warp, Cluster Grenade, N7 Hurricane
+Wave Two features a Vanguard, Infiltrator and Sentinel that attack together. Again they will each respawn after being defeated. They have the following powers and weapons:
+
+Vanguard - Charge, Nova, Warp, M-11 Wraith
+Infiltrator - Tactical Cloak, Incinerate, Black Widow
+Sentinel - Tech Armor, Warp, Incinerate, M-11 Wraith
+Wave Three features all six classes spawning together and attacking en masse. They do not respawn when defeated, however.
+
+Player Notes[]
+The match is definitely one of the hardest that Shepard can face in the Arena, as the vast number of different attacks can stagger and quickly overwhelm Shepard, especially on Insanity.
+A simple and easy way to getting this achievement is by playing the match on Narrative difficulty and then setting it back to Normal immediately before the last enemy goes down (a red diamond marks the single enemy left).
+Enabling the Enhanced Player Damage match modification will not prevent you from getting the achievement. This can make a big positive difference in your squad's damage output.
+The map chosen will have a significant effect on how easy this mode is. Make sure to try it on one with plenty of evenly spaced cover.
+Pain Train may be the best map to complete this challenge on: hide out in the very corner opposite the spawn points and the enemies will only be able to approach from one direction. You may still get overwhelmed if the clones all pour into the room at the same time, but they at least will not be able to flank you except by ineffectively firing from the other side of the train. The Particle Rifle or M-7 Lancer are necessary for this strategy since picking up ammo won't be possible except between rounds.
+You may wish to forgo the bonuses that spawn after each wave in order to maintain your defensive location, so that you aren't caught away from your safety when the new wave spawns.
+Be wary of Vanguards. It is very important that you do not allow them to charge you, especially when other enemies are nearby. It is easy to end up trapped in a stun lock that leaves you open to being taken down easily.
+The enemies wielding the N7 Hurricane are also very dangerous and should be your priority if Vanguards are not an issue. They can dish out an extreme amount of fire that will down you very quickly. Couple the fact that they have large clips with the AI's excellent accuracy and aggressive mentality and you will find yourself in trouble if you cannot get out of their line of fire quickly. Using nearby cover is not necessarily a good idea as they will simply move into close range quickly.
+The clones tend to focus on Shepard exclusively, so bringing more fragile squadmates like Liara and Tali is not as much of a disadvantage as it might seem, despite the clones' high damage output.
+The Venom is one of the simplest ways to defeat the enemies in this challenge. A Venom X with a level V Shotgun High Caliber Barrel can easily rack up one- or two-hit kills, even on multiple enemies at once. This is particularly true on Pain Train, where your opponents are most likely to clump heavily.
+Some squadmates, such as Wrex and Grunt, appear to be bugged in this fight and won't attack the enemies. If you see a squadmate just following you around instead of attacking, try a different one in the next match. If you want a heavy-hitting squadmate, however, James and Zaeed are not bugged.
+As the enemies feature both shield and armor defenses, you should pick squadmates that can deal damage effectively despite those limits. Ashley, EDI, Garrus, Kaidan, Miranda, and Zaeed are all good examples of squadmates that fulfill that criterion.
+Equipping Shepard with a bonus power effective against enemy shields (such as Energy Drain) or armor (such as Inferno Grenade or Reave) could also be worth considering.
+The clones throws grenades frequently when you're in cover and will launch synchronized volleys of power attacks when you rise up or try to move. These volleys can easily stun lock you and getting hit with one will often get you killed.
+The clone powers have unusual properties; they can 'drag' Shepard out of cover and some always apply force to Shepard's back regardless of where he/she sustained the hit.  If Shepard is not taking cover, many of the clone powers, regardless of enemy position or impact location, will always make Shepard stumble forward.  This makes shooting downward at a clone while near a ledge risky as even a frontal impact will pull Shepard off the ledge (rather than knocking him/her back) and the player will find him/herself facing a clone with Shepard's back against a wall. If Shepard is taking crouching cover outside of a corner, explosive clone skills (such as Warp or Incinerate) that strike that cover, even when fired from a lower elevation, will pull Shepard to the side and out cover and then make him/her stumble forward.  The best cover to fight the clones is long stretches of crouching cover away from ledges and corners; Shepard will stumble 'normally' in those circumstances.
+If you need to expose yourself it may make sense to quickly peek up to trigger a volley and then duck down so that the clones' powers will be in cooldown when you actually try to do something. Be wary that the cooldown period is extremely short, so don't expect more than a brief window.
+The clones appear to be able to see through your Tactical Cloak.
+Because all clones are armored, kinetic biotic powers are only useful in stunning them. It is better to use powers (and bring squadmates with them) that debuff, do damage, and, most importantly, stun the clones so you can hit them back. Grenades are very helpful for this.
+Take advantage of the fact that the clones will only briefly attack your squadmates by positioning them in their spawn area or between you and them. Your teammates will be able to score many good hits as they try to run by and overwhelm you.
+The M-11 Suppressor does extreme damage to the clones on headshots. 3-4 head-shots will kill a clone and can be scored fairly easily on one that is stunned or exposed. Use a Pistol Scope and Pistol Cranial Trauma System for best results.
+If one of the clones gets within melee range, they will often initiate a sync animation similar to that of a husk or abomination where you must break free to regain control of your character. If other clones are nearby, the position you get forced into during the animation can often lead to you dying quickly from being exposed to their attacks.
+
+
+
+
+Mass Effect 3 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Search and Rescue • Equipment and Items
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • Power Combos • PC Tweaks • Interrupts • Merchants • The One and Only
+
+
+
+

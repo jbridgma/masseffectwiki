@@ -1,0 +1,109 @@
+
+
+
+
+
+Jupiter
+
+Region
+Milky Way / Local Cluster / Sol
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+5.2 AU
+
+
+Orbital Period
+11.7 Earth Years
+
+
+Keplerian Ratio
+1.027
+
+
+Radius
+71,492 km
+
+
+Day Length
+9.93 Earth Hours
+
+
+Mass
+318 Earth Masses
+
+
+Satellites
+63
+
+
+Location: Milky Way / Local Cluster / Sol System /  Fifth planet
+
+
+Colony
+
+Species
+Human
+
+
+Population
+9,100 (all moons)
+
+
+
+Prerequisite: Level 20 (Mass Effect)
+
+Description[]
+Jupiter's deep gravity well and lethal radiation have kept its moons from being significantly exploited. The largest outpost is Binary Helix Corporation's Nautilus facility, attached to the underside of Europa's ice sheet.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+5,400
+
+
+Platinum
+
+Medium
+
+5,900
+
+
+Iridium
+
+Medium
+
+6,500
+
+
+Element Zero
+
+None
+
+0
+
+See Also[]
+Cerberus Daily News
+"Life Discovered on Europa" storyline
+
+
+

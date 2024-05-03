@@ -1,0 +1,314 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For the talent in the first Mass Effect game, see Fitness. For the fitness power and its many iterations in Mass Effect 2 and Mass Effect 3, see Fitness (power). For a list of other articles with the term "combat" in the title generally, see Combat (disambiguation).
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Combat Fitness is a passive Combat skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Player Notes
+4 Availability
+
+
+SP Skill Ranks[]
+Intense physical and survival training designed to improve a combatant's stamina and versatility in battle. 
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Health
+
+
+
+Increases maximum health with each skill point invested in the Combat Skill Group.
+
++2% Max Health
+
+
+2
+
+Shields
+
+
+
+Increases maximum shield rating with each skill point invested in the Combat Skill Group.
+
++2% Max Shields
+
+
+3
+
+Extra Holster
+
+
+
+Up to three weapons can be equipped at once and carrying capacity is increased.
+
++1 Weapon Loadout Size
++15% Weapon Weight Capacity
+
+
+
+4
+
+Consumables
+
+
+
+Improves the effectiveness of all consumables (such as overdrive packs and shield capacitors).
+
++30% Consumable Effectiveness
+
+
+4
+
+Regeneration
+
+
+
+Improves health and shield regeneration rates.
+
++20% Health Regeneration Cap
++50% Health Regeneration
++20% Shield Regeneration
+
+
+
+5
+
+Extra Holster
+
+
+
+Up to four weapons can be equipped at once and carrying capacity is increased.
+
++1 Weapon Loadout Size
++25% Weapon Weight Capacity
+
+
+
+5
+
+Heavy Lifting
+
+
+
+Improves thermal clip size, and thermal clip and power cell carrying capacity.
+
++20% Weapon Clip Size
++25% Weapon Spare Ammo
++1 to all Combat Power Cell Capacities
+
+
+
+6
+
+Hold the Line
+
+
+
+Dramatically increases Damage resistance when below 30% health.
+
+Low Health Damage Resistance: 200
+
+
+6
+
+In the Trenches
+
+
+
+Improves Damage Resistance and reduces Shield Regeneration Delay while in cover.
+
+Regen Delay Reduction in Cover: 50%
+Damage Resistance in Cover: 100
+
+
+MP Skill Ranks[]
+Intense physical and survival training designed to improve a combatant's stamina and versatility in battle. 
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Health And Shields
+
+
+
+-
+
++10% Max Health+10% Max Shields
+
+
+2
+
+Melee Damage
+
+
+
+-
+
++30% Melee Damage
+
+
+3
+
+Health And Shields
+
+
+
+-
+
++15% Max Health+15% Max Shields
+
+
+4
+
+Health And Shields
+
+
+
+-
+
++25% Max Health+25% Max Shields
+
+
+4
+
+Melee Damage
+
+
+
+-
+
++50% Melee Damage
+
+
+5
+
+Defensive Positioning
+
+
+
+-
+
+Regen Delay Reduction In Cover: 100%
+Damage Resistance In Cover: 50
+
+
+
+5
+
+Aerial Evasion
+
+
+
+Reduces damage taken while hovering and evading.
+
++50 Damage Resistance While Airborne
++100 Damage Resistance While Evading
+
+
+
+6
+
+Hold the Line
+
+
+
+Greatly reduces damage taken when below 30% health.
+
+Low Health Damage Resistance: 200
+
+
+6
+
+Close-Quarters Momentum
+
+
+
+Increased melee damage bonus with each melee hit or melee kill. Ends after 20 seconds have passed without a melee kill.
+
+Melee Bonus Per Hit: 5%
+Melee Bonus Per Kill: 20%
+Max Melee Bonus: 65%
+
+
+Player Notes[]
+Mechanics
+Combat Fitness is a passive skill that is always active.
+Rank 3 Extra Holster adds 15 points of Weight Capacity, rather than %.
+Rank 5 Extra Holster adds 25 points of Weight Capacity, rather than %.
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: Pathfinder Ryder - Starting Combat Skill or Operative Training, Security Training, Scrapper Training
+Multiplayer: Batarian Scrapper, Batarian Vanguard, Human Commando, Human Infiltrator, Human Soldier, Turian Soldier
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

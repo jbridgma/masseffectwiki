@@ -1,0 +1,74 @@
+
+
+
+
+
+Netiquur
+
+Region
+Andromeda / Heleus Cluster / Vaotessa
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+1.1 AU
+
+
+Orbital Period
+1.3 Earth Years
+
+
+Keplerian Ratio
+0.788
+
+
+Radius
+3,774 km
+
+
+Atm. Pressure
+0.82 atm
+
+
+Surface Temp
+−7 °C 
+
+
+Location: Andromeda / Heleus Cluster / Vaotessa System /  Second planet
+
+
+Contents
+
+1 Description
+2 Anomaly
+
+2.1 Biomatter Growth
+
+
+3 Trivia
+
+
+Description[]
+Though Netiquur is arid and cold, liquid water can be found in its underground seas and during rare rains. Multiple angaran colonies were planned; none were ever founded.
+
+Anomaly[]
+Biomatter Growth[]
+DATA:
+
+Classification: Plant
+Origin: Netiquur (or possibly offworld)
+Quarantine recommendation: Level 3
+ANALYSIS:
+This vast forest appears to be sustained by an enormous underground reservoir. The individual plants seem to be linked, almost acting as a single organism.
+Awards +270 XP when scanned.
+
+Trivia[]
+The description of the anomaly is extremely similar to that of the unnamed world which is the main setting of the short story Vaster than Empires and More Slow.
+
+
+

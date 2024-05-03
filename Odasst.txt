@@ -1,0 +1,114 @@
+
+
+
+
+
+Odasst
+
+Region
+Milky Way / Ismar Frontier / Elysta
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.96 AU
+
+
+Orbital Period
+1.1 Earth Years
+
+
+Keplerian Ratio
+0.731
+
+
+Radius
+6,882 km
+
+
+Day Length
+28.3 Earth Hours
+
+
+Atm. Pressure
+1.1 atm
+
+
+Surface Temp
+20 °C 
+
+
+Surface Gravity
+1.2 g
+
+
+Mass
+1.387 Earth Masses
+
+
+Location: Milky Way / Ismar Frontier / Elysta System /  Third planet
+
+
+Colony
+
+Capital
+Jorass
+
+
+Population
+11640
+
+
+
+Prerequisite: Firewalker Pack (Mass Effect 2)
+
+Description[]
+Odasst has an abundance of heavy metals and radioactives. It is heavily exploited by mining concerns based on Illium. Forty-three years ago, a Council Spectre arrived to investigate reports that the businesses were selling platinum - a strategic metal - to pirate groups in the Terminus Systems. The results of the investigation were never released, but no deaths were reported.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+5,400
+
+
+Platinum
+
+High
+
+13,700
+
+
+Iridium
+
+Medium
+
+9,100
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

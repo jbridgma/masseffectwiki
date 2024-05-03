@@ -1,0 +1,166 @@
+
+
+
+There are several League of One medallions and a few ID Tags scattered throughout these systems. The hunt must have been extensive and taken years.
+
+Contents
+
+1 Acquisition
+2 Locations
+
+2.1 Medallions
+2.2 ID Tags
+
+
+
+
+Acquisition[]
+This assignment will appear in your journal when you discover your first medallion or ID tag. The in-game Codex claims there are 12 League of One medallions and 4 salarian ID tags scattered throughout the systems, but it suffices for the assignment to find 10 League of One medallions and 3 salarian ID tags.
+
+Locations[]
+Medallions[]
+If JavaScript is enabled, the columns may be sorted by clicking on the up/down arrow icons in the column headers.
+
+
+
+Cluster
+
+System
+
+Planet
+
+Access
+
+
+Armstrong Nebula
+Gagarin
+Rayingri
+land
+
+
+Armstrong Nebula
+Grissom
+Benda
+survey
+
+
+Armstrong Nebula
+Tereshkova
+Carbonaceous Asteroid
+survey
+
+
+Artemis Tau
+Knossos
+Carbonaceous Asteroid
+survey
+
+
+Attican Beta
+Hercules
+Syided
+survey
+
+
+Gemini Sigma
+Ming
+Altanorch
+survey
+
+
+Hades Gamma
+Dis
+Klensal
+land
+
+
+Hades Gamma
+Plutus
+Nonuel
+land
+
+
+Hawking Eta
+Century
+Tharopto
+survey
+
+
+Horse Head Nebula
+Strenuus
+Yunthorl
+survey
+
+
+Styx Theta
+Erebus
+Nepmos
+land
+
+
+Voyager
+Columbia
+Gromar
+survey
+
+
+Totals
+
+
+12
+
+
+
+ID Tags[]
+If JavaScript is enabled, the columns may be sorted by clicking on the up/down arrow icons in the column headers.
+
+
+
+Cluster
+
+System
+
+Planet
+
+Access
+
+Name
+
+
+Armstrong Nebula
+Hong
+Casbin
+land
+Captain Thein
+
+
+Artemis Tau
+Sparta
+Edolus
+land
+Captain Milon
+
+
+Gemini Sigma
+Han
+Mavigon
+land
+Captain Stranaka
+
+
+Voyager
+Columbia
+Nepheron
+land
+Captain Varsinth
+
+
+Totals
+
+
+
+4
+
+
+
+

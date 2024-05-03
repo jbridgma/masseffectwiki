@@ -1,0 +1,115 @@
+
+
+
+A group of outlaws are on the H-047c mining helium-3, a potentially dangerous explosive substance. You've also found a partial passcode to their main base. To learn the extent of their plans, locate the rest of the passcode.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Locate the Outlaw headquarters
+2.2 Find code snippets
+2.3 Enter the headquarters
+2.4 Clear the headquarters
+2.5 Discover Krex's plans
+
+
+3 Rewards
+4 Trivia
+
+
+Acquisition[]
+Prerequisite: H-047c: A New World
+
+Exploring the world can lead to a mining dome with defeatable outlaws inside. These mining domes are on Cocytus Plateau (west of the Tempest landing zone), Crater: Peregrine, Crater: Vespasien, and Crater: Agneta. Upon reading a particular datapad in any of these four locations, the mission is acquired. 
+
+Walkthrough[]
+This walkthrough assumes mission acquisition on the Cocytus base first as it is the closest one, just west of the Tempest, though the order in which bases are hit first does not particularly matter.
+
+Upon entering the dome using the Nomad Airlock, Ryder is attacked by Outlaws if they have been alerted by or prior to your arrival. Enemy composition always has Raiders and Adhi, possibly supplemented by Sharpshooters and an Anarchist and/or Pariah.
+There are two lootable containers in the area. There are two scannable Storage Tanks (+10 each), an Exile Rock Runner (+10), a Concentration Sensor (+10), and an Adapted Initiative Core Tech (+100).
+There are many nodes of nickel in the dome, as well as a Titanium Sample that can be scanned for Task: Hitting Rocks for Science. There's also a Loadout terminal inside the building, as well as a regular terminal containing miscellaneous messages.
+The sole datapad in the area ceases to be readable afterwards.
+
+
+
+
+Message for Alvis
+Got plenty of helium-3 soil at this site, but I think we'll deplete it pretty quickly. Once we finish here, head back to the base. Krex will add it to the stash. 
+
+
+In case you didn't get the passcode, it's 63&&[DATA CORRUPTED]
+
+
+
+All of the mission acquisition datapads are corrupted at the end of their messages, though a partial passcode can be seen. SAM notes that helium-3 is used for shuttle fuel as well as explosives, and Ryder doesn't want outlaws running around with explosives.
+After reading the datapad, the mission and two objectives are added. Navpoints will be added to three locations. Any of the objectives and areas can be visited in any order but all must be visited to gain the complete passcode and gain full access to the outlaw headquarters. Upon returning to the Nomad, Ryder wonders who this Krex figure is, though none of the squadmates have heard of the guy.
+
+Locate the Outlaw headquarters[]
+The outlaw headquarters is located in Crater: Agneta. There are two domes that are connected by an airlock that requires the passcode to open. There are outlaw guards in the outer dome: you can clear the first dome without the passcode but the passcode is required to enter the second dome. 
+Enemy composition in the outer dome is Raiders, Sharpshooters, Adhi, an Anarchist, a Pariah, and a turret guarding the entrance to the inner dome. The outlaws are far away enough from the entrance that your arrival won't be noticed immediately, allowing for some sniping before they're alerted.
+There is a lootable container on a platform on the left side of the dome. The scannables are a Supply Crate (+10), an Adapted Initiative Core Tech (+100), and a Soil Centrifuge (+10).
+Note:  If you went to Crater: Agneta first without acquiring the mission elsewhere, the datapad addressed to Alvis above can be read in the outer dome, near the airlock to the inner dome. This section is then marked complete first.
+
+Find code snippets[]
+The two remaining code snippets can be found at two mining sites. The western site is in Crater: Peregrine and the eastern site is in Crater: Vespasien. Both sites have outlaw enemies that attack and will need to be defeated.
+
+Crater: Peregrine Mining Site
+Peregrine has at least one Hydra defending the base, so be wary of insta-kills and missile barrages. Other enemies may include Adhi, Sharpshooters, and Raiders.
+There are two lootable containers. There are many nodes of uranium in the dome. The scannables are three Adapted Initiative Core Tech devices (+100 each), and a Communication Relay (+10).
+As with other mining camps, there is also a Loadout terminalinside the room at the second floor, a terminal with miscellaneous messages, and a datapad addressed to Krex with another segment of the passcode.
+
+
+
+
+Message for Krex
+Look, asshole. You can harass me all you want, but it won't make my guys work any faster. You'll get your helium-3 soil when we're good and finished.
+
+
+You want to ship this back to the base yourself? Fine. But leave my team alone. Passcode is %[DATA CORRUPTED]%2
+
+
+Crater: Vespasien Mining Site
+Vespasien's defenders include Raiders, Sharpshooters, Anarchists, Pariahs, and Adhi. They're regularly wandering around, so sniping may not be available if they catch sight of your squadmates at the entrance or vice versa.
+There are three lootable containers. There are many nodes of platinum in the dome. Scannable items are two Adapted Initiative Core Tech devices (+100 each), and an Element Zero Sample for Task: Hitting Rocks for Science.
+As with the other camps, there's a loadout terminal as well as a regular terminal with miscellaneous messages. The loadout terminal is on the roof of the living quarters while the message terminal is on the second floor, on the balcony. There are two readable datapads inside the second floor chamber, though only this one is relevant to the mission:
+
+
+
+
+Progress Report
+Checking in, like you asked.
+
+Found a decent batch of helium-3 soil here. Think we can mine this for another week at least. Might even be enough for Krex to finish the first one.
+
+
+Feel free to take what we have to the base. Passcode is &%7*[DATA CORRUPTED]
+
+
+
+When all parts of the passcode are collected, a new objective will be added with a navpoint in Crater: Agneta.
+
+Enter the headquarters[]
+Defeat the outlaws in the first dome, if you haven't cleared it out earlier. Use the passcode to open the airlock leading to the second dome and the HQ.
+
+Clear the headquarters[]
+Defeat the outlaws and their leader Krex. Enemy composition is Krex himself, a bunch of Raiders, a Sharpshooter, an Adhi, and another Berserker.
+There are three lootable containers. There are many titanium nodes in the second dome. 
+The scannables in the area are a Scaler (+10) and an Adapted Initiative Core Tech (+100).
+There is a Loadout terminalat the top of the building. At the second floor is an ordinary terminal with miscellaneous messages. Inside the second floor chambers is the audio datapad containing Krex's plans.
+
+Discover Krex's plans[]
+Listening to the audio recording  makes it clear that someone named Elora obviously is the one Krex was working for. Her plans are to destroy the Initiative's colonies using bombs made of helium-3. Fortunately the plans are on hold because there is some Remnant machine the outlaws haven't been able to start.
+SAM's analysis leads to the conclusion that with the production of helium-3 up and running the Nexus' ships would have fuel supply for the next 368 years.
+The mission completes and the follow-up mission The Remnant Tiller starts automatically, if you haven't obtained this one yet.
+
+Rewards[]
++530 XP
++73 AVP 
+Note: The +530 XP reward might be shown twice but Ryder only receives +530 XP.
+
+Trivia[]
+Before this mission, Elora can be found at the wind farm on Kadara (where the missions Gone with the Wind and A Packaged Deal begin), talking to Yuri. After this mission Elora will be missing. Talking to Yuri reveals that the leader of Kadara Port discovered what Elora was up to, and wasn't pleased. If it's The Charlatan, Elora was exiled to Elaaden, where she wasn't expected to survive. If it's still Sloane Kelly, it's implied that Elora was simply killed.
+
+
+

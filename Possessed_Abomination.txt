@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+Possessed Abomination
+
+
+
+
+Faction
+Collectors
+
+
+Type
+Organic
+
+
+Armament
+None (Melee)
+
+
+Abilities
+ Grab Post-Mortem Explosion
+
+
+Health
+Moderate
+
+
+Barrier
+Low
+
+
+Locations
+Armax Arsenal Arena
+
+
+The Possessed Abomination is a Collector unit encountered in Mass Effect 3. It is an enhanced variant of the Abomination.
+
+Capabilities[]
+Offensive
+The Possessed Abominations behave the same as their normal versions, with one major difference: their explosion is far larger and more powerful and—much like enemy grenades—can bypass shield and health gate protections. The detonation can also penetrate thin cover and victims can be downed even through walls within the blast radius.
+Like standard Abominations, a Possessed Abomination will run towards you and grab you once you're in melee range. Unless you overcome the grapple and kill it with a stomp by rapidly pressing the melee attack button, it will explode. It will also explode on death, causing massive amounts of damage that can be instantly fatal to anyone unfortunate enough to be caught in the blast, friend or foe. This post-mortem explosion can only be prevented if the Possessed Abomination is killed by an attack that specifically destroys its head.
+Defensive
+Possessed Abominations have slightly higher health than a Husk. Unlike regular Abominations, they possess weak barriers for additional protection that do not recharge once depleted.
+Even once their barriers are depleted, Possessed Abominations are resistant to many disabling effects. For example, they can be knocked down by ability force from powers like Throw or Concussive Shot, but this can usually only occur once, after which they can only be stunned, not fully blown off their feet. Also, after being frozen once and recovering, they cannot be frozen or even slowed by cryo effects again; the only exception to this is the Cryo Shield evolution of Shield Mastery, which allows the N7 Paladin Sentinel's heavy melees to repeatedly freeze unprotected Possessed Abominations. They also become immune to the Neural Shock evolution of Overload after repeated hits. These examples are not an exhaustive list.
+
+Tactics[]
+Their explosions can easily knock down whole groups of players, so it is important to prioritize them as targets before they can get on top of you. It is also a good idea to kill them when they're in the midst of other enemies to damage them.
+The post-mortem explosion can be prevented if the abomination's head has been severed from its body. This can be achieved in several ways:
+Successfully breaking the Abomination's grab attack by tapping melee, crushing its head underfoot.
+Headshot kills with a weapon powerful enough to explode the head with a single shot. This includes most conventional shotguns that fire pellets if most pellets hit, barring the Disciple; additionally, most heavy pistols, sniper rifles, and assault rifles that deal high damage per shot. Weapons that fire explosive rounds like the Scorpion cannot deal headshot damage.
+Employing the heavy melee attacks of batarian and vorcha classes, the Cabal Vanguard, the N7 Shadow Infiltrator or the N7 Slayer Vanguard characters.
+Performing an over-cover grab with a character that destroys the enemy's head (i.e. krogan or batarian characters). Other classes will take damage from the resulting explosion, as the Abomination detonates only after the grab animation completes.
+The body-disintegrating effects of the geth heavy melee, Carnage, the Reegar Carbine, the Particle Rifle, or the Collector Sniper Rifle will not prevent the explosion. Neither will killing the abomination with freezing attacks or while it is frozen.
+Weapons or powers that stun targets are useful for preventing Possessed Abominations from closing to lethal range.
+Because, as noted above, breaking the Possessed Abomination's hold results in the destruction of its head and thus prevents its post-mortem explosion, if a Possessed Abomination gets close to you and you can't get away from it, instead of shooting the Possessed Abomination, it may be better to just let it grab you and break its hold. This, of course, assumes you have the health and shields to absorb the Possessed Abomination's melee damage and aren't under fire from other enemies like Scions.
+Refrain from using powers such as Lash or Pull, as these will draw Possessed Abominations closer to you and possibly kill them, resulting in massive damage to yourself. Instead, try to use powers that knock the enemy away (such as Concussive Shot, Shockwave, or Throw) or powers that hold enemies in place (like Snap Freeze and Stasis).
+Avoid killing Possessed Abominations using light melees as it will cause them to simply to drop and explode.
+Although the melee attacks of krogan and the heavy melee attacks of asari and other biotics do not destroy the Possessed Abomination's head, they usually have enough force to knock the body far enough away to remain out of the explosion's radius if the attack was fatal, assuming there was enough space for the body to travel. Obviously, try not to knock them into teammates.
+A Vanguard with a dodge ability, an N7 Shadow, and the Turian Havoc can all use their Biotic Charge, Shadow Strike, and Havoc Strike to kill a Possessed Abomination then immediately dodge back to avoid its Post Mortem Explosion if there isn't any blocking terrain.
+Remember that the Possessed Abomination's post-mortem explosion can and will damage your squadmates if they are close enough. If possible, try to avoid pulling or knocking a Possessed Abomination into your squadmates or killing a Possessed Abomination near a squadmate. If one is already close to the squad, it may be preferable to allow it to grab you, as shaking it off and crushing its head prevents the explosion reliably.
+It is worth noting that a volus's Shield Boost power as well as its heavy melee shield bubble will make him and (any nearby teammates in the case of Shield Boost)) invulnerable for a brief time, potentially blocking the damage from the on-death explosion.
+After their first few steps, abominations, like husks, will stop for a moment and stand in place inexplicably. You can use this opening to take a head shot with almost any weapon accurate enough because of their low health, and prevent the explosion.
+The Human Vanguard can charge the Abomination and immediately after activate Nova to avoid damage. Doing this will still stagger you, however.
+Do not attack the Possessed Abomination if its in the middle of grappling with a team member. If you don't manage to rid it of its head it will explode on you and anyone else caught in the blast radius.
+Some of the more durable multiplayer classes such as the Geth Juggernaut Soldier and the Krogan Warlord Sentinel are able to withstand detonations without being instantly downed, even on Platinum difficulty.
+Possessed Abominations can be especially dangerous in multiplayer rounds during hacking objectives or when trying to extract in the LZ as the entire team is grouped in a small area. Be especially aware that using the Cobra Missile Launcher can kill Possessed Abominations through terrain, and their death explosions can likewise ignore terrain, meaning you can get yourself or allies downed inadvertently, especially on cramped maps. It's also possible to be downed by Possessed Abominations that die and explode after successful extraction, but this does not prevent extraction.
+
+
+Mass Effect 3 Enemies
+
+
+CAT6
+
+Brooks • CAT6 Heavy • CAT6 Sniper • CAT6 Specialist • Clone • Disruption Drone
+
+
+Cerberus
+
+Adjutant • Assault Trooper • Atlas • Centurion • Combat Engineer • Dragoon • Dr. Eva • Guardian • Kai Leng • Legion Assassin • Nemesis • Phantom • Rampart Mech • Turret
+
+
+Collectors
+
+Abomination (Possessed) • Collector Captain (Possessed) • Collector Trooper (Possessed) • Collector Web • Praetorian (Possessed) • Scion (Possessed) • Seeker Swarm (Plague)
+
+
+Geth
+
+Combat Drone • Geth Bomber • Geth Hunter • Geth Prime • Geth Pyro • Geth Rocket Trooper • Geth Trooper • Geth Turret
+
+
+Reapers
+
+Banshee • Brute • Cannibal • Harvester • Husk • Marauder • Ravager • Swarmer
+
+
+
+

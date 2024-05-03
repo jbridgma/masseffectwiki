@@ -1,0 +1,94 @@
+
+
+
+
+
+Bio-Converter
+
+
+
+
+General Info
+
+Rarity
+Rare
+
+
+Aug Type
+Special
+
+
+RD Cost
+50
+
+
+Tech Type
+
+
+
+
+Bio-Converter is an augmentation in Mass Effect: Andromeda.
+
+Contents
+
+1 Compatibilities
+2 Description
+3 Mechanics
+4 Strategies
+5 Restrictions
+
+
+Compatibilities[]
+Guns - This augmentation can be applied to gun-type weapons.
+Description[]
+When the current ammo clip is empty, drains 5% of health and refills the clip.
+
+Mechanics[]
+Strategies[]
+Frequently using the Bio-converter will cause the player to lose health quickly. Not quickly enough to die but quickly.
+Combines well with weapons like the Remnant P.A.W..
+The player doesn't have to wait to reload or for the heat to drop. This essentially allows constant laser firing  interrupted only by the Bio-converter itself.
+With the Team Support Rank 6 Life Support choice (which regenerates your health after you use a Tech skill), the player can completely eliminate the Bio-converter's health drain. This augmentation and skill combination is one of the most useful without a downside.
+Restrictions[]
+
+
+
+
+Mass Effect: Andromeda Augmentations
+
+
+
+
+General
+
+Anti-Armor Module • Biotic Damage Booster • Biotic Recharge Module • Combat Power Module • Combat Recharge Module • Duration Boost Module • Kinetic Coil • Medi-Gel Regulator • Newtonian Multiplier • Reaction Displacer • Reaction Optimizer • Shield Accelerator • Shield Booster • Shield Bypass Unit • Shield Generator • Support Power Module • Tech Damage Module • Tech Recharge Module
+
+
+Gun Behavior
+
+Plasma Charge System • Vintage Heat Sink
+
+
+Gun Fire Type
+
+Automatic Fire System • Burst Fire System • Single Fire System
+
+
+Gun Projectile
+
+Beam Emitter • Electrical Conduits • Grenade Launcher • Ricochet System • Seeking Plasma System • Sticky Grenade Launcher
+
+
+Mod Slots
+
+Double Mod Extension • Mod Slot Extension
+
+
+Special
+
+Aerial Lubricant • Aerial Performance Optimizer • Aerial Stabilizer • Battlefield Assist Module • Bio-Converter • Concentration Module • Coolant Unit • Cryo Condenser • Electrical Conduits • Equilibrium Regulator • Heat Inducer • Power Booster • Rebalanced Field Coils • Shield Disruptor • Shield Oscillator • Shield Sensors
+
+
+
+
+

@@ -1,0 +1,37 @@
+
+
+
+In Mass Effect Galaxy, Jacob Taylor has the ability to pick up boxes which confer various benefits to him. These range from increasing the firing rate of his assault rifle to granting temporary invulnerability. They're either already present on the map or randomly dropped by defeated enemies. Pick-ups dropped by enemies only remains on the ground for a few second. There is little need to use them on earlier levels, but they become much more important as the game progresses.
+
+Contents
+
+1 Invulnerability
+2 Medkit
+3 Rapid Fire
+4 Shield Recharge
+5 Spread Shot
+
+
+Invulnerability[]
+
+Invulnerability protects Jacob from all damage until it wears off. 
+
+Medkit[]
+
+Medkits will fully heal Jacob when picked up. As such, they should only be used once shields have been fully depleted.
+
+Rapid Fire[]
+
+Rapid fire temporarily increases Jacob's firing rate, allowing him to deal greater amounts of damage. While it lasts, it's recommended not to use special abilities, as they interrupt Jacob's fire and thus prevent you from taking full advantage of its benefits.
+
+Shield Recharge[]
+
+Shield recharge fully restores player's shields. As with medkits, they should be used strategically.
+
+Spread Shot[]
+
+Spread shot increases the width of player's fire, thus allowing for it to deal more damage and hit more enemies. These are most useful in crowded locations.
+
+
+
+

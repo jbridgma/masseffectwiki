@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda. For the power in Mass Effect 3 Multiplayer, see Snap Freeze.
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Snap Freeze is a Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Snap Freeze
+
+
+
+     Flash-freeze unprotected enemies and weaken armored enemies with a quick wave of cryo damage. Affected enemies are primed for combo detonations.
+
+Area Damage: 250
+Range (meters) [sic]: 10
+Cold Duration (seconds) [sic]: 6
+Armor Defense Debuff: 50%
+Recharge Time (s): 12
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++20% Recharge Speed
+
+
+3
+
+Damage
+
+
+
+-
+
++30% Area Damage
+
+
+4
+
+Damage
+
+
+
+-
+
++50% Area Damage
+
+
+4
+
+Reach
+
+
+
+-
+
++50% Damage Radius
+
+
+5
+
+Duration
+
+
+
+Enemies remain frozen or chilled for a longer period of time.
+
++50% Duration
+
+
+5
+
+Brittle
+
+
+
+Unarmored and armored enemies now receive increased damage from all sources while frozen or chilled.
+
+Enemy Defense Debuff: 20%
+
+
+6
+
+Anti-Armor
+
+
+
+-
+
++65% Armor Defense Debuff
+
+
+6
+
+Degradation
+
+
+
+Affected enemies have reduced damage output. This persists for 15 seconds after the cold effect ends.
+
+Enemy Offense Debuff: 35%
+
+Player Notes[]
+Mechanics
+Snap Freeze and Cryo Beam are similar skills with crucial differences. Snap Freeze instantaneously freezes enemies in its path while Cryo Beam requires a couple of seconds' sustained output to freeze its targets. Snap Freeze only has limited range while Cryo Beam can reach far enemies as long as they appear on the targeting HUD.
+As with all freezing debuffers, Snap Freeze has little effect on shielded enemies unless their shields are stripped first.
+Strategies
+The only two classes that can Snap Freeze are both close-range brawlers who can use the skill to set up cryo explosions. The Batarian Scrapper can detonate using his Batarian Gauntlet and/or Concussive Shot while the Human Juggernaut can detonate with Shockwave.
+Adhi and Breachers are particularly vulnerable to Snap Freeze, stopping dead in their tracks for the former or even shattering upon dropping to the floor for the latter.
+Availability[]
+Single-player: N/A
+Multiplayer: Batarian Scrapper, Human Juggernaut
+
+
+

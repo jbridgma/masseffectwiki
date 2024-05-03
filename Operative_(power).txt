@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+This article is about the Mass Effect 2 Infiltrator class power. For the Mass Effect specialization, see Operative. For the Mass Effect 3 version, see Operational Mastery.
+
+Operative is a passive class power in Mass Effect 2.
+
+
+Your weapon damage is more punishing and frequent, and targeting enemies is easier.
+
+Power Ranks[]
+Rank 1 - Your harsh training regimen increases weapon damage, reduces power-recharging time, and gives a time dilation effect while entering sniper zoom. Also increase Paragon and Renegade scores.
+Health: +5.00%
+Weapon Damage: +3.00%
+Power Recharge: -3.00%
+Sniper Time Slowdown: 30.00%
+Sniper Time Slowdown Duration: 1.50 seconds
+Paragon/Renegade: +20.00%
+Rank 2 - Your harsh training regimen increases weapon damage, reduces power-recharging time, and gives a time dilation effect while entering sniper zoom. Also increase Paragon and Renegade scores.
+Health: +10.00%
+Weapon Damage: +6.00%
+Power Recharge: -6.00%
+Sniper Time Slowdown: 40.00%
+Sniper Time Slowdown Duration: 1.75 seconds
+Paragon/Renegade: +40.00%
+Rank 3 - Your harsh training regimen increases weapon damage, reduces power-recharging time, and gives a time dilation effect while entering sniper zoom. Also increase Paragon and Renegade scores.
+Health: +15.00%
+Weapon Damage: +9.00%
+Power Recharge: -9.00%
+Sniper Time Slowdown: 50.00%
+Sniper Time Slowdown Duration: 2.00 seconds
+Paragon/Renegade: +70.00%
+Rank 4
+Evolves Infiltrator Mastery [sic] into one of the following options:
+
+Assassin[]
+Your focus in sniper zoom is enhanced, and you receive a damage bonus to all weapons and powers.
+Health: +15.00%
+Weapon Damage: +15.00%
+Power Recharge: -9.00%
+Sniper Time Slowdown: 60.00%
+Sniper Time Slowdown Duration: 2.25 seconds
+Paragon/Renegade: +70.00%
+Power Damage: +15.00%
+Agent[]
+Your endurance and mental fortitude reduce the recharge time of powers, and give a bonus to their duration. Your Paragon and Renegade scores reach their highest level.
+Health: +20.00%
+Weapon Damage: +9.00%
+Power Recharge: -15.00%
+Sniper Time Slowdown: 50.00%
+Sniper Time Slowdown Duration: 2.00 seconds
+Paragon/Renegade: +100.00%
+Power Duration: +15.00%
+Player Notes[]
+Availability[]
+Infiltrator
+Bugs[]
+There is a bug concerning the Sniper Time Slowdown. During the slowdown, timers (like those for the shutters in Dossier: Archangel) count down just as fast as they would without the time slowdown.
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+

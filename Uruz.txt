@@ -1,0 +1,104 @@
+
+
+
+
+
+Uruz
+
+Region
+Milky Way / Hourglass Nebula / Sowilo
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.25 AU
+
+
+Orbital Period
+0.1 Earth Years
+
+
+Keplerian Ratio
+1.563
+
+
+Radius
+9,266 km
+
+
+Day Length
+51.0 Earth Hours
+
+
+Atm. Pressure
+78.58 atm
+
+
+Surface Temp
+635 °C 
+
+
+Surface Gravity
+2.1 g
+
+
+Mass
+4.399 Earth Masses
+
+
+Location: Milky Way / Hourglass Nebula / Sowilo System /  First planet
+
+Prerequisite: Lair of the Shadow Broker (Mass Effect 2)
+
+Prerequisite: Priority: Thessia (Mass Effect 3)
+
+Description[]
+A large rock planet with a pressure-cooker atmosphere of nitrogen and argon, Uruz's silicate-rich crust is relatively low density. It was largely ignored by the salarian explorers who first charted the system.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+4,000
+
+
+Platinum
+
+Medium
+
+5,800
+
+
+Iridium
+
+High
+
+14,800
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

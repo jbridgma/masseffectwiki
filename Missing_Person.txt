@@ -1,0 +1,68 @@
+
+
+
+A man named Garoth asked you to look for his missing brother. Garoth fears his brother's ship may have fallen victim to privateers while traveling through the Strenuus System.
+Alternative journal entry:
+You came across a missing person report on Noveria. A man named Garoth is concerned his brother and the ship he was on may have been attacked by privateers.
+Alternative journal entry:
+You've discovered the remains of a ship called the Majesty. It looks like it was attacked by privateers. Info from the ship's flight log indicates the privateer base is nearby.
+
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Alternate Routes
+
+
+4 Enemies
+5 Bug
+6 Trivia
+
+
+Acquisition[]
+This assignment can be acquired in several ways:
+
+Speak to Garoth in the Citadel Tower who will appear after your second meeting with the Council. He will ask you to help find the MSV Majesty; Willem is his brother. Garoth believes that the ship has either fallen victim to mechanical failure or privateers. This assignment is then initially labeled as Missing Persons.
+Hack a computer on Noveria. It can be found in the room directly below Lorik Qui'in's office in the Synthetic Insights offices. The assignment is then initially labeled as Missing Person and the terminal entry reads as follows:
+
+“MISSING PERSON REPORT
+To the attention of Administrator Anoleis:
+A man named Garoth is looking for information on the whereabouts of one of our freighters. He believes his brother's ship may have been attacked by privateers while traveling through the Strenuus system. Investigation pending.”
+
+
+Head directly to the Strenuus system of the Horse Head Nebula and scan the MSV Majesty, near the planet Xawin. Acquisition by this method directly names the assignment as UNC: Privateers.
+Preparation[]
+A mixed squad will serve you well here, since you will be facing several different types of mercenaries. Because you will be facing a fairly large roomful of enemies with Immunity and regeneration abilities, making it difficult to down them, it is recommended that you save this assignment until you have reached perhaps level 30 or so. That way you'll have enough weapons mods and squad abilities to knock them out quickly and safely rather than facing a long and dangerous war of attrition.  
+On another note, this assignment must be completed before Therum, Feros, Noveria and Virmire are completed, otherwise the assignment becomes impossible to complete due to story reasons.  
+
+Walkthrough[]
+When you enter the Strenuus system of the Horse Head Nebula. Search the area above and to the left of the planet Xawin, which is the fourth planet, for the MSV Majesty. Scanning the ship will reveal a radiation trail leading to the planet Xawin - only after finding this trail does it become possible to land on Xawin.
+
+When you land in the Mako, the privateer base is to the northwest of your landing site. Because Xawin is a Level One Cold Hazard, limit your time outside the Mako or equip someone in your squad in Devlon Industries armor. The base is guarded from the front and the back by mercs and Alliance Heavy Turrets. Four Alliance Heavy Turrets defend the exterior in addition to four Mercenary Snipers, two in the front and two in the back. However since the snipers are all on the ground, they aren't as much of a threat as when they are in towers. 
+Keep the Mako moving slowly about so that the turret missiles mostly won't hit you, but use your big secondary cannon to take out the snipers - even a near miss from the explosive rounds will prove deadly to them, and this will get their deadly and largely undodgeable Assassination ability out of play quickly. Once you're down to the turrets, concentrate on one at a time. Again, keep the Mako moving - at this point it may be easiest to rock it back and forth while aiming. You will often be able to interpose the building between yourself and one of the turrets. 
+Alternatively, if you're lucky enough to have Master AI Hacking, you can turn the turrets against the mercs and themselves with predictable results. Even if you're just "feeling lucky," you can quickly jump out of the Mako after whittling a turret down - putting the killing blow on it from foot gains you bonus XP, and then you can jump right back inside. Finally, there are vantage points from further away from the base where you can get line of sight on a single turret with nothing else able to fire at you - you can use such a vantage point for easier Mako work or break out your sniper rifle.
+Once you have the exterior clear, head inside, where it is recommended that you save your game as the upcoming fight can be a tough one. Inside the main room are more Snipers and regular Mercenaries. Two of the Mercenaries are krogan.
+
+When you enter the main room, there will be an enemy directly to your left. Shoot the two containment vessels near him to take him out, or at least wound him severely. The two krogan will start moving towards the squad immediately so get into cover fast; the wall ahead will do. Since the wall directly in line with the door provides not only good cover, but good sight lines to most of the room, hold it. Don't be afraid to backpedal into the entry room (or even outside) if you need to, but lock the antechamber door quickly so you can heal up before sallying forth again. Sometimes enemies will get behind you, so have your squadmates focus on the ones that are in front of you, while you deal with the enemies who got behind. 
+The snipers aren't your biggest threat, as their sight lines are obscured by the stacks of crates all around. The grunt mercenaries are more likely to cause problems here. They will tend to move around, and sometimes charge, but usually they will stay in cover. Take them out when they pop their heads out, and use the various containment canisters around to further damage them, but keep an eye on those krogan: they are the biggest threat, and they will approach relentlessly attempting to reach shotgun, charge, and melee range - you don't want that. Plan to use talents to keep them at bay or focus on them and take them down quickly. 
+When all the mercs are down, don't forget to loot the first level. Directly across from the entry door is a storage locker (easy decryption), and in the back room is a disposal canister. Clean out both, then head upstairs. Turn right to find two unlocked crates. One is in the corner past the power junctions, and the other is atop the pile of crates to the left of the first. To get to this second one, you may have to mount the nearby crate if the interaction interface is initially absent. When that's settled, head to the other end of the catwalk.
+
+Inside the room is a computer that gives a Secondary Codex entry on Space Combat: General Tactics, provided that you haven't gotten it already, a Secure Storage Locker (average decryption), an Aid Station, and Captain Willem's body. The text you get will vary depending on how you acquired the assignment. When you are done, leave the facility and head to the Citadel.
+No matter what, you must travel to the Citadel Tower and speak to Garoth to end this assignment. Talking to him can earn a few Renegade or Paragon points depending on your conversation choices.
+
+Alternate Routes[]
+When speaking with Garoth for the first time, you will eventually have the option of choosing "Forget it." This gets you 2 Renegade points. You may then speak to him again about Willem and he will be glad that you now have the time to help. After going to the base and discovering Willem's body and datapad, return to Garoth. After telling him that his brother is dead, you can choose dialogue options for morality points.
+
+Enemies[]
+Alliance Heavy Turret
+Mercenary
+Mercenary Sniper
+Bug[]
+If you have acquired the assignment but not completed it before leaving the Citadel for Ilos, the assignment's description will say that you found the body regardless of whether you actually have or not.
+Trivia[]
+The Xawin base uses the same main area layout as the Amaranthine base in UNC: Hostile Takeover and the Sharjila base in UNC: Asari Diplomacy.
+
+
+

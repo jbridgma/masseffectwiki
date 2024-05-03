@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+Reaper Blackstar
+
+
+
+
+
+								Single-player
+							
+
+
+
+
+
+Type
+Heavy Weapon
+
+
+Location
+Priority: Palaven, Tuchanka: Turian Platoon, Mahavid: Leviathan
+
+
+Fire Mode
+Single Shot
+
+
+
+Weight
+  0% 
+
+
+Capacity
+  1% 
+
+
+Fire Rate
+  1% 
+
+
+Damage
+  100% 
+
+
+Accuracy
+  100% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+1
+0
+
+
+
+
+
+
+
+The Reaper Blackstar is a heavy weapon in Mass Effect 3.
+
+Contents
+
+1 Description
+2 Acquisition
+3 Player Notes
+4 Trivia
+5 References
+
+
+Description[]
+The Reaper weapon nicknamed Blackstar is so advanced that Alliance scientists can only offer speculation about how it works. The gun appears to exploit an element zero core and mass effect fields to fire gravitational singularities--micro black holes--that revert to their natural lethality when they impact a solid object. Researchers theorize that the blast tears apart the strong nuclear forces that hold the target's atoms together, resulting in a localized fusion reaction in light atoms and a localized fission reaction in heavy atoms. If that hypothesis is correct, the weapon alters nuclei, thus changing the chemical composition of the target. This destroys organic tissue, corrodes surviving armor, and leaves a visible trail of light-emitting particles.
+Although some might argue that the Blackstar's single-launch capability makes it a liability, its capacity for utter destruction is essential when the user requires large-scale, instantaneous damage.
+
+Acquisition[]
+Single-player: The Reaper Blackstar can first be found in Priority: Palaven. It can also be found in Tuchanka: Turian Platoon, by the area covered in fallen columns right after the second Harvester encounter, to the far right of the room sitting on top of a broken pillar. It's also found in Mahavid: Leviathan, near the second repair junction Shepard is supposed to be guiding a repair drone to. Like all heavy weapons in Mass Effect 3, once its ammunition has been depleted, the weapon is thrown away.
+Multiplayer: N/A
+Player Notes[]
+The Blackstar is an exceedingly powerful weapon of Reaper design. When acquired, it will only have one round available to Shepard, a drawback which is balanced by its high damage and area of effect. It should be used against powerful enemies or groups of weaker ones for greatest effect. Because the Blackstar requires a charging period, it is less advisable to use it from cover, especially on higher difficulties. Instead, simply stand behind cover and pop out to fire the weapon.
+The Blackstar is functionally similar to the M-920 Cain, which also deals massive area damage and requires a charging period to fire (though the Blackstar has a noticeably shorter charging time than the Cain). Mass Effect 2 players familiar with the Cain may thus find the Blackstar easier to use than those who expect it to fire instantaneously.
+The weapon can, if aimed carefully, destroy multiple powerful and otherwise difficult enemies to fight, such as the Brute, Harvester, and Banshee on all difficulties.
+Because of the massive area of effect and high damage, it is not necessary or even particularly advisable to aim "directly at" a target. Even very powerful enemies like Brutes and Banshees will go down instantly within a considerable distance of ground zero. Therefore aim at the ground at a point that captures many enemies within its radius. This also eliminates the risk of accidentally expending the round "into space" e.g. by aiming at an enemy horizontally which then moves at the last second.
+The Blackstar has unusual "friendly fire" properties: it will damage Shepard's squadmates, but will not damage Shepard.
+Trivia[]
+The Blackstar's design was inspired by a Reaper's leg.[1]
+The Blackstar's alleged ability to weaponize the strong nuclear force was recycled by writer Chris Hepler from an undeveloped dive into the science behind the Crucible's workings.[2]
+References[]
+
+↑ The Art of the Mass Effect Universe
+
+↑ https://www.thegamer.com/mass-effect-3-ending-writer-idea/
+
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

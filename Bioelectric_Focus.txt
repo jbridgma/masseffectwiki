@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Bioelectric Focus is a passive Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+Lifelong training with the angaran bioeletric ability. Focused on ranged electrical damage and combo detonations.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Bioelectric Focus
+
+
+
+Increased power damage and force.
+
++15% Power Damage
++15% Power Force
+
+
+
+2
+
+Electric Duration
+
+
+
+-
+
++30% to all Power Effect Durations
+
+
+3
+
+Chain Detonation
+
+
+
+     Tech Combo detonations now prime enemies in the damage zone.
+
+-
+
+
+4
+
+Damage & Force
+
+
+
+-
+
++35% Power Damage
++35% Power Force
+
+
+
+4
+
+Efficiency
+
+
+
+Improves power recharge speed and power cell capacity.
+
++25% All Power Recharge Speeds
++1 to all Power Cell Capacities
+
+
+
+5
+
+Electric Duration
+
+
+
+Increases power effect durations and Tech Combo detonations damage zone duration.
+
++50% to all Power Effect Durations
++50% Electric Detonation Damage Zone Duration
+
+
+
+5
+
+Focused Damage
+
+
+
+Increases damage to shields and combo detonation damage.
+
++25% Power Damage Bonus to Shields
++50% All Power Combo Damage
+
+
+
+6
+
+Retaliation
+
+
+
+     Taking damage from a nearby enemy triggers an electric burst that damages shields and synthetics. This will prime one nearby enemy for combo detonations. Only occurs once every 10 seconds.
+
+Retaliation Damage: 150
+Retaliation Damage Bonus vs. Shields: 100%
+Retaliation Damage Bonus vs. Synthetics: 50%
+
+
+
+6
+
+Detonation Feedback
+
+
+
+Killing an enemy with a combo detonation causes all active powers to recharge faster.
+
+Power Recharge Time Rebate: 35%
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Angara Exemplar
+
+
+

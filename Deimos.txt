@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+
+
+Deimos
+
+Region
+Milky Way / Local Cluster / Sol / Mars
+
+
+Orbital Distance
+23,460 km
+
+
+Orbital Period
+30.2 Earth Days
+
+
+Radius
+6.3 km
+
+
+Day Length
+30.2 Earth Days
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+−40 °C
+
+
+Location: Milky Way / Local Cluster / Sol System / Mars
+
+
+Colony
+
+Species
+Human
+
+
+Capital
+Asaph Hall Gateway Facility
+
+
+Colony Founded
+2124
+
+
+Population
+2700 permanent residents
+
+
+Deimos is a location which was cut due to being part of the cancelled Mass Effect DLC Mars.
+
+Description[]
+The larger of Mars' two tiny moons has been built up as an orbital port. Initially developed by a consortium of European and Russian commercial backers, administration was handed over to the Systems Alliance in 2163.
+Today Deimos serves as an entrepot for cargo moving to and from the surface, as well as a customs inspection and medical quarantine for immigrants and visitors. All departures from Mars must pass through Deimos' screening facilities; given the possibility of private explorers discovering Prothean artifacts, all baggage undergoes a thorough inspection.
+The Systems Alliance 1st Fleet, nominally based in Arcturus, maintains a cruiser squadron and frigate flotilla at Deimos. They are tasked with protecting the Prothean ruins and assisting customs enforcement.
+
+References[]
+Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc text string: 177941
+
+
+

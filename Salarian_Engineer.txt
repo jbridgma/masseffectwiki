@@ -1,0 +1,168 @@
+
+
+
+
+
+Salarian Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Salarian
+
+
+Rarity
+Uncommon
+
+
+Availability
+Initially unlockable
+
+
+Abilities
+Combat LeapIncendiary Omni-Blade
+
+
+Salarians have a high-speed metabolism that allows them to function on just one hour of sleep a day. They also process information much faster than other sentient races.
+Salarian engineers specialize in providing long-range cover fire and debuffing targets. These agile combatants are deadly and difficult to detect on the battlefield, particularly once they bring their decoy ability into play.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 600 / Health: 500
+
+
+Class: Salarian Operative
+
+
+ Incinerate
+
+
+
+
+ Energy Drain
+
+
+
+
+ Decoy
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Salarian Engineer executes a series of up to three punches.
+Heavy Melee (Incendiary Omni-Blade) – The Salarian Engineer strikes with an omni-blade charged with incendiary energy.
+Grab (Omni-Blade Stab) – The Salarian Engineer drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Leap) – The Salarian Engineer jumps out of the way of incoming attacks.
+The Salarian Engineer can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The main strength of Salarian Engineers is their ability to draw enemy fire. Their Decoys are capable of withstanding huge amounts of damage, often allowing their squad to take care of business.
+Energy Drain makes a Salarian Engineer even more difficult to kill, allowing them to siphon the shields and barriers of organic enemies or drain the energy from synthetics.
+If Incinerate is also invested in, it also provides a very good means of destroying armor and health too. However, considering many armored units are synthetic, Energy Drain may often be of better use. It may be wiser to forego Incinerate to allow an investment into durability and weapon damage.
+The Salarian Engineer and Geth Engineer are a good combo. While the Decoy distracts the enemy, the Geth Engineer can spam Overload and heal with the Geth Turret, while the Salarian Engineer damages with Incinerate and Energy Drain. The combination of the different tech powers can result in numerous tech bursts and even fire explosions.
+By ignoring the last Salarian Operative rank, you can upgrade your Decoy to rank 3: you still get the maximum out of your powers and have use of the Decoy.
+Put a Pistol Piercing Mod on a powerful sidearm like the M-6 Carnifex, and the Salarian Engineer is set.
+By using a heavy hitting close range weapon with a medium to high magazine size and strafing sideways, the Salarian Engineer can distract a group of enemies and then shoot them down quickly to some effect.
+Keep in mind that Energy Drain will not provide damage reduction and shield restoration when used on organics without shields or barriers.  It also cannot detonate power combos when used on unshielded/unbarriered organics, though it can prime them for Tech Bursts.
+With Fitness and Energy Drain both maxed out and evolved for durability, the Salarian Engineer can take a considerable amount of damage over prolonged periods.  While other "tank" classes have higher health, shields, or damage reduction, most cannot restore their shields as easily and quickly as the Salarian Engineer with Energy Drain.
+Cerberus[]
+Most enemies have shielding. This provides an ample opportunity to leech off enemies like a vampire. With a low weight loadout a Salarian Engineer is almost invincible: with 40% damage reduction and 50-100% shields for nearly every use, he could be used almost like a charging krogan.
+If Incinerate is employed, it should be used against enemies that are unprotected or Atlases.
+Collectors[]
+Salarian Engineers are not as useful as Human Engineers when it comes to distracting enemies and dealing damage. Since Decoy does not appear behind the target, enemies will most likely be facing in the same direction you are in.
+Though not as powerful, Energy Drain can be used to replenish shields when getting bombarded by gunfire, which is useful since every enemy can potentially have barriers.
+Geth[]
+The Salarian Engineer is ideal for facing geth. Energy Drain affects geth regardless of their protection, health, armor or shielding. This makes geth extremely vulnerable to both Salarian Engineers and Infiltrators.
+Decoy will deter the enemy from firing openly on them while they continue to sap away the geth's energy. A little caution never hurts though, since most geth are capable of stunning their foes on attack. The stuns will disrupt all actions including rolling or taking cover, so stay in cover to negate this effect.
+Reapers[]
+Reapers are a real pain for Salarian Engineers. Since they are more geared for dealing with shielded enemies, it is almost impossible to use anything other than the Decoy effectively. However, even the Decoy is limited: it will be destroyed very quickly due to the aggressive nature of the Reapers.
+Incinerate can be used to great effect, but considering its usefulness is outweighed by Energy Drain more often than not, it is recommended to avoid this type of Engineer and consider a quarian or human instead.
+Decoy no longer draws in melee attackers.  As such, its usefulness against Reaper forces is significantly reduced.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

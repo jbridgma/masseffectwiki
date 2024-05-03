@@ -1,0 +1,70 @@
+
+
+
+
+
+H-110a
+
+Region
+Andromeda / Heleus Cluster / Civki / H-110
+
+
+
+
+
+Moon View
+
+
+Orbital Distance
+13.0 km
+
+
+Orbital Period
+36.2 Earth Days
+
+
+Radius
+6,219 km
+
+
+Atm. Pressure
+0.32 atm
+
+
+Surface Temp
+−117 °C
+
+
+Location: Andromeda / Heleus Cluster / Civki System / H-110
+
+
+Contents
+
+1 Description
+2 Anomaly
+
+2.1 Ice Sheet
+
+
+3 Trivia
+
+
+Description[]
+A satellite of the gas giant H-110, H-110a's orbit has begun to decay. The icy world may collide with the giant in as little as several centuries.
+
+Anomaly[]
+Ice Sheet[]
+DATA:
+
+Surface area: 16 million km
+Composition: 94% ice water
+Status: Stable
+ANALYSIS:
+Beneath ten meters of solid ice is what appears to be a minor Remnant installation, as yet undiscovered by the kett.
+Awards +270 XP when scanned.
+
+Trivia[]
+The ice sheet anomaly appears be on a landmass resembling Antarctica.
+
+
+

@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+“By the homeworld I hope to find one day.” — Spoilers for Mass Effect Andromeda: Annihilation follow.
+
+
+
+
+
+
+Liat'Nir
+Ancestor VI
+
+Race
+Virtual Intelligence
+
+
+Gender
+Feminine Programming
+
+
+Appearances
+Mass Effect Andromeda: Annihilation
+
+
+The quarian ancestor VI known as Liat'Nir is a family heirloom brought by Senna'Nir vas Keelah Si'yah on his journey toward the Andromeda galaxy.
+
+Background[]
+The original flesh-and-blood Liat'Nir was the progenitor of Senna's line. She died in the opening salvos of the Geth War over 3 centuries prior to ark Keelah Si'yah's launch into dark space, where she personally suited up to do battle against her own creations. She was a coarse individual given to drink and smoking, but she had a brilliant aptitude for geth and programming. She was touted as one of the best geth neural designers who ever lived, and people said she even stopped having children because she can build more intelligent and numerous ones on a server rather than a hospital bed.
+Her personality imprint, taken only hours before her death, was never stored in the main ancestor databanks which were destroyed by the geth. One of her offspring had the foresight to store the VI into a mobile containment unit, and she was passed down the generations in complete secrecy due to the strong taboos that developed in the aftermath of the war. 
+The VI Liat was affectionately referred to as "grandmother" by everyone who possessed her, even descendants many generations removed. Liat'Nir eventually begat a namesake descendant in Liat'Nir vas Achaz, Senna's own grandmother, who also came with him aboard the Keelah Si'yah. 
+Apparently, the real Liat was married to a volus for a short time according to the personality imprint and the experience greatly soured her opinion on the species.
+
+Specifications[]
+While regular ancestor VIs could provide an approximation of a personality through limited mix and matching of data, Liat could provide a better approximation of deductive reasoning by applying genetic algorithms to her responses, allowing her to actually solve problems and come up with unique (but potentially incomprehensible or very roundabout) solutions instead of parroting things the real Liat would have said. 
+This second mode is firewalled from her normal processes and can only be accessed if the questioner calls to her with the command phrase "Liat, I have a problem." To confirm activation of the mode, she replies "You always do, ke'sed." Senna asked her once if he would ever be happy, and her "advice" is to basically upgrade himself, speaking in computer hardware terms. When asked if Senna would see Rannoch someday, Liat simply replied "go fish."
+The VI's projection of Liat'Nir follows what she looked like in real life. A scar covered the left side of her head, caused by a geth. She had white pupilless eyes, graying hair, and her old but wiry form wrapped in purple and red woolen robes. She is technically 959 years old, accounting for the real Liat's age and the elapsed travel time when Senna boots her up during transit.
+Liat has a number of preprogrammed gestures her projection uses as idle or processing animations. While waiting for a query, she can lounge on a chair and carve up a piece of wood on her lap, or rummage through her robes for a cigarette then smoke, with the accompanying matchbox displaying various long-defunct businesses from Rannoch (Bet'salel Financial Advisors, Gaddiel & Sons Agrarian Suppliers, Ovad’ya’s Fine Cosmetics, or Macaleth All-Night Café & Cabaret, among others). While processing something, Liat can pick up a holographic stick then make drawing motions on imaginary sand, conjure up mugs of ryncol to drink, clip her toenails, or wash some laundry in a river. If persistently interrupted while processing, Liat can smash her ryncol mug against nothing in simulated irritation.
+
+Mass Effect Andromeda: Annihilation[]
+Liat is consulted by Senna for advice in his personal quarters following the rash of ship malfunctions the monitoring systems consistently fail to detect. She helpfully suggests a virus, though Senna tells her the software virus checks turned out negative. 
+Liat insists that the root of the problem should be located at the datacore and inquires how many VIs are aboard the ship. After several minutes of working the issue, she hypothesizes that in the worst case scenario cryopods will fail first but in the best case scenario comms will fail next, then either environmental controls or the tram system. Their session is interrupted by the arrival of Captain Qetsi'Olam vas Keelah Si'yah, forcing Senna to hide Liat for the moment.
+All aforementioned systems have failed as Liat predicted. Senna and Qetsi get stuck on a tram and Liat manages to fix the malfunction temporarily sometime afterward. Senna forgot to turn her off when Qetsi came by, although Liat settles into sleep mode shortly after. 
+After being roused by Senna, Liat tells him in a longwinded way that the culprit of the system malfunctions is a computer worm. Carving up a lemek worm from Rannoch to demonstrate, Liat theorizes that the worm has two instructions: to raise the temperature for the Fortinbras Plague to take hold, and to cover its tracks. The second instruction became hard to follow when the first infected person got out of cryostasis, forcing the worm to gain access to all other systems in order to continue fooling Keelah Si'yah's sensor arrays. 
+Liat doesn't take long to arrive at a solution for purging the worm. Using untainted VIs scrounged up from colonists' belongings, Senna constructs a conglomeration of interconnected devices around Liat's containment unit to boost her processing capacity in preparation for uploading her onto the ark itself. On the upside, she gains the power to hack and destroy the worm herself. On the downside, any vestiges of her personality will eventually be subsumed into the system. She and Senna discuss this at length, although in the end Senna decides to inform the captain of his solution to the malfunctions.
+Qetsi vehemently disapproves of the plan and anything approaching artificial intelligence. Before she could do anything to Liat's hardware, Senna exclaims "go fish!" to initiate the upload. Moments later, comms are restored and the ship's interface is replaced by Liat's voice and speech patterns. Full restoration is not instantaneous, although medical systems are functional enough for Liat to suggest how the cure to the ongoing plague can be made.
+With the only batch of the cure synthesized, Liat instructs awake and infected colonists to await their captain within their respective environmental zones. At the conclusion of the crisis, Liat no longer responds to her name, or to Grandmother, but to Keelah Si'yah. On the final status check before Senna is engulfed in cryostasis once more, the ship bids him goodnight and starts singing the Song for Athene.
+
+
+
+

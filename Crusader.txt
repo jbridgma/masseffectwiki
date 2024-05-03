@@ -1,0 +1,1012 @@
+
+
+
+The N7 Crusader is a shotgun in Mass Effect 3 and Mass Effect: Andromeda.
+
+Contents
+
+1 Mass Effect 3
+
+1.1 Description
+1.2 Acquisition
+1.3 Player Notes
+
+
+2 Mass Effect: Andromeda
+
+2.1 Description
+2.2 Features
+2.3 Strategies
+2.4 Stats
+2.5 Development
+
+
+3 Trivia
+
+
+Mass Effect 3[]
+
+
+
+
+
+
+
+N7 Crusader
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Shotgun
+
+
+Location
+N7 Collector's Edition Pack
+
+
+Fire Mode
+Semi-Automatic
+
+
+
+Weight
+  100% 
+
+
+Capacity
+  15% 
+
+
+Fire Rate
+  8% 
+
+
+Damage
+  70% 
+
+
+Accuracy
+  75% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+4
+20
+
+
+
+
+
+
+
+Type
+Shotgun
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+Semi-Automatic
+
+
+
+Weight
+  92% 
+
+
+Capacity
+  15% 
+
+
+Fire Rate
+  8% 
+
+
+Damage
+  70% 
+
+
+Accuracy
+  75% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+4
+20
+
+
+
+
+
+
+
+
+Description[]
+Bruised and bloody Alliance marines on Torfan attributed their survival against waves of batarian mercenaries to the precision and stopping power of the Crusader. With a design patterned on riot shotguns, this weapon has a moderate rate of fire that rewards careful aiming. Since this accuracy requires little room for error, the Crusader is primarily used by highly trained soldiers.
+
+Acquisition[]
+Single-player
+The N7 Crusader is included in the N7 Collector's Edition Pack as a bonus item for players who order the Collector's or Digital Deluxe Edition of Mass Effect 3. An e-mail is received  as part of the acquisition package.
+
+
+
+
+N7 Weaponry
+
+
+From: Lt. D. Eugene
+
+Commander Shepard:
+
+Your VI, EDI, put in a request to me for a handful of N7-grade weapons. Happy to oblige. I led the engineers who retrofitted the Normandy when it was turned over to the Alliance. EDI kept me company when we were overhauling the Normandy's interior. She's a beautiful ship, Commander. I'll miss working on her.
+
+I left the guns in your weapons locker.
+
+Best of luck,
+Lieutenant D. Eugene
+
+Alliance Engineering Corp.
+
+
+In the Legendary Edition it is available from the Spectre Requisitions terminal in the Citadel Embassies for a base amount of 125,000 credits.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The N7 Crusader is categorized as ultra-rare and requires no multiplayer expansion packs.
+
+Player Notes[]
+GeneralSingle-playerMultiplayer
+General
+Instead of a spray of pellets, the Crusader fires a single, precision, high-powered slug. Four shots can be fired semi-automatically before needing to reload.
+Like several other weapons, the Crusader can penetrate objects by default. It has an innate 50cm shot penetration, which is already enough to get through most thinner obstacles, Guardians' handheld shields, as well as enemy armor plating.
+Shots that penetrate objects suffer no damage penalty for doing so unless Armor-Piercing Ammo (though not Armor-Piercing Rounds or Drill Rounds in multiplayer) is active on the weapon. The Shotgun Shredder Mod and Shotgun High-Velocity Barrel likewise will not penalize the damage of shots that pierce through objects when equipped on this weapon, despite the mods' descriptions. Equipping both grants the Crusader up to 1.8 meters of penetration.
+The Crusader is very accurate by default; also, unlike most shotguns, its accuracy can be further improved by aiming down sights (zooming), making it more than capable of landing precise shots at long range, though this exacerbates recoil.
+The Shotgun Smart Choke mod can further improve its accuracy, though only marginally, and only when aimed down sights.
+Like most shotguns, the Crusader gains no accuracy benefit from being fired from cover.
+The Crusader's damage-per-shot exceeds the M-99 Saber and is on par with powerful sniper rifles like the M-92 Mantis; unfortunately, it is far heavier than either, and one of the heaviest weapons in the game. It's comparable with the Black Widow: while lacking the Black Widow's long-range accuracy and slightly less damaging per shot, the Crusader is much more effective at shorter ranges and has a faster rate of fire.
+The Crusader has a high rate of fire for a shotgun as well as a very fast reload; however, a large amount of vertical recoil is produced after each shot, which will cause rapidly-fired shots to miss if not compensated for.
+Because all of the damage is placed into a single slug projectile and not multiple lower-damage pellets, the Crusader is more effective by default against armored targets when compared to other shotguns. However, this same property does mean it is more hampered by enemy shield gates, especially on higher difficulties.
+High-level Disruptor Ammo (single-player) or Disruptor Rounds/Phasic Rounds (multiplayer) greatly mitigates issues against enemy shields or barriers and even allows the Crusader to ignore shield gates. This can make the Crusader capable of handling any foe at any range with ease.
+Even though it is a hitscan weapon, there a 0.1 second delay between trigger pull and the Crusader actually firing, which can make it tougher to hit moving targets with precision.
+To mitigate, shoot where you expect the enemy to be in a split second.
+The above is actually a characteristic of most shotguns, but only the Crusader has a delay long enough to be especially problematic.
+The Crusader has a moderate ammo reserve that can be used up quickly with extensive use. The Shotgun Spare Thermal Clip mod can mitigate this issue.
+Single-player
+Unlike most shotguns, equipping the Crusader on a squadmate will prompt that character to keep their distance from the enemy instead of closing in. As squadmates are not affected by weapon weight, recoil, or ammo limitations, the Crusader's high damage and effectiveness at range makes it a natural choice for them.
+Only a Soldier with a weight capacity of 100 can carry the Crusader without power recharge penalties, and even then the weapon must be high level and modded with Shotgun Ultralight Materials.
+Multiplayer
+Because the Crusader has very sharp recoil, it will benefit considerably from powers, weapon mods, gear, and consumables that reduce recoil. The Crusader can also perform well in the hands of turian characters or the Geth Juggernaut Soldier due to their natural stability bonuses from passive class powers.
+Mass Effect: Andromeda[]
+
+
+N7 Crusader
+
+
+
+
+
+							Default
+							
+						
+
+
+
+							Bulwark
+							
+						
+
+
+
+							Concussive
+							
+						
+
+
+
+							Siphon
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Category
+Shotguns
+
+
+Rarity
+Ultra Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+360-554
+
+
+Rate of Fire
+80
+
+
+Max Clip Size
+4
+
+
+Max Ammo
+28-35
+
+
+Accuracy
+44-55
+
+
+Weight
+35-18
+
+
+
+
+
+Base Stats
+
+Damage
+702-812
+
+
+Rate of Fire
+100
+
+
+Max Clip Size
+8
+
+
+Max Ammo
+34-43
+
+
+Accuracy
+44-55
+
+
+Weight
+35-18
+
+
+
+Bulwark
+
+Damage Resistance (1 Ally): 15-25Damage Resistance (2 Allies): 22-37Damage Resistance (3 Allies): 30-50
+
+
+
+Concussive
+
+Area Damage: 800-1500Radius (m): 7.50
+
+
+
+Siphon
+
+% Damage Returned as Health: 3-3.75% Heal Bonus per kill: 4.5Kill Streak Duration (s): 7Max. Kill Bonus: 3
+
+
+
+
+
+
+Description[]
+This semi-automatic weapon has greater accuracy than most shotguns because it fires an ultra-dense projectile instead of a typical pellet cluster. The Initiative's stock of N7 Crusaders are heavily modified compared to those used in the Milky Way's Systems Alliance.
+
+Features[]
+The multiplayer N7 Crusader got improved damage, rate of fire, clip size and max ammo in the very last update. Prior to that, balance changes to the weapon were further damage and clip size improvements. Bullet trails were also added to the fired slug for visibility.
+
+Strategies[]
+
+Stats[]
+SingleplayerMultiplayer
+Singleplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+360
+
+80
+
+4
+
+28
+
+44
+
+35
+
+
+II
+
+382
+
+80
+
+4
+
+29
+
+47
+
+33
+
+
+III
+
+403
+
+80
+
+4
+
+30
+
+49
+
+31
+
+
+IV
+
+425
+
+80
+
+4
+
+30
+
+51
+
+29
+
+
+V
+
+446
+
+80
+
+4
+
+31
+
+52
+
+27
+
+
+VI
+
+468
+
+80
+
+4
+
+32
+
+53
+
+25
+
+
+VII
+
+489
+
+80
+
+4
+
+33
+
+53
+
+23
+
+
+VIII
+
+511
+
+80
+
+4
+
+33
+
+54
+
+21
+
+
+IX
+
+532
+
+80
+
+4
+
+34
+
+54
+
+19
+
+
+X
+
+554
+
+80
+
+4
+
+35
+
+55
+
+18
+
+Multiplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+702
+
+100
+
+8
+
+34
+
+44
+
+35
+
+
+II
+
+714
+
+100
+
+8
+
+35
+
+47
+
+33
+
+
+III
+
+726
+
+100
+
+8
+
+36
+
+49
+
+31
+
+
+IV
+
+738
+
+100
+
+8
+
+36
+
+51
+
+29
+
+
+V
+
+751
+
+100
+
+8
+
+37
+
+52
+
+27
+
+
+VI
+
+763
+
+100
+
+8
+
+38
+
+53
+
+25
+
+
+VII
+
+775
+
+100
+
+8
+
+39
+
+53
+
+23
+
+
+VIII
+
+787
+
+100
+
+8
+
+39
+
+54
+
+21
+
+
+IX
+
+799
+
+100
+
+8
+
+40
+
+54
+
+19
+
+
+X
+
+812
+
+100
+
+8
+
+43
+
+55
+
+18
+
+Development[]
+
+
+Rank
+
+ Research Cost
+
+ Omni-Gel Canister
+
+ Copper
+
+ Cadmium
+
+ Vanadium
+
+ Augmentation Slots
+
+
+I
+
+150
+
+30
+
+120
+
+60
+
+10
+
+0
+
+
+II
+
+175
+
+30
+
+140
+
+70
+
+20
+
+4
+
+
+III
+
+200
+
+40
+
+150
+
+70
+
+20
+
+4
+
+
+IV
+
+225
+
+40
+
+170
+
+80
+
+20
+
+4
+
+
+V
+
+250
+
+50
+
+190
+
+90
+
+20
+
+4
+
+
+VI
+
+275
+
+50
+
+200
+
+100
+
+30
+
+4
+
+
+VII
+
+300
+
+50
+
+210
+
+100
+
+30
+
+4
+
+
+VIII
+
+325
+
+50
+
+230
+
+110
+
+30
+
+4
+
+
+IX
+
+350
+
+60
+
+230
+
+110
+
+30
+
+4
+
+
+X
+
+375
+
+60
+
+240
+
+120
+
+30
+
+4
+
+
+Total
+
+2625
+
+460
+
+1880
+
+910
+
+240
+
+N/A
+
+Trivia[]
+A Crusader was a participant in the Crusades; a series of religious wars waged by the Catholic Church between the 11th to 13th century to defend Anatolia and recapture Jerusalem from the Seljuk Turks.
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect 3 Downloadable Content
+
+
+
+
+Promotional
+
+AT-12 Raider • Chakram Launcher • Collector Rifle • M-55 Argus  M-90 Indra • N7 Collector's Edition Pack • N7 Warfare Gear • Reckoner Knight Armor
+
+
+Single-Player
+
+From Ashes • Extended Cut • Firefight Pack • Leviathan • Groundside Resistance Pack  Alternate Appearance Pack 1 • Omega • Citadel • Genesis 2
+
+
+Multiplayer
+
+Online Pass • Resurgence Pack • Rebellion Pack • Earth • Retaliation • Reckoning
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

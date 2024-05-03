@@ -1,0 +1,108 @@
+
+
+
+
+
+Keimowitz
+
+Region
+Milky Way / Sigurd's Cradle / Skepsis
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+16.8 AU
+
+
+Orbital Period
+69.1 Earth Years
+
+
+Keplerian Ratio
+0.993
+
+
+Radius
+9,586 km
+
+
+Day Length
+29.7 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+−190 °C 
+
+
+Surface Gravity
+3.4 g
+
+
+Mass
+7.623 Earth Masses
+
+
+Satellites
+1
+
+
+Location: Milky Way / Sigurd's Cradle / Skepsis System /  Sixth planet
+
+Prerequisite: N7: MSV Strontium Mule (Mass Effect 2)
+
+Description[]
+Named for the 21st century pioneer of groundwater remediation techniques, Keimowitz is an impressive layer of ice over a stony metallic core. Despite its size, it has only one moon, Noa, which shares its carbonaceous composition, leading astronomers to believe it formed following a giant impact. Iridium deposits have attracted miners to the planet, who must work through robots and telepresence because of the planet's strong gravity.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Low
+
+3,700
+
+
+Platinum
+
+High
+
+15,900
+
+
+Iridium
+
+Low
+
+4,700
+
+
+Element Zero
+
+None
+
+0
+
+Trivia[]
+Like other planets in the Skepsis system, Keimowitz appears to be named after a scientist. It is possibly named after Alison R. Keimowitz.
+
+
+

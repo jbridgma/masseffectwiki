@@ -1,0 +1,156 @@
+
+
+
+Elaaden is an arid, burning desert, but Remnant technology could make conditions more livable for Milky Way species and the angara. The key to doing so is the vault, which can be unearthed by activating the Remnant monoliths scattered about the planet.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Activate Elaaden's monoliths
+
+2.1.1 Make this dust bowl livable: Monolith 1
+2.1.2 Make this dust bowl livable: Monolith 2
+2.1.3 Make this dust bowl livable: Monolith 3
+
+
+2.2 Investigate the vault's entrance
+2.3 Activate emergency power
+2.4 Remove the vault's lockdown
+
+2.4.1 Purification Chamber Door
+2.4.2 Purification Chamber Bridge
+2.4.3 Additional Items
+2.4.4 Vault Core
+
+
+2.5 Escape the purification field and exit the vault
+
+
+3 Aftermath
+4 Rewards
+5 Enemies
+6 Puzzle Solutions
+
+
+Acquisition[]
+Prerequisite: Elaaden: A New World
+
+The mission starts on first approach to one of the three monoliths on Elaaden.
+
+Walkthrough[]
+Note: It is not necessary to complete this mission in order to complete Settling Elaaden. Completing the objectives for that mission will push viability beyond the 40% threshold required. However, activating the vault early on will make it easier to complete the various other missions on the planet as the hazard levels will be removed by activating the vault.
+
+Activate Elaaden's monoliths[]
+Once more there are three monoliths that need activating. Every monolith has 3 missing glyphs each that require searching by following the power lines snaking out of the console, visible through scanning. 
+The monoliths have no Remnant machines guarding them, making activation largely a ceremonial affair.
+
+Make this dust bowl livable: Monolith 1[]
+Head east-southeast of the Forward Station in the western Sea of Ataraxia region. This is the Western Monolith.
+Scan the three glyphs on the top of the arms of the Remnant structure. Magnitude, Nihility, and Verdurous Glyphs. Use the small Remnant console on the platform near the main Remnant console to raise columns so that Ryder can jump up to the arms of the structure.
+Interact with the main Remnant console to activate the monolith.
+
+Make this dust bowl livable: Monolith 2[]
+Head east of the Forward Station in the northeastern Sea of Ataraxia region. This is the Northeastern Monolith.
+Scan the three glyphs on the top of the arms of the Remnant structure. Accretion, Hydrodynamic, Stratospheric Glyphs. Jump up to the arms of the structure to scan the glyphs.
+This is the only monolith with a Remnant puzzle. Solve it for activation (needed for the Cryptographer Achievement). For the puzzle console solution, see below.
+
+Make this dust bowl livable: Monolith 3[]
+Head to the Paradise Sands region directly west of the Forward Station. This is the Southern Monolith.
+Scan the three glyphs on top of the arms of the Remnant structure. Semiosis, Synaptic, and Zero Glyphs. Use the three small Remnant consoles on the platform near the main Remnant console to raise columns so that Ryder can jump up to the arms of the structure.
+Interact with the main Remnant console to activate the monolith.
+
+Investigate the vault's entrance[]
+Head to the vault in the Languish region (northeast of the Western Monolith).
+The entrance will rise from the ground when Ryder approaches. Descend into the vault and take the gravity well down.
+
+Activate emergency power[]
+After Ryder lands in the room, the power needs to be restored. Activate the Remnant console on the upper ledge.
+Behind a small wall on the upper ledge is a lootable container. Scan the Adaptive Remnant Core Device in the lower section for +100 .
+If you go under the upper ledge on the gravity well deposit level, there's another lootable container (i.e. - below the Remnant Console)
+
+Remove the vault's lockdown[]
+To open the door the next room you have to use the five consoles so that each of them sends a bright white beam (compared to the pale white beam signaling deactivation) to the door. Each console changes the setting of its own beam and the beams to the right and left of the console, wrapping around to the other side for the consoles on the extreme right and left. This might be a frustrating exercise, however in fact, most of the consoles are to be ignored. Facing the door, number the extreme left console (1), the next console (2), and so on until the extreme right console being (5).
+Left (1) (2) (3) (4) (5) Right
+To solve the puzzle and open the door, activate console (5), and then console (4). The door will then open into another room with a huge tree structure in the center.
+
+The tree has three Assemblers walking around it, so clear them out. In the center of the room, next to the tree, is the vault activation console. Scanning the console reveals it is currently locked down. Ryder will be able to use this console during the escape from the purification field.
+Take note of the wall behind the console - east when viewed from the map. It can open up later when you've progressed deeper into the vault.
+The door to the west leads to a corridor with an Assembler and a Nullifier standing by. Interacting with the Remnant console in this corridor will change the energy bubbles in this section from blue to red and simultaneously raises some barriers on the floor. Red energy bubbles will deplete Ryder's shields if touched or entered so avoid contact. Any dome that leaves a red circle on the ground will damage Ryder, any dome that leaves a blue colored circle on the ground will help restore shields. Bubbles can change when consoles are activated so pay attention.
+
+Open the door at the end of the corridor into the next very large chamber. The immediate area ahead has 3 Observers minding their own business until they become aware of you. Protected by an energy shield in the midsection is the first of two rem-tech containers in the vault and approaching it will cause SAM to mark it with a navpoint  for later.
+The power line visible only through scan runs toward the door ahead, but the way is impassable even with sprint-jumping. As SAM helpfully reminds when Ryder approaches the gap, you will have to look for a console (two, in fact) to solve the problem.
+
+Purification Chamber Door[]
+Head back up to the area with the energy shield, face the west, and interact with the two Remnant consoles that raise/lower columns up from the depths. The left console controls columns on the left, the right console controls the columns on the right. 
+There are two other consoles on the columns opposite the previous two. The idea is to have all four beams from the four consoles to converge at a single point at the center. To activate the far left console, turn the near left console on to raise the corresponding column. Use it to reach the far left console, activate, return to the near left console and then interact with the left console again to lower the used column and restore its beam to the center. Repeat the procedure for the far right console.
+Done correctly, a column with another console will rise up where the four beams meet. Before activating the new console and opening the west door do not forget the Adaptive Remnant Core Device (+100 ) on the ledge below the near right console.
+Jump across to the platform with the newly opened door.
+
+On the other side the door are five Assemblers and a turret. Beside the turret is a console that will enable you to turn it against the other machines. At the end of the curved corridor is a Remnant console. Activate the console and two beams of light will be created. One beam causes columns to rise out of the depths that leading back to the energy barrier area. The other beam of light will unlock the door to the purification chamber. On the ledge below this console, there is a small loot container off to the left.
+Return to the central area with the energy barrier.
+
+Purification Chamber Bridge[]
+The eastern part of the chamber is marked by another big tree on a platform and a tall column by its side. The tall column has a lootable container that can be reached if, as Ryder says, you "poke around."
+
+The central area with the energy barrier has a lower ledge that has a console, below the left side of the initial door to the chamber (east when viewed from the map). Activating it raises the first of two platforms for reaching the tall column. Jump on it, and you'll see that the tall column has a short ledge for jumping to some columns behind it that leads to the second console.
+Reaching the tallest column requires making your way back to the ledge area of the first console and jumping from there. To save time you can use the accessible columns in front of the second console to jump to the tree's platform and make your way back from there.
+
+Once you've looted the tallest column container (or if you don't care to), go on to the tree platform and survey the area in front: a wide-open cavern stocked with energy barriers, ferrofluid canals and Remnant mechs. The console near the tree controls whether the energy barriers harm Ryder or not (they're set to harm by default) and whether the bridge is retracted or not (it's up by default although there are platforms to sprint-jump on the right if it's down), so toggle it at will.
+Going forward is going to be a firefight. Recommended course of action is to clear the entire area first before treasure-hunting. On the right is a Nullifier. In front and on the sideways are at least four Assemblers. On the raised middle platform there are two turrets (with a nearby console for controlling them), an ammo pickup, and two Observer Replication Control devices that spawn the namesake machines when you're near. 
+
+At the highest set of platforms east two Nullifiers and a Destroyer appear when you approach. The consoles near them simply toggle the energy fields at their far end, so use them as the situation dictates. 
+Directly below the highest platforms east, in the ferrofluid "swamp", at least three Assemblers and an Observer spawn on approach. They're the last enemies in the area.
+There isn't a lot of loot in the cavern aside from the usual health and ammo pickups. On the easternmost rocks just below the impassable Remnant tunnel there's a container. On a platform in the ferrofluid "swamp", another container. On the raised ledge southwest from the Destroyer fight platform, an Adaptive Remnant Core Device (+100 ). East from across the doorway to the vault center, another Adaptive Remnant Core Device (+100 ) and the console that will activate the bridge for the purification chamber. 
+If you don't care for the other items in the area you can now cross the bridge, fight the usual Remnant guards, activate the purification console and run back using the north path. If not, proceed back to the easternmost door guarded by the Destroyer earlier and use the nearby console to open it.
+
+Additional Items[]
+Inside the room on top of the column is a Puzzle Console in the center. Solve the puzzle (also required for the Cryptographer Achievement). Ryder receives 2 skill points. For the puzzle console solution, see below. Note:  This puzzle can't be overridden with a Remnant Decryption Key and must be solved. 
+There also are seven smaller Remnant consoles of which two are retracted into the floor. The other five have to be activated in order so all five are retracted into the floor. If the wrong console is used, the puzzle resets and you'll have to start again.
+The key to the puzzle is that all but one of the consoles will have a rotating glowing square block appear behind it as Ryder approaches. Activate the one console WITHOUT a glowing block and it will retract. Head to the remaining consoles to find the console without a glowing block and activate that console. Keep doing this until all five have retracted.
+
+When all of the consoles are retracted into the floor, the two additional consoles will rise. Using the two new consoles will open two areas.
+The eastern console removes a wall and leads to a room with a Remnant Data Core for Task: Remnant Data Cores. There are three Adaptive Remnant Core Devices that can be scanned for +300 . There are also three glyphs (Accretion, Kinetic, and Thermodynamic Glyphs) and six data patterns on the walls that can be scanned, although there is no known use for scanning these items.
+The western console opens a door to an energy barrier and the path to the second rem-tech container that can be picked up during the escape from the purification field.
+
+Vault Core[]
+Once all of the items have been collected, head back down to the energy barrier area and then straight to the purification chamber.
+Inside the purification chamber are three Nullifiers. Defeat them.
+If you are attempting to collect both rem-tech containers, saving the game now would be an excellent strategy. The energy fields around the containers will drop, as usual, upon using the console.
+After activating the purification console, the Fusion Mod of Rupture is automatically awarded. Time to run.
+
+Escape the purification field and exit the vault[]
+If you don't care about the second rem-tech container, take the path to the north, picking up the first rem-tech container on the way, and interact with the Activation Console to turn off the purification field. 
+
+If you want to obtain both rem-tech containers, after picking up the first one take the long route east instead of the much shorter north. Do not be daunted by the multiple jumps across many platforms, as soon as you reach solid ground it should be a trivial matter to dash/run all the way back to the skill points chamber, into the now-disabled field for the second container, then right in front of the Activation Console.
+It may seem counterintuitive, but as long as you don't backtrack or backslide during the mad dash forward you won't run into the purification field no matter how long the route. The north path requires going past the Activation Console chamber to reach the second container, and due to how the purification field is always almost behind Ryder by that point it is virtually impossible to reach the console in time after looting the container.
+Once you're sure you've looted everything including those in the starting chamber, take the gravity well up, exit the vault and ride the Nomad for SAM's status report on the situation.
+
+Aftermath[]
+The temperature on Elaaden has become noticeably lower (34°C from 49°C and still getting colder) and doesn't deplete Life Support anymore. Humidity increases by 21%, and there are now the beginnings of wispy cloud particulates in the sky.
+
+Rewards[]
++1330 XP
++900 AVP 
++40% Elaaden viability
+Enemies[]
+Assembler
+Destroyer (Remnant)
+Nullifier
+Observer
+Puzzle Solutions[]
+Main article: Remnant Decryption Puzzle Guide
+
+
+
+
+
+
+
+Northeastern Monolith
+
+Vault Console
+
+
+
+

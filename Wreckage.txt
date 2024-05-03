@@ -1,0 +1,1369 @@
+
+
+
+
+
+
+
+This article is about the system in Mass Effect 3 to recover War Assets. For the system used to scan planets for resources in Mass Effect 2, see Planet Scanning.
+
+
+Search and Rescue is a system in Mass Effect 3 that replaces the Planet Scanning mini-game from Mass Effect 2. The Normandy SR-2 is equipped with a new and improved scanning pulse that can detect objects of interest. This can be used to uncover War Assets, artifacts, intel, and salvage as the player flies around a system. The effective range of a pulse is limited, so multiple scans are often required to cover an entire system. Objects of interest can be found in numerous celestial bodies and oftentimes in the empty spaces between planets as well: wreckage floating around and initially unseen on the Galaxy Map can also be salvaged for fuel.
+
+Contents
+
+1 Mechanics
+2 Reaper detection
+3 Detection Types
+4 Planet Scanning Guide
+
+
+Mechanics[]
+The system scanning itself is done by a push of a button wherein a pulse originates out from the ship for a short distance revealing anything of interest within its effective range. Once a point of interest is found, be it something on a planet or a wreck in space, it shows up with a red circle and marker that allows the player to fly to it. When flying over a wreck, the player may interact with the object by investigating it. If the object is on a planet, the Normandy must be flown into the planet's atmosphere. From here, the player may scan the planet's surface in a manner similar to the Planet Scanning system of Mass Effect 2. When the point of interest on a planet is located, a probe must be sent out to retrieve it. Unlike Mass Effect 2, the Normandy has an infinite number of probes and does not need to purchase any of them.
+It is possible to find and salvage solar system wreckage that is not on planets without using the scanner. When the Normandy flies over wreckage, a tone can be heard. The player can then double click (on the PC) on that spot to salvage the fuel from the wreckage without having first scanned it. Note that salvaging wreckage in this manner will not cause the "XX% Assets Recovered" indicator to be displayed, although it will be updated if it is already displayed. Conversely, planets must be system scanned before the planetary scanner button will be present after entering orbit.
+In total, 1290 War Assets can be obtained from the Search and Rescue system, with an additional 200 from Mass Effect 3: Leviathan, 440 from artifacts, and 50 from completing Aria: Blue Suns using the Paragon route. A total of 100,000 credits can be salvaged, with an additional 10,000 from Mass Effect 3: Leviathan and 170,000 from artifacts.  In addition, 7 Intel items can be found.
+A pop-up window occurs on entering the first system outside of the Serpent Nebula with a brief explanation of the mechanics and that performing a mission is sufficient to wait out any Reapers active in the system.
+
+Reaper detection[]
+Every scanning sweep done in a system that does not contain a mission fills a small meter that indicates the Reapers' growing awareness of the Normandy's location. This bar fills faster or slower depending on how many entry points to the system the Reapers have, and how close to them the player is when the Scanner is used. Once the meter fills, all Reapers occupying the system enter it, and chase the Normandy. The only way to evade capture and destruction by the Reapers is to exit the system, either by reaching the system boundaries or by reaching the mass relay in a gateway system. Reaper awareness meters on all compromised systems are reset after completing a mission.
+Although Reapers will eventually reach higher speed than the Normandy, their initial movements are slow. One can easily scan the system quickly to find all the points of interest and then evade the Reapers. Reapers do not advance on you as you investigate a place of interest. However, it is not suggested that you conduct a mission while Reapers are in your system. Note that sending a scanning pulse will momentarily decrease your speed slightly.
+The location of your ship when re-entering an alarmed system depends on the way your ship faces before entering: the Normandy will enter the system at such a point that the ship's FRONT will face towards the CENTRAL STAR, and the ship will be facing the same direction it does on the cluster map. This can be used to great advantage if you know about a point of interest near the edge of the star system - fly out of the system (to the cluster map), and with a tiny engine burst, orient yourself in the appropriate direction. When you click on "Enter system", you will be near the point of interest and can retrieve it before Reapers even reappear.
+
+Detection Types[]
+Note:  The identity of an object found on a planet is only revealed after a probe has been launched to its location.
+
+
+
+Resource
+
+Upgrades
+
+
+Wrecks
+
+Wrecks of various types of vessels, contains fuel.
+
+
+Military Units (Planets)
+
+A military unit, either ground forces or a ship is found that has evaded the Reapers.
+
+
+Upgrades (Planets)
+
+Some kind of upgrade is found on the planet.
+
+
+Objects (Planets)
+
+Some type of object is found, triggering a side mission.
+
+
+Credit Caches (Planets)
+
+A credit cache is found on the planet.
+
+Planet Scanning Guide[]
+This table contains the locations of various wrecks, war assets, upgrades, credits or mission specific items, listed by cluster, system, and planet. Locations not on this list do not have any searchable objects. 
+All wreckage fuel is transferred to the Normandy immediately upon clicking the Investigate button, whether the ship's fuel capacity is full or not. It is therefore strategic to leave wreckage in the system with the relay alone initially and then consume it after exploring the other systems in the cluster. This uses the wreckage to cover the cost of the return to the relay system rather than throwing it away.
+If JavaScript is enabled, the columns may be sorted by clicking on the up/down arrow icons in the column headers.
+
+
+
+Cluster
+
+System
+
+Location
+
+War Asset
+
+
+Aethon Cluster
+
+Aru
+
+Irune
+
+Artifact: Book of Plenix
+
+
+Aethon Cluster
+
+Aru
+
+West of Irune, north-west of asteroid belt
+
+Wreckage - 200 fuel
+
+
+Aethon Cluster
+
+Aru
+
+Cherk Sab
+
+Volus Fabrication Units
+
+
+Aethon Cluster
+
+Esori
+
+Solu Paolis
+
+Volus Dreadnought Kwunu
+
+
+Aethon Cluster
+
+Esori
+
+East-south-east of star, between 3rd and 4th ring
+
+Wreckage - 300 fuel
+
+
+Aethon Cluster
+
+Nura
+
+Oma Ker
+
+Intel: Volus Intelligence Archives
+
+
+Aethon Cluster
+
+Nura
+
+Northeast of Star, before 3rd ring
+
+Wreckage - 250 fuel
+
+
+Aethon Cluster
+
+Satu Arrd
+
+Nalisin
+
+Volus Engineering Team
+
+
+Aethon Cluster
+
+Satu Arrd
+
+West-southwest of star, near 3rd ring
+
+Wreckage - 200 fuel
+
+
+Apien Crest
+
+Castellus
+
+South of Fiax, East of Nios
+
+Wreckage - 350 fuel
+
+
+Apien Crest
+
+Castellus
+
+Digeris
+
+Artifact: Banner of the 1st Regiment
+
+
+Apien Crest
+
+Gemmae
+
+Pheiros
+
+Turian 79th Flotilla
+
+
+Apien Crest
+
+Gemmae
+
+South of Pheiros
+
+Wreckage - 800 fuel
+
+
+Apien Crest
+
+Gemmae
+
+West of Pheiros
+
+Wreckage - 750 fuel
+
+
+Arcturus Stream
+
+Arcturus
+
+Arcturus Station
+
+Intel: Intel from Battle of Arcturus
+
+
+Arcturus Stream
+
+Arcturus
+
+West of Themis
+
+Wreckage - 350 fuel
+
+
+Arcturus Stream
+
+Euler
+
+Southwest of Yukawa
+
+Wreckage - 100 fuel
+
+
+Argos Rho
+
+Gorgon
+
+Camaron
+
+Advanced Power Relays
+
+
+Argos Rho
+
+Hydra
+
+South of Star, 2nd ring
+
+Wreckage - 270 fuel
+
+
+Argos Rho
+
+Hydra
+
+Canrum
+
+Haptic Optics Array
+
+
+Argos Rho
+
+Phoenix
+
+Pinnacle Station
+
+Turian Spec Ops Team
+
+
+Argos Rho
+
+Phoenix
+
+Intai'sei
+
+Artifact: Fossilized Kakliosaur
+
+
+Argos Rho
+
+Phoenix
+
+East-north-east of Intai'sei
+
+Wreckage - 450 fuel
+
+
+Athena Nebula
+
+Ialessa
+
+East of star, between third and fourth ring
+
+Wreckage - 500 fuel
+
+
+Athena Nebula
+
+Ialessa
+
+Trikalon
+
+Asari Engineers
+
+
+Athena Nebula
+
+Orisoni
+
+Egalic
+
+Asari Research Ships
+
+
+Athena Nebula
+
+Orisoni
+
+East-southeast of star, between second and third ring
+
+Wreckage - 350 fuel
+
+
+Athena Nebula
+
+Parnitha
+
+Tevura
+
+Asari Cruiser Cybaen
+
+
+Athena Nebula
+
+Tomaros
+
+South of Niagolon
+
+Wreckage - 200 fuel
+
+
+Athena Nebula
+
+Tomaros
+
+Pronoia
+
+Asari Cruiser Nefrane
+
+
+Athena Nebula
+
+Vernio
+
+Polissa
+
+Artifact: Hesperia Period Statue
+
+
+Athena Nebula
+
+Vernio
+
+Northeast of star, just past asteroid belt
+
+Wreckage - 400 fuel
+
+
+Attican Beta
+
+Hercules
+
+Eletania
+
+Interferometric Array
+
+
+Attican Beta
+
+Hercules
+
+Southeast of star, between 2nd and 3rd ring
+
+Wreckage - 370 fuel
+
+
+Attican Beta
+
+Theseus
+
+Feros
+
+ExoGeni Scientists
+
+
+Attican Beta
+
+Theseus
+
+Northeast of star, east of Feros
+
+Wreckage - 240 fuel
+
+
+Caleston Rift
+
+Aysur
+
+North-north-east of the star, just outside fourth ring
+
+Wreckage - 150 fuel1
+
+
+Caleston Rift
+
+Balor
+
+North of the star, between second and third ring
+
+Wreckage - 350 fuel1
+
+
+Caleston Rift
+
+Balor
+
+Bres (asteroid belt north of star)
+
+Synthdiamond Heat Sinks1
+
+
+Crescent Nebula
+
+Lusarn
+
+Beyalt (asteroid belt northwest of star)
+
+Salvage - 10,000 credits1
+
+
+Crescent Nebula
+
+Lusarn
+
+East of star and southwest of Tarith, between third and fourth ring
+
+Wreckage - 150 fuel1
+
+
+Crescent Nebula
+
+Tasale
+
+Illium
+
+Liquid Assets1
+
+
+Crescent Nebula
+
+Tasale
+
+North of Illium, just above the third ring
+
+Wreckage - 350 fuel1
+
+
+Exodus Cluster
+
+Asgard
+
+Tyr
+
+Alliance Naval Exploration Flotilla
+
+
+Exodus Cluster
+
+Asgard
+
+Terra Nova
+
+Alliance Cruiser Shanghai
+
+
+Exodus Cluster
+
+Asgard
+
+Loki
+
+Alliance Spec Ops Team Delta
+
+
+Exodus Cluster
+
+Asgard
+
+Northwest of star, between third and fourth ring
+
+Wreckage - 250 fuel
+
+
+Exodus Cluster
+
+Asgard
+
+Borr
+
+Intel: Remains of Reaper Destroyer
+
+
+Exodus Cluster
+
+Utopia
+
+South of Eden Prime, between second and third ring
+
+Wreckage - 200 fuel
+
+
+Exodus Cluster
+
+Utopia
+
+Zion
+
+Prothean Data Files
+
+
+Gemini Sigma
+
+Han
+
+East of star, between fourth and fifth ring
+
+Wreckage - 470 fuel
+
+
+Gemini Sigma
+
+Han
+
+Mavigon
+
+Salvage - 10,000 credits
+
+
+Gemini Sigma
+
+Ming
+
+Southeast of star, below Antiroprus
+
+Wreckage - 320 fuel
+
+
+Gemini Sigma
+
+Ming
+
+Parag
+
+Alliance Cruiser Nairobi, Alliance Third Fleet
+
+
+Hades Gamma
+
+Antaeus
+
+Southwest of the Mass Relay, between the fifth and sixth ring
+
+Wreckage - 300 fuel
+
+
+Hades Gamma
+
+Antaeus
+
+Trebin
+
+Salvage - 10,000 credits
+
+
+Hades Gamma
+
+Cacus
+
+Chohe
+
+Salvage - 10,000 credits
+
+
+Hades Gamma
+
+Cacus
+
+West of Xamarri, between fourth and fifth ring
+
+Wreckage - 400 fuel
+
+
+Hades Gamma
+
+Dis
+
+Northeast of Nearrum
+
+Wreckage - 200 fuel
+
+
+Hades Gamma
+
+Dis
+
+Klensal
+
+Salvage - 10,000 credits
+
+
+Hades Gamma
+
+Farinata
+
+Between star and Juntauma
+
+Wreckage - 200 fuel
+
+
+Hades Gamma
+
+Farinata
+
+Juntauma
+
+Alliance Frigate Agincourt, Alliance First Fleet
+
+
+Hades Gamma
+
+Plutus
+
+Nonuel
+
+Special Ops Team Zeta, 103rd Marine Division
+
+
+Hades Nexus
+
+Hekate
+
+East of star and Southwest of Mass Relay, between second and third rings
+
+Wreckage - 380 fuel
+
+
+Hades Nexus
+
+Hekate
+
+Asteria
+
+Alliance Frigate Hong Kong, Alliance Fifth Fleet
+
+
+Hades Nexus
+
+Hoplos
+
+Kopis
+
+Artifact: Obelisk of Karza
+
+
+Hades Nexus
+
+Hoplos
+
+West of star, near fourth ring
+
+Wreckage - 250 fuel
+
+
+Hades Nexus
+
+Pamyat
+
+Dobrovolski
+
+Alliance Frigate Leipzig, Alliance First Fleet
+
+
+Hades Nexus
+
+Pamyat
+
+South of star, between third ring and asteroid belt
+
+Wreckage - 100 fuel
+
+
+Hades Nexus
+
+Sheol
+
+Gei Hinnom
+
+Artifact: Prothean Sphere
+
+
+Hourglass Nebula
+
+Faryar
+
+Alingon
+
+Shadow Broker Starship Tech
+
+
+Hourglass Nebula
+
+Faryar
+
+Northwest of Alingon
+
+Wreckage - 600 fuel
+
+
+Hourglass Nebula
+
+Osun
+
+Erinle
+
+Salvage - 10,000 credits
+
+
+Hourglass Nebula
+
+Osun
+
+Southwest of Erinle
+
+Wreckage - 100 fuel
+
+
+Hourglass Nebula
+
+Ploitari
+
+Zanethu
+
+Terminus Freighters
+
+
+Hourglass Nebula
+
+Sowilo
+
+Hagalaz
+
+Shadow Broker Support Team
+
+
+Hourglass Nebula
+
+Sowilo
+
+North of star (Between 4th & 5th Rings)
+
+Wreckage - 200 fuel
+
+
+Ismar Frontier
+
+Aquila
+
+Metaponto
+
+Intel: Advanced Biotic Implants
+
+
+Kite's Nest
+
+Harsa
+
+Verush
+
+Intel: Weapon Upgrade Kit
+
+
+Kite's Nest
+
+Harsa
+
+West of Verush
+
+Wreckage - 300 fuel
+
+
+Kite's Nest
+
+Harsa
+
+Khar'shan
+
+Artifact: Pillars of Strength
+
+
+Kite's Nest
+
+Indris
+
+Cholis
+
+Governor Grothan Pazness1
+
+
+Kite's Nest
+
+Indris
+
+North North-East of star just outside second ring
+
+Wreckage - 300 fuel1
+
+
+Kite's Nest
+
+Untrel
+
+Adek
+
+Salvage - 10,000 credits
+
+
+Kite's Nest
+
+Untrel
+
+Southwest of Adek
+
+Wreckage - 100 fuel
+
+
+Kite's Nest
+
+Vular
+
+Vana
+
+Black Market Artifacts
+
+
+Kite's Nest
+
+Vular
+
+Northwest of star, third ring
+
+Wreckage - 150 fuel
+
+
+Krogan DMZ
+
+Dranek
+
+Rothla
+
+Shadow Broker Wet Squad
+
+
+Krogan DMZ
+
+Dranek
+
+Southeast of star, between second and third ring
+
+Wreckage - 200 fuel
+
+
+Krogan DMZ
+
+Nith
+
+Northeast of star, between first and second ring
+
+Wreckage - 300 fuel
+
+
+Minos Wasteland
+
+Fortis
+
+South of Mass Relay
+
+Wreckage - 200 fuel
+
+
+Minos Wasteland
+
+Fortis
+
+Pietas
+
+Salvage - 10,000 credits
+
+
+Nimbus Cluster
+
+Agaiou
+
+Carcosa
+
+Artifact: Library of Asha
+
+
+Nimbus Cluster
+
+Kallini
+
+South of Pania
+
+Wreckage - 300 fuel
+
+
+Nimbus Cluster
+
+Pelion
+
+South of Aitis
+
+Wreckage - 650 fuel
+
+
+Nimbus Cluster
+
+Pelion
+
+Trategos
+
+Intel: Intact Reaper Weapon
+
+
+Nimbus Cluster
+
+Pelion
+
+Northeast of Trategos
+
+Wreckage - 750 fuel
+
+
+Nimbus Cluster
+
+Pelion
+
+Northwest of Sthenia
+
+Wreckage - 750 fuel
+
+
+Nubian Expanse
+
+Dakka
+
+Pragia
+
+Intel: Research Data from Pragia
+
+
+Nubian Expanse
+
+Dakka
+
+Southeast of star, between 3rd and 4th ring.
+
+Wreckage - 350 fuel
+
+
+Nubian Expanse
+
+Kalabsha
+
+Yamm
+
+Alliance Marine Recon Unit, 103rd Marine Division
+
+
+Nubian Expanse
+
+Kalabsha
+
+Northeast of star, between 1st and 2nd ring
+
+Wreckage - 300 fuel
+
+
+Nubian Expanse
+
+Qertassi
+
+Norehsa
+
+Alliance Frigate Trafalgar, Alliance Third Fleet
+
+
+Nubian Expanse
+
+Qertassi
+
+Northeast of Norehsa
+
+Wreckage - 50 fuel
+
+
+Pylos Nebula
+
+Dirada
+
+Sineus
+
+Radiation Shielding Sheath1
+
+
+Pylos Nebula
+
+Dirada
+
+Northeast of the star and south-southeast of Sineus
+
+Wreckage - 250 fuel1
+
+
+Pylos Nebula
+
+Nariph
+
+Isale
+
+Jovian Dissertation1
+
+
+Pylos Nebula
+
+Nariph
+
+Northeast of the star, between first and second ring
+
+Wreckage - 300 fuel1
+
+
+Pylos Nebula
+
+Zaherin
+
+South of the outermost planet Rotesk, just outside third ring
+
+Wreckage - 350 fuel1
+
+
+The Shrike Abyssal
+
+Kyzil
+
+Heshtok
+
+Void Devils Fighter Wing1
+
+
+The Shrike Abyssal
+
+Kyzil
+
+South of Rustaka
+
+Wreckage - 350 fuel1
+
+
+The Shrike Abyssal
+
+Thal
+
+West of the star, between first and second ring
+
+Wreckage - 400 fuel1
+
+
+The Shrike Abyssal
+
+Thal
+
+Tyrix (North part of the asteroid belt closest to star)
+
+Vorcha Labor Team1
+
+
+The Shrike Abyssal
+
+Urla Rast
+
+Talis Fia
+
+Artifact: Prothean Obelisk
+
+
+The Shrike Abyssal
+
+Urla Rast
+
+Northeast of star near outermost orbital ring
+
+Wreckage - 300 fuel
+
+
+The Shrike Abyssal
+
+Xe Cha
+
+Zada Ban
+
+Salvage - 10,000 credits
+
+
+The Shrike Abyssal
+
+Xe Cha
+
+Southeast of star, between second and third ring
+
+Wreckage - 150 fuel
+
+
+Sigurd's Cradle
+
+Decoris
+
+Laena
+
+Salvage - 10,000 credits
+
+
+Sigurd's Cradle
+
+Decoris
+
+Southern part of Decoris between the orbital rings
+
+Wreckage - 350 fuel
+
+
+Sigurd's Cradle
+
+Lenal
+
+Triginta Petra
+
+Dextro Rations1
+
+
+Sigurd's Cradle
+
+Mil
+
+Chalkhos
+
+Husk Neural Map1
+
+
+Sigurd's Cradle
+
+Skepsis
+
+Watson
+
+Javelin Missile Launchers
+
+
+Sigurd's Cradle
+
+Skepsis
+
+East-northeast of Crick, near outermost ring
+
+Wreckage - 200 fuel
+
+
+Silean Nebula
+
+Kypladon
+
+Hanalei
+
+Dr. Jelize
+
+
+Silean Nebula
+
+Loropi
+
+East of Wreckage, just outside 1st ring
+
+Wreckage - 300 fuel
+
+
+Silean Nebula
+
+Loropi
+
+Yasilium
+
+Armali Sniper Unit
+
+
+Silean Nebula
+
+Nahuala
+
+Hyetiana
+
+Serrice Guard
+
+
+Silean Nebula
+
+Nahuala
+
+West of Agessia, between 2nd ring and asteroid belt
+
+Wreckage - 250 fuel
+
+
+Silean Nebula
+
+Phontes
+
+Dekuuna
+
+Artifact: Code of the Ancients
+
+
+Silean Nebula
+
+Phontes
+
+Oltan
+
+Elcor Flotilla2
+
+
+Silean Nebula
+
+Phontes
+
+East of Lenuamund - South of Telluune, between second and third rings
+
+Wreckage - 175 fuel
+
+
+Silean Nebula
+
+Teyolia
+
+Nevos
+
+Artifact: Rings of Alune
+
+
+Silean Nebula
+
+Teyolia
+
+Quirezia
+
+Salvage - 10,000 credits
+
+
+Silean Nebula
+
+Teyolia
+
+East-southeast of star - between 3rd and 4th ring
+
+Wreckage - 375 fuel
+
+
+Valhallan Threshold
+
+Micah
+
+Elohi
+
+Emergency Fuel Pods
+
+
+Valhallan Threshold
+
+Micah
+
+Farlas (in asteroid belt)
+
+Element Zero Converter
+
+
+Valhallan Threshold
+
+Micah
+
+Southeast of star, near asteroid belt
+
+Wreckage - 340 fuel
+
+
+Valhallan Threshold
+
+Paz
+
+Garvug
+
+Artifact: Prothean Data Drives
+
+
+Valhallan Threshold
+
+Paz
+
+East of star
+
+Wreckage - 160 fuel
+
+
+Valhallan Threshold
+
+Raheel-Leyya
+
+Northeast of larger star
+
+Wreckage - 95 fuel
+
+1 Requires Mass Effect 3: Leviathan
+2 In Legendary Edition, one must first pick up Dekuuna: Elcor Extraction before this can be acquired.
+
+
+
+
+
+Mass Effect 3 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Search and Rescue • Equipment and Items
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • Power Combos • PC Tweaks • Interrupts • Merchants • The One and Only
+
+
+
+

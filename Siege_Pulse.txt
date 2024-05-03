@@ -1,0 +1,167 @@
+
+
+
+Siege Pulse is a tech power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Siege Pulse[]
+Generate 3 electric charges that are stored in your platform's batteries. Use the power again to consume a charge to launch a long-range pulse that blasts a massive area. Each shot has a chance of incapacitating unarmored enemies.
+Highly effective against armor, shields and barriers.
+
+Recharge Speed: 24 sec
+Damage: 600
+Radius: 1.50 m
+Knockdown Chance: 35%
+Number of Charges: 3
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 19.20 sec
+Damage: 600
+Radius: 1.50 m
+Knockdown Chance: 35%
+Number of Charges: 3
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Recharge Speed: 19.20 sec
+Damage: 720
+Radius: 1.50 m
+Knockdown Chance: 35%
+Number of Charges: 3
+
+
+Rank 4: Damage/Radius[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Recharge Speed: 19.20 sec
+Damage: 900
+Radius: 1.50 m
+Knockdown Chance: 35%
+Number of Charges: 3
+
+
+Radius
+Increase impact radius by 60%.
+
+Recharge Speed: 19.20 sec
+Damage: 720
+Radius: 2.40 m
+Knockdown Chance: 35%
+Number of Charges: 3
+
+
+
+Rank 5: Damage Protection/Recharge Speed[]
+
+
+
+Damage Protection
+Each stored charge on your platform reduces all damage taken by 10%.
+
+
+
+Recharge Speed
+Increase recharge speed by 40%.
+
+Recharge Speed: 14.55 sec
+Damage: 900 (Damage), 720 (Radius)
+Radius: 1.50 m (Damage), 2.40 m (Radius)
+Knockdown Chance: 35%
+Number of Charges: 3
+
+
+
+Rank 6: Number of Shots/Resistance Damage[]
+
+
+
+Number of Shots
+Increase the number of shots fired by 1, and increase the chance of knocking down enemies by 15%.
+
+Recharge Speed: 19.20 sec (Damage Protection), 14.55 sec (Recharge Speed)
+Damage: 900 (Damage), 720 (Radius)
+Radius: 1.50 m (Damage), 2.40 m (Radius)
+Knockdown Chance: 50%
+Number of Charges: 4
+
+
+Resistance Damage
+Increase damage done to armor, shields, and barriers by 60%.
+
+
+
+
+Player Notes[]
+Activating this power causes the individual charges to "store", each readied charge visible as an individual lighted bar on the player character's shoulder. Using up a charge by firing a pulse causes one of the lights to go dark. In order to benefit from the Damage Protection evolution, the power must be "activated", so if your shoulder isn't lit, you aren't gaining any damage reduction.
+Siege Pulse acts as as a detonator for Tech Bursts, Cryo Explosions, and Fire Explosions. As a result, it synergises well with other tech classes and with priming Ammo Bonuses.
+If the targeted enemy is killed by Siege Pulse, then its body will disintegrate; however, the bodies of un-targeted enemies killed in the blast will remain. This allows Cannibals one fewer body to consume to create armor-plating.
+If evolved for "Damage Protection" and "Number of Shots", it can be treated as an armor power, as the Juggernaut may benefit from both keeping the charges stored and firing them.
+This approach also eliminates the long power cooldown compared to the Juggernaut's other powers, allowing heavier weapons to be carried, such as the Geth Spitfire and Javelin.
+This approach also maximizes the power's ability to knock down enemies, making it effective at long-range crowd control. On higher difficulties, a single pulse will be insufficient to kill certain enemies, but will either stagger them or knock them down. This can give teammates room to escape, especially from Abominations.
+The Geth Plasma Shotgun pairs well with this power: alternate pulses with charged shots from the shotgun to keep up a steady barrage.
+The pulse projectile originates near the currently equipped weapon's barrel and can be fired whilst zoomed in, even with sniper rifles or weapons with scope modifications. This does mean that the projectile can impact surfaces near the weapon barrel when launching, so be mindful of obstructions.
+Firing a pulse can interrupt charging or 'spin up' sequences for certain weapons, such as the N7 Typhoon.
+Availability[]
+Single-player: N/A
+Multiplayer: Geth Juggernaut Soldier
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

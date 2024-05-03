@@ -1,0 +1,144 @@
+
+
+
+The following are transcriptions of the artists' comments for the design gallery "The Technology of Mass Effect: Human Furniture" found on the bonus content disc of Mass Effect released in 2007.
+
+Contents
+
+1 Image 1
+2 Image 2
+3 Image 3
+4 Image 4
+5 Image 5
+6 Image 6
+7 Image 7
+8 Image 8
+9 Image 9
+10 Image 10
+11 Image 11
+12 Image 12
+13 Image 13
+14 Image 14
+15 Image 15
+16 Image 16
+17 Image 17
+18 Image 18
+
+
+Image 1[]
+
+Derek Watts: So one of the things we have to do during the game development is come up with placeables. These are objects that are placed throughout the levels by the designers. The level artist will build a shell, add as much detail as possible, but we don't want to add tables and chairs in the levels because designers won't move them around; they'll wreck pathfinding, they might have certain scenes that have to take place in certain areas... The level artist will always have to move these around, so in order to avoid that, we make placeables, the designers put them down, and that way they have more control over them. So we concept these up and... this is an example of the table. We spent a bit of time on these for sure because you don't want to hurry through them because they're seen throughout the game. These can be almost in every room. These, for example, are in a lot of the bars, some of the lounges, other cafeteria areas, offices, and they're spread throughout the game.
+
+
+Image 2[]
+
+Derek Watts: This is a concept done up for bunk beds. So some of the areas that these would be placed in is some of the prefabs, which are some of the areas that were on the uncharted worlds, some of the mining camps. So the designers wanted one of these and we'll concept these up, spend a bit of time on it, and this one we outsourced, and then received back and then put it in the game.
+
+
+Image 3[]
+
+Derek Watts: This is just a quick drawing of a... more of a large table for a cafeteria. We had to change this one a bit, actually the design; once we put it in, it looked more like a ping pong table, so we had to clean it up a bit.
+
+
+Image 4[]
+
+Derek Watts: This is a concept just done for a bar stool. Pretty simple... not much to this. Kind of put some rubber on the bottom there, half-whip the section that holds the seat up to maybe; it looks like it compresses, almost like a shock in there, and that's about all that is done on this one.
+
+
+Image 5[]
+
+Derek Watts: This is one of the chairs we did for the levels. It was placed throughout. It actually went really well with that other table that you saw at the beginning of the design gallery. Pretty simple design, but it works very well. It fits into the levels in most areas, so it was well used throughout the game.
+
+
+Image 6[]
+
+Derek Watts: This is one of the cots we decided to use. I think this is one of the medical cots. Originally it was designed-- you can see off to the right, like it would be able to sit on a wall, sit on the floor, it could retract down, work its way up. We had to simplify it a bit, because usually the designers just wanted to place it on the floor, which was fine, and then it had this kind of holographic image off to the left that would show up. Beds are kind of tough, I mean... you usually have to make them a bit larger, because when you're running around the game, you always look like they're tiny, like the people laying on them are only two feet tall. But once you actually put a character on them, the proper size... it's one of those scale issues you have with games.
+
+
+Image 7[]
+
+Derek Watts: This is a couch we designed. It was supposed to be a sectional couch; they were split up, the section on the right, the section on the left, and the section in the middle could all be moved around. You get different configurations for the couch. We ended up kind of taking a bit of that freedom away, being more larger chunks, it was easier to place down.
+
+
+Image 8[]
+
+Derek Watts:  This is a table design. This one got a bit elaborate, as you can tell. We had to modify it a bit, simplify it up. The problem was that the desks were quite small, so as we put more of them in a level to make it fill up the area, this became quite repetitive, this design. We ended up cleaning it up, so you could stack three or four in a row, put a couple lamps on there. This one didn't look good when you put three or four in there, it was just way too complex. People are having a hard time figuring out "what is that circle in the middle?", "is there wiring underneath?", "is there some kind of control panels?", and just what all is involved with that one. So we just made some quick changes to this one and it worked out really well.
+
+
+Image 9[]
+
+Derek Watts: This desk here was kind of a unique design. You were supposed to sit in it, it would surround you almost like a circle, have a hologram in there and the guy would type on it. It had some good lines through it for sure, like kind of a circle, these lines that cut through it, very sharp angles. It was well designed, we used it in quite a few areas in the game.
+
+
+Image 10[]
+
+Derek Watts: This is another desk we designed; just trying to explore some different shapes of desks, this kind of circular shape that was cut off. So you would sit in it, a hologram would appear in front of you and it was more like a floating type desk that was just anchored underneath the seat.
+
+
+Image 11[]
+
+Derek Watts: This is a quick concept of a desk lamp. This one turned out really well; it looked really good on desks, we used it in a lot of places. Really followed the design style we were kind of going with Mass Effect, these curves, clean panel lines, 45-degree angles and so on that we were trying to get throughout the design. We keep trying to incorporate these in as much of the concepts as possible and hopefully some of them stay in there as it gets textured, modified. I mean, these things become quite small, "is it going to hold up at that size?" and so on.
+
+
+Image 12[]
+
+Derek Watts:  This is a group of chairs and desks. All these pretty well made it into the game, they were all really well done. The curved chair in the center that we're facing forwards and backwards, those are used in the Citadel a lot. The one on the right was used in quite a few areas too. And that desk, the lower right, we ended up just squaring it off a bit more, making it more like a rectangle. You see that section that kind of cuts in a bit more on the bottom right. Because again, we had to stack a bunch of these desks together to fill up the areas. That chair on the left, we used that quite a bit in Noveria in the subway stations. Really cool design on that one.
+
+
+Image 13[]
+
+Derek Watts: This is the concept for the pleasure pod. So originally they wanted a pod, there would be dancers inside these things... We actually concepted it up, built it. It was in the bar in the Wards. I'm not sure if it's still in there yet. Last time I checked it was, but we might have pulled it from the game. So this is-- Syd Mead had done some designs of these pods for Blade Runner. There's an older concept of them actually sunk into the ceiling on the street. They'd be these bubbles, and the dancers would be in these as you walked down the street. So we took that, put it in more of a thing that would sit on the floor, this egg-shaped canister, almost like those 70s chairs that would surround you. So hard plastic, transparent glass, and the dancers would be in there.
+
+
+Image 14[]
+
+Derek Watts: This is just a cot done up for some of the war worlds, some of the other camps, just placed around. We just put a couple of lights on that one bar to give it a bit more of a science-fiction feel. Sometimes all it takes to give it that futuristic feel is just a few lights. There's not much else you can do with a cot.
+
+
+Image 15[]
+
+Derek Watts: A quick drawing of a shelving unit placed throughout the levels. You could stack this one up, put it horizontal, put it vertical, and just put some other placeables in there. Usually we left these quite bare because placeables were starting to get expensive, so we couldn't really fill them up with books or other knick-knacks to make them look like shelves. That would all add up. Sometimes you'd rather have a book on here, or another chair, or a larger table. If it gets too crazy, you're even thinking about removing some of the enemies from a level, so...
+
+
+Image 16[]
+
+Derek Watts: This is a bar table done up. Again, very quick concept for this, for outsourcing. So we had a low bar table, and then this was one of the higher ones that worked with some of the higher stools. We could place around characters standing near them, drinking, and that's about all this was for.
+
+
+Image 17[]
+
+Derek Watts: This is a close-up of that one table I was talking about earlier. Again, we kind of made it more like a rectangle. We removed those cut-in sections and lined them up so we could stack a bunch of these tables together. I think we left the glass in there, but I'm not sure; I think we might have filled that in, too, and cleaned up some of the type on there. Just left some of the red section to give it a bit of color.
+
+
+Image 18[]
+
+Derek Watts: This is a large boardroom table incorporating some of the design elements, the large arcs and so on. Not much to this. It's in quite a few of the levels.
+
+
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

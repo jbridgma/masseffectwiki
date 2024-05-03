@@ -1,0 +1,103 @@
+
+
+
+
+
+Clogon
+
+Region
+Milky Way / Viper Nebula / Bahak
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.6 AU
+
+
+Orbital Period
+0.5 Earth Years
+
+
+Keplerian Ratio
+0.864
+
+
+Radius
+2,621 km
+
+
+Day Length
+20.8 Earth Hours
+
+
+Atm. Pressure
+14.65 atm
+
+
+Surface Temp
+382 °C 
+
+
+Surface Gravity
+0.12 g
+
+
+Mass
+0.02 Earth Masses
+
+
+Location: Milky Way / Viper Nebula / Bahak System /  First planet
+
+Prerequisite: Arrival (Mass Effect 2)
+
+Description[]
+A hothouse planet with a thick atmosphere of methane and ethane, Clogon has been left relatively untouched by the Batarian Hegemony. As with many batarian planets, spy satellites circle it, watching for pirates or other enemies of the state who come by the planet to discharge their ships' drive cores.
+EDI'S TRAVEL ADVISORY: The Batarian Hegemony considers any presence of Alliance military vessels in batarian space as hostile. The Normandy SR2, while an independent vessel, strongly resembles the Normandy SR1, an Alliance ship. Use of stealth systems is highly recommended.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+6,000
+
+
+Platinum
+
+Medium
+
+6,500
+
+
+Iridium
+
+High
+
+10,300
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

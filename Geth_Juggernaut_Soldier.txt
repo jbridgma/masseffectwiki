@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+This article is about the playable class in Mass Effect 3 Multiplayer. For the enemy type, see Geth Juggernaut.
+
+
+
+Geth Juggernaut Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Geth
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Reckoning
+
+
+Abilities
+Increased ShieldsToughness/MeleeDecreased Mobility
+
+
+The geth are a humanoid race of networked AIs that were created by the quarians 300 years ago as tools of labor and war. Having since won their freedom from their creators, the geth have proven they are able to reason, analyze situations, and deploy tactics as well as any organic race so long as they remain networked with other geth.
+The Geth Juggernaut is a heavy geth infantry platform. Like the Geth Prime, it towers above ground forces as an intimidating presence on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+
+2.1 Notable mechanics
+
+
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 2000 / Health: 1000
+
+
+Class: Geth Juggernaut
+
+
+ Hex Shield
+
+
+
+
+ Siege Pulse
+
+
+
+
+ Geth Turret
+
+
+
+
+ Hardened Platform
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – The Geth Juggernaut releases an energy pulse from its hand, staggering nearby enemies.
+Heavy Melee – The Geth Juggernaut drains any defenses and even health with electrical currents while incapacitating smaller targets and restoring its own shields. This can be maintained for several seconds if the melee button is held down, but there will be a short cooldown afterward.
+Grab – The Geth Juggernaut Soldier is unable to perform a grab.
+
+
+
+
+
+Dodge – The Geth Juggernaut Soldier lacks a dodge maneuver.
+
+Notable mechanics[]
+The Geth Juggernaut Soldier cannot take cover in the formal sense and is thus unable to perform over-cover grabs as well as vault over or climb up cover.
+Pressing the button that normally does this still allows you to cancel reload animations, however.
+The Geth Juggernaut is the only character that cannot run, and also the only character that cannot be instantly killed by Banshees, Brutes, Atlases, Phantoms, Scions, or Praetorians.
+The Juggernaut cannot be grabbed by Husks or Abominations.
+The Juggernaut's already low movement speed doesn't slow down further while recovering objects or carrying weapons that reduce movement speed, such as the Geth Spitfire assault rifle.
+Visibility is somewhat improved due to its substantial height.
+Player Notes[]
+General Notes[]
+The Geth Juggernaut is the tankiest character in Multiplayer, and can be an invaluable asset to the team on Gold and Platinum difficulty. Its ability to absorb high amounts of damage and regenerate shields, combined with its immunity to sync kills and very high stun resistance, allows it to hold the line against any and all opponents. Because of this, it excels at drawing the attention of the most dangerous enemies away from squadmates, who can then unleash their full arsenal of firepower and abilities to support the Juggernaut. The support should be the killing of fast-firing infantry like Geth Troopers, Cannibals and Marauders, who can drain the Juggernaut's shields very quickly.
+Even with no points into its "fitness" power, Hardened Platform, the Juggernaut has significantly more health and shields than most characters with fully developed health and shields. In addition, every power can be evolved to further boost durability. This makes it easier for you to go toe-to-toe with tough foes such as Banshees, Phantoms, Geth Primes, and Praetorians.
+The Juggernaut is not invincible, however, and can still be swarmed by smaller enemies unless caution is observed.
+With maximum Hardened Platform evolutions for shields and health, combined with Stronghold Package V and Cyclonic Modulator IV, the Juggernaut can reach a shield strength of 8,000 and a 27% shield recharge delay bonus.
+Conversely, you may opt to go for the 10% ally damage bonus of the rank 6 Squad Command evolution to make the rest of your team more effective. While this benefit doesn't affect you, the damage boost perimeter is visible to both you and your allies as a radial pulse that is emitted from the Juggernaut every few seconds.
+The Geth Turret's shield restoration evolutions add even more survivability, provided that you stay close to the turret. However, the turret dies often in heavy combat, and its shield restore is quite small proporitionate to your total shield strength. Since you can restore your own shields at will with heavy melee, the turret's main role is supporting more fragile teammates.
+The Juggernaut is not the best choice for traveling long distances to reach devices or retrieve packages, but even during such objective waves it can still be useful by providing diversions or escorts for teammates.
+The Juggernaut can be a good choice for object delivery as it is not affected by slowdown, but is actually able to move faster than other characters while carrying the object; this assumes that the fast carry sprinting exploit is not being used.
+Since it could take a while for the Juggernaut to reach the object, the ideal would be another character picking the delivery up and then dropping it when meeting the Juggernaut to let it carry the delivery the rest of the way.
+It should also be noted that the Juggernaut cannot move at all while draining, so in an event where the team needs the Juggernaut to tank, it would be better for another character to make the delivery.
+Due to the Juggernaut's excellent durability, the Particle Rifle is a good weapon option, since almost nothing but dying and overheating can interrupt the rifle's firing sequence. Furthermore, its unlimited ammo removes the trouble of having to walk back to an ammo box, and the Juggernaut's great height makes it easier to spot enemies.
+A possible strategy is to equip the Juggernaut with a lighter weapon and use Siege Pulse as your primary means of inflicting damage. Upgrading its damage to the highest can deal good damage to armored and protected units quickly, making it a generally dependable power.
+Geth Juggernauts work very well when close to one another and grouped in close spaces. Consider having a team of Juggernauts, each with a different specialization: one Juggernaut can be defensively built, one can deploy healing turrets and act as an artillery unit.
+The Juggernaut works very well in tandem with a volus class that has Shield Boost evolved with the Protection evolution at rank 6. The 50% damage reduction added to any of your own can make you nearly invincible, and is one of the best combinations in the game for handling tough objective waves on Platinum difficulty.
+The light melee is a short range omni-directional blast of energy from the Juggernaut's hand, which momentarily stuns enemies, even large ones such as Atlases, making it very useful when surrounded. This also interrupts most other melee attacks such as those used by light Cerberus and Collector units.
+Heavy Melee: The heavy melee attack is a good survival tool which stuns most enemies and causes the Juggernaut to rapidly regain shield energy while in use. Like most heavy melees it also provides significant damage resistance during the attack animation. While the Juggernaut is the most durable class of all, it cannot easily escape or hide behind cover, and may thus rely on the heavy melee drain to sustain itself.
+Using the heavy melee attack requires that a target's health bar be visible. It will not function on cloaked enemies that are fully invisible (such as Geth Hunters and Phantoms) and can sometimes be 'jammed' by Centurion smoke grenades. It may also behave oddly if the target is on a ramp. Cloaked enemies can be made visible (and thus vulnerable) with the light melee pulse or gunfire.
+Once the heavy melee has 'locked on' to a target, the only things that can break the effect are releasing the grapple voluntarily, force/knockdown effects (such as Singularity or Pull), certain rare effects still able to stagger the Juggernaut, or the enemy moving out of range (either due to lag, bugs with ladders, or the aforementioned powers). Enemies that are still mobile can move behind the Juggernaut and thus out of the player's field of view, but as long as they remain within its overall range, it will continue to damage and drain as normal.
+Because of this, the Juggernaut's allies should preferably focus their fire on targets further away. Ranged enemies in particular should be high priority.
+The amount of shields drained by the heavy melee does not increase beyond the value provided by Hardened Platform, although the damage inflicted can be increased by melee bonuses.
+The Juggernaut is highly resistant to stunning/staggering effects while using the heavy melee, but they are not completely immune. Notably, stagger can still be inflicted by the Praetorian's melee attacks. Combined with the short cooldown effect their heavy melees, this can quickly be fatal on higher difficulties.
+Enemies that are lifted by the heavy melee's stunning effect will briefly ragdoll then drop prone or fall over when it wears off. If they survive, then this leaves them open to a finishing shot from your equipped weapon. This can be an effective tactic particularly against certainly highly-evasive enemies: use the heavy melee to strip away their shields and barriers, drop them to the floor, then blast them while they're down, or let teammates finish them while you in turn disable another target.
+Most lighter enemies killed with the heavy melee will disintegrate, similar to the effects of the Particle Rifle and Siege Pulse. This is useful against the Reapers as it denies the body as a feeding source for Cannibals, but when fighting the Collectors, beware that Abominations will still explode.
+While you close in on the distant threat, it may be wise to leave a nearby target alive in order to use it as a drain source. All enemies, even those without shields and barriers, provide shields when drained.
+Mind the drain's cooldown, however: though short, it can be the difference between success and failure.
+If the situation allows, it may be wise to primarily target enemies with the most health, leaving the weaker ones for your team to finish off.
+The heavy melee can't lift armored enemies, though Geth Pyros and Dragoons will be locked in a stun animation if the melee button is held down. This is useful on higher difficulties, as these enemies are still very powerful and a Pyro can quickly 'burn down' an unprepared Juggernaut.
+If the melee button is being held when the Juggernaut gets downed, it will still do damage and can even kill weakened enemies despite being out of action.
+If an enemy is targeted with heavy melee while climbing up a ladder, the animation appears for a moment and the enemy will then float up in to the air for several meters before the chain is broken. The enemy will then be stunned for a short time, and get up as if the melee attack had broken normally.
+Likewise, if an enemy is targeted while climbing down a ladder, the enemy will fly out from the ladder perpendicularly until the chain is broken. The enemy will then be stunned for a short time, and get up as if the melee attack had broken normally.
+Cerberus[]
+Since the Juggernaut is immune to sync-kills, it can easily stack itself against Atlases and Phantoms to draw their attention away from the rest of the squad, while draining their shields with heavy melee.
+The heavy melee can immobilize and incapacitate Phantoms and Guardians, like any other infantry class. With relatively low barrier and health values, this can quickly kill them.
+Nemeses, Atlases and Turrets can quickly bring down shields, even on Silver. This can be partially mitigated with the Protection evolution of Siege Pulse.
+If you are having trouble, the extra large Hex Shield is an excellent damage sink against the Atlas, Turrets, and Nemeses.
+A well-timed Siege Pulse against a Combat Engineer setting up a Turret will interrupt the process.
+Collectors[]
+Since the Juggernaut is immune to sync-kills, it can easily stack itself against Praetorians to draw their attention away from the rest of the squad while draining their barriers with heavy melee.
+Be careful while fighting a Praetorian in close range, however, as their melee attacks can stun even Juggernauts, stopping you from using heavy melee attacks. In general, avoid melee range entirely and give ground slowly while shooting or deploying Hex Shield.
+Possessed Abominations are less of a threat to the Geth Juggernaut, who can easily tank their explosions on any difficulty. Also, heavy melee is useful for stunning them and keeping them from approaching other teammates.
+Since the Juggernaut cannot be grabbed, it lacks reliable means to decapitate Abominations to prevent the explosion. Instead, use light melees to stagger them; this will give you time to back away and finish them off with gunfire or siege pulse.
+Beware of Scions. Even with a fully defensive build, a single Scion can take down the Juggernaut's defenses extremely quickly, especially on higher difficulties. Stick to large cover, or make extensive use of Hex Shield to survive. Remember that Scion attacks deal splash damage so give Hex SHield space if its catching Scion shots.
+Grenades from Possessed Scions usually pass through the Hex Shield and it's challenging for the slow Juggernaut to move out of the way of the grenade spread in time to avoid damage. Ideally, allow teammates to handle them while you stay out of line of sight and handle other threats.
+Hex Shield with the Shock Evolution will stop any Seeker Swarm attempting to pass through it, causing them to explode after a short time. This can still cause players to be affected if they are standing too close to the shield.
+Geth[]
+Having a natural resistance to stun and being able to drain energy from synthetics, the Juggernaut can deal with the geth easily.
+Hex Shield is very useful for protecting the party from the heavy damage and stun that the geth cause. It also catches Geth Hunters that the party may miss if the Shock evolution is taken.
+Geth Pyro flames pass through the Hex Shield visually, but cause no damage to anything behind it.
+The heavy melee will prevent Geth Pyros from firing and immobilise them.
+Geth Juggernaut taking defense evolutions can easily handle two Geth Primes and multiple troops at the same time by using heavy melee on Gold.
+Geth Bombers can be problematic due to the Juggernauts slow movement speed and should be taken down quickly. They are also completely immune to the stun effect of the heavy melee.
+Reapers[]
+Since the Juggernaut is immune to sync-kills, it can easily stack itself against Banshees to draw their attention away from the rest of the squad while draining their barriers with heavy melee.
+This works with Brutes as well, but because they are more aggressive, it is more difficult.
+This strategy can be a lifesaver on Gold, since the ire of all enemies capable of sync-killing can be reliably focused on the Juggernaut, allowing the squad to focus fire, and not be routed by advancing Banshees and Brutes.
+Be wary of Ravagers at long distances, as the Juggernaut is very slow and the blast radius from a Ravager's cannon means that shots can damage you through a Hex Shield. Standing back a short distance from the shield will prevent this.
+Siege Pulse is effective against isolated Ravagers, but multiple Ravagers can still bring the Juggernaut's shields down faster than they can be killed by Siege Pulse.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

@@ -1,0 +1,963 @@
+
+
+
+The M-25 Hornet is a submachine gun in Mass Effect 3 and a pistol in Mass Effect: Andromeda.
+
+Contents
+
+1 Mass Effect 3
+
+1.1 Description
+1.2 Acquisition
+1.3 Player Notes
+
+
+2 Mass Effect: Andromeda
+
+2.1 Description
+2.2 Features
+2.3 Strategies
+2.4 Stats
+2.5 Development
+
+
+
+
+Mass Effect 3[]
+
+
+
+
+
+
+
+M-25 Hornet
+
+
+
+
+
+								Single-player
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Type
+Submachine Gun
+
+
+Location
+Priority: The Citadel II
+
+
+Fire Mode
+3-round-burst
+
+
+
+Weight
+  40% 
+
+
+Capacity
+  38% 
+
+
+Fire Rate
+  90% 
+
+
+Damage
+  18% 
+
+
+Accuracy
+  23% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+24
+144
+
+
+
+
+
+
+
+Type
+Submachine Gun
+
+
+Location
+Multiplayer Store
+
+
+Fire Mode
+3-round-burst
+
+
+
+Weight
+  34% 
+
+
+Capacity
+  38% 
+
+
+Fire Rate
+  90% 
+
+
+Damage
+  18% 
+
+
+Accuracy
+  23% 
+
+
+
+
+Ammunition
+
+
+Clip Size
+Reserve
+
+
+
+
+24
+168
+
+
+
+
+
+
+
+
+Description[]
+The Hornet is a long-range submachine gun created by Cerberus. It is standard equipment for Cerberus troops, who are trained to handle the recoil from the gun's three-round bursts. Cerberus designed the Hornet to conserve ammunition and provide cover-fire during prolonged conflicts.
+
+Acquisition[]
+Single-player
+The M-25 Hornet can be found during the mission Priority: The Citadel II, on the body of a C-Sec officer; after exiting the elevator, proceed down the hall to the second flickering light. It is also purchasable from Batarian State Arms after the preceding mission, Priority: Tuchanka.
+
+Multiplayer
+Weapons are randomly rewarded through purchases of item packs. The M-25 Hornet is classified as rare and requires no multiplayer expansion packs.
+
+Player Notes[]
+GeneralSingle-playerMultiplayer 
+General
+The Hornet possesses high damage, a high rate of fire, and very quick reload, all at a very manageable weight, even without equipping SMG Ultralight Materials. The only SMG that exceeds the Hornet's damage against soft targets is the N7 Hurricane.
+The high damage-per-shot and rate of fire also makes it a moderately effective anti-armor weapon if enemy armor is sufficiently weakened or the SMG High-Velocity Barrel is used.
+The biggest disadvantage of the Hornet is lack of fully automatic fire—while its bursts can be manually triggered very quickly, this can be taxing from a mechanical perspective (i.e. lots of clicking).
+This problem is compounded if using Marksman to boost its accuracy and firing rate still further; it's almost impossible to pull the trigger fast enough to max out firing rate with Marksman active.
+As its in-game description implies, the Hornet is fairly accurate, but it has a high amount of recoil that skilled players can compensate for by continuously adjusting their aim.
+As with most weapons, the Hornet's muzzle climb is half again as bad when zoomed in. Taking cover significantly reduces recoil.
+The Hornet has a lower clip capacity than other SMGs, which makes precision even more important. However, this is offset by a very quick reload speed. Adding an SMG Heat Sink or an SMG Magazine Upgrade allows for nearly continuous fire.
+As with most burst-fire weapons and SMGs, the Hornet benefits considerably from powers and equipment that reduce recoil, such as the SMG Recoil System. If stability and accuracy are boosted enough such that all of the rounds in a burst can be landed consistently on enemy heads or weak points, the difference in performance is marked.
+Single-player
+Squad members' damage output is very poor with the Hornet, as they tend to fire single bursts before ducking back into cover. This can be used strategically to force fragile, power-focused squad members like Liara to keep their heads down more.
+Multiplayer
+The Hornet can perform well in the hands of turian characters or the Geth Juggernaut Soldier due to their natural stability bonuses from passive class powers.
+Mass Effect: Andromeda[]
+
+
+M-25 Hornet
+
+
+
+
+
+							Default
+							
+						
+
+
+
+							Bulwark
+							
+						
+
+
+
+							Concussive
+							
+						
+
+
+
+							Siphon
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Category
+Pistols
+
+
+Rarity
+Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+55-87
+
+
+Rate of Fire
+950
+
+
+Max Clip Size
+24
+
+
+Max Ammo
+192-240
+
+
+Accuracy
+50-63
+
+
+Weight
+15-8
+
+
+
+
+
+Base Stats
+
+Damage
+112-134
+
+
+Rate of Fire
+950
+
+
+Max Clip Size
+24-28
+
+
+Max Ammo
+192-240
+
+
+Accuracy
+50-63
+
+
+Weight
+15-8
+
+
+
+Bulwark
+
+Damage Resistance (1 Ally): 15-25Damage Resistance (2 Allies): 22-37Damage Resistance (3 Allies): 30-50
+
+
+
+Concussive
+
+Area Damage: 800-1500Radius (m): 7.50
+
+
+
+Siphon
+
+% Damage Returned as Health: 3-3.75% Heal Bonus per kill: 4.5Kill Streak Duration (s): 7Max. Kill Bonus: 3
+
+
+
+
+
+
+Description[]
+The M-25 Hornet is a heavy submachine gun that fires three-round bursts. Originally created in the Milky Way by the paramilitary group Cerberus. The Andromeda Initiative's Hornet stockpile was seized from a Cerberus base by the Systems Alliance, then bought by the Initiative at a semi-legal auction.
+
+Features[]
+The weapon's damage displayed is per round, as reflected in the Mass Effect: Andromeda APEX HQ app.
+The Hornet obtained multiple changes mostly to damage, though in multiplayer as of the very last update it also saw improvements to reload times, burst fire times, and mag size.
+
+Strategies[]
+SingleplayerMultiplayer
+Singleplayer
+Like its Mass Effect 3 incarnation, the Hornet boasts one of the highest damage-per-second ratings in the game due to its incredible firing rate, limited only by its burst firing mode and high recoil. This makes it ideal for the Beam Emitter augmentation, which converts the weapon to full auto and removes recoil entirely at the cost of a -80% Weapon Damage penalty. The Hornet suffers less from this penalty than most other weapons because the Beam Emitter factors the original weapon's rate of fire into the resulting weapon's damage formula, and doesn't penalize it unlike per-shot damage. The result is a weapon that deals high damage with pinpoint accuracy and is light enough to carry alongside other weapons without affecting Ryder's power recharge rate.
+Multiplayer
+The Hornet is ideal for classes watching their loadout weights, as even at its heaviest it only takes up 15 weight units out of the default 30 units for all classes. This essentially means the Hornet can function as a main weapon while another can be taken as a sidearm.
+
+Stats[]
+SingleplayerMultiplayer
+Singleplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+55
+
+950
+
+24
+
+192
+
+50
+
+15
+
+
+II
+
+59
+
+950
+
+24
+
+197
+
+54
+
+14
+
+
+III
+
+62
+
+950
+
+24
+
+203
+
+56
+
+13
+
+
+IV
+
+66
+
+950
+
+24
+
+208
+
+58
+
+13
+
+
+V
+
+69
+
+950
+
+24
+
+213
+
+59
+
+12
+
+
+VI
+
+73
+
+950
+
+24
+
+219
+
+60
+
+11
+
+
+VII
+
+76
+
+950
+
+24
+
+224
+
+61
+
+10
+
+
+VIII
+
+80
+
+950
+
+24
+
+229
+
+61
+
+9
+
+
+IX
+
+84
+
+950
+
+24
+
+235
+
+62
+
+8
+
+
+X
+
+87
+
+950
+
+24
+
+240
+
+63
+
+8
+
+Multiplayer
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+112
+
+950
+
+24
+
+192
+
+50
+
+15
+
+
+II
+
+114
+
+950
+
+24
+
+197
+
+54
+
+14
+
+
+III
+
+116
+
+950
+
+25
+
+203
+
+56
+
+13
+
+
+IV
+
+119
+
+950
+
+24
+
+208
+
+58
+
+13
+
+
+V
+
+121
+
+950
+
+26
+
+213
+
+59
+
+12
+
+
+VI
+
+123
+
+950
+
+26
+
+219
+
+60
+
+11
+
+
+VII
+
+125
+
+950
+
+26
+
+224
+
+61
+
+10
+
+
+VIII
+
+128
+
+950
+
+27
+
+229
+
+61
+
+9
+
+
+IX
+
+130
+
+950
+
+27
+
+235
+
+62
+
+8
+
+
+X
+
+134
+
+950
+
+28
+
+240
+
+63
+
+8
+
+Development[]
+
+
+Rank
+
+ Research Cost
+
+ Omni-Gel Canister
+
+ Copper
+
+ Fluorite
+
+ Element Zero
+
+ Augmentation Slots
+
+
+I
+
+125
+
+20
+
+100
+
+50
+
+10
+
+0
+
+
+II
+
+140
+
+30
+
+110
+
+50
+
+10
+
+3
+
+
+III
+
+155
+
+30
+
+130
+
+60
+
+20
+
+3
+
+
+IV
+
+170
+
+30
+
+140
+
+70
+
+20
+
+3
+
+
+V
+
+185
+
+40
+
+160
+
+80
+
+20
+
+3
+
+
+VI
+
+200
+
+40
+
+170
+
+80
+
+20
+
+3
+
+
+VII
+
+215
+
+40
+
+180
+
+80
+
+20
+
+3
+
+
+VIII
+
+230
+
+40
+
+190
+
+90
+
+20
+
+3
+
+
+IX
+
+245
+
+50
+
+190
+
+90
+
+20
+
+3
+
+
+X
+
+260
+
+50
+
+200
+
+100
+
+20
+
+3
+
+
+Total
+
+1925
+
+370
+
+1570
+
+750
+
+180
+
+N/A
+
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

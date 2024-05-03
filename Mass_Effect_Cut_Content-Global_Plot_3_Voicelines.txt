@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+The following dialogues are related to the Mass Effect cut assignment Global Plot 3. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 gbl03_elarya (1)
+2 gbl03_recording
+3 gbl03_hanar_senator (1)
+4 gbl03_elarya (2)
+5 gbl03_amb_trig00
+6 gbl03_amb_trig01
+7 gbl03_first_encounter
+8 gbl03_amb_trig02
+9 gbl03_amb_trig03
+10 gbl03_lystheni_technician
+11 gbl03_amb_trig04
+12 gbl03_amb_trig05
+13 gbl03_amb_trig06
+14 gbl03_amb_trig07
+15 gbl03_amb_trig08
+16 gbl03_amb_trig09
+17 gbl03_amb_trig10
+18 gbl03_hanar_senator (2)
+19 gbl03_elarya (3)
+
+
+gbl03_elarya (1)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the wording or position of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_elarya.isb
+Characters present:
+
+Elarya
+Commander Shepard
+
+Elarya: Thank you for coming to see me, Spectre.
+
+(Neu) Goodbye. (Inv) I'm listening.  Shepard: I should get going.Elarya: I see. Well... Should you change your mind, seek me out. Good day.(End of conversation)(Re-initiating conversation)Elarya:"Spectre, perhaps you'll have a moment to hear my request now?
+(Neu) No. (Inv) Sure.  Shepard: Not now.Elarya: Alright, but should you change your mind, please come find me.(End of conversation)(Re-initiating conversation)Elarya: Spectre, perhaps you'll have a moment to hear my request now?(Return to last choice) Shepard: I'll hear your request.Elarya: Very good. One of our most respected scientists has disappeared in a remote area of the Attican Traverse. We believe they may have been attacked. Shepard: What do you need?Elarya: One of our most respected scientists has disappeared in a remote area of the Attican Traverse. We believe they may have been attacked.
+(Par) What about protection? (Neu) That's intriguing. (Ren) Nice job.  Shepard: Didn't you have a security escort?Elarya: We have no knowledge of anything in that region that could pose a serious risk to our ships. The doctor was on her way to receive a decoration for helping rid a remote hanar colony of a deadly virus. The hanar claim to have no knowledge of her whereabouts, even though she disappeared within their space. Shepard: Who would have attacked an asari doctor?Elarya: We have no knowledge of anything in that region that could pose a serious risk to our ships. The doctor was on her way to receive a decoration for helping rid a remote hanar colony of a deadly virus. The hanar claim to have no knowledge of her whereabouts, even though she disappeared within their space. Shepard: Maybe you shouldn't have sent her to a remote region of space unprotected.Elarya: I suppose now, it doesn't seem like such a good idea. At the time however, it looked to be a safe enough journey. The doctor was on her way to receive a decoration for helping rid a remote hanar colony of a deadly virus. The hanar claim to have no knowledge of her whereabouts, even though she disappeared within their space.
+(Par) Don't worry, I'm on it. (Neu) I can help. (Ren) Sorry, no. (Inv) Investigate  Shepard: I'll let you know as soon as I find anything.Elarya: Thank you, Spectre. I'll send her last known coordinates to your ship. Good favor to you in your search, Spectre.(End of conversation) Shepard: I'll see what I can do to find your doctor.Elarya: Thank you, Spectre. I'll send her last known coordinates to your ship. Good favor to you in your search, Spectre.(End of conversation) Shepard: I'm just not interested right now.Elarya: Come back and see me if you change your mind, Spectre.(End of conversation)(Re-initiating conversation)Elarya: Spectre, have you decided to help me locate Doctor Euthalia?
+(Par) Don't worry, I'm on it. (Neu) I can help. (Ren) Not right now. (Inv) Investigate  Shepard: I'll let you know as soon as I find anything.Elarya: Thank you, Spectre. I'll send her last known coordinates to your ship. Good favor to you in your search, Spectre.(End of conversation) Shepard: I'll see what I can do to find your doctor.Elarya: Thank you, Spectre. I'll send her last known coordinates to your ship. Good favor to you in your search, Spectre.(End of conversation) Shepard: I said no. Goodbye.Elarya: Good day, Spectre.(End of conversation)(Re-intiating conversation)Elarya: Spectre, have you decided to help me locate Doctor Euthalia?"(Return to last choice)
+(Inv) Hanar's secrecy (Inv) Doctor Euthalia (Inv) Crash location (Inv) Euthalia's destination  Shepard: If they know something, wouldn't it be in their best interest to tell you?Elarya: You would think so, but... something tells me there's more to this than they're letting on. The hanar are sensitive about intrusions into their space.(Return to last choice) Shepard: What makes this one doctor so important you'd send a Spectre to rescue her?Elarya: We're not the same as you humans. When one of our elder members dies before her time, she takes with her a great deal of experience and knowledge. Doctor Euthalia is not only one of the foremost asari scientists, she's one of the brightest and most notable experts in all of Citadel space. Then there's the issue of a possible hostile act being perpetrated against an asari. If that is, or happened, we need to plan for the appropriate... reaction.
+(P Inv) The asari could do it.  Shepard: Why not look for the doctor yourself?Elarya: There's no sense sending in a fleet when one person can get the job done. You and I both know the doctor's chances of survival are slim at best. You're her best chance right now.(Return to over-arching choice) Shepard: Do you know anything more about the planet where the doctor's ship went down?Elarya: There's only a minimal atmosphere, and the weather systems can be extremely dangerous. There are no lifeforms known to inhabit the planet, but... I would go prepared to meet just about anything.(Return to last choice) Shepard: Tell me what you know about the hanar colony Doctor Euthalia was travelling to.Elarya: From what we've learned, they're much like any other hanar colony. If anything, they may be more xenophobic than most hanar. That was one of the reasons we agreed to send Doctor Euthalia. We thought it would be an excellent opportunity for her to learn more about such a remote colony.(Return to last choice)
+(Inv) Hanar's secrecy (Inv) Doctor Euthalia (Inv) Crash location (Inv) Euthalia's destination  Shepard: If they know something, wouldn't it be in their best interest to tell you?Elarya: You would think so, but... something tells me there's more to this than they're letting on. The hanar are sensitive about intrusions into their space.(Return to last choice) Shepard: What makes this one doctor so important you'd send a Spectre to rescue her?Elarya: We're not the same as you humans. When one of our elder members dies before her time, she takes with her a great deal of experience and knowledge. Doctor Euthalia is not only one of the foremost asari scientists, she's one of the brightest and most notable experts in all of Citadel space. Then there's the issue of a possible hostile act being perpetrated against an asari. If that is, or happened, we need to plan for the appropriate... reaction.
+(P Inv) The asari could do it.  Shepard: Why not look for the doctor yourself?Elarya: There's no sense sending in a fleet when one person can get the job done. You and I both know the doctor's chances of survival are slim at best. You're her best chance right now.(Return to over-arching choice) Shepard: Do you know anything more about the planet where the doctor's ship went down?Elarya: There's only a minimal atmosphere, and the weather systems can be extremely dangerous. There are no lifeforms known to inhabit the planet, but... I would go prepared to meet just about anything.(Return to last choice) Shepard: Tell me what you know about the hanar colony Doctor Euthalia was travelling to.Elarya: From what we've learned, they're much like any other hanar colony. If anything, they may be more xenophobic than most hanar. That was one of the reasons we agreed to send Doctor Euthalia. We thought it would be an excellent opportunity for her to learn more about such a remote colony.(Return to last choice)
+(Re-initiating conversation)
+Elarya: You know what you need to know, Spectre. Do not delay further. The doctor's life hangs in the balance.
+(End of conversation)
+
+gbl03_recording[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's lines for it are missing entirely, as well as Garrus and Tali's, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown. Additionally, the spelling of the colony's name "Elder Home" may not be accurate as there is no known source for it.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_recording.isb
+Characters always present:
+
+Commander Shepard (missing)
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+Recording (asari voice): [static] ...under attack by an unknown force. Requesting assistance from the hanar colony. Elder Home pr-- [static]
+Recording (hanar voice): This one is from Elder Home colony? Please repeat last message.
+Recording (asari voice): Elder Home colony, we are under attack by an unknown force! Please, send assistance! We're taking heavy-- What's happened? Why are we descending? [static] ...control! Get these fires out! I repeat... [static] ...assistance. Please, come in! We're going down! [static] ...emergency...
+| Ashley Williams: It looks like the asari was right. The hanar do know what happened here.
+| Kaidan Alenko: Looks like the hanar knew what was going on after all.
+| Liara T'Soni: Elarya was correct. The hanar did know more than they let on.
+| Urdnot Wrex: Seems the hanar know more than they say.
+(Missing Shepard interjection)
+| Kaidan Alenko: Yes, Commander. Moving out.
+| Ashley Williams: Right behind you.
+| Liara T'Soni: Coming, Commander.
+(End of conversation)
+
+gbl03_hanar_senator (1)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's lines for it are missing entirely, as well as Garrus and Tali's, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_hanar_senator.isb
+Characters always present:
+
+Commander Shepard (missing)
+Unnamed hanar senator
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+Hanar senator: Commander. Is there anything this one can do to aid your mission?
+
+(Unknown 1) (Unknown 2) (Unknown 3)  (Missing Shepard interjection)Hanar senator: No, not physically. But there are worse things than pain. They want the doctor to assist them in the creation of a weapon. (Missing Shepard interjection)Hanar senator: Indeed. Though I'm afraid it is worse still. They want the doctor to assist them in the creation of a weapon. (Missing Shepard interjection)Hanar senator: They've taken the doctor. They want the doctor to assist them in the creation of a weapon.
+(Wrex is not present) (Wrex is present)  | Kaidan Alenko: What kind of weapon?| Ashley Williams: Weapon? How can the doctor help them with that?Hanar senator: They are making another bioweapon. Worse than the last one they inflicted upon us. Urdnot Wrex: You're talking about bioweapons.Hanar senator: Yes, you speak correctly. And they wish to create one even greater than the last that they inflicted upon us.
+(Unknown 1) (Unknown 2)  (Missing Shepard interjection)Hanar senator: It is saddened to say so. And if they gain the doctor's aid, we may not survive the next attempt. This one is ashamed to say... we are at war with our lystheni neighbors. (Missing Shepard interjection)Hanar senator: Resources. The lystheni have laid claim to the asteroids nearby. We've tried diplomacy, but they repay us with attacks on our colonies. This one is ashamed to say... we are at war with our lystheni neighbors.
+(Missing Shepard interjection)
+Hanar senator: A remote asteroid facility. This one has uploaded the coordinates to your ship. Please bring her back, Commander. It is our fault she is in this danger.
+
+(Unknown 1) (Unknown 2) (Inv) Investigate  (Missing Shepard interjection)Hanar senator: Good, good. This one is pleased to hear you say so.(End of conversation) (Missing Shepard interjection)Hanar senator: The lystheni will force her to help them. You must stop them, Commander.(End of conversation)
+(Inv) Lystheni facility Bioweapon Lystheni  (Missing Shepard interjection)Hanar senator: Details are sparse. We only recently learned of its existence. All attempts to infiltrate the facility have failed. We believe it is used primarily to carry out experiments that the lystheni government has not officially sanctioned. The main bunker is located underground on an asteroid. It will be difficult to gain entrance undetected, Commander.(Return to last choice) (Missing Shepard interjection)Hanar senator: Our scientists are speculating even now, but we have no actual data yet. We do know the lystheni have done this before. They infiltrate our colonies using small, undetectable vessels, getting just close enough to release deadly agents onto our unsuspecting population. How the virus or viral agent will work, we do not know. We have no defense, and millions could die before we develop a cure.(Return to last choice) (Missing Shepard interjection)Hanar senator: They are biologically similar to salarians, but different in culture, language and ideology. Lystheni means "the old blood" in their tongue. They separated from their kin centuries ago during the formation of the Citadel Council. Their language and their cousins' language have evolved... differently. Of particular note is their dislike of the Citadel Council and everything it stands for. The lystheni vehemently oppose all Council edicts, often to their own detriment. Of course it means they don't abide by any of the Citadel laws either. It makes them a very dangerous enemy.
+(P Inv) (Unknown 1) (R Inv) (Unknown 2)  (Missing Shepard interjection)Hanar senator: The lystheni have harvested minerals from the asteroids in our region for generations. Only recently have we allowed others to do so as well. The lystheni believed the asteroids were theirs. They began to refuse access to others and aggressively defended the asteroids. That was almost a full generation ago. The conflict has been escalating ever since.(Return to last choice) (Missing Shepard interjection)Hanar senator: The Council considers this to be a civil dispute and refuses to interfere. It is partly due to our remote location, but also due to the fact that the hanar people harbored the lystheni in the first place. The lystheni will still expect someone to come for the doctor, but they know the Council will not change their non-interference stance for one asari.(Return to last choice)
+gbl03_elarya (2)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the wording or position of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_elarya.isb
+Characters present:
+
+Elarya
+Commander Shepard
+
+Elarya: Good to see you again, Spectre. I haven't heard anything from Doctor Euthalia yet. Have you discovered what happened to her ship?
+
+(Par) Yes, I have. (Neu) Goodbye. (Ren) I'm working on it.  Shepard: Yes, but unfortunately I haven't located the doctor yet.Elarya: Please hurry, Doctor Euthalia's life may well hang in the balance.(End of conversation) Shepard: I need to go.Elarya: Please hurry, Doctor Euthalia's life may well hang in the balance.(End of conversation) Shepard: I was just on my way there.Elarya: Please hurry, Doctor Euthalia's life may well hang in the balance.(End of conversation)
+gbl03_amb_trig00[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's lines for it are missing entirely, as well as Garrus and Tali's since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig00.isb
+Characters always present:
+
+Commander Shepard (missing)
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Kaidan Alenko: Are you sure this is the right place?
+| Liara T'Soni: It is a little too quiet.
+| Urdnot Wrex: Something isn't right, here.
+|| Ashley Williams: I don't see any sign of resistance.
+|| Kaidan Alenko: There's no sign of the lystheni anywhere.
+|| Urdnot Wrex: Looks like the lystheni are in hiding.
+(Missing Shepard interjection)
+| Ashley Williams: Moving out.
+| Urdnot Wrex: Got your back, Shepard.
+| Kaidan Alenko: Yes, Commander.
+(End of conversation)
+
+gbl03_amb_trig01[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Garrus and Tali's lines are missing entirely from it, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig01.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Ashley Williams: What the hell were those things?
+| Urdnot Wrex: What the hell is that?
+| Liara T'Soni: Are those lystheni?
+|| Kaidan Alenko: I don't know, but they're obviously hostile.
+|| Liara T'Soni: Whatever they are, they look dangerous.
+|| Urdnot Wrex: I don't know, but they've got the attention of those guards.
+
+gbl03_first_encounter[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Garrus and Tali's lines are missing entirely from it, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_first_encounter.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Kaidan Alenko: Am I the only one who didn't understand a word of that?
+| Ashley Williams: What the hell was all that about?
+| Urdnot Wrex: Damn salarians. What the hell are they talking about?
+|| Ashley Williams: I think I've got a good idea of what they're saying.
+|| Kaidan Alenko: Whatever it was, I don't think they're too happy to see us.
+|| Liara T'Soni: The meaning of the words is clear enough.
+|| Urdnot Wrex: You don't need a translator to figure out what they're saying.
+||| Kaidan Alenko: Watch it! They've come around behind us!
+||| Ashley Williams: Look out! They're behind us!
+||| Urdnot Wrex: Heads up! They've got more behind us!
+||| Liara T'Soni: Commander, there are more behind us!
+
+gbl03_amb_trig02[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Garrus and Tali's lines are missing entirely from it, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig02.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Kaidan Alenko: What does he want? What is he saying?
+| Ashley Williams: What's he want? What's the matter with him?
+| Liara T'Soni: Careful, I would not get too close.
+| Urdnot Wrex: Poor fool...
+|| Ashley Williams: Watch it! They've come up behind us!
+|| Kaidan Alenko: Look out! There's more behind us!
+|| Urdnot Wrex: Watch your backs!
+|| Liara T'Soni: Commander, there are more back there!
+
+
+gbl03_amb_trig03[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's lines for it are missing entirely, as well as Garrus and Tali's, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig03.isb
+Characters always present:
+
+Commander Shepard (missing)
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Kaidan Alenko: What are they doing?
+| Ashley Williams: What are they up to?
+| Liara T'Soni: Strange. What do you think they're doing?
+| Urdnot Wrex: Watch it. They're up to something.
+(Missing Shepard interjection)
+| Kaidan Alenko: You bet.
+| Urdnot Wrex: Right behind you.
+| Liara T'Soni: Yes, Commander.
+| Ashley Williams: Yes, Commander.
+(End of conversation)
+
+gbl03_lystheni_technician[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's lines for it are missing entirely, as well as Garrus and Tali's, since most situations require five squadmates out of six to interject. The lystheni technician's lines, though apparently incomprehensible, were not found either. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_lystheni_technician.isb
+Characters always present:
+
+Nuriam (posing as Euthalia)
+Commander Shepard (missing)
+Unnamed lystheni technician (missing)
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Kaidan Alenko: There's another one!
+| Ashley Williams: There's another one. Take it out!
+| Urdnot Wrex: Watch out! Hostiles.
+Nuriam: No, wait! He won't hurt you, he's just scared.
+(Missing Shepard interjection)
+Nuriam: He's just a lab technician, he was attacked by those things out there. Plus he saved me!
+| Kaidan Alenko: Can he understand what we're saying?
+| Ashley Williams: Does he know what we're saying?
+| Urdnot Wrex: Does he know what we're saying?
+Nuriam: I think so. Some of it, anyway. He's not like the infected ones out there. Not yet...
+| Ashley Williams: I take it you're Doctor Euthalia?
+| Kaidan Alenko: I assume you're Doctor Euthalia.
+| Urdnot Wrex: You the doctor?
+Nuriam: Y--yes, I am. You came just in time, I don't know how much longer I could...
+(Missing Shepard interjection)
+Nuriam: They're just lystheni, but they've been infected. It's an experiment. Some sort of virus they were working on. I'm not sure how, but it's changing them. It's killing them. It only seems to be infecting their own kind. We can get out this way. But there's more infected lystheni back there.
+
+(Unknown 1) (Unknown 2) (Inv) Investigate  (Missing Shepard interjection)Nuriam: I--I'll be right with you. Don't worry.(End of conversation) (Missing Shepard interjection)Nuriam: I'm... right with you.(End of conversation)
+(Inv) Is he okay? (Inv) Your survival  (Missing Shepard interjection)Nuriam: I already tried. His wounds are fatal.(Missing lystheni technician interjection)Nuriam: I think he's thanking you. For your offer.(Return to last choice) (Missing Shepard interjection)Nuriam: I was... I w--... When the lystheni started getting infected, there was a lot of chaos. I was here, in the lab. I thought I could get away... But I ran into those... those things out there. That's when he came along, and... helped me get back here.(Return to last choice)
+gbl03_amb_trig04[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's lines for it are missing entirely, as well as Garrus and Tali's, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig04.isb
+Characters always present:
+
+Nuriam (posing as Euthalia)
+Commander Shepard (missing)
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Kaidan Alenko: Watch out!
+| Ashley Williams: Look out!
+| Liara T'Soni: Commander!
+|| Kaidan Alenko: This one's already dead.
+|| Liara T'Soni: I do not think this one will cause us any more trouble.
+|| Urdnot Wrex: This one's dead already.
+Nuriam: These poor lystheni...
+
+(Unknown 1) (Unknown 2)  (Missing Shepard interjection)Nuriam: They have no choice! The hanar have evoked martial law on lystheni colonies. The lysthenis are prisoners in their own homes! (Missing Shepard interjection)Nuriam: It's not their fault! Not entirely. The hanar have evoked martial law on lystheni colonies. The lysthenis are prisoners in their own homes!
+(Unknown 1) (Unknown 2) (Unknown 3)  (Missing Shepard interjection)Nuriam: I'm not surprised. The hanar don't want outside intervention. The hanar outnumber the lystheni ten to one, and they use that advantage to force the lystheni to conform to their rules and laws. (Missing Shepard interjection)Nuriam: No. I've seen evidence of the hanar's actions. They're treating the lystheni horribly! The hanar outnumber the lystheni ten to one, and they use that advantage to force the lystheni to conform to their rules and laws. (Missing Shepard interjection)Nuriam: And what lengths would you humans go to if a species had threatened to make you slaves? The hanar outnumber the lystheni ten to one, and they use that advantage to force the lystheni to conform to their rules and laws.
+(Unknown 1) (Unknown 2)  (Missing Shepard interjection)Nuriam: I don't think it was always that way but... there's some sort of dispute, over resources. Instead of working out some sort of deal, the hanar just clamped down on the lystheni. The lystheni are worried that Council intervention could be even more intrusive than what the hanar are doing to them. They're certainly making things more difficult for themselves than they need to. (Missing Shepard interjection)Nuriam: I won't try to convince you. But I know what I've seen. Instead of working out some sort of deal, the hanar just clamped down on the lystheni. The lystheni are worried that Council intervention could be even more intrusive than what the hanar are doing to them. They're certainly making things more difficult for themselves than they need to.
+(Unknown 1) (Unknown 2) (Unknown 3)  (Missing Shepard interjection)Nuriam: That would be great. Maybe... maybe something could be worked out after all.(End of conversation) (Missing Shepard interjection)Nuriam: Alright. I'm right behind you, Commander.(End of conversation) (Missing Shepard interjection)Nuriam: I wasn't asking you to. Though I'm disappointed you feel that way.(End of conversation)
+gbl03_amb_trig05[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Garrus and Tali's lines are missing entirely from it, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig05.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Ashley Williams: What the hell was that?
+| Kaidan Alenko: What the hell was that?
+| Urdnot Wrex: Damn it, what's going on?
+| Liara T'Soni: What was that?
+|| Kaidan Alenko: Whatever it was, we're gonna need to find a new way out of here.
+|| Ashley Williams: Don't know, but it looks like we won't be heading back that way.
+|| Liara T'Soni: Whatever it was, our way back is blocked.
+|| Urdnot Wrex: Damn it, our way back is blocked.
+
+gbl03_amb_trig06[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's (if there are any) and Euthalia's lines for it are missing entirely, as well as Garrus and Tali's, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig06.isb
+Characters always present:
+
+Euthalia (missing)
+Nuriam
+Commander Shepard (missing)
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Kaidan Alenko: Where are we? Are we headed in the right direction?
+| Ashley Williams: Is this the right direction?
+|| Ashley Williams: I think we're headed in the only direction, Kaidan.
+|| Liara T'Soni: I could be wrong, but it seems we are heading deeper into the facility.
+|| Kaidan Alenko: This is the only direction, Ash.
+|| Urdnot Wrex: It's the only way, Garrus.
+(Missing Euthalia interjection)
+Nuriam: Doctor Euthalia, I wa--
+(Missing Euthalia interjection)
+| Ashley Williams: But she told me she was Doctor Euthalia.
+| Liara T'Soni: Your assistant tells a different story.
+| Kaidan Alenko: That's not what your assistant told us.
+(Missing Euthalia interjection)
+Nuriam: No, Euthalia... I-- it's not like that at all... I w-- I was just trying to help.
+(Missing Euthalia interjection)
+Nuriam: There aren't more of those... things, are there?
+(Missing Euthalia interjection)
+Nuriam: You did this? How could you?!
+(Missing Euthalia interjection)
+Nuriam: I can't believe you. I used to think you were a great doctor, but you... you're a monster.
+(Missing Euthalia interjection)
+Nuriam: But... You can't just leave the lystheni here to die! Not like this!
+(Missing Euthalia interjection)
+Nuriam: But it's not their fault! The hanar are destroying their culture. They're enslaving the lystheni!
+(Missing Euthalia interjection)
+Nuriam: I hate you! You can die with the hanar!
+| Ashley Williams: This place is falling apart. We should get moving.
+| Urdnot Wrex: We should get moving, Shepard.
+| Kaidan Alenko: I think we should keep moving, Commander.
+(End of conversation)
+
+gbl03_amb_trig07[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Garrus and Tali's lines are missing entirely from it, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig07.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Kaidan Alenko: What's it saying?
+| Ashley Williams: What are they saying?
+| Liara T'Soni: What is it saying?
+|| Ashley Williams: It-- it looks like it's transmitting... something.
+|| Urdnot Wrex: It looks like it's transmitting... something.
+|| Kaidan Alenko: It looks like it's transmitting... something.
+||| Kaidan Alenko: Uhh, Commander. We've got company. Lots of it.
+||| Ashley Williams: Commander, we've got hostiles! Lots of them.
+||| Urdnot Wrex: Shepard, we've got trouble. There's a large group of lystheni heading this way.
+|||| Ashley Williams: For the Alliance!
+|||| Kaidan Alenko: Right behind you, Commander.
+|||| Urdnot Wrex: Time to break some bones.
+
+gbl03_amb_trig08[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard and Euthalia's lines for it are missing entirely, as well as Garrus and Tali's, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig08.isb
+Characters always present:
+
+Euthalia (missing)
+Commander Shepard (missing)
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+(Missing Euthalia interjection)
+| Ashley Williams: How the hell is that possible?
+| Liara T'Soni: That would be... an extraordinary feat. How did they accomplish that?
+| Urdnot Wrex: Really? How did they do that?
+(Missing Euthalia interjection)
+
+(Unknown 1) (Unknown 2) (Unknown 3)  (Missing Shepard interjection)| Kaidan Alenko: I'm not sure, but I'll see what I can do.| Ashley Williams: I'll look into it, just give me a minute.| Urdnot Wrex: Not sure. Give me a minute, maybe I can figure something out. (Missing Shepard interjection)| Urdnot Wrex: I'll see what I can do.| Kaidan Alenko: I'll see what I can do.| Ashley Williams: I'll see what I can do. (Missing Shepard interjection)| Kaidan Alenko: Let me see what you've done.| Ashley Williams: Let me take a look.| Urdnot Wrex: Let me see this thing.
+(Missing Euthalia or Shepard interjection)
+| Urdnot Wrex: I found a way to stop the transmission, but it involves blowing up the facility.
+| Kaidan Alenko: Commander. I can't stop the transmission, not directly. But I can shut down the remaining systems and destroy the entire facility, transmitters and all.
+| Ashley Williams: Commander. If I shut down the core systems, I can cause a chain reaction that would destroy the entire facility, including the transmitters.
+(Missing Euthalia interjection)
+| Kaidan Alenko: It's not her fault. Most of the data is already in the transmitter buffers, and the only way to stop it is to destroy the transmitters.
+| Ashley Williams: There's nothing she could do, everything's been transfered to the buffers. The only way to stop it is to destroy the transmitters themselves.
+| Urdnot Wrex: There's nothing you can do here, the data is already in the transmitter buffers. You'll need to destroy the transmitters if you want the data stopped.
+(Missing Euthalia or Shepard interjection)
+| Liara T'Soni: What about Nuriam? She is still in here, someplace.
+| Urdnot Wrex: What about the girl? She's still in here, someplace.
+| Ashley Williams: What about Nuriam? She's still in here, somewhere.
+|| Urdnot Wrex: If I'm gonna do this, it's gotta be now, Shepard.
+|| Ashley Williams: Commander, that data is already transmitting.
+|| Kaidan Alenko:"Commander, if I'm going to do this, I have to do it now.
+
+(Unknown 1) (Unknown 2) (Inv) Maybe if we hurry.  (Missing Shepard interjection)(Missing Euthalia interjection)| Ashley Williams: Mistake or not, it's the Commander's call. Now let's move.| Liara T'Soni: It is not your call, Doctor. I suggest you listen to the Commander.| Urdnot Wrex: Fall in line, Doctor. This isn't a committee.(End of conversation) (Missing Shepard interjection)| Liara T'Soni: Are you really going to leave Nuriam here to die?| Ashley Williams: We're just gonna leave Nuriam here to die?| Kaidan Alenko: We're just gonna leave Nuriam here to die?|| Kaidan Alenko: Give me a second, I just need to shut down the... Got it! Let's get moving, this place won't be here much longer.|| Ashley Williams: Give me a second, I just need to shut down the... Got it! Okay, let's get moving. This place won't be around much longer.|| Urdnot Wrex: Give me a second, I just need to shut down the... Got it! Move out everyone, this place is gonna blow!(End of conversation) (Missing Shepard interjection)| Urdnot Wrex: Can't. The data will be long gone by the time we find her.| Kaidan Alenko: There's no time. We can't stop the data and save Nuriam.| Ashley Williams: There's no time. The data will be transmitted by the time we find her.(Return to last choice)
+gbl03_amb_trig09[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Garrus and Tali's lines are missing entirely from it, since most situations require five squadmates out of six to interject.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig09.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+| Liara T'Soni: Those things are attacking her!
+| Kaidan Alenko: The lystheni are killing her!
+| Ashley Williams: They're attacking her!
+
+gbl03_amb_trig10[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's (if there are any) and Euthalia's lines for it are missing entirely, as well as Garrus and Tali's, since most situations require five squadmates out of six to interject. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_amb_trig10.isb
+Characters always present:
+
+Euthalia (missing)
+Nuriam
+Commander Shepard (missing)
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian (missing)
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya (missing)
+
+Nuriam: I--I just wanted to help them... I wanted my life to stand for something. The hanar were decimating the lystheni. I just wanted...
+(Missing Euthalia interjection)
+
+(Unknown 1) (Unknown 2)  (Missing Shepard interjection)Nuriam: No, it's not. Maybe I didn't choose the best way to help, but at least I'm trying. I just wanted to give the lystheni a fighting chance. But after seeing this... seeing what's become of the lystheni... I wouldn't want that for anyone. (Missing Shepard interjection)Nuriam: I know. Euthalia always says I don't think things through. This time I agree. I just wanted to give the lystheni a fighting chance. But after seeing this... seeing what's become of the lystheni... I wouldn't want that for anyone.
+(Unknown) (Cha) (Int)  (Missing Shepard interjection)Nuriam: I... I don't think so. I'm too weak. I didn't think it would end like this...| Ashley Williams: You're a doctor! Can't you help her?| Liara T'Soni: You can help her, Doctor Euthalia.| Kaidan Alenko: You're a doctor, help her!(Missing Euthalia interjection)| Liara T'Soni: How can you be so cold?| Ashley Williams: How can you be so cold?| Kaidan Alenko: How can you be so cold?| Urdnot Wrex: She's your own kind, how can you be so indifferent to her fate?(Missing Euthalia interjection)Nuriam: Commander. I can't expect you to help me... but please, use my remains, analyze them, find a way to stop the virus.(Missing Shepard interjection)Nuriam: Please, Commander. Don't worry about me. Just make sure this virus inside me is never used.(Missing Shepard interjection)| Kaidan Alenko: Right behind you, Commander.| Ashley Williams: Right behind you, Commander.| Urdnot Wrex: On your tail, Shepard.(End of conversation) (Missing Shepard interjection)Nuriam: Yes! I can't just let them die. Not like this.(Missing Shepard and/or Euthalia interjection)Nuriam: Thank you.(End of conversation) (Missing Shepard interjection)Nuriam: I know. I know! After seeing what Euthalia did to the lystheni, I just couldn't bear it. I was going to kill myself... but I couldn't do that either.(Missing Shepard and/or Euthalia interjection)Nuriam: Thank you.(End of conversation)
+gbl03_hanar_senator (2)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Shepard's lines for it are missing entirely. The order of the conversation may not be accurate, and the dialogue wheel options are completely unknown.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_hanar_senator.isb
+Characters present:
+
+Euthalia (missing)
+Commander Shepard (missing)
+Unnamed hanar senator
+
+(First conversation)
+Hanar senator: Commander, you have saved us.
+(Missing Shepard interjection)
+Hanar senator: Yes, that is very good news indeed. This one will await you and the doctor here.
+(End of conversation)
+
+(Second conversation)
+Hanar senator: Commander. And this must be the doctor we've been waiting for. Welcome.
+(Missing Euthalia interjection)
+Hanar senator: The lystheni are especially difficult. But this one is relieved to know everything is well.
+
+(Unknown 1) (Unknown 2) (Inv) Investigate  (Missing Shepard interjection)Hanar senator: Ah, yes. Thank you, Commander. Please give our thanks to Elarya for sending you to us. Doctor, this one does not want to sound impertinent... but we should be going. Farewell. And thank you again for your aid.(End of conversation) (Missing Shepard interjection)Hanar senator: Excellent. When next you see Elarya, please give our thanks to her for sending you to us. Doctor, this one does not want to sound impertinent... but we should be going. Farewell. And thank you again for your aid.(End of conversation)
+(Inv) Nuriam (Inv) Conflict with lystheni  (Missing Shepard interjection)Hanar senator: Ah, your assistant. The one we have in our medical facility. This one understands she is very ill.(Missing Euthalia interjection)Hanar senator: Well, ah... This one will ensure she is kept safe and brought to full recovery at any rate. Perhaps the esteemed doctor would like to go to her quarters now.(Return to last choice) (Missing Shepard interjection)Hanar senator: We... we have done nothing but be patient with them. We are merely attempting to quell the situation.(Missing Euthalia interjection)Hanar senator: Ah... This one is not sure what the doctor... Was there a problem?(Missing Euthalia interjection)Hanar senator: You've seen what they are capable of, Commander. Should we just let them attack our colonies?
+(Unknown 1) (Unknown 2) (Unknown 3) (Cha) (Int)  (Missing Shepard interjection)Hanar senator: Commander, I understand your concern. But this one does not require lessons in politics. Goodbye, Commander. This one is sure you can find your way off the ship.(End of conversation) (Missing Shepard interjection)Hanar senator: Ah, yes. Thank you, Spectre. Your service to us has been invaluable. Farewell. And thank you again for your aid.(End of conversation) (Missing Shepard interjection)Hanar senator: We will deal with this in a manner that suits us. Now if the Commander would be so kind, this one has much work to do. Goodbye, Commander. This one is sure you can find your way off the ship.(End of conversation) (Missing Shepard interjection)Hanar senator: The Citadel Council? You'd have to be a Spectre if you expect to get the Coun-- But... the Council will... This is not what our people wanted at all. This one must go and inform the senate of your... decision.
+(Unknown 1) (Unknown 2)  (Missing Shepard interjection)Hanar senator: Yes, this one also thanks the Commander. Farewell. And thank you again for your aid.(End of conversation) (Missing Shepard interjection)Hanar senator: Of course. So long, Commander. And thank you.(End of conversation) (Missing Shepard interjection)Hanar senator: But... the Council will... This is not what our people wanted at all. This one must go and inform the senate of your... decision.
+(Unknown 1) (Unknown 2)  (Missing Shepard interjection)Hanar senator: Yes, this one also thanks the Commander. Farewell. And thank you again for your aid.(End of conversation) (Missing Shepard interjection)Hanar senator: Of course. So long, Commander. And thank you.(End of conversation)
+gbl03_elarya (3)[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the wording or position of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\gbl03_elarya.isb
+Characters present:
+
+Elarya
+Commander Shepard
+
+(Nuriam alive) (Nuriam dead, no peace process) (Nuriam dead, peace process)  Elarya: Spectre, the hanar senator mentioned that you'd be coming soon. He also says that his sister Nuriam is doing much better.
+(Par) She's been through a lot. (Neu) Just doing my job. (Ren) Now, my credits.  Shepard: The lystheni were less than kind to her.Elarya: So I've heard. You risked much in rescuing Doctor Euthalia, and I've made sure you'll be rewarded for it. I've transferred the credits to your account. Thank you again, Spectre. Knowing the doctor is safe again is a great relief. Shepard: I did what I had to.Elarya: I see. Well, I suppose you'll be expecting your payment. I've transferred the credits to your account. Thank you again, Spectre. Knowing the doctor is safe again is a great relief. Shepard: I expect to be well paid for this.Elarya: You will be, don't worry. I've transferred the credits to your account. Thank you again, Spectre. Knowing the doctor is safe again is a great relief. Elarya: Spectre, the hanar senator said you'd be along. Doctor Euthalia is doing well, thanks to you.
+(Par) She's been through a lot. (Neu) Just doing my job. (Ren) Now, my credits.  Shepard: The lystheni were less than kind to her.Elarya: So I've heard. You risked much in rescuing Doctor Euthalia, and I've made sure you'll be rewarded for it. I've transferred the credits to your account. Thank you again, Spectre. Knowing the doctor is safe again is a great relief. Shepard: I did what I had to.Elarya: I see. Well, I suppose you'll be expecting your payment. I've transferred the credits to your account. Thank you again, Spectre. Knowing the doctor is safe again is a great relief. Shepard: I expect to be well paid for this.Elarya: You will be, don't worry. I've transferred the credits to your account. Thank you again, Spectre. Knowing the doctor is safe again is a great relief. Elarya: Spectre. It seems you've been busy, not just rescuing the doctor but helping to straighten up the conflict between the lystheni and the hanar. The Council was not impressed with the hanar's actions, but it seems a peaceful outcome's almost certain now. It's a good thing you intervened. We likely never would have heard about the conflict otherwise.
+(Par) That's good to hear. (Neu) The war had to end. (Ren) Faulty intel.  Shepard: I'm glad to hear they were able to come to an amicable understanding.Elarya: Here, Spectre. Credits for your trouble. And a little extra for... getting the peace process started. Shepard: The hanar and lystheni were tearing each other apart.Elarya: We just learned the full extent of the conflict between the hanar and the lystheni after your incursion. Here, Spectre. Credits for your trouble. And a little extra for... getting the peace process started. Shepard: You never told me they were at war.Elarya: Very true, we had no idea there was such a violent conflict going on. We just learned the full extent of the conflict between the hanar and the lystheni after your incursion. Here, Spectre. Credits for your trouble. And a little extra for... getting the peace process started.
+(Neu) Goodbye. (Ren) Do your job, next time.  Shepard: I should get going.Elarya: Good day, Spectre.(End of conversation) Shepard: In the future, make sure you keep a closer eye on your important scientists.Elarya: Thanks for the advice, we'll... try. Good fortune to you.(End of conversation)
+
+(Re-initiating conversation)
+Elarya: Spectre, I have no more work for you.
+
+
+
+

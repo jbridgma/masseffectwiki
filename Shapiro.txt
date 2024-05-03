@@ -1,0 +1,38 @@
+
+
+
+The Nexus is experiencing strange power failures. A technician needs help discovering the reason. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate points of failure in the Commons area
+2.2 Investigate points of failure in Operations
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+Speak to Shapiro (marked with a ) in the Hydroponic Gardens section of the Common Area on the Nexus. This can be done anytime after reactivating the Remnant vault on Eos.
+
+Walkthrough[]
+Shapiro needs Pathfinder Ryder's help identifying the source of the power problems throughout the Nexus. Four navpoints  will be added to different areas on the Nexus. The problems can be identified by listening for electrical zapping sounds nearby pieces of Damaged Equipment and using your scanner to pass the information to SAM. There are two points of failures each in two hub places: Common Area and Operations.
+
+Investigate points of failure in the Commons area[]
+In the upper floor of the Common Area, enter the Tech Lab and scan the incubator on the east wall.
+Again in the upper floor, go to the Cultural Exchange and scan the short-circuited computer terminal behind the desk near the Cultural Center Liaison's usual spot.
+
+Investigate points of failure in Operations[]
+In the Operations area, go to the eastern end. Scan the short circuit in a console next to the giant hologram of the Nexus, near Davis Qar.
+The final point of interest is in Nakmor Kesh's office. A giant bug (apparently a miniature pallad) is hiding behind some equipment below the window opposite of the door. Interact with the creature to deal with it, or scan it before doing so. Note:  you can skip scanning the previous points and go straight for the creature if you're in a hurry.
+The last part of the mission is to decide whether to kill or capture the Miniature Pallad. The bug then disappears from Kesh's office, and your decision has no further story or game impact either way.
+
+Rewards[]
++530 XP
+
+
+

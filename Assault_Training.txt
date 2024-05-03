@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+This article is about the talent in Mass Effect. For the passive class power in Mass Effect 2 and Mass Effect 3, see Assault Mastery.
+
+Assault Training is a combat-oriented talent available to Soldiers, Vanguards and unlockable for the Turian Agent that increases melee and weapon damage and grants the Adrenaline Burst ability.
+
+Contents
+
+1 Talent Ranks
+2 Adrenaline Burst
+
+2.1 Adrenaline Burst
+2.2 Advanced Adrenaline Burst
+2.3 Master Adrenaline Burst
+
+
+3 Specialization
+4 Classes
+
+
+
+Talent Ranks[]
+Level 1: Increases weapon damage by 1%. Increases melee damage by 30%.
+Level 2: Increases weapon damage by 2%. Increases melee damage by 35%.
+Level 3: Adrenaline Burst
+Level 4: Increases weapon damage by 3%. Increases melee damage by 40%.
+Level 5: Increases weapon damage by 4%. Increases melee damage by 44%. Unlocks Tactical Armor (Vanguard), Fitness (Soldier).
+Level 6: Increases weapon damage by 5%. Increases melee damage by 48%.
+Level 7: Increases weapon damage by 6%. Increases melee damage by 52%.
+Level 8: Advanced Adrenaline Burst
+Level 9: Increases weapon damage by 7%. Increases melee damage by 56%.
+Level 10: Increases weapon damage by 8%. Increases melee damage by 60%.
+Level 11: Increases weapon damage by 9%. Increases melee damage by 64%.
+Level 12: Master Adrenaline Burst
+
+Adrenaline Burst[]
+Adrenaline Burst is an ability unlockable through the Assault Training talent. It resets the cooldown times on all recharging talents, including First Aid, so they can be used immediately.
+Adrenaline Burst is effective for Soldiers and Vanguards during long battles, to keep Immunity online, reuse weapon talents such as Overkill, or refresh tech/biotic abilities. As it is not a tech or biotic ability itself, Adrenaline Burst is unaffected by the cooldown-delaying effects of Damping, making it an ideal way to counteract Damping's effects.
+It's particularly strong even at minimum rank for low-level characters who have to contend with very long recharge times on their abilities. At maximum rank plus the corresponding Specialization (see below), Adrenaline Burst can be used as a substitute for Armor Upgrades that improve ability cooldowns, allowing players to instead equip other mods that might be more impactful.
+Unfortunately, squad AI isn't particularly intelligent about using Adrenaline Burst—Ashley and Garrus have a tendency to use it before they've even used any other abilities, meaning they receive no value from it. The only real way around this is to turn automatic squad power use off in the menu.
+
+
+Adrenaline Burst[]
+Resets the cooldown times on all your talents so they can be used immediately.
+
+Recharge time: 120 sec.
+Accuracy Cost: 30%
+Advanced Adrenaline Burst[]
+Resets the cooldown times on all your talents so they can be used immediately.
+
+Recharge time: 90 sec.
+Accuracy Cost: 30%
+Master Adrenaline Burst[]
+Resets the cooldown times on all your talents so they can be used immediately.
+
+Recharge time: 45 sec.
+Accuracy Cost: 30%
+Specialization[]
+Shock Troopers gain Adrenaline Burst Specialization at level 12.
+Level 12: Adrenaline Burst Specialization: Reduces recharge time by 25%.
+
+Classes[]
+These classes can use the Assault Training talent:
+
+Soldier
+Vanguard
+Turian Agent Unlockable
+
+
+Mass Effect Talents
+
+
+Biotic
+
+Barrier • Lift • Singularity • Stasis • Throw • Warp
+
+
+Combat
+
+Assault Rifles • Pistols • Shotguns • Sniper Rifles • Assault Training • Fitness • Basic Armor • Combat Armor • Tactical Armor
+
+
+Tech
+
+Damping • Decryption • Electronics • First Aid • Hacking • Medicine
+
+
+Class
+
+Adept • Asari Scientist • Engineer • Infiltrator • Krogan Battlemaster • Quarian Machinist • Sentinel • Soldier • Turian Agent • Vanguard
+
+
+Player only
+
+Charm • Intimidate • Spectre Training
+
+
+
+

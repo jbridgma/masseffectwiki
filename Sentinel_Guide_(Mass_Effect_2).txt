@@ -1,0 +1,270 @@
+
+
+
+See also: Sentinel Guide, Sentinel Guide (Mass Effect 3)
+
+Sentinels are equipped with the most advanced ablation armor system to keep themselves safe. If overloaded, the system will stun all enemies within a short distance.
+Power Training: Tech Armor, Throw, Warp, Overload, Cryo Blast
+Weapon Training: Heavy Pistol, Submachine Gun
+Sentinels are unique, bringing both tech and biotic abilities to the battlefield. While they lack the focus of Adepts and Engineers, they are versatile and can handle any situation.
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class Powers
+
+2.1.1 Throw
+2.1.2 Warp
+2.1.3 Tech Armor
+2.1.4 Overload
+2.1.5 Cryo Blast
+2.1.6 Defender
+
+
+2.2 Notable Bonus Powers
+
+2.2.1 Warp Ammo
+2.2.2 Armor Piercing Ammo
+2.2.3 Shredder Ammo
+2.2.4 Slam
+2.2.5 Reave
+2.2.6 Energy Drain
+2.2.7 Geth Shield Boost
+2.2.8 Barrier
+2.2.9 Flashbang Grenade
+2.2.10 Stasis
+2.2.11 Dominate
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Weapons
+
+3.1.1 Heavy Pistols
+3.1.2 Submachine Guns
+
+
+3.2 Heavy Weapons
+
+3.2.1 M-100 Grenade Launcher
+3.2.2 ML-77 Missile Launcher
+3.2.3 M-622 Avalanche
+3.2.4 M-920 Cain
+3.2.5 Collector Particle Beam
+3.2.6 M-451 Firestorm
+3.2.7 M-490 Blackstorm
+3.2.8 Arc Projector
+
+
+3.3 Advanced Weapons Training
+
+3.3.1 Assault Rifles
+3.3.2 Shotguns
+3.3.3 Sniper Rifles
+
+
+
+
+4 Combat Guide
+5 Squad Members
+
+
+
+Overview[]
+The Sentinel has a mix of tech and biotic powers for offense, defense, and general utility. All four forms of defense can be disabled: armor, health regeneration and biotic barriers with Warp, and shields with Overload. The class power Tech Armor gives the Sentinel the arguably greatest survivability of any class and provides damage and disabling upon destruction. The main weakness of the Sentinel is the lack of weapons training: it is able to use only heavy pistols, submachine guns and heavy weapons. With a good mix of tech and biotics, however, the Sentinel is a versatile class, capable of deftly handling most situations.
+Some of the differences between Mass Effect and Mass Effect 2 are that the Sentinel initially has access to three weapon types instead of one, and that there are more powers that can be used more frequently because of the global cooldown. This makes the Sentinel generally more effective in combat in Mass Effect 2 than in Mass Effect.
+In terms of upgrades, Damage Protection will help boost shields further and the Hard Shields upgrade reduces damage taken. The Sentinel should prioritize tech and biotic upgrades along with SMG and possibly heavy pistol damage. Depending on what advanced training was chosen, corresponding weapon upgrades are prudent, too. For armor, anything that helps with shields or tech/biotic powers is best.
+If you choose the Power Armor evolution, the Capacitor Chestplate and Helmet can be useful for refilling your large shield pool without needing to reactivate Tech Armor. If you have the Aegis Pack, the Kestrel series is a great choice for armor, as is the Sentry Interface. Sentinels are already potentially capable of the lowest recharge times of any class, so the Archon Visor (Equalizer Pack) can be used to further push down cooldown times. Tech Armor's primary boost works on the base shield rating before factoring upgrades or armor, but increasing shields further with your armor still synergizes better than choosing increased health, so choices like Shield Harness and Heavy Damping Gauntlets work well.
+Sentinels do not have as many tech powers as Engineers or as many biotic powers as Adepts, and they lack the weapons training and ammo powers of the combat classes. Still, their various powers each have multiple uses and their strong defensive capabilities allows them to endure long bursts of gunfire, making the Sentinel a true jack-of-all-trades.
+
+Powers[]
+Class Powers[]
+Throw[]
+Main article: Throw
+Throw uses mass effect fields to hurl targets away, damaging them if they hit an object. It can also be curved around objects and cover to hit its target. Throw really shines on lighter enemies or enemies who've already been hit with force effects. For example, reducing a target's mass with Pull allows Throw to launch foes against walls or over nearby ledges more forcefully. Defensively, Throw can stop charging enemies or simply disable a target. Offensively, it can slam an enemy into objects for damage, and even has a few instant-kill possibilities. Frozen targets thrown at an object may shatter, enemies thrown off ledges will die, and Husks will die when any force effects are applied to them. The Sentinel already has access to freezing through Cryo Blast and can thus exploit all three. On higher difficulties, Throw loses some of its usefulness as it is only effective against unprotected enemies and does very low damage to any form of protection. It is still useful, however, for disabling or killing enemies once they have been stripped of their defenses.
+When choosing evolution, Heavy increases the power while Area gives it a radial effect. Area is good on lower difficulties for disabling multiple opponents at once, but because you'll rarely get two unprotected enemies together on Hardcore or Insanity, Heavy is recommended on harder settings.
+
+Warp[]
+Main article: Warp
+Unlocks with throw at level 2.
+Warp spawns a mass effect field that damages enemy targets and stops health regeneration. Warp is the Sentinel's main biotic offense, and like all the Sentinel's powers, it has several applications. First, at just rank one, Warp already can be used to permanently shut down enemy regeneration, making it very useful against krogan or vorcha even if you can't spare any extra points for it. Second, it is potent against armor (although not quite to the degree of Incinerate) and against biotic barriers. Lastly, if the target is affected by another biotic ability, such as Pull or Slam, it will detonate on the target, cause damage in a radius and knocking back enemies near the target. Warp is very useful on higher difficulties, where many (all on Insanity) enemies are protected, some with multiple forms. It is notable that the Warp explosion damages all enemies, even when they are protected. The Sentinel cannot detonate a Warp without help from an ally, however. Throw has no duration and thus can't be detonated, and the biotic bonus powers available to the Sentinel can't be detonated by Shepard alone, either - Reave doesn't trigger the explosion and Slam resumes too quickly for Shepard to use Warp in succession.
+Because your ability to detonate depends on allies, the Unstable evolution is only good if you will always be using an ally that has a duration-based biotic power, whereas Heavy is always a good option.
+
+Tech Armor[]
+Main article: Tech Armor
+Another power that so perfectly exemplifies the Sentinel's mixed abilities, Tech Armor is offensive, defensive, and utilitarian. This power generates an energy armor suit that boosts the user's shields. Considering that most enemies will be much more attracted to the Commander than your squadmates, having a powerful, unique defensive power really gives the Sentinel an edge on higher difficulties. Unlike Barrier, Fortification, or Geth Shield Boost, Tech Armor remains active until it is destroyed, the mission ends, or you load the game. On occasions when it does get destroyed, tech armor sends out a very large pulse of energy, knocking back and damaging enemies within a certain radius of the Commander. This reactive damage is very useful when facing melee enemies such as Husks or varren, especially as they tend to swarm in large numbers. Tech Armor also refills Shepard's shields to maximum upon activation, meaning that it can be used to regenerate your shields once they are downed, granting superior survivability. Finally, starting at rank 3, Tech Armor also resets ally cooldowns when activated, letting a Sentinel's allies use their powers much more frequently.
+If you rely heavily on powers like Warp and Overload for damage, the Power evolution will be the better choice. It adds to power damage, plus the higher primary shielding means you can activate it less frequently and let your shields recharge naturally to a larger amount, leaving your cooldown ready for other powers. If you focus more on using guns and especially on higher difficulty settings, Assault Armor will be better for you. Assault has a stronger pulse with the largest radius by far of any power available and its lower primary boost means this pulse will activate more frequently. It also provides better total defense than Power Armor. Unlike Tech Armor's primary boost, Assault's secondary shield boost works based on total shields after upgrades and armor are considered, meaning it will provide a much greater total shield increase. Assault's shielding is also usefully split into two tiers, which is most useful on high difficulty settings. When shields drop, damage does not bleed through regardless of how strong the attack was, so the first layer can absorb the full impact of a heavy attack (such as a missile or sniper) and you'll still recharge to 50% shielding on the secondary boost, which can itself fully absorb a heavy attack without you taking health damage.
+
+Overload[]
+Main article: Overload
+Unlocks with tech armor at level 2.
+Once again, this ability is useful for many different purposes. First, it's the other defense-disabling ability available to the Sentinel. Overload focuses on shutting down enemy shields and damaging synthetics. From rank 2 it can also disable unprotected synthetics and rank 3 makes it overheat enemy weapons. Once evolved, it will either cause more damage and make synthetics explode on death or it can cover a larger area. It can also be used at any rank on explosive canisters and flame-throwing enemies in order to make them burst immediately, and canisters blown this way have a larger explosive radius than normal.
+Enemies tend to group together often, so on any difficulty setting the Area evolution works very well. If for the secondary effects alone, Area makes a great choice. On higher difficulties, Heavy's increased damage can potentially be useful too.
+
+Cryo Blast[]
+Main article: Cryo Blast
+Unlocks with overload at level 2.
+When activated, this power fires a mass of super-cooled subatomic particles capable of snap-freezing targets within a small radius, and this can curve over cover to hit its target. While frozen, enemies are unable to act, any regeneration is temporarily halted, they take doubled damage, and they can even be shattered when slammed with strong force effects. As a downside, any sort of armor, shielding, or barrier prevents the target from being affected, and there is a delay upon hitting before enemies fully freeze. Also, frozen enemies have a tendency to fall behind cover, thus making it difficult to finish them off. However, it can be used very effectively in close combat, by freezing your enemies, and then punching them when they fall.
+On lower difficulties, Full Cryo Blast can disable several targets at once. On higher difficulties, getting multiple unprotected enemies together is too rare to make Full useful, so simply increasing the duration with Deep is suggested.
+
+Defender[]
+Main article: Defender (power)
+The class ability of the Sentinel augments its most important attributes. Defender reduces the cooldown timer on powers, increases Shepard's health and gives a negotiation bonus by boosting Paragon and Renegade points. Both of Defender's evolved forms have advantages depending on play style and they fit in well with the Sentinel's other abilities. Like all class powers, this should always be taken to fourth rank, and should be done fairly early.
+The choice in evolution here is similar to the choice on Tech Armor: Do you focus more on powers or guns for damage? Raider's damage boost makes up for the slightly longer cooldowns on Warp and Overload and is useful for a Sentinel focused on using those powers to maximum effect. If you use powers more for utility and focus on guns for damage, or if you simply prefer using powers more often, then Guardian is always a great choice. Raider meshes well with Power Armor while Guardian's lowered cooldown helps Assault Armor users reactivate their armor more frequently. Alternatively, Guardian can increase the frequency of attacks boosted by Power Armor, and Raider could compliment Assault Armor by adding to Ammo power and Tech Armor pulse damage. Ironically, though Sentinel is a mixed class, Guardian gives you shorter cooldowns than any other class can achieve, and Power Armor with Raider gives you higher power damage than any other class. Though you may be a jack-of-all-trades, you can still pick a path and master it.
+
+Notable Bonus Powers[]
+Warp Ammo[]
+Main article: Warp Ammo
+Sentinels that rely on weapons as their main source of damage should strongly consider taking an ammo power to add damage, and even power-focused Sentinels can appreciate the added damage without using their cooldown. For this purpose, Warp Ammo is a very good choice. It adds a good damage amount and is very versatile, affecting barriers, armor, and all forms of health, plus it provides twice its listed bonus against enemies being affected by biotic abilities. Only shields are not affected, which you can use Overload on. This greatly improves weapon damage, but also lets you forgo Warp to spend the points elsewhere. Warp Ammo will not stop regeneration like Warp will, but Warp does that at just a single point and Cryo Blast also stops regeneration while targets are frozen.
+Either evolution will work. Sentinels work well with power-focused allies due to Tech Armor resetting ally cooldowns, and power-based allies tend to not have ammo powers themselves, so Squad isn't a bad option. If you want greater versatility in ally selection and better damage on yourself, Heavy is always a great choice.
+
+Armor Piercing Ammo[]
+Main article: Armor Piercing Ammo
+Armor-Piercing Ammo has higher damage to armor and health, but doesn't affect barriers and won't do added damage to targets under biotic effects. Either AP Ammo or Warp Ammo are equally good options for improving damage without interfering with your cooldown, with the choice of either being based on preference. Barriers are less common than armor, so AP Ammo will be slightly better for some missions, but won't have the added biotic damage. These are so equally matched that you really could just pick one based on whether you prefer purple or orange bullets.
+As with Warp Ammo, either evolution will work well. Squad is only best if you always use allies who have no ammo powers, but Tungsten is better if you frequently use allies who do have ammo powers.
+
+Shredder Ammo[]
+Main article: Shredder Ammo
+Shredder Ammo will be most useful for a Sentinel more interested in dealing direct damage than using crowd control abilities. Shredder Ammo is the most powerful ammo power (offering a maximum of +80% weapon damage), but only affects the health of organic enemies, so its scope is greatly limited compared to other ammo powers. Unlike Warp Ammo and Armor-Piercing Ammo, which are good choices for a gun-focused Sentinel, Shredder is more ideal for a Sentinel who focuses on using Warp and Overload to strip defenses and prefers to gun down enemies rather than freezing or throwing them. As the damage bonus from Shredder Ammo only affects organic enemies, the Sentinel will still have to rely on Overload, base weapon damage, and crowd control when fighting synthetics.
+As with the other ammo powers, the choice in evolution depends on whether the squad members you commonly use already have their own ammo powers and how much you value their damage over your own.
+
+Slam[]
+Main article: Slam
+Slam is a biotic crowd-control ability that is similar to Throw. It has a very short cooldown and disables enemies longer than the cooldown duration, making it good for locking down a single enemy in place. However, this power does not synergize well with your own Throw, as Throw offers the same crowd-control and same short cooldown, not to mention that Slam cannot single-handedly hurl enemies off ledges. Slam, however, does synergize well with squadmates' Warp, Pull, Concussive Shot, Incinerate, Cryo Blast, and Throw, which further sets up destructive combos. You can also enhance Slam to be even more useful by choosing the Crippling Slam evolution, which disables enemies for much longer. Heavy Slam will further increase damage and lift duration, but will not give Cripping Slam's disabling bonus.
+
+Reave[]
+Main article: Reave
+Reave is functionally similar to Warp: it can also stop health regeneration of krogan and vorcha, and it can stun unprotected organics for a few seconds and provide the Sentinel with health regeneration for that duration (though this regeneration is less useful for Sentinels, who rely primarily on shields). While a Sentinel's access to Warp makes Reave redundant, Reave can substitute for Warp if you do not want to spend the necessary points in Throw. Choosing this power comes down to your play style more than anything else.
+Enemies bunch together often enough to make the Area evolution a good decision. Heavy will do more single-target damage and will keep unprotected targets disabled and not regenerating for longer, though.
+
+Energy Drain[]
+Main article: Energy Drain
+Energy Drain is functionally similar to Overload: it is used to damage shields or synthetic health and does the same damage as Overload at all ranks. Unlike Overload, it cannot stun/explode synthetics and won't overheat weapons. In place of these effects, it gives a boost to the Sentinel's shield. Tech Armor can already refill shields, but the cooldown on Energy Drain is much shorter than Tech Armor, and Energy Drain can further boost maximum shielding. Energy Drain is not actually better than Overload; it's just an alternative. Taking both would be redundant, but substituting in Energy Drain is useful if you prefer its effects compared to Overload and a different bonus power.
+Enemies group together frequently, but Energy Drain doesn't get added effects to exploit. The Area evolution can still be useful, but Heavy is certainly worth considering.
+
+Geth Shield Boost[]
+Main article: Geth Shield Boost
+Geth Shield Boost is the tech defensive bonus power. Its effect will additively stack with Tech Armor, but will not multiply it, and like Tech Armor the effect is based on base shields without factoring in upgrades or armor bonuses. It is functionally similar to Barrier and Fortification, but its improved variant adds 10% weapon damage rather than a longer duration. It also fully restores all shielding upon use like Tech Armor, but will not reset ally cooldowns or explode when depleted. Geth Shield Boost is useful for adding to shielding at the start of battle and providing a small damage increase. The long cooldown of Geth Shield Boost interferes with the Sentinel's other abilities and Tech Armor can already be used to replenish shields when needed for the same cooldown, but you may enjoy the extra 10% damage enough to use it in battle if it drops. The added shielding will be less useful on higher difficulties, as the increased speed with which enemies can strip shields reduces the value of the protection and damage that it offers.
+The added damage from the Improved evolution is the only reason to pick this instead of Barrier. If you would have taken Heavy, then take Barrier instead for the instant activation.
+
+Barrier[]
+Main article: Barrier
+Barrier is functionally almost identical to Geth Shield Boost. Compared to Geth Shield Boost, it doesn't have an evolution that adds to damage, but it also has no activation animation, allowing you to use it instantly. Like Geth Shield Boost, this can be used prior to battle for a boost in total shielding. Because of the lack of animation, it can also be used instantly in an emergency if you don't have time to use Tech Armor.
+Instant emergency shield recovery can be done with just 1 rank, letting you instead focus points on other powers. If you do max it, the duration is already fairly long, so added shielding from the Heavy evolution is more useful.
+
+Flashbang Grenade[]
+Main article: Flashbang Grenade
+Note: Only available with the Kasumi - Stolen Memory DLC pack.
+The Flashbang Grenade combines well with the Sentinel's robust shield-breaking to give an option to shut down packs of enemies preemptively, as it works against enemies protected by armor and barriers/shields. The power is just another one of the ways that a Sentinel can control the battlefield and disable enemies. It does overlap with Overload's weapon overheating, but Flashbang Grenade also disables tech/biotic talents and affects a larger area.
+The reason to use Flashbang Grenade is for the disabling. The damage is mostly an afterthought, and the Frag evolution doesn't increase it much anyway. Improved is always the better option for this power.
+
+Stasis[]
+Main article: Stasis
+Note: Only available with the Lair of the Shadow Broker DLC pack.
+Stasis shuts down a single enemy regardless of protection, but makes that enemy invincible for its duration. After it wears off, Stasis leaves the target extremely vulnerable to damage for a short time. This lets you use it for locking targets down, or for increasing the Sentinel's normally lacking damage output by exploiting the vulnerability period. This is best combined with your added weapon training, especially if you chose sniper rifles. You can disable a target from a range with Stasis, then use the time to line up a perfect shot.
+Stasis also fits in well with the "bag-of-tricks" feel for Sentinels, as it can be used both offensively and defensively. Using it on a far enemy to get in close and finish them off with your Firestorm/Shotgun, or alternatively using it on a powerful enemy that gets the drop on you to give you a chance to get to cover. It's also unique in that it works on enemies despite protection.
+If you're only using this for a damage boost, then taking this past rank 1 will simply make you wait longer for the vulnerability period. This is a great 1-point bonus power for a Sentinel, letting you get a useful ability but still save points for other powers. If used for the disabling, enemies build up very little resistance to the effect, so Enhanced isn't really useful, while the Deep evolution will make it last longer.
+
+Dominate[]
+Main article: Dominate
+As a class that can quickly strip away defenses, this power has excellent tactical applications for the majority of the missions but is useless on missions/assignments that have a lot of synthetic opponents. To get the most out of this power, target opponents that are in the back rank or in the thick other troops as this will draw fire away from you and your squad, allowing you to pick off targets for a few seconds. The best targets are heavy weapon users due to their ability to inflict a lot of damage. With the biotic cooldown upgrades, and Defender evolution of the Sentinel's class power, you could have one invincible heavy weapon user kill all their comrades for you without firing a shot.
+The area evolution is less effective because it is difficult to strip a bunch of enemies of protection. In most cases, a single target with a stronger barrier will last longer.
+
+Weapons and Equipment[]
+Weapons[]
+Heavy Pistols[]
+Main article: Heavy Pistols
+Having only had access to pistols in Mass Effect, these weapons will seem very familiar. Pistols are good weapons at mid to close-range combat. Both heavy pistols in the game are very similar in purpose, so using the Predator or the Carnifex boils down to personal preference. As a third option, the Firepower Pack adds in the Phalanx, which is a good weapon that is more powerful and much more accurate, but with a slower rate of fire. Any of the three pistols are good and should be considered individually based on the mission you are about to undertake.
+
+Submachine Guns[]
+Main article: Submachine Guns
+This is the Sentinel's main weapon, and provides a huge improvement in damage. Because you will probably be using SMGs more than your pistols, it is recommended that you try to upgrade the M-4 Shuriken as quickly as possible. This means either doing Tali's recruitment mission for the Tempest or, if you have the Kasumi - Stolen Memory DLC pack, doing Kasumi's loyalty mission for the Locust should be a top priority. Both of these are much better than the Shuriken. Of the two choices, the improved accuracy of the Locust will have it doing better damage against anything that isn't extremely close, but it has a much lower ammo supply.
+
+Heavy Weapons[]
+Main article: Heavy Weapons
+M-100 Grenade Launcher[]
+Main article: M-100 Grenade Launcher
+The M-100 Grenade Launcher is the first heavy weapon to be acquired during the Prologue: Awakening mission. The weapon is good against groups of enemies and for knocking back single enemies. The weapon does have a slight arc to it, but it is quick to adapt to. However, the M-100 may not be the best weapon on longer missions because of its limited ammo capacity. Overall the M-100 is a good weapon that will fit many situations and will work when no other heavy weapon will fit.
+
+ML-77 Missile Launcher[]
+Main article: ML-77 Missile Launcher
+The ML-77 missile launcher is a good all-around weapon that has the added bonus of being able to lock on to enemies and track them. While lacking the knockdown power of other heavy weapons, the ability to track enemies can sometimes outweigh the loss in stopping power. The ML-77 has a high ammo capacity, which makes it very useful on longer missions and assignments, but because the projectiles don't do as much damage as other heavy weapons, you will use more ammo. Overall, like the M-100, the ML-77 is a good weapon that will also work in just about any situation and if no other heavy weapon will fit. 
+
+M-622 Avalanche[]
+Main article: M-622 Avalanche
+The M-622 Avalanche is a good weapon on lower difficulties when enemies don't have protection like armor, shields, and barriers. This weapon also works very well against Husks on lower difficulties because the freeze-effect can kill them with one blast. On higher difficulties the M-622 loses its freezing effectiveness: if enemies have protection, it must be stripped away before they can be frozen. The Avalanche does, however, receive a significant damage bonus against all forms of protection, and it boasts a higher ammo capacity than many other Heavy Weapons.  The utility of this weapon is in any case mitigated by the Sentinel's Cryo Blast ability, the freeze-effect of which is basically a smaller (but much shorter lasting) version of the M-622's freeze, making this weapon a little redundant.
+
+M-920 Cain[]
+Main article: M-920 Cain
+The M-920 Cain is a powerful weapon to say the least, but unless the weapon has 100% ammo or more, the weapon will not fire. When fired, it can destroy or severely damage enemies in a large radius. At most you can use the Cain twice during a mission, and usually only once, so either plan for that or leave the Cain behind. Normally the long charge cycle out of cover can be dangerous, but on the durable Sentinel this weapon is less of a problem to charge and fire.
+
+Collector Particle Beam[]
+Main article: Collector Particle Beam
+Acquired during the mission to Horizon, this can be a good weapon for a Sentinel. While you do not need its ability to rip through the protection that most enemies have, it is still nonetheless a good weapon if you need long range or precise fire support. Because the Sentinel has access to powers that can disable shields, like Overload, and deal with armor and barriers, such as Warp, a weapon specialized in ripping through protection might seem redundant; however, the weapon is great at range and its large ammo capacity allows for frequent use. Although you have to stay out of cover to continue firing, this is less of a problem for the Sentinel than other classes due to your tough shielding.
+
+M-451 Firestorm[]
+Main article: M-451 Firestorm
+The Firestorm is an excellent weapon if you prefer getting up close and personal with enemies. And because the Sentinel has access to Tech Armor, a powerful defensive ability, getting up close isn't as much of a problem. If your character has shotgun training this weapon is slightly redundant in comparison to other heavy weapons. Overall having the Firestorm available is always useful for heavy enemies who tend to move slow, however that point becomes useless on higher difficulties.
+
+M-490 Blackstorm[]
+Main article: M-490 Blackstorm
+The Blackstorm is a good weapon if you need some crowd control abilities, and if you aren't going to select any squadmates with them. The singularity produced by the weapon has many uses, including throwing enemies into the air, pulling enemies out of cover, and disabling multiple enemies temporarily. Because the Sentinel is lacking on strong crowd control abilities, it helps fill in that role. The weapon does have a low ammo capacity, but it is a good weapon for those situations where crowd control is needed.
+
+Arc Projector[]
+Main article: Arc Projector
+The Arc Projector is a somewhat redundant weapon for the Sentinel because of the Overload ability. The Arc Projector, however, shines against synthetic enemies like the geth. Even with Overload, this weapon can come in handy against multiple synthetic enemies, or when a lot of enemies you are facing have shields.  In fact, by its ability to damage and stun multiple unprotected organics, it surpasses Overload.  The Arc Projector has a relatively low ammo capacity, which makes it ideal for shorter missions or restrained use. Again, its ability to strip away shields is somewhat redundant for the Sentinel, but as a Heavy Weapon it is respectable in its own right.
+
+Advanced Weapons Training[]
+During the mission aboard the Collector Cruiser, there will be the option of training in the usage of assault rifles, shotguns, or sniper rifles.
+
+Assault Rifles[]
+Main article: Assault Rifles
+Assault rifles deal high damage at mid-ranges, and are a good all-around choice for any character, including a Sentinel. Unless you have the Locust SMG, Sentinels lack any ability to effectively engage at mid to far-range, so assault rifle training helps greatly. Of your choices, it will depend on personal preference and the mission you're entering, but you'll likely want a more accurate rifle to help with longer ranges. For accuracy, the Vindicator is a great choice, as is the Collector Assault Rifle if you have the Collector's Edition. If you've purchased the Firepower Pack, the M-96 Mattock is a semi-auto rifle with extremely high accuracy and good damage, making it a great choice.
+
+Shotguns[]
+Main article: Shotguns
+Shotguns have good synergy with Tech Armor, especially the Assault Armor variant, which makes it easier for a Sentinel to approach enemies, knock them down and deliver a deadly point-blank shotgun blast. On higher difficulties this is less advisable: without the Soldier's Adrenaline Rush or the Vanguard's Charge, the Sentinel will be hard pressed when trying to retreat from close quarters combat. Shotguns are still a viable option, however, because the vanilla Sentinel is primarily a mid-range combatant and the shotgun enhances their short range capability. The two DLC shotguns, the M-22 Eviscerator and the Geth Plasma Shotgun, are both recommended: they supplement the Sentinel's mid-range combat style, work well with the Sentinel's robust defenses, and do a lot of damage.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Sniper rifles are a fitting complement to the Sentinel's existing abilities, offering the ability to kill enemies beyond the range at which powers can normally lock on. You can extend that distance while using the sniper zoom, and sniper rifles provide excellent damage versus armor with the AP sniper rifle upgrade. A Sentinel with a sniper rifle can deal with any enemy, anywhere on the battlefield. On the downside, it might seem a bit awkward when using powers while equipped with a sniper rifle, as the visual is locked into the rifle zoom while the power bolt travels to its target. The Sentinel also lacks the ability to "slow down" time while using the scope which Soldiers and Infiltrators possess, so aiming will be more difficult. The Aegis Pack adds the M-29 Incisor, which is good against shields. Without the ability to slow time, it may be better to choose a faster firing weapon like the Incisor or Viper rather than the Mantis.
+
+Combat Guide[]
+Combat with a Sentinel is about stripping enemy defenses and providing fire support for squadmates. The Sentinel has access to powers that can disable every type of enemy defense, lock down unprotected targets, and shield the Sentinel. Using the Sentinel's powers helps to make enemies easier to take down and to keep them at a distance, and every power you get has multiple uses to explore and exploit, making the Sentinel an extremely versatile class.
+Because the Sentinel has access to only three weapon systems - SMGs, Heavy Pistols, and Heavy Weapons - a Sentinel needs to stay a little closer to the action. Use the Tech Armor ability for added resilience to make this easier. The first priority when playing a Sentinel should be getting an upgrade for your SMG, which means doing either Tali's recruitment mission or Kasumi's loyalty mission. Use the Sentinel's weapons to provide cover and added damage. The Sentinel may lack a little in weaponry, but makes up for it in the ability to rip through the enemies' defenses. Essentially, the Sentinel must pave the way for their more combat-savvy teammates to take control of the battlefield, staying one step ahead in order to support them with protection-stripping powers and divert attention to the sturdy Sentinel so allies can safely attack. On the opposite end of the spectrum, the Sentinel can be built instead to actually cause damage. This is possible because the Sentinel's durability allows for more sustained weapons fire than other classes, letting the Sentinel achieve greater damage than might otherwise be expected, as well as giving the option of rushing enemies so that they can intentionally destroy the tech armor, thus setting off the discharge and setting them up for pain. Sentinels built for gun damage work best when using an ammo bonus power and new weapon training.
+
+Squad Members[]
+Sentinels are effective against all types of defense (armor, barrier, and shields). This affords you a great deal of flexibility in selecting your squadmates. Any combination of team members can be chosen without exposing the squad to any particular weakness, and the most effective teams are usually tailored to fight a specific type of enemy. Because Sentinels work so well with anyone, your choice in allies can be totally based on personal preference if you wish, but for maximum effect, you can still pick your party based on how you play your Sentinel.
+If you focus on guns for damage, have a bonus ammo power, and you use Assault Armor, then allies focused on powers will be very useful to you. Your own damage will already be good and you'll be resetting ally cooldowns every time you reactivate Assault Armor. Samara makes a great ally choice in this case, adding armor/barrier stripping with Reave and crowd control with Throw and Pull. Your instant cooldown resetting will allow Tali or Legion to use Combat Drone, normally a 30 second cooldown for them, much more commonly. Tali's Energy Drain and Legion's shield upgrades and Geth Shield Boost mean either one will also be a fairly resilient ally. Jack can mix her powers into gunplay more often. For style, quick timing with your Tech Armor usage will even let Miranda Warp-detonate her own Slam. Kasumi can forgo the Rapid upgrade to her Shadow Strike and still use it with great frequency.
+Even if you've focused on guns, Sentinels are not the most damaging class, so a combat oriented squad member is a good idea to bring along. If you've focused on powers, bringing two combat members is a good plan. Grunt, Legion, and Jacob all add good damage to the squad while being resilient like you are, and each has useful powers. Zaeed and Thane have very high damage bonuses, and both can fight safely from a range using sniper rifles while you draw attention. If you don't have a bonus ammo power, using the squad upgrade on Jack, Garrus, Zaeed, Grunt, Jacob, or Thane can help increase damage for the whole team.
+
+
+
+
+
+Mass Effect 2 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Upgrades • Planet Scanning
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • No One Left Behind • Data Hound • Merchants  Research Guide • Interrupts
+
+
+
+

@@ -1,0 +1,309 @@
+
+
+
+Assault Turret is a Tech skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Player Notes
+4 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Assault Turret
+
+    
+
+Deploys an automated assault turret that counts as a tech construct.
+TAP BUTTON: Directs the turret to attack a particular target.
+HOLD BUTTON: Detonates the turret, damaging nearby enemies.
+
+
+Turret Base Health: 400
+Damage Per Shot: 20
+Recharge Time: 24
+Area Damage When Destroyed: 340
+
+
+
+2
+
+Durability
+
+    
+
+-
+
++20% Turret Health
+
+
+3
+
+Damage
+
+    
+
+-
+
++15% Turret Gun Damage
+
+
+4
+
+Durability
+
+     
+
+-
+
++50% Turret Health
+
+
+4
+
+Recharge Speed
+
+     
+
+-
+
++40% Recharge Speed
+
+
+5
+
+Damage
+
+     
+
+-
+
++25% Turret Gun Damage
+
+
+5
+
+Omni-Link
+
+     
+
+While its creator is in close proximity, the turret repairs itself (via omni-tool link) and improves tech power refresh rates.
+
+Omni-Link Range (m): 6
+Omni-Link Tech Recharge Speed: 30%
+Omni-Link Turret Heal per Second: 2%
+
+
+
+6
+
+Cryo Ammo
+
+     
+
+      Turret shots chill enemies, slowing them and weakening armor. Sustained fire can freeze targets solid, priming them for combo detonations.
+
+Armor Defense Debuff: 100%
+
+
+6
+
+Flamethrower
+
+     
+
+      A short-range flamethrower burns enemies, causing bonus damage to armor and priming them for combo detonations.
+
+Flamethrower Damage per Second: 45
+Burn Damage per Second: 22
+Flamethrower Range (m): 8
+Flamethrower Damage Bonus vs. Armor: 50%
+
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Assault Turret
+
+     
+
+Deploys an automated assault turret that counts as a tech construct.
+TAP BUTTON: Directs the turret to attack a particular target.
+HOLD BUTTON: Detonates the turret, damaging nearby enemies.
+
+
+Turret Base Health: 400
+Damage Per Shot: 36
+Recharge Time: 30
+Area Damage When Destroyed: 400
+
+
+
+2
+
+Durability
+
+     
+
+-
+
++50% Turret Health
+
+
+3
+
+Damage
+
+     
+
+-
+
++40% Turret Gun Damage
+
+
+4
+
+Durability
+
+     
+
+-
+
++75% Turret Health
+
+
+4
+
+Recharge Speed
+
+     
+
+-
+
++200% Recharge Speed
+
+
+5
+
+Damage
+
+     
+
+-
+
++60% Turret Gun Damage
+
+
+5
+
+Omni-Link
+
+     
+
+While its creator is in close proximity, the turret repairs itself (via omni-tool link) and improves tech power refresh rates.
+
+Omni-Link Range (m): 10
+Omni-Link Tech Recharge Speed: 35%
+Omni-Link Turret Heal per Second: 3%
+
+
+
+6
+
+Cryo Ammo
+
+     
+
+      Turret shots chill enemies, slowing them and weakening armor. Sustained fire can freeze targets solid, priming them for combo detonations.
+
+Armor Defense Debuff: 100%
+
+
+6
+
+Flamethrower
+
+     
+
+      A short-range flamethrower burns enemies, causing bonus damage to armor and priming them for combo detonations.
+
+Flamethrower Damage per Second: 275
+Burn Damage per Second: 35
+Flamethrower Range (m): 15
+Flamethrower Damage Bonus vs. Armor: 60%
+
+
+Player Notes[]
+Mechanics
+An Assault Turret floats a few inches off the ground and, when budged, typically does not stray far from its position. However, extreme physics-based assaults like Adhi bites can dislodge the turret and cause it to settle a few meters away.
+Rank 6 Cryo Ammo and Flamethrower inflicts status effects by chance. The enemy must be visibly freezing or burning before any follow-up with a combo detonator.
+Detonating a turret only harms hostiles.
+Strategies
+The turret, as with Remnant VI, is a good decoy for drawing enemy fire while its creator deals damage elsewhere. Being a static emplacement by nature, however, it is vulnerable to thrown grenades and swarming mobs of enemies.
+Since the turret can prime detonations at rank 6, and most classes using them have innate detonator powers, incendiary/cryo/disruptor boosters can be disregarded in lieu of boosters in other stats.
+Rank 5 Omni-Link allows the player to deal skill damage more frequently than Rank 5 Damage. While the turret is powerful in its own right, the player participation will expedite the cleansing of enemies from any given location.
+The typical setup with this is that the turret creator is hunkered down behind cover while the turret is somewhere nearby but conspicuous to the enemy. On multiplayer, this makes Hack and Upload objectives more easier to defend and accomplish.
+Rank 6 Flamethrower paired with Omni-Link creates a turret that can hold off flanking units' assaults and also synergizes well with any detonator powers the player has.
+While all turrets are disposable, an alternative build is to spec a turret into a non-regenerating but more powerful gun. This allows its creator to be more mobile by virtue of not being required to stand/crouch nearby for the bonuses.
+Availability[]
+Single-player: Pathfinder Ryder - Unlocked With 9 Skill Points in Tech Skills
+Multiplayer: Angara Insurgent, Human Engineer, Krogan Engineer
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

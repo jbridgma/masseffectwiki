@@ -1,0 +1,150 @@
+
+
+
+Homing Grenade is a tech grenade power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Homing Grenade[]
+Launch this seeking grenade to track down a target, causing a massive explosion on impact.
+
+Damage: 800
+Radius: 2 m
+
+
+Rank 2: Capacity[]
+Increase grenade capacity by 1.
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Damage: 960
+Radius: 2 m
+
+
+Rank 4: Damage/Impact Radius[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Damage: 1200
+Radius: 2 m
+
+
+Impact Radius
+Increase impact radius by 50%.
+
+Damage: 960
+Radius: 3 m
+
+
+
+Rank 5: Capacity/Fire Damage[]
+
+
+
+Capacity
+Increase grenade capacity by 1.
+
+
+
+Fire Damage
+Add a fire effect to targets, dealing 50% additional damage over 6 seconds.
+
+
+
+
+Rank 6: Armor Damage/Split Grenade[]
+
+
+
+Armor Damage
+Increase damage to armor by 60%.Decrease weapon damage mitigation of armored targets by 50% for 8 seconds.
+
+
+
+Split Grenade
+Split a grenade in half to seek two targets that do 60% damage each.
+
+
+
+
+Player Notes[]
+Grenade powers do not have a recharge time and, thus, can be used immediately at any time, provided grenades are available. Using the power consumes one grenade each time.
+The N7 Demolisher Engineer has two grenade powers, which both share the same pool.
+As the name would suggest, this ability does track its target in a slow-moving animation similar to projectile powers such as Incinerate or Warp.
+Homing Grenade is deployed from the omni-tool rather than being thrown, and the cast animation is fairly long, which can expose the user to a lot of enemy fire.
+The grenade travels relatively slowly compared to other grenades, but can also reach much farther.
+The slow-moving nature of the grenade also means that it is more accurate than other homing projectiles against enemies with dodging abilities, since the grenade can correct its course to continue homing in on them more easily than projectile powers. Conversely, due to the slow projectile speed Phantoms, Banshees, and Praetorians are more likely to use their deflection powers to block it.
+Homing Grenade's travel path often arcs quite high in the air after it's deployed, especially over long distances, which can give it a tendency to hit intervening terrain like roofs and ceilings.
+This grenade is capable of staggering all targets hit by the explosion. This can be especially useful for saving allies from enemy sync kills.
+This grenade is considered a tech power and thus benefits from both power and tech damage bonuses.
+Using this grenade immediately after an Arc Grenade (with the "Electrical Damage" evolution) will trigger a powerful Tech Burst.
+The Rank 5 Fire Damage evolution does not prime targets for Fire Explosions.
+The Rank 6 Split Grenade evolution is able to detonate two Power Combos per projectile.
+Either each grenade projectile hits a separate enemy primed for a valid combo (fire, cryo, or tech), or
+Each projectile can detonate a combo on the same target, provided there are at least two separate, valid priming effects active on said target. It can be difficult to force both projectiles to hit the same target unless it is at very close range or the only target in the area.
+A combo may fail to detonate if the grenade projectile's damage alone is sufficient to kill the primed target.
+Availability[]
+Single-player: N/A
+Multiplayer: Drell Assassin Infiltrator, N7 Demolisher Engineer,  Turian Saboteur Engineer
+Bugs[]
+With the Fire Damage evolution, Homing Grenade has a buggy interaction with Incendiary Ammo (which itself has a buggy interaction with itself); both erroneously use the same damage effect, and once Incendiary Ammo is applied on an enemy under the effect of Homing Grenade, both damage-over-time effects get combined into an overly-damaging 3 second damage-over-time that is still technically considered by the game as "Homing Grenade", making the ammo use Homing Grenade's damage modifiers, which will let Incendiary Ammo do damage to shields and barriers.[1] In addition, the buggy damage-stacking of Incendiary Ammo will still work, multiplying the effect.
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+↑ Extensive testing along with a youtube clip and official developer confirmation of all these mechanics: https://web.archive.org/web/20160115021252/forum.bioware.com/topic/396536-incendiary-ammo-confirmed-bug-mechanics-corrections/
+
+
+
+
+

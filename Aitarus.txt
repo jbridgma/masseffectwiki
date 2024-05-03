@@ -1,0 +1,102 @@
+
+
+
+
+
+Aitarus
+
+Region
+Milky Way / Caleston Rift / Talava
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.5 AU
+
+
+Orbital Period
+0.3 Earth Years
+
+
+Keplerian Ratio
+1.389
+
+
+Radius
+8,945 km
+
+
+Day Length
+65.1 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+549 °C 
+
+
+Surface Gravity
+2.8 g
+
+
+Mass
+5.466 Earth Masses
+
+
+Location: Milky Way / Caleston Rift / Talava System /  First planet
+
+Prerequisite: Collector Ship (mission) or Project Firewalker: Rosalie Lost and Horizon (mission) (Mass Effect 2)
+
+Description[]
+A large rock planet orbiting an F-class star, Aitarus is pummeled by radiation, heavy gravity, and tectonic activity. Its crust is mostly silicates and of little value. Travel is not advised.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+5,300
+
+
+Platinum
+
+Medium
+
+5,700
+
+
+Iridium
+
+Medium
+
+9,300
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+This page consists of Mass Effect cut dialogues relating to the missions and assignments on the Citadel. They are presented in no particular order.
+Annotation: | means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 sta20_elcor_ambassador (missing nodes)
+2 sta20_volus_diplomat
+3 sta60_amb_choras_customers
+4 sta70_amb_1liner
+5 sta70_amb_traffic / sta70_amb_traffic2
+6 sta20_amb_combat_simulator
+7 sta20_chorban_triggers
+8 sta60_garrus_doctor
+9 sta60_assassin_ambush
+10 sta60_threatens_doctor
+11 sta60_trig03_schells_thrown
+12 sta20_receptionist (missing nodes)
+
+
+sta20_elcor_ambassador (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline. The time length of the voiceline gives an approximation of the remaining amount of characters.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\sta20_elcor_ambassador_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_STA20_10D_DSG_LOC_INT.pcc
+Characters present:
+
+Calyn
+Commander Shepard
+
+Shepard: What role do the elcor have he[5 to 10 characters remaining]
+Calyn: You'll find elcor working all [50 to 80 characters remaining] Though we are not yet one of t[60 to 90 characters remaining]
+
+sta20_volus_diplomat[]
+Note:  while these voicelines never play, they should be technically functional in the original release of Mass Effect. The transcription below is accurate. Do note that one of the voicelines references Caleston, which was cut from the first Mass Effect game, having been renamed to Therum. The existence of Caleston itself was not made canon again before the second game.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA20\sta20_volus_diplomat_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta20_volus_diplomat.isb
+Character present:
+
+Unnamed volus diplomat
+
+Volus diplomat: [sigh] I've got three days of paperwork to finish by the end of my shift today.
+
+Volus diplomat: If I have to fill out one more form, I think I might just go work the mines in Caleston.
+
+Volus diplomat: I can't talk now. My boss is waiting for a report.
+
+Volus diplomat: Must be nice to be able to walk around and talk to people all day long.
+
+sta60_amb_choras_customers[]
+Note:  while these dialogues never play, they should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA60\sta60_amb_choras_customers_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta60_amb_choras_customers.isb
+Characters present:
+
+Unnamed volus
+Unnamed salarian
+
+Volus: I find that hard to believe. There's no real proof.
+Salarian: Not yet, but there's something going on in the Traverse, you'll see.
+Volus: Maybe, but I've got runners going through there all the time and they haven't seen a thing.
+Salarian: I thought you lost a ship out there.
+Volus: I've lost ships before, but that's the only one I've lost out in the Traverse. It doesn't mean anything.
+
+Salarian: Don't kid yourself. They're no different than you or me.
+Volus: Yeah, except each decision they make affects every living thing in Citadel space!
+Salarian: Whatever. The Council spends so much time bickering and posturing they don't get to make any real decisions.
+Volus: I don't know.
+Salarian: Think about it. When was the last time anything changed around here?
+Volus: Yeah, I guess.
+
+Volus: No, he didn't get in. He did well but it wasn't good enough.
+Salarian: I hear the entry exams are brutal.
+Volus: Yeah, say what you want about C-Sec, but at least they've got high standards.
+Salarian: I believe it. Keeping peace on this floating city can't be easy.
+
+sta70_amb_1liner[]
+Note:  while these voicelines never play, they should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA70\sta70_amb_1liner_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta70_amb_1liner.isb
+Characters present:
+
+Unnamed asari diplomat
+
+Asari diplomat: Humans in the Tower? Interesting.
+
+Asari diplomat: Try not to break anything.
+
+Asari diplomat: Uh, you should try the human ambassador if you have questions.
+
+Asari diplomat: I'm a bit busy.
+
+sta70_amb_traffic / sta70_amb_traffic2[]
+Note:  while these voicelines never play, they should be technically functional in the original release of Mass Effect. The transcription below is accurate. Do note that both controllers have the exact same voicelines, only scripted to be played in opposite orders (for instance, the voiceline about Elkoss 118 would be the first to play for the asari controller, and the last to play for the salarian controller).
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA70\sta70_amb_traffic_D.upk; Mass Effect\BioGame\CookedPC\Packages\Dialog\STA70\sta70_amb_traffic2_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta70_amb_traffic.isb; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta70_amb_traffic2.isb
+Characters present:
+
+Unnamed asari traffic controller
+Unnamed salarian traffic controller
+
+Traffic controller: Elkoss 118, vector red 45 mark 120. Burn for 5 kps.
+
+Traffic controller: I copy, Evenstar. You are cleared to roll port 40 and radiate from your dorsal plates.
+
+Traffic controller: Sherol, you have cleared the red line. You may initialize a-grav and charge your FTL drive.
+
+Traffic controller: Korru Flight 66, your velocity has been relative-zeroed. Isolate your drive and prepare to receive docking umbilicals.
+
+Traffic controller: Freighter Yonihi, hazard advisory. Debris in your approach path. Retro to station-keeping while we get a sweeper drone over there.
+
+Traffic controller: Delau, I need you to hold position until Dock 73 is clear.
+
+Traffic controller: Tayita 440, you are cleared to approach Station 6 and discharge your drive. Notify Control when you're done.
+
+Traffic controller: Arcturus Conveyor, strike my last. We're seeing some electrical discharges within the nebula. Come about to vector green 20 mark 180.
+
+Traffic controller: Captain, I assure you we are moving as fast as we can. Please remain patient until a berth can be cleared.
+
+Traffic controller: Destiny Ascension, we're going to have to ask you to gain some distance. Your mass is disturbing ward rotation.
+
+Traffic controller: Freighter Lahara, you are clear to approach the relay. Have a good trip.
+
+Traffic controller: Imaur-G57, be advised your fore-port thruster quad is leaking fuel. Would you like me to route a repair crew to you?
+
+Traffic controller: Danarele, we 're detecting abnormal gamma emissions from your cargo bay. I have notified C-Sec and locked down your controls.
+
+Traffic controller: C-Sec, this is Approach Control. There's a couple of young humans outside in a high performance shuttle. They're disrupting our traffic patterns.
+
+sta20_amb_combat_simulator[]
+Note:  what's left of this dialogue was retranscribed from audio lines found in Legendary Edition, but only male Shepard's and Ashley's lines seem to have survived. The person Shepard is speaking to, or the precise location of the conversation, are unknown; however the sta20 prefix implies it would have taken place on the Presidium. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta20_amb_combat_simulator.isb
+Characters present:
+
+Commander Shepard
+Ashley Williams
+
+(Missing)
+Ashley Williams: Combat simulator? Sounds interesting.
+
+(Neu) Goodbye. (Inv) Tell me more.  Shepard: Never mind.(Missing) Shepard: I heard you talking about a combat simulator?(Missing)
+(Par) Sure. (Neu) Goodbye. (Ren) I don't do simulations. (Inv) Is it dangerous?  Shepard: I might check it out.(Missing) Shepard: Never mind.(Missing) Shepard: I prefer real combat.(Missing) Shepard: Anyone ever get killed during the simulations?(Missing)
+(End of conversation)
+
+sta20_chorban_triggers[]
+Note:  Chorban was originally found inspecting the keeper near an Avina terminal on the Presidium, near the relay monument and the Tower elevator, instead of inside the Council Chambers. Thus, instead of being startled by Shepard's squad observing him, Chorban was originally startled by Avina. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA20\sta20_chorban_triggers_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_STA70_02A_DSG_LOC_INT.pcc
+Characters present:
+
+Avina
+Chorban
+
+Chorban: Hmm. Not enough data yet.
+
+Chorban: Why won't it move on? It's just standing there.
+
+Chorban: I wonder if it knows what I'm doing?
+
+Chorban: Just a few more scans and I'll know for sure.
+
+Avina: Please do not disturb the keepers.
+Chorban: What? Oh. No. I wasn't-- Never mind.
+
+sta60_garrus_doctor[]
+Note:  the cutscene in which Garrus first appears in Dr. Michel's clinic originally played out differently, with Garrus instead of Shepard shouting let her go! The transcription below is accurate. Do note that in Fist's thug's cut line, he somehow seems to switch actors. The dialogue file marks him as being the same character, but it's hard to know whether this is a mistake on the part of the dialogue file and it's a different thug, or if the thug was originally voiced by one actor before being re-recorded with Mark Meer, leaving the unused line unchanged.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA60\sta60_garrus_doctor_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_STA60_08A_DSG_LOC_INT.pcc
+Characters present:
+
+Chloe Michel
+Garrus Vakarian
+Unnamed Fist thug
+
+Chloe Michel: I didn't tell anyone. I swear!
+Fist thug: That was smart, Doc. Now, if Garrus comes around, you stay smart. Keep your mouth shut or we'll--
+Garrus Vakarian: Let her go!
+Fist thug: Freeze, Garrus! One false move and I-- Who are you?
+(The rest of the scene proceeds as normal)
+
+sta60_assassin_ambush[]
+Note:  only the first one of these voicelines can be heard in the game, but the rest cannot. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA60\sta60_assassin_ambush_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_STA60_04_DSG_LOC_INT.pcc
+Characters present:
+
+Unnamed turian assassin 1
+Unnamed turian assassin 2
+
+Assassin 1: That's [him/her].
+Asssassin 2: You sure?
+Assassin 1: Positive. Move in.
+
+sta60_threatens_doctor[]
+Note:  originally, the krogan intimidating Dr. Michel during Citadel: Doctor Michel was to appear in person at the clinic to coerce her, instead of contacting her via a vidscreen. The following voicelines were technically functional in the original release of Mass Effect. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA60\sta60_threatens_doctor_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta60_threatens_doctor.isb
+Character present:
+
+Unnamed krogan
+
+Krogan: Push off.
+
+Krogan: Not now.
+
+Krogan: Go away, human.
+
+Krogan: Back off.
+
+sta60_trig03_schells_thrown[]
+Note:  originally, these voicelines could be heard during the cutscene where Doran has Schells thrown out of Flux, while the final cutscene is entirely silent. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\STA60\sta60_trig03_schells_thrown_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\sta60_trig03_schells_thrown.isb
+Characters present:
+
+Doran
+Schells
+
+Doran: If I ever see your cheating hide in here again, I'll do more than toss you out.
+Schells: I didn't cheat. I just found my own way to win.
+
+sta20_receptionist (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline. The time length of the voiceline gives an approximation of the remaining amount of characters. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\sta20_receptionist_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_STA20_07A_DSG_LOC_INT.pcc
+Characters present:
+
+Saphyria
+Commander Shepard
+
+Saphyria: Commander. I have a message fo[40 to 60 characters remaining]
+
+(Neu) Got it. (Inv) What for?  Shepard: Thanks.Saphyria: My pleasure, Commander.(End of conversation) Shepard: What does she want?Saphyria: She didn't say, but I assume i[20 to 30 characters remaining](End of conversation)
+
+
+

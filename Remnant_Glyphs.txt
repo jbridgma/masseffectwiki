@@ -1,0 +1,102 @@
+
+
+
+Remnant Glyphs pack immense amounts of conceptual information and other data into singular visual sigils. Predominantly found on Remnant installations, these glyphs are often invoked in conjunction with others in order to produce a desired effect, be it unlocking some item cache or operating the gargantuan terraforming machinery beneath Heleus' worlds.
+In order to solve Remnant puzzles, the Pathfinder must often search the area near a terminal for glyphs.  SAM offers some analysis and speculation on the meaning of glyphs when they are scanned.
+
+Contents
+
+1 Accretion Glyph
+2 Adherence Glyph
+3 Entropy Glyph
+4 Hydrodynamic Glyph
+5 Interval Glyph
+6 Kinetic Glyph
+7 Magnitude Glyph
+8 Nihility Glyph
+9 Reflection Glyph
+10 Semiosis Glyph
+11 Stratospheric Glyph
+12 Synaptic Glyph
+13 Thermodynamic Glyph
+14 Unknown Glyph
+15 Verdurous Glyph
+16 Zero Glyph
+17 Notes
+
+
+Accretion Glyph[]
+Data: Approximately 0.6 ZB data packet
+Analysis: This glyph's data has a spiral structure, the files organized to describe either a definitive scientific conclusion, or a model showing the formation of vast interstellar bodies. However, the spiral can be read in either direction.
+
+Adherence Glyph[]
+Data: Approximately 0.2 ZB data packet
+Analysis: Curiously, this glyph's information is coded to trigger particular emotional responses through sight and sound. Though effects may vary by species, in humans, it would induce a sense of honor, devotion, or a conscious awareness of duty to a great task.
+
+Entropy Glyph[]
+Data: Approximately 0.3 ZB data packet
+Analysis: This glyph appears to have suffered data corruption, but on closer inspection, the corruption is a required function of the files themselves. They describe a collapsing system via experience rather than by simply reading the files.
+
+Hydrodynamic Glyph[]
+Data: Approximately 0.2 ZB data packet
+Analysis: This glyph appears to contain data on fluid dynamics, but this may also be an analogy for power or information flow. Some of its data translates as physical sensations, specifically the sense of weightlessness caused by immersion underwater or zero gravity.
+
+Interval Glyph[]
+Data: Approximately 0.7 ZB data packet
+Analysis: This glyph's data has a cyclical and progressive organization, with each cycle informing the next while creating part of a greater whole. Intriguingly, some of the data is arranged so it can only ever be accessed once by a single user.
+
+Kinetic Glyph[]
+Data: Approximately 0.4 ZB data packet
+Analysis: Activating particular data structures in this glyph appears to stimulate activation in others, the speed increasing exponentially. The pattern is reminiscent of shock absorption patterns in kinetic barriers.
+
+Magnitude Glyph[]
+Data: Approximately 0.9 ZB data packet
+Analysis: This glyph's data contains a mathematical structure for easily describing immense measurements of volume, time, and distance. It appears whoever designed these glyphs expected to use such structures frequently.
+
+Nihility Glyph[]
+Data: Approximately 0.01 ZB data packet
+Analysis: At first analysis, this glyph contains a scant amount of information, but the organizational structure suggests the data is actually describing negative space. The accompanying data is analogous to music that contains long intervals.
+
+Reflection Glyph[]
+Data: Approximately 0.5 ZB data packet
+Analysis: Many of the files in this glyph's data are equations that relate to quantum entanglement connections, but the data structure alters as it is accessed, mimicking the scanner's analysis programs. This appears to be essential to understanding the equations correctly.
+
+Semiosis Glyph[]
+Data: Approximately 0.5 ZB data packet
+Analysis: This glyph contains a massive quantity of sensation-inducing data—visual, aural, tactile, infrasound—with accompanying signs, but it is difficult to interpret without additional cultural cues. The tone appears to be one of reassurance, teaching, or historical record.
+
+Stratospheric Glyph[]
+Data: Approximately 0.9 ZB data packet
+Analysis: The data of this glyph appears to be devoted to atmospheric conditions, seasonal temperature variations, and high altitude bacterial life.  Some appears to be up to date, the rest appears to be predictive.
+
+Synaptic Glyph[]
+Data: Approximately 0.8 ZB data packet
+Analysis: Built in a form that resembles an organic being's nervous system or megaparsec-wide galactic filaments, several data clusters in this glyph are marked as crucially important. Word fragments recovered include "somatic" or possibly "solipsistic."
+
+Thermodynamic Glyph[]
+Data: Approximately 0.8 ZB of data
+Analysis: This glyph's data contains references to energy conversion or respiration: however, it may also be describing a transformation via some untranslatable process. It pays close attention to mass-energy equivalence, though the ratios are strange.
+
+Unknown Glyph[]
+Data: 37% Binary Code
+21% Unknown data type
+19% EEG/analogue baseline
+Analysis: It is likely that this glyph constitutes part of an alien language or code.
+
+Verdurous Glyph[]
+Data: Approximately 0.9 ZB data packet
+Analysis: The data in this glyph is structured via a root-stem-leaf organizational mode. It could be describing a philosophical argument taken to many conclusions, or an ecosystem laid out from bacteria to higher animals.
+
+Zero Glyph[]
+Data: Approximately 0.4 ZB data packet
+Analysis: The material and conductive data in this glyph match our own readings for the functions of element zero, but at a much higher level of fluency. Possible word fragments recovered include "foundation" and "abundance."
+
+Notes[]
+The Unknown Glyph is only found on Habitat 7, and has the same shape as the Reflection Glyph with a different description.
+
+One glyph is not scannable. so there is no name for this glyph and SAM has no analysis. This glyph appears in puzzles on Voeld, Kadara, and Elaaden.
+Glyphs do not award Remnant Research Data when scanned.
+
+
+
+

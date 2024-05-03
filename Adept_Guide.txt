@@ -1,0 +1,205 @@
+
+
+
+See also: Adept Guide (Mass Effect 2), Adept Guide (Mass Effect 3)
+
+Adepts are biotic specialists. Through upgradeable implants they can use biotic  powers to lift or throw objects, shield the squad and disable or destroy enemies. Adepts can only use light armor, and can only receive weapons training with pistols.
+
+Contents
+
+1 Overview
+2 Talents
+
+2.1 Class Talents
+
+2.1.1 Basic Armor
+2.1.2 Pistols
+2.1.3 Throw
+2.1.4 Lift
+2.1.5 Warp
+2.1.6 Singularity
+2.1.7 Barrier
+2.1.8 Stasis
+2.1.9 Adept
+2.1.10 Charm
+2.1.11 Intimidate
+2.1.12 Spectre Training
+
+
+2.2 Notable Bonus Talents
+
+2.2.1 Electronics
+2.2.2 Decryption
+2.2.3 Hacking
+2.2.4 Medicine
+2.2.5 Damping
+
+
+
+
+3 Weapons and Equipment
+
+3.1 Assault Rifles
+3.2 Shotguns
+3.3 Sniper Rifles
+3.4 Pistols
+
+
+4 Combat Guide
+5 Squad Members
+6 Specialization Classes
+
+6.1 Bastion
+6.2 Nemesis
+
+
+
+
+
+Overview[]
+The Adept is the biotics-oriented class in Mass Effect. The Adept features all the biotic abilities in the game, most of which focus on debuffing and controlling enemies, rather than killing them outright. Powerful biotic talents often make otherwise challenging encounters downright trivial.
+The primary weakness of the Adept is extremely close or long-range combat. Their heavy dependency on shields for defense and the low damage protection offered by light armor makes them very vulnerable to melee damage, and the limited range of biotic abilities can expose them to sniper fire while closing range.
+In combat, Adepts use their biotic talents to make up for the fact that Adepts can only use pistols. The Adept's main role is to provide crowd control and support to other squad members.
+
+Talents[]
+Class Talents[]
+Basic Armor[]
+Main article: Basic Armor
+A damage mitigation talent, it increases Shepard's resistance to damage. Basic Armor unlocks the Shield Boost ability, which will recharge a portion of Shepard's shields when used, with higher ranks recharging larger percentages of shields. Adepts are limited to light armor, which features weak shields and low damage reduction, so the percentage gains from Basic Armor and Shield Boost are small. Five points in Basic Armor are required to unlock pistols.
+
+Pistols[]
+Main article: Pistols
+Unlocked with 5 points in Basic Armor.
+The Adept's only native weapon talent; damage scales very well with Marksman and the bonuses from Spectre Training. If Shepard uses pistols as a primary weapon, Marksman is a prudent talent investment. The true cost of maxing pistols includes the five required points in Basic Armor for a total of seventeen points.
+
+Throw[]
+Main article: Throw
+Pushes movable objects in the targeted area away and onto the floor. The force of the push increases with additional talent points. Heavy objects and enemies with high physical force thresholds, like krogan, will require a stronger push to be knocked down or moved. Throw has a stronger effect on airborne objects or on objects in zero-gravity and can be combined with Lift or Singularity to push targets further. Throw has no effect on flying enemies like drones. Unlocking Advanced and Master Throw reduces the recharge time and accuracy cost, in addition to increasing the force of the effect. Opportunities to quickly kill any target by throwing it off of ledges, balconies, or into space will present themselves frequently and should be taken advantage of.
+
+Lift[]
+Main article: Lift
+Unlocked with 6 points in Throw.
+Lifts movable objects in the targeted area until the duration is over. Additional points will increase the duration of the effect, which results in affected objects being further from the surface when the duration ends. When the duration ends the targets are dropped, and they will take damage based on how far they have fallen. Unlocking Advanced and Master Lift reduces the recharge time and accuracy cost, and increases the effect radius and duration. However, with the Lift specialization from the Nemesis specialization, Lift overtakes Singularity to become the biotic ability with the largest area of effect at ten meters.
+
+Warp[]
+Main article: Warp
+Warp deals damage over time and reduces the damage protection of all targets in its radius. Additional points increase the duration of both effects. The damage over time is unmitigated by damage reduction and shields, but it is not particularly fast compared to direct damage from weapons or tech mines. The ability can be paired with Stasis to lock an enemy in place while the Warp damages over time. The damage protection debuff can make enemies with high armor take significantly more damage from weapons fire. Unlocking Advanced and Master Warp increases the armor reduction, damage per second and duration, and reduces recharge time of the ability. Warp specialization, available to the Nemesis specialization, increases the Warp's radius and damage per second.
+
+Singularity[]
+Main article: Singularity
+Unlocked with 6 points in Warp.
+Draws movable objects in the effect's radius towards the targeted point. Additional points will increase the radius of the effect. In addition to suspending targets in the air, this ability tends to pull groups of enemies closer together making them more vulnerable to area of effect damage and status effects like Warp, Damping, Sabotage, and Overload. Unlocking Advanced and Master Singularity will increase the duration and radius, and reduce the recharge time of the ability. Master Singularity is the Adept's best crowd control ability unless Master Lift and Lift specialization from the Nemesis specialization is unlocked.
+
+Barrier[]
+Main article: Barrier
+Creates additional shields on top of those provided by armor. Additional points increase the amount of shields added by Barrier and extend the duration of the effect. At four points, Barrier will provide more shields than the best light Human Armor making it a more attractive defensive talent than Basic Armor and Shield Boost. However, once Barrier runs out, the character will be quite vulnerable. The Bastion specialization offers Barrier specialization boosting the shields and duration by 25% and adding regeneration of 40 shields per second. 
+
+Stasis[]
+Main article: Stasis
+Unlocked with 4 points in Barrier.
+Places the target in stasis for the duration of the effect while disabling the target's movement, abilities and weapons usage. This is quite useful when confronted with multiple difficult enemies, as they can be dealt with in time. While Stasis is active, damage over time effects will continue to damage the target, but the target is immune to direct damage. Stasis specialization will allow the target to be damaged directly by weapons while completely incapacitated, making Stasis one of the best offensive and defensive biotic ability against any single target. Without Stasis specialization, the effect will tend to leave the target standing at the end of a fight, with the party waiting for the target to be damageable again.
+
+Adept[]
+Main article: Adept
+Reduces recharge time of every biotic ability, in addition to giving extra protection from enemy biotics. Useful for any build regardless of the other talents taken. Combine it with other recharge reduction talents and equipment to keep biotic abilities available as often as possible.
+
+Charm[]
+Main article: Charm
+Opens additional conversation options that are likely to increase Paragon points and reduces the cost of items purchased at vendors. When appointed as a Spectre and as Shepard gain Paragon points, Charm points will automatically be granted. Paragon points offer -10% First Aid recharge time, +10% health, and a -5% recharge time of all abilities.
+
+Intimidate[]
+Main article: Intimidate
+Opens additional conversation options that are likely to increase Renegade points and increases the buying price for items sold to vendors. When appointed as a Spectre and as Shepard gains Renegade points, Intimidate points will automatically be granted. Renegade points offer +10% weapon powers recharge reduction, 1 health regeneration per second, and +5% in the damage/duration of all abilities. 
+
+Spectre Training[]
+Main article: Spectre Training
+The jack-of-all-trades ability, which adds health, damage, duration, accuracy, accuracy regeneration, and a powerful party skill. Highly useful for any play style, but each point yields very small gains relative to the specialized gains offered by other skills. Scales very well with max abilities, most notably with weapon damage. Investing up to 11 points in Spectre Training provides a more effective damage boosts for weapons compared to the weapon talents themselves.
+
+Notable Bonus Talents[]
+Electronics[]
+Main article: Electronics
+Increases Shepard's shield capacity and unlocks the Overload ability. Overall, Electronics is a minor offensive and defensive supplemental ability. Without the synergies from the other tech abilities, Overload is rather weak on its own.
+
+Decryption[]
+Main article: Decryption
+This talent unlocks the Sabotage ability, which deals damage in addition to overheating weapons, preventing return fire for a short period of time. Additional points will increase the damage of tech mine explosion damage, but with only one tech ability, this bonus is very weak. With all the biotic powers available to an Adept, another ability that locks down enemies is not particularly useful.
+
+Hacking[]
+Main article: Hacking
+This talent unlocks the AI Hacking ability, which will temporarily turn a mechanical target against its former allies. AI Hacking offers some unique strategic situations but pales in comparison to the effectiveness of the weapon abilities. Additional points will reduce the recharge time on other tech mines, which an Adept does not have, making hacking a weak talent investment.
+
+Medicine[]
+Main article: Medicine
+This talent unlocks the Neural Shock ability, which will stun any organic target and deal toxic damage. Additional talent points will reduce the Medi-gel recharge time. Neural Shock works on fewer enemies and has a shorter duration than Stasis, but in exchange requires no mastery to leave targets vulnerable to damage and deal additional toxic damage. An Adept's already impressive arsenal of status effects sees little benefit from the addition of another.
+
+Damping[]
+Main article: Damping
+This ability deals damage, stuns, and removes the target's ability to use tech or biotic powers for a short time. Additional points increase the radius of the effect, but without other tech abilities to buff it up, it is somewhat wasteful. As with other tech abilities, these effects are largely superfluous after all the biotic abilities of the Adept are taken into account.
+
+Weapons and Equipment[]
+Assault Rifles[]
+Main article: Assault Rifles
+A very effective mid- to short-range weapon, capable of laying down fire in large bursts. It can be paired with Singularity and Warp to quickly dispatch large groups of enemies. It is "cheaper" to invest talent points in Assault Rifle than Pistol, which require points in Basic Armor to unlock, but good assault rifles are not available at the beginning of the game. A strong choice for a well-rounded Adept character.
+
+Shotguns[]
+Main article: Shotguns
+A very effective short-range weapon, capable of short bursts of very damaging fire. Shotguns can be paired with Stasis and Warp to focus fire a single target without fear of reprisal. The short range of shotguns and the limited damage reduction of light armor will be a dangerous combination on any level. However, a defensive approach can produce high damage with minimal time outside of cover, and allows for the use of biotics while the shotgun is cooling down. Best used to complement pistols.
+
+Sniper Rifles[]
+Main article: Sniper Rifles
+Capable of firing several high damage shots that are accurate even at extreme range, sniper rifles can also be paired with Stasis and Warp to focus fire a single target for massive damage. While not quite as effective at exploiting the effects of Lift or Singularity like the assault rifle, sniper rifles can be used at much longer ranges and deliver much more damage over short period between biotic recharges. Adjusting the play style to accommodate the range and burst of sniper rifles can make them as strong a choice as assault rifles.
+
+Pistols[]
+Main article: Pistols
+Pistols are the only weapon system available to Adepts from the start. Pistols are a great weapon because, although they have a slow rate of fire, they are quite accurate over range. Investing points in the Pistol talent is worth it as it unlocks the Marksman ability and makes pistols a good long range weapon as well. With all the biotic talents an Adept has, a pistol is good as the Adept's sole weapon.
+
+Combat Guide[]
+Combat with the Adept in Mass Effect is mainly about using your biotic powers to weaken enemies and for crowd control. Because the Adept has the most biotic abilities of any class in Mass Effect, use them to cover your allies and throw enemies around. Use the Adept's talents and abilities to bolster your allies and keep your enemies' heads down. The Adept has many biotic powers so using them is the best way to use the Adept in combat.
+Because the Adept can only use the pistol, the combat effectiveness of the Adept when it comes to weapons is very low. However the pistol is a good weapon at close and mid-range, while average at long range. Investing points into the Marksman ability compensates for that, but weapons should still be used as a back up to the Adept's massive arsenal of talents.
+
+Squad Members[]
+While the Adept is a versatile class, squadmates should be selected to make up for abilities the class lacks. With no native tech abilities, the Adept should have at least one squad member who specializes in technology for access to Electronics and Decryption, so that every container can be opened and every terminal accessed. The squadmates that can fill this role are Kaidan, Garrus, and Tali. 
+While Kaidan will provide the needed tech abilities, his lack of any sort of combat talents and large overlap with the Adept's skills make him the weakest choice, unless the player plans to use his redundant biotic skills to affect larger areas at once. Garrus is a good choice with his mix of combat and tech abilities, and his Adrenaline Burst allows him to use tech talents frequently, while his weapon and armor skills allowing him to perform well in combat. Tali is the only squad member with hacking, making her the tech specialist of choice for the Adept who wants to maximize their crowd control capabilities. Her downside is that she has little combat ability, making her optimal only if the other squad member is a damage dealer.
+The two primary choices for combat squadmates are Ashley and Wrex. Ashley is better suited for the Adept's squad, as Wrex's biotics would likely take a backseat due to the Adept already having the necessary skills. Ashley is somewhat better suited to combat overall with her Assault Training and her health capacity increasing as the Soldier talent increases, making her a more durable frontline fighter. 
+Liara's biotic abilities overlap with the Adept's, making her useful against groups too large for the Adept to be able to lock down every target, but doing little to add to the squad's versatility. Like the Adept, she can only use pistols and shares most of the Adept's biotic abilities with just one tech power, Electronics.
+
+Specialization Classes[]
+Bastion[]
+Main article: Bastion
+Shortens the recharge time of all biotic abilities and provides specialization bonuses to Barrier and Stasis. Barrier specialization will make Barrier a very powerful defensive ability and virtually guarantees 100% uptime by extending the duration. Stasis specialization transforms Stasis from a mediocre defensive ability into one of the most powerful offensive and defensive abilities available against a single target. Bastion is a very attractive choice for higher difficulty levels where defense is key, as both specializations provide impressive defensive bonuses.
+
+Nemesis[]
+Main article: Nemesis
+Increases the duration and damage of all biotic abilities and provides specialization bonuses to Lift and Warp. Lift specialization will make Lift the most powerful crowd control available by increasing the radius to 10 meters. Warp specialization will offset the use of Lift as crowd control over Singularity by increasing the radius of the effect. Nemesis is an attractive choice for crowd control and damage vs. large groups of weaker opponents, typical in lower difficulty levels. While the specialization is certainly viable in harder difficulty settings, it does not confer any defensive bonuses other than the passive duration boost to Barrier.
+
+
+
+
+
+Mass Effect Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Experience • Systems • Mako • Codex
+
+
+Achievements
+
+Completionist • Rich Achievement •  Party Member Achievements  Scholar Achievement • Weapon and Ability Achievements
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • Merchants
+
+
+
+

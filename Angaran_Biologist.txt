@@ -1,0 +1,65 @@
+
+
+
+Outlaws are poaching the yevara, a native species cherished by the angara. Tracking down these poachers would win favor with the angara on Voeld.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Track the poachers
+2.2 Read poacher datapad
+2.3 Find poacher camp
+2.4 Investigate poacher cave
+
+
+3 Rewards
+
+
+Acquisition[]
+This mission can be acquired from the Angaran Biologist (marked with a) on the ice floe outside Techiix.
+
+Walkthrough[]
+If Jaal Ama Darav is not a member of the team when Pathfinder Ryder acquires the mission, he will ask to tag along over the comm - the Forward Station called outside Techiix can be used to do so.
+
+Track the poachers[]
+There are two initial navpoints, one is northwest of Techiix and the other east-southeast of the Ja Niihk Dig Site . Both will be small portable shelters, already abandoned by the poachers. After the first camp is found in the northwest, Jaal will comment that the poachers must be following the yevara.
+Note:  It's not required to visit both camps but there is more dialogue if visiting the northwest and then the southeast camp. If the southeast camp is visited first, there is no need to go to the northwest camp.
+
+Read poacher datapad[]
+The second camp in the southeast contains a datapad, with the following message:
+
+
+
+
+Message for Grel
+
+Grel,
+
+We had to pack up and follow the fish. They're actually pretty smart to keep on the move like this. Just use the signal to find us.
+
+Vann speared a little one–I think it was a calf–and the rest of them went berserk. Nearly drowned her. She'll get hypothermia at this rate, so we sent her back to the medbay. Means we're a hand short, so get here as quick as you can.
+
+
+-Arvis
+
+
+Find poacher camp[]
+Once both camps have been explored, a new navpoint appears east of Eroesk, where a cave is located. Take out the camp of Outlaws outside the cave entrance, then head into the cave. Be mindful of life support as solar heaters are few and far between in this area. Follow the navpoints through the cave.
+
+Investigate poacher cave[]
+There is another squad of Outlaws dug in inside the cave. Defeat them. Ryder and the team follow a path mined through the ice to a final cavern, where an angaran doctor, Dr. Lekaaret is waiting for them.
+Lekaaret explains that the yevara appear to contain enzymes which could counteract the effect of kett weapons, and is capturing them to find out. Jaal is horrified, which leads Lekaaret to note that the angaran preference for tradition blinds them to the possibility, although the doctor thinks that - if she is allowed to continue with her research - they will eventually accept her work.
+It is up to you to decide whether to allow the research to continue - Jaal doesn't want to.
+If you forbid the research to continue, SAM is instructed to transmit information on Lekaaret's actions to the Angaran Resistance. You then advise the angara to get off the planet while she can.  If Jaal is in the party, he will comment that he thinks it is the right choice.
+If you let her research continue, Lekaaret is told to be upfront with the other angara about it. She thanks Ryder, saying that her research will work.  If Jaal is in the party, he will comment that he thinks it is a mistake.
+After the conversation, next to Dr. Lekaaret's equipment is an Angaran Integrated Tech Node that can be scanned for +100 . 
+The cave system also contains a number of iridium mineral nodes spread throughout.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Voeld viability
+
+
+

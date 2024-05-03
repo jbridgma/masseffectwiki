@@ -1,0 +1,169 @@
+
+
+
+For the male version of this character, see Quarian Male Engineer.
+
+
+Quarian Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Quarian
+
+
+Rarity
+Rare
+
+
+Availability
+Initially unlockable
+
+
+Abilities
+Combat LeapIncendiary Omni-Blade
+
+
+Quarians have spent centuries at perpetual salvage and ship repair--the survival of their species depends on this technical expertise.
+Quarian engineers are elite support specialists with a talent for setting up ambushes and providing cover fire through the use of turrets. Their technical wizardry makes them crucial contributors on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 600 / Health: 500
+
+
+Class: Quarian Defender
+
+
+ Incinerate
+
+
+
+
+ Cryo Blast
+
+
+
+
+ Sentry Turret
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Quarian Engineer executes a series of up to three punches.
+Heavy Melee (Incendiary Omni-Blade) – The Quarian Engineer strikes with an omni-blade charged with incendiary energy.
+Grab (Omni-Blade Stab) – The Quarian Engineer drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Leap) – The Quarian Engineer jumps out of the way of incoming attacks.
+The Quarian Engineer can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Quarian Engineers are a little more focused on dealing with armored and unprotected foes. They are less effective against barriers and shields, but this can be ameliorated by using a weapon effective against shielding such as an Acolyte. If using the Sentry Turret, it's best to focus on damage per second abilities, i.e. the "Flamethrower", "Armor-Piercing Ammo", and "Shields & Damage" evolutions. If you find the turret to be a little too fragile, weak, or just useless, consider maxing the other four skills. By combining Cryo Blast with Incinerate (and the "Frozen Damage" evolution at rank 6 on Incinerate), you can inflict huge damage to frozen enemies and armoured enemies. It's also possible to sometimes create cryo and Fire Explosions.
+Thanks to the turret, the quarian excels at holding chokepoints. Find a well-enclosed spot with some cover, deploy the turret and, when possible, let the enemies come to you. However, don't let the turret do all the work; keeping up the gunfire helps mow them down.
+It's worth noting the turret will target cloaked enemies. If you're defending an enclosed area, the "Flamethrower" evolution becomes a warning system and ally against these enemies.
+Choice of Ammo Bonus can be an important one for the Quarian Engineer:
+Cryo Rounds enable you to benefit from the Frozen Damage evolution bonus from Incinerate without having to first cast Cryo Blast, which can greatly increase your damage output.
+Incendiary Rounds enable you to panic unprotected targets and generate Fire Explosions with potentially every cast of Incinerate, granting you much more area damage potential and damage against armored foes.
+Disruptor Rounds shore up your weakness against barriers and shields, and can enable Incinerate to detonate Tech Bursts on any target.
+Cerberus[]
+Phantoms are tough opponents for the Quarian Engineer as they will easily evade or block both Cryo Blast and Incinerate unless they can be staggered or forced to dodge by gunfire first; it's critical to equip a weapon such as the Acolyte or the Reegar Carbine for that purpose.
+Against Atlases the Cryo Blast-Incinerate combo is extremely deadly since it allows for over 1000 damage to be inflicted with just one Incinerate. On higher difficulties, the Sentry dies very quickly if thrown out into the open, and is instead best used as deployed as close-support backup against invading Dragoons and Phantoms. The rocket evolution is effective at staggering those foes or forcing them to dodge, buying time.
+Collectors[]
+Collectors are a challenge for Quarian Engineers, since all enemies can gain barriers through possession, but otherwise a Quarian Engineer can take on the Collectors fairly easily. A high rate-of-fire weapon, like the M-9 Tempest is very useful. The Acolyte also works here.
+Cryo Explosions are ultra effective against crowds of enemies, freezing unprotected enemies, and chilling the rest, potentially heightening Incinerate's damage (if Freeze Combo evolution was chosen), and Fire Explosions are achieved by deploying the Sentry Turret (with Flamethrower evolution) and using Incinerate to detonate. All are great for crowd control.
+Use of cover is largely unnecessary since you will be evading multiple aggressors at once most of the time.
+Geth[]
+Geth are possibly the most difficult of all the forces, since every enemy (with the exception of the Geth Trooper) has some kind of shielding, preventing snap-freezing. Since most geth are shielded, it would be highly recommended to either bring the Acolyte, or abandon the Quarian Engineer and instead go for one of the other types of Engineer.
+While Cryo Blast does slow enemies down and can be combined with Incinerate, the amount of times you will be stunned outside of cover by geth makes it very difficult to fire off powers against them.
+The only enemies that Incinerate is effective against are Geth Pyros and Geth Primes, but they need their shields stripped first.
+Reapers[]
+Reapers are the ideal enemy for Quarian Engineers. With only two enemies with extra layers of protection (Marauders and Banshees) it is very easy to snap-freeze the unprotected, or chill and slow the others. Because the enemies cannot dodge (except for Marauders) Cryo Blast is very effective. Incinerate is also deadly on its own, but together they pretty much lock enemies down in a more permanent fashion.
+Only Banshees are a real nuisance because they are heavily protected by barriers, and a very high amount of armour. Their teleport ability also acts as dodging tactic for your bullets and powers, causing a great deal of stress, but if you pair up with somebody with shield-draining powers, the barriers can be brought down quickly, to expose the Armor to Incinerate.
+Brutes are a pain, but are slow, cannot dodge attacks, and are highly vulnerable to Incinerate and powerful-but-slow weapons.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

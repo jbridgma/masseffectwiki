@@ -1,0 +1,135 @@
+
+
+
+Jarrahe Station (Strabo system, Eagle Nebula) appears to be under high security lockdown by its resident VI. The station was the last known docking location for the MSV Corsica, which crashed on planet Neith soon thereafter.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 PDAs
+
+
+3 Bugs
+4 Mission Summary
+5 Trivia
+
+
+Acquisition[]
+Prerequisite: N7: Wrecked Merchant Freighter
+
+After the MSV Corsica wreckage investigation has been successfully completed, EDI advises that further investigation at the Jarrahe Station, which, from the recovered logs analysis, appears as the last reported location of the merchant freighter, shortly before it crashed, could help understand the cause of the crash.
+These mission notes are displayed after scanning the station:
+
+
+“Data mining confirms the last reported location of merchant freighter MSV Corsica as the Jarrahe Station in the Strabo system. Possibility exists that clues pertaining to the anomaly that caused the mass malfunction of the mechs aboard Corsica can be found aboard Jarrahe Station.”
+
+
+Walkthrough[]
+Upon entering the space station, it is clear that something terrible must have happened as there are the bloody bodies of dead scientists strewn about the floor and bullet holes in the station windows. The door behind the crew is closed, preventing them from returning to the Normandy and requiring the squad to find a way out.
+To start figuring out how to escape, first follow the path around, and into the room with the blown out glass. Inside are two crates of 400 and 600 refined iridium, and a way to restore power to the docking section of the station.
+The first step consists in restoring power in the Processing area where you boarded, which opens the door to the central hub of the station. When you reactivate the power, the VI will tell you that intruders, i.e. you, have been detected and need to report to the cargo area for immediate removal from the station. Head out of the room and into the station’s main hub. Ahead of you is the VI’s control station, but it is currently locked down so you will need to find a way to fix that. Head into the living quarters, which will be the first door on the right. 
+Note: There are labels on the wall outside each door telling you which is which.
+
+Inside the first area of the living quarters are more bodies, and another datapad, lending more clues as to what happened here. Head through the doors at the other end, and since the one on your left is locked, head a little further and go into the one on the right. Inside is the button to restore power to the living quarters and a med-kit. When you reactivate the power this time, the VI locks down the living quarters to contain contaminants that are a threat to the station. It also advises the people inside to commence “self-destruct procedures to prevent death by starvation”. Now you must get the doors open via the console behind and to your left. In Mass Effect Legendary Edition, a floorplan of the area is on a monitor that shows which doors are locked and unlocked by each computer. This makes the locking and unlocking action of each computer more clear. There are three computers in this area, all of which are labelled "Station Control".
+The quickest solution is to select the left-most computer, then the right-most computer to get all five doors open again.
+Before leaving, go into that previously locked room, and grab 525, 750, and 375 credits from the three Personal Lockers there. As you leave, the VI asks you politely to leave the station. Head around the VI core and into the Research Lab.
+
+Inside the lab are another two crates of 400 and 600 iridium, and another power button. Like the last time, when you restore power to the lab, the VI locks down the sector. Since an experiment is running, the VI locks it this time citing procedure M29-2. Now you have to get out. Head over to the computers and begin to bounce the laser beam to the tank of the far side of the lab. The procedure to do this is:
+Computer 1 - one time
+Computer 2 - two times
+Computer 3 - one time
+Computer 4 - three times
+Once the tank explodes the area unlocks, and the VI again asks you to leave. Head to the engineering section to restore the hub’s power so you can leave, as the airlock is still locked down. When you enter the engineering section however, the station’s VI says that plasma venting is in progress, and trying to get to the controls will likely result in injury or death, and it will. One blast can knock out your shields, and can even kill you, so avoid them.
+The best way to avoid them is to get your squadmates to stay in that alcove on the right, also there are two personal lockers there with 750 and 1350 credits, so grab them, and continue alone. Getting past the last jets in this first passage after you come out from the alcove with the lockers can be deceptively challenging especially as you're facing a corner around which you can't see; it's helpful to know that there is a "safe zone" before the final two jets in this hallway where you can safely wait for them to deactivate, letting you continue.  Once you're past this first gauntlet, head left around the corner giving the jet firing in the open area a wide berth, and you will be facing a ramp with a final set of jets.  Be patient and wait for them all to stop firing before running past them up and to the left where you will cross a catwalk to get to the engineering power control.  When you restore engineering power, the jets will be disabled, making it an easy walk back.  Your squadmates will revive upon restoring power if they went down to the jets and they are totally superfluous in this mission anyway so there is no need to worry about their safety.  
+Tip: If you want to be extra safe getting past the jets, try equipping the Stimulator Conduits leg armor to sprint past when they aren't firing.  If you want to be extra extra safe, come prepared with a shield restoring bonus power such as Geth Shield Boost or Barrier for an emergency recharge.  
+Note: It is sometimes possible to activate the power switch from below when you walk towards the alcove. Look at the catwalk above you.
+There is only one thing left to do: shut down the VI. Head back to the hub, activate the power, and the VI will come to full power, and attempt to upload itself into the Normandy’s mainframe. Shut it down before it has a chance to. Once the VI is shut down, the assignment ends.
+
+PDAs[]
+PDA #1
+
+
+
+
+Dr. Galwind:
+
+At my suggestion we have cut power to all systems, save critical life support, in hopes that disabling these systems will deny the VI the resources she needs to kill us.
+
+This is a temporary solution. We cannot last this out on our own.
+
+
+--Dr. Talesin
+
+
+PDA #2
+
+
+
+
+Dr. Galwind:
+
+My firm belief is that the VI is paranoid about the possibility of infection. Its current homicidal behavior is likely out of an inflated desire to keep us from shutting it down. I believe that the VI is malfunctioning and that it believes our equipment to be infected by a virus.
+
+If we continue to try to shut her down, she WILL keep trying to destroy us. Maybe our only recourse is to just do nothing and convince her that we're not a threat.
+
+
+--Dr. Talesin
+
+
+PDA #3
+
+
+
+Attention all docks personnel:
+We are expecting a shipment of mech parts from the Hahne-Kedar facility on Capek (Haskins, Titan Nebula). Make sure the VI knows to accept a docking request from the freighter MSV Corsica.
+
+--Kennings
+
+
+PDA #4
+
+
+
+Kennings:
+I'm positive that the trouble with our VI started after the Corsica docked with us. Talesin is looking into the VI itself. In the meantime, I need you to go through the logs and find out everything that was on that ship!
+
+-- Dr. Galwind
+
+
+Bugs[]
+After reaching the research lab, repositioning the reflective armor so that the beam fires into the wall may result in a crash. Currently, there is no patch for the bug. You can, however, prevent the crash from occurring by moving all the mirrors aside from the one that would alter the path of the beam.  When all mirrors aside from that one are positioned correctly, look away from the beam and the reactor, and the game should not crash to desktop.
+Mission Summary[]
+Deactivated Jarrahe Station's security protocols.
+Escaped the station.
+
+Experience reward: 125 (156)
+Credits: 7,500
+Cerberus Funding: 3,750
+Credits Found: 3,750
+Minerals:
+Iridium: 2,000
+Trivia[]
+Several of the dead bodies inside Jarrahe Station are clothed in uniforms bearing an "SR2" shoulder patch.
+The story of this mission has some similarities to events in the 1968 film 2001: A Space Odyssey, with an AI becoming homicidal and killing the human inhabitants of a spacecraft because they are trying to shut it off.
+Just before Shepard shuts down the VI, its dialog name changes from "Station VI" to "Survivor".
+
+Rogue VI Virus Navigation
+
+
+← Previous Assignment
+
+Assignment Index
+
+Next Assignment →
+
+
+N7: Wrecked Merchant Freighter
+
+Assignments
+
+N7: Hahne-Kedar Facility
+
+
+
+

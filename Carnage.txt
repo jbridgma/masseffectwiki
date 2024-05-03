@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+This article is about the power in Mass Effect 3. For the talent in Mass Effect, see Shotguns.
+
+Carnage is a power in Mass Effect 3's single-player and multiplayer modes.
+
+Power Ranks[]
+Rank 1: Carnage[]
+Rip a target to shreds with this vicious blast. 
+Major collateral damage to enemies nearby.Effective against armor.
+
+Recharge Speed: 10 sec
+Damage: 315 (350 multiplayer)
+Radius: 1.50 m (1 m multiplayer)
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 8 sec
+Damage: 315 (350 multiplayer)
+Radius: 1.50 m (1 m multiplayer)
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Recharge Speed: 8 sec
+Damage: 378 (420 multiplayer)
+Radius: 1.50 m (1 m multiplayer)
+
+
+Rank 4: Radius/Damage[]
+
+
+
+Radius
+Increase impact radius by 50%.
+
+Recharge Speed: 8 sec
+Damage: 378 (420 multiplayer)
+Radius: 2.25 m (1.50 m multiplayer)
+
+
+Damage
+Increase damage by 30%.
+
+Recharge Speed: 8 sec
+Damage: 472.50 (525 multiplayer)
+Radius: 1.50 m (1 m multiplayer)
+
+
+
+Rank 5: Incapacitate/Recharge Speed[]
+
+
+
+Incapacitate
+Incapacitate enemies by knocking them down.
+
+
+
+Recharge Speed
+Increase recharge speed by 35%.
+
+Recharge Speed: 6.25 sec
+Damage: 378 (420 multiplayer) [Radius], 472.50 (525 multiplayer) [Damage]
+Radius: 2.25 m (1.50 m multiplayer) [Radius], 1.50 m (1 m multiplayer) [Damage]
+
+
+
+Rank 6: Armor Damage/Damage[]
+
+
+
+Armor Damage
+Increase damage to armored units by 65%.
+
+
+
+Damage
+Increase damage by 50%.
+
+Recharge Speed: 8 se (Incapacitate), 6.25 sec (Recharge Speed)
+Damage: 535.50 (595 multiplayer) [Radius], 630 (700 multiplayer) [Damage]
+Radius: 2.25 m (1.50 m multiplayer) [Radius], 1.50 m (1 m multiplayer) [Damage]
+
+
+
+Player Notes[]
+As with all projectile powers, Carnage does not launch an actual projectile when used by a squadmate. Instead, it instantly hits the target.
+The projectile has a high force component that can stagger targets like Guardians and even heavier enemies like Atlases, exposing Guardians for about 3 seconds.
+Carnage deals 50% bonus damage to armor, but only half damage to barriers and shields.[1]
+Carnage's projectile tracks like Throw or Concussive Shot but travels and recharges more slowly, though it still travels fast enough that enemies may not be able to dodge it at close range.
+You do not need to equip a Shotgun to use the ability as you did to use in Mass Effect—it is usable with any weapon.
+Like Incinerate, Carnage can both prime and detonate Fire Explosions. An effective tactic for using this combo is to ignite one enemy at the center of a crowd with Incendiary Ammo, Inferno Grenade or Incinerate and then launching Carnage at them, turning them into a powerful bomb that will damage, ignite, and potentially kill surrounding enemies.
+Carnage does relatively high damage for a power. If specialised for power damage, including passive power damage bonuses, Carnage can deal over 700 damage.
+The Rank 5 Incapacitate evolution will knock down most unprotected lesser (red bar) enemies within the area of effect. Choosing the Rank 4 Radius evolution maximizes the utility of this effect.
+Carnage detonates Fire, Tech and Cryo Power Combos, and, with Patch 1.04, sets up Fire Explosions. However, the fire combo priming set up lasts only a short time, so you have to be quick with a follow up power to make use of this. If timing is quick enough, this works even if Carnage was already used to detonate a Tech Burst or Cryo Explosion.
+After successfully hitting a target, Carnage continues to deal mild fire damage over time. This is not mentioned in the power description.
+Carnage is not considered a tech power and won't benefit from modifiers to tech power damage, such as the Tech Vulnerability evolution of Sabotage or the Power Synergy evolution of Defense Matrix.
+The bodies of most infantry enemies killed by a direct hit from Carnage explode.
+Availability[]
+Single-player: James Vega, Commander Shepard (Bonus Power), Aria T'Loak, Urdnot Wrex, Zaeed Massani
+Multiplayer: Battlefield 3 Soldier, Krogan Battlemaster Vanguard, Krogan Soldier, Vorcha Soldier
+References[]
+
+↑ https://web.archive.org/web/20160318000954/forum.bioware.com/topic/277136-gameplay-data-and-mechanics/
+
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

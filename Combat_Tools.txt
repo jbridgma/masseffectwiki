@@ -1,0 +1,175 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Combat Tools is a passive Combat skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+Specialized training that allows the user to expertly wield jump-jets and melee weapons in combat.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Power Damage
+
+
+
+Increases combat power damage with each skill point invested in the Combat Skill Group.
+
++2% Combat Power Damage
+
+
+2
+
+Melee
+
+
+
+Increases melee damage with each skill point invested in the Combat Skill Group.
+
++2% Melee Damage
+
+
+3
+
+Detonators
+
+
+
+Increases combo detonation damage from combat detonators with each skill point invested in the Combat Skill Group.
+
++2% Combat Detonator Damage Bonus
+
+
+4
+
+Hover
+
+
+
+Improves hover duration and gun accuracy while hovering.
+
++50% Hover Duration
++25% Weapon Accuracy While Airborne
+
+
+
+4
+
+Evasion
+
+
+
+Reduces incoming damage while evading.
+
++100 Damage Resistance While Evading
+
+
+5
+
+Aerial Melee
+
+
+
+Improves melee damage and radius while jumping.
+
++20% Jump Melee Damage
++40% Jump Melee Area of Effect Radius
+
+
+
+5
+
+Detonators
+
+
+
+-
+
++30% Combat Detonator Damage Bonus
+
+
+6
+
+Aerial Combat
+
+
+
+Reduces incoming damage while hovering. Improves hover duration and gun accuracy while hovering.
+
++30 Damage Resistance While Airborne
++100% Hover Duration
++40% Weapon Accuracy While Airborne
+
+
+
+6
+
+Martial Arts
+
+
+
+Improves melee damage with each melee hit (including kills) performed. Ends after no melee kill has been performed for 10 sec.
+
+Melee Bonus Per Hit: 5%
+Melee Bonus Per Kill: 20%
+Max Melee Bonus: 65% 
+
+
+Player Notes[]
+Mechanics
+Combat Tools is a passive skill that is always active.
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: Pathfinder Ryder - Starting Combat Skill
+Multiplayer: N/A
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

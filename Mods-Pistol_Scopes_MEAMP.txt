@@ -1,0 +1,144 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - Pistol Scope: Simple optical scope to enhance stability while zoomed. Also increases accuracy while moving.
+Enhanced - Pistol Heavy Scope: Substantially increases accuracy, but at the cost of increased weight.
+Enhanced - Pistol Tactical Scope: Substantially increases accuracy, but at the cost of fire rate.
+Enhanced - Pistol Targeting System: Specialized targeting system that increases accuracy of a modified weapon without using a scope.
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Pistol Scope
+
++28%
+
++32%
+
++34%
+
++36%
+
++38%
+
++40%
+
++42%
+
++44%
+
++46%
+
++48%
+
+Pistol Accuracy
+
+
+Pistol Heavy Scope
+
++35%+3%
+
++38%+3%
+
++42%+4%
+
++45%+5%
+
++48%+6%
+
++52%+7%
+
++55%+8%
+
++58%+8%
+
++62%+9%
+
++65%+10%
+
+Pistol AccuracyPistol Weight
+
+
+Pistol Tactical Scope
+
++35%-3%
+
++38%-3%
+
++42%-4%
+
++45%-5%
+
++48%-6%
+
++52%-7%
+
++55%-8%
+
++58%-8%
+
++62%-9%
+
++65%-10%
+
+Pistol AccuracyPistol Rate of Fire
+
+
+Pistol Targeting System
+
++30%
+
++33%
+
++37%
+
++40%
+
++43%
+
++47%
+
++50%
+
++53%
+
++57%
+
++60%
+
+Pistol Accuracy
+
+
+Equipping a Pistol Scope Mod changes the shape of the weapon by adding a visible scope depending upon the specific weapon.
+
+
+
+

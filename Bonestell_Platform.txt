@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+
+Location: Milky Way / Local Cluster / Sol System / Mars
+Bonestell Platform is a location which was cut from the cancelled Mass Effect DLC Mars. It was the starting location of its plot.
+
+Description[]
+Bonestell Mars Observation Platform was built in 2150, with major funding provided by the national space agencies of the United States and Japan. It is currently administered by the Systems Alliance, which assumed control of all Martian interface facilities in 2163. The SA is now solely responsible for the security of Mars' Prothean excavation sites.
+Bonestell Platform maintains an orbit that keeps it on the opposite side of the planet from the natural satellite of Deimos. That moon has been built up as a communications hub and shipping port. Bonestell serves the same communications role on the hemisphere of Mars facing away from Deimos. Since all commercial traffic is channeled through the security checkpoints on Deimos, Bonestell lacks significant port facilities.
+
+References[]
+Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc text string: 178741
+
+
+

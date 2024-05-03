@@ -1,0 +1,420 @@
+
+
+
+This article consists of style guidelines to follow when editing or creating pages for the Mass Effect Wiki. The manual aims to cover everything an editor should be aware of in order to uphold the quality and consistency that underpin the high standard of the wiki.
+While the Mass Effect Wiki is not flawless, there is a good chance that things are a certain way for a reason. Make sure to consult the style manual in full before making sweeping changes to one or more articles.
+For stylistic and editorial guidelines that apply to wiki editing in general, see the General subpage.
+Related resources:
+
+For a guide to the legitimacy of the numerous sources the wiki employs, see Information Sourcing.
+For editing disputes, wiki maintenance, and general code of conduct, see Community Guidelines.
+To learn more about using the Forum to propose major changes and set up projects, see Collaboration.
+For instructions about uploading and editing files, see Files Guideline.
+Contents
+
+1 Spelling
+
+1.1 British or American Spelling?
+1.2 Capitalization
+
+1.2.1 Do not capitalize alien race names
+1.2.2 Proper Nouns
+
+
+1.3 Game Titles
+
+1.3.1 Legendary Edition
+
+
+1.4 Italicizing Titles
+1.5 Title Case in Headings
+1.6 Underscores in Links
+
+
+2 Style
+
+2.1 Canon
+2.2 Player Character Gender
+2.3 Page Names for Characters
+2.4 Speculation
+2.5 Walkthrough Information in Articles
+2.6 Verbatim Transcription
+
+2.6.1 [Sic] Tags
+2.6.2 Codex Articles
+
+
+
+
+3 Layout and Organization
+
+3.1 Spoilers
+3.2 Headquotes
+3.3 Categories
+3.4 Page Versions per Game
+
+
+4 Particular Sections
+
+4.1 Introduction
+4.2 Bugs and Exploits
+4.3 Trivia
+
+4.3.1 Name Trivia
+4.3.2 Voice Actor Trivia
+4.3.3 Easter Eggs
+
+
+4.4 Cut Content
+
+
+5 Invalid Content
+
+5.1 Datamined Information
+5.2 Modded Gameplay
+
+
+6 External In-Universe Content
+7 Remakes
+8 Reference
+
+8.1 General Help pages
+8.2 Guidelines by Article Type
+
+
+9 Amending the Manual of Style
+
+
+
+Spelling[]
+A quick spellcheck before saving your edit is greatly appreciated. If you don't have a spellcheck add-on in your browser, preview the article first and read it through to check for any mistakes.
+
+British or American Spelling?[]
+The Mass Effect Wiki has editors from the US, the UK, and everywhere else where people subscribe to one form of English or the other, so there are sometimes questions over which spelling is correct. Both of them are. However, Mass Effect is chiefly written in American English, which means equipment articles like "Human Armor" have American spelling. So if you're using that article title in a page, it might look odd to have both English and American spelling (for example, the sentence "Mass Effect has several types of armour, including Human Armor and Quarian Armor" looks a bit strange).
+The rule of thumb is: either spelling is acceptable, so changing the spelling is not considered as correcting an error.
+
+Capitalization[]
+Do not capitalize alien race names[]
+Unlike most species in science fiction, the names of Mass Effect's alien races are common nouns – and so are not capitalized. Write "asari", not "Asari".
+Tip: While editing, ask the question: if you were writing about humans, would you capitalize the word "human" in your sentence?
+The following contextual examples show incorrect capitalization as underlined, followed by the appropriate correction:
+
+Incorrect: "The Geth are known to be reclusive. The Geth hid for a long time behind the Perseus Veil."
+Correct: "The geth are notoriously reclusive. For three centuries, the geth remained hidden beyond the Perseus Veil."
+Incorrect: "The Geth have evolved considerably since their creation by the Quarians."
+Correct: "The geth have evolved considerably since the quarians created them."
+If part of a proper noun, the capitalization of a race name is exempted: such as a race's government, as well as titles which refer to an enemy unit or character class. Note that multiplayer character classes are included as titles. Also, certain race names are titles in essence, and should also be exempted from this convention: Collector, Jardaan, Leviathan, Prothean, Reaper, and Remnant.
+Some correct examples of exempted capitalizations, mixed with uncapitalized names:
+
+"The volus are a client race of the Turian Hierarchy."
+"The geth may deploy units such as Geth Armatures, Geth Hoppers, and Geth Troopers."
+"The Drell Vanguard is a character class in Mass Effect 3's multiplayer mode."
+"The Thanix Cannon was developed by utilizing technology from the Reapers."
+Proper Nouns[]
+While we don't capitalize the names of alien races, there are other things that need to be capitalized because they are proper nouns.
+
+When Shepard is referred to by rank, Commander needs to be capitalized because that is what "the Commander" is referring to.
+The names of the various classes – Sentinel, Vanguard, Infiltrator, Soldier, Engineer, and Adept – are also to be capitalized. This is because they are referencing a specific thing, in this case the player's class.
+The various Talents and Powers, like Throw, Lift, and Singularity, also refer to specific entities. As such, they are proper nouns and should likewise be capitalized.
+Game Titles[]
+There are currently seven titles in the Mass Effect series: Mass Effect, Mass Effect Galaxy, Mass Effect 2, Mass Effect: Infiltrator, Mass Effect 3, Mass Effect: Andromeda, and Mass Effect Legendary Edition. There is no game called Mass Effect 1 and as such, the title "Mass Effect 1" is not allowed in articles. Also note that, as we are striving to be an encyclopedic source of information, abbreviations like ME, ME2, ME3, etc. are not to be used in main articles.
+The full and proper name of the game being referred to should be used where appropriate. This also applies to the novels and other media – for example, Mass Effect: Redemption and Mass Effect: Paragon Lost are spelled out in full.
+
+Legendary Edition[]
+It is acceptable to treat "Mass Effect Legendary Edition" as the title of a game as well as refer to the "Legendary Edition" in the context of the Trilogy. The shortened version should be capitalized and can be used either with or without the.
+
+Correct: "In Mass Effect Legendary Edition, the M35 Mako can move while being repaired."
+Correct: "The Galactic Readiness system, which modifies War Assets in Mass Effect 3, is not present in the Legendary Edition."
+Correct: "The Galactic Readiness system is not present in Legendary Edition."
+Incorrect: "The Galactic Readiness system is not present in legendary edition."
+Italicizing Titles[]
+Because the Mass Effect Wiki inextricably deals with videogame content, titles of videogames and related media are not italicized. This also applies in trivia sections and pages that describe the games from an external perspective.
+Italics should, however, be used for non–Mass Effect movies, books, and other works of art.
+
+Example: "The Illusive Man may be inspired by the Cigarette Smoking Man from the television series The X-Files."
+Example: "Roger Jackson, the voice of Harkin, also provides the voice for Engineer Greg Adams in the Mass Effect franchise as well as Lord Yun in Jade Empire, another game by BioWare."
+Title Case in Headings[]
+Use title case for page titles as well as section headings. That is, capitalize any major words and only use lower case for conjunctions, prepositions, and articles (words such as and, the, and to).
+
+Underscores in Links[]
+The Mass Effect Wiki follows a standard of replacing underscores (_) with spaces in wiki links in order to keep the source code clean and human-readable. While [[Mass_Effect:_Foundation]] and [[Mass Effect: Foundation]] both go to the same page, and the former is offered up by the autocomplete functionality during edit mode, the latter form is preferred.
+Exceptions are allowable if underscores are
+
+actually a part of the file name: [[File:Blasto + prothy ಠಠ_ಠಠ.png]]
+in a one-brace link to external sites because spaces instead of pipes (|) denote the first separator between the URL and the link label: [http://en.wikipedia.org/wiki/Main_Page English Wikipedia home page]
+Style[]
+Canon[]
+Some wikis – particularly Wookieepedia – which are working from a long-established and defined canon, have clear guidelines as to whether a character is male or female, and what decisions are canon, and write articles accordingly. Because Mass Effect is open for players to create their own story through their decisions, the Mass Effect Wiki does not hold one particular course of action or aspect of character creation as canon, but gives equal credence to player choices.
+
+Incorrect: "Commander Shepard saved Elysium during the Skyllian Blitz."
+Incorrect: "Commander Shepard kills Lord Darius on Nonuel."
+Incorrect: "Pathfinder Ryder saved Zevin Raeka at the expense of krogan scouts."
+Correct: "Commander Shepard's possible psychological profiles include saving Elysium during the Skyllian Blitz, surviving a thresher maw attack on Akuze, or ruthlessly killing batarian pirates during the siege of Torfan."
+Correct: "Commander Shepard may choose to kill Lord Darius on Nonuel, or negotiate a peaceful settlement."
+Correct: "Pathfinder Ryder may choose between helping Zevin Raeka at the expense of krogan scouts, or vice versa."
+For this reason, Commander Shepard and Pathfinder Ryder are not depicted on the wiki's screenshots. Although there is a representative Shepard and Ryder used in promotional art, on the Mass Effect Wiki these version of the player characters are not considered canon to the exclusion of all others, particularly as they can be either male or female and of any ethnicity. As creating an individual character who is shaped by decisions is an integral part of Mass Effect, and all characters are unique, not depicting the protagonists keeps the Mass Effect Wiki universal for all Mass Effect players, and gives credence to their decisions and character customization.
+This also means Shepard and Ryder are not referred to by gender in articles. However, player character images are allowed under certain circumstances (see below).
+
+Player Character Gender[]
+Because the main games have protagonists that can be either male or female, the Mass Effect Wiki writes them as gender-neutral and uses their rank instead of a male or female pronoun. For example:
+
+Incorrect: "Commander Shepard and his crew explore the galaxy looking for Saren."
+Incorrect: "Pathfinder Ryder explores the Heleus Cluster while his sister is in a coma."
+Correct: "Commander Shepard and the crew of the Normandy explore the galaxy looking for Saren", or
+Correct: "When Sha'ira asks Shepard for help, the Commander agrees to speak to Septimus on her behalf."
+Correct: "Pathfinder Ryder explores the Heleus Cluster while their sibling is in a coma."
+The exception is when discussing romances, as this is the only area where gender makes a practical difference:
+
+Incorrect: "Commander Shepard can pursue a romance with Ashley Williams."
+Correct: "If Commander Shepard is male, he can pursue a romance with Ashley Williams", or
+Correct: "Regardless of Shepard's gender, the Commander can pursue a romance with Liara T'Soni."
+For this same reason, we ask that editors please refrain from inserting images that depict the player characters into articles. This does include images of the "default" male and female Shepard or Ryder. Explicitly, they aren't allowed in in-universe and walkthrough articles.
+There are only a few exceptions:
+
+The Commander Shepard page itself
+Armor images
+Romance sections
+The Combat series of articles
+Even in these pages, Shepard may be included only for the express purpose of depicting the player character.
+In case of the Pathfinder, the sibling gets the default face model for their corresponding gender while the Pathfinder page uses the logo.
+Any image must be of the default male or female Shepard or Ryder, and care should be taken to avoid showing as many distinguishing features as possible, like hair and facial features. If there is any question as to whether an image is acceptable, ask an administrator before you add it to the article.
+
+Page Names for Characters[]
+When creating standard character summary pages, it is preferable though not required to use the character's full name (to the extent known) without any ranks or titles, e.g. Shepard rather than Commander Shepard, Saleon rather than Doctor Saleon. Redirects can be added where appropriate, especially for characters principally referred to by title or rank. For adversary pages it is preferable to use the name of the adversary as it appears during gameplay, e.g. Doctor Droyas. Quarian ship names are considered part of their full names and are thus normally included. Characters whose names change use their names as of their first appearance in the games. It is acceptable to move/rename non-conforming pages to bring them up to the preferred standards; however, a redirect from the old page should be left in most cases.
+
+Speculation[]
+The Mass Effect Wiki has a low tolerance policy on speculation in articles.
+If the speculation refers to an unreleased game or novel, put a link at the end of the sentence to an interview or article supporting that speculation. For example:
+
+Incorrect: "This decision is pivotal to the story."
+Correct: "This decision is pivotal to the story.<ref>link to supporting article</ref>"
+Note that in order for the ref tags to work, a References section must be set up first.
+If speculation is not substantiated or qualified, it will be removed.
+
+See also: #Trivia
+Walkthrough Information in Articles[]
+Because most of our articles are written from an in-game perspective, we do not put walkthrough information into main articles. All articles must be kept as if written from an in-game perspective and contain information about who or what they are about. Walkthrough information should be put into the various walkthrough articles where it is appropriate. Avoid using second person pronouns, like you and yours, in main articles for the same reasons.
+However, there are specific sections where this rule is lifted:
+
+The tactics section of various enemy articles, and only in that section. The rest of the article should be kept as if written from an in-game perspective.
+The walkthrough articles themselves where such a style is appropriate. Apart from those two exceptions, please avoid putting walkthrough information and using second person pronouns in main articles.
+Verbatim Transcription[]
+While it is good writing practice to not cite character lines and other text directly, some content should be transcribed verbatim, i.e. exactly as it appears in-game.
+The rule of thumb is that any in-game descriptions of items, such as weapons or planets, are included verbatim somewhere on the item page. See the reference for specific guidelines.
+
+[Sic] Tags[]
+Because of the amount of information that we copy verbatim from the games, from time to time, we do encounter errors in spelling, grammar, term usage, and other things. Because we are not here to correct those, we use {{sic}} tags to note these errors from the original source.
+These errors and the sic tags are to remain in the articles until such a time that they are corrected by an official patch or re-release of the title.
+The list of these things includes but is not limited to:
+
+Various descriptions (Weapons, Planets, Upgrades, Research Items)
+Journal entries for Missions and Assignments
+Emails
+Datapads
+Audio Logs
+Quotes
+Codex Articles[]
+Codex articles are verbatim copies of the in-game Codex. For this reason, we ask that editors not make changes to the substance of the articles, including the images used. The same applies to pictures: if a picture isn't the Codex entry picture, we ask that you don't insert it into the Codex.
+All Codex entries are recorded regardless of when and where they appear. An entry is not recorded only in the case that the entry text doesn't change from game to game. For example, the Primary Entries in Aliens: Council Races for the asari, turians, and salarians do not change from when they are introduced in Mass Effect, so they only need one entry. For entries where the text does change, and the entry appears in the same place, then use a separate heading for each game. For example, the entry for the Normandy SR-2 changes from Mass Effect 2 to Mass Effect 3, so a heading is used to distinguish the entries.
+Codex entries are classified by the game from which they were transcribed, meaning that if an entry is a Primary entry in Mass Effect, yet a Secondary entry in Mass Effect 2, then the Primary Codex entry remains and the Secondary is added and not omitted. For example, the entry for Kinetic Barriers is a Primary entry in Mass Effect, yet a Secondary entry in Mass Effect 2. Despite the fact it appears in both games in separate places, and the text is the same, both entries are recorded.
+For Codex entries with an audio entry, if the audio entry differs from the text entry, the text entry is not affected. The text entry should reflect the in-game text Codex entry, not the audio entry, regardless of any discrepancy between the two.
+
+Layout and Organization[]
+Spoilers[]
+Main article: Mass Effect Wiki:Spoiler Warning
+Since the Mass Effect Wiki has a major focus on lore material, a lot of articles are bound to contain spoilers and thus may require one or several appropriate spoiler tags. This is explained further in the main article above.
+Walkthroughs are inherently spoilers and so do not require spoiler tags. The same goes for the majority of gameplay-oriented articles, with notable exceptions like Romance and the three Morality Guides.
+
+Headquotes[]
+The Mass Effect Wiki permits the use of headquotes in articles in specific locations and each is subject to different rules. Most headquotes are limited to character pages only. Character quotes must be spoken by the character in question and apply to major characters. Major characters are defined as squadmates, love interests, major storyline NPCs (e.g. David Anderson, Donnel Udina, Armando-Owen Bailey, Illusive Man), major enemies (e.g. Saren Arterius, Harbinger, Sovereign), and NPCs who fill those roles in downloadable content packs.
+
+At the top of the article: for characters, this headquote must be from the game in which the character was introduced, and must represent the character as a whole. For example, in the case of Tali'Zorah nar Rayya, the quote must be from Mass Effect.
+There are exceptions for Miranda Lawson and Jacob Taylor, whose quotes are from Mass Effect 2 rather than Mass Effect Galaxy, due to the larger role of the game and the presence of more dialogue.
+If a major character first appeared in a different medium, such as a comic or novel, the headquote may be sourced from there instead.
+If there is no suitably representative quote from a character's dialogue in the first game in which they appear, a quote may be chosen from a subsequent game instead, e.g. Steven Hackett. In this rare exception, care should be taken to avoid spoilers.
+At the top of the "Romance" section: This quote must not be a funny line, but a more serious one describing the relationship.
+If a character has multiple romance sections, then a headquote is permitted in each one, but the quote in each must be from the game they are about.
+At the top of the "Loyalty" section: This quote must be spoken by the character during their loyalty mission in Mass Effect 2. The quote should be a good representation of the mission and the impact it has on the character.
+If the character is present in multiple games: e.g. for Garrus Vakarian, there can be a headquote at the top of the article, and at the top of the relevant sections dealing with other games. With Garrus as an example, the article can have a headquote at the top of the article as well as the "Mass Effect 2" section, the Mass Effect 2 "Romance" and "Loyalty" subsections, the "Mass Effect 3" section, and the Mass Effect 3 "Romance" subsection.
+In certain rare cases where a character may be a specific but unnamed individual of a class or type of lifeform or entity that could at least theoretically include more than one member, e.g. THE Rachni Queen, or THE Collector General, headquotes are only permitted at the top of section(s) that are limited to discussing the character specifically.
+Non-character page headquotes: certain non-character pages that cover major topics in the lore can have headquotes if there is a particularly memorable quote that very aptly or succinctly describes the subject of the page, e.g. Spectres, Geth War.
+Categories[]
+Categories help readers find things. This includes articles and screenshots. For example, Category:Krogan collects all articles related to the krogan and any media depicting them.
+To add any wiki page to a category:
+
+Visual editor: In the top-right corner, click the gear icon and select "Categories".
+Source editor: simply add [[Category:SomeCategoryName]] to the page (by convention, at the end).
+Note:  Certain templates, such as infoboxes, add relevant categories to a page automatically.
+The categories used should cover the broad themes of the article and be a logical category to find the article under.
+
+Example: Matriarch Benezia is categorised as a character: she is an asari, she is a notable adversary, she is known for being a powerful biotic, and she is only seen on Noveria. Therefore these categories are used for her.
+A page can be a member of any number of categories. Once the page is saved, its categories will appear at the top and bottom of the page.
+For images, the categories should be for what is visible in the image. If the image is of an asari mercenary using biotics on Illium, the appropriate categories would be asari, biotics, mercenaries, and Illium.
+To categorize an image, go to its file page proper and add categories as you would for any other article. If you wish to upload an image and categorize it at the same time, add [[Category:SomeCategoryName]] to the summary of the image on the upload page.
+
+See also: Mass Effect Wiki:Manual of Style/General#Categories
+Page Versions per Game[]
+We do not split main articles along Mass Effect, Mass Effect 2, and Mass Effect 3 lines. Articles like Assignments and Missions are not split because they have all the various parts from all games and a split is not needed. Redirects will be provided to take readers to the relevant sections of those articles.
+However, articles like Adept Guide and Adept Guide (Mass Effect 2), which deal with specific elements of the game, in this case a guide, are to be split because they have a lot of mutually exclusive content.
+
+Particular Sections[]
+Introduction[]
+The intro paragraphs to most of our articles are written from the perspective of when they were introduced. For example, the Systems Alliance article is written from the perspective of someone who hasn't played Mass Effect yet, whereas the drell article is written from the perspective of when the race was first introduced in Mass Effect 2. These paragraphs should provide a brief introduction to the article and contain no plot spoilers.
+If there are new developments, put them under the appropriate spoiler tag.
+The first time the article mentions the title, put it in boldface by linking the article title itself — [[Article Title]] produces Article Title. Avoid other uses of boldface in the first sentence, except for alternative titles of an article; for example:
+
+
+[[Pyjak]]s, sometimes referred to as "space monkeys", are a primitive species found on several planets including [[Eletania]], [[Tuchanka]], and [[Zorya]].
+
+
+
+
+Bugs and Exploits[]
+Because of the nature of video games, over time people will encounter bugs, exploits, and unusual events that may not be feasible to reproduce. Because of this, at least one user in addition to the original reporter must confirm things of this nature on the relevant talk page before they can be added into the relevant articles.
+
+Trivia[]
+Trivia is classified as information players may not have been aware of and is impactful or interesting. Ideally trivia sections should be no more than half a dozen snippets of information, not more than a line or so long. In practice, most legitimate trivia is comprised of behind-the-scenes information adequately sourced from developers themselves as per the sourcing guidelines. Valid trivia notes can also include references to minor visual glitches or gameplay anomalies, in-game misspellings, continuity errors, or other errata of a nature not serious enough to qualify as a bug.
+Note that straight comparisons in things that are otherwise unrelated are not enough to justify trivia. Look-alikes and sound-alikes are not enough grounds. If making such a comparison, then a connection must be made to the function of the item to back up the claim and in order to justify it.
+Also note that because all squad members have extra dialogue during missions, it isn't considered trivia. If you come across it, then please look at the style guide for dialogue pages and place it on the appropriate character's page.
+Important: Please be reminded that popular opinion is not grounds for valid trivia. 
+Examples of incorrect and correct trivia:
+
+Incorrect (not trivia):
+"The Justicar Code has over five thousand sutras and covers every situation a justicar may encounter."
+It is a key element of the Code and should be in the article proper.
+Correct:
+"Ashley was originally to recite Robert Heinlein's "Cool Green Hills of Earth." The rights for Heinlein's work are rather complex, and when time ran out to acquire permission, it was replaced with Tennyson's "Ulysses," which is in the public domain. The second and third stanzas were used when she discussed her father, and the fourth and final on the way to Ilos."
+"When Shepard asks about how the virus works, in the first conversation, Legion will respond with; "An equation with an result of 1.33382 returns as 1.33381. This changes the result of all higher processes. We will reach different conclusions." This is a reference to the Pentium FDIV bug."
+Name Trivia[]
+Name trivia should be kept to a minimum and confined to the following cases:
+
+It is confirmed by a developer.
+It conforms to current naming procedures (such as the naming of astronomical bodies after mythological figures).
+A reasonable connection can be made.
+Coincidental similarities are not trivia.
+
+Incorrect: "Alko is also the name of the national alcohol retailing monopoly of Finland."
+As there is nothing in the planet description suggesting any link, it is sheer coincidence.
+Correct: "Turian is based on the word centurion. Palaven is based on Palatine Hill, with a dash of "paladin." Turian names, culture, and military doctrine also mirror that of the Roman Empire, especially their emphasis on colonizing enemies."
+Voice Actor Trivia[]
+When it comes to a character's voice actor, three specific instances of trivia are allowed:
+I. Appearances in other BioWare games
+Because professional voice actors are often involved in multiple projects, trivia about them appearing in a game developed by BioWare, like Knights of the Old Republic and Dragon Age: Origins, is acceptable, while games not developed by BioWare is not. The connection must be made between the games in order to justify trivia. Also provide a link to the wiki that has the necessary information, if it is available. For example:
+
+Incorrect: "Keith David has also voiced the Arbiter in Halo 2 and 3."
+Correct: "Claudia Black also voiced the character Morrigan in Dragon Age: Origins, another BioWare game."
+Correct: "Simon Templeman, who voices Admiral Gerrel, also provided the voice for Teyrn Loghain Mac Tir in the game Dragon Age: Origins, also by BioWare."
+II. Trivia sections of non-character pages for characters without their own page or infobox
+It is acceptable to note voice actor information in the trivia sections of articles about non-character subjects, such as in the articles SSV Normandy and Leviathan, or adversaries that do not or cannot have their own character box, like Alestia Iallis.
+III. Cameo or guest appearances
+In the absence of official confirmation that a voice role was intended as a cameo or special guest appearance, the circumstances of a particular role can be used to determine if it is significant enough to warrant a trivia note, subject to community consensus. 
+In general, a voice appearance for a character can be considered a cameo by the actor if:
+
+The appearance is small: it is limited to a handful of lines or scenes, minimal interaction with player characters, and no major influence on the course of the overall story of the Mass Effect series;
+The actor is a person of major significance, either to fans of the Mass Effect franchise, or to broader culture; and
+It is at least plausible that the actor’s above-mentioned significance is the main reason they are playing the character.
+Examples of voice actor appearances that are and are not cameos:
+
+Buzz Aldrin’s appearance as the male Stargazer in Mass Effect 3 is a cameo.
+Aldrin is widely reknowned as one of the members of the historic Apollo 11 mission, and as the second human being to set foot on the Moon. His appearance is brief, with no interactions with the player or other major characters, and with no major impact on the course of the story. He also has a history of making cameo appearances in other media.
+Jessica Chobot’s appearance as Diana Allers is not a cameo.
+Allers, while not a main character, is still a “major” character because interactions between her and the player can lead to romance, or impact morality, reputation, and War Asset scores which in turn can have significant effects on the course of Mass Effect 3’s story. Also, while Chobot could be considered a minor celebrity in gaming circles, she is not well-known outside of that subculture.
+Mark Meer’s appearance as the vorcha characters in the Mass Effect trilogy is not a cameo.
+It is common for a professional voice actor hired to work on a project to voice more than one role on that project. However, his appearance is still acceptable to note in the trivia section of the vorcha page because it was confirmed by Meer himself and is thus valid behind-the-scenes information.
+Alli Hillis’s appearance as Liara T'Soni in Mass Effect: Andromeda is not a voice actor cameo.
+While the appearance of Liara in Andromeda could be considered a cameo or Easter egg, that would apply to the character, not the actor. As Liara is a main character in the Mass Effect series as a whole, an appearance by her, even if brief and of minimal story consequence to that particular game, would not be considered a cameo by Hillis.
+Easter Eggs[]
+Unless a reference is specifically confirmed to be an Easter egg, it should not be described as such on the wiki. This is because Easter eggs imply an intent on the behalf of the developer (planting a secret for the pleasure of players), which may or may not be the case for a given parallel. Perceived connections may be coincidental due to sharing resources between games developed by the same studio, for example.
+Nevertheless, noting an Easter egg as a "possible reference" is acceptable.
+
+Cut Content[]
+Because it may be unknown whether hidden content is inaccessible due to a bug or has been deliberately disabled, for all intents and purposes, it is considered to be cut. The wiki does, however, allow for documenting cut content on the dedicated pages (see Category:Cut Content) or within dedicated sections (see Forum:Adding Cut Content to General Articles.
+Such pages and sections are marked with the {{Cut Content}} template to clearly distinguish them from canon content.
+
+Invalid Content[]
+The following sections describe content that is generally not accepted in the main article space.
+
+Datamined Information[]
+In this context, datamined information refers to any method of accessing information from game files outside of the regular game experience. Depending on the situation, such information is not automatically considered evidence. It often requires interpretation to some degree and may be subject to other dependencies that are not apparent. It can, however, be considered as supporting evidence if the effects are clearly observable in the game proper.
+In particular, datamined information is not to be applied to terminology used on the wiki. Internal labels for units, locations, and other gameplay aspects are artifacts of development that cannot be assumed to reflect how something is intended to be called. On the contrary, if an internal label differs from what can be observed in the player-facing product, it may have been changed for a reason.
+Datamined information may only be documented under "Cut Content" if it meets the related requirements.
+
+Modded Gameplay[]
+Numerous user-made mods have been created for the Mass Effect games to enhance certain aspects, extend replayability, or both. However, these are unofficial additions and not part of the core experience, particularly for console users. Generally speaking, information on the wiki is restricted to what can be encountered through unmodded gameplay to keep things uniform between players in all platforms the games are released on.
+Modded textures are not allowed on screenshots. Modifying files and settings for the express purpose of taking screenshots of game scenarios using default game assets, however, is allowed. Information derived from altered gameplay mechanics are likewise prohibited. Story and lore materials from mods are definitely not allowed, and will be removed on sight.
+Editors with modded games should disable or remove their mods first before testing, adding, or confirming information that could potentially be at odds with normal gameplay. When reporting bugs and asking for confirmation about something, make doubly sure no mods are working at the time, so as not to burden others with looking for or attempting to test things that may not exist in the base game.
+
+External In-Universe Content[]
+Lore content from official external sources (such as websites, blogs, social media, and mobile apps) is allowed to be copied to the wiki. As the source material may vary considerably, the organization of each project has to be discussed before implementation. The following guidelines apply:
+
+The content is generally added as one or more subpages where appropriate.
+The content is transcribed verbatim as far as possible.
+To make it more reader-friendly, dispersed content that relates a single story should be collected in a single page.
+If the content contradicts certain playthrough scenarios, it has to be clearly specified as a note or trivia.
+Remakes[]
+For guidance on how to document changes introduced by a re-released version of a title, see Remakes.
+
+Reference[]
+General Help pages[]
+Help:Editing — Basic information on how to enter text and formatting
+Help:Images — Information on how to upload and use images (and other media like movies or sounds)
+Guidelines by Article Type[]
+Characters
+Unique Dialogue Page (talk) — How to lay out a character's unique dialogue page
+Races (talk) — How to lay out a race page
+Merchants (talk) — How to lay out a merchant or shop page
+Adversaries (talk) — How to lay out an adversary's details page
+Gameplay
+Missions (talk) — How to lay out a mission details page
+Assignments (talk) — How to lay out an assignment details page
+Class Guide Page (talk) — How to lay out a guide for the individual classes
+Powers (talk) — How to lay out a Power page
+Equipment (talk) — How to lay out an equipment details page
+Astronomy
+Planets (talk) — How to lay out a planet details page
+Systems (talk)— How to lay out a system details page
+Clusters (talk) — How to lay out a cluster details page
+Comics
+Comics (talk) — How to lay out a comic issue page
+Comics/Hub (talk) — How to lay out a comic series' hub page
+
+
+Amending the Manual of Style[]
+The Manual of Style is not intended to be changed often. Minor modifications or clarifications can be suggested on the talk page and included in the manual, provided that there are no objections or other issues that would require a vote. Like any policy change, new sections or major amendments should be proposed in the Forums.
+
+
+
+Quick Links
+
+Mass Effect WikiManual of Style
+
+
+General Guidelines
+
+Manual of Style Homepage • General guidelines • Comics (Comic Hubs) • Templates • Remakes
+
+
+Galaxy
+
+Clusters • Systems • Planets
+
+
+Gameplay
+
+Missions • Assignments • Adversaries • Classes • Abilities / Powers
+
+
+Game-info
+
+Equipment • Merchants / Stores • Races • Unique Dialogue
+
+
+See also
+
+Community Guidelines • Chat Policies • Collaboration • Files Guideline • Information Sourcing • Administrators
+
+
+
+
+
+

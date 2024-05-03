@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+
+
+
+Blood Pack Trooper
+
+
+
+
+Race
+Vorcha
+
+
+Type
+Organic
+
+
+Faction
+Blood Pack
+
+
+Armament
+M-3 PredatorM-23 KatanaM-8 Avenger
+
+
+Abilities
+ Regeneration Fortification/Rage
+
+
+Health
+Low
+
+
+Armor
+Low
+
+
+Locations
+Omega, Pragia, Zada Ban, Tarith, Tuchanka
+
+
+Blood Pack Troopers are vorcha who have been forced into service by the Blood Pack and are literally beaten into soldiers by their krogan commanders. They are the most commonly encountered soldiers of the Blood Pack, and considered to be cannon fodder by their fellow krogan.
+
+Capabilities[]
+Offensive
+They are equipped with a variety of weapons including M-3 Predator pistols, M-8 Avenger assault rifles, and M-23 Katana shotguns.
+The Troopers are essentially cannon fodder for their more powerful krogan overseers and will act in a supporting role, suppressing a squad or forcing them out of cover while a krogan warrior advances. They are generally encountered in significant numbers. While in groups, Troopers can enter a "berserker rage" when a nearby one of their number is killed, shown by them roaring and glowing red. While enraged, they deal significantly more damage and will sometimes charge recklessly forward. 
+Defensive
+Some Blood Pack Troopers possess armor on Normal difficulty, but the majority do not. While Troopers have no shields or barriers, on higher difficulty levels all Troopers possess armor that will regenerate instantly either when the vorcha takes heavy damage and retreats to cover, or when it enters its "berserker rage" state. They also constantly regenerate health on all difficulties, making them very difficult to kill quickly.
+
+Tactics[]
+All vorcha enemies are generally unpredictable and react differently and in unexpected, often tactically unsound, ways.
+They utilize cover well and sometimes close in on you no matter what their armament (even with rocket launchers), while a shotgun-armed vorcha may keep its distance.
+They may forgo cover to strafe and fire in a manner similar to salarian Eclipse Troopers, or simply stand in the open and fire.
+Incendiary Ammo, Incinerate, Inferno Grenade, Warp, Neural Shock, and Reave are very useful to permanently stop their health (red bar) regeneration on all difficulties and is fairly important on Hardcore and Insanity, where their regeneration is very swift. Their health regeneration is also paused temporarily while fully frozen.
+Their Berserker Rage or Fortification ability that restores their armor (yellow bar) is separate from the health regeneration and is comparable to the shield restoring powers used by some other enemies that have Tech Armor or some form of Shield Boost like Geth Troopers. There is no way to prevent this ability permanently other than to kill the vorcha outright; however, the Flashbang Grenade power is able to suppress this ability for over 40 seconds at any rank.
+Killing a vorcha quickly or even instantly with a few headshots from an accurate weapon is an effective tactic as it denies them a chance to regenerate much, if any, health or armor.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

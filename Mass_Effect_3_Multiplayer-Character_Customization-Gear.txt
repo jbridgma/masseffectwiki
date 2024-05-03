@@ -1,0 +1,1776 @@
+
+
+
+
+
+
+
+This article is about multiplayer Gear items. For multiplayer equipment items, see Mass Effect 3 Multiplayer/Character Customization/Equipment.
+
+Gear consists of equipment items that bestow persistent bonuses when applied to a character and do not expire with the conclusion of a match. Obtaining and using Gear items requires downloading the Rebellion Pack. Additional Gear is included in Mass Effect 3: Earth, Mass Effect 3: Retaliation and Mass Effect 3: Reckoning DLCs.
+
+Contents
+
+1 Uncommon Gear
+
+1.1 Adaptive War Amp
+1.2 Assault Rifle Amp
+1.3 Densified Ammunition
+1.4 Engineering Kit
+1.5 Hydraulic Joints
+1.6 Mental Focuser
+1.7 Multicapacitor
+1.8 Pistol Amp
+1.9 Shield Booster
+1.10 Shotgun Amp
+1.11 SMG Amp
+1.12 Sniper Rifle Amp
+1.13 Structural Ergonomics
+1.14 Thermal Clip Storage
+1.15 Vulnerability VI
+
+
+2 Rare Gear
+
+2.1 Armored Compartments
+2.2 Assault Loadout
+2.3 Barrage Upgrade
+2.4 Batarian Gauntlet
+2.5 Berserker Package
+2.6 Combatives Upgrade
+2.7 Commando Package
+2.8 Expert Package
+2.9 Geth Scanner
+2.10 Grenade Capacity
+2.11 Guerrilla Upgrade
+2.12 Juggernaut Shield
+2.13 Martial Biotic Amp
+2.14 Medi-Gel Transmitter
+2.15 Omni-Capacitors
+2.16 Operative Package
+2.17 Responder Loadout
+2.18 Shock Trooper Upgrade
+2.19 Stronghold Package
+2.20 Survivor Loadout
+2.21 Warfighter Package
+
+
+
+
+Uncommon Gear[]
+Uncommon Gear generally applies a single bonus to a multiplayer character equipped with it.
+
+Adaptive War Amp[]
+Use an advanced biotic amp to increase the strength of damaging biotic powers.2
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Biotic Power Damage
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Assault Rifle Amp[]
+Add power to assault rifles to increase round velocity and damage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Assault Rifle Damage
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Densified Ammunition[]
+Use an ammo shaver to load weapons with specially treated ammo blocks to fire heavier, harder ammunition that inflicts more damage per shot.2
+Note: Contrary to the description, the amount of damage boost equals 4/6/8/10/12 % on levels I-V.
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Weapon Damage
+
++3%
+
++5%
+
++7%
+
++8.5%
+
++10%
+
+
+
+
+
+
+Engineering Kit[]
+Install a variety of omni-tool upgrades to enhance the potency of tech attacks.2
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Tech Power Damage
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Hydraulic Joints[]
+Improve armor joints to maximize the force and damage delivered through melee blows.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Melee Damage
+
++10%
+
++12.5%
+
++15%
+
++17.5%
+
++20%
+
+
+
+
+
+
+Mental Focuser[]
+Sharpen mental alertness and precision under stress to aid the performance of tech or biotic powers.1
+Note:  In spite of what the in-game description implies, the Mental Focuser is the only gear that also boosts the damage of powers that are neither tech or biotic, e.g. Carnage or Cain Trip Mine.
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Power Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Multicapacitor[]
+Add a backup power supply to the user's shields, decreasing the time before they can be brought back online.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Shield Regen Speed
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Pistol Amp[]
+Add power to pistols to increase round velocity and damage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Pistol Damage
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Shield Booster[]
+Amplify the power systems that generate shields to raise their effective strength.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Shields
+
++10%
+
++15%
+
++20%
+
++25%
+
++30%
+
+
+
+
+
+
+Shotgun Amp[]
+Add power to shotguns to increase round velocity and damage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Shotgun Damage
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+SMG Amp[]
+Add power to submachine guns to increase round velocity and damage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+SMG Damage
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Sniper Rifle Amp[]
+Add power to sniper rifles to increase round velocity and damage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Sniper Rifle Damage
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Structural Ergonomics[]
+Enhance the ability of armor to bear loads, speeding up cooldown so that powers can be used more often.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Power Recharge Speed
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Thermal Clip Storage[]
+Add compartments to the user's armor to increase the capacity for thermal clips without sacrificing armor integrity.2
+Note: This gear improves the amount of spare ammunition carried for all weapons, not the size of weapon magazines.
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Thermal Clip Capacity
+
++10%
+
++15%
+
++20%
+
++25%
+
++30%
+
+
+
+
+
+
+Vulnerability VI[]
+Use targeting VIs to pinpoint enemy weak points. Aim will be autocorrected to maximize damage.1
+Note: Player aim is not actually assisted by this gear, the only gameplay bonus is to headshot damage.
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Headshot Damage
+
++8%
+
++11%
+
++14%
+
++17%
+
++20%
+
+
+
+
+
+
+Rare Gear[]
+Rare Gear generally applies two bonuses to a multiplayer character equipped with it.
+
+Armored Compartments[]
+Stores additional thermal clips and missiles in armored compartments to shield them from incoming fire.3
+Note: This gear improves the amount of spare ammunition carried for all weapons, not the size of weapon magazines.
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Cobra Missile Capacity
+
++1
+
++1
+
++2
+
++2
+
++3
+
+
+Ammo Capacity
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Assault Loadout[]
+Armor capacitors boost the kinetic coil in handheld weapons for greater firing power, and larger compartments allow for more thermal clips.3
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Thermal Clip Pack Capacity
+
++1
+
++1
+
++2
+
++2
+
++3
+
+
+Weapon Damage
+
++2%
+
++4%
+
++6%
+
++7%
+
++8%
+
+
+
+
+
+
+Barrage Upgrade[]
+Boost the effectiveness of all weapons by increasing stability and thermal clip capacities.2
+Note: This gear improves the amount of spare ammunition carried for all weapons, not the size of weapon magazines.
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Weapon Stability
+
++10%
+
++15%
+
++20%
+
++25%
+
++30%
+
+
+Thermal Clip Capacity
+
++5%
+
++7.5%
+
++10%
+
++12.5%
+
++15%
+
+
+
+
+
+
+Batarian Gauntlet[]
+Batarian gauntlet that turns your heavy melee into a slow, heavy-hitting attack.4
+Note: Characters can still use their original heavy melee by pressing the melee button while sprinting.
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Heavy Melee Damage
+
+600
+
+650
+
+700
+
+750
+
+800
+
+
+
+
+
+
+Berserker Package[]
+Optimize shotgun and armor hydraulic power to increase shotgun and melee damage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Shotgun Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Melee Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Combatives Upgrade[]
+Increase the lethality of the assault rifle and pistol.2
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Assault Rifle Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Pistol Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Commando Package[]
+Optimize pistol and biotic amp power to increase damage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Pistol Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Biotic Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Expert Package[]
+Optimize energy supplies with multicore VIs to increase submachine gun damage and to recharge powers faster.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+SMG Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Power Recharge Speed
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Geth Scanner[]
+Highlight enemy activity nearby with geth scanner technology.4
+Scan range is [Gear Level] meters.This does not stack with other target-scanning effects.
+Note: This gear causes a UI effect similar to that of Hunter Mode.
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Scan Range
+
+10 m
+
+12.5 m
+
+15 m
+
+17.5 m
+
+20 m
+
+
+
+
+
+
+Grenade Capacity[]
+Add extra grenade storage compartments to the user's armor.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Max Grenades
+
++1
+
++2
+
++3
+
++4
+
++5
+
+
+
+
+
+
+Guerrilla Upgrade[]
+Increase the lethality of the sniper rifle and SMG.2
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Sniper Rifle Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+SMG Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Juggernaut Shield[]
+Use high-capacity kinetic barrier generators to provide bonuses to both shield strength and melee damage.2
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Shield Strength
+
++6%
+
++10%
+
++14%
+
++17%
+
++20%
+
+
+Melee Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Martial Biotic Amp[]
+Use an advanced biotic amp to increase the strength of biotic attacks, including melee damage.2
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Biotic Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Melee Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Medi-Gel Transmitter[]
+Short-range transmitters control medi-gel dispensers in teammates' armor, reviving self and nearby teammates simultaneously.3
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Range
+
+10 m
+
+15 m
+
+20 m
+
+25 m
+
+30 m
+
+
+
+
+
+
+Omni-Capacitors[]
+Provide more power to tech abilities to decrease recharge time.2
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Tech Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Power Recharge Speed
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Operative Package[]
+Optimize sniper rifle and tech power damage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Sniper Rifle Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Tech Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Responder Loadout[]
+Optimizes shields for fast recovery and utilizes medi-gel dispensers more efficiently, increasing capacity.3
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Medi-Gel Capacity
+
++1
+
++1
+
++2
+
++2
+
++3
+
+
+Shield Regen Speed
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Shock Trooper Upgrade[]
+Increase the lethality of the shotgun, and increase grenade storage.2
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Shotgun Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Max Grenades
+
++1
+
++1
+
++1
+
++2
+
++2
+
+
+
+
+
+
+Stronghold Package[]
+Optimize shield strength and the speed of shield restoration.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Shields
+
++6%
+
++10%
+
++14%
+
++17%
+
++20%
+
+
+Shield Regen Speed
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+
+
+
+
+Survivor Loadout[]
+Increases standard kinetic barriers as well as additional shield layers if available.3
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Ops Survival Pack Capacity
+
++1
+
++1
+
++2
+
++2
+
++3
+
+
+Shield Strength
+
++6%
+
++10%
+
++14%
+
++17%
+
++20%
+
+
+
+
+
+
+Warfighter Package[]
+Deploy this modification package to increase assault rifle power and grenade storage.1
+
+
+
+
+
+
+
+
+
+Level
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+
+Assault Rifle Damage
+
++4%
+
++6%
+
++8%
+
++10%
+
++12%
+
+
+Max Grenades
+
++1
+
++1
+
++1
+
++2
+
++2
+
+
+
+
+
+
+1Available in Store packs after downloading the Rebellion Pack.2Available in Store packs after downloading the Earth Pack.3Available in Store packs after downloading the Retaliation Pack.4Available in Store packs after downloading the Reckoning Pack.
+
+
+
+

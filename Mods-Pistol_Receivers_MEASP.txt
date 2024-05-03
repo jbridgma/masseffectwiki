@@ -1,0 +1,143 @@
+
+
+
+[Edit this tab]
+
+Basic - Pistol Receiver: Capacitor boosts kinetic coil generators, increasing shot penetration through solid objects.
+Enhanced - Pistol Calibrated Receiver: Allows shots to significantly penetrate solid objects, but reduces clip size.
+Enhanced - Pistol Quick Receiver: Allows shots to significantly penetrate solid objects, but reduces headshot/weak point damage.
+Note:  The Scorpion pistol is unable to equip a Receiver Mod.
+Note:  Pistol penetration damage is not reflected in the displayed weapon stats.
+Note:  Pistol headshot/weak point damage is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Pistol Receiver
+
++38%0.94
+
++42%1.06
+
++44%1.11
+
++46%1.17
+
++48%1.22
+
++50%1.28
+
++52%1.33
+
++54%1.39
+
++56%1.44
+
++58%1.50
+
+Pistol Penetration DamagePistol Penetration Distance (m)
+
+
+Pistol Calibrated Receiver
+
+N/A
+
++44%1.11-12%
+
++48%1.22-13%
+
++52%1.33-15%
+
++56%1.44-17%
+
++58%1.56-18%
+
++63%1.67-20%
+
++67%1.78-22%
+
++71%1.89-24%
+
++75%2.00-25%
+
+Pistol Penetration DamagePistol Penetration Distance (m)Pistol Clip Size
+
+
+Pistol Quick Receiver
+
+N/A
+
++44%1.11-6%
+
++48%1.22-7%
+
++52%1.33-8%
+
++56%1.44-8%
+
++58%1.56-9%
+
++63%1.67-10%
+
++67%1.78-11%
+
++71%1.89-12%
+
++75%2.00-13%
+
+Pistol Penetration DamagePistol Penetration Distance (m)Pistol Headshot/Weak Point Bonus
+
+
+Level Unlocked
+
+1
+
+6
+
+11
+
+21
+
+31
+
+41
+
+51
+
+61
+
+71
+
+81
+
+-
+
+Equipping a Pistol Receiver Mod changes the color of parts of the weapon, lighter or darker, depending on the specific weapon.
+
+
+
+

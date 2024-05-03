@@ -1,0 +1,102 @@
+
+
+
+
+
+Kaushus
+
+Region
+Milky Way / Caleston Rift / Talava
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+1.2 AU
+
+
+Orbital Period
+1.0 Earth Year
+
+
+Keplerian Ratio
+1.728
+
+
+Radius
+6,212 km
+
+
+Day Length
+42.6 Earth Hours
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+249 °C 
+
+
+Surface Gravity
+1.0 g
+
+
+Mass
+0.942 Earth Masses
+
+
+Location: Milky Way / Caleston Rift / Talava System /  Second planet
+
+Prerequisite: Collector Ship (mission) or Project Firewalker: Rosalie Lost and Horizon (mission) (Mass Effect 2)
+
+Description[]
+Home to the spectacular Infinity Caldera, Kaushus is a young planet with extreme tectonic and volcanic activity. With nine supervolcanoes that can throw out at least 1,000 cubic kilometers of dense rock equivalents each, Kaushus' activity has put its atmosphere in a state of shroud. It will likely suffer from global dimming for at least the next ten years. Though much of the surface is no more dangerous than many other inner-ring planets, this extreme tectonic activity has given Kaushus a bad reputation and discouraged all resource exploitation.
+
+Mineral Deposits[]
+Initial Scanner Result: Good
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+6,000
+
+
+Platinum
+
+Medium
+
+5,500
+
+
+Iridium
+
+High
+
+10,500
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

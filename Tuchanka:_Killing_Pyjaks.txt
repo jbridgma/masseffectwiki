@@ -1,0 +1,31 @@
+
+
+
+
+The vermin on Tuchanka are getting into the food stores and need to be dealt with.
+
+Acquisition[]
+Prerequisite: Mordin: Old Blood or Grunt: Rite of Passage
+
+When you speak with the shopkeeper Ratch in the Urdnot Camp, ask about what he's selling. He mentions having problems with a pyjak infestation. Offer to help.
+Ratch can be found at Ratch's Wares on the map.
+
+Walkthrough[]
+
+Use the Defense Gun Controls located next to the Chief Scout of Urdnot Camp. You must attempt to shoot all of the pyjaks in each wave without running out of ammunition, which is displayed in the bottom right-hand corner of the HUD. The targeting reticule is moved using the move and strafe control stick, and firing is done by pressing the Use / Cover / Sprint button.
+The minigame consists of 3 waves: 12 monkeys, then 15, then 18. There are two rocket-firing guns, one mounted on each side of the range, and each is more effective at targeting the opposite side (left gun can take out targets at the right side of the field better, and vice versa). You have 20 rockets per wave to use against the pyjaks, and they restock only at the end of each wave. The guns fire alternately, and the interface will show you which gun side is active.
+The pyjaks run through the field of old tires towards you. If a pyjak reaches the bottom of the screen, it will steal some of the food stores, represented by a red bar beneath the ammunition display. 
+There is a slight delay between pressing the fire button and the rocket being fired, which also takes time to reach the ground. The rocket will hit wherever the targeting reticule was when the rocket left the defense guns, which is not necessarily where it was when the fire button was pressed if the reticule is in motion. Each shot has a moderate blast radius, making targeting somewhat forgiving while also making it possible to kill two pyjaks at once. Take note however that no more than two appear on the field at any given time. 
+
+
+There is a very small chance the weapon will fail to fire, forcing you to take aim and fire again.
+Once the three waves of pyjaks have been dealt with, a message on-screen will inform you that the assignment has been completed. Return to Ratch to complete the assignment, which gives you a 20% discount to his store as well as unlocking free pyjak meat that can be given to Urz the varren beside him (which makes the varren follow Shepard around and become available as a fighter in the camp's pit fight arena).
+The minigame can be played again as many times as you like, although there is no reward for doing so.
+
+Mission Summary[]
+Experience Points: 40 (50)
+Discount at Ratch's Wares
+Pyjak meat available for purchase at Ratch's Wares
+
+
+

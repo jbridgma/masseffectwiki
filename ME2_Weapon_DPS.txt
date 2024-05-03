@@ -1,0 +1,321 @@
+
+
+
+Forums: Index > Watercooler > Weaponry Comparison
+Note: This page has been moved here because it is an interpretation of the raw game data. The opinion was that the page be moved to the forums to preserve the information rather than deleting it outright. 
+
+Contents
+
+1 Weapons Range Comparison
+2 Weapons Damage Rate Comparison
+
+2.1 Conditions
+2.2 Mathematical Equation
+2.3 Step-by-Step Version
+2.4 Weapon Comparison Chart
+
+
+3 References
+
+
+Weapons Range Comparison[]
+Distance in Mass Effect 2 is divided into meters. All weapons, except for Sniper Rifles, define melee range as 3 meters or less and a 100% bonus to damage is given. While at short range, all weapons receive a 25% bonus to damage, save for Sniper Rifles. However, the definitions of range beyond melee vary from weapon to weapon.
+
+All Assault Rifles, Heavy Pistols, and Submachine Guns define short range as 8 meters, medium range as 15 meters and long range as 20 meters.
+All Shotguns define short range as 4 meters, medium range as 8 meters and long range as 12 meters.
+All Heavy Weapons (except for the M-451 Firestorm) define short range as 8 meters, medium range as 20 meters and long range as 30 meters.
+The M-451 Firestorm defines short range as 5 meters, medium range as 8 meters and long range as 10 meters.
+Sniper rifles have a range of up to 30 meters, however the division into short, medium and long ranges is irrelevant, as Sniper Rifles do not have a bonus multiplier at any range.
+Damage multipliers are a linear interpolation between two ranges. For example, at 5 meters an assault rifle will receive a 70% bonus to damage and at 7 meters it will receive a 40% bonus.
+
+Weapons Damage Rate Comparison[]
+Conditions[]
+In order to compare any weapon to another, a consistent measure of time is required. The consistent cycle of time used throughout the equation is the time it takes to empty one magazine and reload another. This allows for a consistent time-frame cycle which encompasses rate of fire, re-fire delay between rounds and reload time, if applicable.
+Certain variables are also held constant. The following DPS equations are based on these conditions:
+
+No abilities or specialty ammunition is in use.
+Feathering is used to minimize the delay between rounds for all weapons.
+All projectiles, including every fragment of a shotgun blast, hit their mark.
+No hitbox multipliers are applied, all shots hit the chest.
+No range multipliers are added.
+Mathematical Equation[]
+The mathematical equation used for weapons damage rate expressed as Damage per Second (DPS) is as follows:
+
+Base DPS = (Magazine Capacity * Base Damage) / [(Magazine Capacity / Fire Mode) * (Fire Mode * [1 / (Rate of Fire / 60)] + Refire Delay) + Reload Delay]
+
+Definitions:
+
+Fire Mode = 3 for 3-round-burst fire mode weapons, 5 for 5-round-burst fire mode weapons, 1 for heavy weapons, single-shot weapons, semi-automatic and fully automatic weapons.
+Rate of Fire = Rounds Per Minute. Obtained from the coalesced.ini file.
+Re-fire Delay = Minimum delay between shots or bursts. Measured in seconds, or 0 for automatic weapons or semi-automatic weapons. Use BurstRefireTime instead of MinRefireTime from the coalesced.ini file to calculate un-feathered firing speed.
+Reload Delay = 1.43 for pistols, 0 for weapons that do not reload, 1.5 seconds for all other weapons.
+Step-by-Step Version[]
+Put another way, the calculation is as follows:
+
+Equation 1 - Seconds per Cycle
+
+Step 1 - Seconds per (between) shot
+
+ROF = Shots per minute / seconds per minute = shots per second. 1 / shots per second = seconds per shot. So, e.g. 700 / 60 = 11.7; 1 / 11.7 = 0.09 seconds per shot.
+Step 2 - Seconds per (between) burst
+
+Shots per burst * seconds per shot + Refire (aka Burst Pause) = seconds per burst. So, e.g. (3 * 0.09) + 0.25 = 0.51 seconds per burst.
+Step 3 - Seconds per mag
+
+Shots per mag / shots per burst = burst per mag. Bursts per mag * seconds per burst = seconds per mag. So, e.g. 24 / 3 = 8 bursts per mag. 8 * 0.51 seconds per burst = 4.1 seconds per mag.
+Step 4 - Seconds per reload
+
+Pistol reloads take 1.43 seconds. All others take 1.5 seconds.
+This is also a fine place to add in a charge-up pause if applicable. For example, the Cain requires a few seconds to charge to reach full power.
+Step 5 - seconds per cycle
+
+Seconds per mag + seconds per reload = seconds per cycle. So, e.g. 4.1 + 1.5 = 5.6 seconds per cycle.
+
+Equation 2 - Damage per Cycle
+
+Damage per shot * shots per mag = damage per cycle. So, 20.5 * 24 = 492
+
+Equation 3 - Damage per Second (DPS)
+
+Damage per cycle / seconds per cycle = damage per second. So, 492 / 5.6 = 89 base DPS.
+Weapon Comparison Chart[]
+Note:
+
+The DPS stats represent DPS with no upgrades / DPS with all upgrades
+The 6th assault rifle damage upgrade is not included as it is only available if you let the refinery workers burn during Zaeed's loyalty mission.
+DPS including innate damage multipliers versus shields, armor and barriers are shown
+Some weapons lack necessary data to accurately calculate DPS:
+M-490 Blackstorm has no data
+Arc Projector DPS is variable
+
+
+
+
+Type
+Name
+Health
+Armor
+Barriers & Shields
+Acquisition
+
+
+Heavy Pistol
+M-3 Predator
+117 / 175
+175 / 291
+117 / 175
+Default
+
+
+M-6 Hand Cannon
+131 / 196
+196 / 327
+131 / 196
+Mordin Recruitment
+
+
+M-5 Phalanx
+110 / 165
+165 / 247
+110 / 165
+Firepower Pack DLC
+
+
+Submachine Gun
+M-4 Shuriken
+135 / 203
+135 / 203
+203 / 338
+Default
+
+
+M-9 Tempest
+148 / 221
+148 / 221
+221 / 369
+Tali Recruitment
+
+
+M-12 Locust
+136 / 204
+170 / 255
+170 / 306
+Kasumi Loyalty
+
+
+Assault Rifle
+M-8 Avenger
+100 / 150
+125 / 200
+125 / 200
+Default
+
+
+M-15 Vindicator
+161 / 241
+201 / 321
+201 / 321
+Garrus Recruitment
+
+
+M-76 Revenant
+204 / 306
+285 / 438
+245 / 398
+
+Collector Ship [1]
+
+
+
+Geth Pulse Rifle
+111 / 166
+128 / 210
+150 / 233
+Tali Recruitment [2]
+
+
+Collector Assault Rifle
+100 / 150
+125 / 200
+125 / 200
+Collector's Edition
+
+
+M-96 Mattock
+290 / 435
+377 / 565
+348 / 522
+Firepower Pack DLC
+
+
+Sniper Rifle
+M-29 Incisor
+129 / 193
+193 / 322
+129 / 193
+Digital Deluxe Edition
+
+
+M-92 Mantis
+112 / 167
+167 / 279
+112 / 167
+Default
+
+
+M-97 Viper
+218 / 328
+295 / 513
+251 / 360
+Thane Recruitment
+
+
+M-98 Widow
+156 / 234
+234 / 391
+156 / 234
+Collector Ship [3]
+
+
+Shotgun
+M-22 Eviscerator
+168 / 252
+210 / 294
+210 / 379
+DLC
+
+
+M-23 Katana
+165 / 247
+165 / 247
+247 / 412
+Default
+
+
+M-27 Scimitar
+207 / 310
+207 / 310
+310 / 465
+Samara Recruitment
+
+
+M-300 Claymore
+164 / 247
+206 / 288
+206 / 370
+Collector Ship [4]
+
+
+Geth Plasma Shotgun
+210 / 315
+210 / 315
+315 / 473
+Firepower Pack DLC
+
+
+Heavy Weapon
+M-100 Grenade Launcher
+833
+1,042
+1,042
+Prologue
+
+
+ML-77 Missile Launcher
+467
+583
+583
+Research
+
+
+M-451 Firestorm
+440
+594
+506
+Zaeed Loyalty
+
+
+M-622 Avalanche
+42
+333
+333
+Research
+
+
+M-920 Cain
+2,500
+2,500
+2,500
+Research
+
+
+Collector Particle Beam
+400
+400
+600
+Horizon
+
+
+Arc Projector
+N/A
+N/A
+N/A
+DLC
+
+
+M-490 Blackstorm
+N/A
+N/A
+N/A
+Pre-order Bonus
+
+[1] Soldier only
+[2] Only for Hardcore or Insanity difficulty level (changed before mission)
+[3] Soldier / Infiltrator only; unique upgrade for Legion
+[4] Soldier / Vanguard only; unique upgrade for Grunt
+
+References[]
+Damage multipliers information: https://web.archive.org/web/20160731152043/https://forum.bioware.com/topic/76803-mass-effect-2-gameplay-data/
+
+
+

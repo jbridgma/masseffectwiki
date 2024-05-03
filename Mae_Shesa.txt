@@ -1,0 +1,58 @@
+
+
+
+
+
+Mae Shesa
+
+Region
+Andromeda / Heleus Cluster / Vaar
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+4.2 AU
+
+
+Orbital Period
+4.9 Earth Years
+
+
+Keplerian Ratio
+3.086
+
+
+Radius
+8,666 km
+
+
+Atm. Pressure
+0.04 atm
+
+
+Surface Temp
+319 °C 
+
+
+Location: Andromeda / Heleus Cluster / Vaar System /  First planet
+
+
+Description[]
+An Outcast mineral mining camp has been recently demolished here. A fragmentary distress call describes the attackers as other exiles. There are no survivors.
+
+Anomaly[]
+Graphite[]
+DATA:
+Graphite
+ANALYSIS:
+This graphite mineral deposit should prove useful to the Initiative for manufacturing.
+Awards a random small amount of Graphite when scanned.
+
+
+
+

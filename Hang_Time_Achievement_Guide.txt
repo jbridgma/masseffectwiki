@@ -1,0 +1,69 @@
+
+
+
+
+Keeping the ND1 Nomad airborne for at least 35 seconds is required to complete the Hang Time Achievement. Improved Boost, Improved Suspension, and Vertical Thrust Upgrade are critical modifications to the vehicle in preparation for the stunt.
+The only place in the Heleus Cluster conducive to very long freefalls is H-047c in the Remav system because of its lighter gravity. The giant horizontal canyon across the center of the map, called the Lethe Rift, provides an ideal testbed for determining how long the Nomad can stay afloat.
+
+
+The basic idea is to travel west, or fast travel to the westernmost Forward Station and cross the adjacent bridge. From there, accelerate eastward along the gradually elevating incline while keeping the chasm to the left-hand side. At the jump-off point that should be at the center of the map, tilt the Nomad's front upwards while mashing the boost and vertical thrust buttons and never let go of the forward button for the entire duration. 
+Be careful not to expend the boost in one go; it should be lightly tapped every time in order to prolong the vehicle's forward motion in freefall. Done efficiently, it becomes possible to cross the entirety of the Rift and land on solid ground to the east, on Acheron Spine.
+
+Controllerless Problems[]
+
+Accomplishing the task on consoles is a trivial matter once all other requirements are met. Doing it with keyboard and mouse without resorting to external modifications or installing a controller is impossible due to the lack of default control over tilting the vehicle's front up.[1] The Nomad will not be able to delay its descent if its forward AND vertical thrusters aren't angled properly against the ground.
+The least intrusive workaround is to edit the keybinds file before booting up the game. Assuming a standard Windows OS setup, modify the ProfOpts_profile file at C:\Users\<YOURUSERNAME>\Documents\BioWare\Mass Effect Andromeda\Save by inserting the following lines[2]: 
+
+
+
+
+
+GstKeyBinding.Keybindings.Concept_VehiclePitchDown.2.axis 0
+GstKeyBinding.Keybindings.Concept_VehiclePitchDown.2.button 31
+GstKeyBinding.Keybindings.Concept_VehiclePitchDown.2.category 2
+GstKeyBinding.Keybindings.Concept_VehiclePitchDown.2.mapping 1
+GstKeyBinding.Keybindings.Concept_VehiclePitchDown.2.mod 255
+GstKeyBinding.Keybindings.Concept_VehiclePitchDown.2.negate 1
+GstKeyBinding.Keybindings.Concept_VehiclePitchDown.2.type 2
+
+
+
+
+
+On starting up the game, go to Settings > Controls > Key Bindings and remove the assigned key for the Nomad's brake/reverse button (S by default) to ensure no loss of momentum. The workaround works once the vehicle tilts up while "flying" across the Lethe Rift and also holding down the S button in addition to W (or whatever the keybind is for accelerate).
+After attaining the achievement, simply exit the game and erase the added lines from ProfOpts_profile then restore the keybind for reverse after restarting the game to go back to default controls. It's even easier if a backup of ProfOpts_profile was made prior to modifications and then pasted back.
+
+
+References[]
+
+↑ https://answers.ea.com/t5/Bug-Reports/Hang-Time-Achievement-on-the-PC/td-p/5981600
+
+↑ https://answers.ea.com/t5/Bug-Reports/Hang-Time-Achievement-on-the-PC/m-p/6087582/highlight/true#M20292
+
+
+
+
+
+
+Mass Effect: Andromeda Guides
+
+
+
+
+Completion
+
+Walkthrough • Dialogue • Inventory • Experience • Remnant Decryption Puzzles • Hang Time Achievement Guide • Codex Entry Guide (Mass Effect: Andromeda)
+
+
+Profiles
+
+Soldier • Engineer • Adept • Sentinel • Vanguard • Infiltrator • Explorer
+
+
+Other
+
+Squad Members • Merchants • Skills • Research • Development • Narrative Actions
+
+
+
+

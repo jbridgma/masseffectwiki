@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+This article is about the mission that introduces the AVP feature. For the Nexus development points system, see Andromeda Viability Points. For the multiplayer currency in Mass Effect: Andromeda, see Andromeda Points.
+
+Andromeda Viability Points lead to Perks that directly empower your efforts. Because as Pathfinder, you choose what is important to life in Heleus. Speak to Director Addison and her assistant about AVP, and decide what experts will shape and strengthen your Initiative.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak with Addison on Nexus
+2.2 Speak with Addison's assistant Brecka
+2.3 Spend AVP to gain Perks
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+The mission is added to the journal after placing an outpost  on Eos.
+
+Walkthrough[]
+AVP represents Andromeda Viability Points . This mission introduces Pathfinder Ryder to AVP mechanics and, upon completion, allows you to access the system from the Tempest control room. 
+This is a simple talk-to-people and interact-with-things mission. No need to fuss over weapon loadouts.
+
+Speak with Addison on Nexus[]
+Find and talk to Addison in Colonial Affairs at the Operations wing of the Nexus to learn about the AVP system. Each action you take to increase the viability of the Heleus Cluster will earn AVP, and at certain thresholds, Ryder will gain a Nexus Level and the opportunity to bring a new group of specialists out of cryostasis.
+
+Speak with Addison's assistant Brecka[]
+After speaking to Addison, talk to her assistant, Vladimir Brecka, standing next to the center console. He can give more information about the AVP system, and will direct you to the AVP Status Control panel nearby. 
+Spend AVP to gain Perks[]
+Access the console to bring up the AVP interface. Notice on the left that there is at least 1 Cryo Point available. Explore the three categories and the perks within, then choose a perk to spend the point on.
+Spending a Cryo point and closing the interface will complete the mission.
+
+Rewards[]
++270 XP
+
+Priority Ops Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+A Better Beginning
+
+Missions (Mass Effect: Andromeda)
+
+A Trail of Hope I
+
+
+
+

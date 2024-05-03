@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+This article is about the skill in Mass Effect: Andromeda Multiplayer. For the armor set in Mass Effect: Andromeda, see Remnant Armor.
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Remnant Armor is a passive Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+Experimental power armor that enhances mobility, melee attacks, and defense. Remnant Armor "converts" wasted energy from weapons, powers, and melee attacks to improve its augmentations as you deal damage.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Experimental Armor
+
+
+
+Damage Resistance, melee damage, and movement speed bonuses increase as you damage enemies with weapons, powers, and melee attacks. Without successful attacks, these bonuses decrease over time.
+
+Maximum Damage Resistance Buff: 50
+Maximum Melee Damage Buff: 50%
+Maximum Movement Speed Buff: 15%
+Time Before Bonuses Falloff (s): 3
+
+
+
+2
+
+Regeneration
+
+
+
+-
+
++25% Shield regeneration
++25% Health Regeneration
++25% Health & Shield Regeneration Delay Reduction
+
+
+
+3
+
+Defense Systems
+
+
+
+-
+
++25% Max Health
++25% Max Shields
+
+
+
+4
+
+Regeneration
+
+
+
+-
+
++50% Health Regeneration Cap
++50% Health Regeneration
++25% Health & Shield Regeneration Delay Reduction
+
+
+
+4
+
+Power Armor
+
+
+
+-
+
++30% Weapon Weight Capacity
++50% Maximum Melee Damage Buff
+
+
+
+5
+
+Ramping Defense
+
+
+
+-
+
++40 Maximum Damage Resistance Buff
+
+
+5
+
+Evasion
+
+
+
+-
+
++15% Maximum Movement Speed Buff
++100% Damage Resistance While Evading
++50% Damage Resistance While Airborne
+
+
+
+6
+
+Invulnerability
+
+
+
+-
+
++1.5 Length of invulnerability after you kill an enemy (s)
+
+
+6
+
+Maximum Efficiency
+
+
+
+-
+
++100% Falloff
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Human Juggernaut
+
+
+

@@ -1,0 +1,149 @@
+
+
+
+Firebase Condor is a multiplayer map included in the Mass Effect 3: Resurgence Pack. It is located on one of Palaven's moons. 
+Contents
+
+1 Description
+2 Locations
+
+2.1 Lower Ridge
+2.2 Camp
+2.3 Transport Lot
+2.4 Mining Site
+2.5 Upper Ridge
+
+
+3 Player Notes
+4 References
+
+
+Description[]
+A warzone outpost located on one of Palaven's moons, Firebase Condor represents a crucial asset in the defense of the turian homeworld, providing the beleaguered turian fleet with a place to refuel and repair. Its loss could grant the Reapers unparalleled access to the Inner Council Theater.[1]
+
+Locations[]
+Lower Ridge[]
+A small clearing behind the lower level of the Camp. Players begin the match at this location.
+
+Connects to the Camp (directly).
+Camp[]
+A large multi-level area containing several fortified positions.
+
+Connects to the Lower Ridge (directly).
+Connects to the Mining Site (through a large archway).
+Connects to the Mining Site (before a large ramp).
+Connects to the Transport Lot (up a continuous climbable cover wall).
+Connects to the Transport Lot (up two small ramps).
+There is an ammo dump located in the dark shadows on the lower level of the Camp on the left side of the large metal wall towards the Mining Site. 
+There is a second ammo dump located in the dark shadows on the upper level of the Camp next to a small yellow and grey box and the back wall of the elevated fortification position.
+
+Transport Lot[]
+A flat area containing two M-080s. Extraction takes place at this location in the corner behind the trucks.
+
+Connects to the Upper Ridge (up a ramp).
+Connects to the Upper Ridge (up two different ladders).
+Connects to the Camp (down a continuous climbable cover wall).
+Connects to the Camp (down two small ramps).
+Connects to the Mining Site (down a ramp).
+There is an ammo dump located next to a light stand behind the trucks.
+
+Mining Site[]
+A large multi-level area containing mining equipment and a large hill.
+
+Connects to the Camp (through a large archway).
+Connects to the Camp (after a large ramp).
+Connects to the Transport Lot (up a ramp).
+Connects to the Upper Ridge (at the top of a long curving ramp).
+There is an ammo dump next to a light stand behind the mining equipment.
+There is a second ammo dump located on the rock wall underneath the large curving ramp up to the Upper Ridge.
+
+Upper Ridge[]
+A multi-level elevated area with multiple fortifications.
+
+Connects to the Mining Site (at the top of a long curving ramp).
+Connects to the Transport Lot (down a ramp).
+Connects to the Transport Lot (down two different ladders).
+Connects to the Transport Lot (down a low drop off).
+Connects to the Transport Lot (down a high drop off).
+Player Notes[]
+
+
+Grenade Resupply Location
+Bronze
+Silver
+Gold
+Platinum
+
+
+Camp (Lower Level)
+2
+1
+1
+1
+
+
+Camp (Upper Level)
+2
+1
+1
+1
+
+
+Mining Site (Light Stand)
+2
+1
+1
+1
+
+
+Mining Site (Rock Wall)
+2
+1
+1
+1
+
+
+Transport Lot
+2
+1
+1
+1
+
+
+The map takes place on a hill, and is a very hard map to control. Facing down the hill, the right hand side is very open and ideal for sniping, but the left has more cover and is a better holdout location, but sniping is hindered by the presence of a large bunker.
+This map is among the most difficult maps to beat, as the constant firepower provided by the geth, the rapid closing the Reapers offer and the tactical superiority of Cerberus can easily overwhelm players scattered around the large map. Players are advised to stick together and move together covering each others flanks.
+Avoid the Lower Ridge. It's the only real dead end on the map, and players can find themselves in a tight spot if they end up there during later waves.
+Conversely, if the players are prepared with movement-impeding/point-defense powers such as Sentry Turret, Singularity, and mines, the entrance to the Lower Ridge serves as the map's only defensive chokepoint. There's little advance warning to work on enemies such as Atlases and Banshees, but also limited avenues of fire for infantry-class enemies.
+References[]
+
+↑ http://blog.bioware.com/2012/04/06/mass-effect-3-resurgence-pack/
+
+
+
+
+Mass Effect 3 Multiplayer Maps
+
+
+Original Maps
+
+Firebase Dagger • Firebase Ghost • Firebase Giant • Firebase Reactor • Firebase Glacier •  Firebase White
+
+
+Resurgence Maps
+
+Firebase Hydra • Firebase Condor
+
+
+Rebellion Maps
+
+Firebase Jade • Firebase Goddess
+
+
+Earth Maps
+
+Firebase Rio • Firebase Vancouver • Firebase London
+
+
+
+
+

@@ -1,0 +1,342 @@
+
+
+
+
+
+Asari Sword
+
+
+
+
+
+
+General Info
+
+Category
+Melee
+
+
+Rarity
+Ultra Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+0
+
+
+
+
+
+
+
+								Singleplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+400-880
+
+
+
+
+
+The Asari Sword is a melee weapon in Mass Effect: Andromeda.
+
+Contents
+
+1 Description
+2 Features
+3 Strategies
+4 Stats
+5 Development
+
+
+Description[]
+Asari huntresses are masters of silent stalking and killing. Many combine blades and biotics, charging forward at mind-bending speeds before swinging their swords with enhanced power. Huntresses are rare, making such swift assassinations necessary for asari military victory.
+
+Features[]
+The Asari Sword is tied with the Krogan Hammer as the game's most powerful melee weapon. It lets its wielder perform a short-ranged, lightning-quick dash move with every strike. This dash basically works like a downscaled Biotic Charge with no cooldown and without the stagger effect on hit. It also allows the user to phase through solid obstacles (not walls) and makes them invincible during the striking animation. 
+The weapon can only be used by two characters: Pathfinder Ryder and the Asari Duelist.
+
+Strategies[]
+The Asari Sword is widely considered one of the best melee weapons in the game due to its extremely powerful special ability, which makes the user invincible while swinging. This allows for fighting enemies up close with almost no fear of death. It is especially effective against large, solo enemies that are difficult to defeat with guns.
+While undoubtedly powerful, using an Asari Sword properly requires a bit of practice due to the dash move having a propensity for missing the target if the distance is misjudged or the target was not properly acquired prior to initiating the attack.
+Stats[]
+
+
+Rank
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+
+Melee Damage
+
+400
+
+453
+
+506
+
+560
+
+613
+
+666
+
+720
+
+773
+
+826
+
+880
+
+Development[]
+
+
+Rank
+
+ Research Cost
+
+ Omni-Gel Canister
+
+ Beryllium
+
+ Fluorite
+
+ Vanadium
+
+ Augmentation Slots
+
+
+I
+
+150
+
+40
+
+150
+
+70
+
+20
+
+0
+
+
+II
+
+175
+
+40
+
+180
+
+90
+
+20
+
+4
+
+
+III
+
+200
+
+50
+
+200
+
+100
+
+30
+
+4
+
+
+IV
+
+225
+
+50
+
+230
+
+110
+
+30
+
+4
+
+
+V
+
+250
+
+60
+
+250
+
+120
+
+30
+
+4
+
+
+VI
+
+275
+
+60
+
+270
+
+130
+
+30
+
+4
+
+
+VII
+
+300
+
+70
+
+280
+
+140
+
+40
+
+4
+
+
+VIII
+
+325
+
+70
+
+300
+
+140
+
+40
+
+4
+
+
+IX
+
+350
+
+70
+
+310
+
+150
+
+40
+
+4
+
+
+X
+
+375
+
+80
+
+320
+
+150
+
+40
+
+4
+
+
+Total
+
+2625
+
+590
+
+2490
+
+1200
+
+320
+
+N/A
+
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

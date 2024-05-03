@@ -1,0 +1,1051 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+
+The following page contains various unused text strings for the game Mass Effect.
+
+Contents
+
+1 Developer Notes
+
+1.1 Caleston/Therum[1]
+
+
+2 Journal Entries
+
+2.1 Caleston
+2.2 Cerberus Brainchild
+2.3 Feros: The Thorian
+2.4 UNC: Stunt Club
+
+
+3 Codex
+
+3.1 Aliens: Non-Sapient Creatures: Harvesters
+3.2 Weapons, Armor and Equipment: Grenades
+3.3 Weapons, Armor and Equipment: Weapons: Javelin
+
+
+4 Locations
+
+4.1 Clusters
+4.2 Systems
+4.3 Planets and Miscellaneous
+4.4 Galaxy Map Descriptions
+
+
+5 Equipment
+
+5.1 Manufacturers
+5.2 Weapons, Armors and Tools
+
+5.2.1 Armors
+5.2.2 Omni-Tools
+
+
+5.3 Weapon and Armor Mods
+
+5.3.1 Armor Upgrades
+5.3.2 Grenade Upgrades
+
+
+5.4 Miscellaneous Gear
+
+
+6 Achievements
+7 Training Skills
+8 References
+
+
+Developer Notes[]
+Caleston/Therum[1][]
+
+
+
+Joker: "Okay, commander. The base camp is about half a klick down the canyon. And stick to the shade, or you'll get yourself cooked pretty fast down there."
+
+
+
+
+
+
+
+Over a radio in the shed, Shepard overhears a conversation between SCIENTIST and the rest of the expedition where SCIENTITST [sic] refuses to evacuate.
+
+
+
+
+
+
+
+[AMBIENT CUTSCENE]: A geth dropship buzzes the gatehouse and ocntinues [sic] further down the canyon.
+
+
+
+
+
+
+
+[AMBIENT CUTSCENE]: A geth dropship buzzes overhead, firing rockets which miss Shepard. It then drops geth into cover in front of Shepard, and continues to drop more squads to replace losses.
+
+
+
+
+
+
+
+CUTSCENE: Liara runs into the tower, pursued by mercs. One is about to fire at her, but another stops him and warns they have to take Liara alive. Liara escapes into the tower and activates the shields/defenses, trapping herself inside. The mercs then notice the player.
+
+
+
+
+
+
+
+Mercenary Leader: "Heads up, they're trying to flank!"
+
+
+
+
+
+
+
+CONVERSATION: Liara talks to the player and unlocks the door to the dig stie. [sic]
+
+
+
+
+
+
+
+CUTSCENE: The Armature walks out blocking the exit. The catwalk the player entered on is blocked off as well.
+
+
+
+
+
+
+
+CONVERSATION: Liara calls out to the player from the tower.
+
+
+
+
+
+
+
+CONVERSATION: Liara talks to the player and then unlocks the tower.
+
+
+
+
+
+
+
+This door console appears to be unpowered. You will have to restore power before the door can be opened.
+
+
+
+
+
+
+
+It worked [sic]
+
+
+
+
+
+
+
+CUTSCENE: Liara and the player jump from the tower as the purge activates.
+
+
+Journal Entries[]
+Caleston[]
+
+
+
+GanglandAdministrator Tombiri told you that Liara is being held by Smiley, a local salarian drug lord. Unfortunately, Smiley is quite paranoid, and is sealed inside the station's former medical bay.
+
+[2]
+
+
+
+
+
+GanglandYou've learned Liara's current location from the criminals on Throw Down.
+
+[3]
+
+
+
+
+
+Confront SmileyYour team and Sessa Tarrent have killed Raciloma. You now have a pass into Smiley's heavily guarded sanctum. Head to the former medical bay in Throw Down Plaza.
+
+[4]
+
+
+
+
+
+TurnaboutYou've been deceived; Smiley never had Liara. Administrator Tombiri has secretly been running the Miners' Union. She lied to get you to eliminate Smiley for her. It's time to pay a little visit to the Administration Office.
+
+[5]
+
+
+
+
+
+Talk to SessaAdministrator Tombiri suggested you work with Sessa Tarrent to get at Smiley. Sessa works for the Miners' Union, an organization which appears to have its fingers in a number of unsavory pies. She can be found in the Refinery level.
+
+[6]
+
+
+
+
+
+Reporting InSessa Tarrent asked you to help her team destroy a cache of Cartel drugs. They are at a test bore site outside the mining station; exit through the garage below Throw Down Plaza.
+
+[7]
+
+
+
+
+
+Reporting InThe test bore site, and the Cartel's drug cache, have been destroyed. Report back to Sessa Tarrent in the refinery.
+
+[8]
+
+
+
+
+
+AmbushYour destruction of the drug cache has drawn out Raciloma, the younger brother of Smiley. He will meet to negotiate with Sessa in the shut-down southern line of the refinery. Your team will precede them to the meeting site, and prepare an ambush to kill Raciloma.
+
+[9]
+Cerberus Brainchild[]
+
+
+
+Cerberus BrainchildJudging by the armor these dead men are wearing, this ship must belong to Cerberus.
+
+[10]
+
+
+
+Cerberus BrainchildThe co-ordinates from the ship's captain have led you to this planet. It's possible the krogan cyborg you fought on the ship came from this planet.
+
+[11]
+
+
+
+Cerberus BrainchildYou've linked up with an Alliance Spy. Though she's concerned about the krogan cyborgs, she believes that's the least of your worries. If she's correct, Cerberus is hiding an AI on a planet somewhere in this system.
+
+[12]
+
+
+
+Cerberus BrainchildCerberus was using an AI to create the krogan cyborgs, but you destroyed the AI at it's [sic] own request. Chiara Rossi has promised to relay the information you uncovered to the Alliance.
+
+[13]
+
+
+
+Explore ShipFind out what happened to the Cerberus soldiers.
+
+[14]
+
+
+
+
+
+Find out What Cerberus is Up ToLook for clues to the origins of the krogan cyborgs.
+
+[15]
+
+
+
+
+
+Trace Transmitter SignalsFind each transmitter and trace the signal. When you're done, contact Chiara.
+
+[16]
+
+
+
+
+
+Find the AIInfiltrate the base on the moon and locate the AI.
+
+[17]
+
+
+
+
+
+Escape the FacilityEscape the facility and rendezvous with Chiara.
+
+[18]
+Feros: The Thorian[]
+
+
+
+Feros: Colony PaidYou destroyed the Thorian and saved the colonists of Zhu's Hope. While the colony itself will be shut down, ExoGeni will pay off the colonists to ensure their silence. You have also been granted the Cipher, which will give you a clearer understanding of the visions the beacon on Eden Prime burned into your mind.
+
+[19]
+UNC: Stunt Club[]
+
+
+
+Search for MarkersYou've discovered an interesting marker tucked away in a very difficult to reach location. There is no indication who left it there, but it seems to be set up as some sort of challenge.
+
+[20]
+
+
+
+Search for MarkersFind as many of these markers as you can.
+
+[21]
+
+
+
+Search for MarkersYou found all the markers set in the challenge.
+
+[22]
+Codex[]
+Aliens: Non-Sapient Creatures: Harvesters[]
+
+
+
+
+
+Audio: Harvestershttps://masseffect.fandom.com/wiki/File:Codex_Harvester_ME1.wav
+
+
+“Harvesters are gigantic insects, easily distinguished by their long necks and incredible size. The origin of these creatures is a mystery, though recently they have begun to appear unexpectedly on multiple uncharted worlds in the Attican Traverse.
+
+Some have suggested they have been in hibernation, and like locusts have emerged after a long period of inactivity. Others point out that the bizarre morphology of harvesters runs counter to known laws of adaptive evolution. Their forward-loaded body and undersized wings suggest they were a product of illegal genetic engineering. 
+
+Regardless of their origin, harvesters are fast, efficient killers. They attack anything that enters their territory with toxic venom and razor-sharp claws. Despite their ungainly appearance, their exoskeletons can only be penetrated by heavy weapons. Attacking them while in a vehicle is dangerous, attacking them on foot is suicidal.”
+
+[23]
+
+
+Weapons, Armor and Equipment: Grenades[]
+
+“Grenades are hand-tossed explosive charges, useful against organic and synthetic targets. The Alliance's standard Mark 14 grenade is designed with retractable stabilizing fins. If the fins are extended, the grenade can be tossed like a discus, and glides long distances. With the fins retracted, the grenade can be lobbed over walls and other obstacles. Most grenades have a 10-second fuse. They can be triggered earlier by a signal from any military hardsuit's built-in communications gear.
+
+The Mark 14 grenade can be modified in the field for special purposes. Common modifications include high explosive, flashbang, and thermite paste incendiary charges. More exotic varieties include charged particle proton charges, Bose-Einstein "cryo" condensates, and cobalt-salted micro-nukes.”
+
+[24]
+Weapons, Armor and Equipment: Weapons: Javelin[]
+
+“The Javelin is an experimental close-assault weapon fitted on a handful of newer Alliance warships. It consists of a rack of two or more disposable disruptor torpedo tubes bolted or magnetically slung on to a ship's exterior armored hull. The torpedoes are fired on converging trajectories, and detonate in a precisely timed sequence that allows the dark energy emitted by their warheads to resonate. This magnifies the resulting space-time warp effects.
+
+Javelin mounts are most often fitted on swift frigates, which expect to enter 'knife fight' torpedo ranges as a matter of course. Javelins may also be fitted on heavier ships during short range engagements, such as trans-relay assaults. They are particularly useful in this role for dreadnoughts, which are unable to lay their main guns on targets at close range.”
+
+[25]
+Locations[]
+Clusters[]
+Athena Nebula[26]
+Batarian Annex[27]
+Hanar Yarstrid[28]
+Savian Abyssal[29]
+Systems[]
+Abaddon Upsilon 26706[30]
+Ankyra[31]
+Argos Rho 20303[32]
+Argos Rho 20304[33]
+Attican Beta 25010[34]
+Attican Beta 25012[35]
+Attican Beta 25013[36]
+Artemis Tau 13096[37]
+Hades Gamma 12510[38]
+Hanar Yarstrid 9094[39]
+Hanar Yarstrid 9095[40]
+Hanar Yarstrid 9096[41]
+Hawking Eta 24410[42]
+Kepler Iota 10394[43]
+Kepler Iota 10395[44]
+Kepler Iota 10396[45]
+Noveria Omicron 18035[46]
+Palaven System[47]
+Sentry Omega 25944[48]
+Sentry Omega 25945[49]
+Styx Theta 15044[50]
+Thessia System[51]
+Voyager Xi 18412[52]
+Voyager Xi 18413[53]
+Planets and Miscellaneous[]
+Ahti[54] (*)
+Amur[55] (*)
+Asteroid 718 Hasebe[56]
+Bonestell Platform[57] (**)
+Caleston[58]
+Deimos[59] (**)
+Hadoram[60]
+Klenfe[61]
+Loromer[62]
+Nyshaban[63]
+Ortaned[64]
+Palaven[65]
+Shanxi[66]
+Thessia[67]
+Tuoni[68] (*)
+Ukko[69] (*)
+(*) Part of Cerberus Brainchild
+(**) Part of Mars (Downloadable Content)
+
+Galaxy Map Descriptions[]
+
+
+
+Asteroid 718 HasebeHasebe is a rocky asteroid with no atmosphere and little gravity. It has been equipped with three crude fusion torches, which are being used to move it into the orbit of the nearby planet Proteus. On its current trajectory it will actually strike the colony.
+
+[70]
+
+
+
+
+
+Bonestell PlatformBonestell Mars Observation Platform was built in 2150, with major funding provided by the national space agencies of the United States and Japan. It is currently administered by the Systems Alliance, which assumed control of all Martian interface facilities in 2163. The SA is now solely responsible for the security of Mars' Prothean excavation sites.
+
+
+Bonestell Platform maintains an orbit that keeps it on the opposite side of the planet from the natural satellite of Deimos. That moon has been built up as a communications hub and shipping port. Bonestell serves the same communications role on the hemisphere of Mars facing away from Deimos. Since all commercial traffic is channeled through the security checkpoints on Deimos, Bonestell lacks significant port facilities.
+
+[71]
+
+
+
+
+
+CalestonGeysers of molten suphur dot the rugged landscape of this volcanic moon, its atmosphere a toxic layer of sulphur dioxide. Eldfell-Ashland Energy established mining operations on Caleston to extract the scattered deposits of element zero leftover from an ancient meteor strike, making this moon the largest source of starship drive core material in the Attican Traverse.
+
+[72]
+
+
+
+
+
+DeimosThe larger of Mars' two tiny moons has been built up as an orbital port. Initially developed by a consortium of European and Russian commercial backers, administration was handed over to the Systems Alliance in 2163.
+
+Today Deimos serves as an entrepot for cargo moving to and from the surface, as well as a customs inspection and medical quarantine for immigrants and visitors. All departures from Mars must pass through Deimos' screening facilities; given the possibility of private explorers discovering Prothean artifacts, all baggage undergoes a thorough inspection.
+
+The Systems Alliance 1st Fleet, nominally based in Arcturus, maintains a cruiser squadron and frigate flotilla at Deimos. They are tasked with protecting the Prothean ruins and assisting customs enforcement.
+
+Founded: 2124
+Population: 2700 permanent residents
+Capital: Asaph Hall Gateway Facility
+
+Orbital Distance:  23,460 km (from Mars)
+Orbital Period: 30.2 Earth Hours
+Mean Radius: 6.3 km
+Day Length: 30.2 Earth Hours
+Atmospheric Pressure: Trace
+
+Surface Temperature: -40 Celsius
+
+[73]
+Generic Descriptions
+
+
+
+
+Cold as a comet, massive icefields coat the rocky core of this remote planet.
+
+[74]
+
+
+
+Abrasive sandstorms ravage the ragged surface of this distant desert world.
+
+[75]
+
+
+
+A large gas giant.
+
+[76]
+
+
+
+Clouds of sulphur and ash spew from the volcanic surface of this inhospitable planet, obscuring the light of the nearby star.
+
+[77]
+
+
+
+The surface of this planet is coated with a toxic algae that thrives in the humid atmosphere.
+
+[78]
+
+
+
+A scant layer of stunted vegetation survives in the acrid atmosphere of this desolate planet.
+
+[79]
+Equipment[]
+Manufacturers[]
+The following manufacturers' gear is not normally accessible in-game (unless stated otherwise):
+
+Batarian State Arms
+
+
+
+Batarian State ArmsThe batarian government does not trust private industry to create their military hardware. BSA is a vast nationalized institution infamous for its waste and corruption. It produces effective, if unethical, chemical weapons and a line of Nuclear, Chemical, and Biological (NBC) protective armor.
+
+[80]
+Cerberus Skunkworks
+
+
+
+Cerberus SkunkworksThe operatives of Cerberus produce their own specialist hardware for black ops wetwork. Their weapons are advanced particle beams with excellent shield penetration, damage, and accuracy. Their field hardsuits feature advanced protective measures and sophisticated anti-hacking measures.
+
+[81]
+Hahne-Kedar Shadow Works
+
+
+
+Hahne-Kedar Shadow WorksFounded a decade ago, this Hahne-Kedar subsidiary is a place for younger employees to "think outside the box". HKSW supplies weapons and armor to Alliance special forces units. In keeping with the parent company's corporate philosophy, products are rugged, reliable, and require less maintenance than competitors.
+
+[82]
+Jormangund Technology
+
+
+
+Jormangund TechnologyA rising star of post-contact human industry, Jormangund returns consistent profits through aggressive integration of alien technologies. Mainly known for advanced optical computers and AI "blueboxes," the company has recently developed a "micro gravitic" personal weapon that effectively fires small disruptor torpedoes.
+
+[83]
+Additionally, there were several other manufacturers that cannot be found in the game:
+
+Ahial Syndicate[84]
+Fal 3 Manufactory[85]
+
+
+
+Fal 3 ManufactoryFal 3 is a privately-owned planet in salarian space. An entire world devoted to the industrial process, its primary revenue stream is generated by the construction and sale of private spacecraft. To supplement income, Fal 3 Manufactory has launched a line of prototype omni-tools, though they are expensive and extremely rare.
+
+[86]
+Ihiko Defense Labs[87]
+Kahai Genetics[88]
+Kinshasa Fabrications[89]
+
+
+
+Kinshasa FabricationsA human-controlled private company, Kinshasa Fabrications is known to make the finest body armor in the galaxy. When it comes to personal protection suits, no expense is spared - as reflected in the exorbitant cost of their products.
+
+[90]
+Lenskaya Materials[91]
+Matheias Council[92]
+Mirku Clan[93]
+Orion Engineering[94]
+Tixpehual Industrial[95]
+Weapons, Armors and Tools[]
+Armors[]
+Champion[96]
+WinterCamo (manufactured by Lenskaya Materials)[97]
+Omni-Tools[]
+Binary Ultra Tool[98]
+Bit Ghost Tool[99]
+Weapon and Armor Mods[]
+The following weapon upgrades and ammunition upgrades were either cut or repurposed:
+
+Flashlight Gear[100]
+Flechette Gear[101]
+Flywheel Gear[102]
+Harpoon Rounds
+
+
+
+Harpoon RoundsHarpoon rounds are built of material that condenses on impact to penetrate armor, then shreds into shrapnel in the softer medium of flesh. They are widely considered unethical.
+
+[103]
+Hyper Rail
+
+
+
+Hyper RailA hyper rail upgrade extends the barrel of a weapon and "overclocks" its mass accelerator equipment. Its hypervelocity slugs impact with enough force to be useful against light armored vehicles, but produce significant heat and recoil.
+
+[104]
+Ladar Gear[105]
+Rapid Fire[106]
+Recon Swarm Gear[107]
+Scope Gear[108]
+Silencer Gear[109]
+Simulated Optics[110]
+Striker Rounds[111]
+Armor Upgrades[]
+Automed Gear[112]
+Capacitor Gear[113]
+Cushioning Gel[114]
+
+
+
+Cushioning GelRunning in body armor is difficult and even painful. Cushioning gel eases the strain on joints, allowing for easier, faster movement.
+
+[115]
+Firewall Gear[116]
+Hazard Seals
+
+
+
+Hazard SealsInstallation of Hazard Seals provides a hardsuit with additional protection against general environmental hazards.
+
+[117]
+Pressurized Seals
+
+
+
+Pressurized SealsInstallation of pressure seals provides a hardsuit with additional level protection against Nuclear, Chemical, and Biological (NBC) hazards.
+
+[118]
+Secondary Power Gear[119]
+Stealth Gear[120]
+Grenade Upgrades[]
+Proton Explosive[121]
+
+
+
+Proton ExplosiveProton Explosives release a powerful blast of charged particles that are particularly effective against kinetic barrier shields.
+
+[122]
+Miscellaneous Gear[]
+ADS Gear[123]
+AL-2[124]
+AH-5[125]
+AM-4[126]
+BA-9[127]
+Biotic Jammer Pulse[128]
+Cypher[129]
+Dermal Charge Pulse[130]
+ECM Pulse[131]
+Electrical Boost Gear[132]
+ELink[133]
+Exahertz Processor Gear[134]
+Exposed Core Pulse[135]
+Genetics Database Gear[136]
+H-6[137]
+Holotron[138]
+IP-3[139]
+KF Ground Gear[140]
+LRS-[141]
+M-7[142]
+MediTool[143]
+MM Stabilizer Gear[144]
+OT-1[145]
+Repulsor Field Pulse[146]
+SD Ground Gear[147]
+Shield Siphon Pulse[148]
+TK Ground Gear[149]
+Trojan Horse Gear[150]
+Universal Combat Optics[151]
+Achievements[]
+
+
+Achievement name
+
+Achievement description
+
+Note
+
+
+Unknown
+
+Requirement: Complete Playthrough with All Squad Members AliveReward: Health increases by 10%[152]
+
+Made impossible after the option to save both Kaidan and Ashley on Virmire was removed from the game
+
+
+Cerberus Hunter
+
+Requirement: Complete the investigation into the Cerberus group.[153]
+
+See Cerberus Brainchild
+
+
+Lockdown Survivor
+
+Requirement: Complete the investigation into Jormangund Technology.[154]
+
+Related to cut DLC only known as "DLC_EvilCorp" on which there is no other information
+
+
+Savior of the Ancients
+
+Requirement: Resolve the situation on Mars.[155]
+
+See Mars (Downloadable Content)
+
+
+Training Skills[]
+
+
+
+Stamina:Increases health
+Recommended for: 
+
+Soldier, Vanguard, Engineer
+
+
+
+
+
+
+
+Focus:Improves rate of fire for weapons and abilities by increasing accuracy restoration
+Recommended for: 
+
+Sentinel, Soldier, Engineer
+
+
+
+
+
+
+
+Coordination:Increases maximum accuracy of all weapons and abilities
+Recommended for: 
+
+Infiltrator, Adept, Sentinel
+
+
+
+
+
+
+
+Precision:Increases damage/duration of all weapons and abilities
+Recommended for: 
+
+Infiltrator, Vanguard, Adept
+
+
+[156]
+
+References[]
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 181129 - 181154
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144284, 144285
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144286, 144287
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144289, 144290
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144291, 144292
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144295, 144296
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144297, 144300
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144299
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144301, 144302
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177752, 177753
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177754, 177755
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177756, 177757
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177760, 177761
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177762, 177763
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177764, 177765
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177766, 177767
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177768, 177769
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177770, 177771
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 143897, 143898
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 157626, 157627
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 157630
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 157628
+
+↑ codex_alien_non_sapient: 156903 - 156906; Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 153461 - 153464
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 162630
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 171320
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138065
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135729
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135814
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135730
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135778
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135802
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135773
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135774
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135795
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135797
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135798
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135787
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135806
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135814
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135815
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135816
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135770
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135766
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135767
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135768
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135813
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135812
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135800
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135801
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135764
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138066
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135791
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135792
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 178509
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 178504
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 165279
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 178740
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135825
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 179940, 179941
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135820
+
+↑ Plot Database: LE1.Uncharted.Worlds.Klenfe_Done
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 165922, 165923
+
+↑ Plot Database: LE1.Uncharted.Worlds.Nyshaban_Done
+
+↑ Plot Database: LE1.Uncharted.Worlds.Otaned_Done
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135821
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135819
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 135822
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 178505
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 178506
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 165681
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 178741
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138073
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 177941
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138084
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138085
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138086
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138087
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138088
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 138089
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 174114
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 174117
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 174123
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 174120
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 127799
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125365
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 151002
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 127801
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 127800
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125368
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 151005
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 127794
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 127804
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 127797
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125380
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 127796
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 142502
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 142428
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 156237
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 142541
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125883
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125880
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125882
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 174116
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 174125
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125886
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125879
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125884
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125881
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125877
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 169799
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 169790
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125891
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125889
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 169755
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 169810
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125890
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 174122
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 174119
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125892
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125893
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 169808
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 169863
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125901
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125385
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125387
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125386
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125388
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125899
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125377
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125900
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125898
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 134777
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125378
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 134775
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125897
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 134778
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125382
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125376
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125381
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125910
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125384
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125383
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125379
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 134776
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125389
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125895
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125907
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125896
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125904
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 134779
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 125894
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 180189
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 180235
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 180236
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 180238
+
+↑ Mass Effect/BioGame/CookedPC/Packages/Dialog/GlobalTLK.upk or Mass Effect Legendary Edition/Game/ME1/CookedPCConsole/Startup_INT.pcc: 144891 - 144894
+
+
+
+
+

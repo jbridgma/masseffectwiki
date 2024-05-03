@@ -1,0 +1,170 @@
+
+
+
+
+
+Salarian Infiltrator
+
+
+
+
+
+
+Class
+Infiltrator
+
+
+Race
+Salarian
+
+
+Rarity
+Rare
+
+
+Availability
+Initially unlockable
+
+
+Abilities
+Combat LeapDisruptor Omni-Blade
+
+
+Salarians have a high-speed metabolism that allows them to function on just one hour of sleep a day. They also process information much faster than other sentient races.
+Salarian infiltrators specialize in long-range suppression, flanking, and stealth-based combat. These agile combatants are deadly and difficult to detect on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 600 / Health: 500
+
+
+Class: Salarian Operative
+
+
+ Energy Drain
+
+
+
+
+ Tactical Cloak
+
+
+
+
+ Proximity Mine
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Salarian Infiltrator executes a series of up to three punches.
+Heavy Melee (Disruptor Omni-Blade) – The Salarian Infiltrator slashes with a forked omni-blade discharging electrical energy.
+Grab (Omni-Blade Stab) – The Salarian Infiltrator drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Leap) – The Salarian Infiltrator jumps out of the way of incoming attacks.
+The Salarian Infiltrator can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Energy Drain is the biggest asset of a Salarian Infiltrator. It allows them to not only inflict heavy shield damage against enemies but to also repair their own shields.
+Proximity Mine can be used very effectively even on higher difficulties as, if it detonates whilst the player is in cloak, it can do lots of damage. However, it is worth maximizing one or the other but not both of Energy Drain and Proximity Mine in order to have maximum shields and weapon damage, and one very strong offensive power.
+A duration maxed Tactical Cloak is very useful on Gold, when it allows a player to be invisible for the time it takes to activate an objective (such as Signal Boosters etc). Without the duration bonus a cloak will barely last halfway through a device (de-)activation.
+Because the Tactical Cloak's cooldown is based on the length of time it is used, Salarian Infiltrators should consider a heavy weapons loadout. Using for example a N7 Valiant or Krysae with a M-300 Claymore can offer unprecedented firepower and so long as you use the Cloak judiciously, you can retain a 3 second cooldown as opposed to for example, 20 seconds. This can also be used in tandem with Energy Drain too, you could use the Cloak, then the Drain immediately afterwards and still maintain a 3 second cooldown. Just remember to break the cloak after a period of time has passed. This also subsequently bypasses the biggest weakness of an Infiltrator, which is the inability to regenerate shields when using Tactical Cloak on a regular basis. What it does not do however is protect you from enemies bypassing the "Shield Gate" aspect of your overall status if you have not had adequate time to properly recover (the time shields and health take to recover naturally).
+While a light loadout might seem the best option for a salarian, the Salarian Infiltrator works wonders with accurate and damaging weapons, who also tend to be quite heavy. With the right weapons, you can be a frontline fighter with self-buffing capabilities with Energy Drain, crowd control with Proximity Mine and the ability to slip out of difficult battles with Tactical Cloak.
+A damaging long-range weapon might be preferable for this approach. Weapons like the M-96 Mattock, the N7 Valkyrie and especially the N7 Crusader should work wonders.
+Cerberus[]
+Proximity Mine is arguably more useful than Energy Drain against Cerberus on lower difficulties - when fully upgraded, it can be used like a grenade with a cool down, allowing for takedown of groups of troopers.
+However, on higher difficulties Energy Drain is much more effective as it can strip the shields/barrier from a multitude of the harder enemies, allowing for fast elimination of Phantoms and Nemeses.
+Energy Drain can be used to remove the shields of Centurions, exposing them to a headshot, especially as it can momentarily stagger them.
+Tactical Cloak can allow Infiltrators to sneak out of close quarters situations, and to sneak past Guardians and attack them from behind if it is too tricky to shoot them through the slit in their shields. This problem can be countered however by using a Piercing Mod on a weapon, as it then mitigates the need to aim for the hole in the shields. One should still be careful around Guardians however as they can flank you, or let other troops flank you while you are trying to deal with said enemies. Since the update, the Tactical Cloak's duration has been drastically decreased, and therefore is not as effective for avoiding said enemies.
+Collectors[]
+The salarian is somewhat useful against this faction. Energy Drain is good against barriers and replenishes your own while draining theirs.
+Another useful technique is to use the Proximity Mine to debuff enemies, with the Damage Taken evolution of the power, then use a powerful Sniper Rifle or Shotgun to take down the enemy quickly.
+Geth[]
+The salarian is one of the best Infiltrator races to play as when fighting the geth as a player can use a maxed out Energy Drain to not only restore shields completely but to reduce the damage they take by 40% for ten seconds, after which they can simply use it on another target.
+Salarians looking to play Gold should grab Damage instead of Armor Boost; this will ensure that Drain removes all of the shields from weaker enemies.
+Proximity mine is comparatively redundant, as a player can instead use the headshots that can be performed on all geth enemies to do high damage to them. As well as this, the use of Energy Drain is far more useful since it can strip both shields and energy from geth units. Proximity mine should only really be used against geth to stagger them to relieve pressure on a team mate.
+Despite their power, Hunters should be targeted as a priority, since the Hunters are more than capable of flanking you, and your team, and subsequently stunning or incapacitating you and them.
+Energy Drain with the radius upgrade can be used to effectively reveal cloaked Hunters, even by accidentally using it on other nearby enemies.
+Reapers[]
+Proximity Mine is infinitely more useful against all of the Reaper troops except for Banshees. It can be used to guard against Husks/Swarmers that come to close, and does decent damage to armoured enemies.
+However on higher difficulties, it is better to equip a harder hitting weapon such as the Javelin to deal with these armoured enemies, and max out Energy Drain to strip the barriers from Banshees, stopping them from getting any closer to you.
+Tactical Cloak is incredibly useful, as it allows the player to retreat safely from a Brute/Banshee that has gotten too close.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

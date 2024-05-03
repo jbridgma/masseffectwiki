@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+
+
+Aramus
+
+Appearances
+Mass Effect (cut)
+
+
+Aramus is a character who was cut from Mass Effect during development. Unlike other Caleston characters, information about this character is vastly missing.
+During the confrontation between Cartel and Union men in the mine tunnels in Caleston: Last Man Standing, a Union man remarks that Aramus is the one who hired Sessa Tarrent to work for the Union.[1] Other data-mined information suggests Aramus had a rather significant role in the plot at one point, as Commander Shepard would eventually meet them in the refinery and could threaten to arrest or kill them, or have them intimidated by either Ashley Williams or Urdnot Wrex in order to reveal Liara T'Soni's location in Caleston: Last Man Standing, similarly to the treatment available with Nonya Tombiri.[2] It also appears Aramus was linked to a "mole", and could be killed.[3]
+
+References[]
+
+↑ Mass Effect Cut Content/Caleston: Last Man Standing: Infiltrate Gangs Voicelines#lav60_fredmazzei (1)
+
+↑ Mass Effect Cut Content/Caleston Miscellaneous Voicelines#lav40_aramus; Plot Database: LE1.DLC_Caleston.LAV40_Cutscene_Flags.Set_WrexIntimidatesAramus_True; LE1.DLC_Caleston.LAV40_Cutscene_Flags.Set_AshIntimidatesAramus_True
+
+↑ Plot Database: LE1.DLC_Caleston.Last_Man_Standing.Arrest_A_Boss.Arrest_Aramus.Aware_of_Mole_DELETE; LE1.DLC_Caleston.Last_Man_Standing.Arrest_A_Boss.Arrest_Aramus.Found_Mole_DELETE; LE1.DLC_Caleston.Last_Man_Standing.Infiltrate_Gangs.Tombiri_Confrontation.OBSOLETE_Aramus_Killed; LE1.DLC_Caleston.Last_Man_Standing.Arrest_A_Boss.Arrest_Aramus.Set_Killing_Aramus
+
+
+
+
+

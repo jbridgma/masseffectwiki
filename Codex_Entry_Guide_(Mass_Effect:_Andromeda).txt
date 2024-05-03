@@ -1,0 +1,1293 @@
+
+
+
+This article or section is a stub. You can help Mass Effect Wiki by  expanding it. 
+Similar to the Codex in the first Mass Effect game, some entries in Mass Effect: Andromeda require specific conditions to be unlocked. In previous games Codex entries are updated by the next game, but in Mass Effect: Andromeda some entries are revised depending on unfolding developments. The following is a list of all Codex entries in Mass Effect: Andromeda, along with their requisites for unlocking or updating.
+
+Contents
+
+1 The Journey So Far
+2 The Andromeda Initiative
+3 Ark Species
+4 Andromeda Species
+5 Planets And Locations
+6 Technology
+7 Ships And Vehicles
+
+
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+The Journey So Far[]
+
+
+Entry
+
+Requirement
+
+
+Finding a Home
+
+
+Battle on the Archon's Flagship
+
+Hunting the Archon - entry depends on accomplishing either of mutually exclusive objectives: Rescue the captive salarians or Rescue the captive krogan
+
+
+The Jardaan Discovery
+
+The Journey to Meridian - entry depends on uncovering the reveal about angara being artificial creations
+
+
+The Moshae's Rescue
+
+A Trail of Hope II - entry depends on chosen decision during the mission objective Talk to Moshae Sjefa
+
+
+Crisis on Habitat 7
+
+Planetside - entry depends on
+choice taken during the mission objective Protect Fisher
+accomplishing or failing the objective Optional: Investigate the alien ruins
+accomplishing or failing the objective Optional: Explore the cave
+accomplishing or failing the objective Optional: Investigate the crashed alien ship
+accomplishing or failing the objective Optional: Locate Greer
+opinion about inheriting the Pathfinder role
+
+
+The Traitor on Kadara Port
+
+Hunting the Archon - entry depends on initial rapport with Sloane Kelly and Vehn Terev's fate
+
+
+Eos: The First Outpost
+
+A Better Beginning - entry depends on
+reactivating the Remnant vault
+chosen outpost purpose during the mission objective Establish an outpost at an appropriate site
+
+
+The Nexus Council
+
+Epilogue: Home and Away - entry depends on chosen ambassador in this mission
+
+
+The Battle for Meridian
+
+Meridian: The Way Home - entry depends on
+sibling's gender
+if all four Pathfinders ensured Nozomi Dunn's survival
+
+
+First Contact: The Angara
+
+Entries depend on completion of Helping Havarl's Scientists and/or Stage a Rescue
+
+
+A Crew Like No Other
+
+
+Nakmor Drack
+
+A Better Beginning
+entry started after helping him with the kett on Fairwinds Basin
+entry amended after formal introductions
+entry appended after completing the objective Find Spender on the Nexus in Nakmor Drack: Krogan Betrayal
+
+
+Cora Harper
+
+A Better Beginning
+entry started after entering the Tempest
+entry amended after formal introductions
+
+
+Romantic Entanglements
+
+
+
+
+Kallo Jath
+
+A Better Beginning
+entry started after entering the Tempest's bridge
+entry amended after formal introductions
+entry appended after asking about Kallo and Gil's apparent feud
+entry amended when Gil starts ignoring Kallo over comms, worsening the feud
+
+
+Liam Kosta
+
+A Better Beginning - entry started after entering the Tempest
+
+
+Lexi T'Perro
+
+A Better Beginning
+entry started after entering the Tempest
+entry amended after formal introductions
+entry appended after showing dissected kett to Jaal, content depends on whether Jaal is given hope for exaltation's reversibility or not
+
+
+Peebee B'Sayle
+
+A Better Beginning
+entry started after escaping the Eos vault
+entry amended after formal introductions
+
+
+Vetra Nyx
+
+A Better Beginning
+entry started after entering the Tempest's bridge
+entry amended after formal introductions
+
+
+Gil Brodie
+
+A Better Beginning
+entry started after entering the Tempest's bridge
+entry appended after getting an invite to a poker game
+
+
+Suvi Anwar
+
+A Better Beginning
+entry started after entering the Tempest's bridge
+entry amended after formal introductions
+entry amended after discussion on her religious beliefs and Ryder's own stance on this
+
+
+Jaal Ama Darav
+
+A Trail of Hope I
+entry started after formal introductions
+
+
+Agent of Change
+
+
+A New Path
+
+
+
+
+A Devil's Bargain
+
+Truth and Trespass - entry depends on chosen decision during mission objective Speak to the impostor in Kadara's caves
+
+
+The First Generation
+
+The Little Things That Matter - entry depends on
+completing the mission
+chosen decision during mission objective Contact Addison on Tempest vidcon
+
+
+A Punishment to Fit the Crime
+
+Nakmor Drack: A Future for our People - entry depends on chosen decision during mission objective Deal With Spender
+
+
+The Primus Offer
+
+
+Dissension in the Ranks - entry depends on chosen decision while talking to the Primus during the mission objective Investigate the building
+Meridian: The Way Home - entry updates if the mission objective Primus: Enemy of my enemy is unlocked
+
+
+Ryder
+
+
+Ongoing Psychological Profile: Pathfinder Ryder
+
+Entry depends on
+dominant conversation tone choices
+action/inaction regarding Narrative Actions
+
+
+The Ties That Bind
+
+Entry depends on
+attitude towards Alec Ryder's death
+whether the sibling was visited during their coma
+being honest or lying about Alec's demise to the sibling upon their reawakening
+being honest or lying about whether humanity has a home when the sibling asks
+completion of Ryder Family Secrets
+
+
+Exploring Heleus
+
+
+Power Play for Kadara Port
+
+High Noon - entry depends on who's controlling Kadara Port by the end of this mission
+
+
+An Ancient Mind
+
+Uncovering the Past - entry depends on Ancient AI's fate by the end of this mission
+
+
+The Krogan Exiles
+
+Search for the Stolen Remnant Drive Core - entry depends on who gets the Remnant drive core by the end of this mission
+
+
+Fuelling Exploration
+
+entry depends on completion of From the Dust and The Remnant Tiller
+
+The Andromeda Initiative[]
+
+
+Entry
+
+Requirement
+
+
+Known Associates
+
+
+Peebee
+
+A Better Beginning - available after formal introductions on the Tempest after her inclusion as a squad member
+
+
+Kallo Jath
+
+A Better Beginning - available after formal introductions after completing the objective Go to the bridge
+
+
+Vetra Nyx
+
+A Better Beginning - available after formal introductions after completing the objective Go to the bridge
+
+
+Gil Brodie
+
+A Better Beginning - available after formal introductions after completing the objective Go to the bridge
+
+
+Lexi T'Perro
+
+A Better Beginning - available after formal introductions after completing the objective Go to the bridge
+
+
+Nakmor Drack
+
+A Better Beginning - available after formal introductions on the Tempest after his inclusion as a squad member
+
+
+SAM
+
+
+Prologue: Hyperion - available at the beginning
+A Better Beginning - appended after completing the objective Speak with SAM on the Hyperion
+Ryder Family Secrets - complete this mission for appended entry
+
+
+Scott Ryder
+
+
+mutually exclusive with the Sara Ryder entry
+
+Prologue: Hyperion - complete Optional: Check on your brother
+available after cutscene on Hyperion's bridge if optional objective failed
+Hunting the Archon - complete this mission for appended entry
+Meridian: The Way Home - complete this mission for appended entry
+
+
+Sara Ryder
+
+
+mutually exclusive with the Scott Ryder entry
+
+Prologue: Hyperion - complete Optional: Check on your sister
+available after cutscene on Hyperion's bridge if optional objective failed
+Hunting the Archon - complete this mission for appended entry
+Meridian: The Way Home - complete this mission for appended entry
+
+
+Alec Ryder
+
+
+Prologue: Hyperion - available after cutscene on Hyperion's bridge
+Planetside - complete this mission for appended entry
+
+
+Cora Harper
+
+Prologue: Hyperion - available after cutscene on Hyperion's bridge
+
+
+Jaal Ama Darav
+
+A Trail of Hope I - available after formal introductions after completing the objective Return to the Tempest
+
+
+Suvi Anwar
+
+A Better Beginning - available after formal introductions after completing the objective Go to the bridge
+
+
+Liam Kosta
+
+Planetside - available at the beginning
+
+
+Dr. Ellen Ryder
+
+
+Prologue: Hyperion - available after cutscene on Hyperion's bridge
+Ryder Family Secrets - complete this mission for appended entry
+
+
+The Initiative
+
+
+The Andromeda Initiative
+
+Prologue: Hyperion - available at the beginning
+
+
+Andromeda Initiative: Golden Worlds
+
+Prologue: Hyperion - available after cutscene on Hyperion's bridge
+
+
+Glossary of Terms
+
+Prologue: Hyperion - available at the beginning
+
+
+Andromeda Initiative: Nexus Uprising
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Andromeda Initiative: Jien Garson
+
+
+Prologue: Hyperion - available at the beginning
+Nexus Reunion - appended after meeting with Nexus leaders
+Ryder Family Secrets - complete this mission for appended entry
+
+
+Andromeda Initiative: Launch
+
+Prologue: Hyperion - available at the beginning
+
+
+Andromeda Initiative: Militia and APEX
+
+
+Nexus Reunion - speak with Tiran Kandros
+Task: Getting to Know the Nexus - appended after completing the objective Speak with Kandros
+
+
+The Nexus
+
+
+Nexus: Pathfinder HQ
+
+A Better Beginning - available after completing the objective Speak with Tann at the Nexus Pathfinder HQ
+
+
+The Nexus
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Nexus: Tiran Kandros
+
+
+Nexus Reunion - speak with Tiran Kandros
+Task: Getting to Know the Nexus - appended after completing the objective Speak with Kandros
+
+
+Nexus: Andromeda Initiative Director Tann
+
+Nexus Reunion - speak with Jarun Tann
+
+
+Nexus: Hydroponics
+
+A Better Beginning - available after speaking with settlers on the Nexus' Docking Bay after completing the objective Establish an outpost at an appropriate site
+
+
+Nexus: Cultural Exchange
+
+
+A Better Beginning - available after speaking with settlers on the Nexus' Docking Bay after completing the objective Establish an outpost at an appropriate site
+A Trail of Hope II - appended after completing the objective Return with the Moshae to Aya
+
+
+Nexus: Leadership
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Nexus: Heleus News Service
+
+Available after first conversation with Davis Qar
+
+
+Nexus: Nakmor Kesh
+
+Nexus Reunion
+speak with Nakmor Kesh
+appended after speaking with Nakmor Drack during the first conversation with him aboard the Tempest
+
+
+Nexus: William Spender
+
+Nakmor Drack: Krogan Betrayal - available after completing the objective Find Spender on the Nexus
+
+
+Nexus: Foster Addison
+
+Nexus Reunion - speak with Foster Addison
+
+
+Pathfinders
+
+
+Pathfinders: AI Partners
+
+A Better Beginning - available after completing the objective Speak with SAM on the Hyperion
+
+
+Pathfinders: Salarian Pathfinder
+
+Hunting the Archon
+available after completing the objective Infiltrate the kett ship
+appended after returning to the Tempest upon completion of the objective Escape the kett ship
+
+
+Pathfinders: Asari Pathfinder
+
+Cora Harper: Asari Ark - available after completing the objective Speak with Cora on the Tempest
+
+
+Pathfinders: Implants
+
+A Better Beginning - available after completing the objective Speak with SAM on the Hyperion
+
+
+Role of a Pathfinder
+
+Prologue: Hyperion - available at the beginning
+
+
+Pathfinders: Turian Pathfinder
+
+Turian Ark: Not Dead Yet - available after completing the objective Speak with the turian leader
+
+Ark Species[]
+
+
+Entry
+
+Requirement
+
+
+Asari
+
+
+Asari: History
+
+Prologue: Hyperion - available at the beginning
+
+
+Asari
+
+Prologue: Hyperion - available at the beginning
+
+
+Asari: Culture and Society
+
+Prologue: Hyperion - available at the beginning
+
+
+Asari: Biology
+
+Prologue: Hyperion - available at the beginning
+
+
+Humans
+
+
+Humans: Systems Alliance
+
+Prologue: Hyperion - available at the beginning
+
+
+Humans: N7
+
+
+Prologue: Hyperion - talk to  David Fisher after cutscene on Hyperion's bridge
+available at the beginning of Nexus Reunion if skipped
+
+
+Humans: Early Spaceflight
+
+A Better Beginning - take the Space-X rocket in the Pathfinder's Quarters
+
+
+Krogan
+
+
+Krogan: Overlord Nakmor Morda
+
+
+
+
+Krogan: Culture and Society
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Krogan: Biology
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Krogan: History
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Krogan
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Salarians
+
+
+Salarians: History
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Salarians
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Salarians: Culture
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Salarians: Biology
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Turians
+
+
+Turians: Culture and Society
+
+Nexus Reunion - available after first meeting with Tiran Kandros
+
+
+Turians
+
+Nexus Reunion - available after first meeting with Tiran Kandros
+
+
+Turians: Biology
+
+Nexus Reunion - available after first meeting with Tiran Kandros
+
+
+Turians: History
+
+Nexus Reunion - available after first meeting with Tiran Kandros
+
+Andromeda Species[]
+
+
+Entry
+
+Requirement
+
+
+Angara
+
+
+Angaran Culture: Law and Politics
+
+
+
+
+Angara: Evfra de Tershaav
+
+A Trail of Hope I - available after completing the objective Enter the Angaran Resistance Headquarters
+
+
+Angara: Culture
+
+Helping Havarl's Scientists - available after completing the objective Return to Kiiran Dals
+
+
+Angaran Culture: Military Doctrine
+
+
+
+
+Akksul
+
+Jaal Ama Darav: Friend or Foe? I - available after completing the objective Speak to Jaal on the Tempest
+
+
+Angara: Spirituality
+
+A Trail of Hope II - available after completing the objective Meet Evfra at the Resistance HQ
+
+
+Angara: Lost Colony Worlds
+
+A Trail of Hope II - available after completing the objective Meet Evfra at the Resistance HQ
+
+
+Angara: Languages
+
+Helping Havarl's Scientists - available after completing the objective Return to Kiiran Dals
+
+
+Angara: The Roekaar
+
+A Trail of Hope I - available after completing the objective Return to the Tempest
+
+
+Angara: Technology
+
+Helping Havarl's Scientists - available after completing the objective Return to Kiiran Dals
+
+
+Angaran Culture: Economics
+
+
+
+
+Angara: The Resistance
+
+A Trail of Hope I - available after completing the objective Return to the Tempest
+
+
+Angara
+
+
+A Trail of Hope I - available after completing the objective Enter the Angaran Resistance Headquarters
+Helping Havarl's Scientists - updated after completing the objective Return to Kiiran Dals
+
+
+Angara: Biology
+
+
+
+
+Angara: History
+
+Available after first conversation with Avela Kjar
+
+
+Angara: Moshae Sjefa
+
+A Trail of Hope II - available after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Kett
+
+
+Kett: Fiend
+
+A Trail of Hope II - available after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Kett: Ascendant
+
+
+
+
+Kett: The Archon
+
+
+A Trail of Hope I - available after completing the objective Enter the Angaran Resistance Headquarters
+A Trail of Hope II - initial entry overwritten after completing the objective Take the shuttle to the Aya vault
+
+
+Unknown Species / Kett
+
+
+initially described as "Unknown Species"
+
+Planetside - available after first contact with David Fisher
+Nexus Reunion - formally named afer speaking with Foster Addison
+A Trail of Hope II - appended after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Kett: The Archon's Sword
+
+Hunting the Archon - available after returning to the Tempest upon completion of the objective Escape the kett ship
+
+
+Kett: Technology
+
+A Trail of Hope II - available after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Kett: Destined
+
+Available after first Destined kill
+
+
+Kett: Anointed
+
+
+A Better Beginning - available after first Anointed kill
+A Trail of Hope II - appended after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Kett: Chosen
+
+
+A Better Beginning - available after first Chosen kill
+A Trail of Hope II - appended after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Kett: Secret Intelligence
+
+
+
+
+Kett: Wraith
+
+
+A Better Beginning - available after first Wraith kill
+A Trail of Hope II - appended after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Kett: Behemoth
+
+Hunting the Archon - available after completing the objective Kill the exalted krogan and the kett
+
+
+Kett: Biology
+
+A Trail of Hope II - available after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Kett: Primus
+
+Hunting the Archon - available after returning to the Tempest upon completion of the objective Escape the kett ship
+
+
+Kett: Culture
+
+Hunting the Archon - available after returning to the Tempest upon completion of the objective Escape the kett ship
+
+
+Kett: Exaltation
+
+A Trail of Hope II - available after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Flora and Fauna
+
+
+Andromeda Wildlife: Overview
+
+A Better Beginning - available after completing the objective Escape the vault
+
+
+Andromeda Wildlife: Manta 
+
+Planetside - triggered when Pathfinder Ryder and Liam Kosta notice flying creatures overhead after traversing the section of the path riddled by lightning strikes
+
+
+Outlaws
+
+
+Outlaws: Agent
+
+
+
+
+Outlaws: Adhi
+
+available after first Adhi kill (domesticated variant, not Wild Adhi)
+
+
+Outlaws: The Collective
+
+
+
+
+Outlaws: Berserker
+
+
+
+
+Outlaws: Saboteur
+
+available after first Saboteur kill (Outlaw or Roekaar variants equally acceptable)
+
+
+Outlaws: Sharpshooter
+
+available after first Sharpshooter kill (Outlaw or Roekaar variants equally acceptable)
+
+
+Outlaws: Pariah
+
+
+
+
+Outlaws: Hydra
+
+
+
+
+Sloane Kelly
+
+
+Hunting the Archon - available after completing the objective Meet Sloane Kelly in the Outcast headquarters on Kadara Port
+High Noon - appended after completing the objective Meet Sloane at the Charlatan's specified location
+
+
+Reyes Vidal
+
+
+Hunting the Archon - available after completing the objective Speak to the Resistance contact at Kralla's Song.
+High Noon - appended after completing the objective Meet Sloane at the Charlatan's specified location
+
+
+Outlaws: Raider
+
+available after first Raider kill (Outlaw or Roekaar variants equally acceptable)
+
+
+Outlaws: Anarchist
+
+
+
+
+Outlaws: Outcasts
+
+Hunting the Archon - available after speaking with the Outcast Recruiter on Kadara Market
+
+
+The Remnant
+
+
+Remnant: Interfacing
+
+A Better Beginning - available after accomplishing the objective Defeat the hostile bots
+
+
+Remnant Data Core
+
+
+
+
+Poc
+
+
+
+
+Remnant: Creators
+
+A Better Beginning - available after completing the objective Escape the vault
+
+
+Remnant Breacher
+
+A Better Beginning - available after first Breacher kill
+
+
+Remnant: Decryption
+
+A Better Beginning - available after accomplishing the objective Defeat the hostile bots
+
+
+Remnant Destroyer
+
+available after first Destroyer scan or kill
+
+
+Remnant Architect
+
+
+
+
+Remnant Nullifier
+
+available after first Nullifier kill
+
+
+Remnant Assembler
+
+A Better Beginning - available after first Assembler kill
+
+
+Unknown Technology / The Remnant
+
+
+initially described as "Unknown Technology"
+
+Planetside - available after encountering massive alien structures across a chasm
+available after meeting with Alec Ryder if the above is skipped
+Nexus Reunion - updated at the beginning of the mission
+A Better Beginning - updated after accomplishing the objective Defeat the hostile bots
+
+
+Remnant Observer
+
+A Better Beginning - available after first Observer kill
+
+
+Remnant Abyssal
+
+
+
+
+Planets And Locations[]
+
+
+Entry
+
+Requirement
+
+
+Planets And Locations
+
+
+Habitat 7
+
+Planetside - available at the beginning
+
+
+Elaaden
+
+available upon first landing on the world
+
+
+Havarl
+
+available upon first landing on the world
+
+
+Unknown Phenomenon / The Scourge
+
+
+initially described as "Unknown Phenomenon"
+
+Prologue: Hyperion - available after cutscene on Hyperion's bridge
+Planetside - appended entry at the beginning of the mission
+Nexus Reunion - formally named as The Scourge after speaking with Jarun Tann
+Updated on encountering Remnant structures infested by Scourge tendrils
+A Trail of Hope II - appended after returning to the Tempest upon completion of the objective Reach the shuttle
+
+
+Aya
+
+
+A Trail of Hope I - available after completing the objective Follow Paaran Shie
+Hunting the Archon - appended after returning to the Tempest upon completion of the objective Interrogate Vehn Terev
+
+
+The Andromeda Galaxy
+
+Prologue: Hyperion - available at the beginning
+
+
+Meridian
+
+A Trail of Hope II - available after completing the objective Take the shuttle to the Aya vault
+
+
+Port Meridian
+
+
+
+
+H-047c
+
+Available upon first landing on the world
+
+
+Ryder-I
+
+
+
+
+Eos
+
+A Better Beginning
+available after completing the objective Land on Eos
+updated after completing the objective Establish an outpost at an appropriate site
+
+
+Black Hole: H-012 "Ketos"
+
+A Trail of Hope I
+available after completing the objective Go to the Onaon system
+appended after completing the objective Return to the Tempest
+
+
+Voeld
+
+available upon first landing on the world
+
+
+Khi Tasira
+
+
+
+
+Kadara
+
+available upon first landing on the world
+High Noon - appended after completing the objective Meet Sloane at the Charlatan's specified location
+
+Technology[]
+
+
+Entry
+
+Requirement
+
+
+Exploration Tools
+
+
+Scanner
+
+Prologue: Hyperion - reset the power relay
+
+
+Field Repurposing
+
+Planetside - available on first encounter with a supply cache
+
+
+Jump-Jets
+
+Planetside - available when Liam Kosta recommends using jump-jets to navigate
+
+
+Technology: Consumable Resources
+
+Planetside - available on first obtained resource
+
+
+Omni-Tools
+
+Prologue: Hyperion - available at the beginning
+
+
+Research and Development
+
+
+Technology: Materials
+
+A Better Beginning - available after unlocking Site 1: Promise's research center
+
+
+Technology: Weapon and Armor Mods
+
+A Better Beginning - available on first insertion of a weapon or armor mod
+
+
+Technology: Augmentations
+
+available on first weapon or armor crafting with included augmentation
+
+
+Technology: Research Center
+
+A Better Beginning - available after unlocking Site 1: Promise's research center
+
+
+Settling Heleus
+
+
+Technology: Charting Andromeda
+
+Prologue: Hyperion - available at the beginning
+
+
+Communications and QEC
+
+Nexus Reunion - available after meeting with Nexus leaders
+
+
+Technology: Forward Stations
+
+A Better Beginning - available after completing the objective Call down a forward station
+
+
+Technology: Mining
+
+A Better Beginning - available after the first scan of a mineral node
+
+
+Technology: Terraforming
+
+A Better Beginning - available after completing the objective Escape the vault
+
+
+Cryogenic Stasis
+
+Prologue: Hyperion - available at the beginning
+
+
+Tech and Biotics
+
+
+Technology: Element Zero (Eezo)
+
+Prologue: Hyperion - available at the beginning
+
+
+Technology: FTL Drive
+
+Prologue: Hyperion - available at the beginning
+
+
+Technology: Mass Effect Fields
+
+Prologue: Hyperion - available at the beginning
+
+
+Technology: Artificial Intelligence 
+
+A Better Beginning - available after completing the objective Speak with SAM on the Hyperion
+
+
+Technology: Biotics
+
+Planetside - available after Cora Harper's biotic rescue of Dr. Harry Carlyle and Hayes
+
+Ships And Vehicles[]
+
+
+Entry
+
+Requirement
+
+
+Ships And Vehicles
+
+
+Ark Paarchero
+
+
+Nexus Reunion - speak with Jarun Tann about the arks
+Hunting the Archon
+appended after entering the ark's cryobay upon completion of the objective Locate the kett flagship in the Tafeno system
+updated after returning to the Tempest upon completion of the objective Escape the kett ship
+
+
+ND1 Nomad
+
+A Better Beginning - available after completing the objective Scan containers to find a vehicle
+
+
+The Tempest
+
+A Better Beginning - available after completing the objective Go to your ship
+
+
+Remnant: Starships
+
+
+
+
+The Verakan
+
+
+
+
+Ark Leusinia
+
+Nexus Reunion - speak with Jarun Tann about the arks
+
+
+Tempest: ODSY Drive
+
+A Better Beginning - available after scanning the Tempest's drive core
+
+
+Tempest: Technology 
+
+A Better Beginning - available after speaking with Kallo Jath after completing the objective Go to the bridge
+
+
+Tempest: Research Capabilities
+
+A Better Beginning - available after completing the objective Go to your ship
+
+
+Tempest: Stealth System
+
+A Better Beginning - available after completing the objective Go to the bridge
+
+
+Ark Natanus
+
+Nexus Reunion - speak with Jarun Tann about the arks
+
+
+Kett Starships
+
+A Trail of Hope I - available after completing the objective Go to the Onaon system
+
+
+Tempest: Laboratories
+
+A Better Beginning - available on first visit to the tech lab
+
+
+Ark Hyperion
+
+Prologue: Hyperion - available at the beginning
+
+
+
+
+
+Mass Effect: Andromeda Guides
+
+
+
+
+Completion
+
+Walkthrough • Dialogue • Inventory • Experience • Remnant Decryption Puzzles • Hang Time Achievement Guide • Codex Entry Guide (Mass Effect: Andromeda)
+
+
+Profiles
+
+Soldier • Engineer • Adept • Sentinel • Vanguard • Infiltrator • Explorer
+
+
+Other
+
+Squad Members • Merchants • Skills • Research • Development • Narrative Actions
+
+
+
+

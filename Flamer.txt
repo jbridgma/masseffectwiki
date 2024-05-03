@@ -1,0 +1,201 @@
+
+
+
+
+
+
+
+This article is about the tech power Flamer in Mass Effect 3. For the heavy weapon in Mass Effect 2, see M-451 Firestorm. For the Flamethrower skill in Mass Effect: Andromeda, see Flamethrower.
+
+Flamer is a tech power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Flamer[]
+Fire a powerful short-range flame attack. The flames will persist for a max duration and can be canceled early for a faster recharge.
+Highly effective against armor.
+
+Recharge Speed: 8 sec
+Damage Per Second: 200
+Duration: 5 sec
+Range: 10 m
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 6.40 sec
+Damage Per Second: 200
+Duration: 5 sec
+Range: 10 m
+
+
+Rank 3: Damage[]
+Increase damage by 20%.
+
+Recharge Speed: 6.40 sec
+Damage Per Second: 240
+Duration: 5 sec
+Range: 10 m
+
+
+Rank 4: Damage/Reach[]
+
+
+
+Damage
+Increase damage by 30%.
+
+Recharge Speed: 6.40 sec
+Damage Per Second: 300
+Duration: 5 sec
+Range: 10 m
+
+
+Reach
+Increase range by 50%.
+
+Recharge Speed: 6.40 sec
+Damage Per Second: 240
+Duration: 5 sec
+Range: 15 m
+
+
+
+Rank 5: Damage/Duration[]
+
+
+
+Damage
+Increase damage by 40%.
+
+Recharge Speed: 6.40 sec
+Damage Per Second: 380 (Damage), 320 (Reach)
+Duration: 5 sec
+Range: 10 m (Damage), 15 m (Reach)
+
+
+Duration
+Increase duration by 60%.
+
+Recharge Speed: 6.40 sec
+Damage Per Second: 300 (Damage), 240 (Reach)
+Duration: 8 sec
+Range: 10 m (Damage), 15 m (Reach)
+
+
+
+Rank 6: Armor Damage/Shield Damage[]
+
+
+
+Armor Damage
+Increase damage to armor by 50%.
+
+
+
+Shield Damage
+Increase damage to shields and barriers by 50%.
+
+
+
+
+Player Notes[]
+Damage
+Flamer deals 1.5x damage to armor.[1]
+Flamer applies a stacking effect per half-second: 3/8 of the listed "damage per second" value is immediately applied upon impact, followed by a damage-over-time "burning effect" that deals 1/8 of the listed "damage per second" every half-second for 5 seconds. The math and ramification of this mechanic means that:
+Each "hit" of Flamer will eventually deal 162.5% of the "damage per second" value.[2]
+The listed "damage per second" value is not attained unless Flamer is sustained for at least 2 seconds, after which Flamer rapidly exceeds that DPS value.
+Foes continue to take a significant amount of damage-over-time with 5 seconds duration (potentially a majority of the total damage done) after the Flamer effect ends.[3] This means that at rank 5, the Duration evolution will deal more damage overall than the Damage evolution, which is only useful for greater front-end damage.
+Mechanics
+Flamer permanently stops enemy health regeneration, e.g. Cannibals that have eaten a corpse. Like with most fire powers, kills also destroy enemy bodies.
+Using Flamer significantly slows the player, and prevents all other actions, though if a charged shot from a weapon is being held before igniting the Flamer, that shot can be released.
+When active, Flamer provides the player with a significant amount of stun resistance, though if the player is stunned, the Flamer will be interrupted.
+Flamer will continuously prime a Fire Explosion on all affected enemies for as long it is in use (i.e. not just from the first hit). Flamer cannot detonate combos.
+Flamer's cooldown mechanic is fluid rather then fixed: the more Flamer is held, the longer its cooldown and vice versa.
+Flamer can be seen going through walls; however, this is purely graphical and doesn't hit enemies. It can't affect Guardians behind their shields.
+Flamer's power can be canceled by using heavy melee, sprinting, or dodging, in addition to regular deactivation. This is helpful when under the power-disabling effect of Seeker Swarms and Seeker Plagues which prevents an active Flamer from being cancelled normally.
+Strategies and Tactics
+Rank 6 "Armor Damage" evolution is powerful: the bonus stacks with Flamer's 1.5x damage to armor multiplicatively, thereby increasing it to 2.25x. Combined with consumables and other power damage buffs, it can apply in excess of 3,000 damage per second to armored foes.Clarification needed—see talk page If specialized in this way, a full-duration Flamer can severely damage or take out the strongest enemies even on higher difficulties once any shielding is stripped.
+The "Shield Damage" evolution makes Flamer less effective against the large armored foes, but more effective in general combat against weaker enemies as it can be spammed freely without worrying about stripping enemy shields or barriers first.
+Geth forces do not stagger away from fire or panic like organic enemies; neither do Phantoms, Husks, Abominations, or Cannibals.
+Phantoms do not evade or block Flamer damage, and the burning effects reveal them and prevent their health regeneration while cloaked.
+Ending Flamer prematurely on weaker enemies prevents "wasted" overkill damage-over-time and potentially shortens cooldown.
+As Flamer tends to do most of its damage only after several seconds of continuous use, the user is slow and vulnerable to enemies while using it without interruption.
+It can be a good tactic to alternate Flamer use with a weapon that fires explosive rounds or projectiles that can stun opponents such as the M-37 Falcon. The Adas Anti-Synthetic Rifle is effective as it can help strip enemy shields and barriers, making Flamer more likely to panic infantry when used. The Acolyte can be an ideal choice: it can strip shielding, stun enemies, and be modded with the Pistol Power Magnifier for greater Flamer damage.
+Teaming up with a "tank" character like the Geth Juggernaut Soldier can really help increase your effectiveness with Flamer, as said teammate can keep multiple enemies at bay and bunched up, allowing you to freely spray flames without interruption due to having to get away from especially dangerous foes.
+Teaming up with any Volus character can aid in survivability thanks to Shield Boost, especially with Rank 6 Evolution, Protection.
+Minimize exposure by using Flamer around corners, especially corners to your left, as it can be used with almost no risk if you edge out to the minimum amount needed to hit enemies.
+Flamer's extreme damage and the ease of keeping it active often make it very powerful in situations where a specific position must be held against swarming enemies.
+Flamer is one of the best ways to prime enemies for Power Combos in the entire game. Teaming up with party members that have good powers for detonating combos like Overload or Shockwave is very effective.
+Flamer has a glitch involving the Reegar Carbine where the player can actually move faster while using the power.
+Bugs[]
+For all Flamer-using classes, if the Reegar Carbine is fired and then Flamer is activated while still holding the fire button, and then the fire button is released, the player will move faster than normal walking speed while still having Flamer active for its full duration.
+Flamer has a buggy interaction with Incendiary Ammo (which itself has a buggy interaction with itself); both erroneously use the same damage effect, and once Incendiary Ammo is applied on an enemy under the effect of Flamer, both damage-over-time effects get combined into an overly-damaging 3 second damage-over-time that is still technically considered by the game as "Flamer", making the ammo use Flamer's damage modifiers, which will let Incendiary Ammo do damage to shields and barriers.[4] In addition, the buggy damage-stacking of Incendiary Ammo will still work, multiplying the effect.
+Availability[]
+Single Player: N/A
+Multiplayer: Vorcha Sentinel, Vorcha Soldier, Geth Trooper Soldier
+References[]
+
+↑ https://web.archive.org/web/20160318000954/forum.bioware.com/topic/277136-gameplay-data-and-mechanics/
+
+↑ https://web.archive.org/web/20160731151725/https://forum.bioware.com/topic/399196-flamer-mechanics-explained/
+
+↑ See 4-stack test on: https://web.archive.org/web/20160731151725/https://forum.bioware.com/topic/399196-flamer-mechanics-explained/
+
+↑ Extensive testing along with a youtube clip and official developer confirmation of all these mechanics: https://web.archive.org/web/20160115021252/forum.bioware.com/topic/396536-incendiary-ammo-confirmed-bug-mechanics-corrections/
+
+
+See Also[]
+Flamethrower
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

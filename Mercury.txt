@@ -1,0 +1,110 @@
+
+
+
+
+
+Mercury
+
+Region
+Milky Way / Local Cluster / Sol
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.39 AU
+
+
+Orbital Period
+88 Earth Days
+
+
+Radius
+2,440 km
+
+
+Day Length
+58.7 Earth Days
+
+
+Atm. Pressure
+Trace
+
+
+Surface Temp
+430 °C 
+
+
+Surface Gravity
+0.38 g
+
+
+Mass
+0.055 Earth Masses
+
+
+Location: Milky Way / Local Cluster / Sol System /  First planet
+
+
+Colony
+
+Species
+Human
+
+
+Population
+340
+
+
+
+Prerequisite: Level 20 (Mass Effect)
+
+Description[]
+A handful of solar power stations exist on "peaks of eternal light" at the north and south poles of Mercury. The difficulties imposed by the planet's proximity to the sun and high orbital velocity have limited development.
+
+Mineral Deposits[]
+Initial Scanner Result: Moderate
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+High
+
+10,300
+
+
+Platinum
+
+Medium
+
+7,500
+
+
+Iridium
+
+Low
+
+4,400
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

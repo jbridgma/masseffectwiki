@@ -1,0 +1,102 @@
+
+
+
+
+
+Aigela
+
+Region
+Milky Way / Hourglass Nebula / Ploitari
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.7 AU
+
+
+Orbital Period
+0.6 Earth Years
+
+
+Keplerian Ratio
+0.953
+
+
+Radius
+1,511 km
+
+
+Day Length
+19.3 Earth Hours
+
+
+Atm. Pressure
+0.03 atm
+
+
+Surface Temp
+125 °C 
+
+
+Surface Gravity
+0.1 g
+
+
+Mass
+0.006 Earth Masses
+
+
+Location: Milky Way / Hourglass Nebula / Ploitari System /  First planet
+
+Prerequisite: Priority: Thessia (Mass Effect 3)
+
+Description[]
+Only known from scan data picked up by space probes, Aigela is currently classified as a dwarf planet. A warm barren rock, its thin atmosphere is composed of carbon dioxide and oxygen. Significant alumina deposits in its crust make its density and gravity very low indeed.
+
+Mineral Deposits[]
+Initial Scanner Result: Rich
+
+
+
+Mineral
+
+Amount
+
+Approximate Value
+
+
+Palladium
+
+Medium
+
+8,200
+
+
+Platinum
+
+Medium
+
+7,600
+
+
+Iridium
+
+High
+
+14,200
+
+
+Element Zero
+
+None
+
+0
+
+
+
+

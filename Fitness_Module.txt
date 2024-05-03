@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+This article is about the Fitness power for the Alliance Infiltration Unit Infiltrator in Mass Effect 3 Multiplayer. For an overview of the base power in Mass Effect 3, see Fitness (power).
+
+Fitness Module is a passive class power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Fitness Module[]
+Boost health, shields/barriers, melee damage, and durability.
+
+Health & Shield Bonus: 15%
+Melee Damage Bonus: 15%
+
+
+Rank 2: Durability[]
+Increase health and shield bonuses by 10%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 15%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage by 20%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 35%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage by 15%.
+
+Health & Shield Bonus: 25%
+Melee Damage Bonus: 50%
+
+
+Durability
+Increase health and shield bonuses by 10%.
+
+Health & Shield Bonus: 35%
+Melee Damage Bonus: 35%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 10%.
+
+
+
+
+Rank 6: Melee Synergy/Fitness Expert[]
+
+
+
+Melee Synergy
+Increase melee damage by 10%.Increase weapon damage bonus by 25% for 20 seconds after an enemy is killed by heavy melee.
+
+Health & Shield Bonus: 25% (Melee Damage), 35% (Durability)
+Melee Damage Bonus: 60% (Melee Damage), 45% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 20%.
+
+Health & Shield Bonus: 45% (Melee Damage), 55% (Durability)
+Melee Damage Bonus: 50% (Melee Damage), 35% (Durability)
+
+
+
+Player Notes[]
+Availability[]
+Single-player: N/A
+Multiplayer: Alliance Infiltration Unit Infiltrator
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

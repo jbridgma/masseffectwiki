@@ -1,0 +1,63 @@
+
+
+
+
+
+Telluune
+
+Region
+Milky Way / Silean Nebula / Phontes
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+2.0 AU
+
+
+Orbital Period
+2.9 Earth Years
+
+
+Keplerian Ratio
+0.951
+
+
+Radius
+11,274 km
+
+
+Day Length
+57.6 Earth Hours
+
+
+Atm. Pressure
+61.04 atm
+
+
+Surface Temp
+418 °C 
+
+
+Surface Gravity
+1.56 g
+
+
+Mass
+4.838 Earth Masses
+
+
+Location: Milky Way / Silean Nebula / Phontes System /  Third planet
+
+Prerequisite: Priority: Rannoch (Mass Effect 3)
+
+Description[]
+Telluune is named after the first elcor settlement in recorded history. The planet's name roughly translates to "the deep and restful meadowland," which is somewhat of a misnomer, given that Telluune's thick, crushing atmosphere keeps its surface boiling hot, and the air is a noxious mixture of carbon dioxide and helium.
+
+
+
+

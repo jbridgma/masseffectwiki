@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+This article is about the biotic power Shockwave in Mass Effect 2 and Mass Effect 3. For the Shockwave skill in Mass Effect: Andromeda, see Shockwave (skill).
+
+Shockwave is a biotic power in Mass Effect 2 and in Mass Effect 3's single-player and multiplayer modes.
+
+Contents
+
+1 Mass Effect 2
+
+1.1 Power Ranks
+
+1.1.1 Heavy Shockwave
+1.1.2 Improved Shockwave
+
+
+1.2 Player Notes
+1.3 Availability
+
+
+2 Mass Effect 3
+
+2.1 Power Ranks
+
+2.1.1 Rank 1: Shockwave
+2.1.2 Rank 2: Recharge Speed
+2.1.3 Rank 3: Force & Damage
+2.1.4 Rank 4: Force & Damage/Radius
+2.1.5 Rank 5: Detonate/Reach
+2.1.6 Rank 6: Recharge Speed/Lifting Shockwave
+
+
+2.2 Player Notes
+2.3 Availability
+
+
+3 Bugs
+4 Trivia
+
+
+Mass Effect 2[]
+
+Biotic shockwave topples enemies in your path.
+
+Power Ranks[]
+Rank 1 - You launch a string of concussive mass effect fields in a narrow path in front of you, violently knocking targets aside.
+Recharge Time: 6.00 seconds (Shepard); 12.00 seconds (others)
+Number of Shockwaves: 8.00
+Impact Radius: 1.50 meters
+Impact Force: 300.00 newtons
+Rank 2
+Recharge Time: 6.00 seconds (Shepard); 12.00 seconds (others)
+Number of Shockwaves: 10.00
+Impact Radius: 2.00 meters
+Impact Force: 400.00 newtons
+Rank 3
+Recharge Time: 6.00 seconds (Shepard); 12.00 seconds (others)
+Number of Shockwaves: 12.00
+Impact Radius: 2.50 meters
+Impact Force: 500.00 newtons
+Rank 4
+Evolves Shockwave into one of the following options:
+
+Heavy Shockwave[]
+Your Shockwave's power strengthens to become a biotic freight train, swatting aside everything in a long path.
+Recharge Time: 6.00 seconds (Shepard); 12.00 seconds (others)
+Number of Shockwaves: 12.00
+Impact Radius: 2.50 meters
+Impact Force: 700.00 newtons
+Improved Shockwave[]
+Your Shockwave now has a wide impact radius, taking out everything in a broad strip in front of you.
+Recharge Time: 6.00 seconds (Shepard); 12.00 seconds (others)
+Number of Shockwaves: 12.00
+Impact Radius: 3.50 meters
+Impact Force: 500.00 newtons
+Player Notes[]
+When used, the power sends out a series of explosive biotic impacts in front of the player ignoring any obstacles. This can be exploited to attack while remaining safe from enemy fire and also to hit enemies hiding behind cover, though it may take multiple castings, especially as the path of the shockwave can be altered in unpredictable ways by firing it through terrain.
+It can be unleashed along the ground to launch all enemies in its path into the air, or used against already airborne targets which can send them flying great distances, sometimes off the map for an environmental kill.
+As with all force-imparting attacks, Shockwave will instantly kill any unarmored Husks or Abominations it hits.
+Shockwave can be used against most destructible environmental objects; care should obviously be taken when using the power in close proximity to anything explosive.
+When Shockwave hits a protected (possessing armor, shields, or barrier) target it won't be sent flying but it will be stunned briefly, losing a bit of protection in the process. The damage done depends on the level of the power's impact force. This can be useful for stopping advancing enemies and suppressing their fire.
+Having a target "locked" before performing a Shockwave starts the impacts ahead of the player closer to the target. Without any enemy locked, Shockwave will always start at the player's feet.
+If the player uses Shockwave, and brings up either the Power Wheel or the Weapons Wheel (tactical pause), the Shockwave's visual effect won't stop, but its gameplay effects are only noticed after closing the Wheel.
+This ability is similar to the Scion's attack, but has different effects and properties.
+Shockwave has no effect at all against totally frozen enemies.
+Availability[]
+Adept
+Jack
+Vanguard
+Scion
+Tela Vasir
+Mass Effect 3[]
+Topple a row of enemies with this cascading shockwave.
+
+Power Ranks[]
+Rank 1: Shockwave[]
+Topple a row of enemies with this cascading shockwave.
+
+Recharge: 8 sec (Shepard)
+Damage: 200 (300 multiplayer)
+Force: 600 N (700 N multiplayer)
+Radius: 2 m
+Range: 10 m (16 m multiplayer)
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge: 6.40 sec (Shepard)
+Damage: 200 (300 multiplayer)
+Force: 600 N (700 N multiplayer)
+Radius: 2 m
+Range: 10 m (16 m multiplayer)
+
+
+Rank 3: Force & Damage[]
+Increase force and damage by 20% (25% multiplayer).
+
+Recharge: 6.40 sec (Shepard)
+Damage: 240 (375 multiplayer)
+Force: 720 N (875 N multiplayer)
+Radius: 2 m
+Range: 10 m (16 m multiplayer)
+
+
+Rank 4: Force & Damage/Radius[]
+
+
+
+Force & Damage
+Increase force and damage by 30%.
+
+Recharge: 6.40 sec (Shepard)
+Damage: 300 (465 multiplayer)
+Force: 900 N (1085 N multiplayer)
+Radius: 2 m
+Range: 10 m (16 m multiplayer)
+
+
+Radius
+Increase radius by 30%.
+
+Recharge: 6.40 sec (Shepard)
+Damage: 240 (375 multiplayer)
+Force: 720 N (875 N multiplayer)
+Radius: 2.60 m
+Range: 10 m (16 m multiplayer)
+
+
+
+Rank 5: Detonate/Reach[]
+
+
+
+Detonate
+Increase force and damage of biotic detonations by 50% (65% multiplayer).
+
+
+
+Reach
+Increase the distance the Shockwave cascades by 50%.
+
+Recharge: 6.40 sec (Shepard)
+Damage: 300 (465 multiplayer) [Force & Damage], 240 (375 multiplayer) [Radius]
+Force: 900 N (1085 N multiplayer) [Force & Damage], 720 N (875 N multiplayer) [Radius]
+Radius: 2 m (Force & Damage), 2.60 m (Radius)
+Range: 15 m (24 m multiplayer)
+
+
+
+Rank 6: Recharge Speed/Lifting Shockwave[]
+
+
+
+Recharge Speed
+Increase recharge speed by 40%.
+
+Recharge: 4.85 sec (Shepard)
+Damage: 300 (465 multiplayer) [Force & Damage], 240 (375 multiplayer) [Radius]
+Force: 900 N (1085 N multiplayer) [Force & Damage], 720 N (875 N multiplayer) [Radius]
+Radius: 2 m (Force & Damage), 2.60 m (Radius)
+Range: 10 m (16 m multiplayer) [Detonate], 15 m (24 m multiplayer) [Reach]
+
+
+Lifting Shockwave
+Suspend targets in the air for a short time.
+
+
+
+
+Player Notes[]
+Shockwave can hit up to 2 targets per cast, including Swarmers.
+Unlike in Mass Effect 2, Shockwave no longer travels along the ground, but now travels straight outwards from a character in the direction faced. It can thus be used on targets above or below the caster. The range and area of effect of the power is smaller than in the previous game, but it is more consistent and predictable overall. Also different from the previous game, Shockwave is guaranteed to deal some level of damage to any target hit, on top of any damage caused by the force component of the ability. The multiplayer version of Shockwave deals significantly more damage.
+As in Mass Effect 2, Shockwave can travel through cover. This aspect can be exploited to remain safe from enemy fire and attack with impunity. Shockwave has a much shorter base range than in Mass Effect 2, so for maximum cover penetration, take the Reach evolution at Rank 5.
+Shockwave force will stagger most protected infantry enemies while knocking most unprotected (red bar) infantry enemies off their feet entirely. Enemies that are carried forward by the force of the shockwaves can be damaged by multiple pulses of the ability.
+Shockwave is a detonator power for all types of Power Combos, and with the Lifting Shockwave evolution can even prime unprotected infantry enemies for Biotic Explosions. Biotic combo damage can be further enhanced with the Rank 5 Detonate evolution. Shockwave is also one of the few powers that can detonate multiple primed enemies with one use, as each individual cast can detonate two combos. This, coupled with its moderately low recharge speed, makes it useful in a power-heavy party.
+The Lifting Shockwave evolution only primes lifted enemies for a relatively short time as the duration of the lift is fairly short baseline, making it somewhat challenging for the player to detonate it with their own follow-up powers unless power cooldown times are close to the minimum possible, or abilities with no cooldown are used, e.g. Nova or Cluster Grenade. The lift duration can be increased through the duration-increasing evolutions of powers such as the Adept's Biotic Mastery, making the self-performance of combos more feasible.
+Using a Shockwave on Cerberus Guardians or CAT6 Heavies will cause them to stagger, leaving them less protected against weapon fire for a brief moment. Lifting Shockwave will not dislodge or remove their handheld shields.
+In multiplayer, using Shockwave while standing next to a player armed with a sniper rifle, or against targets near a player using a sniper rifle, can severely disrupt the other player's aim.
+Shockwave can be used to set off Geth Trip Mines at a safe distance.
+Availability[]
+Single-player: Adept, Vanguard, Jack
+Multiplayer: Human Adept, Human Vanguard, Batarian Enforcer Sentinel, Krogan Shaman Adept
+Bugs[]
+On the PC version of Mass Effect 3, Shockwave's Rank 4 Radius evolution is bugged: after several impacts it will stop affecting enemies, though the effects will sometimes resume after several more uses. This bug exists in both single-player and multiplayer. To avoid this bug do not choose Rank 4 Radius, though reloading a save in single-player can temporarily eliminate the bug.
+Trivia[]
+When attacked by Shockwave, some enemies in Mass Effect 2 will exclaim warnings to their allies that are usually only reserved for when Shepard uses heavy weapons, e.g. "They've got heavies!"
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

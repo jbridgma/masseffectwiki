@@ -1,0 +1,134 @@
+
+
+
+Data taken from Zeona reveals that Dr. Cayce established a research station deep inside an active volcano on the planet Karumto. Dr. Cayce believed that the volcano hides an extensive Prothean ruin. Whether his hunch was true or not, the station should contain data that will lead to Dr. Cayce's whereabouts. Caution is advised.
+Contents
+
+1 Acquisition
+2 Preparation
+3 Walkthrough
+
+3.1 Landing
+3.2 Research Base
+3.3 Leaving
+3.4 Logs
+3.5 Unlocks
+3.6 E-Mail
+
+
+4 Mission Summary
+
+
+Acquisition[]
+Prerequisite: Project Firewalker: Rosalie Lost
+
+This assignment is acquired after the assignment on Zeona. A new entry in the journal indicates Shepard should head to Karumto (Yakawa System, Caleston Rift) to start the assignment. On the galaxy map this assignment is titled Project Firewalker: Recover Research Data. Scanning the planet reveals an anomaly, returning no signal.
+Scanning the planet yields the following text:
+
+
+“Research station detected within volcano on planet's surface. The research station's data storage systems are still active and may contain valuable information. Warning: Volcano is unstable. Advise extreme caution.”
+
+
+Preparation[]
+Shepard will be given the chance to choose squadmates, but other than a response comment to the volcanic eruption, the choice makes no difference.
+
+Walkthrough[]
+Landing[]
+The mission begins with the squad in the Hammerhead. The onboard scanning systems of the Hammerhead are inoperable, forcing a manual search for the research station. Start by going to the left and keep heading down all the way. When you reach a fork turn right and keep heading down. At the bottom are two scan sites each yielding 250 iridium. Head back up until you get about halfway up. There is an outcropping across from you with another scan site (don’t worry you will make it). Head across, scan, then return and head back up to where you started. 
+Now head right and follow the path down. The computer will eventually notify you that there is some more iridium nearby, so grab it. Then look across at another scan site. There is a small rock platform between the two areas, use it or it will be fatal. If you don’t want to do that then head down and eventually it will narrow enough to get across. Grab the iridium then move on. On the next outcropping is another iridium site, so grab it as well then head down again. Yet more iridium, scan it, then drop down and head through the tunnel. On the other side of the tunnel is the base and yet another iridium site, scan it then approach the doors. An onscreen prompt will allow you to exit the vehicle.
+
+Research Base[]
+When you enter don’t re-enter the Hammerhead. There is a medical station on the wall, so grab the medi-gel and head up the ramps. Your squad will keep their helmets/breather masks on in the base, apparently it’s toxic. Head through the lava bottom tunnel and into the base proper. Head left and inside is a datapad and a wall safe with 250 credits. Head out and across the hall to what is left of the station’s control center.
+When you enter the room do not activate the sensors yet. Around the room is a door you can bypass, inside is 1500 iridium. Head back into the control center and again before activating the sensors, there is a locker, 125 credits, a computer console with a recording and a terminal (see photo below).
+
+Leaving[]
+When you activate the sensors, apparently the power grid intensifies volcanic activity. There is no actual time limit until you exit the lab, so don't panic. The way out is through the room with the first datapad and wall safe because the floor fell out of the central chamber.
+When you exit the station head to the left up the rocky ramp (to gain altitude) and use the boosters and jets to keep from falling into the lava. Go through the tunnel and use the jets occasionally to get up. Be careful when approaching the end because there is a very large drop off when the tunnel ends. Jump across and jump again to next platform. The outcropping ahead has the last scan site, which is worth taking the time because it has another 1500 iridium unless the lava has already risen too high (slightly below the outcrop itself), in which case better ignore it. Jump across and into the second tunnel. Rocket and jump through, but be careful.
+Like the first tunnel this one has a sharp drop off at the end. Something took out the bridge and you must jump across. Make sure your jets are fully charged or you won’t make it. Once you jump across you are treated to a cutscene where the M-44 jumps into the Normandy’s hangar bay and skids across the deck.
+
+Logs[]
+A computer console plays a recording from Dr. Cayce:
+
+
+“I was right! This site was a roadmap leading to the main Prothean ruins.  Dr. O'Loy and I agree that this must remain a secret at all costs.  I will not allow another Eden Prime to occur.  The geth, the Reapers, all of them... they must be stopped.”
+
+
+
+
+
+
+
+Dr. Cayce's Log #1
+
+
+We have detected a site of incredible significance located beneath the volcano. The unpredictable terrain will make retrieval of any data extremely hazardous.
+
+
+
+
+
+
+
+Dr. Cayce's Log #2
+
+This hellish planet is a star map that points to a Prothean site of major significance. Dr. O'Loy and I have mere hours to retrieve all we can before the conditions become too dangerous to continue. We learned too late that the local volcanic instability is magnified by our power grid.
+
+
+If we only had more time to study this. I'm sure the key to unlocking everything is here. Everything! Damn this planet!
+
+
+
+
+Unlocks[]
+This mission unlocks:
+Project Firewalker: Prothean Site
+Kopis, Hoplos System, Hades Nexus
+Labeled as Firewalker: Prothean Ruin on Galaxy Map
+E-Mail[]
+Commander Shepard will receive the following e-mail from Project Firewalker after completing this assignment:
+ Alert: Security breach
+
+
+
+
+From: Project Firewalker
+
+That was a close one on Karumto, Shepard.
+
+A disturbing fact has come to light in analyzing the channel you used to transmit your findings. Unauthorized transmissions have been sent from the MSV Rosalie to an unknown destination. It's assumed that this is how the geth are tracking Drs. Cayce and O'Loy.
+
+The data you retrieved gives us a definitive location for Dr. Cayce's Prothean site. The doctor was certain that the site held a Prothean revelation of enormous significance.
+
+
+It is recommended you head there as soon as possible to counter any geth retrieval missions already in play.
+
+
+Mission Summary[]
+Data recovered from research station. Dr. Cayce's location discovered. Landing party extracted from volcano.
+
+Experience reward: 125 (156)
+Credits: 1,625
+Cerberus Funding: 1,250
+Credits Found: 375
+Minerals:
+Iridium: 5,000
+
+Firewalker Assignments Navigation
+
+
+← Previous Assignment
+
+Assignment Index
+
+Next Assignment →
+
+
+Project Firewalker: Survey Sites Located
+
+Assignments
+
+Project Firewalker: Prothean Site
+
+
+
+

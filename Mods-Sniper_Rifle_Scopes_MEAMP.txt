@@ -1,0 +1,66 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - SR Scope: Simple optical scope to enhance stability while zoomed. Also increase accuracy while moving.
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+SR Scope
+
++32%
+
++38%
+
++40%
+
++43%
+
++46%
+
++48%
+
++51%
+
++54%
+
++56%
+
++58%
+
+Sniper Rifle Accuracy
+
+
+Equipping an Sniper Rifle Scope Mod changes the shape of the weapon by adding a visible scope depending upon the specific weapon.
+
+
+
+

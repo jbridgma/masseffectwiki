@@ -1,0 +1,87 @@
+
+
+
+
+
+
+
+
+
+
+Sync Laser
+
+
+
+
+
+								Single-player
+							
+
+
+
+
+
+Type
+Heavy Weapon
+
+
+Location
+Priority: Rannoch
+
+
+Fire Mode
+Target Lock
+
+
+
+
+The Sync Laser is a heavy weapon that appears in Mass Effect 3. 
+The weapon was designed by Admiral Daro'Xen vas Moreh using reverse-engineered geth technology. It is connected with the Normandy SR-2's weapon systems, and allows for laser-painting a target with pin-point accuracy, for a precision bombing run once the target has been locked. EDI mentions however, that the weapon should only be used when necessary, as the geth will quickly adapt their defenses to jam its signal.
+
+Acquisition[]
+Singleplayer
+Commander Shepard receives this weapon before the assault on the Reaper base on Rannoch, in order to destroy the source of Reaper control signal inside the complex. Later, it is used to coordinate orbital strike from the quarian fleet on a Reaper Destroyer. It can only be used for those purposes and is automatically equipped when reaching the relevant portion of the mission.
+
+Multiplayer
+The device is exclusive to singleplayer.
+
+Player Notes[]
+The "weapon" only aims a targeting laser and does no physical damage.
+The laser is able to triangulate a firing solution for the Migrant Fleet quicker when zoomed in, and when the player doesn't move.
+
+
+Mass Effect 3 Weapons
+
+
+Heavy Pistols
+
+M-3 Predator • M-5 Phalanx • M-6 Carnifex • M-11 Suppressor • M-77 Paladin • M-358 Talon • Acolyte • Arc Pistol • Executioner Pistol • N7 Eagle • Scorpion
+
+
+Submachine Guns
+
+M-4 Shuriken • M-9 Tempest • M-12 Locust • M-25 Hornet • Blood Pack Punisher  Collector SMG • Geth Plasma SMG • N7 Hurricane
+
+
+Shotguns
+
+M-11 Wraith • M-22 Eviscerator • M-23 Katana • M-27 Scimitar • M-300 Claymore • AT-12 Raider • Disciple • Geth Plasma Shotgun • Graal Spike Thrower • N7 Crusader • N7 Piranha • Reegar Carbine • Venom Shotgun
+
+
+Assault Rifles
+
+M-7 Lancer • M-8 Avenger • M-15 Vindicator • M-37 Falcon • M-55 Argus • M-76 Revenant • M-96 Mattock • M-99 Saber • Adas Anti-Synthetic Rifle • Cerberus Harrier • Chakram Launcher • Collector Rifle • Geth Pulse Rifle • Geth Spitfire • N7 Typhoon • N7 Valkyrie • Particle Rifle • Phaeston • Striker Assault Rifle
+
+
+Sniper Rifles
+
+M-13 Raptor • M-29 Incisor • M-90 Indra • M-92 Mantis • M-97 Viper • M-98 Widow • Black Widow • Collector Sniper Rifle • Javelin • Kishock Harpoon Gun • Krysae Sniper Rifle • N7 Valiant
+
+
+Heavy Weapons
+
+M-451 Firestorm • M-560 Hydra • M-597 Ladon • M-920 Cain • Cobra Missile Launcher • Geth Combat Software • Geth Spitfire • Reaper Blackstar • Sync Laser
+
+
+
+

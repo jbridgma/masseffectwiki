@@ -1,0 +1,174 @@
+
+
+
+
+
+Quarian Male Infiltrator
+
+
+
+
+
+
+Class
+Infiltrator
+
+
+Race
+Quarian
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Rebellion Pack
+
+
+Abilities
+Combat LeapIncendiary Omni-Blade
+
+
+Quarians have spent centuries at perpetual salvage and ship repair--the survival of their species depends on this technical expertise.
+Quarian infiltrators are elite support specialists with a talent for setting up ambushes. Their technical wizardry makes them crucial contributors on the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Trivia
+5 References
+
+
+Powers[]
+
+
+
+
+
+Shield: 600 / Health: 500
+
+
+Class: Quarian Defender
+
+
+ Tactical Scan
+
+
+
+
+ Tactical Cloak
+
+
+
+
+ Arc Grenade
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Quarian Male Infiltrator executes a series of up to three punches.
+Heavy Melee (Incendiary Omni-Blade) – The Quarian Male Infiltrator strikes with an omni-blade charged with incendiary energy.
+Grab (Omni-Blade Stab) – The Quarian Male Infiltrator drags an enemy over cover and then executes them by stabbing with an omni-blade.
+
+
+
+
+
+Dodge (Combat Leap) – The Quarian Male Infiltrator jumps out of the way of incoming attacks.
+The Quarian Male Infiltrator can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Tactical Scan is one of the most useful powers in game, as it can increase weapon damage taken by a target by up to 32.5%. This allows for incredibly fast takedown of hardened enemies.
+Arc Grenades can be combined with Tactical Scan to remove the barrier/shields of an enemy very rapidly, as they can do an extra 32.5% damage when Tactical Scan is evolved to maximize power damage.
+Arc Grenades do not break cloak and as such can be used to kill enemies/take down their shields whilst the player is retreating.
+Cerberus[]
+Tactical Scan can be used to not only eliminate Atlases, but, if placed on a Phantom, also show where a cloaked Phantom is hiding.
+If the Area Scan evolution is chosen, it allows for easy headshots of Guardians since it displays them in a similar manner to Hunter Mode. It can also be useful for finding cloaked Phantoms without having to target them with it.
+Arc Grenades are incredibly effective against Cerberus troops, as they can remove the shields from Centurions, Nemeses, Phantoms and Atlases with ease - it is therefore recommended to equip the Grenade Capacity gear in order to be able to spam these for a long period.
+Collectors[]
+Quarian Infiltrators should not be the first class to choose in battle against the Collectors, since they only have one offensive power, Arc Grenades, and they can only be effective against either armor or barriers, not both.
+It is best to equip a weapon opposite of what Arc Grenades are evolved to do. (Assault Rifle and SMG when used against armor, and Shotgun, Sniper Rifle, and Heavy Pistol when used against barriers.)
+Geth[]
+The best enemy to use the Male Quarian Infiltrator against, as Arc Grenades can kill entire groups of enemies with ease, even on gold, since they have such a large area of effect.
+Arc Grenades can easily be used to remove the shields from multiple Geth Hunters at one time and therefore make them all visible, which is very valuable on gold as Hunters are much more deadly.
+The Tactical Scan evolution Area Scan can also be used to reveal where Geth Hunters are - however, its effects wear of quickly.
+Tactical Scan can be used to fantastic effect on Geth Primes - it allows a player to then easily strip its shields with Arc Grenades, and then to kill it with a few sniper rifle shots from Tactical Cloak.
+However, having all of the non passive powers and Quarian Defender upgraded leaves the player very vulnerable to attack. On gold, a player will die after two hits from a Geth Prime's cannon.
+Reapers[]
+Tactical Scan works wonders against the armored units that Reaper forces possess - when used in tandem with Arc Grenades, a player can strip the barrier of a Banshee and then use a sniper rifle to finish her off.
+However, Arc Grenades are less useful against all other Reaper units, so it might be a good idea to invest points elsewhere.\
+Trivia[]
+According to a Mass Effect 2 character document used during development, the Quarian Infiltrator was first conceptualized as a squad member, in the vein of both Butch Cassidy and the Sundance Kid as characters. He came to Omega seeking to prove the geth are less of a threat than before, and he joins Shepard after a gun battle with local authorities and bounty hunters. A boisterous ladies' man, he can become a romance option for a female Shepard as long the Commander doesn't become too Renegade. Elements of his arc ended up being used in Garrus Vakarian's Archangel stint.[1]
+References[]
+
+↑ https://youtu.be/lhC46YsFDR0?t=204
+
+
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

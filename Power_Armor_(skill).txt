@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Power Armor is a Tech skill in Mass Effect: Andromeda.
+
+Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Power Armor
+
+
+
+Vetra's custom armor hardens and activates reinforced shields, providing her with unrivaled protection.
+
+Damage Resistance: 65
+Shields Restored: 20%
+Effect Duration (s): 10
+Recharge Time (s): 30
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++20% Recharge Speed
+
+
+3
+
+Duration
+
+
+
+-
+
++30% Duration
+
+
+4
+
+Hardened Shields
+
+
+
+-
+
++80 Damage Resistance
+
+
+4
+
+Shield Feedback
+
+
+
+Improves shield regeneration while active.
+
+Shield Regen Bonus: 25%
+Health & Shield Regeneration Delay Reduction: 40%
+
+
+
+5
+
+Reinforced Shields
+
+
+
+-
+
++120 Damage Resistance
+
+
+5
+
+Strength Enhancement
+
+
+
+Improves melee damage, weapon damage, and weapon stability and accuracy while active.
+
+Melee Damage Bonus: 30%
+Weapon Damage: 20%
+Gun Accuracy Bonus: 20%
+Gun Stability Bonus: 20% 
+
+
+
+6
+
+Explosive Purge†
+
+
+
+     When Power Armor ends, an electric explosion stuns nearby enemies and primes them for combo detonations.
+
+Explosion Damage: 74
+Explosion Radius: 3
+Additional Explosion Damage vs. Shields: 60%
+
+
+
+6
+
+Turbo Armor†
+
+
+
+Activating Power Armor instantly recharges Turbocharge. Requires Turbocharge.
+
+-
+
+Note: †Rank 6 is unavailable to Vetra until her loyalty mission Vetra Nyx: Means and Ends is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: Vetra Nyx - Starting Tech Skill
+Multiplayer: N/A
+
+
+

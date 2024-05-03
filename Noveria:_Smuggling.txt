@@ -1,0 +1,40 @@
+
+
+
+Opold asked for your help smuggling a package through customs.
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Enemies
+4 Bugs
+
+
+Acquisition[]
+Prerequisite: Noveria: Geth Interest
+
+Opold can be found in Port Hanshan Plaza near the elevator to Noveria's docking bay. When you first talk to him he will mention that he has procured a special package for one of his customers, but cannot get this package past the guards and scanners in the docking bay. He suggests that you, with your privileged status as a Spectre, could easily smuggle it into Port Hanshan and insists it isn't harmful to anyone at the port.
+Accept the job to obtain the assignment. If you decline the first time, Opold implores you to reconsider, and the offer remains open in subsequent chats.
+
+Walkthrough[]
+If you agree to help the hanar, he tells you that his package has been placed outside the SSV Normandy, in the docking bay. If your Charm or Intimidate abilities are high enough, you can pressure Opold into revealing that the package is meant for the krogan bounty hunter Inamorda. 
+This assignment is a method of testing whether your morality points are up to snuff. Pay close attention to your subsequent actions.
+Return to the docking bay to retrieve the package. Regardless of the method of gaining the item, should Shepard choose to do so, the weapon mod is a random ammunition mod tied to your current level. Once you have it, you have several available ways to complete this assignment:
+
+
+Return the package to Opold to obtain your reward. The initial offer will be 250 credits, but Charm / Intimidate will bring his offer to 500.
+Sell the package directly to Opold's client. Inamorda, the buyer, is on the second floor of the Port Hanshan Mezzanine and will offer to buy the package directly from you for 500 credits. Charm / Intimidate will bring his offer up to 750 credits and you will receive Renegade points. If you later tell Opold what you've done, he becomes quite angry with you and asks you to leave.
+Report the smuggling to Administrator Anoleis. You can do so before actually retrieving the package, but he will tell you he needs solid proof. Once you have the item, in exchange he will give you a garage pass, allowing you access to Peak 15 very quickly, and 200 credits. Charm / Intimidate (6 points required) will convince him to let you keep the weapon mod as well. If you later tell Opold what you've done, he explains that guards will come for him now and asks you to leave. If you later tell Inamorda what you have done, he will say he has no reason to attack you and that he wants to have a long chat with Opold before storming off.
+You can tell Opold you're keeping the package for yourself, in which case the ammo mod will be added to your inventory. Inamorda will no longer appear on the mezzanine afterward, regardless of whether you met with him before, but will be waiting outside the Normandy next time you return to the ship (or when you exit the ship after completing Noveria: Matriarch Benezia) to attack you. It's Inamorda and two krogan buddies against your team (with Captain Matsuo's security detail mysteriously absent). Returning to Opold after the attack, he will comment on "Inamorda meeting an unfortunate end".
+The assignment is marked complete once the package reaches its final destination: Opold, Anoleis, Inamorda, or your inventory.
+Opold will continue to sell to Shepard's team even if he initially asked them to leave, or is blacklisted by his Noveria clients. You can use the mod or sell it to Opold for much more than you would get from either him or Inamorda.
+Note:  Option 3 has a couple of addendums and caveats. Reporting the smuggling to Anoleis is one option for obtaining the garage pass needed to continue the main Noveria mission. The other option is doing Noveria: Lorik Qui'in, which can reward substantial morality points, experience, and equipment as well as the garage pass. Tread carefully when doing Option 3 before finishing the latter mission, as it can conclude with Administrator Anoleis getting killed or arrested. Therefore, turn in the hanar for smuggling before either outcome is reached.
+
+Enemies[]
+Inamorda (optional)
+Krogan (optional)
+Bugs[]
+There is a bug associated with the fourth option. The package can still be presented to Anoleis for the garage pass and credits. If the Charm / Intimidate option is used during the conversation, a second mod will be added to your inventory.
+
+
+

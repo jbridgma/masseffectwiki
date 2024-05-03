@@ -1,0 +1,121 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - AR Stock: Distributes recoil with sliding system of counterweights compatible with kinetic coil generators. Reduces weapon kickback.
+Enhanced - AR Heavy Stock: Substantially reduces recoil, but at the cost of increased weight.
+Enhanced - AR Light Stock: Substantially reduces recoil, but at the cost of reload time.
+Note:  Assault rifle stability is not reflected in the displayed weapon stats.
+Note:  Assault rifle reload speed is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+AR Stock
+
++43%
+
++57%
+
++63%
+
++70%
+
++77%
+
++83%
+
++90%
+
++97%
+
++103%
+
++110%
+
+Assault Rifle Stability
+
+
+AR Heavy Stock
+
++60%+3%
+
++71%+3%
+
++82%+4%
+
++93%+5%
+
++104%+6%
+
++116%+7%
+
++127%+8%
+
++138%+8%
+
++149%+9%
+
++160%+10%
+
+Assault Rifle StabilityAssault Rifle Weight
+
+
+AR Light Stock
+
++60%-3%
+
++71%-3%
+
++82%-4%
+
++93%-5%
+
++104%-6%
+
++116%-7%
+
++127%-8%
+
++138%-8%
+
++149%-9%
+
++160%-10%
+
+Assault Rifle StabilityAssault Rifle Reload Speed
+
+
+Equipping an Assault Rifle Stock Mod changes the color of parts of the weapon, lighter or darker, depending on the specific weapon.
+
+
+
+

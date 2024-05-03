@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+This article is about the class specialization in the first game. For the class power evolution in Mass Effect 2, see Biotic Mastery. For the Cerberus unit in Mass Effect 3, see Nemesis (enemy).
+
+
+Nemesis is an unlockable specialization class for the Adept and Vanguard, with the alternate specialization options being the Bastion and the Shock Trooper, respectively. A biotic who uses their abilities to damage and weaken their foes, the Nemesis gains bonus damage to all biotic talents, and is granted improved versions of Lift and Warp. 
+
+Overview[]
+See also: Talents#Specialization Classes
+The Vanguard, being a more combat-oriented class, gains bonuses to weapon damage from Nemesis training. The Adept, true to its name, becomes an even more impressive biotic.
+
+Warp Specialization
+Increases Warp's radius by 2 m and damage per second by 25%
+Lift Specialization
+Increases Lift's radius by 4 m
+Talent Level Bonuses (Adept)[]
+
+Bonus: improves recharge time, damage, and duration of biotic talents and increases biotic protection
+
+
+Rank
+Recharge time
+Biotic protection
+Duration or damage
+Notes
+
+
+1
+4%
+6%
+
+
+
+
+2
+6%
+9%
+
+
+
+
+3
+8%
+12%
+
+
+
+
+4
+10%
+15%
+
+
+
+
+5
+12%
+18%
+
+
+
+
+6
+14%
+21%
+
+
+
+
+7
+
+
+4%
+Increases force and damage of Throw by 4%Increases duration of Lift, Warp, Singularity, Barrier, and Stasis by 4%
+
+
+8
+
+
+6%
+
+
+
+9
+
+
+8%
+Warp Specialization
+
+
+10
+
+
+10%
+
+
+
+11
+
+
+12%
+
+
+
+12
+
+
+14%
+Lift Specialization
+
+Talent Level Bonuses (Vanguard)[]
+
+Bonus: increases biotic protection, improves pistol and shotgun damage, and increases duration or damage of biotic talents
+
+
+Rank
+Pistol / shotgun damage
+Biotic protection
+Duration or damage
+Notes
+
+
+1
+5%
+6%
+
+
+
+
+2
+7%
+9%
+
+
+
+
+3
+9%
+12%
+
+
+
+
+4
+11%
+15%
+
+
+
+
+5
+13%
+18%
+
+
+
+
+6
+15%
+21%
+
+
+
+
+7
+
+
+4%
+Increases force and damage of Throw by 4%Increases duration of Lift, Warp, and Barrier by 4%
+
+
+8
+
+
+6%
+
+
+
+9
+
+
+8%
+Warp Specialization
+
+
+10
+
+
+10%
+
+
+
+11
+
+
+12%
+
+
+
+12
+
+
+14%
+Lift Specialization
+
+
+
+
+
+
+
+Classes
+
+
+
+
+Soldier • Engineer • Adept • Infiltrator • Vanguard • Sentinel
+
+
+
+

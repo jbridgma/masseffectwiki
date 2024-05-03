@@ -1,0 +1,140 @@
+
+
+
+For the location itself, see Scavenger Flophouse ("Misery").
+Nakmor scouts have reported that many of Elaaden's scavengers take refuge in a flophouse hidden in a canyon. A concentrated population of troublemakers might be cause for concern.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate the flophouse
+2.2 Enter the command center
+2.3 Override the security station
+2.4 Hold your ground until the security can be hacked
+2.5 Optional: access the secure storage room
+2.6 Optional: disable all security consoles
+2.7 Hold your ground until the security can be hacked
+2.8 Clear out the command center
+2.9 Defeat the leader of the flophouse
+2.10 Eliminate the defenders
+2.11 Clear the flophouse of scavengers
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Search for the Stolen Remnant Drive Core
+
+This mission can be started in two ways:
+
+Speak to the Injured Krogan Scout in New Tuchanka marked by a.
+Approach the Flophouse's location in the Scavenger Flophouse ("Misery") region. This usually happens during the final portion of the mission prerequisite above.
+Walkthrough[]
+Head to New Tuchanka and speak with the Injured Krogan Scout to acquire this mission. The scout tells Ryder that he is concerned that at some point the scavengers will decide to attack the colony when resources run low. The scout doesn't want get injured again by the "squischies" when they get desperate.
+A navpointis then added to the Scavenger Flophouse ("Misery") region.
+Note:  If Ryder comes across the Flophouse on an unrelated mission or through exploration, the first objective is bypassed and the second objective starts automatically.
+
+Investigate the flophouse[]
+When Ryder gets close to the navpoint, the next objective will be added. 
+
+Enter the command center[]
+When Ryder enters the Flophouse from the east gate, Outlaw forces will attack Ryder. Engage the initial force and head towards the upper floor of the central building. When Ryder reaches the upper floor of the central building, a new set of objectives will be added.
+
+Override the security station[]
+There are multiple alarm consoles throughout the entire complex and any alarm console will silence the alarm.
+Consoles that can silence the security alarm are marked . You will be under constant attack until the alarm is silenced.
+Head into the room on the upper floor of the central building and interact with the console to disable the alarm. 
+Head back outside the room and defeat the remaining forces in this area.
+Entering from the east gate, the structures in this area:
+
+There is a small single story building with a lootable container on the right.
+There is a large central building with a Console on the upper level that will disable the security alarm. There is also a datapad in this room that gives the mission Crisis Response.
+There is a complex of tanks and piping to the center right.
+There is a guard tower on the left.
+There is a large gap in the rocks to the north (with a large yellow vehicle in the middle) that leads into the rest of the Flophouse.
+In the next area, past the yellow vehicle, Ryder will come under attack from additional Outlaw forces this time including a Hydra. Defeat the forces.
+The structures in this area:
+
+On the left after entering, are two tanks and a small building.
+A series of large piping and tanks are to the right.
+Straight ahead is a two story building:
+On the lower floor, there is a lootable container and a Console that will deactivate the alarm.
+On the upper floor, there is a Security Console to be scanned for the Secure Storage room and a large lootable container.
+Hold your ground until the security can be hacked[]
+Past the two story building is the command center and Ryder will come under attack again by more Outlaw forces. The alarm will start again. Head back into the lower floor of two story building and interact with the marked Console  to deactivate the alarm. Ryder will be under constant attack until the alarm is silenced.
+Defeat the forces and then head to the doorway leading to the location of the navpoint (inside the command center). Ryder won't be able to get to the navpoint as the doors are locked but a new objective will be added.
+
+Optional: access the secure storage room[]
+Before moving forward, you can either choose to enter the command center right away or do an optional set of objectives to enter the secure storage room. You MUST enter the secure storage before the command center or the secure storage is locked out.
+(This walkthrough will complete the secure storage room first).
+Head back to the two story building and this time head to the upper floor. Enter the room and scan the Security Console in the room. Two new objectives will be added.
+
+Optional: disable all security consoles[]
+The security console that you just scanned is green-colored at the moment and has been marked . Interact with the Security Console to disable the it and the console changes red-colored. Loot the container in the room.
+You can then head to the upper level of the area by heading up the staircase to the right of the command center or by jumping onto the roof of the two story building and then jumping up to the upper area.
+Once again Outlaw forces attack en masse. Defeat them.
+The structures in this area:
+
+On the right is a guard tower.
+Past the guard tower is another series of pipes and tanks.
+On the left is a single story building with two doors:
+There are two consoles in this building to scan. One of the consoles is another console to be deactivated for the secure room. As before, scan the terminal so it turns green-colored/becomes marked  and then interact to deactivate and turn red-colored.
+There is a lootable container in this building.
+There is a datapad in this building.
+
+
+
+
+
+Encrypted Message
+Drop the drive core at our ops base. 
+
+Don't get followed. This is priority one. 
+
+New door code:
+
+password123
+
+
+Past the first set of buildings in this area, on the left, is the secure storage room marked with . Straight ahead is another series of buildings and more Outlaw forces. Defeat the forces.
+The structures in this area:
+
+On the upper level of the large building:
+There is another console in the room to be deactivated for the secure room. As before scan the terminal so it turns green-colored/becomes marked  and then interact to deactivate and turn red-colored.
+There is a lootable container in the room.
+Once the third console has been deactivated, the secure room will now be open. Ryder will be awarded +530 XP, +73 AVP , and +5% viability. Head back to the secure room. Note:  Inside the room is Heat Hazard Level 1.
+
+There is an Adapted Initiative Core Tech inside the room that can be scanned for +100 .
+There is an Angaran Integrated Tech Node inside the room that can be scanned for +100 .
+There are six lootable containers inside the room.
+While inside the secure storage room, the alarm will go off again and more Outlaw forces will arrive.
+Head to the location where the third security console was deactivated but instead of going to the top floor, this time stay on the ground level and into the door on the left. Inside the building is a lootable container. Past the container and through several rooms will be another Console . Interact with the console to deactivate the alarm. Ryder will be under constant attack until the alarm is silenced.
+Once the forces are defeated, Ryder can continue past this two story building to the southeast towards a bridge with a building at the end with a small landing pad on the right. As Ryder approaches the building, more Outlaw forces will exit the building to attack Ryder.  Some forces will spawn behind Ryder as well so be aware. Defeat them.
+Head into the building and interact with the console to start the hack.
+
+Hold your ground until the security can be hacked[]
+You will now have to stay inside the white circle on the ground during the hack or the progress bar won't complete. A timer will start counting down andOutlaw forces will attack until the hack is complete. A dropship will fly in and drop off additional forces as well.
+
+Clear out the command center[]
+Once the hack completes, this objective is added. Finish off the remaining Outlaw forces that attacked during the hack. Head back to the previously locked door at the command center on the lower level.
+When Ryder interacts with the door, all of the previously closed metal window shutters will open and Outlaw forces will attack Ryder. Defeat them.
+There is a staircase inside the building leading the upper level. Opening one of the two closed doors adds the next objective.
+
+Defeat the leader of the flophouse[]
+You will now come under attack from Strogjaw Grog (marked with ) and additional Outlaw forces. Once Strogjaw dies, this objective is complete (whether there are additional forces left or not). The next objective is added.
+
+Eliminate the defenders[]
+Eliminate the remaining Outlaw forces in the command center and this objective will complete. A new objective will then be added.
+
+Clear the flophouse of scavengers[]
+Inside the room a new navpoint has been added. Head to the navpoint at the console and interact with the console. Ryder comments that the console must open a cache back in the cave, but it does not, in fact, unlock anything, and is the end of the mission.
+
+Rewards[]
++1330 XP
++300 AVP 
++10% Elaaden viability
+
+
+

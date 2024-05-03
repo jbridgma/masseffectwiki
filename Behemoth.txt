@@ -1,0 +1,123 @@
+
+
+
+This article or section is a stub. You can help Mass Effect Wiki by  expanding it. 
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+
+
+Behemoth
+
+ 
+
+
+
+
+
+
+
+Faction
+Kett
+
+
+Weapons / Attacks
+DhanHeadbuttCharge
+
+
+Abilities
+–
+
+
+Armor
+Very High
+
+
+Shields
+–
+
+
+Weak Points
+Head
+
+
+The Behemoth is a heavy offensive unit. This monstrous combination of kett and krogan genetics was formerly one of Nakmor Drack's missing scouts, who turned out to have been captured and experimented on by the kett.
+The first encounter with one of these abominations is aboard the Archon's flagship, Verakan. In the course of releasing the captured ark Paarchero from the kett, Pathfinder Ryder's team is forced to face off against one and kill it.
+Later, Ryder has to choose between rescuing salarian Pathfinder Zevin Raeka or the captured krogan scouts. If the scouts are not rescued, the kett will exalt them into more Behemoths. Otherwise, the kett are unable to continue in their experiments of krogan exaltation and they will no longer appear in further missions after the first encounter.
+Regardless of the above, several Behemoths can be seen on Firebases across the Heleus Cluster among kett forces battling APEX teams. They usually serve as "boss" type units in Assassination waves or later waves in general.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Exalted Krogan
+
+
+DATA:
+Organic lifeform
+55% kett DNA
+26% krogan DNA
+12% unknown composition
+7% unknown composition
+ANALYSIS:
+A raw, incomplete fusion of kett and krogan with a bone exoskeleton rendering it nearly impervious to damage. Its neurochemistry is erratic, resulting in insanity. It's unlikely even the kett can control it.
+
+Description[]
+These unfortunate individuals were once krogan. After capture, experimentation, and attempts at exaltation, they are now Behemoths, bearing the characteristic white carapace of the kett and the strength of a krogan in full fury. 
+Behemoths appear to be an early attempt at exaltation, and the process for the krogan is as yet unrefined. Unlike exalted angara, whose transformation is genetically and neurochemically stable, Behemoths are unable to produce enough serotonin to break out of the feedback loop that results in krogan blood rage, rendering them permanently aggressive and non-communicative. In addition, DNA samples suggest Behemoths are susceptible to hypothalamic tremors, further evidence that exaltation is intended to affect the body's oxytocin production and social bonding responses. 
+Fighting a Behemoth is not for the unprepared. With a krogan's resilience to gunfire and preference for charging into melee, APEX tactics currently revolve around multiple rocket-propelled grenades.
+
+
+Capabilities[]
+Offensive
+The Behemoth is armed with a Dhan that it does not fire normally. Instead it shoots a semi-tracking orb that detonates and leaves a damage-over-time energy sphere that lingers at a location for several seconds before dissipating. Like its krogan template it can charge at nearby enemies then wallop it with a headbutt or by swinging its gun.
+
+Defensive
+The Behemoth is heavily armored. Like its krogan template it can regenerate some of its armor when going berserk.
+
+Tactics[]
+The Behemoth is a formidable damage sponge that can occasionally regenerate its health. Combo detonations are essential in draining its health faster than it can be replenished.
+As a dangerous melee fighter, this unit is preferable to be engaged in range. While it shoots tracking projectiles they can be avoided by sharp turns and quick dashing.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

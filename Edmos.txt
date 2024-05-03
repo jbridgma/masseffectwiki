@@ -1,0 +1,50 @@
+
+
+
+
+
+Edmos
+
+Region
+Milky Way / Hades Gamma / Antaeus
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+3.65 AU
+
+
+Orbital Period
+7.8 Earth Years
+
+
+Keplerian Ratio
+0.799
+
+
+Radius
+36,826 km
+
+
+Day Length
+13.7 Earth Hours
+
+
+Location: Milky Way / Hades Gamma / Antaeus System /  Second planet
+
+Description[]
+Edmos is a standard hydrogen-helium gas giant with traces of methane in its atmosphere. If Trebin's terraforming is successful, it is expected that a helium-3 fuel refining facility for the system will be set up here.
+
+Assignments[]
+Survey: UNC: Valuable Minerals:    Gas Deposit ×1 (Hydrogen)
+Properties[]
+Edmos is too small to be a "standard hydrogen-helium gas giant" (William Hubbard, The New Solar System 4th ed, 1999; p. 194). It is more likely a dense "ice giant" like Neptune or Gliese 436 b.
+
+
+
+

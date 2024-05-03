@@ -1,0 +1,173 @@
+
+
+
+
+
+Vorcha Soldier
+
+
+
+
+
+
+Class
+Soldier
+
+
+Race
+Vorcha
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Rebellion Pack
+
+
+Abilities
+Bloodlust/MeleeIncreased MobilityRegeneration
+
+
+Vorcha are considered vermin by other species inhabiting Citadel space, but their unique physiology and innate aggressiveness make them shockingly durable combatants.
+A vorcha's resilience and malleable DNA allow them to evolve and adapt to any situation, making them formidable opponents on the battlefield. Their lightning-quick pounce is a direct result of their societally ingrained bloodlust.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Trivia
+
+
+Powers[]
+
+
+
+
+
+Shield: 250 / Health: 750
+
+
+Class: Vorcha Resilience
+
+
+ Bloodlust
+
+
+
+
+ Flamer
+
+
+
+
+ Carnage
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Claw slash
+Melee Sequence: The Vorcha Soldier slashes at the enemy continuously with omni-tool claws.
+Heavy Melee – The Vorcha Soldier pounces toward an enemy and slashes outwards with omni-tool claws. A fatal blow will decapitate a humanoid enemy.
+Grab (Omni-Claw Slash) – The Vorcha Soldier drags an enemy over cover and then executes them with four alternating slashes from omni-tool claws.
+
+
+
+
+
+Dodge – the vorcha leaps away from incoming attacks on all fours.
+The Vorcha Soldier can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The Bloodlust power can be triggered by almost any enemy kill, excepting only minor "summoned" enemies such as Swarmers, Seeker Swarms, Combat Drones, or Geth Turrets. Each Bloodlust stack lasts only fifteen seconds, which forces Vorcha to constantly kill in order to keep the maximum bonuses that Bloodlust offers.
+Assisting with an enemy kill also counts, getting the actual killing blow is not required.
+No particular method of getting kills is required, unlike krogan Rage, which requires melee kills and actual killing blows.
+The melee attacks of the vorcha classes are relatively fast and damaging. The melee claw swipe deals as much damage as the basic sword slash of the N7 Slayer Vanguard.
+Melee combat should be approached carefully. Vorcha can be killed when attempting heavy melee against stronger enemies or large groups. Misjudgment of health in enemies with instant-kill abilities will place you within lethal range for these attacks. That aside, it is among the fastest heavy melee attacks in the game. It closes distance to the target like a krogan's charge, though it is easier to aim at close ranges. Thus, between melee damage evolutions from Bloodlust and Fitness, one can move rapidly from target to target, shredding enemy infantry. That being said, make sure you have a close quarters weapon so that you may backpedal and regain your composure if things get a little too hot. Banshees should be avoided, since they can execute you very easily if you try to melee them.
+Though it will limit your long-range capabilities, consider dropping Carnage for Fitness. With Fitness ranked for defence and the health-regeneration bonuses from Bloodlust, the Vorcha Soldier can negate the damage from all but the most concentrated attacks, even withstanding whole volleys from Ravagers and shrugging off the Brute's melee. If building a close-range vorcha, use this method to improve survivability to its maximum.
+Flamer is an extremely powerful tool at short range. With damage-increasing evolutions, Flamer will burn down whole infantry squads if the stream of fire is spread throughout the group. By the same token, there's not many enemies in the game that can withstand a concentrated Flamer attack. This makes the vorcha a great choice for taking on such 'boss' enemies as Brutes and Scions. Just be wary of enemies with both high health and some form of extra protection, like Atlas mechs and Banshees.
+Though Flamer is usually evolved to deal extra damage to armor, it is also viable to take the Rank 6 Shields and Barrier damage evolution instead.  This is especially useful against Cerberus forces, since it will quickly strip the shields off Centurions, Combat Engineers, Nemeses, and Phantoms.  Furthermore, when stripped of their shields, most Cerberus troops will panic, making them easy prey.  It is somewhat less effective against Geth, since synthetics do not panic, but since almost all enemies have some form of shielding, it gives the Vorcha some added versatility when dealing with this faction
+Consider taking the N7 Hurricane with this class. The movement speed and regeneration provided by Bloodlust allow the player to get close enough for the Hurricane to be effective at stripping shields, making them easy prey for Flamer.
+Cerberus[]
+Flamer's high-damage evolutions can kill groups of unprotected Cerberus units very quickly at close range. Against Phantoms and Atlases, caution should be used since, on higher difficulties, they can easily inflict more damage than you can handle. It is when engaging these kinds of enemies that you should consider staying close to teammates.
+Opt for a weapon with innate penetration, or use a piercing mod on one of your weapons to make sure Guardians don't get the edge on you.
+Collectors[]
+Be very careful when fighting Collectors with the vorcha because the Collectors are ranged specialists and can deplete your shields quickly from range.
+Flamer's extra burning evolution will be very useful at staggering the Collectors. When they are staggered you will have a chance to run away or just right away kill the enemy. Using this tactic will be useful on small enemies (Collector Captain, Collector Trooper) but be cautious when using this on Scions and Preatorians because these enemies will be hard to stagger and have an advantage at close range.
+The vorcha heavy melee, like all decapitating attacks, can be used to finish Abominations and Possessed Abominations without detonating them.
+Geth[]
+Flamer's high damage evolution can quickly kill groups of unprotected geth units, as it does very high damage to armor. Otherwise, all geth (except Geth Troopers) have shielding protecting themselves from any flame attacks. Equipping an anti-shield weapon such as the Reegar Carbine or Acolyte may help.
+Flamer should not be used on Geth Pyros. On higher levels, they can kill you quicker than you can kill them.
+The geth are "hard-hitting" specialists and will drop vorcha's health quicker than they can regenerate, especially when being attacked by multiple enemies at once, so a "cautious but aggressive" approach would be best here.
+Reapers[]
+Flamer's high-damage evolutions can effectively kill groups of unprotected Reapers, due to the majority of enemies having armor or just health. With the Armor Damage evolution for Flamer and both health regeneration evolutions, the Vorcha Soldier is capable of taking down Ravagers and Brutes easily.
+Focus on close-range engagements against large clusters of light infantry, and seek fire support from your team when up against Banshees.
+The green acid puddle that Ravagers release upon death deals minimal damage to the vorcha, provided that Bloodlust stacks are still active.
+Trivia[]
+The vorcha classes in Mass Effect 3 Multiplayer have a unique way of referring to certain powerful enemy types; for example, they refer to Phantoms as "Ghosts!", and a Brute as "Big monster!"
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

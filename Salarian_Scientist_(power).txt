@@ -1,0 +1,76 @@
+
+
+
+Salarian Scientist is a passive class power in Mass Effect 2.
+
+See also: Squad Members Guide (Mass Effect 2)#Mordin
+
+Strengthens Mordin's combat skills, weapon damage, health, and shields.
+
+Power Ranks[]
+Rank 1 - Mordin's tinkering with weapons, drugs, and technology increases his health, weapon damage, and the strength of his shields.
+Health: +6.00%
+Weapon Damage: +6.00%
+Shields: +6.00%
+Rank 2 - Mordin's tinkering with weapons, drugs, and technology increases his health, weapon damage, and the strength of his shields.
+Health: +12.00%
+Weapon Damage: +12.00%
+Shields: +12.00%
+Rank 3 - Mordin's tinkering with weapons, drugs, and technology increases his health, weapon damage, and the strength of his shields.
+Health: +18.00%
+Weapon Damage: +18.00%
+Shields: +18.00%
+
+Rank 4
+Evolves Salarian Scientist into one of the following options:
+
+Salarian Genius[]
+Mordin's technical breakthroughs further increase the strength of his shields.
+Health: +25.00%
+Weapon Damage: +18.00%
+Shields: +25.00%
+Salarian Savant[]
+Mordin's study of ballistics, physics, and shock trauma increase his weapon damage.
+Health: +25.00%
+Weapon Damage: +25.00%
+Shields: +18.00%
+Player Notes[]
+Availability[]
+Mordin Solus
+
+
+Mass Effect 2 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Shredder Ammo • Warp Ammo
+
+
+Biotic
+
+Barrier • Charge • Dominate • Pull • Reave • Shockwave • Singularity • Slam • Stasis • Throw • Warp
+
+
+Combat
+
+Adrenaline Rush • Concussive Shot • Flashbang Grenade • Fortification • Inferno Grenade • Shadow Strike
+
+
+Tech
+
+AI Hacking • Combat Drone • Cryo Blast • Energy Drain • Geth Shield Boost • Incinerate • Neural Shock • Overload • Tactical Cloak • Tech Armor
+
+
+Player only
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Defender • Operative • Tech Mastery • Unity
+
+
+Squadmate Class
+
+Ardat Yakshi • Asari Justicar • Asari Scientist • Cerberus Officer • Cerberus Operative • Turian Rebel • Drell Assassin • Geth Infiltrator • Krogan Berserker • Master Thief • Mercenary Veteran • Quarian Machinist • Salarian Scientist • Subject Zero
+
+
+
+

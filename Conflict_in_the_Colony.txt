@@ -1,0 +1,59 @@
+
+
+
+A krogan contact named Jorgal Strux has asked to meet secretly at the Paradise on Elaaden.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Visit the Paradise
+2.2 Locate a krogan named Jorgal Strux
+2.3 Speak to Strux
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Elaaden: A New World
+
+This mission starts automatically on the first visit to Elaaden groundside. 
+
+Walkthrough[]
+The goal is simple: follow the navpoints and talk to the person at the end.
+
+Visit the Paradise[]
+The generated navpoint is in The Paradise. A new navpoint will be added on approach.
+
+Locate a krogan named Jorgal Strux[]
+Head to the navpoint to see the krogan. On approach to the shuttle pad right outside Paradise his Jorgal clansmen declare their wish to have Strux run things.
+
+Speak to Strux[]
+Strux reveals that a krogan named Nakmor Morda has become a tyrant and intends to destroy the Nexus - among other things. Nakmor Drack trusts Morda and doesn't believe this. Strux advises Pathfinder Ryder to visit the krogan colony New Tuchanka and talk to their inside guy Ravanor Brenk for proof.
+The mission completes after the conversation and the follow-up mission Parlay with the Krogan starts automatically.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Elaaden viability
+
+Elaaden Navigation
+
+
+← Previous Mission
+
+Mission Index
+
+Next Mission →
+
+
+Elaaden: A New World
+
+Missions (Mass Effect: Andromeda)
+
+Parlay with the Krogan
+
+
+
+

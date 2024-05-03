@@ -1,0 +1,72 @@
+
+
+
+The following are transcriptions of the artists' comments for the design gallery "The Technology of Mass Effect: Normandy - 1st Floor" found on the bonus content disc of Mass Effect released in 2008.
+
+Contents
+
+1 Image 1
+2 Image 2
+3 Image 3
+4 Image 4
+5 Image 5
+6 Image 6
+7 Image 7
+8 Image 8
+9 Image 9
+
+
+Image 1[]
+Derek Watts: So once we had the exterior of the Normandy done, we knew we had to do the interior. This is a concept done up of what maybe some of the hallways would look like, how the beams would look, maybe how some of the flooring is. So from this we might take some of these and build them as detail meshes. This has some nice beams that we could maybe build, add to the ship, give it character. We looked at a lot of movie reference, a lot of other books. We looked at Solaris, Red Planet, and various other movies from there.
+
+Image 2[]
+Derek Watts: This is another concept done up. This was done up in SketchUp. You can see the top left... When you start the game, you're in the cockpit of the Normandy, you walk down the hallway, you have all the navigational equipment, all the people, the crew sitting in the low seats. That's what's up on the top left. And then you come down into where the galaxy map is, and this is an earlier concept of how that would look. You can see the areas where the computers would be and how you'd walk up that ramp to access the galaxy map.
+
+Image 3[]
+Derek Watts: These are some drawings of the cockpit. This is where Joker is sitting with Kaidan at the beginning of the game. So these drawings seem fairly small. In games, it's hard to do these really tight areas, especially if you have a party system. In the Normandy, you're just by yourself, but still we have to have enough room to pan the camera around, give the player enough freedom to be able to move or else, he gets stuck in some of the corners and so on. But we still wanted that feeling. It was dark, you'd see all the equipment, almost like a modern submarine. So, this was a cockpit where we'd just have Joker at the front. We ended up putting two seats up front and then navigational seats-- copilot seats on either side of those.
+
+Image 4[]
+Derek Watts: This is another concept of the cockpit; maybe how the seat would look, how all the instrumentation would really wrap around him. Again, we ended up expanding this. If you look at the exterior of the Normandy, there's really no front window on it, it only has windows on either side, so it's mostly fly-by instruments, a lot of holograms, really crowd up that cockpit to make it seem science-fiction.
+
+Image 5[]
+Derek Watts: And this is another concept of the cockpit, just a different orientation for the pilot and copilots. Again, there's not much room in there, but we used some of the elements in these in the final design.
+
+Image 6[]
+Derek Watts: This is a concept done up of what you might see out the front, how the windows are on either side. We ended up moving those back. Originally, we were just going to smoke them black so you actually couldn't see outside, but we eventually made them clear so you could actually see some of the galaxies. This can cause problems because you've got to try and line up all the interiors of the different hangars with what you see outside. So you make this big card of all the different shots, and you move it up and down as you move to the different areas of the game.
+
+Image 7[]
+Derek Watts: So this is a concept of that first walkway as you're coming back from the cockpit to go towards the galaxy map. You can see the chairs on either side. We wanted this low-down feeling, so as you walk down, you're above all the people. They'd be working on the instrumentation, give a real high-tech feeling. A lot of people are involved with this ship to keep it moving, and it's not a small smuggler ship like the Millennium Falcon where it's just Chewbacca and Han Solo flying it. This-- You need a whole crew to make it work, it feels like a real military vessel.
+
+Image 8[]
+Derek Watts: This is another concept of that main walkway area. We did quite a few of this place because it was important. Some of the things we made detail meshes was we took the chairs, made a detail mesh of that, textured them up on their own. Some of the elements of the computers we took to the final game, and then just have a lot of instrumentation down here, which turned out really good. There's a scene in Solaris where you're first flying into that movie, and you just get this view of this amazing cockpit and the ship with just all the lights, and that's something we wanted to try and pull it through this.
+
+Image 9[]
+Derek Watts: This is also another view, maybe a quick drawing of some of the colors. We eventually went with blue in this area. In science-fiction, you can't really go wrong with blue. When in doubt, go blue. And then the holograms: orange, nice contrast color; and it worked out really well.
+
+
+
+Mass Effect Bonus Content Disc
+
+
+Documentaries
+
+Inside Mass Effect • The Vision of Mass Effect • The Making of Mass Effect • Interactive Storytelling • Sci vs. Fi: Mass Effect • Making Bring Down the Sky • Beyond the Game • The Future of Mass Effect
+
+
+Galleries: Creatures
+
+Asari • Creatures • Elcor • Geth • Hanar • Humans • Keepers • Krogan • Quarians • Rachni • Salarians • The Thorian • Turians • Unrealized Concepts • Volus
+
+
+Galleries: Environments
+
+Caleston • Citadel • Early Concepts • Eden Prime • Feros • Ilos • Noveria • Virmire
+
+
+Galleries: Technology
+
+Geth Weapons • Human Furniture • Human Helmets • Human Items • Human Weapons • Ground Vehicles • Mass Relays • Space Vehicles - Geth • Space Vehicles - Human • Space Vehicles - Other Races • Space Vehicles - Turian • Normandy - 1st Floor • Normandy - 2nd Floor • Normandy - 3rd Floor • Normandy - Exterior
+
+
+
+

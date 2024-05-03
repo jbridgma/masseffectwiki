@@ -1,0 +1,249 @@
+
+
+
+See also: Adept Guide, Adept Guide (Mass Effect 3)
+
+Adepts are outfitted with L5x implants that can spawn a micro-singularity, damaging enemies and pulling them into the air.
+Power Training: Singularity, Warp, Throw, Pull, Shockwave
+Weapon Training: Heavy Pistol, Submachine Gun
+Adepts are biotic specialists, capable of disabling and killing enemies with raw biotic power. While they lack advanced combat training, they are the best at defeating enemies without firing a shot.
+
+Contents
+
+1 Overview
+2 Powers
+
+2.1 Class powers
+
+2.1.1 Singularity
+2.1.2 Pull
+2.1.3 Shockwave
+2.1.4 Warp
+2.1.5 Throw
+2.1.6 Biotic Mastery
+
+
+2.2 Notable Bonus Powers
+
+2.2.1 Barrier
+2.2.2 Dominate
+2.2.3 Stasis
+2.2.4 Warp Ammo
+2.2.5 Armor Piercing Ammo
+2.2.6 Energy Drain
+2.2.7 Reave
+2.2.8 Slam
+
+
+
+
+3 Weapons and equipment
+
+3.1 Weapons
+
+3.1.1 Heavy pistols
+3.1.2 Submachine guns
+
+
+3.2 Heavy weapons
+
+3.2.1 M-100 Grenade Launcher
+3.2.2 ML-77 Missile Launcher
+3.2.3 Collector Particle Beam
+3.2.4 M-622 Avalanche
+3.2.5 M-920 Cain
+3.2.6 M-490 Blackstorm
+3.2.7 M-451 Firestorm
+3.2.8 Arc Projector
+
+
+3.3 Advanced Weapons Training
+
+3.3.1 Assault rifles
+3.3.2 Shotguns
+3.3.3 Sniper rifles
+
+
+
+
+4 Combat guide
+5 Squad members
+
+
+
+Overview[]
+The Mass Effect 2 version of the Adept is more streamlined than the Mass Effect version of the Adept. It still has the same crowd control ability, but that ability is now condensed into two powers: Singularity and Pull. Warp was also changed from a debuff/denial of access into a straight damage power to complement Throw and to provide options for damage abilities. Shockwave works as a bit of both, doing moderate damage and knocking targets off their feet for a brief period. When combined, these abilities can wade through unprotected targets allowing very little return fire.
+The Adept is indeed the best class for killing enemies without firing a weapon, but since you have weapons, why not use them? While your starting weapons are not impressive, you can take on additional weapon training later, and on a second or subsequent playthrough, you may choose an ammo power to complement your biotics as well.
+The Adept does come with a significant drawback with regard to shields (and to a lesser extent, armor). The mechanics of Mass Effect 2 were changed so that an enemy with any form of protection cannot be controlled, and biotic abilities are very bad at burning through shields. This forces you to rely on your squadmates or your weapon damage to whittle down protected enemies, only using biotics to finish them off. Since protected enemies often come with unprotected friends, however, an Adept is hardly useless, just not as impressive.
+
+Powers[]
+Class powers[]
+Singularity[]
+Main article: Singularity
+Singularity has a large area of effect and can be placed like a mine to capture multiple charging enemies, but it does not hold enemies as long as Pull. Singularity is an extremely powerful tool for crowd-controlling many protected enemies, which are repeatedly staggered by it (including dangerous enemies like krogan, Harbinger, Scions). Since Singularity stays in place and be used to capture several enemies, it can also be very cooldown efficient. When comparing Singularity and Pull, Pull has a faster cooldown and a faster projectile, both of which can make a big difference especially against multiple fast moving enemies that could outrun Singularity.  Pull can also execute a faster combo with Warp.  Having Pull as a second option for holding enemies is very useful since casting Singularity again collapses an existing one.  Finally, Singularity can occasionally fling enemies away from its vortex in random directions, while Pull will more reliably hold enemies helpless for its entire duration.  
+Singularity can affect enemies through terrain even if it hits the wrong side of their cover however this effect while useful is somewhat unreliable. Much like a combat drone, Singularity periodically staggers most protected enemies and can force them to stand up, instead of ducking behind cover.
+Singularity does not work very well at rank 1 and 2. It very often doesn't affect enemies behind cover and collapses very quickly against protected enemies. Upgrading makes a huge difference and should be a high priority. Either evolution of Singularity has its advantages. Wide Singularity works much more reliably against enemies behind cover and the larger radius can be useful in other cases as well. However, holding protected enemies drains the Singularity quickly (especially if multiple enemies are in the area of effect). Heavy Singularity holds protected enemies much longer.
+Singularity will stagger protected husks. Once armor is stripped, they are killed instantly by the Singularity. The staggering effect can be used to collect groups of husks into a tightly packed bunch where they can then be hit by other area of effect abilities such as Incinerate to strip their armor and kill them.
+Singularity does a reasonable amount of damage to defenses (armor, barriers and shields). It can lock down a tough protected enemy and slowly drain its defenses (Heavy Singularity works best for this). This can also be useful if enemies have a very small amount of defenses left.
+
+Pull[]
+Main article: Pull
+Unlocks with Singularity at level 2.
+Pull affects a single enemy (or a small area if you choose its Pull Field evolved form). Compared to Singularity, it holds enemies for longer and recharges faster. Pull literally pulls an enemy off the ground and leaves them hanging in the air. Pull fires in an arc, and the caught enemies will float off in the direction they were hit from. To this effect, it can be used to drag enemies over chasms or off ledges like Throw. It works similar to the Lift power from Mass Effect, in that when the power ends, the suspended enemies take damage from falling to the ground. It also works great in combination with other powers such as Throw. It is worth noting that husks are killed instantly when crowd controlled (i.e., lifted off the ground or pulled into a Singularity), and so Pull can trivialize the two main story missions with lots of husks.
+Enemies affected by Pull take double weapon damage and don't fight back. This greatly increases weapon damage dealt by the squadmates, since they will also fire longer and have a better hit rate (not shooting at enemies behind cover).
+
+Shockwave[]
+Main article: Shockwave
+Unlocks with Pull at level 2.
+It is hard to classify Shockwave as damage or control, since it works as a bit of both. It sends out a series of explosions in a straight line in the direction you're facing that knocks people around and does damage. Shockwave has a huge area of effect and these explosions can climb cliffs and hit targets behind cover, but the trade off is that it's hard to control and the result of the impacts can be unpredictable. Enemies lying down behind cover are hard to hit, but at least they aren't going to be shooting back for a few seconds. The strength of the explosions is a bit more than half that of Throw at the same rank, but the number of explosions means that you can often catch multiple enemies, even if they are hiding behind different pieces of cover at different distances. Shockwave works wonders against waves of unprotected husks who are instantly killed by this power.  Shockwave also reliably staggers even most protected enemies for roughly two seconds.  Shockwave's true niche within the suite of biotic powers available to the Adept comes from what makes it unique: it can be used without any line of sight to enemies and it strikes through cover. Shockwave shines in situations where poking out to fire any other power would be too risky, such as when under especially heavy fire or waiting for shields to recharge.  The staggering and knockback effects of Shockwave can not only help Shepard when "blind fired" in this way but also provide valuable support to squadmates.  
+
+Warp[]
+Main article: Warp
+Warp is highly effective for stripping armor and barriers, dealing double damage against them. While not receiving a damage bonus against shields, it is by far the most shield-damaging power available to Adepts (excluding bonus powers). It will also apply its listed damage to health and stop health regeneration (e.g. on krogan and vorcha). Using Warp on enemies lifted with Pull, Singularity or Slam triggers a Warp explosion (huge radius compared to other AOE powers). This powerful explosion will throw unprotected enemies around and may throw them off of ledges, killing them.
+Warp explosions can often be chained, stripping defenses on a first enemy and using the explosion damage to strip defenses on his comrades preparing them to be detonated themselves (on Insanity, damage from a single Warp explosion is not enough to strip defenses). Singularity can be used to hold a protected enemy in place while stripping his defenses. Once they are stripped, he will likely be captured by the singularity and is ready for detonation.
+On lower difficulty levels, Unstable Warp with its noticeably larger radius can be a good choice. Explosion damage will often be able to strip protections and kill unprotected enemies. On Insanity, Heavy Warp works better, since it allows more efficient stripping of defenses (e.g. a vorcha may require a single Heavy Warp or 2 Unstable Warps for stripping armor; a krogan 5x Unstable Warp or 4x Heavy Warp) and the explosion damage is higher. (For squadmates, the lower cooldown of Unstable Warp and increased explosion radius make up for the reduced damage.)
+
+Throw[]
+Main article: Throw
+Unlocks with Warp at level 2.
+Throw is a physics based attack with its effectiveness depending a lot on the environment. Damage to lifted (Pull, Singularity, Slam) and frozen enemies is significantly increased. There is a very small chance that frozen enemies shatter outright, not just due to running out of health.  It should be noted that enemies in the process of freezing are unaffected by the force component of any power including Throw until fully frozen. 
+Throw requires careful targeting and timing for maximum effectiveness. The direction a target will be thrown is dependent on the Throw projectile's vector when it hits said target and learning how to control this vector with an arcing projectile can take a little practice. To maximize throw damage the target needs a bit of room to accelerate; an enemy thrown into a nearby obstacle will likely take little damage. Throw shines where enemies can be thrown off ledges to an environmental death.  In some environments, throwing enemies into the sky or ceiling will kill them as well. The lift phase of Slam is great for pitching them to a good height when they are close (using Miranda's Slam and the player's Throw or the player's Slam and a squadmate's Throw).
+Using Throw as a damage power by flinging enemies into obstacles is of questionable utility since they often survive even Heavy Throw especially on higher difficulties. If they land in a protected spot, they may even regenerate their defenses. Using weapon fire (which does increased damage to floating enemies) or a Warp explosion (when there are multiple enemies) are usually better options. The game's physics engine can be highly unpredictable and enemies bouncing around may land in the perfect position to flank you. Occasionally, thrown enemies will take almost no damage, even if the Throw targeting was perfect.  An exception to the above is husks, where Throw, like any power with a force component, will cause instant kills against unarmored husks.  Throw comes with the added bonus of also instantly killing the dangerous Abomination variant, as it causes them to explode upon contact with the environment if successfully thrown, hopefully well clear of you and your allies.  
+
+Biotic Mastery[]
+Main article: Biotic Mastery (power)
+While not terribly useful at low levels, the top tier of Biotic Mastery is a significant bonus for the endgame. 20% faster recharge time combined with the cooldown reduction research removes some of the disadvantages of the slower abilities and can significantly improve your damage output. 
+The Nemesis evolution with its power damage increase is the more useful option for most Adepts. Bastion is a good option for Adepts relying on Reave for damage over Warp as Reave's damage scales with Bastion's power duration increase. Bastion also provides a bigger health bonus than Nemesis which can lend itself to a niche play style that relies less on shields and more on Reave to constantly regenerate health.  Bastion also increases the lift or hold durations of Singularity and Pull.  Other notable bonus powers that benefit from Bastion's power duration bonus include Stasis, Barrier, and Dominate.  
+
+Notable Bonus Powers[]
+Barrier[]
+Main article: Barrier
+Of the three defense boosting powers, Barrier, being the biotic variant, is usually the preferred version for Adepts, as it benefits from the biotic upgrades that you would already be focused on. While not as impressive at taking down enemies, Barrier does wonders to increase survivability. Instantly being able to throw up a Barrier between you and enemy fire when you are critically low on health can easily mean the difference between finishing the fight and having to start over.
+Medigel/Unity can also be used to recharge shields once the Emergency Shielding upgrade is researched and can to some extent replace Barrier (and on a lower cooldown).  However, Barrier buffs maximum shields, can be cast while moving, and has no activation animation.
+
+Dominate[]
+Main article: Dominate
+Dominate is the biotic version of AI Hacking, working on organic targets. Enemies hit with the skill will double over as if in pain for a moment before recovering and attacking your enemies which eats into the duration of the effect; however this doesn't mean that the power is useless at lower ranks. Basically the two best ways to use Dominate are either to use it at minimum rank, or maximum rank.  On higher difficulties especially, enemy fire does a lot of damage that will quickly kill your new unshielded ally so a level 1 Dominate essentially kills its target while simultaneously drawing fire from enemies for its brief life which you can then rinse and repeat.  Maxing out the power on the other hand creates a more durable ally that distracts and damages enemies for a prolonged period and gives you the option of mind controlling even more enemies to your side before the effects wear off.  
+Enemies that are close to you are generally bad choices since they may retreat to your cover. Particularly good temporary allies are enemies armed with rocket launchers or flamethrowers which can create mayhem once turned against your enemies. Krogan also tend to make great allies, but suffer from a scaled down duration (70% of normal duration).
+
+Stasis[]
+Main article: Stasis
+Requires Lair of the Shadow Broker DLC.
+Stasis provides Adepts with a crowd control ability that works through most defenses. While it prevents the targeted enemy from being damaged during its duration, it also removes it from combat completely, allowing you to focus on its comrades/minions or just take a breather and refresh your shields/pick up more clips. Stasis even works on heavy targets like Scions and YMIR mechs with their defenses active. Additionally, putting Stasis on automated platforms like Rocket Drones is an instant kill, as they will immediately self-detonate once the Stasis is over.  It is particularly useful for Adepts because it benefits from both the biotic upgrades you will already be pursuing, as well as Biotic Mastery. Completing the DLC with one character will enable Stasis as a bonus power choice for all subsequent ones, and as a retrain option for existing ones. 
+
+Warp Ammo[]
+Main article: Warp Ammo
+Warp Ammo gives a boost to weapon damage against barriers, armor, and health. Since Adepts lack any sort of ammo ability, Warp Ammo is a good option. Since many of the kills you attain will be by shooting, the damage boost is quite helpful. Warp Ammo also does extra damage to enemies affected by biotics, so you can use it to finish off enemies that you've rendered helpless with Pull or Singularity.
+
+Armor Piercing Ammo[]
+Main article: Armor Piercing Ammo
+While armor isn't a huge problem for an Adept, it can be a handful to deal with at times, making this ammo useful in those situations. It also helps you finish off unprotected enemies faster. Compared to Warp Ammo, it does no bonus damage against barriers and lifted targets, but does +70% instead of +50% bonus damage at the highest rank.
+You might also choose Armor Piercing Ammo over Warp Ammo if you do not wish to spend points on this skill, because even on Level 1, Armor Piercing Ammo provides +30% damage (which is better than Warp Ammo's +15% at Level 1 and even +25% at Level 2, and comparable to +35% at Level 3), and barriers are quite rare (besides, you have Warp against barriers anyway).
+
+Energy Drain[]
+Main article: Energy Drain
+This power can act as an overload, sapping shields and damaging synthetics while boosting your own shields. This power can help clear defenses so your biotic powers can start affecting targets. Since there is no bonus ammo power that affects shields, this is the best way to improve the Adept's weakness against shielded enemies.
+
+Reave[]
+Main article: Reave
+This power attacks the target's nervous or synthetic systems and prevents healing, such as in the cases of krogan and vorcha. It has the added effect of restoring health and it gives a temporary health bonus when the power is used against unprotected organics. Reave also deals double damage to armor and barriers, and has a disabling effect when used to leech health from most sapient organics, who will double over momentarily before being forced to a standing position as the leech effect continues. This can be used to set up victims for the killing shot while they are helpless and immobile. Reave travels in a straight line and can hit enemy Collectors behind guardian shields (though not from behind regular cover).
+
+Slam[]
+Main article: Slam
+While not the most damaging of powers, Slam is cast instantly and has no travel time. Thus, it is more reliable than Pull in some situations (enemies don't get the chance to hide behind cover). The lift phase can be used for Warp explosions with a squadmate's Warp.
+
+Weapons and equipment[]
+Weapons[]
+Heavy pistols[]
+Main article: Heavy Pistols
+Heavy pistols are the standard sidearm for all classes and for the Adept provide a good close to mid-range weapon. Of the two pistols, the M-3 Predator and the M-6 Carnifex, both are good side arms for the Adept. The Predator is better at range, does less damage, but has less recoil. The Carnifex has better damage but has high recoil. However either weapon is good enough as the only difference that really tells them apart is damage and range. With the addition of the Firepower Pack's M-5 Phalanx, this adds another very powerful pistol to the Adept's arsenal. The Phalanx is another effective weapon that has some serious knockdown power.
+
+Submachine guns[]
+Main article: Submachine Guns
+Since submachine guns will probably be the most used weapon for Adepts during combat situations, it is important to obtain the upgraded weapon as soon as possible. This means either travelling to Haestrom to recruit Tali, or if you have the Kasumi: Stolen Memory DLC pack, travelling to Bekenstein to do Kasumi's loyalty mission as soon as they become available. SMGs are a great addition to the Adept's arsenal and upgrade the amount of damage that the Adept can inflict.
+
+Heavy weapons[]
+Main article: Heavy Weapons
+M-100 Grenade Launcher[]
+Main article: M-100 Grenade Launcher
+The M-100 is a good all around weapon for the Adept. The M-100 makes up for the lack of weapons and weapon damage that the Adept can do. Because the M-100 has a small splash damage area, it helps boost the Adept's crowd-control abilities. Usually if the M-100 doesn't kill an enemy it will at least knock them back for a few seconds, allowing you to hit it with something else such as another grenade.
+
+ML-77 Missile Launcher[]
+Main article: ML-77 Missile Launcher
+The ML-77 Missile Launcher, with its homing ability and large ammo capacity, is good for taking out individual targets. Some of the Adept's powers are better suited to this task but the ML-77 is a good weapon for hitting long-range targets to prevent them from getting closer.
+
+Collector Particle Beam[]
+Main article: Collector Particle Beam
+The Collector Particle Beam is a good weapon for long-range use by the Adept. But because the weapon drains ammo quickly, watch how you use it. The weapon's high damage and ability to damage shields greatly helps out the Adept's lack of shield destroying abilities.
+
+M-622 Avalanche[]
+Main article: M-622 Avalanche
+The Avalanche may not be the best heavy weapon for the Adept to choose. Because the Adept has many powers that can be used for crowd control, the Avalanche's ability to freeze unprotected enemies just adds another crowd-control feature. Although the Avalanche may not do as much damage to shields per shot as some other heavy weapons, its high ammo capacity and rate of fire compensate for that—at the expense, of course, of precious power cells.
+
+M-920 Cain[]
+Main article: M-920 Cain
+The M-920 Cain has a demonstrated universal effectiveness for destroying the last heavily protected boss in a given mission, but is likely to possess only one shot. Because you only get one shot with this weapon, it is advisable for use only in the most extreme circumstances.
+
+M-490 Blackstorm[]
+Main article: M-490 Blackstorm
+The Blackstorm is just another weapon that basically produces a Singularity. However this weapon's orb of energy is beneficial because, unlike the Singularity, as the orb travels it pulls with it any unprotected enemies. Overall not the best weapon for the Adept, but if you need more crowd control, then this is the way to go.
+
+M-451 Firestorm[]
+Main article: M-451 Firestorm
+Unless you like to get up close and personal, which is not recommended with the Adept, then the Firestorm is not for you. The only benefit of this weapon is to use it to fill the close quarters slot that is missing with the Adept because of lack of shotgun training. However, since the Firestorm excels only in close quarter combat, it is not recommended as a good weapon to bolster the Adept's abilities.
+
+Arc Projector[]
+Main article: Arc Projector
+The Arc Projector is proven to take down shields quickly, as well as impairing the movement of husks. This, combined with Shockwave, allows for a very easy way to take down husk hordes. This weapon is also a great way to make up for the Adept's lack of ability to deal with shields and synthetic enemies.
+
+Advanced Weapons Training[]
+During the mission aboard the Collector Cruiser, there will be the option of training in the usage of assault rifles, shotguns, or sniper rifles.
+
+Assault rifles[]
+Main article: Assault Rifles
+Assault rifles are a safe bet for the Adepts because they add a mid to long-range weapon. The ability to unlock assault rifles allows you to cover a distance and immediately improves the Adept's mid-range weakness, where most combat occurs. The Firepower Pack also adds the M-96 Mattock semi-auto rifle, which along with the other assault rifles, provides a great addition to the Adept's arsenal.
+
+Shotguns[]
+Main article: Shotguns
+Shotguns may be the least useful for the Adept as close-range crowd-control weapons, since Adepts already have many powers that can deal with crowds. Accordingly the shotgun would be useful to kill nearby enemies that are knocked backwards, in the air, or on the ground, by Pull, Shockwave, or Singularity. Nevertheless, the Firepower Pack adds the Geth Plasma Shotgun, which is quite effective at mid-range, compared to most other shotguns which are only effective at close-range.  Moreover, most shotguns cause great damage to enemy shields, which is an ability the Adept wants.  Thus, shotguns can provide the necessary means of stripping enemy shields or barriers, allowing Adepts to make full use of their crowd-control and defensive powers.
+
+Sniper rifles[]
+Main article: Sniper Rifle
+Sniper rifles might be useful, but a squadmate can also fill the role of a long-range marksman. Still, a sniper rifle can provide a good long-range weapon, which Adepts lack. However, its limitation to only long-range makes the sniper rifle a somewhat average choice. The Aegis Pack adds the M-29 Incisor sniper rifle, improving the Adept's relative weakness against shields. For Adepts that prefer to keep their distance, sniper rifles are a good choice.
+
+Combat guide[]
+Combat for the Adept is similar to combat in Mass Effect. However the Adept this time around has even more crowd control abilities. Powers such as Shockwave and Singularity make easy pickings for your other squadmates. The Adept is a biotic master, often more devastating through the use of powers and strategy than with weapons alone.
+As for weapons, try to get rid of the M-4 Shuriken as quickly as possible because of its poor accuracy and DPS. Either of the two pistols are a good supplement until then. However, upon acquisition of either the Tempest or Locust, you will find that the pistols are used less often. However the pistols are still a great side weapon should your SMGs fail. When you get to the mission on the Collector Ship, the additional weapon system that you select should be based on your individual playing style.
+
+Squad members[]
+There are two major roles you want for your team members; the ability to take down shields, and the ability to get kills at long-range. When entering an unknown mission, you'll want at least one person who specialises in taking down shields. The Adept is nearly useless when it comes to taking down shields so having a squadmate with the Overload ability will be the best thing to bring along on most missions. Squadmates like Garrus, Miranda, or Kasumi, are ideal. Garrus might be more useful since Miranda and Kasumi have exactly the same weapons as an Adept does, although Miranda's Warp and Kasumi's Shadow Strike are not to be underestimated.
+Having squad members that can kill at a distance to cover for the Adept's lack of long-range capability is something that is useful on any mission. Garrus, Thane, Legion and Zaeed are good in that respect because they have weapons that can be used at long-range, such as sniper rifles. With Grunt's shotgun, he is more suited to close combat; however his assault rifle and tank-like strength make him a good squadmate in many situations. 
+Bringing another biotic with the squad tends to be redundant since their powers are, in most cases, already available to the Adept. Nevertheless, for the Adept who likes to use biotic combos (Warp explosions or throwing lifted enemies), bringing the appropriate complement can make this task much easier and faster. A squadmate's instant Slam or Pull is in some situations more effective the Adept's own similar power, which can easily miss when enemies run around or seek cover.
+Thane's powers don't trigger reliably when he is using a sniper rifle, there is often a significant delay. He should be switched to the SMG when using his powers for biotic combos.
+
+
+
+
+
+Mass Effect 2 Guides
+
+
+
+
+Completion
+
+Walkthrough • Morality • Upgrades • Planet Scanning
+
+
+Classes
+
+Adept • Engineer • Infiltrator • Sentinel • Soldier • Vanguard
+
+
+Other
+
+Squad Members • PC Tweaks • No One Left Behind • Data Hound • Merchants  Research Guide • Interrupts
+
+
+
+

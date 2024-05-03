@@ -1,0 +1,175 @@
+
+
+
+
+
+Vorcha Hunter Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Vorcha
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Retaliation
+
+
+Abilities
+Bloodlust/MeleeIncreased MobilityRegeneration
+
+
+Vorcha are considered vermin by other species inhabiting Citadel space, but their unique physiology and innate aggressiveness make them shockingly durable combatants.
+A vorcha's resilience and malleable DNA allow them to evolve and adapt to any situation, making them formidable opponents on the battlefield. Their lightning-quick pounce is a direct result of their societally ingrained bloodlust.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Trivia
+
+
+Powers[]
+
+
+
+
+
+Shield: 250 / Health: 750
+
+
+Class: Vorcha Resilience
+
+
+ Bloodlust
+
+
+
+
+ Incinerate
+
+
+
+
+ Submission Net
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Claw slash
+Melee Sequence: The Vorcha Hunter slashes at the enemy continuously with omni-tool claws.
+Heavy Melee – The Vorcha Hunter pounces toward an enemy and slashes outwards with omni-tool claws. A fatal blow will decapitate a humanoid enemy.
+Grab (Omni-Claw Slash) – The Vorcha Hunter Engineer drags an enemy over cover and then executes them with four alternating slashes from omni-tool claws.
+
+
+
+
+
+Dodge – the vorcha leaps away from incoming attacks on all fours.
+The Vorcha Hunter Engineer can take cover, and can roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The melee attacks of the vorcha classes are relatively fast and damaging. The melee claw swipe deals as much damage as the basic sword slash of the N7 Slayer Vanguard.
+The Bloodlust power can be triggered by almost any enemy kill, excepting only minor "summoned" enemies such as Swarmers, Seeker Swarms, Combat Drones, or Geth Turrets. Each Bloodlust stack lasts only fifteen seconds, which forces Vorcha to constantly kill in order to keep the maximum bonuses that Bloodlust offers.
+Assisting with an enemy kill also counts, getting the actual killing blow is not required.
+No particular method of getting kills is required, unlike krogan Rage, which requires melee kills and actual killing blows.
+This character is capable of setting off his own tech bursts by first using Submission Net and following it up with Incinerate.
+People finding themselves missing their target often with Submission Net may find it easier to get closer to the target with this character. Due to his Bloodlust, this can be easily accomplished without much risk to yourself on lower difficulties. Some caution should be advised on higher difficulties however since the enemy will be more likely to counter the health regeneration.
+Submission Net can be used to immobilize non-armored targets and render them easy prey for a melee-focused Vorcha. This can be a great help against targets such as Phantoms who would otherwise be dangerous at melee range.
+Weapons that do not instantly hit their target can be paired with Submission Net in a weapons-focused Vorcha Hunter to offset their travel time.
+Cerberus[]
+With the use of Submission Net's Rank 5 Damage/Slow evolution and the Vorcha's mobility, you can easily outmaneuver Dragoons, or slow or even grip Phantoms to prevent them from reaching you, or from moving at all so you can land easy headshots.
+Incinerate is not as powerful as a long, concentrated blast that the Flamer power can yield, but it has range and can curve round corners, or arc over cover to hit targets. It can also be used with Submission Net to detonate Tech explosions. This will prevent you from being at a disadvantage if you like to use said powers.
+Incinerate will also make very light work of Dragoons and unshielded Atlas mechs or infantry and cause Fire Explosions.
+Submission Net can be used to disrupt Phantoms and their cloaking ability, albeit only within 6 metres. Still, it's a nice last resort for when you think the enemy is going to get away, or you know where they are as it may also hold them in place.
+Collectors[]
+Incinerate will work wonders against the Seeker Swarms, unshielded targets, or armored foes, and will as such deal with the Praetorians, Scions, and Abominations more than adequately. Much like the Submission Net, you can also use this to help set up Fire Explosions, which will do even more damage on said enemies.
+Just remember to stay alert for the Seeker Swarms. They will prove a detriment to your power usage and cause you untold amounts of grief if left unchecked.
+The vorcha heavy melee, like all decapitating attacks, can be used to finish Abominations and Possessed Abominations without detonating them.
+Geth[]
+You will struggle against the geth unless you utilise the Acolyte since Vorcha have yet to have any powers geared towards anti-shield duty. But with the Acolyte, you can burn through core systems, and the armor of Pyros, Bombers, and Primes with Incinerate when their shields are down from said weapon.
+Geth are "hard-hitting" specialists, and as such they will very easily strip you of what little shielding you have, and then all your health and then subsequently down you if you are not careful. Stick by your team to prevent yourself from being executed and to help get you back up quickly when downed.
+Submission net can be used as a sort of hazard power, dealing damage over a 6 metre area when evolved with the Electric Field Evolution. As long as said power is used regularly, it can either inflict low-moderate damage on foes, and/or it can help highlight Geth Hunters, which will more often than not be your bane. This will reduce the likelihood of you and your team being killed as a result, as well as set them up for Tech Bursts.
+Reapers[]
+You will have a distinct advantage over the Reapers since this class has the Incinerate power to combat health or armor. Marauders and Banshees are the only problem, with the former making nuisances of themselves, while the latter is much more endurable than the other forces. The former can be netted, but the latter cannot, however Incinerate will have more effect on the latter when they are unshielded.
+With the use of Submission Net's Rank 5 Damage/Slow evolution and the Vorcha's mobility, the player can easily outmaneuver Brutes.
+Submission net isn't as useful against the Reapers as Cerberus, but it can help eliminate the 'pop-shotters' of the Reaper forces and help to keep your team from being shot to death by Marauders or Cannibals.
+It can also set up Tech Bursts for you to detonate, and this will mitigate the only advantage Banshees and Marauders have on you.
+Trivia[]
+The vorcha classes in Mass Effect 3 Multiplayer have a unique way of referring to certain powerful enemy types; for example, they refer to Phantoms as "Ghosts!", and a Brute as "Big monster!"
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

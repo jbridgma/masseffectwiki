@@ -1,0 +1,188 @@
+
+
+
+Bloodlust is a power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Bloodlust[]
+The vorcha flies into a frenzy, increasing movement speed, health regeneration, and melee damage. Each kill intensifies these effects and can stack up to three times.
+Additional stacks last for 15 seconds.Slows power use by 60%.Lasts until deactivated.
+
+Recharge Speed: 4 sec
+Duration: 15 sec
+Movement Speed Bonus: 5%
+Health Regeneration: 50
+Melee Damage Bonus: 10%
+
+
+Rank 2: Recharge Speed[]
+Increase recharge speed by 25%.
+
+Recharge Speed: 3.20 sec
+Duration: 15 sec
+Movement Speed Bonus: 5%
+Health Regeneration: 50
+Melee Damage Bonus: 10%
+
+
+Rank 3: Health Regeneration[]
+Increase health regeneration by 30%.
+
+Recharge Speed: 3.20 sec
+Duration: 15 sec
+Movement Speed Bonus: 5%
+Health Regeneration: 65
+Melee Damage Bonus: 10%
+
+
+Rank 4: Melee Damage/Health Regeneration[]
+
+
+
+Melee Damage
+Increase melee damage of each stack by 10%.
+
+Recharge Speed: 3.20 sec
+Duration: 15 sec
+Movement Speed Bonus: 5%
+Health Regeneration: 65
+Melee Damage Bonus: 20%
+
+
+Health Regeneration
+Increase health regeneration of each stack by 50%.
+
+Recharge Speed: 3.20 sec
+Duration: 15 sec
+Movement Speed Bonus: 5%
+Health Regeneration: 90
+Melee Damage Bonus: 10%
+
+
+
+Rank 5: Power Damage/Weapon Damage[]
+
+
+
+Power Damage
+Increase power damage bonus of each stack by 5%.
+
+
+
+Weapon Damage
+Increase weapon damage bonus of each stack by 5%.
+
+
+
+
+Rank 6: Movement and Melee/Health Regeneration[]
+
+
+
+Movement and Melee
+Increase movement speed bonus by 5%.Increase melee damage bonus by 10%.
+
+Recharge Speed: 3.20 sec
+Duration: 15 sec
+Movement Speed Bonus: 10%
+Health Regeneration: 65 (Melee Damage), 90 (Health Regeneration)
+Melee Damage Bonus: 30% (Melee Damage), 20% (Health Regeneration)
+
+
+Health Regeneration
+Increase health regeneration of each stack by an additional 100%.
+
+Recharge Speed: 3.20 sec
+Duration: 15 sec
+Movement Speed Bonus: 5%
+Health Regeneration: 115 (Melee Damage), 140 (Health Regeneration)
+Melee Damage Bonus: 20% (Melee Damage), 10% (Health Regeneration)
+
+
+
+Player Notes[]
+Mechanics
+Bloodlust Stacks:
+You must have at least one kill to receive the bonuses. Simply having Bloodlust active without amassing kills doesn't have any effect beyond slowing your power recharge speed.
+Every time a kill is made, the duration of the bonuses is reset to 15 seconds. Individual kills are not tracked on separate timers, and individual stacks cannot run out on their own. If 15 seconds pass without any kills, then all accumulated bonuses are lost.
+Because of the above two factors, it's common to lose all accumulated stacks between waves, though sometimes they can be preserved.
+Kills with the Cobra Missile Launcher do grant stacks.
+Unlike the Rage power for the krogan classes where the player character must get the actual killing blow to generate stacks, kill assists do count towards building Bloodlust stacks. This makes a damage-over-time power like Flamer not only useful for building stacks but keeping them active in team games, as burning enemies that die continuously feed the player stacks, regardless of who got the actual kill.
+Killing minor "summoned" enemy types such as Swarmers, Combat Drones, Geth Turrets, and Seeker Swarms does not generate stacks.
+Health regeneration affects how many health points are regenerated per second at each stack.
+At Rank 1, you would regenerate 50 health points per second at each stack.
+At Rank 3, you would regenerate 65 health points per second at each stack.
+At Rank 4, you would regenerate 90, 115, 140 health points per second, scaling respectively to each stack.
+At Rank 6, you would regenerate 140, 215, 290 health points per second, scaling respectively to each stack.
+This is because each stack gives an increased percentage to health regeneration instead of the unit that percentage presents.  Rank 1 does not increase per stack, because there is no percentage to increase it by.  Rank 3 does not increase per stack, as it is intentionally not stated in the game.  Rank 4 and 6 give you a percentage increase per stack.  This means that at Rank 6, you would have 30% added to your base, and an additional 150% per stack.  This would give you 180% at Stack 1, 330% at Stack 2, 480% at Stack 3.
+Assuming health regeneration happened at intervals of seconds, it would take 2.5 seconds to regenerate your full health at 750 health points with fully upgraded health regeneration and Stack 3 Bloodlust.
+Growl: Bloodlust's primary disadvantage is that the stack animation interupts most continuous fire. As the stack increases, the chance of an animation triggering is 5%, 20%, and then 50% on the final stack.[1]
+The 'stack' animation interrupts the weapon firing/reload animations and can be used for reload cancelling on snipers that have a very long reload.
+However, a continuous fire weapon such as the Reegar Carbine will continue to fire and deal damage whilst the animation is active, if the player gets a kill whilst shooting.
+While the stack animation is going on, the vorcha's movement speed suddenly and dramatically increases for about a second.  This can be used to slide in one direction and cover a considerable distance away from nearby targets, a useful defensive skill if engaged in combat with melee enemies like Brutes.
+Unlike shields, health regeneration begins immediately and cannot be halted (even with flames or a Banshee's biotics), allowing the vorcha to take incredible amounts of sustained damage.
+Strategies
+Be advised that while vorcha are capable of sustaining incredible damage, they can only do so if the damage is gradual or slow. Any enemies that inflict singular, big hits, or an extremely large number of little hits in a short space of time will render Bloodlust almost completely useless. Because Atlases, Geth Primes, Geth Hunters, Ravagers, Phantoms, Banshees, Cerberus Turrets and Brutes can inflict large amounts of damage in a short space of time, caution should be used where needed to allow Bloodlust the time it needs to heal your wounds. Nemeses can also be dangerous to vorcha since one shot depletes all health and renders them vulnerable to a quick incapacitation from other troops.
+As long as the player avoids taking too much damage at once, a bloodlusted vorcha class can definitely be viable in Platinum games even without needing to use gear or consumables like Cyclonic Barriers to increase their naturally weak shields.
+Teaming up with a volus class with Shield Boost evolved for 50% damage reduction is extremely powerful, making a vorcha that much more resistant to high-damage attacks and increasing the value of its regenerating health pool.
+There are no gear items or consumables that directly improve player health, only shields and shield regeneration. Therefore, it's usually better to focus on improving damage output, or going for items that improve the amount of medi-gel or Ops Packs that can be carried.
+Availability[]
+Single-player: N/A
+Multiplayer: Vorcha Hunter Engineer, Vorcha Sentinel, Vorcha Soldier
+References[]
+
+↑ http://me3tweaks.com/notes/bloodlust-growl
+
+
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

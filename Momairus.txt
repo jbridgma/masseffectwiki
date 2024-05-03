@@ -1,0 +1,59 @@
+
+
+
+
+
+Momairus
+
+Region
+Andromeda / Heleus Cluster / Rohvir
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+2.3 AU
+
+
+Orbital Period
+6.3 Earth Years
+
+
+Keplerian Ratio
+0.307
+
+
+Radius
+10,835 km
+
+
+Atm. Pressure
+0.10 atm
+
+
+Surface Temp
+−189 °C 
+
+
+Location: Andromeda / Heleus Cluster / Rohvir System /  Fourth planet
+
+
+Description[]
+Momairus appears to have been stripped of a breathable atmosphere by Scourge phenomena over the past century. What remains is a barren sphere of boron and carbon.
+
+Anomaly[]
+Aluminum Deposit[]
+DATA:
+
+Aluminum
+ANALYSIS:
+A valuable light metal. This deposit is close to the surface and relatively easy to mine.
+Awards a random small amount of Aluminum when scanned.
+
+
+
+

@@ -1,0 +1,348 @@
+
+
+
+
+
+Sovoa
+
+
+
+
+
+							Default
+							
+						
+
+
+
+							Bulwark
+							
+						
+
+
+
+							Siphon
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Rarity
+Ultra Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+263-302
+
+
+Rate of Fire
+300
+
+
+Max Clip Size
+10
+
+
+Max Ammo
+90-113
+
+
+Accuracy
+60-75
+
+
+Weight
+40-25
+
+
+
+Bulwark
+
+Damage Resistance (1 Ally): 15-25Damage Resistance (2 Allies): 22-37Damage Resistance (3 Allies): 30-50
+
+
+
+Siphon
+
+% Damage Returned as Health: 3-3.75% Heal Bonus per kill: 4.5Kill Streak Duration (s): 7Max. Kill Bonus: 3
+
+
+
+
+
+The Sovoa is an assault rifle in Mass Effect: Andromeda Multiplayer.
+
+Contents
+
+1 Description
+2 Features
+3 Strategies
+4 Stats
+5 Development
+
+
+Description[]
+A semi-automatic assault rifle, the Sovoa fires energy blasts that cause a shockwave-like explosion upon impact. The elegance of the single-beam blast matches the rifle's sleek design. The Sovoa, translated to "lights out", is the first weapon developed by Taravay Industries, a new manufacturer co-founded by angara and the turians. A product of two galaxies, the rifle combines Milky Way kinetic coils and angaran explosives.
+
+Features[]
+The Sovoa is exclusive to multiplayer. It also does not have a Concussive variant.
+It received improvements to damage and rate of fire in updates. Its base force also increased from 40 to 300.
+
+Strategies[]
+
+Stats[]
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+263
+
+300
+
+10
+
+90
+
+60
+
+40
+
+
+II
+
+267
+
+300
+
+10
+
+93
+
+65
+
+38
+
+
+III
+
+272
+
+300
+
+10
+
+95
+
+67
+
+36
+
+
+IV
+
+276
+
+300
+
+10
+
+98
+
+69
+
+35
+
+
+V
+
+280
+
+300
+
+10
+
+100
+
+70
+
+33
+
+
+VI
+
+285
+
+300
+
+10
+
+103
+
+72
+
+32
+
+
+VII
+
+289
+
+300
+
+10
+
+105
+
+73
+
+30
+
+
+VIII
+
+293
+
+300
+
+10
+
+108
+
+74
+
+28
+
+
+IX
+
+298
+
+300
+
+10
+
+110
+
+74
+
+27
+
+
+X
+
+302
+
+300
+
+10
+
+113
+
+75
+
+25
+
+Development[]
+The Sovoa is a multiplayer weapon only and can't be developed.
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

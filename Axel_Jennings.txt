@@ -1,0 +1,96 @@
+
+
+
+A work crew from Prodromos has a dangerous plan to try and control the Remnant. They should be stopped before someone is injured. Search Prodromos for clues to where the work crew has gone.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Find the work rosters
+2.2 Investigate medbay
+2.3 Investigate the monolith site
+2.4 Scan the communications equipment
+2.5 Get to the work crew
+2.6 Defeat the Remnant
+2.7 Speak to the survivors
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+Ryder can access a terminal (marked with a ) inside the building next to the Research Center in Prodromos on Eos. Reading the following message will activate the mission and place two navpoints :
+
+
+
+
+Please help
+This is the only way I can get the word out before someone gets killed. My work crew, they keep talking about that Remnant tech. They think the Initiative's lying about how dangerous it is—that a couple of electrodes in the right place could get the Remnant to work for them instead. 
+
+They tried before, and I helped out in medbay when those Remnant Observers carved up Bharti. But Jennings says we could live like kings if we had an army of Remnant bots working and fighting for us. He's taking the whole work crew to help him this time. 
+
+
+I have to go with them. Maybe I can talk Jennings out of it. But if I can't—someone should know why we didn't come back.
+
+
+Walkthrough[]
+Find the work rosters[]
+On the second floor of a building where Cain Fawkes, the chief engineer, is standing, there is a datapad with the work rosters. Ryder recognizes the name Jennings from the datapad's message. However, there are too many possible locations for Jennings to be found at; the locations must be narrowed down.
+
+
+
+
+Work Rosters: Week 2
+Water Course Repair Team
+--Cain Fawkes (team leader)
+--Lorelei Smith (water pipes)
+--Matthew Kinneson (VI reprogramming)
+
+[Attachment: CourseDamageSheet.hsm]
+
+Weather Monitoring Device Setup
+--Axel Jennings (team leader)
+--Sael Varax
+--Jamie Kasperek
+
+
+[Attachment: MonitoringDeviceLocs.hsm]
+
+
+Investigate medbay[]
+Scanning the Medical Equipment next to Dr. Ramirez, (+10 ) SAM finds that wounds caused by Remnant were treated here. Tracking the sand particles extracted from the wounds, SAM is able to deduce that the particles originated near a monolith.
+
+Investigate the monolith site[]
+Head to the Western Monolith  southeast of Prodromos in the Fairwinds Basin.
+
+Scan the communications equipment[]
+The work crew isn't here, although a Communications Array has been left behind. Scan the Array (+10 ) to listen to a brief conversation between members of the crew, revealing that the crew is near Four Giants.
+Note:  Complete any actions in the area (looting, scanning, etc.) before scanning the Array as the timer won't start until after the Array is scanned.
+
+Get to the work crew[]
+Once the conversation is over, a timer begins; Ryder has approximately 2 minutes and 30 seconds to reach the crew. Get in the ND1 Nomad and drive to the navpoint at a Remnant structureeast of the Four Giants (Ryder can fast travel during this timer).
+Ryder now has two choices: 
+
+If Ryder makes it to the crew before the timer expires, the entire crew will still be alive.
+If Ryder does not make it to the work crew before the timer expires, only one member of the crew will remain and Jennings will be dead.
+Defeat the Remnant[]
+On your arrival you will find the crew being attacked by Remnant forces, including a Nullifier. Take care of the matter.
+
+Speak to the survivors[]
+On the platform, there is an Adapted Initiative Core Tech device that can be scanned for (+100 ).
+With the Remnant eliminated, speak to the Initiative survivor.
+
+If you arrived before timer expired, Jennings will speak to Ryder.
+If you arrived after the timer expired, Jennings will be dead and only one survivor will remain who will speak to Ryder.
+Regardless of dialogue option, Jennings/Survivor is talked down from his attempts to control the Remnant, and the mission is complete.
+
+Rewards[]
++800 XP
++29 AVP 
++2% Eos viability
+
+
+

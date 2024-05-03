@@ -1,0 +1,58 @@
+
+
+
+SAM has detected surveillance bugs belonging to the Resistance inside kett camps. Their transmission source appears to have been disabled. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Locate And Scan Resistance Bugs In Kett Camps
+2.2 Locate The Broken Signal
+2.3 Examine The Datapad
+2.4 Return To Intelligence Officer Kaas
+
+
+3 Rewards
+
+
+Acquisition[]
+Scan any of the angaran Resistance bugs in kett camps on Voeld.
+
+Walkthrough[]
+Locate And Scan Resistance Bugs In Kett Camps[]
+Pathfinder Ryder will have to find and scan three Resistance bugs. The bugs are randomly scattered among the kett camps. Each bug will be marked with . If a camp doesn't have a bug, the camp might have one the next time Ryder visits. If a camp has a bug, SAM (or a squadmate) will comment on the presence of the bug. 
+Once enough bugs have been scanned, SAM will indicate that the location has been found.
+
+Locate The Broken Signal[]
+After scanning three bugs, follow the navpointthrough the Ja Niihk Dig Site .
+Note: Ja Niihk Dig Site can't be accessed until Remove the Heart is completed.
+
+Examine The Datapad[]
+At the beginning of the path, going down into the excavation site, is a cave with a datapad next to a dead angara. If Ryder brought Jaal Ama Darav along, he will recognize the body as someone named Talvor.
+
+
+
+
+
+For whoever finds this...
+Translated from Shelesh:
+
+The kett found one of my bugs. Used the signal to track me down. Managed to lose them, but they landed enough shots to ensure I won't last long. I'm shutting down the communication link so they can't use it against our scouts. If you find this, get it to the Resistance. Davja Kaas will know what to do with it.
+
+
+It was an honor fighting for my people. Talvor out.
+
+
+
+Interact with the datapad to take it with Ryder. Completing this part of the mission will likely dovetail with Uncovering the Past.
+
+Return To Intelligence Officer Kaas[]
+Speak to Intelligence Officer Davja Kaas in the Angaran Resistance Base and hand over the datapad with all the information Talvor collected.
+
+Rewards[]
++270 XP
++100 
+
+
+

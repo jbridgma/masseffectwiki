@@ -1,0 +1,157 @@
+
+
+
+For the mission, see The Collective Base.
+
+
+
+
+
+“Make no mistake — this is a one-way trip.” — Spoilers for Mass Effect: Andromeda follow.
+
+
+
+
+The Collective Base is the eponymous organization's hidden base of operations in the badlands of Kadara. It lies at the end of a winding cave system in Draullir. Floodlights powered by portable generators denote the general direction to the base.
+The base functions as a warehouse and training ground for Collective recruits and is generally off-limits to outsiders. Its personnel have expressed dissatisfaction on its ambience and concealed nature, though they understand the reasons for it.
+Pathfinder Ryder can stumble upon this place through exploration. If it's discovered only after the Collective's failed bid for control of Kadara Port, the base is infested with hostiles and has no friendly forces after they're dealt with. Otherwise, Ryder is greeted at the door by Lynx, who informs them the Charlatan has explicit orders that the Pathfinder is not to be harmed while in the base.
+
+Contents
+
+1 Layout
+2 Personnel
+3 Missions
+4 Datapads
+5 Terminals
+6 Trivia
+
+
+Layout[]
+The base is in a massive cavern secured by only one heavy-duty door that functions as both entrance and exit. The outskirts of this area has enough space for adhi kennels, bodegas for all sorts of containers that may contain valuable items, and a cultivation garden for kvastyr. There are scattered nodes of iridium, titanium, and lithium as well. The sunless parts of the cavern are lit by floodlights, although the base structure itself is naturally lighted from above, which also has the infrastructure to ferry cargo to and from the base.
+
+The main structure has three levels connected by stairs, plus the roof that's only accessible through jump-jets. The lowest level houses the  holding cells where operatives routinely beat on their prisoners. It's also where the support columns for the rest of the structure are, tended to by Lynx as part of her job and by a worker guarding a mysterious button attached to a column.
+The base personnel's living quarters is on the second level. Two beds next to a toilet form the extent of their general amenities, plus a desk, a sink, a small cupboard, and a bunch of miscellaneous containers, only one of which is lootable. Outside on a parallel catwalk the Collective have been experimenting on a thruster in an effort to reduce its fuel consumption.
+The third level is the operations center and where the base's leader, Crux, can be found. Access to the detention level below must be sought first from a terminal in this level.
+In addition to assorted containers, there are several supply caches around the base. Ammo and health caches can be found together on the outskirts and beside one of the support columns. A health cache is near the thruster and an ammo cache is inside the personnel quarters.
+If the base was only discovered after pledging allegiance to the Outcasts, none of the known base personnel are around save for Lynx who leads a contingent of defenders. The prisoners in the detention level are found executed via headshot. The support column device housing the mysterious button doesn't appear, as well as the worker supposed to be beside it. The stashes of supplies around the base are claimed by Ryder for the Nexus, and SAM tasks Dr. Suvi Anwar to coordinate the retrieval.
+
+Personnel[]
+Aquila
+Carina
+Crux
+Dorado
+Lynx
+Octans
+Saarya
+Ykaari
+Missions[]
+Heleus Assignments
+The Charlatan's Charlatan
+The Collective Base
+Datapads[]
+On the second level:
+
+
+
+
+Personal Log: Aquila
+New entry: Took awhile but this place is really coming together. We've got ourselves a proper hideout down here and the shuttles keep coming. 
+
+No idea how the Charlatan finds all this salvage. Elaaden maybe? I hear they've gone [sic] tons of scrap. Still, that's a long ways to bring sheets and metal and supplies. But hey… not my credits.
+
+
+END LOG
+
+
+
+On the detention level, if read prior to the Charlatan and Sloane Kelly's faceoff:
+
+
+
+
+Dispatch: Crux
+We've got a visitor wandering around—the human Pathfinder.
+
+Be on your best behavior or the Charlatan will hear about it.
+
+
+Crux
+
+
+On the detention level, if read after the Charlatan and Sloane Kelly's faceoff and the Charlatan lost:
+
+
+
+
+Dispatch: Crux
+It's no longer safe here. The representatives will join the Charlatan at an undisclosed location. The rest will stay here and clean up any loose ends.
+
+
+Crux
+
+
+On the detention level, if read after the Charlatan and Sloane Kelly's faceoff and the Charlatan won:
+
+
+
+
+Dispatch: Crux
+Our friend and ally, the human Pathfinder, has come for a visit. Show Him [sic]/Her [sic] the respect He [sic]/She [sic] deserves or there will be consequences.
+
+
+Crux
+
+
+
+On a bunch of crates south of Ykaari, at the base of the main structure's southern support arch:
+
+
+
+
+Latest Shipment
+Crux:
+
+Shipment 30075 is in and ready for your inspection.
+
+Ykaari
+
+
+P.S. What are peanuts and why do we need 20 lbs of them?
+
+
+
+
+Terminals[]
+
+
+
+Unlock Holding Cells
+Username: Crux
+
+
+
+
+
+Lock Holding Cells
+Username: Crux
+
+
+
+
+
+New Recruits
+Crux:
+
+New batch of recruits are headed your way. Put Octans on them. He did well with the last bunch.
+
+
+-C
+
+
+Trivia[]
+The salarian worker next to a "Mysterious Button" in a support pillar at the bottom of the base gets increasingly annoyed if the button is repeatedly pushed despite his admonitions not to. After a lot of repeated pushing he reveals there's a 50/50 chance of electrocuting a prisoner on the base every time the button is pushed, then if pressed one last time he jokes that it doesn't actually work. On Priority: Sur'Kesh in Mass Effect 3 there's a similar setup with an STG agent at the beginning of the mission regarding a feces analyzer if Commander Shepard also repeatedly pushes a button beside the agent.
+If the base is discovered after siding with the Outcasts but before concluding the High Noon mission by talking to Sloane, the detention level datapad defaults to orders about acting friendly in Ryder's presence as opposed to orders about cleaning up loose ends.
+The base name appears to be a play on the Collector Base location in Mass Effect 2.
+
+
+

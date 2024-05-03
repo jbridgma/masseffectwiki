@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+This article is about the Mass Effect 3 Multiplayer power. For the enemy in Mass Effect, see Geth Juggernaut.
+
+
+Geth Juggernaut is a passive class power in Mass Effect 3's multiplayer mode.
+
+Power Ranks[]
+Rank 1: Geth Juggernaut[]
+This advanced combat platform fine-tunes powers and weapons. 
+More weapon damage.More weapon stability and spare ammunition.More strength.
+
+Weapon Damage Bonus: 5%
+Weapon Stability Bonus: 25%
+Spare Ammo Bonus: 10%
+Weight Capacity Bonus: 20
+
+
+Rank 2: Weapon Damage[]
+Increase weapon damage bonus by 5%.
+
+Weapon Damage Bonus: 10%
+Weapon Stability Bonus: 25%
+Spare Ammo Bonus: 10%
+Weight Capacity Bonus: 20
+
+
+Rank 3: Stability & Ammo[]
+Increase weapon stability by 5%.Increase spare ammunition by 5%.
+
+Weapon Damage Bonus: 10%
+Weapon Stability Bonus: 30%
+Spare Ammo Bonus: 15%
+Weight Capacity Bonus: 20
+
+
+Rank 4: Weapon Damage/Damage & Capacity[]
+
+
+
+Weapon Damage
+Increase weapon damage bonus by 7.50%.
+
+Weapon Damage Bonus: 17.50%
+Weapon Stability Bonus: 30%
+Spare Ammo Bonus: 15%
+Weight Capacity Bonus: 20
+
+
+Damage & Capacity
+Increase power damage and force bonuses by 10%.Increase weight capacity bonus by 20 points.
+
+Weapon Damage Bonus: 10%
+Weapon Stability Bonus: 30%
+Spare Ammo Bonus: 15%
+Weight Capacity Bonus: 40
+
+
+
+Rank 5: Power Damage/Stability & Ammo[]
+
+
+
+Power Damage
+Increase power damage and force bonuses by 15%.
+
+
+
+Stability & Ammo
+Increase weapon stability bonus by 15%.Increase weapon spare ammunition bonus by 15%.
+
+Weapon Damage Bonus: 17.50% (Weapon Damage), 10% (Damage & Capacity)
+Weapon Stability Bonus: 45%
+Spare Ammo Bonus: 30%
+Weight Capacity Bonus: 20 (Weapon Damage), 40 (Damage & Capacity)
+
+
+
+Rank 6: Weapon Weight/Weapon Damage[]
+
+
+
+Weapon Weight
+Decrease weight of all weapons by 20%.
+
+
+
+Weapon Damage
+Increase weapon damage bonus by 10%.Increase damage done with geth weapons by 5%.
+
+Weapon Damage Bonus: 27.50% (Weapon Damage), 20% (Damage & Capacity)
+Weapon Stability Bonus: 30% (Power Damage), 45% (Stability & Ammo)
+Spare Ammo Bonus: 15% (Power Damage), 30% (Stability & Ammo)
+Weight Capacity Bonus: 20 (Weapon Damage), 40 (Damage & Capacity)
+
+
+
+Player Notes[]
+The damage, weapon stability, and extra ammunition boosts make weapons like the N7 Typhoon and Geth Spitfire extraordinarily powerful.
+Availability[]
+Single-player: N/A
+Multiplayer: Geth Juggernaut Soldier
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

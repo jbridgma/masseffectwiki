@@ -1,0 +1,71 @@
+
+
+
+Initiative personnel Nilken Rensus has been convicted of murder, but it may be a mistake. Investigate all the details to discern the truth.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak with the prison guard
+2.2 Speak with Kandros
+2.3 Optional: Playback recording
+2.4 Speak with witness Shaw
+2.5 Speak with Tann
+2.6 Investigate murder evidence
+2.7 Examine omni-tool
+2.8 Confront Nilken
+2.9 Speak with Tann
+
+
+3 Aftermath
+4 Rewards
+
+
+Acquisition[]
+Prerequisite: Nexus Reunion
+
+Speak with the turian named Mariette (marked with a ) located in the Militia Office on the Nexus and agree to help her investigate the possible wrongful conviction of her husband to begin this mission.
+Note:  A non-Journal mission may start when you close to the location of Mariette. Nexus will be displayed with an objective Speak with the distraught turian. The non-Journal mission will complete during the conversation with no rewards and no display will be shown on screen. If the non-Journal mission wasn't added prior to speaking with Mariette, when Ryder speaks to Mariette for the first time, the non-Journal mission will flash for the briefest bit of time just before the conversation starts.
+
+Walkthrough[]
+Mariette is distressed that her husband has been sentenced to exile for a murder she believes he is not guilty of committing. Believed to be the first murder in the Andromeda galaxy, Nilken was sentenced to exile, but Mariette can't believe he killed his friend Reynolds.
+
+Speak with the prison guard[]
+Sergeant Aker is a turian security guard located across the atrium from Mariette near the prison cell where Nilken is confined. Speak to him and he'll introduce Pathfinder Ryder to his prisoner. Nilken will explain that he argued with Reynolds while they were stationed together during a field colonization attempt of Eos. Shortly after the argument, Nilken may have accidentally shot Reynolds, mistaking him for kett during a limited visibility attack. Nilken mentions that there is a recording of the argument and recommends that Ryder listen to it.
+
+Speak with Kandros[]
+You will have to get permission from the security chief, Tiran Kandros, before being able to listen to the recording. Speaking to Kandros, he will reaffirm the suspected guilt of Nilken but offers Ryder the chance to evaluate the evidence by interviewing Cassidy Shaw and listening to a recording.
+
+Optional: Playback recording[]
+Although optional, listen to the recording first on a small console nearby. It doesn't give much information. 
+
+Speak with witness Shaw[]
+Once you heard the recording, you can speak to Cassidy. She explains that she was the one that separated Nilken and Reynolds when they fought right before Reynolds died but since there was a sandstorm, no one actually saw the murder take place, just the victim screaming. 
+Shaw tells the story similarly to how Nilken described it, leaving little room for a defense. At the end of the conversation, Shaw mentions that Reynolds' body was never recovered on the orders of Director Tann, leaving an important piece of evidence unexamined.
+
+Speak with Tann[]
+Tann wouldn't authorize an extraction of Reynolds' body for examination during the murder trial, claiming it was too dangerous to return to Eos to retrieve the body. Speak to Tann and Ryder will convince him that it's worth the risk of sending the Pathfinder team to locate and retrieve the body. The coordinates of the remains are added to your map.
+
+Investigate murder evidence[]
+Travel to Eos to find the body. It's is outside of the radiation shielding, so you cannot walk there. First, Ryder must activate the relay station and find a vehicle.
+Once you have the ND1 Nomad, drive to the navpoint  that is southeast of Site 2: Resilience in The Golden Wastes. You'll come across pieces of Reynolds' armor at the navpoint. Scan the armor for +10  and then continue following the trail of navpoints until you end up at a Kaerkyn nest inside a shallow cave. Take out the threat.
+
+Examine omni-tool[]
+Explore the cave to find Reynolds' omni-tool and scan for +10  and a recording. Examination of the remains shows that a shot with an Initiative rifle missed Reynolds from the front, while a kett successfully shot the chief from behind. However, the audio log reveals that Nilken shot with the intent to kill. There are several cadmium nodes near the cave entrance.
+
+Confront Nilken[]
+Return to the Nexus to inform Nilken of Ryder's findings. He's relieved that his shot didn't kill Reynolds, and believes that exonerates him of the charge of murder. Whatever your response is, you'll have to talk to Tann afterward.
+
+Speak with Tann[]
+Updating Tann of the evidence, he gives Ryder the choice of what to do: maintain Nilken's guilty verdict as a murderer and exile him, or declare him innocent of the crime and release him. Make a decision to complete the mission.
+
+Aftermath[]
+If you choose to release Nilken, you can find him and Mariette in the prison cell area. Talking to them, Ryder will warn Nilken to behave in the future. Mariette asks what that means, and Nilken says they will talk later. Sometime later, Nilken can be found in the cryo bay, requesting to be put back in stasis; after Mariette found out the truth, she left him, and everyone still treats him as a murderer, so he hopes to sleep until things have blown over.
+If Nilken was exiled, he can be found in the Kadara Slums, in the lower level of Tartarus. Nilken still believes himself innocent. However, since Nilken was honest with Mariette on this path, she has decided to stay with him, and they are actually happy living among the exiles.
+
+Rewards[]
++530 XP (Not shown on screen)
+
+
+

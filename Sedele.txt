@@ -1,0 +1,61 @@
+
+
+
+
+
+Sedele
+
+Region
+Andromeda / Heleus Cluster / Anasa
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.9 AU
+
+
+Orbital Period
+0.9 Earth Years
+
+
+Keplerian Ratio
+0.9
+
+
+Radius
+4,838 km
+
+
+Atm. Pressure
+0.33 atm
+
+
+Surface Temp
+14 °C 
+
+
+Location: Andromeda / Heleus Cluster / Anasa System /  Second planet
+
+
+Description[]
+Despite its comfortable temperature and seas of liquid water, Sedele is heavily irradiated by mass ejections from the system's sun and is therefore unsuitable for colonization.
+
+Anomaly[]
+River[]
+DATA:
+
+Source: Spring
+Composition: Liquid water
+Length: 4354 km
+ANALYSIS:
+Colonies of jellyfish-like creatures move freely along this enormous river, despite the lack of life elsewhere on the planet. The river may be the last remnant of a dying ecosystem.
+Awards +270 XP when scanned.
+
+
+
+

@@ -1,0 +1,61 @@
+
+
+
+Travel the cluster and take planetary scans to improve Dr. Aridana's celestial model.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Access the terminal
+2.2 Scan planets across Heleus
+2.3 Speak with Dr. Aridana
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Task: Missing Scientists
+
+Speak to Dr. Aridana again after getting the aforementioned task and agree to help her with this one.
+Warning: Declining to participate will lock this task out even after unlocking the scientists' Tech Lab on the Nexus, after the Eos vault's activation. It is highly advisable to accept the task when it is given.
+
+Walkthrough[]
+Access the terminal[]
+Interact with the nearby terminal to get an update on her cluster model.
+
+
+
+
+Cluster Model: Dr. Leynomi Aridana
+
+-The three initial system models will be complete by next week. We shall see our place in the world.
+-Orbital variance for the Nexus: it must be corrected as construction corrects our orientation.
+-A reminder:
+
+Our daughters will not know stasis
+The six hundred years sleeping.
+
+They will be born of Andromeda
+And whatever is unfolding.
+
+This cluster in its chaos
+Was not welcoming,
+
+But it matters less what we suffer here,
+
+More, what we bring.
+
+
+Scan planets across Heleus[]
+You simply have to scan 50 planets to complete this objective. Simply visiting a planet is not sufficient, a scan is required. Naturally progressing through the game will eventually fulfill this criterion.
+
+Speak with Dr. Aridana[]
+Dr. Aridana is pleased with your efforts and gives you a reward: experience points.
+
+Rewards[]
++1330 XP (not always displayed on screen)
+
+
+

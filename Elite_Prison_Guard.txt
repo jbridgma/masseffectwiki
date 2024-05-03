@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+Elite Prison Guard
+
+
+
+
+Race
+Batarian
+
+
+Type
+Organic
+
+
+Faction
+Aratoht Prison Staff
+
+
+Armament
+M-15 Vindicator
+
+
+Abilities
+ Tech Armor Disruptor Ammo
+
+
+Health
+Moderate
+
+
+Shields
+Moderate
+
+
+Locations
+Aratoht
+
+
+Elite Prison Guards are enemies that are encountered during the assignment Arrival.
+
+
+
+
+
+
+
+“The chances of surviving are… slim.” — Spoilers for Mass Effect 2 follow.
+
+
+
+
+After Dr. Amanda Kenson has been freed in the batarian prison on Aratoht, she and Commander Shepard must fight their way out. Elite Prison Guards attack the duo along with groups of Prison Guards.
+
+Capabilities[]
+Offensive
+Elite Prison Guards are equipped with the M-15 Vindicator and can arm them with Disruptor Ammo. Elite Guards are highly accurate at range, but less effective up close.
+Defensive
+Elite Guards will have shields on all difficulties, but they will be stronger on higher difficulty levels. They also have access to the Tech Armor ability, which they will use to restore their shields if depleted.
+
+Tactics[]
+Because you will be fighting these enemies alone at certain points in the mission, make sure to prioritise these troops, especially on higher difficulties.
+If they are not killed quickly and allowed to remain in cover for a period of time they are likely to restore their shields via tech armor.
+Due to their weapons, these troops are less effective at close combat, so one tactic might be to get up close and deal with them. Be warned however, as they are usually accompanied by other Guards. This tactic should be handled with caution unless the other Guards have been eliminated first.
+
+
+Mass Effect 2 Enemies
+
+
+Blue Suns
+
+Blue Suns Trooper • Blue Suns Heavy • Blue Suns Pyro • Blue Suns Legionnaire • Blue Suns Centurion • Blue Suns Commander • Warden Kuril • Jentha • Jedore • Sergeant Boortis • Captain Narom • Captain Vorhess • Lieutenant Locke • Senior Engineer • Command Bodyguard
+
+
+Eclipse
+
+Eclipse Trooper • Eclipse Heavy • Eclipse Engineer • Sisterhood Initiate • Eclipse Vanguard • Eclipse Commando • Eclipse Operative • Jaroth • Morl •  Captain Enyala • Captain Wasea • Chief Roe • Captain Vorleon • Bounty Hunter • Merc Leader • Eclipse Security Guard
+
+
+Blood Pack
+
+Blood Pack Trooper • Blood Pack Warrior • Blood Pack Boom-Squad • Blood Pack Pyro • Garm • Kureck • Kalusk • Salamul • Chief Weyrloc Guld • Weyrloc Clanguard • Weyrloc Clanspeaker
+
+
+Mechs/Geth
+
+LOKI Mech • FENRIS Mech • YMIR Mech • Cerberus Turret • Geth Cannon • Assault Drone • Rocket Drone • Combat Drone • Geth Trooper • Geth Recon Drone • Geth Hunter • Geth Rocket Trooper • Geth Destroyer • Geth Prime • Geth Colossus
+
+
+Collectors
+
+Husk • Abomination • Scion • Praetorian • Collector Drone • Collector Guardian • Collector Assassin • Harbinger • Oculus • Human-Reaper
+
+
+Shadow Broker
+
+Shadow Broker • Tela Vasir • Shadow Broker Agent • Shadow Broker Engineer • Shadow Broker Heavy • Shadow Broker Vanguard • Maintenance Drone
+
+
+Other
+
+Vorcha Heavy •  Varren • Klixen • Thresher Maw • Human Prisoner • Feral Hunter • Brainwashed Guard • A-61 Mantis Gunship • Batarian • Batarian Trooper • Batarian Commander • Krogan Berserker • Gatatog Warrior • Gatatog Uvenk • Human Looter • Freelance Bomb Tech • Freelancer • District Guard • Technician • Batarian War Beast • Prison Guard • Elite Prison Guard • Project Guard • Project Elite • Project Pyro • Project Engineer • Scientist
+
+
+
+

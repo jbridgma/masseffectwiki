@@ -1,0 +1,60 @@
+
+
+
+A group of protestors are demanding that their families be released from stasis. Speak with the Nexus leadership about how best to resolve the situation.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak with the protestors
+2.2 Speak with Kandros
+
+2.2.1 Speak with the protestors
+2.2.2 Authorize stasis revivals from Nexus Operations
+
+
+
+
+3 Aftermath
+4 Rewards
+5 Bugs
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+After deciding whether to make Prodromos research-based or military-based, upon returning to the Nexus, you will find that protestors have taken up residence in the Hydroponic Gardens area. A navpoint is given when you get close to the protestors, but you have to speak to them to acquire the mission. Alternatively, you can get it by overhearing a maintenance worker near the Docking Bay who's inconvenienced by the commotion in Hydroponics. 
+
+Walkthrough[]
+Note:  This mission must be completed before Meridian: The Way Home or the mission will fail.
+Between Hydroponics and The Vortex the protestors are watched by Nexus Militia in case they decide to escalate matters. The dramatis personae in this area are protestors Rhys, Teresh, Sartak, Nonia, and four others, and militia personnel Sirakus, Jones, and another guy. You can also talk to Sirakus for a primer on the situation before engaging the protesters, though the option is gone if you try to do it afterward. 
+
+Speak with the protestors[]
+
+Teresh the asari, Nonia the turian and Sartak the krogan are the most vocal protesters but you actually need to talk to Rhys the human to start the mission. You find out that the protestors are angry with both the leadership of the Nexus and with the Pathfinder's decision for Prodromos, as it has pushed their families further back in deployment priority and separated the protestors into different blocks. If you decided on a scientific outpost, they will be complaining (Sartak specifically) that soldiers were put in the back burner, and vice versa if you decided on a military outpost. Rhys' mother is caught in the middle regardless of outpost type, as are Teresh's grandkids.
+Regardless of your dialogue choices, the protestors want you to speak with Nexus leadership to get their family members out of cryo. Foster Addison already ignored them, so your next bet is militia leader Tiran Kandros. If you overhear Sirakus and Jones they indicate trepidation since this issue isn't what they signed up for.
+
+Speak with Kandros[]
+When you inform Tiran of the situation, he gathers the other Nexus leaders to his office discuss the issue. The leaders say that there are simply not enough resources or space to wake up all of the wanted families; even with Prodromos, sending extra people there could be trouble. You can choose to agree with the leaders or say that the protestors are right.
+The next two objectives are one or the other. Speaking with the protestors is the No answer. Authorizing is the Yes answer. Only one objective will appear in the Journal depending upon your choice.
+
+Speak with the protestors[]
+
+If you choose to keep the families in cryo, Director Tann tasks you to break the news to the protestors. Upon arrival in the Common Area a cutscene immediately starts when you open the tram door. The number of people dwindles to just Teresh, Sartak, Rhys and Sirakus but the protest has gotten heated: Teresh is about to cut the water hoses and is willing to let the plants die. Sirakus is stepping in to escort the protestors away. You can empathize or explain the situation logically. Either way, Rhys is willing to go off-station to find anyone who can help get his mom out of stasis. You can dissuade him from doing so or let him make his own decisions.
+Whatever Rhys decides, Teresh realizes exile is not an option and relents, with Sartak grudgingly following suit. The mission is over as Sirakus ushers them off Hydroponics.
+
+Authorize stasis revivals from Nexus Operations[]
+If you decide to wake up the families, the protestors are given authority to do so from the Colonial Affairs deck, but you're still the one who needs to push the button at Operations. Rhys approaches Ryder while they are inputting the override codes and expresses gratitude. However, with all of the new additions to the Nexus, resources are even leaner, and personnel on the Hyperion must wait longer to be released.
+
+Aftermath[]
+There are no obvious positive or negative gameplay consequences of either choice. All effects are described through character reactions only. If Rhys was driven to seek help on Kadara he is nowhere to be found on the world.
+
+Rewards[]
++800 XP (Not always visible on screen)
++73 AVP 
+Bugs[]
+Two question mark navpoints may appear on the stairway leading up from the Hydroponic Gardens to the second level, but with no actual individuals or other triggers present and they disappear from the map when Ryder reaches them. The "phantom ?'s" persist for the remainder of the game whenever Ryder returns to the Nexus.
+
+
+

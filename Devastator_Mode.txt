@@ -1,0 +1,158 @@
+
+
+
+
+Devastator Mode is a power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Devastator Mode[]
+Turn into a powerful turret with the T5-V Battlesuit.
+Increase weapon damage, rate of fire and magazine size.Slows movement speed.Stays active until disabled.
+
+Recharge Speed: 3 sec
+Weapon Damage Bonus: 10%
+Rate of Fire Bonus: 10%
+Magazine Size: 15%
+
+
+Rank 2: Magazine Size[]
+Increase magazine size by 5%.
+
+Recharge Speed: 3 sec
+Weapon Damage Bonus: 10%
+Rate of Fire Bonus: 10%
+Magazine Size: 20%
+
+
+Rank 3: Damage Bonus[]
+Increase damage bonus by 5%.
+
+Recharge Speed: 3 sec
+Weapon Damage Bonus: 15%
+Rate of Fire Bonus: 10%
+Magazine Size: 20%
+
+
+Rank 4: Shield Recharge Delay/Weapon Accuracy[]
+
+
+
+Shield Recharge Delay
+Reduce the delay before shields start regenerating by 15%.
+
+
+
+Weapon Accuracy
+Increase weapon accuracy bonus by 25% while active.
+
+
+
+
+Rank 5: Magazine Size/Rate of Fire[]
+
+
+
+Magazine Size
+Increase magazine size by 15%.
+
+Recharge Speed: 3 sec
+Weapon Damage Bonus: 15%
+Rate of Fire Bonus: 10%
+Magazine Size: 35%
+
+
+Rate of Fire
+Increase rate of fire by 15%.
+
+Recharge Speed: 3 sec
+Weapon Damage Bonus: 15%
+Rate of Fire Bonus: 25%
+Magazine Size: 20%
+
+
+
+Rank 6: Max Shields/Damage Bonus[]
+
+
+
+Max Shields
+Increase max shields by 40%.
+
+
+
+Damage Bonus
+Increase damage bonus by 15%.
+
+Recharge Speed: 3 sec
+Weapon Damage Bonus: 30%
+Rate of Fire Bonus: 10% (Magazine Size), 25% (Rate of Fire)
+Magazine Size: 35% (Magazine Size), 20% (Rate of Fire)
+
+
+
+Player Notes[]
+Mechanics
+The player will be unable to dodge as long as Devastator Mode is active. However, the player has full immunity to being staggered while in Devastator Mode.
+Devastator Mode also slows movement speed, making it difficult to carry out delivery objectives or evade attacks like Ravager fire effectively.
+When active, the player gains several cosmetic UI additions to their HUD, including a picture-in-picture-style view of the action. The visual image will remain unchanged when the player is equipped with Geth Scanner gear.
+Strategies
+Devastator Mode provides nearly peerless proficiency with weapons because of fire rate increases, magazine expansions, and damage boosts. If the T5-V Battlesuit passive power is optimized for weapons damage, the Rank 5 Rate of Fire and Rank 6 Damage Bonus evolutions can contribute to the damage stack to give the N7 Destroyer 57.50% more weapon damage. Level V damage boosting Weapon Mods, Level III Rail Amps, and Level V Gear Amps can increase this bonus above 127.5% extra damage. Any ammo bonuses applied will increase damage even further.
+Similar to Adrenaline Rush, when a player activates Devastator Mode it will cause the clip to instantly reload if used at the right time. Note, however, that the time it takes to activate Devastator Mode is often longer than a reload animation, except on a Particle Rifle that has run out of charge. One can deactivate then reactivate Devastator Mode with a reasonable cooldown that is shorter than the overheat reload.
+Devastator Mode cannot increase the capacity of single- or two-shot magazine weapons, regardless of magazine capacity upgrade levels. This is because capacity is rounded down (1.35 = 1 shot). As such it would be very unwise to go for magazine capacity with said weapons, since they only really gain accuracy and damage.
+The Executioner Pistol is the only one-shot weapon capable of gaining an extra shot with level V Pistol Magazine Upgrade.  Devastator Mode provides an inherent 20% magazine capacity increase, so the Magazine Size evolution is unnecessary for this purpose.
+The Magazine Size evolution works extremely well with the Particle Rifle, especially if the Assault Rifle Magazine Upgrade is also used with it.  With maximum Magazine Size evolution and a level V Magazine Upgrade, the Particle Rifle's capacity becomes significantly increased and allows for greatly extended firing.
+Availability[]
+Single-player: N/A
+Multiplayer: N7 Destroyer Soldier
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

@@ -1,0 +1,36 @@
+
+
+
+The evacuated ExoGeni researcher Gavin Hossle is in need of someone to retrieve valuable data from the geth occupied ExoGeni headquarters.
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Enemies
+4 Mass Effect 3 Consequences
+
+
+Acquisition[]
+Prerequisite: Feros: Geth Attack
+
+After leaving Zhu's Hope, Shepard will have the opportunity to stop at the Skyway Weigh Station and speak to the evacuated scientists hiding in a refugee camp. Talk to Hossle and he will ask you to retrieve some data for him while the facility is being cleared of geth. You can do this either while on the way to ExoGeni headquarters, or on the way back to Zhu's Hope after ExoGeni headquarters (going to the refugee camp is optional the first time, but mandatory on the return trip).
+Note: This assignment can also be acquired from Gavin at Zhu's Hope after the completion of Feros: The Thorian only if the colonists are not killed after your return from the ExoGeni building. However, access to the Prothean Skyway (and therefore the ExoGeni facility) is lost by this time, and thus you cannot actually complete this assignment if acquired in this manner.
+
+Walkthrough[]
+After entering the ExoGeni facility, there will be a room that the geth use as a type of "church". The room after this one will have several exits. Directly across from where you entered is a set of stairs (consulting your map, it's to the east).
+
+
+When you get to the top, put your squadmates in cover as there are three krogan here; just make sure they don't get close enough to use their shotguns effectively -- they won't come far down the stairs so you can retreat when needed. Tip: A Lift followed by a Throw while they're in their starting position will often boost at least one of the krogan "through the ceiling" resulting in an insta-kill.
+When you are done dealing with the organic intruders, head to the other side of the room. If you have Hossle's assignment on your journal a console containing his data becomes accessible, otherwise it doesn't appear. A nearby server node will give the Communications: Methodology Codex entry if you didn't access the public terminal at Zhu's Hope. Regardless of initial conditions, there's also a lootable secure storage locker here (average decryption). 
+If returning to the facility after finishing other business on Feros (but not before fully finishing Feros: The Thorian), the data can be accessed by entering the corridor previously blocked by an energy field. Turn left in the first room, and climb the stairs to find the data.
+Once the data is obtained, simply return it to the researcher. If Zhu's Hope has not already been returned to, Gavin can be found at his original location. If Zhu's Hope has already been returned to, he can be found in the Zhu's Hope courtyard.
+You receive some credits and omni-gel in exchange for the errand.
+
+Enemies[]
+Krogan
+Mass Effect 3 Consequences[]
+If you completed this assignment and UNC: Asari Writings, purchased the Elkoss Combine armory license, and interacted with Conrad Verner in Mass Effect and Mass Effect 2 without causing his death, the Commander can call in a favor from Hossle. Conrad's dissertation will have an additional bonus towards War Assets.
+
+
+
+

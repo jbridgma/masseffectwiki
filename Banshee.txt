@@ -1,0 +1,175 @@
+
+
+
+
+
+
+
+This article is about the enemy in Mass Effect 3. For the assault rifle in Mass Effect, see Elanus Risk Control Services.
+
+
+
+
+
+
+
+
+Banshee
+
+
+
+
+Faction
+Reapers
+
+
+Type
+Organic
+
+
+Armament
+None
+
+
+Abilities
+ Nova Barrier Warp Charge Impale
+
+
+Armor
+Very High
+
+
+Barrier
+High
+
+
+Locations
+Mahavid, Namakli, Lesuss, Thessia, Horizon, Earth, Armax Arsenal Arena
+
+
+Banshees are synthetic-organic creatures derived from asari and mutated by Reaper technology. Frighteningly intelligent, Banshees are advanced pressure units usually found leading a Reaper strike force.[1]
+
+Contents
+
+1 Description
+2 Capabilities
+3 Tactics
+
+3.1 General
+3.2 Class-Specific
+
+
+4 Morinth
+5 Trivia
+6 Bugs
+7 References
+
+
+Description[]
+
+
+
+
+
+Audio: Bansheehttps://masseffect.fandom.com/wiki/File:Codex_ME3_-_Banshee.ogg
+
+Banshees are the corrupted asari often found leading a Reaper strike force. The Reapers create them specifically from asari with active or latent predispositions to becoming Ardat-Yakshi, a rare neurological condition that enhances the asari's biotic power while causing the immediate death of anyone she mates with.
+Lumbering as though in constant pain, the emaciated banshees are surprisingly durable opponents. They are devastating biotics able to hurl lethal balls of energy and create shockwaves as they regenerate. What Alliance military finds most disturbing is the Banshee's ability to spawn her own warp field and seemingly teleport during combat. Although their wails have no apparent physiological effect, the psychological impact is undeniable.
+When banshees die, their Ardat-Yakshi genetics twist against them, causing a biotic implosion to ensure they evade capture.
+
+
+Capabilities[]
+Offensive
+Banshees can charge their enemies (similar to a Biotic Charge); however, this charge only has a range of about five meters, so the Banshee moves quickly using a series of biotic "hops". They move very slowly when not using this ability.
+They also have the ability to grab their enemies and subsequently impale them with their hands, resulting in instant death. They have a melee attack that involves the Banshee lifting its arms over its head and then swinging them down. This can completely deplete victims' shields and also stagger them.
+Sometimes they will stand still and briefly appear to charge up, after which they will scream and release a damaging biotic blast over a surprisingly large area than can also stagger players. This Nova-like attack does not strike through terrain, but it can  knock targets from cover, potentially exposing them to additional enemy fire. This attack also possesses a mild draining effect that can delay shield/health regeneration until it wears off.
+Finally, they throw powerful biotic projectiles (similar to Warp) that move slowly but track their target. Shields can be instantly destroyed and up to two health blocks are drained over time. On Platinum, this will drain all but one health block. Abilities that restore shields will interrupt the health drain—this is especially useful if you're playing the campaign on Insanity or Multiplayer at higher difficulties.
+Defensive
+Banshees can biotically "teleport" short distances to move quickly and unpredictably, which can make them very difficult to hit at range. Prior to the release of Patch 4, it was possible for them to get stuck during the teleport routine. They also possess highly durable barriers and armor. If not damaged within a short period, a Banshee's depleted barrier will rapidly regenerate back to near full strength. When under attack by multiple powers, they may come to a stop and raise a hand, creating a visible shield that negates powers for the duration. 
+
+Tactics[]
+General[]
+A Banshee's head is its weak spot, with each shot dealing 40% more damage. This was taken out with Patch 1 but restored with Patch 4.
+Besides its deadly melee and shield depleting abilities, even a single Banshee will always have other faster moving units, including Brutes, accompanying it, so be prepared to fight a mobile battle and be aware of your surroundings so you won't be swarmed or boxed in.
+It is advisable to outright leave a Banshee alone and kill other enemies first. As long as you maintain a good distance and avoid its warp, it can't really do any lethal damage. Husks can grab and immobilize you for the Banshee to grab you. Ravagers are priority targets due to their high damage at range, and Marauders and Cannibals should follow afterward. Brutes are slow and not a threat unless they are nearby or blocking your path.
+In single-player, squadmates incapacitated by the Banshee's impale attack can only be revived via medi-gel and cannot be revived manually.
+The Banshee's instant kill has one of the longer animations. Though the window is still small (and therefore, it is best to avoid being grabbed altogether), it can be interrupted (and the victim saved) in three ways:
+If the Banshee is staggered by incoming damage (especially strong attacks like a sniper rifle shot from Tactical Cloak, a Biotic Explosion, or Sticky Grenades). Powers that have extremely high force ratings, like Throw, Biotic Charge, or Concussive Shot are also good at interrupting the attack. In single-player, it takes a tremendous amount of damage from squadmates' attacks to dislodge a Banshee's grab.
+If the Banshee is killed before completing the impale animation.
+If the player being executed is downed by other enemies just before they are grabbed. The execution animation will play out, but when it is finished, the player can usually still be revived. Similarly, if the grabbed victim is hit by other attacks that down him/her prior to being impaled (for example, the Ravager's cannons or enemy grenades), the Banshee will drop the victim without finishing the impale and they can then be revived. An exception is if you are playing solo in multiplayer, in which case mission failure will occur after being impaled even if you could have revived yourself with medi-gel.
+Banshees are at their most dangerous when glowing and teleporting, as this is when they are looking to grab and impale their prey. There are two main ways to get them to stop teleporting. One is to bait them in close and then dodge out of the way to avoid the grab, but this is extremely risky, and a Banshee will quickly resume teleporting. The other way is to deal sufficient damage. Bombarding a Banshee with powers can make them stop to block the powers, but this isn't as likely to interrupt their teleport-chasing if the powers aren't dealing a lot of damage to them (e.g. Throw).
+In multiplayer, there will be occasions where the Cobra Missile Launcher is the only real option to prevent disaster when fighting Banshees, so save shots for more difficult rounds or to save allies if they get grabbed.
+When damaged after their barriers are knocked down, Banshees will usually stop and and scream. This can be used as an opportunity to attack at close range, but be careful of taking damage from the area of effect attack as that deals damage as well as delaying shield/health recharge. Their "denial hand" that blocks powers is usually triggered when they are hit by multiple powers at the same time and can create another window to do high weapon damage at close range.
+Do not ignore the Banshee's ranged attack. While the biotic projectile can be dodged with some practice and the right timing (or sufficient cover), it is almost guaranteed to take down all but the strongest shields on impact, then afterwards take down at least one bar of health. This can spell certain (if delayed) death if you're down to your last bar.
+The ranged attack can also do splash damage in a small area; don't bunch up with allies so multiple parties aren't hit.
+The ranged attack, though slow moving, is deceptively hard to avoid as it can often be launched by Banshees that don't even have line of sight to you, plus there is no audio cue when the attack is launched and the projectiles are very quiet in flight, meaning you might have been targeted and have incoming without even knowing it.  It can also be challenging to accurately gauge exactly how far away the projectiles are from you to time a combat roll. This is exacerbated in multiplayer when not hosting the game.
+The damage-over-time from the Banshee's Warp and area blast can be mitigated by any shield/barrier restoring power (e.g. Energy Drain, purging Defense Matrix, or the Geth Turret's and Supply Pylon's Shield Restore).
+In multiplayer, the health drain can also be interrupted by using an Ops Pack.
+If no shield-restoring option is available, the damage reduction bonus from attaching to cover or using a heavy melee attack can also mitigate the drain.
+It's important to note that, unlike in Mass Effect 2, Overload does more damage to barriers than Warp. Of particular note is the Rank 6 evolution of Overload that doubles its damage to shields and barriers. Squadmates who can use Overload should concentrate on the Banshee to remove its barrier. After the barrier is depleted, Warp is better for wearing down the armor.
+Reave, Dark Channel, and Energy Drain are also effective in taking down a Banshee's barrier.
+Repeated use of Warp followed by Throw will create Biotic Explosions heavily damaging the Banshee and any enemies nearby as well. This is true even when the Warp and Throw abilities may appear "orange" on the power wheel, and is especially effective because the Throw ability has a fast recharge. Upgrading the combo damage and recharge rates on these abilities makes this tactic even more effective.
+Some biotic powers will never be able to affect Banshees due to their lack of a health bar. Dominate, Pull, Slam and Stasis can't affect a Banshee and will not leave an effect to be detonated.
+Be wary about sticking to cover. They can rapidly close almost any distance and grab you. Their area scream attack can also expose you.
+After unleashing the Nova/biotic blast attack, the Banshee will no longer be glowing. In this state, it is unable to either perform another biotic blast or teleport for some time, making it the most opportune time to attack.
+Also, once they stop glowing, Banshees are less likely to execute a grab move, so it's relatively safe to get closer. Once the Banshee starts screaming again, run away to a safe distance.
+Prior to the Patch 4, Combat Drones and turrets were quite useful at distracting Banshees and could be recast almost instantly to keep them occupied. With the Patch active, melee enemies can no longer be distracted by them.
+Like most large enemies, Banshees can't climb ladders or jump onto higher areas. Even though their teleports can cover some vertical distance, ladders (or jumping down to a lower level) are therefore a good way to escape danger from their melee attacks.
+Even after it is killed, its body continues to be a solid object that blocks movement, weapons fire, powers, etc. until its death animation fully completes.
+Class-Specific[]
+A Vanguard can successfully use Biotic Charge but should immediately dive away from the Banshee to avoid its grab. This can be a useful tactic if the Banshee has been primed by powers such as Incinerate or Warp, allowing the Vanguard to set off power combos. The detonation will also stagger the Banshee, giving an extra fraction of a second to escape.
+Human Vanguards with the Nova ability upgraded to give a bonus to cool-down and Biotic Charge upgraded to give back full barriers and to give a power damage bonus can kill a Banshee without having to fire a shot. If you Biotic Charge then immediately roll away, you can use Nova with the damage bonus while staying out of range of the Banshee's melee attack. If followed up with another Biotic Charge, your shields will completely recharge (if the Rank 6 Barrier evolution was chosen), allowing you to follow up with another Nova. If you complete the cycle enough times, you will kill the Banshee without using any ammo. It is important to note that in order for you to use this tactic effectively, you must have a high cooldown recharge bonus.
+A properly built krogan or batarian character can survive the Banshee's biotic blast attack without being staggered, giving them a perfect opening to attack with melee attacks while she recovers without risking impalement. This has become easier with the release of Patch 4.
+More so than other enemies, the Banshee has a tendency to target one player to the exclusion of others. If the Banshee begins to teleport directly toward a certain player, then she has targeted that one player for death and will follow for a considerable distance, ignoring other players in favour of the target. If the player is a class that cannot perform a combat dodge (such as a krogan, batarian, N7 Destroyer, or turian), it is advisable to turn and run in the opposite direction. When the player has placed enough distance between themselves and the Banshee, she may reprioritize her targets and attack a different team member. This is one of the best times to attack the Banshee, as she will remain focused on her new target. The Banshee may also change targets if one team member inflicts a large amount of damage to her, turning her wrath to the source of the damage.
+A Banshee teleporting through the trip wires of the Cain Trip Mine will not cause the mine to detonate. Only when a Banshee walks through the wire will the mine detonate. To better ensure that a Banshee is caught by the mine, try placing multiple mines parallel to one another with a bit of distance between them.
+The Geth Juggernaut is completely immune to sync-kills and has high base health and shields. This makes it a viable class to fight against Banshees. However, one should still be cautious as Banshees can still do a large amount of damage.
+Morinth[]
+If Morinth was spared in 2185, she will appear during the assault on Earth as a Banshee. She will not behave any differently from any other Banshee and must be killed as normal.
+
+Trivia[]
+In The Art of the Mass Effect Universe and The Art of Mass Effect 3, Banshees are incorrectly stated to be asari matriarchs, instead of asari with Ardat-Yakshi potential.
+The Banshee is a female fairy or spirit from Irish folklore, whose wails are said to be an omen of death. Similar creatures appear in Scottish, Welsh, and Norse stories.
+There is a rollercoaster in Cincinnati Ohio in Kings Island called Banshee. In line and during the ride, a banshee scream identical to the one in Mass Effect is played over loudspeakers.
+The Codex entry for Banshees states that when they die, their body is destroyed by a biotic implosion to evade capture. However, in the Ardat-Yakshi Monastery, an intact Banshee corpse can be found, both during the cutscene where Shepard finds Falere, and afterwards when the cutscene ends on the floor nearby.
+Bugs[]
+On occasion, a Banshee will become invisible. Her biotic attacks will still be visible and still affect the player. She is also still capable of using her instakill grab.
+In rare instances, the Banshee's grab will drag you from a great distance even though the player's character was nowhere near her. The dragged player is helpless when this happens and this can only be prevented if another player would do what he/she would do for a regular grab. This bug has since been addressed by Bioware in patch 4[2], but may still happen on occasion because of latency issues.
+References[]
+
+↑ http://www.masseffect.com/about/enemies/
+
+↑ https://web.archive.org/web/20160318002211/forum.bioware.com/topic/403231-upcoming-mass-effect-3-patch-4-patch-notes/
+
+
+
+
+Mass Effect 3 Enemies
+
+
+CAT6
+
+Brooks • CAT6 Heavy • CAT6 Sniper • CAT6 Specialist • Clone • Disruption Drone
+
+
+Cerberus
+
+Adjutant • Assault Trooper • Atlas • Centurion • Combat Engineer • Dragoon • Dr. Eva • Guardian • Kai Leng • Legion Assassin • Nemesis • Phantom • Rampart Mech • Turret
+
+
+Collectors
+
+Abomination (Possessed) • Collector Captain (Possessed) • Collector Trooper (Possessed) • Collector Web • Praetorian (Possessed) • Scion (Possessed) • Seeker Swarm (Plague)
+
+
+Geth
+
+Combat Drone • Geth Bomber • Geth Hunter • Geth Prime • Geth Pyro • Geth Rocket Trooper • Geth Trooper • Geth Turret
+
+
+Reapers
+
+Banshee • Brute • Cannibal • Harvester • Husk • Marauder • Ravager • Swarmer
+
+
+
+

@@ -1,0 +1,434 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Flak Cannon is a Combat skill in Mass Effect: Andromeda.
+
+Contents
+
+1 SP Skill Ranks
+2 MP Skill Ranks
+3 Nakmor Drack Skill Ranks
+4 Player Notes
+5 Availability
+
+
+SP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Flak Cannon
+
+
+
+Fires krogan designed shells that burst into shrapnel upon impact. Shrapnel damage is reduced against armored enemies.
+Activation requires one power cell from Flak Cannon's limited power cell supply.
+
+
+Initial Damage: 180
+Shrapnel Damage: 75
+Power Cell Capacity: 5
+-30% Shrapnel Damage vs. Armor
+
+
+
+2
+
+Power Cells
+
+
+
+-
+
++1 Power Cell Capacity
+
+
+3
+
+Damage & Force
+
+
+
+-
+
++25% Area Damage
++25% Area Force
+
+
+
+4
+
+Damage & Force
+
+
+
+-
+
++35% Area Damage
++35% Area Force
+
+
+
+4
+
+Power Cells
+
+
+
+-
+
++2 Power Cell Capacity
+
+
+5
+
+Anti-Armor
+
+
+
+Increases both initial and shrapnel damage against enemy armor.
+
++50% Damage vs. Armor
+
+
+5
+
+Stunning
+
+
+
+Briefly stuns affected enemies.
+
+Stun Duration (s): 2
+
+
+6
+
+Flak
+
+
+
+-
+
+50% more shrapnel explosions.
+
+
+6
+
+Shredder
+
+
+
+Shrapnel inflicts additional damage over time.
+
+Damage per Second: 35
+Damage Duration (s): 8
+
+
+MP Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Flak Cannon
+
+
+
+Fires krogan designed shells that burst into shrapnel upon impact. Shrapnel damage is reduced against armored enemies.
+Activation requires one power cell from Flak Cannon's limited power cell supply.
+
+
+Initial Damage: 250
+Shrapnel Damage: 59
+Power Cell Capacity: 4
+-30% Shrapnel Damage vs. Armor
+
+
+
+2
+
+Power Cells
+
+
+
+-
+
++2 Power Cell Capacity
+
+
+3
+
+Damage & Force
+
+
+
+-
+
++40% Area Damage
++25% Area Force
+
+
+
+4
+
+Damage & Force
+
+
+
+-
+
++50% Area Damage
++35% Area Force
+
+
+
+4
+
+Power Cells
+
+
+
+-
+
++3 Power Cell Capacity
+
+
+5
+
+Anti-Armor
+
+
+
+Increases both initial and shrapnel damage against enemy armor.
+
++75% Damage vs. Armor
+
+
+5
+
+Stunning
+
+
+
+Briefly stuns affected enemies.
+
+Stun Duration (s): 2
+
+
+6
+
+Flak
+
+
+
+-
+
+50% more shrapnel explosions.
+
+
+6
+
+Shredder
+
+
+
+Shrapnel inflicts additional damage over time.
+
+Damage per Second: 100
+Damage Duration (s): 8
+
+
+Nakmor Drack Skill Ranks[]
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Flak Cannon
+
+
+
+Launches projectiles that split on impact and then air-burst into shrapnel to carve an aftermath of destruction. Shrapnel does less damage to armored enemies.
+
+Initial Damage: 148
+Shrapnel Damage: 62
+Recharge (s): 20
+-30% Shrapnel Damage vs. Armor
+
+
+
+2
+
+Recharge Speed
+
+
+
+-
+
++20% Recharge Speed
+
+
+3
+
+Damage & Force
+
+
+
+-
+
++20% Area Damage
++20% Area Force
+
+
+
+4
+
+Damage & Force
+
+
+
+-
+
++30% Area Damage
++30% Area Force
+
+
+
+4
+
+Radius
+
+
+
+-
+
++25% Damage Radius
+
+
+5
+
+Anti-Armor
+
+
+
+Increases both initial and shrapnel damage against enemy armor.
+
++40% Damage vs. Armor
+
+
+5
+
+Stunning
+
+
+
+Briefly stuns affected enemies.
+
+Stun Duration (s): 2
+
+
+6
+
+Heavy Flak†
+
+
+
+-
+
+Increases the number of shrapnel explosions by 50%.
+
+
+6
+
+Shredder†
+
+
+
+Shrapnel inflicts additional damage over time.
+
+Damage per Second: 15
+Damage Duration (s): 8
+
+
+Note: †Rank 6 is unavailable to Drack until his loyalty mission Nakmor Drack: A Future for our People is completed.
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player:
+Pathfinder Ryder - Starting Combat Skill
+Nakmor Drack - Unlocked With 18 Skill Points in any skills.
+Multiplayer: Batarian Scrapper, Batarian Vanguard, Krogan Mercenary, Turian Havoc Trooper
+
+
+
+
+
+
+Mass Effect: Andromeda Skills
+
+
+
+
+Combat
+
+Assault Rifles • Barricade • Combat Fitness • Combat Tools • Concussive Shot • Flak Cannon • Omni Grenade • Pistols • Shotguns • Sniper Rifles • Trip Mine • Turbocharge
+
+
+Tech
+
+Assault Turret • Auxiliary Systems • Cryo Beam • Energy Drain • Flamethrower • Incinerate • Invasion • Offensive Tech • Overload  • Tactical Cloak • Team Support • Unknown (Remnant VI)
+
+
+Biotics
+
+Annihilation • Backlash • Barrier • Charge • Containment • Lance • Nova • Offensive Biotics • Pull • Shockwave • Singularity • Throw
+
+
+
+
+

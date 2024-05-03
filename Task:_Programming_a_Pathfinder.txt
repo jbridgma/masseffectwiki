@@ -1,0 +1,38 @@
+
+
+
+The Cultural Exchange's informational VI about Pathfinders requires new settings. Speak with the VI to reset it. 
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak with the Pathfinder VI
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: A Better Beginning
+
+This task is available once all regions in the Common Area of the Nexus become accessible, after the establishment of Prodromos. 
+Speak with the Cultural Center Liaison in the Cultural Center. The task is obtained the second time you talk to her.
+
+Walkthrough[]
+The liaison wants a favor from you at the conclusion of your introductory talk. The second time you talk to her, she reasons that the Pathfinder VI lost its settings in a crash, so you have to speak to it to control the information it presents.
+
+Speak with the Pathfinder VI[]
+The Pathfinder VI is just in front of the turian VI, also adjacent to the krogan VI. You can change the following settings:
+Gender: male or female
+Role: exploration or first contact
+Team: organic team or partner AI
+Glory direction: career advice for future Pathfinders or honor roll for former Pathfinders
+Note:  This is a one-time deal, and you get a confirmatory dialogue before committing your final choices in case you change your mind. Some output may change the further you progress into the game, particularly the list of former Pathfinders, so you may want to consider your choices.
+Once setup is complete, the VI avatar changes from murky static to a clearer, more uniform grey. The answers to these questions merely affect the responses given should Ryder or another being ask the VI for information about Pathfinders.
+
+Rewards[]
++270 XP
+
+
+

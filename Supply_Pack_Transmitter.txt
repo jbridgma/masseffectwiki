@@ -1,0 +1,317 @@
+
+
+
+
+Equipment are permanent items that can be used by APEX Teams during multiplayer gameplay in Mass Effect: Andromeda. 
+These items are the equivalent of Gear from Mass Effect 3 Multiplayer.
+
+Mechanics[]
+Equipment is equipped in the weapon Loadout screen to the right of the weapons selections.
+
+One equipment can be equipped per mission.
+Equipment can be used repeatedly and does not disappear after the match.
+Equipment can be purchased in the Store.
+Note:  Structural Ergonomics and Stronghold Package are presently out of rotation from the store. The only reliable way to acquire them after gaining all other equipment is to purchase one of the multiplayer recruit packs: Asari Adept, Krogan Vanguard, Salarian Infiltrator, and/or Turian Soldier. These packs have their own respective equipment as part of the package deal, and since they're already obtained the store will be forced to load other items that have not yet been obtained, in this case either of the last two.
+
+
+
+Image
+
+Name
+
+Rarity
+
+Description
+
+
+
+
+Adaptive War Amp
+
+Uncommon
+
+Increases Damage Dealt by Biotic Powers by 30%
+
+
+
+
+Assault Rifle Amp
+
+Uncommon
+
+Increases assault rifle damage by 20%
+
+
+
+
+Densified Ammunition
+
+Uncommon
+
+Increases Gun Damage by 12.5%
+
+
+
+
+Engineering Kit
+
+Uncommon
+
+Increases Damage Dealt by Tech Powers by 30%
+
+
+
+
+Enhanced Munitions
+
+Uncommon
+
+Increases Damage Dealt by Combat Powers by 30%
+
+
+
+
+Grenade Capacity
+
+Uncommon
+
+Increases Power Cell Capacity by 3
+
+
+
+
+Hydraulic Joints
+
+Uncommon
+
+Increases Melee Damage by 25%
+
+
+
+
+Mental Focuser
+
+Uncommon
+
+Increases Damage Dealt by Powers by 25%
+
+
+
+
+Multicapacitor
+
+Uncommon
+
+Increases Shield Regeneration Delay Reduction by 100%
+
+
+
+
+Pistol / SMG Amp
+
+Uncommon
+
+Increases Pistol Damage by 20%
+
+
+
+
+Shield Enhancer
+
+Uncommon
+
+Increases shields by 30%
+
+
+
+
+Shotgun Amp
+
+Uncommon
+
+Increases Shotgun Damage by 20%
+
+
+
+
+Sniper Rifle Amp
+
+Uncommon
+
+Increases Sniper Rifle Damage by 20%
+
+
+
+
+Structural Ergonomics
+
+Uncommon
+
+Increases Power Recharge Speed by 25%
+
+
+
+
+Thermal Clip Storage
+
+Uncommon
+
+Increases Maximum Ammo Capacity by 75%
+
+
+
+
+Vulnerability VI
+
+Uncommon
+
+Increases Damage Dealt to Weakpoint by 40%
+
+
+
+
+Armored Compartments
+
+Rare
+
+Increases maximum ammo capacity by 50% and increases power cell capacity by 1
+
+
+
+
+Assault Loadout
+
+Rare
+
+Increases assault rifle and shotgun damage by 15%
+
+
+
+
+Berserker Package
+
+Rare
+
+Increases shotgun damage by 15% and melee damage by 15%
+
+
+
+
+Combatives Upgrade
+
+Rare
+
+Increases assault rifle and pistol damage by 15%
+
+
+
+
+Commando Package
+
+Rare
+
+Increases Gun Damage by 10% and Biotic Power Damage by 20%
+
+
+
+
+Expert Package
+
+Rare
+
+Increases pistol damage by 15% and power recharge speed by 15%
+
+
+
+
+Guerrilla Upgrade
+
+Rare
+
+Increases Sniper Rifle and Pistol Damage by 15%
+
+
+
+
+Juggernaut Shield
+
+Rare
+
+Increase shields by 20% and melee damage by 15%
+
+
+
+
+Martial Biotic Amp
+
+Rare
+
+Increases Biotic Power Damage by 20% and Melee Damage by 15%
+
+
+
+
+Omni-Capacitors
+
+Rare
+
+Increases Tech Power Damage by 20% and Power Recharge Speed by 15%
+
+
+
+
+Operative Package
+
+Rare
+
+Increases Gun Damage by 10% and Tech Power Damage by 20%
+
+
+
+
+Shock Trooper Upgrade
+
+Rare
+
+Increases shotgun damage by 15% and increases power cell capacity by 1
+
+
+
+
+Stronghold Package
+
+Rare
+
+Increases shields by 20% and reduces shield regeneration delay by 70%
+
+
+
+
+Supply Pack Transmitter
+
+Rare
+
+Using First Aid, Revive Packs, and Ammo Packs applies to teammates within 10 meters. Also, the Cobra RPG's explosion radius is increased by 50%
+
+
+
+
+Survivor Loadout
+
+Rare
+
+Increases shields by 20% and Combat Power Damage by 20%
+
+
+
+
+Warfighter Package
+
+Rare
+
+Increases Gun Damage by 10% and Combat Power Damage by 20%
+
+
+
+
+

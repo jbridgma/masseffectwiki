@@ -1,0 +1,172 @@
+
+
+
+
+
+Batarian Slasher Adept
+
+
+
+
+
+
+Class
+Adept
+
+
+Race
+Batarian
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Retaliation
+
+
+Abilities
+Enforcement GauntletsToughness/MeleeDecreased Mobility
+
+
+Little is known about the batarian homeworld of Khar'shan or its inhabitants. As a result, the race is judged by those whom the Hegemony allows to travel beyond its borders: organized crime enforcers, pirate boarding parties, slaver gangs, and gladiatorial combatants.
+Batarians are large brawlers that use nets and spiked weapons to capture targets... or to bleed them dry on the battlefield. If an opponent gets too close, a batarian enforcer bludgeons them with spiked armor and enforcement gauntlets.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+4 Bugs
+5 Trivia
+6 References
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 750
+
+
+Class: Batarian Enforcer
+
+
+ Warp
+
+
+
+
+ Cluster Grenade
+
+
+
+
+ Lash
+
+
+
+
+ Fitness
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Punch
+Melee Sequence: The Batarian Slasher executes a series of two one-handed and a final two-handed blow.
+Heavy Melee (Enforcement Gauntlets) – The Batarian Slasher Adept winds up a powerful punch with an omni-tool gauntlet, hitting up to one target. An unprotected foot soldier will be sent flying, and its head is destroyed if the blow is fatal.
+Grab (Enforcement Punch) – The Batarian Slasher Adept drags an enemy over cover and then executes them by punching with an enforcement gauntlet.
+
+
+
+
+
+Dodge – The Batarian Slasher Adept lacks a dodge maneuver.
+The Batarian Slasher Adept can take cover, but cannot roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+The Batarian Slasher Adept is the only batarian character to lack Blade Armor. However, he is a versatile character due to his long ranged power and high base health and shields. Combined with his powerful melee attack, the Slasher can efficiently switch between ranged and close combat.
+On most maps, a properly angled Lash projectile can toss most enemies out of the map, counting as an instant kill.
+Cerberus[]
+Lash is useful against Guardians, as it will remove their shield.
+Cluster Grenade can prove lethal when used on an unshielded Atlas to quickly tear away its armor.
+The Slasher is a slow class and cannot evade at all, which can be dangerous against Phantoms.
+Collectors[]
+Because all Collector units have (or can gain) either barriers or armor, Warp and Cluster Grenades will be very effective.
+Care should be taken when attempting to Lash Abominations and especially Possessed Abominations. Angling away the Lash projectile to throw them sideways is the only safe method. Lashing these enemies and pulling them towards yourself or the squad just causes them to violently explode right at your feet.
+Geth[]
+If you are playing against geth, Lash is only effective against Geth Troopers without the rank 6 shield penetration.
+Reapers[]
+No Reaper unit other than the Marauder is able to dodge Warp.
+Lash will be of less effective here even with the rank 6 shield penetration as most reapers are armored.
+Bugs[]
+When grabbed by a Husk or Abomination, the Batarian Slasher Adept, along with the Batarian Brawler Vanguard, incorrectly make the vocalizations of a male human class.
+Trivia[]
+Unlike other Adepts in the game, the Batarian Slasher features shields instead of a biotic barrier. According to Senior Tester Bryan Johnson, this may be due to a developer oversight.[1]
+References[]
+
+↑ https://web.archive.org/web/20160731151924/https://forum.bioware.com/topic/497045-lets-do-another-qa-thread/?p=16237577
+
+
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

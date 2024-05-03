@@ -1,0 +1,62 @@
+
+
+
+You wandered off the beaten path and something in the middle of nowhere seems to have disabled the Nomad. A scavenger named Hardy, who just happened to be around, claims he can fix it.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Look around for signs of life
+2.2 Speak with Hardy
+
+2.2.1 Kill Hardy
+2.2.2 Get the part
+
+
+2.3 Start up the Nomad
+
+
+3 Rewards
+4 Enemies
+
+
+Acquisition[]
+On Elaaden, the Nomad starts breaking down once it reaches a point directly between the map boundary and the northernmost Forward Station in the Sea of Ataraxia. The vehicle's direction doesn't matter as the trigger is on a radius. Therefore, the easiest way to initiate this mission is to simply go north from the northernmost Forward Station.
+
+Walkthrough[]
+When you get close to the location for the start of the mission, the Nomad will have electrical arcs course over its surface as warning indicators. Continue driving and the Nomad will incur additional surges over it then smoke and sputter to a halt.
+
+Warning: Until the Nomad breaks down completely, extraction will still work, and the Nomad will continue to function as long as you don't drive back to where it started to break down. HOWEVER, it is ill-advised to leave this area until the mission is complete. There are issues with Fast Travel and Extraction that can show up if trying to leave before this mission has been fully triggered. This mission is very short and can be quickly completed.
+After the Nomad breaks down, Pathfinder Ryder hears over comms from Kallo Jath that Gil Brodie is working on one of the Tempest's thrusters, and the ship won't be able to fly for a while, so extraction is out. Fast travel is also disabled.
+The first objective is added right after the conversation ends.
+
+Look around for signs of life[]
+This objective is added and completes the same time as the mission is added. The next objective starts right away.
+
+Speak with Hardy[]
+A scavenger named Hardy calls over the comm and tells you he might have just the part you need. Regardless of whether you choose to be paranoid or trusting, a navpoint is added not far away from your location. The exact direction is always due north from the north Forward Station. If you dither around for a bit, you'll discover Kallo and Gil are bickering on their own trying to get the Tempest moving, so it's best you get Ryder moving before the heat hazard protection depletes from your armor.
+Head to the navpoint to find a small camp with a large tree. While on approach one of your squadmates raises doubts about this guy's trustworthiness. Again, regardless of whether you choose to be trusting or mistrustful Hardy comes clean almost immediately. He's been preying on passing vehicles with an EMP generator which disables their engines, stripping the vehicles for salvage and killing the occupants if they resist. He would have attacked Ryder too, but he was pretty sure he'd lose. Instead, Hardy is willing to sell a replacement for the fried circuit board.
+
+The options are to either pay 500  for the circuit board or kill Hardy and take the board from a nearby shipping crate. There are no known consequences for either choice. The rewards are the same. Note:  If you don't have enough credits, the fight happens automatically.
+Hardy's deal is refused:
+
+Kill Hardy[]
+Hardy is a simple Raider enemy and should go down easily.
+
+Get the part[]
+A nearby Shipping Crate can be looted to obtain the part. You can now head back to the location of the Nomad  with the replacement board, after snarking how Hardy must've had a bunch of it in reserve.
+Hardy's deal is accepted:
+
+Start up the Nomad[]
+Whichever way you deal with Hardy this is the final objective. Return to the location of the Nomad. Enter the vehicle, the part will be installed automatically, and everything will return to normal. The mission then ends.
+
+Rewards[]
++270 XP
++29 AVP 
++2% Elaaden viability
+Enemies[]
+Hardy (optional)
+
+
+

@@ -1,0 +1,62 @@
+
+
+
+
+
+Pas-65
+
+Region
+Andromeda / Heleus Cluster / Tafeno
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+7.7 AU
+
+
+Orbital Period
+12.2 Earth Years
+
+
+Keplerian Ratio
+3.067
+
+
+Radius
+8,877 km
+
+
+Atm. Pressure
+0.00 atm
+
+
+Surface Temp
+89 °C 
+
+
+Location: Andromeda / Heleus Cluster / Tafeno System /  First planet
+
+
+Description[]
+Pas-65 is a scorching desert that is nonetheless surprisingly cool given the output and nearness of the Tafeno sun. The temperature is a product of Pas-65's highly reflective metal deposits.
+
+Anomaly[]
+Satellite[]
+DATA:
+
+Satellite ID: Paarchero 1125-C
+Power readings: 2.2%
+System report: All systems offline
+Status: Inactive
+ANALYSIS:
+This appears to be a positioning beacon launched from the salarian ark Paarchero. Its systems are too damaged to determine if it was launched accidentally or with an unknown purpose.
+Awards +50  when scanned.
+
+
+
+

@@ -1,0 +1,145 @@
+
+
+
+
+
+Sharpshooter
+
+ 
+
+
+
+
+
+
+							Outlaw
+							
+						
+
+
+
+							Collective
+							
+						
+
+
+
+							Roekaar
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faction
+OutlawsCollectiveOutcastsRoekaar
+
+
+Weapons / Attacks
+M-97 Viper, Isharay
+
+
+Abilities
+–
+
+
+Health
+Normal
+
+
+Shields
+Normal
+
+
+Weak Points
+Head
+
+
+The Sharpshooter is an Outlaw unit. Next to Raiders, they are a common staple of enemy formations encountered by Pathfinder Ryder and APEX teams.
+
+Contents
+
+1 Scanner Information
+2 Description
+3 Capabilities
+4 Tactics
+
+
+Scanner Information[]
+Outlaw Sharpshooter
+
+
+DATA:
+Classification: Enemy
+Origin: Milky Way
+ANALYSIS:
+A fleet of foot and jetpack long-range assassin, armed with a long-range weapon.
+
+Description[]
+Equipped with custom-modified sniper rifles, sharpshooters accompany raiding parties as scouts and long-range combatants. A well-trained sharpshooter can pick off an unprepared explorer before they even know there are enemies nearby. 
+The skill of many of these sharpshooters is, ironically, the result of Initiative colonist defense training before leaving the Milky Way. Strategically, it was believed that well-armed snipers would be simple but effective defenders of their outposts, with a lowered risk of losing personnel in the event of an attack. It appears this training has now been passed along.
+
+
+Capabilities[]
+Offensive
+Human Sharpshooters are armed with M-97 Vipers while Roekaar ones are equipped with Isharays. Both variants can take a few seconds to "paint" a target with a red laser beam, dealing high damage if it hits.
+
+Defensive
+They are protected by shields.
+Sharpshooters can hit back with melee attacks in close range, but they prefer to put some distance between them and their attackers.
+
+Tactics[]
+Always be on the lookout for the telltale red laser lines on the battlefield. On higher multiplayer difficulties, a successful sniper hit can strip off shields and barriers in one hit.
+
+
+
+
+Mass Effect: Andromeda Enemies
+
+
+
+
+Kett
+
+Anointed • Ascendant (Prefect) • Behemoth • Chosen • Destined • Fiend • Turret • Wraith Archon's Sword • Invictor • Scientist • The Cardinal • The Valiant
+
+
+Outlaws
+
+Adhi • Agent • Anarchist • Berserker • Hydra (Blaze Hydra) • Pariah • Raider • Saboteur • Sharpshooter • Turret Axius • Barrett • Dorado • Farah Noskos • Hardy • Krex • Lynx • Mallox • Meriweather • Strogjaw Grog • Zia Cordier
+
+
+Remnant
+
+Architect • Assembler • Breacher • Creeper • Destroyer (Progenitor) • Nullifier • Observer • Turret
+
+
+Wildlife
+
+Challyrion • Drall • Echidna • Eiroch (Ancient Eiroch) • Galorn • Kaerkyn • Rylkor • Shemrys • Spitbug • Taurg • Wild Adhi
+
+
+
+

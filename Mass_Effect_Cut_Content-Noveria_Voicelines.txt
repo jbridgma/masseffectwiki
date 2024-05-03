@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+The following dialogues, related to the mission on Noveria and the various side-quests associated with it, were cut from Mass Effect. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present, listed in priority order if the source is accurate.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 ice20_maekomatsuo (missing nodes)
+2 ice20_opold (missing nodes)
+3 ice20_amb_interview_human
+4 ice20_amb_interview_salarian
+5 ice20_lilihierax (missing nodes)
+6 ice25_trig03_tunnel_sealed
+7 ice25_trig01_tunnel_egress
+8 ice25_trig02_barricades_warn
+9 ice25_trig04_open_boathouse
+10 ice25_trig05_chilly_krogan
+11 ice25_trig06_gunship_warn
+12 ice25_trig07_aagun_warn
+13 ice25_trig09_assassin_enc
+14 ice50_trig01_krogan_sniper
+15 ice50_trig02_elevator_warn
+16 ice50_trig04_lifts_off
+17 ice50_trig04_mira_off
+18 ice50_mira
+19 ice50_trig06_admin_corpse
+20 ice50_trig07_not_blood
+21 ice50_trig08_dampeners_clue
+22 ice50_trig20_fail_dampeners
+23 ice50_trig21_fail_coolant
+24 ice50_trig11_chkpt_blood
+25 ice50_trig12_airvents2
+26 ice50_trig23_trams_off
+27 ice50_trig18_bloody_tram
+28 ice50_trig25_tram_70
+29 ice60_ambient_barricade_1
+30 ice60_julethventralis
+31 ice60_trig07_guard_rant
+32 ice60_trig03_nerves
+33 ice60_trig02_noneshallpass
+34 ice60_checkpoint_guard
+35 ice60_checkpoint_guard (missing nodes)
+36 ice60_trig13_thru_labs_peace
+37 ice60_rachniqueen
+38 ice60_trig14_tram_controls
+39 ice70_trig01_crash
+40 ice70_trig05_landlines
+41 ice70_mira (missing nodes)
+42 ice70_chion
+43 ice70_trig06_chion_spaz
+44 ice70_ambient_alarm_loop1 / ice70_ambient_alarm_loop2 / ice70_ambient_alarm_loop3
+45 ice70_tartakovsky (missing nodes)
+46 ice70_tartakovsky
+47 ice70_trig03_mira_tram
+48 ice20_trig15_nuked
+49 ice20_lilihierax
+
+
+ice20_maekomatsuo (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline. The time length of the voiceline gives an approximation of the remaining amount of characters.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\ice20_maekomatsuo_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE20_01A_DSG_LOC_INT.pcc
+Characters present:
+
+Maeko Matsuo
+Commander Shepard
+
+Shepard: What else do you know about th[10 to 20 characters remaining]
+Maeko Matsuo: Only as much as I need to do m[70 to 90 characters remaining]
+
+
+ice20_opold (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline. The time length of the voiceline gives an approximation of the remaining amount of characters.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\ice20_opold_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE20_03D_DSG_LOC_INT.pcc
+Character present:
+
+Commander Shepard
+
+(Missing context)
+Shepard: Something you need?
+
+Shepard: All right, I'll do it.
+
+ice20_amb_interview_human[]
+Note:  only the first full dialogue (starting with "What sort of offer did they make you?") and the first voiceline of the other dialogues can be heard in-game, but the rest, while they should be functional, cannot. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\ice20_amb_interview_human_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE20_08_DSG_LOC_INT.pcc
+Characters present:
+
+Unnamed human male
+Unnamed human female
+
+Human female: What do you think about the security? All the weapon detectors, the guards...
+Human male: Yeah. Did you see the turrets on the way in?
+Human female: The what?
+Human male: Turrets. Outside. Big anti-ship weapons. Looks like they could fight off an orbital assault. A small one.
+Human female: Yeah, but all the monitoring, cameras, and guards. It feels oppressive.
+Human male: Really? With all the problems out here - pirates and whatnot? This might be one of the safest planets in the Traverse.
+
+Human male: What have you heard about Peak 15?
+Human female: That it's one of the lab complexes. And it's out of contact, or something.
+Human male: Seems strange. The whole mountain going dark like that? People are pretty wound up about it. Not that they're saying much.
+Human female: I heard someone say that they do secret weapons research up there.
+Human male: Ah, people say that about every place they're not allowed to go. It's got some big dark secret. How 'bout that lobster?
+Human female: Pretty good. Almost tastes like the real thing. Texture's a little off, though.
+
+Human female: You know what I noticed about this place?
+Human male: What's that?
+Human female: People don't talk. Listen. There's like a dozen people in here. You hear anyone but us?
+Human male: There's that salarian on his comm.
+Human female: But normally in a place like this, you'd hear--I don't know--I guess "the buzz of conversation?"
+Human male: No one can talk about what they did at work. Not without getting sued, anyway.
+Human female: Just seems kind of creepy.
+
+Human male: You think you'll take the job?
+Human female: I'm considering it.
+Human male: So, uh, if you do, you think we might be able to meet sometime? You know. For coffee?
+Human female: Coffee? Aw, that's quaint.
+Human male: Or dinner. A vid. I don't know.
+Human female: You're here for Elanus, right?
+Human male: Yeah, I work in superconductors.
+Human female: I'm here for Binary Helix. We wouldn't see each other a lot...
+Human male: ...unless we both worked on Peak 15.
+Human female: Yeah, well, it was nice meeting you.
+Human male: Yeah.
+
+ice20_amb_interview_salarian[]
+Note:  only the first full dialogue (starting with "Don't hang up. Elder Brother? It's me.") and the first voiceline of the other dialogues can be heard in-game, but the rest, while they should be functional, cannot. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\ice20_amb_interview_salarian_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE20_08_DSG_LOC_INT.pcc
+Character present:
+
+Rulamin
+
+Rulamin: Don't hang up. Is Luhara Chu Niafahl present? Hello Nia. It's Rulamin. Yes. I'm on Noveria. A job interview with Synthetic Insights. Instructional. I'd swear that every corporation has a former STG operator as their head of Personnel Resources. It's the quietest place I've visited off homeworld. Everything is built with a good view, and there are constables everywhere. Very secure. After I get done here, could we meet? It's been years since we heard each other with our real ears. You're still on Ryskos? Right. I'll do some research tonight and see when I can get a packet there. I'm looking forward to seeing you, too. I'll be in contact as soon as I have plans.
+
+Rulamin: Don't hang up. Ah? That's how salarians greet another over comm channels. Oh, since before we had spaceflight. I think the idea was that you're disturbing the silence. So you want to assure the listener it's important. Look, I'm not an anthropologist. Do you mind? That's all right. I need a packet flight from any groundside port on Noveria to Ryskos. Tomorrow. Really? None at all? Can I assume that's due to security concerns? All right. Six days is the best you can do? Right, that makes sense. All right, I'll see what I can do here. Thanks for your time. Shakni! Wish I'd thought of this sooner.
+
+Rulamin: ...I listen. Apalon? It's been a few weeks, hasn't it? How are things at the office? No. No, they're all on the secure server. Right off the root. Search for fiscals - projections - 2704 - latest. Yes. Right there. Well, I don't know what to tell you. Maybe Laeta deleted them when she moved into my office. Listen, I'm on an interview right now. Noveria. Yes. Well, thanks. Too bad Stoma didn't realize that before he passed me up for promotion. Yes. Good luck with the fiscals.
+
+Rulamin: Don't hang up. Ms. Ellison? It's Rulamin. Well, when I arrived, I found Synthetic Insights had been closed. A criminal conduct investigation. I want you to keep looking for new positions. No. I don't care how the investigation ends. I won't risk my reputation working for a suspect office. All right. When you have some hits, flash them to my VI. He'll collate them for me. Thank you. No, I don't hold this against you. You've done well for me in the past. I'm just-- It's been a long trip for nothing. My trip may be extended. While I'm out here, I have some personal business to see to. We'll speak again.
+
+ice20_lilihierax (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline. The time length of the voiceline gives an approximation of the remaining amount of characters.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\ice20_lilihierax_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE20_04_DSG_LOC_INT.pcc
+Characters present:
+
+Lilihierax
+Commander Shepard
+
+Lilihierax: Any chance you got a vehicle s[50 to 70 characters remaining]
+Shepard: We've got a Mako that needs work.
+Lilihierax: Mako, eh? Don't see many IFV's[80 to 100 characters remaining]
+
+ice25_trig03_tunnel_sealed[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect, except for the missing audio for Joker and female Shepard. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice25\ice25_trig03_tunnel_sealed_D.upk
+Characters present:
+
+Jeff "Joker" Moreau
+Commander Shepard
+
+Pre-recorded announcement: The Aleutsk Valley transit system is closed due to hazardous conditions on the summit. Updates will be broadcast as available. Thank you.
+
+(Par) I better check that. (Neu) Must be farther up. (Ren) The weather's clear.  Shepard: Shore party to Normandy. Joker, you copy? Shepard: It must be worse farther up. Shore party to Normandy. Joker, you copy? Shepard: It looks calm to me. Shore party to Normandy. Joker, you copy?
+Joker: Normandy online. What's your trouble?
+
+(Par) I need a weather report. (Neu) Any storms near us? (Ren) Weather, they claim.  Shepard: Can you patch into the weather network? Any storms nearby? Shepard: Can you patch into the weather network? Any storms nearby? Shepard: The roads are closed due to weather. Sounds like a bunch of Bravo Sierra to me. Get me a forecast.
+Joker: That's an affirmative. We got a monster storm sitting up around the Skadi Range. Blinding snow. Sub-zero temperatures. Gale force winds. Pretty average by local standards.
+
+(Par) Thanks. (Neu) Goodbye. (Ren) That's what I thought.  Shepard: Good work. We'll get back to you, Joker. Shore party out. Shepard: Good work. We'll get back to you, Joker. Shore party out. Shepard: Someone's wasting my time. Thanks for the help. Shore party out.
+Joker: Remember: if your feet stop feeling cold, that's a bad sign. Normandy out.
+(End of conversation)
+
+ice25_trig01_tunnel_egress[]
+Note:  these comments were transcribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice25_trig01_tunnel_egress.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+
+| Ashley Williams: Geth combat drones! On our six!
+| Urdnot Wrex: Ambush in the rear! Geth drones!
+| Garrus Vakarian: Combat drones! Bearing 180, mark 4-5!
+| Kaidan Alenko: We've got drones on our ass!
+| Liara T'Soni: There are some things with guns behind us!
+
+ice25_trig02_barricades_warn[]
+Note:  these comments were transcribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice25_trig02_barricades_warn.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Liara T'Soni: There are geth on the ridges ahead of us!
+| Tali'Zorah: Heads up! Geth on the ridges!
+| Kaidan Alenko: Heads up! Geth on the ridges!
+| Garrus Vakarian: Heads up! Geth on the ridges!
+| Urdnot Wrex: Geth on the ridges ahead!
+
+ice25_trig04_open_boathouse[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice25\ice25_trig04_open_boathouse_D.upk
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: The easiest way down to the lake is near that boathouse.
+| Liara T'Soni: The easiest way down to the lake is near that boathouse.
+| Kaidan Alenko: The easiest way down to the lake is near that boathouse.
+| Ashley Williams: The easiest way down to the lake is near that boathouse.
+| Urdnot Wrex: I'm cold. I say we do our thinking in that building.
+
+ice25_trig05_chilly_krogan[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice25\ice25_trig05_chilly_krogan_D.upk
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Wrex is present Wrex is not present  Urdnot Wrex: That's what happens when you don't bring protection. Idiots.
+(Par) "Protection?" (Neu) Their reactions were crap. (Ren) They're wearing armor.  Shepard: What do you mean "protection?" Shepard: Was it me, or were they a little slow? Shepard: Their gear looked solid enough to me.
+Urdnot Wrex: We're not cold-blooded, but we do come from a warmer world than most. To me, it feels fifteen degrees colder. And those morons didn't bring any winter gear. Dying huddled up to a campfire...(End of conversation) | Liara T'Soni: They should have had better protection. Not that I'm complaining.| Tali'Zorah: Coming to an arctic world without protection. That's just dumb.| Kaidan Alenko: That was stupid of them. Coming to a world like this without protection.| Garrus Vakarian: That was stupid of them. Coming to a world like this without protection.
+(Par) "Protection?" (Neu) Their reactions were crap. (Ren) They're wearing armor.  Shepard: What do you mean "protection?" Shepard: Was it me, or were they a little slow? Shepard: Their gear looked solid enough to me.
+| Liara T'Soni: Humans mistake the krogan for cold-blooded. They are not, but they do come from a warm world.
+| Tali'Zorah: Humans mistake the krogan for cold-blooded. They're not, but they do come from a warm world.
+| Garrus Vakarian: Humans mistake the krogan for cold-blooded. They're not, but they do come from a warm world.
+| Kaidan Alenko: Rumor holds that the krogan are cold-blooded. They're not. You can't lure them into a freezer and expect them to die.
+|| Ashley Williams: It probably feels fifteen degrees colder to them. Those guys didn't have proper cold-weather gear.
+|| Tali'Zorah: To a krogan, it probably feels fifteen degrees colder. Those krogan didn't have proper cold-weather gear.
+|| Garrus Vakarian: To a krogan, it probably feels fifteen degrees colder. Those krogan didn't have proper cold-weather gear.
+|| Kaidan Alenko: It probably feels fifteen degrees colder to them. Those guys didn't have proper cold-weather gear.
+|| Liara T'Soni: To a krogan, it probably feels fifteen degrees colder. Those krogan did not have proper cold-weather gear.
+
+(End of conversation)
+ice25_trig06_gunship_warn[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice25\ice25_trig06_gunship_warn_D.upk
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Garrus Vakarian: Inbound aircraft! I think it's geth!
+| Urdnot Wrex: Geth aircraft incoming! Somebody get me a bigger gun!
+| Ashley Williams: Geth aircraft inbound! Secure for ground to air combat!
+| Kaidan Alenko: Geth aircraft inbound! Secure for ground to air combat!
+| Tali'Zorah: There's a-- some kind of flying thing up there!
+
+ice25_trig07_aagun_warn[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice25\ice25_trig07_aagun_warn_D.upk
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+
+| Ashley Williams: A rapid-fire weapon. Probably a triple-A emplacement.
+| Urdnot Wrex: Anti-air guns. Deadly against soft ground targets. Like us.
+| Kaidan Alenko: A rapid-fire weapon. Probably a triple-A emplacement.
+| Garrus Vakarian: A rapid-fire weapon. Probably a triple-A emplacement.
+| Liara T'Soni: If I am not mistaken, that is an anti-aircraft weapon.
+
+ice25_trig09_assassin_enc[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice25\ice25_trig09_assassin_enc_D.upk
+Characters always present:
+
+Commander Shepard
+Unnamed human male assassin
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: There's something jammed in the mechanism.
+| Liara T'Soni: There is something jammed in the mechanism.
+| Garrus Vakarian: Looks like there's something jammed in the mechanism.
+| Kaidan Alenko: Looks like there's something jammed in the mechanism.
+| Ashley Williams: Looks like there's something jammed in the mechanism.
+|| Urdnot Wrex: So pull it out and get this thing moving again.
+|| Ashley Williams: Let's hope if we pull it out, this'll start moving again.
+|| Kaidan Alenko: Let's hope if we pull it out, this'll start moving again.
+|| Garrus Vakarian: Let's hope if we pull this out, this'll start moving again.
+|| Liara T'Soni: Let's hope if we pull it out, this will start moving again.
+Assassin: Stay where you are. Ah-ah, no weapons, please. Fighting would make this messy. Well, messier.
+
+(Par) You work for Benezia? (Neu) Professional killers? (Ren) Screw you.  Shepard: Did the Matriarch send you?Assassin: Saren, actually. Though I'm sure Lady Benezia would send her regards. I won't insult you by asking for surrender. We're here to kill you. Of course you'll fight. Shepard: I take it you're assassins?Assassin: Bormann here prefers "gentleman adventurers." But I think that's disingenuous. I won't insult you by asking for surrender. We're here to kill you. Of course you'll fight. Shepard: Ambush, eh? I need to get my Cowardly Bastard Scanner fixed.Asssassin: Temper-temper, Shepard. Narrow passage? No cover? It's perfect for this kind of operation. Bormann here said we should just drop grenades down the shaft. That felt impersonal.
+(Par) I'd rather you surrender. (Neu) Fine by me. (Ren) Get on with it.  Shepard: You want to die, that's your business. It'd save me some time if you gave up.Assassin: You've got stones, Shepard, I'll give you that. Shepard: Let's get to business then.Assassin: Right. Shepard: "So shut up and fight."Assassin: You've got stones, Shepard, I'll give you that.
+(End of conversation)
+
+ice50_trig01_krogan_sniper[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+Note:  the full dialogue may be present in-game under certain circumstances. If that's the case, please report it on the talk page.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice50\ice50_trig01_krogan_sniper_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE50_01_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Ashley Williams: Sniper! Everyone down!
+| Urdnot Wrex: Ambush in the rear!
+| Garrus Vakarian: Sniper! Duck and cover!
+| Kaidan Alenko: Sniper! Everyone down!
+| Tali'Zorah: There's a krogan up there!
+
+ice50_trig02_elevator_warn[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice50\ice50_trig02_elevator_warn_D.upk
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: The power is out. This must have been running on emergency batteries.
+| Liara T'Soni: The power is out. This must have been running on emergency batteries.
+| Kaidan Alenko: Guess the power's out. This must have been running on emergency batteries.
+| Ashley Williams: Guess the power's out. This must have been running on emergency batteries.
+| Urdnot Wrex: Great. Power's out, and this thing's batteries are dead.
+|| Urdnot Wrex: Until we know what's going on, I say we kill anything we meet. Just to be safe.
+|| Garrus Vakarian: The rumors at Hanshan were correct. There's been an accident.
+|| Ashley Williams: Guess there was an accident. Until we know what, I vote we shoot first.
+|| Kaidan Alenko: Commander, until we know what happened here, we should be on guard.
+|| Liara T'Soni: Clearly, the rumors of an accident up here had a basis in fact.
+
+ice50_trig04_lifts_off[]
+Note:  these comments were transcribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig04_lifts_off.isb
+Characters optionally present:
+
+Ashley Williams
+Garrus Vakarian
+Kaidan Alenko
+Liara T'Soni
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: We'll need to get the reactors back online before we can use this.
+| Liara T'Soni: We will need to get the reactors back online before we can use this.
+| Kaidan Alenko: We'll need to get main power back before we can use this.
+| Ashley Williams: We'll need to get main power back before we can use this.
+| Garrus Vakarian: We'll need to get the reactors back online before we can use this.
+
+ice50_trig04_mira_off[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice50\ice50_trig04_mira_off_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE50_06_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: A backup power system, Shepard. Must be for the station mainframe.
+| Garrus Vakarian: A backup power system, Commander. It must be for the station's mainframe.
+| Kaidan Alenko: A backup power system, Commander. Must be for the station mainframe.
+| Liara T'Soni: Shepard, that is a backup power system for the station mainframe.
+| Ashley Williams: A backup power system, Shepard. Must be for the station mainframe.
+|| Urdnot Wrex: So whack it and turn this thing on.
+|| Ashley Williams: Can we fix it? Get this place back online?
+|| Liara T'Soni: The damage is not extensive. It could be repaired.
+|| Kaidan Alenko: We could probably get it back online.
+|| Garrus Vakarian: It should be easy to fix it.
+
+ice50_mira[]
+Note:  the following is a retranscription of unused audio files which point to an additional "Investigate" option in her conversation on the question of her appearance. The rest of the dialogue has been omitted here.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_mira.isb
+Characters present:
+
+Mira
+Commander Shepard
+
+[...]
+Shepard: Why do you look like a librarian?
+Mira: My user interface skin was chosen by the users for their own comfort and enjoyment. A scholarly avatar was deemed most appropriate for this facility.
+[...]
+
+ice50_trig06_admin_corpse[]
+Note:  these comments were retranscribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig06_admin_corpse.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Garrus Vakarian: What the... Oh.
+| Liara T'Soni: What is this... Oh.
+| Tali'Zorah: What's that... Oh.
+| Kaidan Alenko: What the... Oh.
+| Ashley Williams: What's that... Oh.
+|| Urdnot Wrex: Looks like he fired a missile at his feet.
+|| Ashley Williams: Looks like he fired a missile at his feet.
+|| Kaidan Alenko: Looks like he fired a missile at his feet.
+|| Tali'Zorah: Looks like he fired a missile at his feet.
+|| Liara T'Soni: Looks like he fired a missile at his feet.
+||| Garrus Vakarian: What was he thinking?
+||| Liara T'Soni: What was he thinking?
+||| Tali'Zorah: What was he thinking?
+||| Kaidan Alenko: What was he thinking?
+||| Ashley Williams: What was he thinking?
+|||| Urdnot Wrex: Nobody who is thinking blows themselves up.
+|||| Ashley Williams: Nobody who is thinking blows themselves up.
+|||| Kaidan Alenko: Nobody who is thinking blows themselves up.
+|||| Tali'Zorah: Nobody who is thinking blows themselves up.
+|||| Liara T'Soni: Nobody who is thinking blows themselves up.
+
+ice50_trig07_not_blood[]
+Note:  these comments were retranscribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig07_not_blood.isb
+Characters optionally present:
+
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: That doesn't look like human blood.
+| Liara T'Soni: That does not look like human blood.
+| Garrus Vakarian: That doesn't look like human blood.
+| Ashley Williams: That doesn't look like human blood.
+| Urdnot Wrex: That doesn't smell like human blood.
+
+ice50_trig08_dampeners_clue[]
+Note:  these comments were retranscribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig08_dampeners_clue.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: We'll have to retract the reaction control rods to get the power online.
+| Kaidan Alenko: We'll have to retract the reaction control rods to get the power online.
+| Garrus Vakarian: We'll have to retract the reaction control rods to get the power online.
+| Liara T'Soni: We will have to retract the reaction control rods to get the power online.
+| Ashley Williams: We'll have to retract the reaction control rods to get the power online.
+
+ice50_trig20_fail_dampeners[]
+Note:  this voiceline was retranscribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig20_fail_dampeners.isb
+Character present:
+
+Mira
+
+Mira: Warning! Cooling rods are extended. Insufficient temperature to generate fusion plasma. Aborting startup.
+
+ice50_trig21_fail_coolant[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice50\ice50_trig21_fail_coolant_D.upk
+Character present:
+
+Mira
+
+Mira: Warning! Helium-3 fuel lines disengaged. Aborting startup.
+
+ice50_trig11_chkpt_blood[]
+Note:  these comments were retranscribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig11_chkpt_blood.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: Something bad happened here.
+| Tali'Zorah: Something bad happened here.
+| Garrus Vakarian: Something bad happened here.
+| Liara T'Soni: Something bad happened here.
+| Urdnot Wrex: Something bad happened here.
+|| Ashley Williams: Shouldn't there be more bodies? This place had a big crew.
+|| Urdnot Wrex: There should be more bodies. This place had a big crew.
+|| Liara T'Soni: Shouldn't there be more bodies? This station had a big crew.
+|| Garrus Vakarian: There should be more bodies. This place had a big crew.
+|| Tali'Zorah: Shouldn't there be more bodies? This station had a big crew.
+
+ice50_trig12_airvents2[]
+Note:  these comments were retranscribed from English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig12_airvents2.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(Hearing a noise)
+
+| Garrus Vakarian: Damn it! What is that?
+| Kaidan Alenko: Damn it! What is that?
+| Liara T'Soni: What is that?
+| Tali'Zorah: What is that?
+| Ashley Williams: Damn it! What is that?
+
+(Noticing prints)
+
+| Garrus Vakarian: I've never seen prints like that before.
+| Urdnot Wrex: I've never seen tracks like that before.
+| Tali'Zorah: I've never seen footprints like that before.
+| Liara T'Soni: I have never seen footprints like that before.
+| Ashley Williams: I've never seen footprints like that before.
+
+ice50_trig23_trams_off[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice50\ice50_trig23_trams_off_D.upk
+Character present:
+
+Mira
+
+(If the reactor hasn't been restarted)
+
+Mira: User alert! Passenger trams are offline due to main power shutdown. For further information, please contact the Central Station virtual intelligence.
+
+(If landlines haven't been fixed)
+
+Mira: User alert! Passenger trams are offline due to disconnection of inter-facility landlines. For further information, please contact the Central Station virtual intelligence.
+
+(If the reactor is online and the landlines are fixed)
+
+Mira: User alert! Trams to the Binary Helix hotlab facility are offline due to tunnel collapse. The line to the Rift Station facility is functioning normally. For further information, please contact the Central Station virtual intelligence.
+
+ice50_trig18_bloody_tram[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig18_bloody_tram.isb
+Character always present:
+
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Liara T'Soni: We do not know what those things were, or what the situation is in the hot labs. The crew at Rift Station could give us more information.
+| Tali'Zorah: We don't know what those things were, or what the situation is in the hot labs. The crew at Rift Station could give us more information.
+| Kaidan Alenko: I recommend we head to Rift Station. We don't know what those things were, maybe we'll find someone who could tell us what's going on.
+| Garrus Vakarian: I recommend we try Rift Station first. We don't know what those things were, maybe we'll find someone who could tell us what's going on.
+| Ashley Williams: We might wanna hit Rift Station first, Commander. We don't know what those things were, maybe someone there does.
+
+(Par) Agreed. (Neu) I have another plan. (Ren) Don't tell me what to do.  Shepard: That's my plan.| Ashley Williams: That's the way to do it!| Kaidan Alenko: Got your back, Commander.| Urdnot Wrex:"Hm. Didn't matter to me either way.| Garrus Vakarian: Very good, Commander.| Liara T'Soni: A wise decision, Shepard. Shepard: You don't put a fire out by blowing the smoke away. We go to the source.| Urdnot Wrex: Damn straight.| Kaidan Alenko: Aye-aye, Commander.| Ashley Williams: Aye-aye.| Garrus Vakarian: Understood.| Liara T'Soni: Just don't be rash. Shepard: When I want tactical advice, I'll ask for it!| Kaidan Alenko: Aye-aye, Commander.| Ashley Williams: Aye-aye.| Garrus Vakarian: Understood.| Liara T'Soni: Just don't be rash.| Urdnot Wrex: Hm. Didn't matter to me either way.
+(End of conversation)
+
+ice50_trig25_tram_70[]
+Note:  this comment was retranscribed from its English audio file.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice50_trig25_tram_70.isb
+Character present:
+
+Mira
+
+Mira: Departing Central Station. Destination: Binary Helix hot labs.
+
+ice60_ambient_barricade_1[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice60\ice60_ambient_barricade_1_D.upk
+Character present:
+
+Unnamed human male guard
+
+(If Shepard hasn't talked to Ventralis yet)
+
+Guard: I nearly blew your head off. God.
+
+Guard: I'd rather be inside. Behind a bulkhead. Watching the air ducts.
+
+Guard: I'm not taking my eyes off that door. Things move when you ain't looking at them.
+
+(If Shepard has talked to Ventralis)
+
+Guard: ...Two legs good, four legs bad. Two legs good, four legs bad...
+
+Guard: I ain't volunteering for no suicide run down them tunnels. No way.
+
+Guard: They had failsafes. Shoulda set them off. Things are too damn fast.
+
+(If Shepard has delivered the cure to Dr. Cohen)
+
+Guard: Shoulda put those sick guys outside for the bugs to eat. Probably poison the bastards.
+
+ice60_julethventralis[]
+Note:  while this dialogue never plays due to conditionals preventing it, it should be technically functional and appears to lead into the existing first dialogue with Ventralis, despite the fact he clearly has been introduced to Shepard already. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice60\ice60_julethventralis_D.upk; Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE60_02_DSG_LOC_INT
+Characters present:
+
+Commander Shepard
+Captain Ventralis
+
+Background: Sole Survivor War Hero Ruthless  Ventralis: Since Mira's back online, I had a look at your record. I hope you didn't use up all that luck on Akuze.
+(Par) I'm good. (Neu) What's going on here? (Ren) I make my own luck.  Shepard: I've always had enough to fall back on.Ventralis: The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then. Shepard: We can talk later. What's the situation?Ventralis: The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then. Shepard: Only people with no skill need luck.Ventralis: I heard that. The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then. Ventralis: Since Mira's back online, I had a look at your record. I didn't expect to meet a Star of Terra recipient. What's a Skyllian hero doing up here?
+(Par) I'm no damned hero. (Neu) What's going on here? (Ren) Take advantage of it.  Shepard: All the heroes from Skyllia got shipped home in coolers.Ventralis: Yeah. Sorry. The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then. Shepard: We can talk later. What's the situation?Ventralis: The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then. Shepard: Want me to autograph your gun?Ventralis: No, thanks. It might jam on the ego. The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then. Ventralis: Since Mira's back online, I had a look at your record. You've got quite the reputation.
+(Par) I believe in being thorough. (Neu) What's going on here? (Ren) So don't jerk me around.  Shepard: I see a problem, I take care of it. That's the job I signed up for.Ventralis: Well, we've got some problems that could use your attention. The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then. Shepard: We can talk later. What's the situation?Ventralis: The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then. Shepard: Then stow the pleasantries and give me a sitrep.Ventralis: The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more. The first we knew, the bastards were clawing into my command post. We had a lot more staff then.
+(The rest of the conversation proceeds as normal)
+
+ice60_trig07_guard_rant[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice60\ice60_trig07_guard_rant_D.upk
+Characters present:
+
+Orazhid
+Captain Ventralis
+Unnamed female scientist
+
+Orazhid: Shut up! Shut the hell up!
+Scientist: I-- I can't! Everyone's dead!
+Orazhid: You damn well--
+Ventralis: Orazhid!
+Orazhid: I can't take the bitch's blubbering any more!
+Ventralis: You're relieved. Two hours' rack time.
+Orazhid: But what if those things--
+Ventralis: You're no use to us now. Two hours, then get a stim from Cohen.
+Orazhid: Yes, sir.
+Scientist: Thank you, Cap--
+Ventralis: You're grating on everyone's nerves. Dr. Iallis isn't sniveling.
+
+ice60_trig03_nerves[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice60_trig03_nerves.isb
+Characters present:
+
+Unnamed human male
+Unnamed turian male
+
+Human: (whispering) What do you think?
+Turian: About what?
+Human: (whispering) About... you know... what we talked about. Her.
+Turian: I think you should shut the hell up.
+
+ice60_trig02_noneshallpass[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice60\ice60_trig02_noneshallpass_D.upk
+Characters present:
+
+Commander Shepard
+Unnamed female guard
+
+Guard: Hey! No one gets in there without the appropriate-- things. Clearance.
+
+(Par) What's back there? (Neu) Sorry. (Ren) See this gun?  Shepard: What's beyond this door?Guard: Same thing as all over this place. Labs. Restricted labs.(End of conversation) Shepard: I was just looking around [sic]Guard: Yeah, sure.(End of conversation) Shepard: Um, is the password "high velocity mass accelerator," by chance?Guard: Bulletproof glass, genius.(End of conversation)
+ice60_checkpoint_guard[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice60\ice60_checkpoint_guard_D.upk
+Characters present:
+
+Commander Shepard
+Unnamed female guard
+
+Guard: You're not supposed to be in here.
+
+(Par) How do I get in there? (Neu) Goodbye. (Inv) Why all the security?  Shepard: Who do I talk to in order to get past here?Guard: Probably a member of the Binary Helix board. They pay our wages.
+(Par) Is Benezia on the board? (Neu) Goodbye. (Inv) Why all the security?  Shepard: So I should talk to Matriarch Benezia?Guard: Ben-- I wouldn't know.(Return to first choice) Shepard: All right. I'm leaving.Guard: Thanks.(End of conversation) Shepard: What's all this protecting?Guard: You know I can't answer that. So why ask?(Return to first choice) Shepard: All right. I'm leaving.Guard: Thanks.(End of conversation) Shepard: What's all this protecting?Guard: You know I can't answer that. So why ask?(Return to last choice)
+ice60_checkpoint_guard (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice60\ice60_checkpoint_guard_D.upk
+Characters present:
+
+Commander Shepard
+Unnamed female guard
+
+Shepard: You look exhausted.
+Guard: I am exhausted. Now get back o[15 to 25 characters remaining]
+
+ice60_trig13_thru_labs_peace[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice60\ice60_trig13_thru_labs_peace_D.upk
+Character present:
+
+Unnamed female guard
+
+Guard: Where were you--? No alarms. God. Must have fallen asleep again.
+
+ice60_rachniqueen[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice60_rachniqueen.isb
+Characters always present:
+
+Rachni Queen
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(Note: only the first part of the conversation is relevantly included here.)
+Rachni queen: This one. Serves as our voice. We cannot sing. Not in these low spaces. Your musics are colorless.
+
+(Par) I don't understand you. (Neu) Why aren't you dead? (Ren) Identify yourself.  Shepard: Musics? What?Rachni queen: Your way of communicating is strange. Flat. It does not color the air. When we speak, one moves all.| Urdnot Wrex: This is going to be a fun conversation.| Ashley Williams: This is gonna be a fun conversation.Rachni queen: We are the mother. We sing for those left behind. The children you thought silenced. We are rachni. Shepard: We filled you with enough plasma to pop a tank.Rachni queen: This vessel is at the edge. Yet she struggles. You cannot see her magnificence. We are breathing on the embers. We are the mother. We sing for those left behind. The children you thought silenced. We are rachni. Shepard: Who am I speaking to here?Rachni queen: We are the mother. We sing for those left behind. The children you thought silenced. We are rachni.
+(Par) Are you controlling the asari? (Neu) You're some kind of leader? (Ren) You want to talk, be quick.  Shepard: How are you speaking through her?Rachni queen: Our kind sing through touchings of thought. We pluck the strings, and the other understands. She is weak to urging. She has colors we have no names for. But she is ending. Her music is bittersweet. It is beautiful. You are not in harmony with those here. You oppose their green, the one they call "Benezia". Shepard: Did you order your people to kill the science team?Rachni queen: No. We were locked away here. The children are beyond our songs. They have been lost to silence. You are not in harmony with those here. You oppose their green, the one they call "Benezia". Shepard: I didn't come here to talk to bugs.Rachni queen: You are not in harmony with those here. You oppose their green, the one they call "Benezia".
+(Neu) Where is she? (Inv) You know who I am?  Shepard: I came here to find her.Rachni queen: Benezia led this child that you've seen through. But she is not here. Benezia hoped to trap you in the spaces where we were hatched. She awaits you there. Shepard: I'm a Spectre, and I'm here to find Benezia.Rachni queen: Spectre... They sang of you. And their voices were silvered with fear. They buried their music for fear of your hearing. Of your... punishment.
+(Neu) Where is she? (Ren) Whatever you say.  Shepard: I came here to find her.Rachni queen: Benezia led this child that you've seen through. But she is not here. Benezia hoped to trap you in the spaces where we were hatched. She awaits you there. Shepard: No one sings about me unless it's a dirge. Where's Benezia?Rachni queen: Benezia hoped to trap you in the spaces where we were hatched. She awaits you there.
+| Urdnot Wrex: I think she means Benezia's in the hot labs. Stupid thing should learn to talk galactic.
+| Kaidan Alenko: The hot labs! Benezia's out onto the glacier, waiting to ambush us.
+| Ashley Williams: The hot labs! Benezia's out onto the glacier, waiting to ambush us.
+| Liara T'Soni: The hot labs. She is down there, waiting for us.
+| Garrus Vakarian: The hot labs! Benezia's out onto the glacier, waiting to ambush us.
+| Tali'Zorah: The hot labs! Benezia's out onto the glacier, waiting to ambush us.
+
+(Neu) That's a dangerous place. (Ren) We'll make sure she's dead. (Inv) Why did Benezia need you?  Shepard: Maybe she's already dead, then. Shepard: One way or the other, we're going in after her. Shepard: What did the matriach want with you?Rachni queen: Coordinates to... something lost for millenia. Some... memories from our mothers. It is gone now. She took it from us. Squeezed our mind until we forgot, so we could not tell others."| Liara T'Soni: That is... that is forbidden! She intentionally damaged this creature's brain!| Kaidan Alenko: Benezia damaged the part of her brain that held the memory. No human biotic could do that.| Tali'Zorah: I've heard of that. Some powerful biotics can damage parts of a living brain.| Garrus Vakarian: Benezia's more depraved than I thought. She deliberately damaged the rachni's brain.| Urdnot Wrex: Benezia gave her selective brain damage. Handy trick.(Return to last choice)
+Rachni queen: That one has a mighty voice. Even we could feel our songs seeking her temples, her rhythms. She tries to sing to our lost children, but their madness is too deep to be soothed.
+Shepard: The rachni in the hot labs are... insane?
+Rachni queen: The children we birthed were stolen from us before they could learn to sing. They are lost to silence. End their suffering. They cannot be saved. They will only cause harm as they are.
+[...]
+(The rest should be as in the released game, except for Kaidan voicing his reticence against releasing the queen: "I hope we don't regret this, Commander.", which was removed.)
+
+ice60_trig14_tram_controls[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice60\ice60_trig14_tram_controls_D.upk
+Character present:
+
+Commander Shepard
+
+Pop-Up: Are you certain you wish to leave? The situation in the hotlabs has not yet been resolved.
+
+(Neu) [Deal with the labs] (Inv) [Leave anyway]  Shepard: [Deal with the labs] Shepard: [Leave anyway]
+(End of conversation)
+
+ice70_trig01_crash[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice70_trig01_crash.isb
+Character always present:
+
+Mira
+Characters optionally present:
+
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Mira: Warning! Rail obstruction. Passengers brace for impact.
+| Urdnot Wrex: Thanks for the warning. Useless piece of gumcha...
+| Liara T'Soni: Great. Thanks for the warning.
+| Tali'Zorah: Thanks for the warning. Bet she'll blame this on lag.
+| Garrus Vakarian: Great. Thanks for the warning.
+| Ashley Williams: Great. Thanks for the warning.
+
+ice70_trig05_landlines[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. Do note that Kaidan Alenko voices twice the same line, this is not an error.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice70_trig05_landlines.isb
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Liara T'Soni: It's sealed, I don't think we can break in.
+| Kaidan Alenko: It's sealed, I don't think we can break in.
+| Garrus Vakarian: It's sealed, I don't think we can break in.
+| Kaidan Alenko [sic]: It's sealed, I don't think we can break in.
+| Ashley Williams: It's sealed, I don't think we can break in.
+|| Urdnot Wrex: That VI from Central Station could probably open it.
+|| Tali'Zorah: Mira could probably help us.
+|| Ashley Williams: Mira could probably help us.
+|| Kaidan Alenko: Mira could probably help us.
+|| Garrus Vakarian: Mira could probably help us.
+
+ice70_mira (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline. The time length of the voiceline gives an approximation of the remaining amount of characters.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\ice70_mira_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE60_14_DSG_LOC_INT.pcc
+Characters present:
+
+Mira
+Commander Shepard
+
+Shepard: Unlock the infirmary decon pod[15 to 25 characters remaining]
+Mira: I'm afraid I cannot, Commander[30 to 50 characters remaining]
+
+Shepard: Are there any survivors in here?
+Mira: Dr. Ruon Ai Chion, staff scien[60 to 80 characters remaining]
+
+Shepard: I need you to open the labs.
+Mira: You have that authority under [50 to 80 characters remaining]
+
+Shepard: What's the logic behind that?
+Mira: In case of unstable code withi[70 to 100 characters remaining]
+
+ice70_chion[]
+Note:  this dialogue was reconstructed solely based on its English audio files and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice70_chion.isb
+Characters always present:
+
+Ruon Ai Chion
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Ruon Ai Chion: Yes?
+
+(If Shepard has heard of Chion before) (If Shepard has not heard of Chion before) 
+(Par) There you are. (Neu) Goodbye. (Ren) What's the matter?  Shepard: I've been looking for you. What happened here?Ruon Ai Chion: What do you think? It doesn't matter anymore. I'm just waiting for the bomb to go off. Shepard: We're leaving.Ruon Ai Chion: Yeah, bye.(End of conversation) Shepard: Why did you lock yourself in here?Ruon Ai Chion: I just did what I was told. It doesn't matter anymore. I'm just waiting for the bomb to go off."
+(Par) Who are you? (Neu) Goodbye. (Ren) What's the matter?  Shepard: Do you work here? What happened?Ruon Ai Chion: What do you think? It doesn't matter anymore. I'm just waiting for the bomb to go off. Shepard: We're leaving.Ruon Ai Chion: Yeah, bye.(End of conversation)(Resuming conversation)Ruon Ai Chion: Yes?(Return to last choice) Shepard: Why did you lock yourself in here?Ruon Ai Chion: I just did what I was told. It doesn't matter anymore. I'm just waiting for the bomb to go off.
+Shepard: What bomb are you talking about?
+Ruon Ai Chion: There's one built in. In case things go wrong.
+
+(If Shepard knows about the purge) (If Shepard doesn't know about the purge)  | Garrus Vakarian: He must be talking about the neutron purge.| Ashley Williams: He must be talking about the neutron purge.| Urdnot Wrex: The neutron purge.| Kaidan Alenko: He must be talking about the neutron purge.| Tali'Zorah: He must be talking about the neutron purge. | Garrus Vakarian: A self-destruct device. A failsafe in case things go wrong. We could use it to take out the whole infestation.| Ashley Williams: A self-destruct device. A failsafe in case things go wrong. We could use it to take out the whole infestation.| Urdnot Wrex: A self-destruct device. A failsafe in case things go wrong. We could use it to take out the whole infestation.| Kaidan Alenko: A self-destruct device. A failsafe in case things go wrong. We could use it to take out the whole infestation.| Tali'Zorah: A self-destruct device. A failsafe in case things go wrong. We could use it to take out the whole infestation.
+Ruon Ai Chion: It doesn't matter anymore.
+
+(Par) Open the door, please. (Neu) We're going. (Ren) Explosives will do. (Inv) Arming key (Cha) We're here to help. (Int) Open up, now.  Shepard: We need you to come out of there.Ruon Ai Chion: We won't make it!(Return to last choice) Shepard: Let's leave him for now.Ruon Ai Chion: You won't make it out alive, you know.(End of conversation)(Resuming conversation)Ruon Ai Chion: Back again?(Return to last choice) Shepard: Let's blow the door open.Ruon Ai Chion: No! They can't get in here!| Garrus Vakarian: Commander, in that confined space, the blast would kill him.| Liara T'Soni: Wait. In that confined space, the blast might kill him.| Ashley Williams: Commander, in that confined space, the blast would kill him.| Kaidan Alenko: Commander, in that confined space, the blast would kill him.| Urdnot Wrex: For a minute, I thought you'd go "asari" on me. "But that might kill him. Waaaah!"
+(Par) It's too risky. (Neu) Leave him alone. (Ren) We're doing it.  Shepard: That does sound likely. We can't kill him.| Ashley Williams: Well, if you can't talk him out, we won't have a choice. We need his arming key.| Garrus Vakarian: We do need that arming key, not that I think we should kill him.| Liara T'Soni: We do need that arming key, not that I think we should kill him.| Urdnot Wrex: If he won't come out willingly, we have to. We need that arming key.| Tali'Zorah: If you can't talk him out, I don't see how we have a choice. We need his arming key.|| Kaidan Alenko: I still think there has to be some other way.|| Garrus Vakarian: I still think there has to be some other way.||| Urdnot Wrex: I sure as hell don't.|| Liara T'Soni: I have never believed the idea about the needs of the galaxy outweighing the needs of the individual.|| Ashley Williams: There's no such thing as ethical calculus. We do need that key, but you're still taking a life.||| Urdnot Wrex: It's a matter of body count. You prefer one here, or thousands across the planet.
+(Par) We have no choice. (Neu) Let's do this. (Ren) I'm giving you an order! (Inv) Leave him alone.  Shepard: We don't have time to find another way. Let's get this over with.| Kaidan Alenko: Understood, Commander.| Garrus Vakarian: Understood, Commander.| Ashley Williams: Understood, Commander.(End of conversation) Shepard: We need that arming key! We're blowing the door open.Ruon Ai Chion: Wha--?| Kaidan Alenko: Understood, Commander.| Garrus Vakarian: Understood, Commander.| Ashley Williams: Understood, Commander.(End of conversation) Shepard: It has to be done. Anyone who has a problem can leave.| Liara T'Soni: I just might!| Kaidan Alenko: Understood, Commander.| Garrus Vakarian: Understood, Commander.| Ashley Williams: Understood, Commander.(End of conversation) Shepard: I guess we don't need to get in there right now.| Kaidan Alenko: No, I don't think we do.| Urdnot Wrex: Yeah, why waste the explosives? Stuff's expensive, you know.| Liara T'Soni: No, I don't think we do.| Ashley Williams: No, I don't think we do.| Garrus Vakarian: No, I don't think we do.(End of conversation)(Resuming conversation)Ruon Ai Chion: Back again?(Return to third-to-last choice) Shepard: I guess we don't need to get in there right now.| Kaidan Alenko: No, I don't think we do.| Urdnot Wrex: Yeah, why waste the explosives? Stuff's expensive, you know.| Liara T'Soni: No, I don't think we do.| Ashley Williams: No, I don't think we do.| Garrus Vakarian: No, I don't think we do.(End of conversation)(Resuming conversation)Ruon Ai Chion: Back again?(Return to second-to-last choice) Shepard: We need that purge arming key. There's more than one life at stake here.| Ashley Williams: Well, if you can't talk him out, we won't have a choice. We need his arming key.| Garrus Vakarian: We do need that arming key, not that I think we should kill him.| Liara T'Soni: We do need that arming key, not that I think we should kill him.| Urdnot Wrex: If he won't come out willingly, we have to. We need that arming key.| Tali'Zorah: If you can't talk him out, I don't see how we have a choice. We need his arming key.|| Kaidan Alenko: I still think there has to be some other way.|| Garrus Vakarian: I still think there has to be some other way.||| Urdnot Wrex: I sure as hell don't.|| Liara T'Soni: I have never believed the idea about the needs of the galaxy outweighing the needs of the individual.|| Ashley Williams: There's no such thing as ethical calculus. We do need that key, but you're still taking a life.||| Urdnot Wrex: It's a matter of body count. You prefer one here, or thousands across the planet.
+(Par) We have no choice. (Neu) Let's do this. (Ren) Quit your whining. (Inv) Leave him alone.  Shepard: We don't have time to find another way. Let's get this over with.| Kaidan Alenko: Understood, Commander.| Garrus Vakarian: Understood, Commander.| Ashley Williams: Understood, Commander.(End of conversation) Shepard: We need that arming key! We're blowing the door open.Ruon Ai Chion: Wha--?| Kaidan Alenko: Understood, Commander.| Garrus Vakarian: Understood, Commander.| Ashley Williams: Understood, Commander.(End of conversation) Shepard: If you have a problem with my orders, you can bring them up with the Council.| Liara T'Soni: I just might!| Kaidan Alenko: Understood, Commander.| Garrus Vakarian: Understood, Commander.| Ashley Williams: Understood, Commander.(End of conversation) Shepard: I guess we don't need to get in there right now.| Kaidan Alenko: No, I don't think we do.| Urdnot Wrex: Yeah, why waste the explosives? Stuff's expensive, you know.| Liara T'Soni: No, I don't think we do.| Ashley Williams: No, I don't think we do.| Garrus Vakarian: No, I don't think we do.(End of conversation)(Resuming conversation)Ruon Ai Chion: Back again?(Return to third-to-last choice) Shepard: Do you have the arming key for the neutron purge?Ruon Ai Chion: It won't make any difference in the end. She watched us more closely than we watched her.
+(If Shepard knows about the rachni) (If Shepard doesn't know about the rachni) 
+(Par) The queen. (Neu) You were making weapons. (Ren) Serves you well.  Shepard: Her? You mean the rachni queen?Ruon Ai Chion: Everything is born from something.(Return to overarching choice) Shepard: They were an experiment, weren't they? Bioweapons.Ruon Ai Chion: Hah! They'll kill you for knowing that...(Return to overarching choice) Shepard: You experimented on the rachni... You meant to use them as weapons.Ruon Ai Chion: Hah! They'll kill you for knowing that...(Return to overarching choice)
+(Par) What? (Neu) You were making weapons.  Shepard: Who's "she"?Ruon Ai Chion: Everything is born from something.(Return to overarching choice) Shepard: They were an experiment, weren't they? Bioweapons.Ruon Ai Chion: Hah! They'll kill you for knowing that...(Return to overarching choice) Shepard: My crew and I came to get this station under control. You'll be safe with us.Ruon Ai CHion: If you don't... Very well. If we make it to operations, I have the arming key for the bomb.(End of conversation) Shepard: Unlike our whippity-armed friends, I have explosives. Open the door or I'll blow it open!Ruon Ai CHion: If you don't... Very well. If we make it to operations, I have the arming key for the bomb.(End of conversation)
+ice70_trig06_chion_spaz[]
+Note:  this dialogue was reconstructed solely based on its English audio files (of which only female Shepard's voicelines are missing) and the pattern of their attributed TLK number. The order of the conversation, or the position or wording of the responses on the dialogue wheel may not be accurate.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice70_trig06_chion_spaz.isb
+Characters always present:
+
+Ruon Ai Chion
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Ashley Williams: (whispering) You sure this is alright, Commander? Him?
+| Liara T'Soni: Are you certain this is alright, Shepard? Him?
+| Kaidan Alenko: Are you sure this is alright, Commander? Him?
+| Tali'Zorah: (whispering) You sure this is alright, Shepard? Him?
+| Garrus Vakarian: (whispering) Commander. I'm concerned about our salarian companion.
+
+(Par) What do you mean? (Neu) I'm with you. (Ren) He'll be out soon.  Shepard: I'm not sure I follow you. Shepard: Yeah. He's a little off, isn't he? Shepard: All we need to do is get him out of here.
+| Ashley Williams: (whispering) You and I expect to deal with death. He didn't.
+| Liara T'Soni: I am concerned his "experience" may have unhinged him.
+| Kaidan Alenko: You and I expect to deal with death. He didn't.
+| Tali'Zorah: That hull's taken in a few too many debris strikes.
+| Garrus Vakarian: I hope he doesn't become an impediment to our mission.
+Ruon Ai Chion: I told you so...
+| Ashley Williams: Hell!
+| Liara T'Soni: Oh dear!
+| Kaidan Alenko: Damn!
+| Tali'Zorah: Oh...
+| Garrus Vakarian: I suppose he won't.
+(End of conversation)
+
+ice70_ambient_alarm_loop1 / ice70_ambient_alarm_loop2 / ice70_ambient_alarm_loop3[]
+Note:  these voicelines are the retranscriptions of unused English audio files.
+File source: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice70_ambient_alarm_loop1.isb, Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice70_ambient_alarm_loop2.isb, Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\ice70_ambient_alarm_loop3.isb
+Character always present:
+
+Mira
+
+Mira: Quarantine breach. Biohazard materials present throughout facility. Neutron purge recommended.
+
+Mira: Warning. Neutron purge armed. Employees, please proceed to the tram station in a calm and orderly fashion.
+
+Mira: Warning. Neutron purge system activated. Immediate evacuation recommended.
+
+ice70_tartakovsky (missing nodes)[]
+Note:  unused nodes for deleted voicelines still contain the first 30 characters of that voiceline. The time length of the voiceline gives an approximation of the remaining amount of characters.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice70\ice70_tartakovsky_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE60_14_DSG_LOC_INT.pcc
+Characters present:
+
+Yaroslev Tartakovsky
+
+Yaroslev Tartakovsky: Ehh. I am missing leg. How wou[80 to 120 characters remaining]
+
+ice70_tartakovsky[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice70\ice70_tartakovsky_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE60_14_DSG_LOC_INT.pcc
+Characters present:
+
+Commander Shepard
+Yaroslev Tartakovsky
+
+Yaroslev Tartakovsky: I have not so much time. I die under ice. Is not so bad death. I am born in Arhangelsk. There is closure.
+
+(Par) Can we help? (Neu) Aren't you in pain? (Ren) The purge code.  Shepard: Is there anything we can do for you?Yaroslev Tartakovsky: Nah, nah. What I ask for, eh? A strong vodka is nice, but it would just leak out. Code is 875-020-079. You tell Mira that, then tell her, Code Omega local execution. Everything run automatic from there. You leave quickly, yes? I will become puddle of goo, but I am thinking I will not care so much. Ehh. This is all for me, I am thinking. I try to think of good, inspiring last words. Maybe something li-- ahhhh... Shepard: You don't look good.Yaroslev Tartakovsky: I am certain my body screams bloody murder. Shock is maybe not all so bad, eh? Code is 875-020-079. You tell Mira that, then tell her, Code Omega local execution. Everything run automatic from there. You leave quickly, yes? I will become puddle of goo, but I am thinking I will not care so much. Ehh. This is all for me, I am thinking. I try to think of good, inspiring last words. Maybe something li-- ahhhh... Shepard: I need the purge code, Tartakovsky.Yaroslev Tartakovsky: Code is 875-020-079. You tell Mira that, then tell her, Code Omega local execution. Everything run automatic from there. You leave quickly, yes? I will become puddle of goo, but I am thinking I will not care so much. Ehh. This is all for me, I am thinking. I try to think of good, inspiring last words. Maybe something li-- ahhhh...
+(End of conversation)
+
+ice70_trig03_mira_tram[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice70\ice70_trig03_mira_tram_D.upk
+Characters always present:
+
+Mira
+Commander Shepard
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Mira: User alert! This elevator is temporarily out of service. Quarantine measures must be initiated before evacuation may proceed.
+
+(Par) What should I do? (Neu) Goodbye. (Ren) Why can't we leave?  Shepard: What measures are available?Mira: The neutron purge system is functional, and may be activated from the operations deck. Shepard: Right, got it. We'll take care of it.Mira: Acknowledged. Shepard: Why keep the crew from evacuating?Mira: The neutron purge must be activated. It is the responsibility of every team member to prevent the spread of contamination.| Ashley Williams: In other words, cover the company's ass or die.| Kaidan Alenko: It's sad that they think this is necessary.| Garrus Vakarian: This wouldn't be necessary if most humans had group spirit.| Urdnot Wrex: In other words, cover the company's ass or die.| Tali'Zorah: Are your people so self-interested that this is required?Mira: The neutron purge system is functional, and may be activated from the operations deck.
+(End of conversation)
+
+ice20_trig15_nuked[]
+Note:  while this pop-up is never shown in-game, it is technically functional in the original release of Mass Effect. It is retranscribed below.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\ice20_trig15_nuked_D.upk
+
+
+Pop-Up: ACCESS DENIED: Due to an accident in the Peak 15 Hot Labs, the Executive Board ordered a 10-megaton decontamination warhead dropped from orbit. Radiation levels remain dangerously high.
+
+ice20_lilihierax[]
+Note:  while this dialogue never plays due to conflicting conditionals, it should be technically functional. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\ice20\ice20_lilihierax.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_ICE20_04_DSG_LOC_INT.pcc 
+Characters always present:
+
+Lilihierax
+Commander Shepard
+Character optionally present:
+
+Liara T'Soni
+
+Lilihierax: Hey, so, what happened up there?
+
+(Par) We found Benezia. (Neu) I don't want to talk about it. (Ren) I can't tell you. (Inv) Rachni.  Shepard We managed to catch up with that asari Matriarch.
+(Liara is present) (Liara is not present)  Lilihierax: Long-lived, those asari. Seen it all and done it twice. She must be a good thousand years old.Liara T'Soni: She was. But her life ended on the Peak.Lilihierax: I'm sorry to hear that, miss. Your kind live so long, I kind of forget you can die at all. So what can I do for you today? Lilihierax: Long-lived, those asari. Seen it all and done it twice. She must be a good thousand years old. She was born when your race was riding around on livestock, waving big knives and dying of sniffles. Living history, there. So what can I do for you today? Shepard: It's a long story. Just thinking about it makes me tired all over.Lilihierax: Ain't they all, ain't they all. So what can I do for you today? Shepard: Sorry, I really can't talk about it.Lilihierax: No worries. I'm sworn to secrecy for a few of the things I did. Important thing is that you got your people out, right? So what can I do for you today? Shepard: Would you believe... rachni?Lilihierax: "rying to put one over on the old campaigner, eh? It's been an asari's age since there were any rachni. If you can't say anything, no big deal. Points for imagination though, eh? So what can I do for you today?
+(The rest of the conversation proceeds as usual)
+
+
+
+

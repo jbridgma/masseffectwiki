@@ -1,0 +1,59 @@
+
+
+
+Technician Danny Messier is an eager Prodromos colonist who isn't quite sure what he should focus his research on. He'd like some advice from the Pathfinder.
+Note:  This mission is not tracked by the journal.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Rescue Danny
+
+
+3 Rewards
+4 Bugs
+5 Trivia
+
+
+Acquisition[]
+
+After the radiation has cleared on Eos, Tech Danny Messier can be found in Prodromos, near the shuttle platform.
+When Ryder speaks to Danny, Danny is enthusiastic about meeting the Pathfinder, and asks what he should study for Prodromos. Ryder can suggest one of three things: flora and fauna, kett, or Remnant. Whichever choice that Ryder gives to Danny, Danny will agree, and can then be found around Eos, in need of rescue.
+Though there are no navpointsfor this mission, once close enough to Danny's various locations, Danny will be identified by an ally icon, will radio the ND1 Nomad for help, and an objective will be added for the first rescue. Note: Subsequent rescues will not have objectives.
+Warning: This mission is particularly buggy. This mission can start automatically without speaking to Danny if Ryder approaches the kett rescue location and can fail by going to the areas where Defeating the Kett and Kett's Bane take place. There may or may not be an ally iconon the overhead map.
+It is recommended to:
+
+Complete this as the first mission after radiation has cleared so that it is out of the way and no bugs will be encountered later.
+Make a save to go backwards before starting this mission. If anything goes wrong, go back and try again.
+Start this mission by speaking with Danny.
+Go directly to each location in succession and complete this mission. Do not go to other locations or work on other missions.
+Walkthrough[]
+Once Ryder has rescued Danny for the first time, whichever field of study that Danny then talks to Ryder about, that will be the new location that Danny will move to. Go to that location; rescue Danny for the second time. Danny will then tell Ryder the third and final field of study and then move to that location. Rescue Danny for the third time.
+
+Rescue Danny[]
+Study Flora and Fauna
+
+If Ryder suggested Danny study flora and fauna, Danny can be found being attacked by multiple Kaerkyn directly south of the Forward Station in Site 1: Promise. Defeat the enemies and then talk to Danny. Upon being rescued, Danny will say that the animals of Eos are too dangerous, and may go to study one of the other two options.
+Study Kett
+
+If Ryder suggested Danny study kett, Danny can be found on the plateaus west of Prodromos at a kett camp. Defeat the enemies and then talk to Danny. Once safe, Danny says that kett are too dangerous, and may decide to try his luck with another field.
+Study Remnant
+
+If Ryder suggested Danny study Remnant, Danny can be found at a Remnant sitesoutheast of the two failed outposts, near a basic mining zone . Defeat the enemies and then talk to Danny. After the Remnant are taken care of, Danny declares that Remnant are too dangerous, and may attempt to study something else.
+After being rescued three times, Danny will say that Eos altogether is just too dangerous, and that he will go somewhere safe, like Kadara Port. This ends the mission.
+
+Rewards[]
++270 XP (For the first rescue)
+Note:  Subsequent rescues have no reward but XP can be earned by defeating the enemies.
+
+Bugs[]
+Danny is still in Prodromos even after he has told he leaves Eos. So he is met at both places, like Clancy Arquist at Eos Site 1: Promise. (version 1.10)
+
+Trivia[]
+If the player talks to Danny after defeating the main kett outpost there will be only 2 jobs available for him, for example, bugs and Remnant. Later on the player will find him pretty drunk inside Paradise on Elaaden.
+
+
+
+

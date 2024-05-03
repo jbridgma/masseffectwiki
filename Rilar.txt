@@ -1,0 +1,63 @@
+
+
+
+
+
+Rilar
+
+Region
+Milky Way / Aethon Cluster / Satu Arrd
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+3.0 AU
+
+
+Orbital Period
+5.3 Earth Years
+
+
+Keplerian Ratio
+0.961
+
+
+Radius
+5,082 km
+
+
+Day Length
+23.2 Earth Hours
+
+
+Atm. Pressure
+4.62 atm
+
+
+Surface Temp
+28 °C 
+
+
+Surface Gravity
+0.37 g
+
+
+Mass
+0.233 Earth Masses
+
+
+Location: Milky Way / Aethon Cluster / Satu Arrd System /  Second planet
+
+Prerequisite: Priority: Tuchanka (Mass Effect 3)
+
+Description[]
+Rilar is a barren, terrestrial rock world. Only a small portion of the planet has been explored, as cursory scans showed little of interest on Rilar compared to the eezo deposits on the neighboring world of Poloh Tem. The planet appears not to have garnered Reaper attention, which would make it a good rendezvous point for any scattered organic force needing to discharge their drive cores.
+
+
+
+

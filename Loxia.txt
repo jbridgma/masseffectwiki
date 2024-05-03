@@ -1,0 +1,63 @@
+
+
+
+
+
+Loxia
+
+Region
+Milky Way / Silean Nebula / Teyolia
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.7 AU
+
+
+Orbital Period
+0.43 Earth Years
+
+
+Keplerian Ratio
+1.855
+
+
+Radius
+3,016 km
+
+
+Day Length
+29.3 Earth Hours
+
+
+Atm. Pressure
+0.458 atm
+
+
+Surface Temp
+152 °C 
+
+
+Surface Gravity
+0.47 g
+
+
+Mass
+0.104 Earth Masses
+
+
+Location: Milky Way / Silean Nebula / Teyolia System /  First planet
+
+Prerequisite: Priority: Rannoch (Mass Effect 3)
+
+Description[]
+Loxia is a small terrestrial planet tidally locked to Teyolia. Due to its low mass and relatively small size, Loxia has an exceptionally fast stellar orbit. The planet's light atmosphere consists mainly of argon and krypton, which occasionally produces long, thin bands of luminescence along the twilight border. Loxia's crust is mainly igneous rock with wide salt flats and occasional deposits of potassium.
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+
+[Edit this tab]
+
+Acquisition[]
+Mods are acquired and upgraded through purchases of packs and items in the multiplayer Store.
+
+Basic - Shotgun Receiver: Capacitor boosts kinetic coil generators, increasing shot penetration through solid objects.
+Note:  The Venom shotgun is unable to equip a Receiver Mod.
+Note:  Shotgun penetration damage is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Shotgun Receiver
+
++38%0.46
+
++42%0.54
+
++44%0.58
+
++46%0.63
+
++48%0.67
+
++50%0.71
+
++52%0.75
+
++54%0.79
+
++56%0.83
+
++58%0.88
+
+Shotgun Penetration DamageShotgun Penetration Distance (m)
+
+
+Equipping a Shotgun Receiver Mod changes the color of parts of the weapon, lighter or darker, depending on the specific weapon.
+
+
+
+

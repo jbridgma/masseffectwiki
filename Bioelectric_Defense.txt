@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+
+“Are you kidding? No one will believe I talked with Commander Shepard unless I get a picture!”
+This article would benefit from more and/or higher quality screenshots.See here for help uploading images, or ask an admin.
+
+
+Bioelectric Defense is a passive Tech skill in Mass Effect: Andromeda Multiplayer.
+
+Skill Ranks[]
+Angaran Resistance training, including use of natural bioelectric ability for defense.
+
+
+
+Rank
+
+Label
+
+Icon
+
+Description
+
+Bonus
+
+
+1
+
+Health & Shields
+
+
+
+Generates a bioelectric field to improve health and shields.
+
++15% Max Health
++15% Max Shields
+
+
+
+2
+
+Melee
+
+
+
+-
+
++30% Melee Damage
+
+
+3
+
+Health & Shields
+
+
+
+-
+
++15% Max Health
++15% Max Shields
+
+
+
+4
+
+Evasion
+
+
+
+Increases movement speed and decreases damage taken while evading.
+
++15% Movement Speed
++60 Damage Resistance While Evading
+
+
+
+4
+
+Regeneration
+
+
+
+-
+
++40% Health Regeneration Cap
++40% Health Regeneration
++25% Health & Shield Regeneration Delay Reduction
+
+
+
+5
+
+Capacity
+
+
+
+Reduces weapon weight and increases capacity of spare ammo and power cells.
+
++20% Weapon Spare Ammo
++1 to all Power Cell Capacities
++20% Weapon Weight Capacity
+
+
+
+5
+
+Melee
+
+
+
+-
+
++50% Melee Damage
+
+
+6
+
+Bioelectric Ward
+
+
+
+When you or a nearby ally receives damage, a bioelectric ward is automatically activated around the individual, increasing Damage resistance for 5s. May only occur once every 15s, per affected individual.
+
+Ward Damage Resistance: 80
+Warded Ally Radius (m): 6
+
+
+
+6
+
+Close-Quarters Momentum
+
+
+
+Increases melee damage bonus with each melee damage hit or melee kill. Ends after 20 seconds have passed without a melee kill.
+
+Melee Bonus per Hit: 5%
+Melee Bonus per Kill: 20%
+Max Melee Bonus: 65%
+
+
+Player Notes[]
+Mechanics
+Notes about the skill's mechanics
+Strategies
+Notes about the skill's strategies
+Availability[]
+Single-player: N/A
+Multiplayer: Angara Avenger, Angara Exemplar, Angara Insurgent
+
+
+

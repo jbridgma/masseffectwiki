@@ -1,0 +1,170 @@
+
+
+
+
+
+Geth Engineer
+
+
+
+
+
+
+Class
+Engineer
+
+
+Race
+Geth
+
+
+Rarity
+Rare
+
+
+Availability
+Mass Effect 3: Resurgence Pack
+
+
+Abilities
+Geth HopDecreased StaminaShield Pulse
+
+
+The geth are a humanoid race of networked AIs that were created by the quarians 300 years ago as tools of labor and war. Having since won their freedom from their creators, the geth have proven they are able to reason, analyze situations, and deploy tactics as well as any organic race so long as they remain networked with other geth.
+Geth engineers are elite support specialists. Unique perception systems give geth an unsurpassed understanding of the battlefield.
+
+Contents
+
+1 Powers
+2 Melee and movement
+3 Player Notes
+
+3.1 General Notes
+3.2 Cerberus
+3.3 Collectors
+3.4 Geth
+3.5 Reapers
+
+
+
+
+Powers[]
+
+
+
+
+
+Shield: 750 / Health: 250
+
+
+Class: Networked AI
+
+
+ Geth Turret
+
+
+
+
+ Hunter Mode
+
+
+
+
+ Overload
+
+
+
+
+ Advanced Hardware
+
+
+
+
+
+
+
+
+
+
+
+Melee and movement[]
+
+
+
+
+
+Regular Melee – Backhand slam
+Heavy Melee (Shield Pulse) – The Geth Engineer generates pulses of damaging energy at the expense of a fixed percentage of total shield strength. The initial activation pulse drains more shields than subsequent pulses if the attack is maintained.
+Grab (Electrified Punch) – The Geth Engineer drags an enemy over cover and then executes them with an electrified punch.
+
+
+
+
+
+Dodge (Geth Hop) – The Geth Engineer jumps out of the way of incoming attacks.
+The Geth Engineer can take cover, but cannot roll from cover to cover.
+
+Player Notes[]
+General Notes[]
+Geth Engineers are very fragile when stripped of shields or during Hunter Mode, but used correctly, are extremely lethal against enemies with shields/barriers or other geth.
+The Geth Turret can be used to compensate the reduction in shield strength.
+Overload can inflict over 800 damage per use to shields/barriers or synthetics. Hunter Mode makes it even more powerful: Overload can be spammed at break-neck speeds with over 900 damage. This is especially apparent when combined with the Hunter Mode's rank 4 "Power Recharge" and rank 5 "Power Damage" evolutions. Damage can be pushed even higher using gear and/or power amplifier consumables, allowing for over 1300 damage to be inflicted in one use. This makes the Geth Engineer unmatched for tech power damage.
+The geth's light melee strike is actually slower in execution than the heavy melee shield pulse. The heavy melee also affects a larger radius and inflicts more damage. It is generally better to use the shield pulse.
+Note:  Holding down the melee button will cause you to continuously send out pulses until you run out of shields.
+The Geth Engineer can use the Geth Turret as a support tool rather than offensive weapon due to its ability to replenish shields.
+When paired with the Salarian Engineer, both characters can easily coordinate Tech Bursts.
+Because the Geth Engineer can't easily prime and detonate Power Combos alone, it's best to choose "Chain Overload" evolutions for Overload in order to crowd control.
+The last rank of Networked AI can reduce the weight of assault rifles AND sniper rifles, if you prefer those weapons.
+Equipping the Rank 6 Flamethrower evolution on your Geth Turret allows you the ability to trigger rapid Fire Explosions if you also invest points in Overload. This can be incredibly handy when facing armored enemies or multiple enemies clustered together.
+Equipping weapons with anti-armor weapon mods or consumables is strongly recommended since the Geth Engineer has no powers effective against armored non-synthetic enemies. Choosing Hunter Mode's "Weapon Accuracy" and "Rate of Fire" evolution will further compensate for that shortcoming and make the Geth Engineer able to inflict higher weapon damage. Weapons that usually fit with the Geth Infiltrator, like the N7 Piranha or the AT-12 Raider are also practical for Geth Engineer's loadout.
+Cerberus[]
+Overload is extremely powerful against the shielding of Cerberus troops. Against Atlases, multiple Overloads are required but the shields can be stripped at an unbelievable rate. Only the Reegar Carbine can beat Overload's rate of draining.
+Overload deals full damage to Turrets and Atlas armor, since they are considered synthetic enemies.
+Collectors[]
+Armored enemies pose a serious threat to the Geth Engineer, since it lacks anti-armor powers besides a Geth Turret with Flamethrower.
+Overload is still quite effective, since all enemies gain barriers when possessed. With "Neural Shock", it is also decently powerful against unarmored enemies and especially useful for slowing down Abominations.
+Geth[]
+Geth Engineers are deadly against geth. Since geth are synthetic and all enemies have shielding (except basic Geth Troopers), Overload works absolute miracles here. Being able to destroy the strongest of shields in just 1 or 2 Overloads, even Geth Prime shielding will quickly deteriorate. Combine that shield destruction with an anti-armor weapon and you have the ultimate Geth hunting combo.
+If one needs a second anti-shield option, the Reegar Carbine fills that role and a close-quarters weapon role very nicely.
+Reapers[]
+Geth Engineers suffer against Reapers. Lacking any real anti-armor/health powers like Incinerate or Cryo Blast, one would be best using guns, especially those suited to dealing with armor.
+It is recommended to choose the "Flamethrower" evolution for the Geth Turret to provide a better chance against armored targets and to provide a distraction against the aggressive enemy style.
+Overload is, nonetheless, good against Marauders and especially Banshees, whose barriers are very strong. Despite this, it may be better to opt for a Human Engineer, Quarian Engineer, or Quarian Male Engineer instead.
+The weakness of Overload against Reapers can be mitigated by taking the "Neural Shock" and one or both of the "Chain" evolutions, which makes it useful as a crowd control power against unarmored enemies.
+
+
+Mass Effect 3 Multiplayer and Character Customization
+
+
+Adepts
+
+Asari • Asari Justicar • Awakened Collector • Batarian Slasher • Drell • Human • Krogan Shaman • N7 Fury • Project Phoenix • Volus
+
+
+Engineers
+
+Geth • Human • N7 Demolisher • Quarian • Quarian Male • Salarian • Talon Mercenary • Turian Saboteur • Volus • Vorcha Hunter
+
+
+Infiltrators
+
+Alliance Infiltration Unit • Asari Huntress • Drell Assassin • Geth Hunter • Human • N7 Shadow • Quarian • Quarian Male • Salarian • Turian Ghost
+
+
+Sentinels
+
+Asari Valkyrie • Batarian Enforcer • Human • Krogan • Krogan Warlord • N7 Paladin • Turian • Volus Mercenary • Vorcha
+
+
+Soldiers
+
+Batarian Enforcer • Battlefield 3 • Geth Juggernaut • Geth Trooper • Human • Krogan • N7 Destroyer • Quarian Marksman • Turian • Turian Havoc • Vorcha
+
+
+Vanguards
+
+Asari • Batarian Brawler • Cabal • Drell • Human • Krogan Battlemaster • N7 Slayer • Project Phoenix • Volus Protector
+
+
+
+

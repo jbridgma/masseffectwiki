@@ -1,0 +1,75 @@
+
+
+
+
+
+Vinland
+
+Region
+Andromeda / Heleus Cluster / Eriksson
+
+
+
+
+
+Planet View
+
+
+Orbital Distance
+0.8 AU
+
+
+Orbital Period
+0.7 Earth Years
+
+
+Keplerian Ratio
+1.045
+
+
+Radius
+3,833 km
+
+
+Atm. Pressure
+81.2 atm
+
+
+Surface Temp
+671 °C 
+
+
+Location: Andromeda / Heleus Cluster / Eriksson System /  First planet
+
+
+Contents
+
+1 Description
+2 Anomaly
+
+2.1 Crater
+
+
+3 Trivia
+
+
+Description[]
+Vinland is a small rocky world with a "pressure-cooker" atmosphere composed of argon and carbon dioxide. Its valuable cobalt deposits would require robotic mining due to volatile surface gases.
+
+Anomaly[]
+Crater[]
+DATA:
+Hypervelocity impact crater
+Rim diameter: 496 km
+Depth: Approx. 3.7 km
+Ejecta: Silicates, mineral deposits, trace amounts of element zero
+ANALYSIS:
+A crater caused by the impact of heavy debris, possibly from the Scourge. The meteorite still contains valuable resources.
+Awards +270 XP when scanned.
+
+Trivia[]
+The planet is named after the North American region of the same name, which was visited by Lief Eriksson, the system's namesake.
+
+
+
+

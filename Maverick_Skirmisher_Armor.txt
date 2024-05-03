@@ -1,0 +1,953 @@
+
+
+
+Maverick Armor is a four-piece set of armor in Mass Effect: Andromeda.
+
+
+
+      
+
+      
+
+      
+
+
+Maverick SkirmisherArmor Set
+
+Maverick AmbusherArmor Set
+
+Maverick DeadeyeArmor Set
+
+Contents
+
+1 Description
+2 Types
+3 Arms / Helmets / Legs
+
+3.1 Stats
+3.2 Development
+
+
+4 Chests
+
+4.1 Stats
+4.2 Development
+
+
+5 Player Notes
+
+5.1 Features
+5.2 Strategies
+
+
+6 Trivia
+
+
+Description[]
+There's nothing elegant about this patchwork hardsuit. It mixes various materials and technology from the Heleus Cluster and its microframe computer runs a jumble of barely linked programs. Despite this-or because of it-the armor is highly effective in combat, with targeting and thermal distribution systems second to none.
+
+At Ranks III & IV, the existing description changes to add the following text: "Upgrades smooth out the armor's technological integration seams and provide added comfort."
+At Ranks V - X, the existing description changes to add the following text: "Heavily upgraded and customized, this particular suit rivals any Milky Way design."
+Types[]
+Ranks I - X are named Maverick Skirmisher when the four armor pieces are crafted.
+When the four armor pieces are found in-game:
+
+Ranks I-II are named Maverick Skirmisher.
+Ranks III-IV are named Maverick Ambusher.
+Ranks V-X are named Maverick Deadeye.
+Note:  There are no differences between the found versions compared to the crafted versions (other than visual).
+
+Arms / Helmets / Legs[]
+
+
+
+
+Maverick Arms
+
+
+
+
+
+							Skirmisher
+							
+						
+
+
+
+							Ambusher
+							
+						
+
+
+
+							Deadeye
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Bonuses
+Weapon Headshot/Weak Point BonusWeapon Spare Ammo
+
+
+Category
+Arms
+
+
+Rarity
+Uncommon
+
+
+Tech Type
+
+
+
+Fusion Mod
+0
+
+
+
+
+
+
+
+
+Maverick Helmet
+
+
+
+
+
+							Skirmisher
+							
+						
+
+
+
+							Ambusher
+							
+						
+
+
+
+							Deadeye
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Bonuses
+Weapon Headshot/Weak Point BonusWeapon Spare Ammo
+
+
+Category
+Helmets
+
+
+Rarity
+Uncommon
+
+
+Tech Type
+
+
+
+Fusion Mod
+0
+
+
+
+
+
+
+
+
+Maverick Legs
+
+
+
+
+
+							Skirmisher
+							
+						
+
+
+
+							Ambusher
+							
+						
+
+
+
+							Deadeye
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Bonuses
+Weapon Headshot/Weak Point BonusWeapon Spare Ammo
+
+
+Category
+Legs
+
+
+Rarity
+Uncommon
+
+
+Tech Type
+
+
+
+Fusion Mod
+0
+
+
+
+
+
+
+Stats[]
+
+
+Rank
+
+Weapon Headshot/Weak Point Bonus
+
+Weapon Spare Ammo
+
+
+I
+
++3%
+
++3%
+
+
+II
+
++4%
+
++5%
+
+
+III
+
++5%
+
++7%
+
+
+IV
+
++6%
+
++8%
+
+
+V
+
++7%
+
++10%
+
+
+VI
+
++8%
+
++11%
+
+
+VII
+
++9%
+
++12%
+
+
+VIII
+
++10%
+
++13%
+
+
+IX
+
++11%
+
++14%
+
+
+X
+
++12%
+
++15%
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Soft Chitin
+
+ Uranium
+
+ Platinum
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+10
+
+5
+
+20
+
+10
+
+2
+
+
+II
+
+Level 6
+
+10
+
+6
+
+30
+
+10
+
+2
+
+
+III
+
+Level 11
+
+20
+
+6
+
+30
+
+10
+
+2
+
+
+IV
+
+Level 21
+
+20
+
+7
+
+30
+
+10
+
+2
+
+
+V
+
+Level 31
+
+20
+
+8
+
+40
+
+10
+
+2
+
+
+VI
+
+Level 41
+
+20
+
+9
+
+40
+
+10
+
+2
+
+
+VII
+
+Level 51
+
+20
+
+9
+
+50
+
+10
+
+2
+
+
+VIII
+
+Level 61
+
+20
+
+9
+
+50
+
+10
+
+2
+
+
+IX
+
+Level 71
+
+20
+
+10
+
+50
+
+10
+
+2
+
+
+X
+
+Level 81
+
+20
+
+10
+
+50
+
+10
+
+2
+
+
+Total
+
+N/A
+
+180
+
+79
+
+390
+
+100
+
+N/A
+
+Chests[]
+
+
+Maverick Chest
+
+
+
+
+
+							Skirmisher
+							
+						
+
+
+
+							Ambusher
+							
+						
+
+
+
+							Deadeye
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Bonuses
+Weapon Headshot/Weak Point BonusWeapon Spare AmmoWeapon Damage
+
+
+Category
+Chests
+
+
+Rarity
+Uncommon
+
+
+Tech Type
+
+
+
+Fusion Mod
+1
+
+
+
+
+
+
+Stats[]
+
+
+Rank
+
+Weapon Headshot/Weak Point Bonus
+
+Weapon Spare Ammo
+
+Weapon Damage
+
+
+I
+
++3%
+
++3%
+
++5%
+
+
+II
+
++4%
+
++5%
+
++8%
+
+
+III
+
++5%
+
++7%
+
++10%
+
+
+IV
+
++6%
+
++8%
+
++13%
+
+
+V
+
++7%
+
++10%
+
++15%
+
+
+VI
+
++8%
+
++11%
+
++16%
+
+
+VII
+
++9%
+
++12%
+
++17%
+
+
+VIII
+
++10%
+
++13%
+
++18%
+
+
+IX
+
++11%
+
++14%
+
++19%
+
+
+X
+
++12%
+
++15%
+
++20%
+
+Development[]
+
+
+Rank
+
+ Blueprint Unlocked
+
+ Omni-Gel Canister
+
+ Soft Chitin
+
+ Uranium
+
+ Platinum
+
+ Augmentation Slots
+
+
+I
+
+Level 1
+
+30
+
+14
+
+70
+
+20
+
+4
+
+
+II
+
+Level 6
+
+40
+
+17
+
+80
+
+20
+
+4
+
+
+III
+
+Level 11
+
+40
+
+19
+
+90
+
+20
+
+4
+
+
+IV
+
+Level 21
+
+50
+
+21
+
+100
+
+30
+
+4
+
+
+V
+
+Level 31
+
+60
+
+24
+
+120
+
+30
+
+4
+
+
+VI
+
+Level 41
+
+60
+
+26
+
+120
+
+30
+
+4
+
+
+VII
+
+Level 51
+
+60
+
+26
+
+130
+
+30
+
+4
+
+
+VIII
+
+Level 61
+
+70
+
+28
+
+140
+
+40
+
+4
+
+
+IX
+
+Level 71
+
+70
+
+29
+
+140
+
+40
+
+4
+
+
+X
+
+Level 81
+
+70
+
+30
+
+140
+
+40
+
+4
+
+
+Total
+
+N/A
+
+550
+
+234
+
+1130
+
+300
+
+N/A
+
+Player Notes[]
+Features[]
+Maverick armor has the highest bonuses for head shot and critical damages.
+
+Strategies[]
+Because of the emphasis on head shot and critical damage, this armor pairs well with sniping tactics, particularly with the Infiltrator profile's ability to see enemies through cover when using sniper rifles. Rifles with high penetration power, such as the Widow, Black Widow, N7 Valiant, Vanquisher, and Pathfinder Observer can be very effective at extreme ranges to pick off weaker enemies or whittle down the defenses of stronger ones. 
+Crafting will not have as much immediate benefit as the armor emphasizes weapons over powers and many armor augmentations enhance recharge and damage of abilities. However, equipping Electrical Conduits in the chest can enhance survivability from melee attackers, as can augmentations enhancing aim while standing still. The electrical defense will stun attacking Wraiths and Adhi automatically, and do not require having an active power like Annihilation Field or Attack Drone setting a perimeter.
+While the armor enhances weapon effectiveness, equipping crafted weapons and weapons with Tech Recharge speed may be more useful for sniping builds to recharge a base power, such as Tactical Cloak, to move around the battlefield. Alternately, tech recharge can enhance defense-stripping powers, such as Overload and Incinerate, to set enemies up for lethal shots. Any tech power used to debuff enemies, such as Invasion or Energy Drain can be useful as well. 
+For players who prefer a more rounded build, the armor can create a counterbalance to other, power-intensive builds. With careful planning, players can use a power to 'lock' enemies in place and then use a weapon to take an easy headshot. Biotic Stasis, Remnant VI, and Attack Drone can tie up enemy NPCs for this purpose. While not as effective, Biotic Singularity and Cryo ammo can help slow down enemies along similar lines.
+As with all of Ryder's armor, Maverick armor can be equipped in whole or in part; players may find that the inability to craft Maverick leg pieces above level V may be a mixed blessing by pairing the level X chest and helmet pieces with different legs and arms, such as the Pathfinder armor, which holds a greater bonus to overall weapon accuracy and damage resistance.
+
+Trivia[]
+
+
+
+
+Mass Effect: Andromeda Armor
+
+
+
+
+Augmentations • Fusion Mods
+
+
+Milky Way
+
+HyperGuardian Armor • Initiative Armor • N7 Armor • Pathfinder Armor
+
+
+Heleus
+
+Angaran Armor • Heleus Armor • Kett Armor • Maverick Armor
+
+
+Remnant
+
+Remnant Armor
+
+
+DLC
+
+Andromeda Elite Helmet • Deep Space Explorer Armor • Scavenger Armor
+
+
+
+

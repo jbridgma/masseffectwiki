@@ -1,0 +1,52 @@
+
+
+
+The Nexus has many moving parts and departments. To get a full lay of the land, get to know the various leaders and important personnel stationed there.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Speak with Tann
+2.2 Speak with Kesh
+2.3 Speak with Kandros
+2.4 Speak with Addison
+2.5 Speak with the scientists
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Nexus Reunion
+
+This mission is acquired automatically after the initial meet and greet with the Nexus leadership.
+
+Walkthrough[]
+The mission objectives can be accomplished in any order. Once all those listed below have been spoken to, the task will be automatically completed.
+Multiple codex entries will be updated, added or appended upon speaking with the relevant personnel.
+
+Speak with Tann[]
+Jarun Tann is in the Pathfinder Headquarters, south of Colonial Affairs; speak to him again after completing Nexus Reunion. He can tell Pathfinder Ryder a great deal about the Initiative and current affairs. (+50 XP)
+Note: Speaking with Tann for the mission Nexus Reunion during this mission will not fulfill the objective. You must initiate a second conversation for the Nexus Reunion objective to complete. 
+
+Speak with Kesh[]
+Nakmor Kesh is located in her office, north of Colonial Affairs. Kesh has limited information, but can provide some details about the krogan involvement in the Nexus mutiny prior to the Hyperion's arrival. (+50 XP)
+
+Speak with Kandros[]
+Tiran Kandros is located in the Militia Office of the Operations block. He's mostly concerned with security and turian affairs. (+50 XP)
+
+Speak with Addison[]
+Director Foster Addison is located in Colonial Affairs. She expresses frustration with the overall situation and mistrust of the new Pathfinder. (+50 XP)
+
+Speak with the scientists[]
+Professor Herik is located in the easternmost portion of the Nexus Operations block. Surrounded by a group of other scientists, he promises to help forward the Initiative's mission if Ryder can provide the data (+100 XP). At the conclusion of the brief chat, all three scientists will have additional tasks for Ryder:
+Speak to Professor Herik for Task: Comparatively Alien
+Speak to Chief Lucan for Task: Hitting Rocks for Science
+Speak to Dr. Aridana for Task: Missing Scientists
+Speak to Dr. Aridana a second time to unlock Task: The Model of the Spheres
+Rewards[]
+None
+
+
+

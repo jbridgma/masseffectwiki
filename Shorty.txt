@@ -1,0 +1,367 @@
+
+
+
+
+
+Shorty
+
+
+
+
+
+							Default
+							
+						
+
+
+
+							Bulwark
+							
+						
+
+
+
+							Concussive
+							
+						
+
+
+
+							Siphon
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Info
+
+Rarity
+Ultra Rare
+
+
+Tech Type
+
+
+
+Mod Slots
+2
+
+
+
+
+
+
+
+								Multiplayer
+							
+
+
+
+
+
+Base Stats
+
+Damage
+310-360
+
+
+Rate of Fire
+400
+
+
+Max Clip Size
+15
+
+
+Max Ammo
+120-150
+
+
+Accuracy
+30-38
+
+
+Weight
+45-24
+
+
+
+Bulwark
+
+Damage Resistance (1 Ally): 15-25Damage Resistance (2 Allies): 22-37Damage Resistance (3 Allies): 30-50
+
+
+
+Concussive
+
+Area Damage: 800-1500Radius (m): 7.50
+
+
+
+Siphon
+
+% Damage Returned as Health: 3-3.75% Heal Bonus per kill: 4.5Kill Streak Duration (s): 7Max. Kill Bonus: 3
+
+
+
+
+
+The Shorty is a shotgun in Mass Effect: Andromeda Multiplayer.
+
+Contents
+
+1 Description
+2 Features
+3 Strategies
+4 Stats
+5 Development
+
+
+Description[]
+Outlaws cobbled together the compact Shorty because they wanted a close-range weapon with extra ammo. The shogun fires three-round bursts, but is heavy to carry because of a large ammunition clip; the recoil kicks like an angry mule.
+
+Features[]
+The displayed damage is per round, meaning the actual damage dealt is thrice the stated number if it all hits.
+
+Strategies[]
+Even unupgraded, the Shorty is a good fit for krogan classes due to their easy access to Rage Rank 2: +25% weapon weight capacity. Most krogan classes rely on Rage to rack up kills and shine in the battlefield, though other characters (and alternative skill builds) can also take the weapon provided the proper points in weight capacity have been invested.
+
+Stats[]
+
+
+Rank
+
+Damage
+
+Rate of Fire
+
+Max Clip Size
+
+Max Ammo
+
+Accuracy
+
+Weight
+
+
+I
+
+310
+
+400
+
+15
+
+120
+
+30
+
+45
+
+
+II
+
+315
+
+400
+
+15
+
+123
+
+32
+
+43
+
+
+III
+
+320
+
+400
+
+15
+
+127
+
+34
+
+40
+
+
+IV
+
+325
+
+400
+
+15
+
+130
+
+35
+
+38
+
+
+V
+
+330
+
+400
+
+15
+
+133
+
+35
+
+36
+
+
+VI
+
+335
+
+400
+
+15
+
+137
+
+36
+
+33
+
+
+VII
+
+340
+
+400
+
+15
+
+140
+
+36
+
+30
+
+
+VIII
+
+350
+
+400
+
+15
+
+143
+
+37
+
+27
+
+
+IX
+
+355
+
+400
+
+15
+
+147
+
+37
+
+24
+
+
+X
+
+360
+
+400
+
+15
+
+150
+
+38
+
+21
+
+Development[]
+The Shorty is exclusive to multiplayer and can't be developed.
+
+
+
+
+
+Mass Effect: Andromeda Weapons
+
+
+
+
+Augmentations • Mods
+
+
+Assault Rifles
+
+L-89 Halberd • M-8 Avenger • M-37 Falcon • M-96 Mattock • Cyclone • N7 Valkyrie • Pathfinder Pioneer • P.A.W. • Revenant • Sandstorm • Soned • Sovoa • Sweeper • Thokin • X5 Ghost • Zalkin
+
+
+Pistols
+
+M-3 Predator • M-5 Phalanx • M-25 Hornet • Carnifex • Charger • Equalizer • N7 Eagle • N7 Hurricane • Pathfinder Ranger • Rozerad • Scorpion • Sidewinder • Silhesh • Talon • Ushior
+
+
+Sniper Rifles
+
+M-90 Indra • Black Widow • Incisor • Inferno • Isharay • Kishock Harpoon Gun • Lanat • Naladen • N7 Valiant • Pathfinder Observer • Raptor • Shadow • Vanquisher • Viper • Widow
+
+
+Shotguns
+
+M-23 Katana • Dhan • Disciple • Hesh • N7 Crusader • N7 Piranha • Pathfinder Deep Impact • Reegar Carbine • Ruzad • Scattershot • Shorty • Venom
+
+
+Melee Weapons
+
+Angaran Firaan • Asari Sword • Biotic Amplifier • Electric Firaan • Kett Carfalon • Kett Vakarsh • Krogan Hammer • Omni-Blade • Remnant Cryo-Gauntlet
+
+
+
+

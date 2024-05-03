@@ -1,0 +1,59 @@
+
+
+
+
+
+Pas-51
+
+Region
+Andromeda / Heleus Cluster / Bosavay
+
+
+
+
+
+
+
+Orbital Distance
+216.2 AU
+
+
+Orbital Period
+752.6 Earth Years
+
+
+Keplerian Ratio
+17.842
+
+
+Radius
+9,694 km
+
+
+Atm. Pressure
+0.12 atm
+
+
+Surface Temp
+408 °C 
+
+
+Location: Andromeda / Heleus Cluster / Bosavay System /  Fourth planet
+
+
+Description[]
+Many of the conditions on Pas-51 are amenable to the development of life (microbial at least), but its searing temperatures are an obstacle not easily overcome.
+
+Anomaly[]
+Mountain[]
+DATA:
+
+Height: 8.8 km
+Origin: Tectonic
+ANALYSIS:
+Water vapor escapes from cracks in this mountain, suggesting that somewhere deep underground - where temperatures are far cooler - a reservoir may exist.  If lifeforms exist on Pas-51, it will be there.
+Awards +270 XP when scanned.
+
+
+
+

@@ -1,0 +1,44 @@
+
+
+
+You cleared the geth from the tower, but there are still geth in the tunnels. Finding and destroying the geth transmitter will give Zhu's Hope a better chance of survival.
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Enemies
+4 Bug
+5 See Also
+
+
+Acquisition[]
+Prerequisite: Feros: Geth Attack
+
+Speak to Fai Dan a second time, after fighting off the geth which interrupted your first conversation. He will tell Shepard about the transmitter. 
+If you didn't receive the journal entry from Fai Dan, entering the tunnels and destroying the transmitter will.
+
+Walkthrough[]
+The transmitter is guarded by a small group of geth in the tunnels. Head towards the elevator to the skyway, and continue down the stairs beyond it. Once in the tunnels several geth will need to be fought to reach the room containing the transmitter. This room can be found through a door across a small bridge - on your map it lies at the right side of the crossroads in the tunnels.
+
+After the door opens, you're greeted with laser sights. There are two Geth Snipers waiting in the balcony above the corridor, a Geth Shock Trooper in the corridor, and a Geth Assault Drone lying in wait. Fortunately the two stone pillars on either side of the corridor are human-sized, meaning you can use them to take cover against the sniper fire from above.
+After dealing with these geth, there are three Krogan Warriors in the main chamber beyond. You can draw the krogan out one at a time if you're careful and leave your squad back in the hallway - a good place for your squad is in the hallway just inside the automatic door; carefully go up and shoot one krogan once and hightail it back to your squad. Neither the krogan nor the geth in this section will move through the automatic door that marks this section - you can retreat to rest if things get too hot.
+
+Once all of these enemies have been killed, proceed to the back of the room to find the transmitter. Deal damage to the area indicated to destroy it. Warning: It is highly recommended to save your game before doing so. See the bug report below.
+Once the transmitter is destroyed, return to Fai Dan to receive the reward. Lootables in the area include an upgrade kit near the barriers and a technician kit in front of the beacon. Warning: If you clear the tunnels of geth and don't speak with Fai Dan before he commits suicide, this assignment can't be completed.
+
+Enemies[]
+Krogan Warrior
+Geth Assault Drone
+Geth Shock Trooper
+Geth Sniper
+Bug[]
+Multiple reports indicate glitching at the transmitter scenario, where the ultimate effect is that of the journal failing to update and rendering the assignment unable to complete. Conflicting reports abound on the causative element of the bug, although the common theme is that trying to damage the tower regardless of method used (weapons, grenades, talents) may cause it to "disappear". Thus, the only expedient recourse is to load an earlier save when this happens.
+See Also[]
+The following assignments can also be completed while in the tunnels:
+
+Feros: Power Cells
+Feros: Varren Meat
+Feros: Water Restoration
+
+
+

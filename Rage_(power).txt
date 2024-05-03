@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+This article is about the multiplayer passive class power in Mass Effect 3. For other uses, see Rage (disambiguation).
+
+Rage is a passive class power in Mass Effect 3's multiplayer mode. 
+
+Power Ranks[]
+Rank 1: Rage[]
+Boost health, shields, melee damage, and durability.
+Melee and kill 3 enemies within 30 seconds to send the krogan into a frenzy, increasing melee damage and reducing damage taken for 30 seconds.
+
+Health and Shield Bonus: 20%
+Melee Damage Bonus: 20%
+Rage Damage Reduction: 20%
+Rage Melee Damage Bonus: 50%
+
+
+Rank 2: Durability[]
+Increases health and shield bonuses by 15%.
+
+Health and Shield Bonus: 35%
+Melee Damage Bonus: 20%
+Rage Damage Reduction: 20%
+Rage Melee Damage Bonus: 50%
+
+
+Rank 3: Melee Damage[]
+Increase melee damage bonus by 25%.
+
+Health and Shield Bonus: 35%
+Melee Damage Bonus: 45%
+Rage Damage Reduction: 20%
+Rage Melee Damage Bonus: 50%
+
+
+Rank 4: Melee Damage/Durability[]
+
+
+
+Melee Damage
+Increase melee damage bonus by 30%.
+Increase melee damage bonus by 30% while in Rage mode.
+
+Health and Shield Bonus: 35%
+Melee Damage Bonus: 75%
+Rage Damage Reduction: 20%
+Rage Melee Damage Bonus: 80%
+
+
+Durability
+Increase health and shield bonuses by 20%.Increase damage protection by an additional 5% while in Rage mode.
+
+Health and Shield Bonus: 55%
+Melee Damage Bonus: 45%
+Rage Damage Reduction: 25%
+Rage Melee Damage Bonus: 50%
+
+
+
+Rank 5: Martial Artist/Shield Recharge[]
+
+
+
+Martial Artist
+Increase melee damage by 75% for 30 seconds after an enemy is killed by a heavy melee.
+
+
+
+Shield Recharge
+Decrease shield-recharge delay by 15%.
+
+
+
+
+Rank 6: Pure Rage/Fitness Expert[]
+
+
+
+Pure Rage
+Increase melee damage bonus by 30%.
+Reduce the number of kills required to trigger Rage to 2 within 30 seconds.
+
+Health and Shield Bonus: 35% (Melee Damage), 55% (Durability)
+Melee Damage Bonus: 105% (Melee Damage), 75% (Durability)
+Rage Damage Reduction: 20% (Melee Damage), 25% (Durability)
+Rage Melee Damage Bonus: 80% (Melee Damage) 50% (Durability)
+
+
+Fitness Expert
+Increase health and shield bonuses by 30%.
+Increase damage protection by 5% while in Rage mode.
+
+Health and Shield Bonus: 65% (Melee Damage), 85% (Durability)
+Melee Damage Bonus: 75% (Melee Damage), 45% (Durability)
+Rage Damage Reduction: 25% (Melee Damage), 30% (Durability)
+Rage Melee Damage Bonus: 80% (Melee Damage), 50% (Durability)
+
+
+
+Player Notes[]
+Only actual melee kills and Biotic Charge kills count towards building Rage. Kill assists do not count.
+Over-cover grabs do not count towards Rage.
+Environmental impact kills attributed to melee and charge don't count either.
+Killing certain minor enemies such as Swarmers, Seeker Swarms, and Geth Turrets does not count towards building or maintaining Rage.
+Rage does not work like Bloodlust on the vorcha classes where getting one kill or kill assist will refresh the effect—if two or three kills are required to trigger Rage, then that is how many kills are required each time. This makes the evolutions of Rage or Warlord Rage that reduce the number of kills needed to trigger the effect very useful, as even when hunting for melee kills exclusively, it can be very difficult to chain together two or three in the necessary time frame, especially in team games where teammates can steal your kills.
+Rage evolved to maximize melee damage, and using a shotgun with a Shotgun Omni-Blade (or Shotgun Blade Attachment), the already good heavy melee of a krogan becomes incredible, capable of taking down even armored super elites (e.g. Atlases, Brutes, and Geth Primes, and Praetorians). However, this is a high-risk/high-reward tactic, as most such foes can instantly kill you if you get too close.
+Rage evolved to maximize health, shields and damage reduction can also be highly beneficial. Since all krogan characters possess a damage reduction-providing power (Barrier,  Tech Armor or Fortification), these classes can shrug off all but the most intense fire, even on Gold or Platinum. This makes them very useful classes especially for objective recovery, as they can happily carry the object and ignore incoming fire. Performing headbutts into the air can improve the damage reduction even further.
+An active Rage effect adds a graphical filter in the player's HUD to represent a krogan's altered perceptions while enraged. This visual filter can make seeing subtle details in the environment difficult, notably the shimmer of invisible enemies such as cloaked Geth Hunters and Phantoms. The effect can actually aid visibility on certain darker maps such as Firebase Reactor, while on bright maps, especially the open-air parts of the hazard version of Firebase White, your vision can be impaired to near-blindness.
+Roar: When Rage triggers, the player character will roar triumphantly. While certainly in-character for a krogan, this can be problematic as during the "celebration" animation, you are vulnerable and unable to act in any way except that you can still move. The celebration animation can be circumvented by certain actions such as firing a weapon, sprinting, or performing a heavy melee, but performing a regular melee usually does NOT work. Heavy melee can interrupt the celebration animation even once it begins and is usually the best option, whereas other actions must be performed almost immediately after killing the enemy that activates Rage before the celebration animation triggers to have a chance to circumvent it.
+Availability[]
+Single Player: N/A
+Multiplayer: Krogan Sentinel, Krogan Soldier, Krogan Battlemaster Vanguard, Krogan Shaman Adept
+
+
+Mass Effect 3 Powers
+
+
+Ammo
+
+Armor-Piercing Ammo • Cryo Ammo • Disruptor Ammo • Incendiary Ammo • Warp Ammo
+
+
+Biotic
+
+Annihilation Field • Barrier • Biotic Focus • Biotic Hammer • Biotic Orbs • Biotic Protector • Biotic Slash • Biotic Sphere • Charge • Cluster Grenade • Dark Channel • Dark Sphere • Dominate • Flare • Lash • Lift Grenade • Nova • Poison Strike • Pull • Reave • Seeker Swarm • Shockwave • Singularity • Slam • Smash • Stasis • Throw • Warp • Warp Ammo
+
+
+Combat
+
+Adrenaline Rush • Arc Grenade • Ballistic Blades • Blade Armor • Bloodlust • Cain Trip Mine • Carnage • Concussive Shot • Devastator Mode • Fortification • Frag Grenade • Hawk Missile Launcher • Inferno Grenade • Marksman • Multi-Frag Grenade • Nightshade Blades • Phase Disruptor • Proximity Mine • Recon Mine • Repair Matrix • Sticky Grenade • Stimulant Pack
+
+
+Tech
+
+Armor-Piercing Arrows • Combat Drone • Concussive Arrows • Cryo Blast • Decoy • Defense Drone • Defense Matrix • Electric Slash • Electrical Hammer • Energy Drain • Flamer • Geth Turret • Havoc Strike • Hex Shield • Homing Grenade • Hunter Mode • Incinerate • Overload • Sabotage • Sentry Turret • Shadow Strike • Shield Boost • Siege Pulse • Snap Freeze • Submission Net • Supply Pylon • Tactical Cloak • Tactical Scan • Tech Armor
+
+
+Fitness
+
+Fitness (Adept) • Fitness (Engineer) • Fitness (Infiltrator) • Fitness (Sentinel) • Fitness (Soldier) • Fitness (Vanguard)
+
+
+Fitness (multiplayer)
+
+Advanced Hardware • Ancient Warrior • Fitness Module • Hardened Platform • Omni-Bow Mastery • Rage • Shield Mastery • Sword Mastery • T5-V Internal Systems • Venom Gauntlets • Warlord Rage
+
+
+Player Class
+
+Assault Mastery • Biotic Mastery • Combat Mastery • Offensive Mastery • Operational Mastery • Tech Mastery
+
+
+Player Class (multiplayer)
+
+Alliance Training • Armiger Legion • Asari Huntress • Asari Justicar • Asari Valkyrie • Batarian Enforcer • Drell Assassin • Elite Mercenary • Geth Juggernaut • Krogan Battlemaster • Krogan Berserker • Krogan Warlord • N7 Demolisher • N7 Fury • N7 Paladin • N7 Shadow • N7 Slayer • Networked AI • Phoenix Training • Quarian Defender • Salarian Operative • T5-V Battlesuit • Turian Veteran • Unshackled AI • Vengeful Ancient • Volus Training • Vorcha Resilience
+
+
+Squadmate Class
+
+Alliance Admiral • Alliance Officer • Arms Master • Asari Justicar • Biotic Boss • Cerberus Officer • Cerberus Operative • Krogan Battlemaster • Krogan Berserker • Master Thief • Mercenary Veteran • Pure Biotic • Quarian Machinist • Subject Zero • Turian Huntress • Turian Rebel • Unshackled AI • Vengeful Ancient
+
+
+
+

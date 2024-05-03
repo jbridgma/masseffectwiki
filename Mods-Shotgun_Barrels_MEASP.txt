@@ -1,0 +1,141 @@
+
+
+
+[Edit this tab]
+
+Basic - Shotgun Barrel: Enhances a weapon's barrel, creating greater gunfire velocity and impact.
+Enhanced - Shotgun Long Barrel: Substantially increases damage, but at the cost of accuracy.
+Enhanced - Shotgun Short Barrel: Substantially increases damage, but at the cost of increased recoil.
+Note:  Shotgun stability is not reflected in the displayed weapon stats.
+
+
+
+Name
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+Effects
+
+
+Shotgun Barrel
+
++9%
+
++11%
+
++12%
+
++12%
+
++13%
+
++14%
+
++15%
+
++15%
+
++16%
+
++17%
+
+Shotgun Damage
+
+
+Shotgun Long Barrel
+
+N/A
+
++11%-10%
+
++12%-11%
+
++13%-12%
+
++14%-13%
+
++16%-14%
+
++17%-15%
+
++18%-17%
+
++19%-18%
+
++20%-19%
+
+Shotgun DamageShotgun Accuracy
+
+
+Shotgun Short Barrel
+
+N/A
+
++11%-15%
+
++12%-18%
+
++13%-21%
+
++14%-24%
+
++16%-26%
+
++17%-29%
+
++18%-32%
+
++19%-35%
+
++20%-38%
+
+Shotgun DamageShotgun Stability
+
+
+Level Unlocked
+
+1
+
+6
+
+11
+
+21
+
+31
+
+41
+
+51
+
+61
+
+71
+
+81
+
+-
+
+Equipping a Shotgun Barrel Mod changes the shape of the weapon by modifying the barrel depending upon the specific weapon.
+
+
+
+

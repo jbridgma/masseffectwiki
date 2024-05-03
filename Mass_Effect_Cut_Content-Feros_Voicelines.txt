@@ -1,0 +1,611 @@
+
+
+
+
+
+
+
+
+The following information is drawn from cut content and is not to be considered canon in any way.
+
+The following cut dialogues and voicelines are related to the mission on Feros and the various side-quests associated with it. They are presented in an approximate chronological order.
+Annotation: "|" means the line would play according to squadmates present.
+Tabber annotations:
+
+(Par): Paragon answer, top-right of the dialogue wheel
+(Neu): Neutral answer, center-right of the dialogue wheel
+(Ren): Renegade answer, bottom-right of the dialogue wheel
+(Inv): Investigate answer, center-left of the dialogue wheel
+(P Inv): Contextual Paragon or Neutral answer to an Investigate, top-left of the dialogue wheel
+(R Inv): Contextual Renegade or Neutral answer to an Investigate, bottom-left of the dialogue wheel
+(Cha): Charm answer, top-left of the dialogue wheel
+(Int): Intimidate answer, bottom-left of the dialogue wheel
+Contents
+
+1 nor20_feros_approach
+2 war00_joker (1)
+3 war20_ambientbunker03 / war20_ambientcommand02 / war20_ambientmain01 / war20_ambientmain03 / war20_ambientsniper01 (1)
+4 war20_trig_gethrcoming_05
+5 war20_ambientbunker03 / war20_ambientcommand02 / war20_ambientmain01 / war20_ambientmain03 / war20_ambientsniper01 (2)
+6 war20_trig_command_post
+7 war20_trigger (1)
+8 war20_trig_skyway_warning
+9 war40_radiochatter
+10 war20_trigger (2)
+11 war50_claw01
+12 war50_trigger
+13 war40_heajeong
+14 war40_juliannabaynham
+15 war20_trigger (3)
+16 war00_joker (2)
+17 war30_trig_01_entry
+18 war30_thorianasari
+19 war30_trig_01_entry
+20 war40_juliannabaynham
+21 war20_ambientbunker03 / war20_ambientcommand02 / war20_ambientmain01 / war20_ambientmain03 / war20_ambientsniper01 (3)
+
+
+nor20_feros_approach[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\NOR20\nor20_feros_approach_D.upk
+Character present:
+
+Jeff "Joker" Moreau
+
+Joker: Trying to find a spot to land, Commander. Not a lot of options.
+
+Joker: Incoming! Going to ground!
+
+war00_joker (1)[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\war20\war00_joker_D.upk
+Characters present:
+
+Jeff "Joker" Moreau
+
+Joker: Incoming! Going to ground. You'll have to find a way to scout it out from down there.
+
+war20_ambientbunker03 / war20_ambientcommand02 / war20_ambientmain01 / war20_ambientmain03 / war20_ambientsniper01 (1)[]
+Note:  while these voicelines never play, they should be technically functional in the original release of Mass Effect. The transcription below is accurate. To differentiate the different colonists, their voice actor is mentioned.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\war20\war20_ambientbunker03_D.upk, war20_ambientcommand02_D.upk, war20_ambientmain01_D.upk, war20_ambientmain03_D.upk, war20_ambientsniper01.upk
+Characters present:
+
+Unnamed Feros colonist 1
+Unnamed Feros colonist 2
+Unnamed Feros colonist 3
+Unnamed Feros colonist 4
+Unnamed Feros colonist 5
+
+(Colonist 1)
+
+Colonist: The geth will be here soon. I hope we can hold.
+
+Colonist: Pretty soon there won't be a colony left to save.
+
+Colonist: We've got to protect the colony.
+
+Colonist: Those geth just keep coming.
+
+
+(Colonist 2)
+
+Colonist: The geth have destroyed everything.
+
+Colonist: This is it. One more attack and we're done for.
+
+Colonist: We're doing the best we can, but we're not equipped for a war.
+
+Colonist: We're running out of options.
+
+
+(Colonist 3)
+
+Colonist: We must stand firm or they'll overtake us.
+
+Colonist: The geth are relentless.
+
+Colonist: I trust Fai Dan with my life. I just hope it doesn't come to that.
+
+Colonist: This is brutal. The geth must be stopped.
+
+
+(Colonist 4)
+
+Colonist: The geth must be stopped. Nothing else matters.
+
+Colonist: We can't hold out forever.
+
+Colonist: They'll overrun us soon enough.
+
+Colonist: The geth will destroy us all.
+
+
+(Colonist 5)
+
+Colonist: You just know they'll be back soon.
+
+Colonist: We can't rest until that command post is destroyed.
+
+Colonist: I don't think I can take much more of this.
+
+Colonist: They're out there, just waiting to attack.
+
+war20_trig_gethrcoming_05[]
+Note:  while this voiceline never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\war20\war20_trig_gethrcoming_05_D.upk
+Character present:
+
+Unnamed Feros colonist
+
+Colonist: You did it. They're gone. They're finally g--
+
+war20_ambientbunker03 / war20_ambientcommand02 / war20_ambientmain01 / war20_ambientmain03 / war20_ambientsniper01 (2)[]
+Note:  while these voicelines never play, they should be technically functional in the original release of Mass Effect. The transcription below is accurate. To differentiate the different colonists, their voice actor is mentioned.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\war20\war20_ambientbunker03_D.upk, war20_ambientcommand02_D.upk, war20_ambientmain01_D.upk, war20_ambientmain03_D.upk, war20_ambientsniper01.upk
+Characters present:
+
+Unnamed Feros colonist 1
+Unnamed Feros colonist 2
+Unnamed Feros colonist 3
+Unnamed Feros colonist 4
+Unnamed Feros colonist 5
+
+(Colonist 1)
+
+Colonist: We came here to build something, but the geth are destroying everything.
+
+Colonist: I haven't slept in days.
+
+Colonist: With the command post destroyed, we can rest. But only for a while.
+
+Colonist: Those geth will be back.
+
+
+(Colonist 2)
+
+Colonist: Maybe I can get some sleep now.
+
+Colonist: I didn't realize just how tired I was until the fighting stopped.
+
+Colonist: The geth will be back. They always come back.
+
+Colonist: We're alive. Barely. But we're alive.
+
+
+(Colonist 3)
+
+Water hasn't been restored Water has been restored  Colonist: Macha doesn't have the water running yet. And Davin says our food supplies won't last another day. Even if the attacks are repelled, we'll simply fade away.Colonist: Macha does what she can, but we've been without water for days.Colonist: Those geth don't even have to attack if we die of thirst.Colonist: This may become a war of attrition if we don't get some water flowing.Colonist: Even if the geth stop attacking, we'll still be in trouble. Colonist: We have a chance if the geth can be defeated.Colonist: We have water. I hope we live to make use of it.Colonist: The geth must be stopped or our colony will die.Colonist: Water ensures we will never be without.
+
+(Colonist 4)
+
+Colonist: You aren't one of us. You should go to Fai Dan.
+
+Colonist: The geth have ruined our colony. They must be eradicated.
+
+Colonist: This colony needs your help. Speak to Fai Dan.
+
+Colonist: I can't tell you anything. Fai Dan is the one you should see.
+
+
+(Colonist 5)
+
+Colonist: Finally. We can relax a little.
+
+Colonist: I don't have a lot of training. None of the militia survived the first assault.
+
+Colonist: I used to take walks up here before the attacks.
+
+Colonist: It's quiet out there, but it's been quiet before.
+
+war20_trig_command_post[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war20_trig_command_post_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR20_07_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(Arriving near the transmitter)
+| Ashley Williams: The geth have set up a transmitter of some sort.
+| Liara T'Soni: Why do you suppose the geth set up a transmitter here?
+| Urdnot Wrex: This transmitter belongs to the geth.
+| Kaidan Alenko: I wonder what the geth are using this transmitter for?
+| Garrus Vakarian: What are the geth doing with that transmitter?
+
+(Dispatching first wave of enemies)
+| Tali'Zorah: The transmitter is helping them communicate. We must destroy it.
+| Garrus Vakarian: We've got to destroy that transmitter before they send reinforcements.
+| Kaidan Alenko: As long as that transmitter is working, they're going to keep coming!
+| Urdnot Wrex: Destroy that thing or they'll keep coming.
+| Liara T'Soni: We must destroy the transmitter if we hope to stop the geth.
+
+(Dispatching second wave of enemies)
+| Ashley Williams: Commander! We've got to destroy that transmitter!
+| Liara T'Soni: We must destroy the transmitter or they will overwhelm us.
+| Urdnot Wrex: Blow that damn thing up or we're all dead!
+| Kaidan Alenko: We've got to destroy that transmitter, Commander!
+| Garrus Vakarian: We've got to destroy that transmitter before they overwhelm us!
+
+(Having destroyed the transmitter)
+| Tali'Zorah: That's it. I think we've managed to stop them.
+| Garrus Vakarian: That was close. I didn't think they'd ever stop coming.
+| Kaidan Alenko: Damn. I thought they were just going to keep coming.
+| Urdnot Wrex: 'Bout time. Thought they'd never stop.
+| Liara T'Soni: At last. I thought they would never stop coming.
+
+war20_trigger (1)[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war20_trigger_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR40_11_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(Associated with conditional CH2_Feros.Henchmen_Interjections.WAR20_Greta_Brought_To_Escort_Destination)
+| Kaidan Alenko: Good view of where we need to go.
+| Ashley Williams: Nice view of where we need to go.
+| Liara T'Soni: A good vantage point showing out [sic] destination.
+| Garrus Vakarian: An optimal view of where we need to go.
+| Tali'Zorah: A good view of where we need to go.
+
+(Associated with conditional CH2_Feros.Henchmen_Interjections.WAR20_First_Enter_Verran_Tunnels)
+| Urdnot Wrex: Careful. Smells like a slaughterhouse. Organic preds, not geth.
+| Kaidan Alenko: Ugh, what's that smell? Geth don't stink like that.
+| Ashley Williams: Holy... it reeks down here.
+| Liara T'Soni: These tunnels have an odor much more... visceral than geth.
+| Garrus Vakarian: I smell... carrion. And lots of it.
+
+(Associated with conditional CH2_Feros.Henchmen_Interjections.WAR20_Mid_Way_Through_Verran_Tunnels)
+| Kaidan Alenko: The local predators probably ignored the geth. Can't eat metal.
+| Ashley Williams: I bet these things ignored the geth. Can't eat metal.
+| Liara T'Soni: The varren probably did not recognize the geth as food. We, on the other hand, appear most appetizing.
+| Garrus Vakarian: Xenogenic field manuals warn against triggering a food response in local predators. It appears we don't have a choice.
+| Tali'Zorah: The geth ignored these beasts. Their only targets were the colony survivors.
+
+war20_trig_skyway_warning[]
+Note:  these comments are the retranscription of English audio files.
+File sources: Mass Effect Legendary Edition\Game\ME1\BioGame\Content\Packages\ISACT\war20_trig_skyway_warning.isb
+Characters optionally present:
+
+Kaidan Alenko
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+| Ashley Williams: I don't think it's a good idea to head out here on foot.
+| Garrus Vakarian: I'm not so sure going on foot is the best idea.
+| Urdnot Wrex: We shouldn't head out on foot.
+| Tali'Zorah: Traveling on foot seems unwise.
+| Kaidan Alenko: You think heading out on foot is a good idea?
+
+war40_radiochatter[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war40_radiochatter_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR40_05_DSG_LOC_INT.pcc
+Character always present:
+
+Juliana Baynham
+Characters optionally present:
+
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+Juliana Baynham: They're coming right for us. Damn it! Is this comm unshielded? Son of a b--
+| Liara T'Soni: We seem to have alarmed them.
+| Tali'Zorah: We seem to have caused some concern.
+| Garrus Vakarian: That got their attention.
+| Ashley Williams: Sounds like that got their attention.
+| Urdnot Wrex: Well, we won't be surprising them.
+
+war20_trigger (2)[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war20_trigger_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR40_11_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: Fai Dan would probably like to know there are other survivors.
+| Ashley Williams: I suppose we should tell Fai Dan about the others.
+| Liara T'Soni: Should we alert Fai Dan to the other survivors? He is the acting leader here.
+| Garrus Vakarian: Fai Dan should be told of the other survivors. He is acting leader, after all.
+| Tali'Zorah: Fai Dan will be interested in the other survivors. As leader, I would be.
+
+war50_claw01[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war50_claw01_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR50_07_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Urdnot Wrex
+Tali'Zorah nar Rayya
+
+(Arriving in the containment lab)
+| Tali'Zorah: This is interesting, Shepard. A containment lab of some kind.
+| Kaidan Alenko: What do you make of this, Commander? Looks like a containment lab.
+| Ashley Williams: What is this, Commander? A containment lab?
+| Liara T'Soni: They appear to have grappled through some sort of containment lab.
+| Garrus Vakarian: Seems like a containment lab of sorts, Commander.
+|| Kaidan Alenko: We find a way to break even one claw and that ship is out of here.
+|| Ashley Williams: Whatever. We just need to find a way to break even one claw and that ship is out of here.
+|| Liara T'Soni: It is an asset we lacked at the other claws. Dislodge even one claw and that ship will fall.
+|| Garrus Vakarian: It may be helpful. If we can dislodge even one claw the ship may fall.
+|| Urdnot Wrex: It's no armory, but tear up even one claw and that ship is gone.
+
+(Examining the device)
+| Tali'Zorah: Not much force across the whole system. Is there some way to isolate it on a single door?
+| Kaidan Alenko: Pretty weak across the whole system. Any way to isolate it on a single door?
+| Ashley Williams: Weak as hell across the whole system. Can we isolate it on a single door?
+| Liara T'Soni: Force is dissipated across the whole system. Perhaps it can be concentrated?
+| Garrus Vakarian: It seems that force is dissipated across the system. Perhaps there is a way to isolate it?
+
+war50_trigger[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war50_trigger_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR40_11_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: Lizbeth must have run when the power dropped. Let's follow her lead and find the exit.
+| Ashley Williams: Lizbeth must have run when the power dropped. Finding an exit sounds good.
+| Liara T'Soni: Young Lizbeth must have run when the power fell. We should follow her lead and find an exit.
+| Garrus Vakarian: Lizbeth must have run for an exit when the power dropped.
+| Tali'Zorah: Lizbeth probably ran for the exit when the power fell and the fields dropped.
+
+war40_heajeong[]
+Note:  the option "Just pay them off", marked as an "Intimidate" persuasion check, is more or less technically functional. However, since the game can only display one "Intimidate" option at a time, it is never accessible in-game since the other one, "I'll kill you first", will always be displayed prioritarily. Making it accessible again reveals that this option functions properly for the rest of the game, and even transfers correctly to Mass Effect 2 with the appropriate outcome during Illium: Medical Scans. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war40_heajeong_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR40_06_DSG_LOC_INT.pcc
+Characters present:
+
+Elizabeth Baynham
+Juliana Baynham
+Ethan Jeong
+Commander Shepard
+
+(Only the second part of the dialogue is relevantly displayed here)
+[...]
+Elizabeth Baynham: It's a telepathic life-form living under Zhu's Hope. It's taking control of the colonists there. ExoGeni knew all along.
+Juliana Baynham: You won't get away with this, Jeong.
+Ethan Jeong: So you keep saying. But nobody's going to miss a few colonists.
+
+(Par) I'm ending this now! (Neu) I can't let you do this. (Ren) They won't miss you, either. (Cha) What about the big picture? (Int) Just pay them off.  Shepard: I won't let you hurt these people any more. Drop your weapon or be prepared to use it!Ethan Jeong: If that's the way it has to be, then come on!(End of conversation) Shepard: You've gone way too far. This ends now.Ethan Jeong: If that's the way it has to be, then come on!(End of conversation) Shepard: You've gone way too far. This ends now.Ethan Jeong: If that's the way it has to be, then come on!(End of conversation) Shepard: Can't you see the inherent potential in this colony? Think of the promotional opportunities!Ethan Jeong: Opportunities? What the hell are you talking about?
+(Par) Feros will be a symbol. (Neu) Movie rights and tourism! (Ren) It's a gimmick.  Shepard: They recovered from an alien attack on a frontier world. Add that to your company profile.Ethan Jeong: Well, yeah. No one's ever gone broke playing the "champion of humanity" card. Shepard: Pitch it as "Humanity against all odds!" You could even sell tickets to wealthy adventurers.Ethan Jeong: Nice! I guess it could be left intentionally undeveloped to capitalize on its "rough" appeal. Right? Shepard: Pitch it as "Humanity against all odds!" You could even sell tickets to wealthy adventurers.Ethan Jeong: Nice! I guess it could be left intentionally undeveloped to capitalize on its "rough" appeal. Right?
+Juliana Baynham: Sadly, you'd probably make a killing. But if it will let us get back to our lives, I'm for it.Ethan Jeong: It just might work. Wait, no, but the infected colonists will throw a bit of a wrench in that plan. No, no. They need to disappear.Juliana Baynham: You can't just kill the colonists. It's not their fault.Elizabeth Baynham: If you kill only the Thorian, it might be enough to stop the infection. Maybe.
+
+(Par) Sounds logical. (Neu) They'll try to stop me. (Ren) Can't take that chance.  Shepard: It's worth a try, but I don't know if I can avoid harming the colonists. Shepard: Good plan. Except that the colonists stand between me and the Thorian. Shepard: Anything hostile will be eliminated.
+Elizabeth Baynham: There has to be another way.Juliana Baynham: Maybe there is. Come and talk to me before you leave, Commander.Ethan Jeong: Just make sure there's no evidence when you're done.(End of conversation) Shepard: Pay them. Give them passage off this world and be done with it.Ethan Jeong: But if word gets out about the Thorian.... [sic] How do I know they'll stay quiet?
+(Par) Think about it. (Neu) They won't talk. (Ren) Use your head.  Shepard: They lose even more if they talk. Besides, there's no real crime to report if you let them go. Shepard: If they talk, they lose everything for no reason at all. They'll stay quiet. Shepard: Make the offer sweet enough and they'll take it. And they won't risk losing it all just to talk.
+Elizabeth Baynham: I won't shut up! I'll talk about it to anyone who will listen!Ethan Jeong: Then you'd be the first one to go to prison. Your signature's on half the Thorian reports.Elizabeth Baynham: But-- But it's not fair. Not after everything.
+
+(Par) It could be worse. (Neu) I'm done here. (Ren) You're naïve.  Shepard: This isn't so bad. At least you have your life. You can start over anywhere.Elizabeth Baynham: I guess that's all that matters now. Shepard: Let's get this over with.Elizabeth Baynham: Take the money and run. It seems like that's all anyone cares about. Shepard: Life isn't fair, Lizbeth. It's about time you realized that.Elizabeth Baynham: Take the money and run. It seems like that's all anyone cares about.
+Ethan Jeong: For this to work, there can't be any evidence. The infected colonists need to disappear.Juliana Baynham: You can't just kill the colonists. It's not their fault.Elizabeth Baynham: If you kill only the Thorian, it might be enough to stop the infection. Maybe.
+
+(Par) Sounds logical. (Neu) They'll try to stop me. (Ren) Can't take that chance.  Shepard: It's worth a try, but I don't know if I can avoid harming the colonists. Shepard: Good plan. Except that the colonists stand between me and the Thorian. Shepard: Anything hostile will be eliminated.
+Elizabeth Baynham: There has to be another way.Juliana Baynham: Maybe there is. Come and talk to me before you leave, Commander.Ethan Jeong: Just make sure there's no evidence when you're done.(End of conversation)
+war40_juliannabaynham[]
+Note:  following the exchange with Ethan Jeong, the conversation with Juliana Baynham starts differently if the inaccessible "Just pay them off" Intimidate option was taken with him. It is technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war40_juliannabaynham_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR40_06_DSG_LOC_INT.pcc
+Characters present:
+
+Elizabeth Baynham
+Juliana Baynham
+Commander Shepard
+
+(Only the first part of the dialogue is relevantly displayed here)
+Juliana Baynham: I know you made a deal with Jeong, but there's a better way.
+
+(Par) I hope so. (Neu) Go on. (Ren) Explain quickly.  Shepard: What did you have in mind? Shepard: I'm listening. Shepard: You've got one minute.
+Juliana Baynham: I think you could safely use a nerve agent to neutralize the colonists.
+Elizabeth Baynham: Like a gas grenade!
+[...]
+
+war20_trigger (3)[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war20_trigger_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR40_11_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Kaidan Alenko: They're definitely bunkered around the Borealis. We've gotta move one of its cargo blocks once we're topside.
+| Ashley Williams: Yeah, they're bunkered around the Borealis up there. We've got to move one of its cargo blocks once we're topside.
+| Liara T'Soni: The colonists are clustered around the Borealis. It may be difficult to move one of its cargo blocks.
+| Garrus Vakarian: They are definitely bunkered around the Borealis. We've got to move one of its cargo blocks once we're topside.
+| Tali'Zorah: They are bunkered around the Borealis. We'll have to move one of its cargo blocks once we're topside.
+
+war00_joker (2)[]
+Note:  while this dialogue never plays, it should be technically functional in the original release of Mass Effect. The transcription below is accurate.
+File source: Mass Effect\BioGame\CookedPC\Packages\Dialog\war20\war00_joker_D.upk
+Characters present:
+
+Jeff "Joker" Moreau
+
+Joker: I've got you incoming, Commander. FYI, so do the locals. And they are pissed! Out.
+
+war30_trig_01_entry[]
+Note:  while this dialogue never plays, it should be technically functional. The conditional associated with it, "CH2_Feros.The_Company_Man.Combined_Bad", implies this would have played if a negative outcome awaited the colony. However, since it was made into a lower priority than the regular dialogue (that goes along the lines "We just need to find this thing and...") which itself has no conditions, it never plays in-game. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war30_trig_01_entry_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR30_02F_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: That is the cutting for the assayer. Now we just have to.... [sic] Keelah, what is that?
+| Kaidan Alenko: Okay, we have the cutting for the assayer. Now we just have to... we just have to.... [sic] What... is that?
+| Ashley Williams: Okay, that's the cutting for the assayer. Now we just have to... we just have to.... [sic] What the hell is that?
+| Liara T'Soni: I have the cutting for the assayer. All that remains is... is to... oh my. That is... disturbing.
+| Garrus Vakarian: I have the cutting the ExoGeni assayer wanted. Now we just have to... we just have to.... [sic] This was not covered by my training manuals.
+
+(Par) That's a plant? (Neu) That's... large. (Ren) Well, that's just great.  Shepard: That does not look like any plant I've ever seen. This may be... problematic. Shepard: We are going to need bigger guns. Shepard: Nothing's ever simple, is it?
+(End of conversation)
+
+war30_thorianasari[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war30_thorianasari_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR30_02I_DSG_LOC_INT.pcc
+Character present:
+
+Copy of Shiala
+
+Copy of Shiala: This flesh is reborn! You will be destroyed!
+
+Copy of Shiala: The Old Growth is older than you can fathom!
+
+Copy of Shiala: The Long Cycle must continue!
+
+Copy of Shiala: You are nothing! Nutrients to feed upon!
+
+war30_trig_01_entry[]
+Note:  while this dialogue never plays, it should be technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war30_trig_01_entry_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR30_02F_DSG_LOC_INT.pcc
+Characters optionally present:
+
+Kaidan Alenko
+Liara T'Soni
+Garrus Vakarian
+Ashley Williams
+Tali'Zorah nar Rayya
+
+| Tali'Zorah: We must find a weak spot on the creature before more copies of the asari show up!
+| Kaidan Alenko: We need to find a weak spot on this thing before more of those copies show up.
+| Ashley Williams: I've had it with these plant-people, Commander. Find me a weak spot on this thing.
+| Liara T'Soni: We need to find a weak spot on this thing before more of those copies show up.
+| Garrus Vakarian: We need to find a weak spot on this thing before more of those copies show up.
+
+(Associated with conditional CH2_Feros.Frontier_Lost.Henchmen_Lines.Player_shoots_Thorian)
+| Liara T'Soni: It appears the Thorian has gained my compatriot's biotic abilities in addition to her voice.
+| Tali'Zorah: It seems it has learned more than speech from the commando. Biotics too.
+| Kaidan Alenko: Looks like it learned a few biotic tricks from that commando.
+| Ashley Williams: Looks like it learned a few biotic tricks from that commando it copied.
+| Garrus Vakarian: It seems to have copied a few of the commando's biotic abilities.
+
+war40_juliannabaynham[]
+Note:  if the inaccessible "Just pay them off" Intimidate option was taken with Ethan Jeong, the following voicelines would have played when talking to Juliana after the Thorian is defeated. It is technically functional. The transcription below is accurate.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\WAR20\war40_juliannabaynham_D.upk, Mass Effect Legendary Edition\Game\ME1\BioGame\CookedPCConsole\BIOA_WAR40_06_DSG_LOC_INT.pcc
+Character present:
+
+Juliana Baynham
+
+Juliana Baynham: Thank you. I appreciate that you went out of your way to at least secure us some kind of future. It's too bad, but I guess it couldn't be helped. Sometimes you have to just walk away.
+
+war20_ambientbunker03 / war20_ambientcommand02 / war20_ambientmain01 / war20_ambientmain03 / war20_ambientsniper01 (3)[]
+Note:  while these voicelines never play, they should be technically functional in the original release of Mass Effect. The transcription below is accurate. To differentiate the different colonists, their voice actor is mentioned.
+File sources: Mass Effect\BioGame\CookedPC\Packages\Dialog\war20\war20_ambientbunker03_D.upk, war20_ambientcommand02_D.upk, war20_ambientmain01_D.upk, war20_ambientmain03_D.upk, war20_ambientsniper01.upk
+Characters present:
+
+Unnamed Feros colonist 1
+Unnamed Feros colonist 2
+Unnamed Feros colonist 3
+Unnamed Feros colonist 4
+
+(If Zhu's Hope is bound to survive)
+(Colonist 1)
+
+Colonist: Feros can survive. Especially now that we're free again.
+
+Colonist: That plant took my mind, but you made sure it will never happen again. Nothing will stop this colony.
+
+Colonist: Feros is ours again. We'll make sure it stays that way.
+
+Colonist: We were forced to serve that... that plant, but now we have a chance to make this world our home.
+
+
+(Colonist 2)
+
+Colonist: Feros is ours again. It will be good to get back to business.
+
+Colonist: I can think for myself again! It's like getting a second chance.
+
+Colonist: We'll show the frontier what we are made of.
+
+(Sole Survivor) (War Hero) (Ruthless)  Colonist: You're good at this survival stuff. Guess that's what made you famous. Colonist: Who'd have thought we'd get a war hero on our side? Colonist: I'm surprised you saved this place. Not exactly what you're known for.
+
+(Colonist 3)
+
+Colonist: It'll be good to get back to normal problems.
+
+Colonist: You don't live on the frontier if you can't handle some bruises, I guess.
+
+(Water hasn't been restored) (Water has been restored)  Colonist: If Macha can restore the water, the colony may actually make a go of it.Colonist: Thirst is the biggest threat against us now. Colonist: We might have a chance now, thanks to you.Colonist: I hope the rough times are over.
+
+(Colonist 4)
+
+Colonist: We'll show the galaxy we can't be beaten so easily.
+
+Colonist: We have a chance to make something here after all, no thanks to Colonial Affairs and ExoGeni.
+
+Colonist: It'll take some time, but we'll make this a home.
+
+(Sole Survivor) (War Hero) (Ruthless)  Colonist: It takes a survivor to show us how it's done, I guess. Thanks, Shepard. Colonist: I thought you hero types were all talk. Glad I was wrong. Colonist: Glad you found a way to save this place. I know you aren't shy about tough decisions.
+(If Zhu's Hope is going to be abandoned)
+(Colonist 1)
+
+Colonist: I'm sorry I ever came here. We need to rethink pushing colonies on the frontier.
+
+Colonist: Earth needs to step back from colonies like this if they won't back us up with heavy weapons.
+
+Colonist: I'm getting the hell off this rock.
+
+(Sole Survivor) (War Hero) (Ruthless)  Colonist: I guess we fared better than some places. Nobody wants another Akuze. Colonist: This isn't the Blitz. You can't always save the day. Colonist: I guess we fared better than some places. Nobody wants another Torfan.
+
+(Colonist 2)
+
+Colonist: I'm through with Feros. There's no reason to stay here.
+
+Colonist: Thanks for freeing us. We're getting the hell out while we can.
+
+Colonist: I'm going back to Earth on the next available ship.
+
+Colonist: If I ever come back, it'll be behind a mass driver the size of Titan.
+
+
+(Colonist 3)
+
+Colonist: No point in staying here now. Everything was against us from the start.
+
+Colonist: I'll be glad to get out of here.
+
+Colonist: What a waste of our efforts.
+
+Colonist: Thanks for saving us, even if the colony is going under.
+
+
+(Colonist 4)
+
+Colonist: I've had it with this place. I'm counting myself lucky to get out with my life.
+
+Colonist: Only a fool would stay here after what we have been through.
+
+Colonist: Building a colony here was foolish from the start.
+
+Colonist: No need to tell me twice. Feros is dead, and I'm not staying for the funeral.
+
+
+
+

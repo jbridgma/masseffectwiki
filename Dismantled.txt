@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+This article is about the mission in Mass Effect: Andromeda. For the process of taking apart items in Mass Effect: Andromeda, see Deconstruct.
+
+Scavengers are attempting to remove cores from a Remnant site. According to Peebee, this could make the cores unstable, which will attract the Scourge. Making the cores inert will prevent this.
+Contents
+
+1 Acquisition
+2 Walkthrough
+
+2.1 Investigate the Remnant site
+2.2 Investigate Remnant sites
+
+2.2.1 Make the Remnant cores inert
+
+
+
+
+3 Rewards
+
+
+Acquisition[]
+Prerequisite: Elaaden: A New World
+
+Starts automatically when Pathfinder Ryder gets close to any one of the three Remnant locations on Elaaden.
+
+Walkthrough[]
+Investigate the Remnant site[]
+There are three specific sites that you must visit for this mission. Each location will be Remnant Ruins with columns covered in Scourge and guarded by Outlaws.
+
+Directly north of The Paradise.
+Directly south of the Forward Station in the Gehenna Valley.
+Paradise Sands - A little bit to the east of the Forward Station.
+Approaching any of the three locations adds the first objective, Investigate the Remnant site. An additional sub-mission (Remnant site) and objective (Make the Remnant cores inert) will be added on closer approach to the Remnant ruin.
+Each site has multiple lootable containers.
+
+Investigate Remnant sites[]
+After dealing with the first site, head to either of the other two navpoints. When you get close to another location another sub-mission and objective will be added.
+
+Make the Remnant cores inert[]
+Each Remnant core is marked with a sub-mission navpoint . Interact with each core to make them inert. As Ryder begins to deactivate a core, Observers will focus attack on the Pathfinder. Defeat them. Outlaws and Remnant will fight each other which can make Ryder's task easier.
+Once the second core is made inert, the next objective is added. Two navpointswill be added to the map to locations that Ryder hasn't visited yet.
+You get +270 XP when the first set of cores is deactivated. Another +270 XP is received when the second set of cores is deactivated.
+The mission ends when the third set of cores is deactivated.
+
+Rewards[]
++1600 XP
++73 AVP 
++5% Elaaden viability
+
+
+

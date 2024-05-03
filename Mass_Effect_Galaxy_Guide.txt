@@ -1,0 +1,74 @@
+
+
+
+Contents
+
+1 Advancement
+
+1.1 Progression
+1.2 Combat Zones
+
+
+2 Walkthrough
+
+2.1 Introduction
+2.2 The Investigation
+2.3 Conclusion
+
+
+3 See Also
+
+
+
+This page provides a comprehensive walkthrough for the Missions in Mass Effect Galaxy.
+
+See also: Missions, Mass Effect Guide, Mass Effect 2 Guide, Mass Effect 3 Guide, Storyline II
+
+
+
+
+
+
+
+“Sorry pal. I can't let you in here.” — Spoilers for Mass Effect Galaxy follow.
+
+
+
+
+Advancement[]
+Progression[]
+The game follows a linear progression during the introduction and conclusion. However, in the main plot, players can choose one primary mission over another. A mission must be completed before progressing to the next; after each major mission, players can select a new destination using the galaxy map.
+
+Combat Zones[]
+ Once travel is complete, players reach their destination. After a brief cinematic or dialogue, combat ensues. Each mission is divided into a series of combat zones. Once all enemies in a segment are defeated, the way to the next combat zone is indicated by a green reticule, or the next cinematic or dialogue is triggered.
+The game automatically saves after each combat zone and after each dialogue or cinematic. Starting a new game will erase your current progress.
+
+Walkthrough[]
+Introduction[]
+The following missions represent the linear plot progression before any choices can be made in the plot. They have no time limit, but each mission must be completed before the next becomes available. 
+These missions showcase the beginning of Jacob Taylor's story, a former Alliance soldier on a vacation ship attacked by batarian terrorists.
+
+Save the Arcturian Jade (6 Combat Zones) - Defend the Arcturian Jade against batarian terrorists.
+Into the Abyss (5 Combat Zones) - Meet an information broker in a bar on Cartagena Station.
+The Investigation[]
+The following missions signify the plot progression and choices available for your investigation. They have no time limit, and all three missions must be completed before the conclusion becomes available. 
+These missions unfold Jacob Taylor's investigation into the terrorist threat. Miranda Lawson, a Cerberus operative, provides him with three sources to start the investigation. Players can choose on the Galaxy Map where they want to start. Each mission upgrades one of your three abilities, influencing your choices.
+
+Scum and Villainy (8 Combat Zones) - Investigate a turian arms dealer on the planet Tortuga.
+Note:  Completing this mission will upgrade your heavy weapon attack.
+A Formula for Hope (6 Combat Zones) - Investigate rumors of scientist abductions on the planet Ahn'Kedar.
+Note:  Completing this mission will upgrade your shield overload.
+A Batarian Army (6 Combat Zones) - Investigate the batarian army on Bekke.
+Note:  Completing this mission will upgrade your biotic stasis.
+Conclusion[]
+When all three investigation missions are completed, the final mission is launched. The following mission represents the resolution of Jacob's investigation and the conclusion of the game.
+
+Protect the Council (9 Combat Zones) - Protect the Council against the terrorist threat.
+See Also[]
+Missions
+Storyline II
+
+
+
+
+

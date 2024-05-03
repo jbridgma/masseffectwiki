@@ -1,0 +1,44 @@
+
+
+
+Macha Doyle has asked you to find and activate water valves in the tunnels beneath Zhu's Hope to restore water to the colony.
+Alternative journal entry:
+You've activated a water valve in the tunnels beneath Zhu's Hope. There are likely others that need your attention as well.
+
+Contents
+
+1 Acquisition
+2 Walkthrough
+3 Enemies
+4 See Also
+
+
+Acquisition[]
+Prerequisite: Feros: Geth Attack
+
+Speak to Macha near the entrance to the Zhu's Hope colony. This can be done at any time after speaking with Fai Dan for the first time, and subsequently eliminating the geth that interrupt your conversation. Alternatively, this assignment can be acquired by reactivating one of the water valves. If you turn all three back on first, then talking to Macha will immediately complete the assignment.
+
+Walkthrough[]
+
+Head towards the elevator to the skyway, and continue down the stairs beyond it. Consulting your map, the tunnels lead to a crossroads at the middle: ignore the crossroads, because the water valves are in the south to north corridors.
+In the corridor prior to the crossroads are two Geth Shock Troopers and a Geth Trooper. Deal with them, and inspect the corridor for two panels near the entrance and exit stairs. They're hard to miss, as they're the only white objects that are in the tunnels. Activate them both and you've got 2/3 of the objectives accomplished.
+
+
+In the corridor after the crossroads is one of each: a Geth Trooper, a Geth Shock Trooper, a Geth Destroyer, and a Geth Sniper, usually starting in that order. The third water valve is on the pipes next to the entrance steps in their corridor. Deal with them and activate the valve, or do it the other way around.
+When all three valves have been opened, return to Macha Doyle for the reward.
+Warning: If you killed Macha during the main Feros mission you can still acquire, but not complete, this assignment.
+
+Enemies[]
+Geth Destroyer
+Geth Shock Trooper
+Geth Sniper
+Geth Trooper
+See Also[]
+The following assignments can also be completed while in the tunnels:
+
+Feros: Geth in the Tunnels
+Feros: Power Cells
+Feros: Varren Meat
+
+
+
